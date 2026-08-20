@@ -1,0 +1,76 @@
+# ---- macOS ----
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+
+# ---- Windows ----
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ---- Linux ----
+.fuse_hidden*
+.nfs*
+.Trash-*
+
+# ---- Editors / IDEs ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+.\#*
+\#*\#
+
+# ---- Spreadsheet / office lock and temp files ----
+# Excel, Numbers, and LibreOffice leave these behind while a CSV is open.
+~$*
+.~lock.*#
+*.tmp
+
+# ---- Python (for any local scripts used to generate or validate CSVs) ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- Node (for any local tooling) ----
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---- Environment / secrets ----
+.env
+.env.*
+!.env.example
+
+# ---- Local build and scratch output ----
+build/
+dist/
+out/
+tmp/
+scratch/
+*.log
+
+# ---- Backup copies of question files ----
+*.bak
+*.orig
+*.csv.bak
+*copy.csv
+*Copy.csv
+* copy.csv
