@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Complete the identity (a+b)^2=___.,a^2+2ab+b^2,70,Y,Expand the binomial product.|The two middle products are both ab.,(a+b)^2=a^2+2ab+b^2.
+2,Complete the identity (a-b)^2=___.,a^2-2ab+b^2,70,Y,The middle term is negative.|Square both a and b.,(a-b)^2=a^2-2ab+b^2.
+3,Complete the identity (a+b)(a-b)=___.,a^2-b^2,70,Y,The middle terms cancel.|This is the difference-of-squares identity.,(a+b)(a-b)=a^2-b^2.
+4,Use an identity to compute 103^2.,10609,70,Y,Write 103 as 100+3.|Use (a+b)^2.,103^2=10000+600+9=10609.
+5,Use a difference-of-squares identity to compute 48 times 52.,2496,70,Y,Write the factors as 50-2 and 50+2.|Use a^2-b^2.,48(52)=50^2-2^2=2500-4=2496.
+6,Which expression is equivalent to x^2+10x+25?,(x+5)^2,70,Y,Recognize a perfect-square trinomial.|Half of 10 is 5.,x^2+10x+25=(x+5)^2.
+7,Expand (2x+3y)^2.,4x^2+12xy+9y^2,70,Y,Use a=2x and b=3y.|The middle term is 2ab.,The expansion is 4x^2+12xy+9y^2.
+8,Simplify (x+4)^2-(x-4)^2.,16x,70,Y,Expand both squares or use a difference of squares.|The x^2 and constant terms cancel.,The difference is 16x.
+9,What value of c makes x^2+14x+c a perfect square?,49,70,Y,Take half of 14.|Square 7.,The required value is 7^2=49.
+10,Use an identity to factor 81p^4-q^2.,(9p^2-q)(9p^2+q),70,Y,Both terms are perfect squares.|Use a^2-b^2.,The factorization is (9p^2-q)(9p^2+q).

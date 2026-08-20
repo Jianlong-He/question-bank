@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,There are 3 groups of 6 sheeps. How many sheep are there in total? 6 + 6 + 6 = __,18,130,Y,"Think of adding 6 three times. You can also skip-count: 6, 12, 18.",18
+2,Fill: There are 6 in each group and 5 groups. Total = __ x __,"6, 5",140,Y,number of groups x size of group,"6, 5"
+3,Select the one that is the same as 4 groups of 5?   A) 4 + 4 + 4 + 4 + 4      B) 5 + 5 + 5 + 5       C)  5 + 5 + 5 + 5 + 5 : A B C D,B,140,Y,"""4 groups of 5"" means four 5s added together.",B
+4,"Fill: Skip count by 3s: 3, 6, 9, 12, __, 18",15,140,Y,Each number increases by 3. Add 3  to 12,15
+5,Select the one represents 8 groups of 2.    A) 8 + 2    B) 2 + 8    C) 8 x 2 : A B C,C,160,Y,"number of groups x size of group; Multiplication means equal groups. ""8 groups of 2"" means 8 times 2.",C
+6,Fill: Write the repeated addition for 6 x 4.   __ + __ + __ + __ + __ + __,"4, 4, 4, 4, 4, 4",160,Y,"6 x 4 means 6 groups of 4 or 4 groups of 6, so you add 4 six times or add 6 four times","4, 4, 4, 4, 4, 4"
+7,"Fill: Known 5 x 3 = 15, then 3 x 5 = __",15,180,Y,Multiplication can be flipped and still means the same total. This is the communtative property you will learn in the later sessions.,15
+8,Fill: 4 groups of 7 = ___,28,200,Y,"Think of 7 + 7 + 7 + 7, or 4 _ 7.; Skip counting or add 7 four times is 7,14,21,28, we found it!",28
+9,Fill: 8 groups of 9 = ___,72,230,Y,"Think of 9 + 9 + 9 + 9 + 9 + 9 + 9 + 9, or 8 x 9.; Skip counting or add 9 eight times is 9, 18, 27, 36, 45, 54, 63, 72, we found it!",72
+10,If each bag has 7 apples and there are 7 bags. How many apples in total?,49,260,Y," This is 7 bags with 7 apples each, so it is 7 x 7 or 7 + 7 + 7 + 7 + 7 + 7 +7",49

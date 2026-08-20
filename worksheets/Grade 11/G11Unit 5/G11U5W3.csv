@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Expand log base b of (xy).,log base b of x+log base b of y|log_b(x)+log_b(y),70,Y,Use the product property.|A product inside becomes a sum outside.,log base b of (xy)=log base b of x+log base b of y.
+2,Expand log base b of (x/y).,log base b of x-log base b of y|log_b(x)-log_b(y),70,Y,Use the quotient property.|A quotient inside becomes a difference outside.,log base b of (x/y)=log base b of x-log base b of y.
+3,Expand log base b of x^5.,5 log base b of x|5log_b(x),70,Y,Use the power property.|Move the exponent in front.,log base b of x^5=5 log base b of x.
+4,Condense log base 2 of x+log base 2 of y.,log base 2 of (xy)|log_2(xy),70,Y,Reverse the product property.|A sum of logs becomes a log of a product.,The condensed form is log base 2 of (xy).
+5,Condense log base 3 of x-log base 3 of y.,log base 3 of (x/y)|log_3(x/y),70,Y,Reverse the quotient property.|A difference of logs becomes a log of a quotient.,The condensed form is log base 3 of (x/y).
+6,Evaluate log base 2 of 4+log base 2 of 8.,5,70,Y,Evaluate each logarithm.|The values are 2 and 3.,The sum is 2+3=5.
+7,Evaluate log base 10 of 10000-log base 10 of 10.,3,70,Y,Evaluate each logarithm.|The values are 4 and 1.,The difference is 3.
+8,Simplify 3 log base 5 of x as one logarithm.,log base 5 of x^3|log_5(x^3),70,Y,Reverse the power property.|A coefficient becomes an exponent.,The expression condenses to log base 5 of x^3.
+9,Expand ln(x^2y/3).,2ln(x)+ln(y)-ln(3)|2 ln x+ln y-ln 3,70,Y,"Use quotient, product, and power properties.|Move the exponent 2 in front of ln(x).",The expansion is 2ln(x)+ln(y)-ln(3).
+10,Why does log base b of (xy) equal the sum of the separate logarithms?,multiplying powers adds exponents|the product of powers with the same base adds exponents,70,Y,Translate the logarithms into exponents.|Use b^m times b^n=b^(m+n).,The product rule follows because multiplying equal-base powers adds their exponents.

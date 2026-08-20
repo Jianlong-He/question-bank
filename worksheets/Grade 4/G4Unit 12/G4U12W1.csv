@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
+1,Select how many total degrees are in a full circle:100-degrees 180-degrees 360-degrees 90-degrees,360-degrees,300,N,,360-degrees,
+2,"Select. If you have an angle that cuts through exactly 1/4 (one-quarter) of a circle, how many degrees does that angle measure?:100-degrees 180-degrees 360-degrees 90-degrees",90-degrees,300,Y,Divide the full circle (360) by 4. ,90-degrees,
+3,"Select. If you have an angle that cuts through exactly 3 1/4 (three-quarters) of a circle, how many degrees does that angle measure?:240-degrees 180-degrees 270-degrees 90-degrees",270-degrees,300,Y,Three-quarters is 3 times one-quarter (90),270-degrees,
+4,Select the measure of this angle:40-degrees 30-degrees 35-degrees 90-degrees,30-degrees,300,N,,30-degrees,https://i.ibb.co/TxTG447H/G4-U12-WS1-I4.jpg
+5,Select the measure of this angle:180-degrees 130-degrees 145-degrees 140-degrees,145-degrees ,300,N,,145-degrees ,https://i.ibb.co/B2cb9Xqg/G4-U12-WS1-I5.jpg
+6,Select the measure of this angle:240-degrees 230-degrees 235-degrees 220-degrees,240-degrees ,300,N,,240-degrees ,https://i.ibb.co/xqMfCMw0/G4-U12-Ws1-I6.jpg
+7,Select.If Lizzy turns the stove dial 270 degrees to the right. What setting will the dial be on?:Warm Low Medium High,High,300,,270 degrees is 3 quarter turns.,High,https://i.ibb.co/hFW9ZzCP/G4-U12-WS1-I78910.jpg
+8,Select.If Lizzy turns the stove dial 45 degrees to the right. What setting will the dial be on?:Warm Low Medium High,Warm,300,,45 is half of 90,Warm,https://i.ibb.co/hFW9ZzCP/G4-U12-WS1-I78910.jpg
+9,Select.If Lizzy turns the stove dial 225 degrees to the right. What setting will the dial be on?:Off Warm Med-low Medium Med-high,Med-high,300,,225 is 180 + 45.,Med-high,https://i.ibb.co/hFW9ZzCP/G4-U12-WS1-I78910.jpg
+10,Select.If Lizzy turns the stove dial 360 degrees to the right. What setting will the dial be on?:Off Warm Med-low Medium Med-high,Off,300,,360 degrees is a full circle. You end up where you started,Off,https://i.ibb.co/hFW9ZzCP/G4-U12-WS1-I78910.jpg

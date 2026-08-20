@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,If n people split a 120 dollar cost equally what is each person's share?,120/n,70,Y,Divide the fixed total by the number of people.|The share varies inversely with n.,Each person's share is 120/n dollars.
+2,Two machines work at rates 1/4 and 1/6 job per hour. Find their combined rate.,5/12,70,Y,Add the rates using denominator 12.|1/4=3/12 and 1/6=2/12.,The combined rate is 5/12 job per hour.
+3,Two liters of 20% solution mix with three liters of 50% solution. What percent is the mixture?,38%|38 percent|38,70,Y,Find the amount of pure substance in each part.|Divide 0.4+1.5 by the total 5 liters.,The concentration is 1.9/5=0.38 or 38%.
+4,Solve 1/x=1/7.,7,70,Y,Cross multiply.|Both denominators must be nonzero.,x=7.
+5,Solve 1/x+1/3=1/2.,6,70,Y,Subtract 1/3 from both sides.|Then 1/x=1/6.,x=6.
+6,For equal distances traveled at speeds v1 and v2 what expression gives average speed?,2v1v2/(v1+v2),70,Y,Average speed is total distance divided by total time.|Use times d/v1 and d/v2.,The average is 2d/(d/v1+d/v2)=2v1v2/(v1+v2).
+7,If y varies inversely with x and y=8 when x=3 find the constant of variation.,24,70,Y,Inverse variation has xy=k.|Multiply the paired values.,k=3(8)=24.
+8,If a rational expression has denominator x-5 what happens to its sign when x crosses 5 and the numerator stays positive?,it changes sign|changes sign|the sign reverses,70,Y,The factor x-5 changes from negative to positive.|The positive numerator does not change sign.,The expression changes sign across x=5.
+9,Why should a rational model's domain be restricted in context?,to exclude impossible inputs|the context limits valid inputs|to keep meaningful inputs,70,Y,Algebraic formulas may accept unrealistic values.|Examples include zero people or negative time.,The domain must retain only inputs meaningful in the situation.
+10,Why must rational-equation solutions be checked in the original equation?,to reject excluded values|a denominator may become zero|denominators cannot be zero,70,Y,Clearing denominators can hide restrictions.|Substitute proposed solutions into every original denominator.,A value that makes an original denominator zero must be rejected.

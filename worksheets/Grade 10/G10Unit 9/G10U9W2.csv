@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Give the side ratio short leg:long leg:hypotenuse in a 30-60-90 triangle.,one to root three to two|1 to root 3 to 2,70,Y,The hypotenuse is twice the short leg.|The long leg is sqrt(3) times the short leg.,The ratio is 1:sqrt(3):2.
+2,A 30-60-90 triangle has short leg 5. Find the hypotenuse.,10,70,Y,The hypotenuse is twice the short leg.|Compute 2(5).,The hypotenuse is 10.
+3,A 30-60-90 triangle has short leg 5. Find the long leg.,5sqrt(3)|5 sqrt(3),70,Y,Multiply the short leg by sqrt(3).|Use the special-triangle ratio.,The long leg is 5sqrt(3).
+4,Give the side ratio leg:leg:hypotenuse in a 45-45-90 triangle.,one to one to root two|1 to 1 to root 2,70,Y,The legs are congruent.|The hypotenuse is sqrt(2) times a leg.,The ratio is 1:1:sqrt(2).
+5,A 45-45-90 triangle has leg 7. Find the hypotenuse.,7sqrt(2)|7 sqrt(2),70,Y,Multiply a leg by sqrt(2).|Use the 45-45-90 ratio.,The hypotenuse is 7sqrt(2).
+6,A 45-45-90 triangle has hypotenuse 10. Find either leg.,5sqrt(2)|5 sqrt(2),70,Y,Divide the hypotenuse by sqrt(2).|Rationalize 10/sqrt(2).,Each leg is 5sqrt(2).
+7,A regular hexagon of side length s can be divided into how many equilateral triangles?,6|six,70,Y,Draw segments from the center to all vertices.|Each central angle is 60 degrees.,It divides into 6 equilateral triangles.
+8,Find the area of a regular hexagon with side length 2.,6sqrt(3)|6 sqrt(3),70,Y,Use six equilateral triangles.|Each small triangle has area sqrt(3).,The total area is 6sqrt(3).
+9,In a 30-60-90 triangle which side is opposite the 30-degree angle?,short leg|the short leg,70,Y,The smallest angle faces the shortest side.|It is half the hypotenuse.,The short leg is opposite the 30-degree angle.
+10,In a 45-45-90 triangle what must be true of the two legs?,they are equal|equal|congruent,70,Y,Equal angles face equal sides.|Both acute angles measure 45 degrees.,The legs are congruent.

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Solve for $x$: $2x + 10 = 4x$||Find $x$: $4x = 2x + 10$||What is $x$ if $10 = 4x - 2x$?,5,20,Y,Subtract $2x$ from both sides;Divide by 2,Basic variables on both sides
+2,Fill: Solve $2(x+5) = 16$||Fill: Find $x$ for $2(x+5)=16$,3,25,Y,Divide by 2 first or distribute the 2;If you distribute: $2x + 10 = 16$;Subtract 10 then divide by 2,Distributive property
+3,Solve for $x$: $0.5x + 2 = 5$||Find $x$: $0.5x = 3$,6,25,Y,Subtract 2 from both sides to isolate the $x$ term;Divide by 0.5 (which is the same as multiplying by 2),Decimals in equations
+4,Fill: Find $x$: $4x + 2 - x = 2x + 7$,5,30,Y,Combine like terms on the left ($4x - x = 3x$);Equation becomes $3x + 2 = 2x + 7$;Subtract $2x$ from both sides,Combining like terms
+5,Solve for $x$: $6x - 2 = 3x + 10$||Find $y$: $6y = 3y + 12$,4,30,Y,Subtract $3x$ from both sides to get $3x - 2 = 10$;Add 2 to both sides to get $3x = 12$;Divide by 3,Variables on Both Sides
+6,Fill: Solve for $m$: $2(m - 3) = m + 5$,11,35,Y,Distribute the 2 first: $2m - 6 = m + 5$;Subtract $m$ from both sides;Add 6 to both sides,Variables on Both Sides Distributive
+7,Solve for $x$: $\frac{2}{3}x - 1 = 5$||Find $x$: $\frac{2x}{3} = 6$,9,35,Y,Add 1 to both sides first;Multiply by 3 to clear the denominator;Divide by 2,Fraction coefficients
+8,Fill: Solve $3(x - 1) = 2(x + 3)$,9,40,Y,Distribute both sides: $3x - 3 = 2x + 6$;Subtract $2x$ from both sides;Add 3 to both sides,Variables on both sides with parentheses
+9,Fill: The sum of 3 consecutive integers is 33. Enter them (lowest to highest):,"10,11,12",45,Y,"Let the integers be $n$, $n+1$, $n+2$;Set up: $3n + 3 = 33$;Solve for $n$, then find the next two",Consecutive integers word problem
+10,Select all equations where $x=-2$: $x+5=3$ $2x=-4$ $x-2=0$ $-3x=6$,"$x+5=3$,$2x=-4$,$-3x=6$",30,Y,Plug in $-2$ for $x$ in each equation;Check: Does $-2 + 5 = 3$?;Check: Does $2(-2) = -4$?,Testing solutions

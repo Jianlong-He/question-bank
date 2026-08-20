@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Which method is most direct for solving x(x-9)=0?,factoring|zero-product property|zero product property,70,Y,The expression is already a product.|Set each factor equal to zero.,Factoring with the zero-product property is most direct.
+2,Which method is most direct for solving (x-3)^2=16?,square roots|taking square roots,70,Y,The squared expression is isolated.|Undo the square directly.,Taking square roots is most direct.
+3,Which method always works for a quadratic equation even when it does not factor nicely?,quadratic formula|the quadratic formula,70,Y,It uses a b and c.|Its discriminant also reveals the root type.,The quadratic formula always works.
+4,Find the x-coordinate of the vertex of y=x^2-12x+5.,6,70,Y,Use x=-b/(2a).|Here a=1 and b=-12.,x=-(-12)/(2)=6.
+5,Find the vertex of y=x^2-6x+5. Enter x-coordinate then y-coordinate.,"3,-4",70,Y,First find x=-b/(2a).|Then substitute x=3.,The vertex is (3 3^2-6(3)+5)=(3 -4).
+6,A parabola has roots 2 and 10. What is its axis of symmetry?,x=6|x = 6,70,Y,Average the roots.|Compute (2+10)/2.,The axis of symmetry is x=6.
+7,For y=(x-1)(x-7) find the vertex x-coordinate.,4,70,Y,The vertex lies halfway between the roots.|Average 1 and 7.,The x-coordinate is 4.
+8,For y=(x-1)(x-7) find the vertex y-coordinate.,-9,70,Y,Substitute x=4.|Compute (4-1)(4-7).,The y-coordinate is 3(-3)=-9.
+9,Rewrite y=x^2-4x-5 in vertex form.,y=(x-2)^2-9,70,Y,Complete the square using 4.|x^2-4x=(x-2)^2-4.,The vertex form is y=(x-2)^2-9.
+10,A quadratic has vertex (2 -9) and roots -1 and 5. Does this information have the same axis of symmetry? Enter Yes or No.,Yes|yes|Y|y,70,Y,The vertex axis is x=2.|Average the roots -1 and 5.,Yes. The roots average to 2 which matches the vertex x-coordinate.

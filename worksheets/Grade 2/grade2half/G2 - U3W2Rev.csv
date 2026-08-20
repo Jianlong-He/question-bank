@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 64 + 27 = (__ + 20) + (4 + __) = __ + 11 = __,"60,7,80,91",120,Y,Add 10s and ones separately,"60,7,80,91"
+2,"Select all equations that equal 72 : 40+32, 50+22, 60+12","40+32, 50+22, 60+12",120,Y,Try using regrouping and breaking apart,"40+32, 50+22, 60+12"
+3,"Sam is solving 45 + 37. She separates each number into tens and ones, adds the tens to get 70, and adds the ones to get 12. However, she notices the 12 ones can be regrouped. How many total tens will she have, and how many ones will remain?","8,2",120,Y,12 ones must be REGROUPED into 1 ten + 2 ones,"8,2"
+4,"Fill. When adding 67 + 25, first the ones: 7 + 5 = __. This becomes __ ten and __ ones. Then add the original tens: 6 tens + 2 tens + __ = __ tens. The final answer is __ tens and __ ones, which equals __","12,1,2,1,9,9,2,92",360,Y,12 ones = 1 ten + 2 ones (REGROUP; Tens from original: 6 + 2 = 8 plus the regrouped ten: 8 + 1 = 9 tens),"12,1,2,1,9,9,2,92"
+5,"A toy store receives three delivery boxes of toy cars. First box has 34 cars, second box has 26 cars, and the third box has 35 cars. What is the total number of cars in all boxes?",95,120,Y,"First add : 34 + 26, Subtotal: 60 cars; Then add third box: 60 + 35 = 95",95

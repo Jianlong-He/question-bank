@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Evaluate lim x->2 of x^2+3x by direct substitution.,10,70,Y,Polynomials are continuous.|Substitute x=2.,2^2+3(2)=10.
+2,Evaluate lim x->1 of (x+2)/(x+4).,3/5|0.6,70,Y,The denominator is nonzero at 1.|Substitute directly.,The limit is 3/5.
+3,Direct substitution gives 0/0. What does this result indicate?,indeterminate form|an indeterminate form|more work is needed,70,Y,It is not the final limit value.|Use algebra or another strategy.,0/0 is an indeterminate form requiring further analysis.
+4,Evaluate lim x->pi/2 of sin(x).,1,70,Y,Sine is continuous.|Substitute pi/2.,The limit is sin(pi/2)=1.
+5,Evaluate lim x->0 of cos(x).,1,70,Y,Cosine is continuous.|Substitute 0.,The limit is cos0=1.
+6,A piecewise function approaches 2 from the left and 2 from the right at x=0. Find the limit.,2,70,Y,One-sided limits agree.|The value at x=0 is irrelevant to the limit.,The two-sided limit is 2.
+7,A piecewise function approaches -1 from the left and 4 from the right. Find the two-sided limit.,DNE|does not exist|no limit,70,Y,Compare the one-sided limits.|Different values prevent a two-sided limit.,The two-sided limit does not exist.
+8,Can f(a) differ from lim x->a f(x)? Enter Yes or No.,Yes|yes|Y|y,70,Y,A point can be redefined without changing nearby behavior.|Think of a removable discontinuity.,Yes. The function value can differ from the limit.
+9,If f is continuous at a which equation connects value and limit?,lim x->a f(x)=f(a)|the limit equals f(a),70,Y,Continuity matches nearby behavior to the point.|All three continuity conditions combine.,For continuity lim x->a f(x)=f(a).
+10,Evaluate lim x->3 of |x-3|.,0,70,Y,Absolute value is continuous.|Substitute x=3.,The limit is |0|=0.

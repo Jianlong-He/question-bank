@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What can be concluded about opposite sides of a parallelogram?,they are congruent|congruent|opposite sides are congruent|parallel and congruent,70,Y,A diagonal creates two congruent triangles.|Use CPCTC on the opposite side pairs.,Opposite sides of a parallelogram are congruent.
+2,What do the diagonals of a parallelogram do to each other?,bisect each other|they bisect each other,70,Y,Their intersection is the midpoint of each diagonal.|Each diagonal is split into two congruent segments.,The diagonals bisect each other.
+3,What can be concluded about opposite angles of a parallelogram?,they are congruent|congruent|opposite angles are congruent|equal,70,Y,A diagonal creates congruent triangles.|Use corresponding angles after proving triangle congruence.,Opposite angles are congruent.
+4,A diagonal divides a parallelogram into two triangles. Are the triangles congruent? Enter Yes or No.,Yes|yes|Y|y,70,Y,Opposite sides are parallel.|Use alternate interior angles and the shared diagonal.,Yes. The triangles are congruent by ASA.
+5,A parallelogram diagonal has length 18 and is bisected by the other diagonal. Find the length of each half.,9,70,Y,Bisect means divide into two equal parts.|Compute 18/2.,Each half has length 9.
+6,In a rhombus how do the diagonals intersect?,perpendicularly|at right angles|perpendicular|at 90 degrees,70,Y,A rhombus has four congruent sides.|Its diagonals form right angles.,The diagonals of a rhombus are perpendicular.
+7,Do the diagonals of a rhombus bisect each other? Enter Yes or No.,Yes|yes|Y|y,70,Y,Every rhombus is a parallelogram.|Parallelogram diagonals bisect each other.,Yes. The diagonals bisect each other.
+8,Find the area of a rhombus with diagonal lengths 10 and 16.,80,70,Y,Use one half the product of the diagonals.|Compute (10 times 16)/2.,The area is 10(16)/2 = 80 square units.
+9,A rhombus has area 54 and one diagonal has length 9. Find the other diagonal length.,12,70,Y,Use A = d1*d2/2.|Solve 54 = 9d/2.,108 = 9d so d = 12.
+10,If adjacent angles of a parallelogram are 3x and 2x find x.,36,70,Y,Adjacent parallelogram angles are supplementary.|Solve 3x + 2x = 180.,5x = 180 so x = 36.

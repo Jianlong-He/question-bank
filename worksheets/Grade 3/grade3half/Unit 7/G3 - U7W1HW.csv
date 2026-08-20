@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find y when 24 = 3 x y. So y = __,8,240,Y,"Think, What number multiplied by 3 gives 24? Skip counting by 3 until you get 24 or use division 24 / 3 = ?",8
+2,You made 6 treat bags using 42 candies. Each bag will be shared with 7 friends. How many candies will each friend get?,1,240,Y,First find how many candies are in 1 bag using 42 / 6. Then share that number between 7 friends: divide by 7 again.,1
+3,A farm made 64 apples. They pack them into 8 crates. Each crate is then divided evenly onto 4 display shelves. How many apples go on each shelf?,2,240,Y,Step 1 Find apples per crate -> 64 / 8. Step 2 Each crate's apples are shared onto 4 shelves -> apples in one crate / 4,2
+4,"A school has 48 notebooks. They sort them into 6 groups for the team leaders. Each group has 2 members, and the leader shares the notebooks evenly with them. How many notebooks does each member get?",4,360,Y,Evenly = equally. Find notebooks in each group 48 / 6. Then divide that number among 2 members.,4
+5,"A student has 56 pencils for art class. She sorts them into 8 cups equally. There are 2 tables, each table receives the same number of cups. How many pencils does each table receive?",14,360,Y,Step 1 Pencils per cup 56 / 8. Step 2 Cups per table 8 / 2. Step 3 Cups per table x Pencils per cup,14

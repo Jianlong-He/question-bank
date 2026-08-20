@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Select without calculating exactly, which is larger? : 0.24x862 0.24x86.2",0.24x862,240,Y,Compare 862 and 86.2,0.24x862.  Compare 862 and 86.2,
+2,Select which match the expression 0.5x460 : 23 230 2300,230,240,Y,Half of 460,230.   Half of 460,
+3,Select which match the expression to the correct product of 0.52x76.2 : 39.624 396.24 3962.4,39.624,240,Y,"0.52 is about half. Half of 76 is 38, which is closer?",39.624   -> 0.52 is about half. Half of 76 is 38 which is closer to 39.624,
+4,"Select True of False of the statement ""12 x 0.8 shoud be less than 12"" : TRUE FALSE",TRUE,240,Y,0.8 is less than 1,"TRUE.    0.8 is less than 1, 12 multiples with <1 must be small than 12",
+5,Calculate: 0.8 x 9,7.2,240,Y,8 x 9 = 72,7.2   -> 8 tenths x 9 = 72 tenths = 7.2,
+6,Calculate: 3 x 0.47,1.41,240,Y,What is 3 x 47?,1.41   -> 3 x 47 hundredths = 141 hundredths = 1.41,
+7,Calculate: 3 x 3.86,11.58,240,Y,What is 3 x 3.86? Then move the decimal,11.58   -> 3 x 386 hundredths = 1158 hundredths = 11.58,
+8,Calculate: 2.3 x 0.6,1.38,240,Y,What is 2.3 x 0.6? Then move the decimal,"1.38  -> Total 2 decimals, 23 x 6 = 138, then move 2 decimals to become 1.38",
+9,Select which product must be greater than 500 : 0.8x700 0.08x700 8x70,8x70,360,Y,Compare product of each option,8x70=560 > 500,
+10,A box weighs 0.85 kg. There are 16 boxes. What is the total weight.,13.6,360,Y,Total weight = weight per box x number of boxes,13.6   -> Total weight = weight per box x number of boxes : 0.85 x 16 = 13.6,

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Use the distribution rule to calculate 32 × 15.,480,60,Y,Break 15 into 10 + 5;Add the two partial products,32 × 15 = 32 × 10 + 32 × 5 = 320 + 160 = 480.
+2,Expand and calculate (7 + 3)(9 + 2) using extended distribution.,110,60,Y,"Form four products;Add 7×9, 7×2, 3×9, and 3×2",(7 + 3)(9 + 2) = 63 + 14 + 27 + 6 = 110.
+3,Calculate 214 × 31 by breaking 31 into 30 + 1.,6634,60,Y,Compute 214 × 30 and 214 × 1;Add the results,214 × 31 = 6420 + 214 = 6634.
+4,Calculate 148 × 22 by breaking 22 into 20 + 2.,3256,75,Y,Compute 148 × 20 and 148 × 2;Add the partial products,148 × 22 = 2960 + 296 = 3256.
+5,Expand and calculate (300 + 20 + 5)(40 + 7).,15275,90,Y,Multiply each term in the first bracket by 40 and by 7;Add all six products,The factors are 325 and 47. Using distribution gives 13000 + 2275 = 15275.

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find the direction angle of vector (1 1) in degrees.,45|45 degrees,70,Y,Use arctan(y/x).|The components are equal and positive.,The direction angle is 45 degrees.
+2,Find the direction angle of vector (0 5) in degrees.,90|90 degrees,70,Y,The vector points straight up.|Measure counterclockwise from positive x.,The direction angle is 90 degrees.
+3,A vector has magnitude 10 and direction 0 degrees. Find its x-component.,10,70,Y,Use r cos(theta).|cos0=1.,The x-component is 10cos0=10.
+4,A vector has magnitude 10 and direction 0 degrees. Find its y-component.,0,70,Y,Use r sin(theta).|sin0=0.,The y-component is 0.
+5,A vector has magnitude 8 and direction 90 degrees. Enter x then y.,"0,8",70,Y,Use (r cos theta r sin theta).|cos90=0 and sin90=1.,The components are (0 8).
+6,A vector has magnitude 6 and direction 180 degrees. Enter x then y.,"-6,0",70,Y,The vector points left.|cos180=-1 and sin180=0.,The components are (-6 0).
+7,Which formula gives the x-component from magnitude r and direction theta?,r cos(theta)|rcos(theta),70,Y,The horizontal coordinate uses cosine.|Think adjacent over hypotenuse.,The x-component is r cos(theta).
+8,Which formula gives the y-component from magnitude r and direction theta?,r sin(theta)|rsin(theta),70,Y,The vertical coordinate uses sine.|Think opposite over hypotenuse.,The y-component is r sin(theta).
+9,Vector (-3 3) lies in which quadrant?,Quadrant II|II|2,70,Y,The x-component is negative and y-component positive.|Locate the point (-3 3).,The vector points into Quadrant II.
+10,Why must the quadrant be checked after using arctan(y/x)?,arctan alone may give the wrong direction|to choose the correct direction angle|the ratio does not identify the quadrant,70,Y,Opposite quadrants can share a tangent value.|Component signs determine the actual quadrant.,The quadrant is needed to select the correct direction angle.

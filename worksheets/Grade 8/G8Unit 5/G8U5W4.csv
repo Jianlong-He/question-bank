@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: The longest side of a right triangle, opposite the right angle, is called the \_\_\_.",hypotenuse|Hypotenuse,20,Y,It starts with an 'H';It is represented by 'c' in the formula,Hypotenuse Definition
+2,Fill: Solve for the hypotenuse $c$: $3^2 + 4^2 = c^2$,5,25,Y,Square 3 and 4 to get $9 + 16 = 25$;Take the square root of 25,Pythagorean Triples
+3,"Find the hypotenuse length if the legs are 6 and 8.||""Fill: Solve for $c$: $6^2 + 8^2 = c^2$""",10,30,Y,Calculate $36 + 64$;Then find $\sqrt{100}$,Pythagorean Theorem
+4,Fill: Find the missing leg $a$: $a^2 + 12^2 = 13^2$,5,35,Y,"Square the numbers: $a^2 + 144 = 169$;Subtract 144 from 169, then square root",Solving for Leg
+5,"Fill: Do the side lengths 6, 8, and 10 form a right triangle? (Yes/No)",Yes|Y|yes,25,Y,Check if $a^2 + b^2 = c^2$;Does $36 + 64 = 100$?,Pythagorean Converse
+6,Fill: A TV screen is 15 inches wide and 20 inches tall. Find the diagonal length in inches.,25,40,Y,"The width, height, and diagonal form a right triangle;Solve $15^2 + 20^2 = c^2$",Pythagorean Word Problem
+7,"Find the distance between $(0,0)$ and $(3,4)$.",5,25,Y,This forms a 3-4-5 right triangle;Use distance formula $\sqrt{x^2+y^2}$,Distance from Origin
+8,"Fill: Find the distance between points $(0,0)$ and $(6,8)$ on a coordinate plane.",10,35,Y,Draw a right triangle with legs of length 6 and 8;Solve $6^2 + 8^2 = c^2$,Distance Formula Application
+9,Fill: Solve for leg $b$: $8^2 + b^2 = 17^2$,15,40,Y,"Calculate $64 + b^2 = 289$;Subtract 64 to get 225, then square root",Solving for Leg
+10,"Fill: Do the side lengths 4, 5, and 6 form a right triangle? (Yes/No)",No|N|no,30,Y,"Test the Pythagorean theorem;Does $4^2 + 5^2 = 6^2$?;$16 + 25 = 41$, not 36",Pythagorean Converse False

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If you start at 215 and skip count by 10s four times, what number do you end at?",255,120,Y,Add 10 four times.,255
+2,"If you start at 310 and skip count by 100s four times, what number do you end at?",710,120,Y,Add 100 four times.,710
+3,"Maya is organizing marbles into groups. She has one group with 410 marbles. If she creates 4 more groups after the first one, adding 100 more marbles each time, list all the numbers of marbles in each group she has.","410, 510, 610, 710, 810",120,Y,"Start with 410, add 100 four times.","410,510,610,710,810"
+4,"Benny is counting dimes. He starts by saying 210, 220, 230 but he gets distracted and skips two numbers. He says 210, 220, 230, 250, 260. What are the two numbers he missed? Write them in order.","240, 270",120,Y,He is skip counting by 10s.,"240,270"
+5,"A teacher asks students to find special numbers that appear when you skip count by 5s, AND by 10s. For numbers from 40 to 80, which numbers work?","40,50,60,70,80",120,Y,"Numbers must be in BOTH patterns. Skip by 5s: 40, 45, 50, 55, 60, 65, 70, 75, 80. Skip by 10s: 40, 50, 60, 70, 80","40,50,60,70,80"

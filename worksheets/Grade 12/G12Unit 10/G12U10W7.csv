@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,If f(x)->positive infinity as x approaches a what kind of limit is this?,infinite limit|an infinite limit,70,Y,The outputs are unbounded.|Infinity describes growth rather than a finite value.,It is an infinite limit.
+2,What graph feature often occurs when an infinite limit appears at x=a?,vertical asymptote|a vertical asymptote|x=a,70,Y,The graph rises or falls without bound near a vertical line.|The line is x=a.,A vertical asymptote often occurs at x=a.
+3,For f(x)=1/(x-2) find lim x->2+ f(x).,positive infinity|infinity|+infinity,70,Y,From the right x-2 is small positive.|Its reciprocal is large positive.,The right-hand limit is positive infinity.
+4,For f(x)=1/(x-2) find lim x->2- f(x).,negative infinity|-infinity,70,Y,From the left x-2 is small negative.|Its reciprocal is large negative.,The left-hand limit is negative infinity.
+5,Does lim x->2 1/(x-2) exist as a two-sided limit?,No|no|DNE|does not exist,70,Y,The one-sided limits have opposite signs.|A two-sided limit requires agreement.,The two-sided limit does not exist.
+6,For f(x)=1/(x-3)^2 find the limit as x approaches 3 from either side.,positive infinity|infinity|+infinity,70,Y,The squared denominator is positive on both sides.|It approaches zero positively.,Both sides approach positive infinity.
+7,An uncanceled denominator factor x+4 gives which candidate vertical asymptote?,x=-4|-4,70,Y,Set the factor equal to zero.|Check that it does not cancel.,The candidate vertical asymptote is x=-4.
+8,A denominator factor cancels completely. Does it create a vertical asymptote? Enter Yes or No.,No|no|N|n,70,Y,A canceled factor creates a removable hole.|The simplified nearby values remain finite.,No. It creates a hole rather than a vertical asymptote.
+9,If both one-sided limits are negative infinity what is the two-sided infinite limit?,negative infinity|-infinity,70,Y,The sides agree in unbounded direction.|Use negative-infinity notation.,The two-sided limit is negative infinity.
+10,Can an infinite limit be treated as a finite real number? Enter Yes or No.,No|no|N|n,70,Y,Infinity describes unbounded behavior.|It is not an attained numerical value.,No. An infinite limit is not a finite real number.

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Solve the system using substitution: $y = 2x$ and $x + y = 12$. Enter $x, y$","4,8",40,Y,Replace $y$ in the second equation with $2x$: $x + 2x = 12$;Solve $3x = 12$;Then find $y$,Substitution Method
+2,Select the correct first step to solve by Elimination: $2x + y = 10$ and $2x - y = 4$||Add equations||Subtract equations,Add equations,20,Y,Look at the $y$ terms: $+y$ and $-y$;Adding the equations will make $y$ disappear ($y - y = 0$),Elimination Strategy
+3,"Fill: If two lines intersect at $(2, -5)$, what is the solution to the system?","2,-5",20,Y,"The solution IS the point of intersection;Enter coordinates as x,y",Graphing Interpretation
+4,"Select the system with **Infinite Solutions**: $y=x+2, y=x-2$ $2x+y=5, 4x+2y=10$ $y=3x, y=2x$","$2x+y=5, 4x+2y=10$",30,Y,Infinite solutions mean the lines are identical;Divide the second equation by 2 to see if it matches the first,Identifying Infinite Solutions
+5,Fill: Solve for $y$ in the system: $x = 5$ and $2x + y = 15$,5,25,Y,You already know $x=5$;Plug 5 into the second equation: $2(5) + y = 15$,Substitution Simple
+6,"Fill: Using Elimination, solve: $x + y = 10$ and $x - y = 2$. Find $x$.",6,35,Y,Add the two equations together: $(x+x) + (y-y) = 10+2$;Solve $2x = 12$,Elimination Calculation
+7,True or False: A system of parallel lines has exactly one solution. (True/False),False,20,Y,Parallel lines never cross;Solutions are where lines cross;Therefore parallel lines have NO solution,Parallel Lines Logic
+8,Fill: Solve for $x$: $y = x - 1$ and $y = -2x + 5$,2,45,Y,Set the equations equal since both equal $y$: $x - 1 = -2x + 5$;Add $2x$ to both sides;Add 1 to both sides,Setting Equations Equal
+9,"Select the graph of a system with **No Solution**: ""Lines crossing at 90 degrees"" ""Lines that never touch"" ""One line on top of another""","""Lines that never touch""",20,Y,No solution means no intersection;Lines that never touch are parallel,Visualizing Solutions
+10,"Fill: If $3x + 2y = 12$ and $x = 2$, find $y$.",3,30,Y,Substitute $x=2$ into the equation: $3(2) + 2y = 12$;Solve $6 + 2y = 12$,Substitution Practice

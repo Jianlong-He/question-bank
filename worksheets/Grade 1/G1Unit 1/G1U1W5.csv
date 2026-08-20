@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Is 8 greater than 6? Yes or No,Yes,60,N,,Yes
+2,"What number are greater than 8? 10, 7, 15, 5","10, 15",70,N,,"10, 15"
+3,"What number is less than 5? 2, 8, 0, 4","2, 0, 4",80,N,,"2, 0, 4"
+4,"On a number line, which side do numbers get bigger? Right or Left",Right,90,N,,Right
+5,"Ben have 12 cookies and Amy has 8, who has more? ",Ben,90,Y,What is greater? 12 or 8?,Ben
+6,"Select the one has more, 🍎 or ★?  🍎 🍎 ★ 🍎 🍎 🍎 ★★★ : 🍎 ★",🍎,120,Y,"Count apples and stars, which number is greater?",🍎
+7,"Select. May have 18 bananas, Dan has 22 apples. Who has more pieces of fruit? : May Dan",Dan,100,Y,Both apple and banana are furits; 18 and 22 which is larger?,Dan
+8,"Select. If you add 2 to 5, is it greater than 7? : Yes No",No,120,Y,What is 2 + 5? Count on fingers,No
+9,"Select. Which do we have the least of? Stars, apples or letters? ★ ★ A, A, A, A ★ 🍎 🍎 🍎 🍎 ★ ★ ★ ★ A 🍎 🍎 ★ 🍎 🍎 : A ★ 🍎",A,150,Y,"Count starts, apples and letters, which number is the smallest?",A
+10,"Select. You have 7 stars, 3 numbers, 4 letters. Add one to each group, which group has the most?: stars numbers letters",stars,180,Y,"Does add 1 to each group change the order?; 7 + 1 = 8, 3+1 = 4, 4 + 1 = 5, which number is the largest?",stars

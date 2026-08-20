@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What matrix satisfies AI=A for compatible A?,identity matrix|the identity matrix|I,70,Y,It plays the role of number 1.|Multiplication by it changes nothing.,I is the identity matrix.
+2,What matrix satisfies A+O=A?,zero matrix|the zero matrix|O,70,Y,It plays the role of number 0 for addition.|Every entry is zero.,O is the zero matrix.
+3,What size identity matrix multiplies a 3x2 matrix A on the left?,3x3|3 by 3,70,Y,The left identity acts on rows of A.|Use the number of rows.,I_3 is a 3x3 identity matrix and I_3A=A.
+4,What size identity matrix multiplies a 3x2 matrix A on the right?,2x2|2 by 2,70,Y,The right identity acts on columns of A.|Use the number of columns.,I_2 is 2x2 and AI_2=A.
+5,Does (AB)C=A(BC) when products are defined? Enter Yes or No.,Yes|yes|Y|y,70,Y,Matrix multiplication is associative.|Grouping can change without changing order.,Yes. Matrix multiplication is associative.
+6,Does A(B+C)=AB+AC when dimensions are compatible? Enter Yes or No.,Yes|yes|Y|y,70,Y,Matrix multiplication distributes over addition.|Multiply A into both addends.,Yes. The distributive property holds.
+7,Is A(B-C)=AB-AC? Enter Yes or No.,Yes|yes|Y|y,70,Y,Use distribution over subtraction.|Keep the multiplication order unchanged.,Yes. A(B-C)=AB-AC.
+8,Simplify A(I+O).,A,70,Y,I+O=I.|Then multiply A by I.,A(I+O)=AI=A.
+9,Simplify AO for compatible matrices.,O|zero matrix|the zero matrix,70,Y,Every dot product contains only zeros from O.|The result has the product dimensions.,AO is the zero matrix.
+10,Can AB=AC imply B=C for every matrix A? Enter Yes or No.,No|no|N|n,70,Y,Matrices may not be cancellable.|A can be singular or zero.,No. Cancellation requires additional invertibility conditions.

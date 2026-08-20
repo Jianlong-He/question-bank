@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Skip count by 5s. What number comes after 53?,58,300,Y,Add 5 to 53,58
+2,Skip count by 5s. What number comes after 99?,104,300,Y,Add 5 to 99.,104
+3,"Fill: in the blanks by counting by 5s, 10, 15, __, 25, __, __, 40","20,30,35",300,Y,Each number is 5 more than the one before.,"20,30,35"
+4,"Select. When counting by 5s starting from 163, which numbers will you say? : 170 168 172 173 178 180","168,173,178",300,Y,"163+5 = 168, 168+5 = 173, 173+5 = 178","168,173,178"
+5,Count by 10s starting at 53. What number comes next?,63,300,Y,Add 10 to 53,63
+6,Count by 100s starting at 470. What are the two numbers that come next? ,"570,670",300,Y,"Add 100 to 470, then add 100 again.","570,670"
+7,"Fill: in the blanks by counting by 10s 199, __ , __ ,229","209,219",300,Y,"Add 10 to 199, add 10 again to get to 219","209,219"
+8,Select all numbers we get  when skip counting by 5s from 20 to 40: 25 24 30 34 39  ,"25,30",300,Y,Numbers in skip counting by 5s end in 0 or 5,"25,30"
+9,"If you start at 85 and skip count by 5s three times, what number do you end at?",100,300,Y,Add 5 three times,100
+10,"Select. When counting by 100s starting from 16, which numbers will you say? : 115 116 216 264 316 ","116,216,316",300,Y,16+100 = 116,"116,216,316"

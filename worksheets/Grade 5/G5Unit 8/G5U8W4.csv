@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Rewrite fraction 7398/100 as a decimal,73.98,240,N,,73.98,
+2,What is the numerators when multiplying fractions (42/10) x (31/10),1302,240,Y,What is 42 x 31,1302,
+3,What is the denominator when multiplying fractions (42/10) x (31/10),100,240,Y,What is 10 x 10?,100,
+4,What is 4.2 x 3.1?,13.02,240,Y,Use answers from Q1 and Q2 ,13.02,
+5,What is 1.1 x 1.1,1.21,240,Y,"Method 1: count decimal places: 2, compute 11x 11 then move decimal places. Method 2: rewrite as fractions: (11/10) x (11/10) = (11x11)/100","1.21 -> Method 1: count decimal places: 2, compute 11x 11 then move decimal places. Method 2: rewrite as fractions: (11/10) x (11/10) = (11x11)/100",
+6,The digit product of 2.3 x 4.15 is 9545. What is the exact value of 2.3 x 4.15,9.545,240,Y,Count decimal places in both numbers.,9.545   -> Total 3 decimal places,
+7,What is 1.6 x 2.5,4|4.00|4.0,240,Y,"Method 1: count decimal places: 2, compute 16 x 25 then move decimal places. Method 2: rewrite as fractions: (16/10) x (25/10) = (16x25)/100","4|4.00|4.0 -> Method 1: count decimal places: 2, compute 16 x 25 then move decimal places. Method 2: rewrite as fractions: (16/10) x (25/10) = (16x25)/100",
+8,What is 1.8 x 5.6,10.08,240,Y,"Method 1: count decimal places: 2, compute 18 x 56 then move decimal places. Method 2: rewrite as fractions: (18/10) x (56/10) = (18x56)/100","10.08 -> Method 1: count decimal places: 2, compute 18 x 56 then move decimal places. Method 2: rewrite as fractions: (18/10) x (56/10) = (18x56)/100",
+9,One worksheet needs 0.23 hours to finish. You complete 3.5 worksheets over the week. How many hours do you spend on worksheets in a week?,0.805|0.805 hours,240,Y,Total hours = hours per worksheet x number of worksheets,0.805  -> Total hours = hours per worksheet x number of worksheets = 0.23 x 3.5,
+10,A movie ticket costs $10.28. You buy 3.5 tickets' worth for a group discount of 4 people. How much do you pay in total?,35.98|$35.98,360,Y,Total payment = price per ticket x number of tickets you buy,35.98 -> Total payment = price per ticket x number of tickets you buy = 10.28 x 3.5,

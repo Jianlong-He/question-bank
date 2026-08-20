@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: 4 tens + 3 tens = __ tens, 2 ones + 7 ones = __ ones, Total = __","7,9,79",130,N,,"7,9,79"
+2,Select. Which shows 23 + 45 correctly?   A) 20 + 40 + 3 + 5    B) 2 + 4 + 3 + 5    C) 23 + 4 + 5 : A B C D,A,140,N,,A
+3,Select. True or False. 71 + 24 = 70 + 20 + 1 + 4 : True False,TRUE,150,Y,Break it into tens + ones. ,TRUE
+4,Fill: 43 + 54 = __ tens + __ ones = __,"9,7,97",160,Y,Break it into tens + ones. ,"9,7,97"
+5,Fill: 71 + 24 = __,95,170,Y,Break it into tens + ones. ,95
+6,A store sold 34 toys in the morning and 33 in the afternoon. How many toys were sold?,67,180,Y,Break it into tens + ones. ; 34 + 33 = __,67
+7,"Fill: 32 + 26 = 5 tens + 8 ones = __, 32 + 28 = 5 tens + 10 ones = __","58, 60",180,Y,Break it into tens + ones. 10 ones = 1 ten,"58, 60"
+8,"Fill: 25 + 43 = __, 35 + 43 = __, 45  + 43 = __","68,78,88",200,Y,Only tens are changing.,"68,78,88"
+9,Fill: 30 + __ + 1 + 2 = 53,20,200,Y,How many tens in 53? How many tens in 30; 5 - 3 = 2,20
+10,Fill in the blanks: ( 7 tens + 8 ones ) + ( __ tens + __ ones ) = 100. One of the number is 78. What is the other number?,"2, 2, 22",240,Y,"100 has 1 hundred, 0 tens &  0 ones. 78 has 7 tens and 8 ones; 1 hundred = 10 tens, still need 3 tens. 1 ten = 10 ones","2, 2, 22"

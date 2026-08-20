@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Complete the law of sines: a/sin(A)=b/sin(B)=___.,c/sin(C),70,Y,Match each side with its opposite angle.|Continue the same ratio pattern.,The third ratio is c/sin(C).
+2,In triangle ABC which side is paired with angle A in the law of sines?,a|side a,70,Y,Sides use the lowercase letter of the opposite angle.|Angle A is opposite side a.,Angle A is paired with side a.
+3,"A triangle has A=30 degrees, a=5, and B=90 degrees. Use the law of sines to find b.",10,70,Y,Use b/sin(90)=5/sin(30).|sin(90)=1 and sin(30)=1/2.,b=5(1)/(1/2)=10.
+4,"A triangle has A=45 degrees, a=6, and B=45 degrees. Find b.",6,70,Y,Equal angles have equal opposite sides.|The sine ratios are equal.,b=6.
+5,State the law of cosines for side c.,c^2=a^2+b^2-2ab cos(C)|c^2=a^2+b^2-2abcos(C),70,Y,Side c is opposite angle C.|Start with a^2+b^2 and subtract the cosine term.,The law is c^2=a^2+b^2-2ab cos(C).
+6,"Use the law of cosines with a=3, b=4, and C=90 degrees to find c.",5,70,Y,cos(90)=0.|Then c^2=3^2+4^2.,"c^2=25, so c=5."
+7,For sides a=5 and b=7 with included angle C=60 degrees what is c^2?,39,70,Y,Use c^2=a^2+b^2-2ab cos(C).|cos(60)=1/2.,c^2=25+49-70(1/2)=39.
+8,"A triangle has sides 3, 4, and 5. What is the angle opposite side 5?",90 degrees|90|a right angle,70,Y,Use the converse of the Pythagorean theorem.|3^2+4^2=5^2.,The angle opposite side 5 is 90 degrees.
+9,Which law is most direct when two sides and the included angle are known?,law of cosines|cosine law,70,Y,This information is SAS.|The law of sines needs a known opposite pair.,Use the law of cosines.
+10,Which law is often most direct when a side-angle opposite pair is known?,law of sines|sine law,70,Y,The ratios pair sides with opposite angles.|A known pair starts the proportion.,Use the law of sines.

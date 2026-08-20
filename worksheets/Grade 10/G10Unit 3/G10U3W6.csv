@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,For x^2-5x+6=0 identify a b and c separated by commas.,"1,-5,6",70,Y,Compare with ax^2+bx+c=0.|Include the sign of each coefficient.,The coefficients are a=1 b=-5 and c=6.
+2,Find the discriminant of x^2-5x+6=0.,1,70,Y,Use b^2-4ac.|Substitute a=1 b=-5 c=6.,The discriminant is 25-24=1.
+3,How many real solutions does a quadratic have when its discriminant is positive?,2|two,70,Y,A positive number has two square roots.|The quadratic formula gives plus and minus values.,There are two distinct real solutions.
+4,How many real solutions does a quadratic have when its discriminant is zero?,1|one,70,Y,The square-root term becomes zero.|The plus and minus results coincide.,There is one repeated real solution.
+5,How many real solutions does a quadratic have when its discriminant is negative?,0|zero|no real solutions,70,Y,A negative number has no real square root.|Complex solutions exist but real ones do not.,There are no real solutions.
+6,Use the quadratic formula to solve x^2+x-6=0. Enter the positive root.,2,70,Y,Use a=1 b=1 c=-6.|The discriminant is 25.,x=(-1±5)/2 gives 2 and -3 so the positive root is 2.
+7,Use the quadratic formula to solve 2x^2-3x-2=0. Enter the larger root.,2,70,Y,Use a=2 b=-3 c=-2.|The discriminant is 25.,x=(3±5)/4 gives 2 and -1/2 so the larger root is 2.
+8,Find the discriminant of 3x^2+4x+5=0.,-44,70,Y,Use b^2-4ac.|Compute 16-4(3)(5).,The discriminant is 16-60=-44.
+9,In the quadratic formula what expression appears under the square root?,b^2-4ac|b²-4ac,70,Y,It determines the number of real roots.|This expression is called the discriminant.,The expression is b^2-4ac.
+10,Use the quadratic formula to solve x^2-4x-5=0. Enter the roots in increasing order.,"-1,5",70,Y,Use a=1 b=-4 c=-5.|The discriminant is 36.,x=(4±6)/2 gives -1 and 5.

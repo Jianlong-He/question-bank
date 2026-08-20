@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 64 + 466 is the same as 60 + ___ + 466.,4,110,N,,4
+2,"Fill: To make number ""nicer"" to solve, 41 + 57 = 40 + __, 253 + 710 =  __ + 700","58, 263",130,Y,Make numbers to whole numbers,"58, 263"
+3,Select. Emma wants to add 595 + 365. She changes it to 600 + 360. Is she correct? : Yes No,Yes,130,Y,"595 -> 600, 365 - > 360",Yes
+4,Fill in the blanks to show the steps: 574 - 313 = (1) 574 - 300 = __   (2) __ - 10 = 264   (3)264 - __ = 261,"274, 274, 3",150,Y,"Expand 313 and follow the order: subtract 300, then 10, then 3","274, 274, 3"
+5,If we subtract 6 from both numbers: 467 _ 166 = (467 _ 6) _ (166 _ 6)  = __ - __  = __,"461, 160, 301",170,Y,"Make 166 nicer with 166-6 = 160, so at the same time 467 becomes 467 - 6 = 461","461, 160, 301"
+6,We want to turn 156 into 160. What number do we add to both numbers in 357 - 156?,4,150,Y,156 + __ = 160 to make 156 nicer,4
+7,"Fill: To make number ""nicer"" to solve, 243 - 198 = __ - 200 = __","245, 45",190,Y,Do the same to both number,"245, 45"
+8,"Fill: To make number ""nicer"" to solve, 138 + 207 = __ +205 = __","140, 345",220,Y,Do the same to both number,"140, 345"
+9,"Fill: To make number ""nicer"" to solve, 436 - 234 = __ - 230 = __","432, 202",220,Y,Do the same to both number,"432, 202"
+10,"Select. Are these expressions the same? 53 + 327, 50 + 330, 52 + 328, 54 + 326 : Yes No",Yes,240,Y,"Write all in ""nicer"" expression",Yes

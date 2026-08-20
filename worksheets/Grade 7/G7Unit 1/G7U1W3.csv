@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
+1,"A recipe uses a proportional relationship between cups of rice and cups of water. If 3 cups of rice require 6 cups of water, how many cups of water are needed for 1 cup of rice?",2,60,Y,"Find the constant k = water/rice.","Water = (6/3)*1 = 2.",
+2,"At a movie theater, the total cost is proportional to the number of tickets. Four tickets cost $52. What is the cost of 1 ticket?",13,70,Y,"Divide total cost by number of tickets.","52/4 = 13 dollars per ticket.",
+3,"A store sells bananas at a constant rate. If 9 pounds of bananas cost $18, how much does 1 pound cost?",2,70,Y,"Use unit rate = cost ÷ pounds.","18/9 = 2 dollars per pound.",
+4,"A table shows that when x = 6, y = 15 in a proportional relationship. What is the constant of proportionality?",2.5|5/2,75,Y,"k = y/x.","k = 15/6 = 2.5.",
+5,"A proportional relationship is described as: when x = 14, y = 35. If y = kx, find k.",2.5|5/2,75,Y,"Constant of proportionality is y divided by x.","35/14 = 2.5.",
+6,"A square has side length s and perimeter P in a proportional relationship. If a side length of 5 cm gives a perimeter of 20 cm, what is the constant of proportionality P/s?",4,80,Y,"Perimeter = 4 × side.","20/5 = 4.",
+7,"The table provided shows a proportional relationship between time t and distance d. What is the constant of proportionality in miles per hour?",7,80,Y,"Distance divided by time gives rate.","14/2 = 7 miles per hour.","https://i.ibb.co/8p2tSfH/G7W2Q7.png"
+8,"A proportional relationship always has the form y = kx. If a situation has a unit rate of 12, what is the value of k?",12,85,Y,"Unit rate and constant of proportionality are the same.","k = 12.",
+9,"A runner travels at a constant proportional rate. If 21 km takes 3 hours, how far does the runner travel in 1 hour?",7,90,Y,"Use d/t to find the unit rate.","21/3 = 7 km per hour.",
+10,"A garden hose fills a bucket with 5 gallons of water in 2 minutes. The unit rate is ___ gallons per minute, so it will pump ___ gallons in 4 minutes.","2.5|5/2, 10",90,Y,"Find the unit rate by dividing gallons by minutes, then multiply by 4.","5 / 2 = 2.5 gallons per minute. 2.5 × 4 = 10 gallons.",

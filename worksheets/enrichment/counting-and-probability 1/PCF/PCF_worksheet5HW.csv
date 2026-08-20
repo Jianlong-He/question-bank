@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find 2^7.,128,45,Y,Write seven factors of 2;Multiply,2^7 = 128.
+2,Find 7!.,5040,45,Y,Multiply 7 × 6 × 5 × 4 × 3 × 2 × 1,7! = 5040.
+3,"Find P(7,3).",210,45,Y,Choose and order 3 objects from 7;Multiply 7 × 6 × 5,"P(7,3) = 7 × 6 × 5 = 210."
+4,"A 6-character code uses 3 symbols, and symbols may repeat. How many codes are possible?",729,45,Y,Each position has 3 choices;Use 3^6,There are 3^6 = 729 codes.
+5,In how many ways can the letters in ORANGE be arranged?,720|6!,45,Y,ORANGE has 6 distinct letters;Use 6!,The 6 distinct letters can be arranged in 6! = 720 ways.

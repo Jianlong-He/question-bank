@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A sequence rule gives each term directly from its term number. Is the rule explicit or recursive?,explicit|an explicit rule,70,Y,No earlier term is needed.|The term number n is used directly.,A direct rule in terms of n is explicit.
+2,A sequence rule defines each term using the preceding term. Is the rule explicit or recursive?,recursive|a recursive rule,70,Y,The rule refers back to an earlier term.|It must include a starting value.,A rule based on preceding terms is recursive.
+3,"Find the common difference of 5, 9, 13, 17.",4,70,Y,Subtract consecutive terms.|9 - 5 = 4.,"Each term increases by 4, so the common difference is 4."
+4,"Find the next term of the arithmetic sequence 12, 7, 2, -3.",-8,70,Y,The common difference is -5.|Subtract 5 from -3.,The next term is -3 - 5 = -8.
+5,"For an arithmetic sequence with first term 3 and common difference 6, find the fifth term.",27,70,Y,Use a_n = a_1 + (n - 1)d.|There are four increases from term 1 to term 5.,a_5 = 3 + 4(6) = 27.
+6,"Write an explicit rule for the arithmetic sequence 5, 8, 11, 14.",a_n=5+3(n-1)|5+3(n-1),70,Y,The first term is 5 and the common difference is 3.|Use a_n = a_1 + (n - 1)d.,The explicit rule is a_n = 5 + 3(n - 1).
+7,"Write an explicit rule for the arithmetic sequence 12, 9, 6, 3.",a_n=12-3(n-1)|12-3(n-1),70,Y,The first term is 12 and the common difference is -3.|Use a_n = a_1 + (n - 1)d.,The explicit rule is a_n = 12 - 3(n - 1).
+8,An arithmetic sequence has first term 7 and common difference 4. Find the 20th term.,83,70,Y,Use a_20 = 7 + 19(4).|Compute 19 × 4 before adding 7.,a_20 = 7 + 76 = 83.
+9,"Is 2, 5, 10, 17 an arithmetic sequence? Enter Yes or No.",No|no|N|n,70,Y,"Compare successive differences.|The differences are 3, 5, and 7.","No. The differences are not constant, so the sequence is not arithmetic."
+10,"For a_n = 4n - 1, find the first term and common difference in that order.","3,4|3, 4",70,Y,Substitute n = 1 for the first term.|The coefficient of n is the common difference.,"a_1 = 4(1) - 1 = 3, and the common difference is 4."

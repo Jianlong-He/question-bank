@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Select: A student guesses 888 ÷ 12 = 75. Is 75 too small, too big or correct? : too-small too-big correct",too-big,240,Y,"Is 12 x 75 too big, or too small, or correct?",too-big,
+2,Fill: If 78 × 10 = 78. Then 78 × 11 = __,858,240,Y,Use long multiplication or 780 + 78,858,
+3,Compute 7134 ÷ 58. Write your own long division.,123,240,Y,Divide digit by digit from left to right. Bring down one digit at a time and divide.,123,
+4,Divide 9598 ÷ 78. What is the final answer and what is the remainder?,"123, 4",240,Y,Divide digit by digit from left to right. Bring down one digit at a time and divide.,"123, 4",
+5,"A florist has a total of 4753 flowers. If each vase can hold exactly 11 flowers, then how many vases can be filled completely and how many flowers will be leftover?","432, 1",360,Y,Divide digit by digit from left to right. Bring down one digit at a time and divide. Stop when no digits are left. The leftover is the remainder.,"432, 1",

@@ -1,0 +1,13 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Select. Which of the following is a variable?: 8 y 10+3,y,100,Y,A variable can change.,A variable is a symbol (like x or y) that can take different values.,
+2,Select. Which of the following is a variable?: 7-3 t 6^2,t,100,Y,A variable can change.,A variable is a symbol (like x or y) that can take different values.,
+3,Select. Is m + 8 an expression or equation?: Expression Equation,Expression,100,Y,Does it have an equals sign?,No equals sign -> it is an expression.,
+4,Select. Is y + 16 = 25 an expression or equation?: Expression Equation,Equation,100,Y,Does it have an equals sign?,An equation has two sides that are equal.,
+5,"If x = 7, find the value of x + 35",42,100,Y,Replace x with 7,"42     -> Replace x with 7, 7 + 35 = 42",
+6,"If x = -10, find the value of x + 23",13,100,Y,Replace x with -10,"13    -> Replace x with -10, -10 + 23 = 23 - 10 = 13",
+7,"If x = 4, y = 7, find the value of xy",28,100,Y,Replace x and y with their values,"28    -> Replace x with 4, y with 7, xy = 4*7 = 28",
+8,Solve y - 23 = 36 and find the value of y,59,100,Y,Add 23 on both sides,59     -> y = 36 + 23 = 59,
+9,Solve y + 42 = 87 and find the value of y,45,100,Y,Remove 42 on both sides,45     -> y = 87 - 42 = 45,
+10,Solve y^3 = -8 and find the value of y,-2,100,Y,What number multiple itself 3 times gives -10,-2     -> (-2)*(-2)*(-2) = -8,
+11,"Select. If you remove 3 from one side of an equation, you must remove 3 from the other side.: TRUE FALSE",TRUE,100,Y,Think of a balance scale,"TRUE     -> To keep balance, both sides must change equally.",
+12,"Select. If both sides of a scale are equal and you add 2 to both sides, what happens?: Becomes-unbalanced Stays-balanced Cannot-tell",Stays-balanced,100,Y,Think of a balance scale,Stays-balanced     -> Same change -> still balanced,

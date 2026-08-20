@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: A line of best fit is $y = 5x - 3$. What is the predicted value of $y$ when $x = 6$?,27|27.0,85,Y,Substitute x into the equation,$y = 5(6) - 3 = 30 - 3 = 27$.
+2,Fill: A dataset shows points rising 12 units in y for every 4 units in x. What is the slope?,3|3.0,80,Y,$\text{Slope} = \text{rise} / \text{run}$,$\text{Slope} = 12 / 4 = 3$.
+3,Fill: A regression line predicts 102 at $x = 12$. The actual value is 110. What is the residual?,8|8.0,75,Y,$\text{Residual} = \text{Actual} - \text{Predicted}$,$\text{Residual} = 110 - 102 = 8$.
+4,Fill: A regression equation is $y = -2x + 44$. What is the x-value when $y = 16$?,14|14.0,90,Y,Set y to 16 and solve for x,$16 = -2x + 44 \to 2x = 28 \to x = 14$.
+5,"Fill: A dataset includes $(1, 7)$, $(3, 13)$, $(5, 19)$. If the pattern continues, what is $y$ when $x = 15$?",49|49.0,85,Y,"Find the slope and equation, then plug in x",$\text{Slope} = (13 - 7) / (3 - 1) = 6 / 2 = 3$. Equation: $y = 3x + 4$. When $x = 15$: $y = 3(15) + 4 = 45 + 4 = 49$.
+6,Fill: A best-fit line is $y = 8x + 5$. What is the predicted value of $y$ when $x = 0$?,5|5.0,80,Y,"Substitute x into the equation, or look at the y-intercept",$y = 8(0) + 5 = 5$. (This is just the y-intercept $b$).
+7,"Fill: In a group of 90 students, 50 like math, 40 like science, and 22 like both. How many like at least one?",68|68.0,70,Y,Add the subjects and subtract the intersection so they aren't double counted,$\text{Total} = 50 + 40 - 22 = 90 - 22 = 68$.
+8,"Fill: A table shows 0.72 like sports, and 0.4 of THOSE also like art. What fraction like both?",0.288,90,Y,Multiply the conditional probability by the total probability,$0.72 \cdot 0.40 = 0.288$.
+9,Fill: A scatter plot shows points rising slowly as x increases. What type of correlation is shown?,positive|Positive,85,Y,An upward pattern means positive correlation,"Because the values increase together, it is a positive correlation."
+10,Fill: A best-fit line is $y = 9x - 27$. What is $y$ when $x = 5$?,18|18.0,75,Y,Substitute x into the equation,$y = 9(5) - 27 = 45 - 27 = 18$.

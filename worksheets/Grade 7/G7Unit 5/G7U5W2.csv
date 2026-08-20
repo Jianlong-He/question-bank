@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Compute (−6) × (−14).",84,60,Y,"A negative times a negative is positive.","6×14 = 84."
+2,"A submarine ascends by removing 3 groups of negative-depth markers, each representing −7 meters. Fill in the blanks: The math expression is -3 × ___, so the depth changes by ___ meters.","-7, 21",65,Y,"Removing negatives adds positives.","3 × (-7) reversed = +21."
+3,"Compute (−9) × 4.",-36,60,Y,"A negative times a positive is negative.","(−9) × 4 = −36."
+4,"Compute (−72) ÷ (−9) + 5.",13,70,Y,"Negative ÷ negative is positive.","72 ÷ 9 + 5 = 8 + 5 = 13."
+5,"A hiker descends 5 meters each minute for −3 minutes (moving backward in time). How many meters of descent is undone? Enter only the number with no units.",15,75,Y,"Negative time reverses direction.","-3 × -5 = 15."
+6,"Compute 18 ÷ |−3| - (-4).",10,80,Y,"Absolute value of a negative is positive.","18 ÷ |-3| - (-4) = 18 ÷ 3 + 4 = 10."
+7,"Compute (−5/8) + (3/4) − (−1/2). Simplify your answer before entering it.",5/8|0.625,80,Y,"Convert fractions and combine.","-5/8 + 6/8 + 4/8 = 5/8."
+8,"Compute (−2/3) × (5/4). Simplify your answer before entering it.",-5/6,85,Y,"Multiply numerators and denominators.","-10/12 = -5/6."
+9,"Compute (−7/10) ÷ (−14/5). Simplify your answer before entering it.",1/4|0.25,90,Y,"Multiply by reciprocal.","7/10 × 5/14 = 35/140 = 1/4."
+10,"Compute the value of 3 1/2 ÷ (−7/4). Simplify your answer before entering it.",-2,95,Y,"Convert mixed number then divide.","3.5 ÷ -1.75 = -2."

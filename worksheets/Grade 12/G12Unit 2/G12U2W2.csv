@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Complete the identity sin(A+B)=___.,sin(A)cos(B)+cos(A)sin(B),70,Y,Sine keeps the plus sign.|Use sine-cosine plus cosine-sine.,sin(A+B)=sin(A)cos(B)+cos(A)sin(B).
+2,Complete the identity cos(A+B)=___.,cos(A)cos(B)-sin(A)sin(B),70,Y,Cosine changes the plus to a minus.|Use cosine-cosine minus sine-sine.,cos(A+B)=cos(A)cos(B)-sin(A)sin(B).
+3,Complete tan(A+B)=(tan(A)+tan(B))/___.,1-tan(A)tan(B),70,Y,The denominator contains one minus a product.|Use the tangent sum identity.,The denominator is 1-tan(A)tan(B).
+4,Write cos(2x) using cos^2(x) and sin^2(x).,cos^2(x)-sin^2(x),70,Y,Use the cosine angle-addition identity with A=B=x.|The cross terms become the sine square term.,cos(2x)=cos^2(x)-sin^2(x).
+5,Complete the double-angle identity sin(2x)=___.,2sin(x)cos(x),70,Y,Apply sin(x+x).|The two identical products add.,sin(2x)=2sin(x)cos(x).
+6,Find sin(75 degrees) exactly using fractional-exponent notation.,(6^(1/2)+2^(1/2))/4,70,Y,Write 75 as 45+30.|Use the sine addition identity.,sin75=sin45cos30+cos45sin30=(sqrt6+sqrt2)/4.
+7,Find cos(75 degrees) exactly using fractional-exponent notation.,(6^(1/2)-2^(1/2))/4,70,Y,Write 75 as 45+30.|Use the cosine addition identity.,cos75=cos45cos30-sin45sin30=(sqrt6-sqrt2)/4.
+8,Find tan(75 degrees) exactly using fractional-exponent notation.,2+3^(1/2),70,Y,Write 75 as 45+30.|Use the tangent addition identity and rationalize.,tan75=(1+1/sqrt3)/(1-1/sqrt3)=2+sqrt3.
+9,Simplify 1-sin^2(x).,cos^2(x),70,Y,Use sin^2(x)+cos^2(x)=1.|Subtract sin^2(x) from both sides.,1-sin^2(x)=cos^2(x).
+10,If sin(x)=3/5 and cos(x)=4/5 find cos(2x).,7/25,70,Y,Use cos^2(x)-sin^2(x).|Compute 16/25-9/25.,cos(2x)=7/25.

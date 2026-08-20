@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"You have 48 tens  - 7 tens, How many tens do you get? What is it in whole number? Tens: __, Total = __","41, 410",110,Y,1 ten = 10 ones,"41, 410"
+2,"Fill: Round the numbers to the nearest 100 and add: 376 -> __,  524 -> __. Estimated total = __","400, 500, 900",110,Y,"When tens digit > / = 5, round up","400, 500, 900"
+3,"Fill: Round the numbers to the nearest 10 and add: 256 -> __,  424 -> __. Estimated total = __","260, 420, 680",110,Y,"When ones digit > / = 5, round up","260, 420, 680"
+4,Estimate to the nearest 10: 472 + 228 -> __,700,110,Y,"When ones digit > / = 5, round up",700
+5,A grocery store sold 489 apples on Monday and 273 on Tuesday. Estimate the total (using nearest 100).,800,140,Y,"What is 489 round to the nearest 100 and 273 round to the nearest 100. Add them; When tens digit > / = 5, round up",800
+6,"Fill: Round the numbers to the nearest 100 and subtract: 537 -> __,  394 -> __. Estimated total = __","500, 400, 100",150,Y,"When tens digit > / = 5, round up","500, 400, 100"
+7,"Fill: Round the numbers to the nearest 10 and subtract: 597 -> __,  344 -> __. Estimated total = __","600, 340, 260",150,Y,"When ones digit > / = 5, round up","600, 340, 260"
+8,Estimate to the nearest 10:  482 -  248 -> __,230,150,Y,"Round each number first, then subtract",230
+9,Select. Which estimate is better for 398 + 251?   A) 400 + 200     B) 400 + 300     C) 400 + 250     D) 400 + 260 : A B C D,C,180,Y,"Which rounded numbers are closer, 100 or 10?; Round up or round down?",C
+10,Select. Which is larger?    A) Estimate of 679 + 224      B) Estimate of 880 - 133 : A B C D,A,200,Y,Estimate each option first; A) = 670 + 220 = ? B) = 880 - 130 = ?,A

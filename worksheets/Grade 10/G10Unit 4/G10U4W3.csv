@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Is sqrt(2) rational or irrational?,irrational,70,Y,Suppose it equals a fraction in lowest terms.|Squaring leads to both numerator and denominator being even.,sqrt(2) is irrational.
+2,In the standard contradiction proof for sqrt(2) why is it impossible for numerator and denominator both to be even?,the fraction would not be in lowest terms|not in lowest terms|they share a factor of 2,70,Y,The fraction was assumed reduced.|Both even numbers share factor 2.,It contradicts the assumption that the fraction is in lowest terms.
+3,If p is prime is sqrt(p) rational or irrational?,irrational,70,Y,A prime factorization has p to an odd exponent.|A perfect square requires every prime exponent to be even.,sqrt(p) is irrational.
+4,Is sqrt(45) rational or irrational?,irrational,70,Y,Simplify the radical.|sqrt(45)=3sqrt(5).,Because sqrt(5) is irrational the product 3sqrt(5) is irrational.
+5,Simplify sqrt(72).,6sqrt(2)|6√2,70,Y,Factor out the largest perfect square.|72=36*2.,sqrt(72)=sqrt(36)sqrt(2)=6sqrt(2).
+6,Give an irrational number between 1 and 2.,sqrt(2)|√2|sqrt(3)|√3,70,Y,Look for a square root of a non-square between 1 and 4.|Both sqrt(2) and sqrt(3) lie in the interval.,For example sqrt(2) is irrational and lies between 1 and 2.
+7,Between any two distinct rational numbers is there an irrational number? Enter Yes or No.,Yes|yes|Y|y,70,Y,The real number line is densely populated.|A small irrational offset can fit inside any nonzero interval.,Yes. Irrational numbers are dense in the real numbers.
+8,Between any two distinct irrational numbers is there a rational number? Enter Yes or No.,Yes|yes|Y|y,70,Y,Rational numbers are also dense.|Every nonempty interval contains rational numbers.,Yes. A rational number exists between them.
+9,Is 2+sqrt(3) rational or irrational?,irrational,70,Y,Two is rational.|A rational plus an irrational is irrational.,The number is irrational.
+10,If sqrt(n) is rational for a positive integer n what must be true about n?,n is a perfect square|perfect square,70,Y,A rational square root of an integer is an integer.|Its prime exponents must all be even.,n must be a perfect square.

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: Simplify $(3^2)^3 = 3^{\_\_}$,6,20,Y,Power of a power rule: Multiply the exponents;$2 \cdot 3$,Exponent Power Rule
+2,Select all irrational numbers: $\sqrt{2}$ $\frac{1}{3}$ $\pi$ $3.14$ $\sqrt{9}$,"$\sqrt{2}$,$\pi$",25,Y,Irrational numbers cannot be fractions;$\pi$ is infinite non-repeating;$3.14$ is a terminating decimal (rational),Identifying Irrationals
+3,Fill: Convert $0.\overline{5}$ to a fraction (use / for fraction bar),5/9,30,Y,One repeating digit means denominator is 9;Place the repeating digit over 9,Repeating Decimals
+4,"Fill: Write 4,500 in Scientific Notation: $4.5 \cdot 10^{\_\_}$",3,20,Y,Count how many places the decimal moves left;It moves 3 times to get 4.5,Scientific Notation Intro
+5,Fill: Solve for $x$: $x^3 = 27$,3,20,Y,What number times itself three times equals 27?;$3 \cdot 3 \cdot 3$,Cube Roots
+6,Fill: Simplify $5^4 \cdot 5^{-2} = 5^{\_\_}$,2,20,Y,Product rule: Add the exponents;$4 + (-2)$,Exponent Product Rule
+7,Which is greater? $\sqrt{50}$ or 7||Select the greater value: $\sqrt{50}$ 7,$\sqrt{50}$,20,Y,Square 7 to compare;$7^2 = 49$;$\sqrt{50}$ is slightly more than $\sqrt{49}$,Approximating Roots
+8,Fill: $8^0 = \_\_$,1,15,Y,Any non-zero number to the power of 0 is 1;It is an identity rule,Zero Exponent
+9,Fill: Write $0.0032$ in Scientific Notation: $3.2 \cdot 10^{\_\_}$,-3,25,Y,Moving decimal right creates a negative exponent;Count the moves to get 3.2,Scientific Notation Small Numbers
+10,Select the equivalent of $x^{-4}$: $-4x$ $\frac{1}{x^4}$ $-x^4$,$\frac{1}{x^4}$,20,Y,Negative exponents move the base to the denominator;Reciprocal,Negative Exponent Definition

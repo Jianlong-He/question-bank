@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A committee has 6 members. How many ways can it choose a captain and assistant captain?,30|6*5|6×5,45,Y,"The roles are different;Choose the captain, then the assistant",There are 6 × 5 = 30 ways.
+2,"Three tile colors may be used in each of four labeled spaces, and colors may repeat. How many patterns are possible?",81|3^4,60,Y,Each space has 3 choices;Use a power,There are 3^4 = 81 patterns.
+3,A two-character code begins with one of 5 letters and ends with a digit from 0 to 9. How many codes are possible?,50|5*10|5×10,45,Y,There are 5 letter choices and 10 digit choices;Multiply,There are 5 × 10 = 50 codes.
+4,You may either roll two distinguishable 8-sided dice or select one of 20 symbols. How many total outcomes are there?,84|8*8+20|8×8+20,60,Y,Two dice give 8 × 8 outcomes;Then add 20 symbol choices,"The dice give 64 outcomes. By classification, the total is 64 + 20 = 84."
+5,How many ways can a captain and assistant be chosen from 8 children if Fred and George refuse to serve together?,54,90,Y,Start with all ordered role assignments;Remove the two assignments using both Fred and George,"There are 8 × 7 = 56 unrestricted choices. The two forbidden assignments are Fred-George and George-Fred, leaving 54."

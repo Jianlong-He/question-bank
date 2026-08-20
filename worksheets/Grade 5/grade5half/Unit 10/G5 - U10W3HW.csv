@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is 962500 ÷ 10⁵?,9.625|9.62500,240,Y,÷ 10^5 moves decimal 5 places left,9.625 -> ÷ 10^5 moves decimal 5 places left
+2,"When a number is divided by 10⁴, the decimal point moves ___ places to the ___.","4, left|Left",240,Y,Decimal point moves how many places? To the left or right?,"4, left|Left"
+3,"Write fraction 681/100,000 as a decimal",0.00681,240,Y,"Divided by 100,000 = move decimal point 5 places left","0.00681 -> Divided by 100,000 = move decimal point 5 places left"
+4,Select which is greater: 5.214x10² 521.4÷10,5.214x10^2,240,N,,"5.214x10^2 -> 5.214 x 100 = 521.4, while 521.4 ÷ 10 = 52.14"
+5,A small piece of metal fabric expands under heat. Its width is multiplied by 10³ and becomes 4.195 millimeters. What was the original width in millimeters?,0.004195,240,Y,Reverse the operation,"0.004195 -> Reverse the operation, 4.195 ÷ 10^3 = 0.004195"

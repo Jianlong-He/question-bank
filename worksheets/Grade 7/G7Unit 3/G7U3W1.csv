@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A zero pair consists of +1 and -1. If you start with 6 zero pairs, how many total integer tiles do you have? (Do not enter any units.)",12,60,Y,"Each zero pair has 2 tiles.","6 zero pairs contain 6*(+1) and 6*(-1), total tiles = 12."
+2,"Evaluate the expression: |-7| + (-9).",-2,65,Y,"Absolute value can't be negative|Adding negatives reduces the positive count.","|-7|=7. 7+(-9)=-2."
+3,"On a number line, you start at -3 and move left 5 units. Where do you land?",-8,70,Y,"Moving left makes the number more negative.","-3 - 5 = -8."
+4,"Determine the sign of the sum: (+4) + (-11).",-|negative|Negative,70,Y,"The larger absolute value is negative.","11 > 4, so final sign is negative."
+5,"Evaluate the expression: (-6) − |-3| + |-5|.",-4,75,Y,"Absolute value can't be negative.|Subtracting a positive is adding a negative.","|-3|=3, 5=|-5|, -6 - |-3| + |-5| = -6 - 3 + 5 = -4."
+6,"A diagram shows 4 positive tiles and 9 negative tiles. Write the resulting integer. Enter only the number with no units.",-5,80,Y,"More negatives than positives.","4 − 9 = -5."
+7,"Graph the expression (-2) + (+7) on a number line in your head. What is the result?",5,80,Y,"Move right 7 from -2.","-2 + 7 = 5."
+8,"Interpret the integer expression -(|-4| + 3).",-7,85,Y,"Absolute value of -4 is 4.","-(4+3) = -7."
+9,"Using integer chips, compute the expression (+5) + [the opposite of (+8)].",-3,85,Y,"Opposite of +8 is -8.","5 + (-8) = -3."
+10,"Using a number line, evaluate (-12) + the opposite of (-5).",-7,90,Y,"Opposite of -5 is +5.","-12 + 5 = -7."

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Evaluate lim x->3 of (x^2-9)/(x-3).,6,70,Y,Factor x^2-9.|Cancel x-3 before substituting.,The expression becomes x+3 so the limit is 6.
+2,Evaluate lim x->2 of (x^2-x-2)/(x-2).,3,70,Y,Factor the numerator as (x-2)(x+1).|Cancel then substitute.,The limit of x+1 at 2 is 3.
+3,Evaluate lim x->0 of ((1+x)^2-1)/x.,2,70,Y,Expand the numerator.|Cancel the factor x.,The quotient becomes 2+x so the limit is 2.
+4,Which algebraic technique is useful for a limit containing sqrt(x+1)-1?,rationalizing|multiply by the conjugate|use the conjugate,70,Y,A conjugate removes the radical difference.|Multiply numerator and denominator by sqrt(x+1)+1.,Rationalizing with the conjugate is useful.
+5,Evaluate lim x->0 of (sqrt(x+1)-1)/x.,1/2|0.5,70,Y,Multiply by the conjugate.|The expression becomes 1/(sqrt(x+1)+1).,Substitution after rationalizing gives 1/2.
+6,Evaluate lim x->1 of (x-1)/(sqrt(x)-1).,2,70,Y,Multiply by sqrt(x)+1.|Then x-1 cancels.,The expression becomes sqrt(x)+1 so the limit is 2.
+7,If factoring and rationalizing both fail what should be checked next?,another identity or limit law|graph or table|a different algebraic strategy,70,Y,Choose a strategy based on expression structure.|Trig identities or squeeze arguments may apply.,Check identities limit laws or graphical and numerical evidence for another strategy.
+8,Evaluate lim x->0 of (1-cos^2(x))/sin^2(x).,1,70,Y,Use 1-cos^2(x)=sin^2(x).|Cancel for nonzero nearby x.,The quotient is 1 near 0 so the limit is 1.
+9,Evaluate lim x->0 of sin(2x)/sin(x).,2,70,Y,Use sin(2x)=2sin(x)cos(x).|Cancel sin(x) then let x approach 0.,The limit is 2cos0=2.
+10,Why is cancellation allowed in a limit even if the canceled factor is zero at the target?,nearby inputs are nonzero|limits use values near the point|the functions agree except at the point,70,Y,A limit ignores the single target input.|The simplified and original expressions agree nearby.,Cancellation is valid because the expressions agree for nearby inputs other than the target.

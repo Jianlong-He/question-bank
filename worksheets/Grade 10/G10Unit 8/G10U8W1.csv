@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What must be true about corresponding angles in similar figures?,they are equal|equal|congruent,70,Y,Similarity preserves angle measures.|Match angles in corresponding positions.,Corresponding angles of similar figures are congruent.
+2,Two similar figures have corresponding side lengths 4 and 10. What is the scale factor from the first to the second?,2.5|5/2,70,Y,Divide the image length by the original length.|Compute 10/4.,The scale factor is 10/4=2.5.
+3,Solve the proportion 6/9=x/12.,8,70,Y,Cross multiply.|Compute 9x=72.,Since 9x=72 the value of x is 8.
+4,Which similarity criterion uses two pairs of congruent angles?,AA|angle angle|AA similarity,70,Y,Two angles determine the third angle.|The abbreviation has two letters.,The criterion is AA similarity.
+5,Which similarity criterion compares all three pairs of corresponding sides?,SSS|SSS similarity|side side side,70,Y,All three side ratios must be equal.|The abbreviation has three S letters.,The criterion is SSS similarity.
+6,Which similarity criterion uses two proportional side pairs and their included angle?,SAS|SAS similarity|side angle side,70,Y,The angle lies between the compared sides.|Think side-angle-side.,The criterion is SAS similarity.
+7,A dilation has scale factor 3. Does it preserve angle measures? Enter Yes or No.,Yes|yes|Y|y,70,Y,Dilations change size but not shape.|Similarity transformations preserve angles.,Yes. A dilation preserves every angle measure.
+8,Triangles have corresponding sides 3 4 5 and 9 12 15. Are they similar? Enter Yes or No.,Yes|yes|Y|y,70,Y,Compare corresponding side ratios.|Each second length is three times the first.,Yes. All corresponding sides have ratio 3.
+9,A side of length 7 corresponds to a side of length 21. If another original side is 5 what is its image length?,15,70,Y,Use the same scale factor for every length.|The scale factor is 21/7=3.,The image length is 5(3)=15.
+10,Similar triangles have side ratio small:large=2:5. A large side is 20. Find the corresponding small side.,8,70,Y,Multiply 20 by 2/5.|Set x/20=2/5.,The small side is 20(2/5)=8.

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the least common multiple of 4 and 10?,20,120,Y,"List multiples of 4 and 10 and find the first match; 4 -> 4, 8, 12, 16, 20. 10 -> 10, 20 found it!",20
+2,Rewrite 2/3 as ninths (i.e. denominator is 9),6/9,120,Y,"To change a fraction to ninths, make the denominator 9. Ask yourself: what multiplied by 3 gives 9?",6/9
+3,Add using the least common multiple: 1/6 + 3/8,13/24,180,Y,24 is the least common denominator of 6 and 8. Convert both fractions before adding.,13/24
+4,Subtract using the least common multiple: 9/10 - 1/4,13/20,180,Y,"Find the least common multiple of 10 and 4, rewrite both fractions, and subtract.",13/20
+5,Select. Which is larger A) 1/3 + 1/4 B) 2/5 + 1/6 : A B the-same,A,260,Y,Find common denominators for each pair to calculate and see which total value is bigger.,A

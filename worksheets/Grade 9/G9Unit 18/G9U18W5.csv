@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the slope of a line perpendicular to y = 2x + 5?,-1/2,70,Y,Take the reciprocal of 2.|Change the sign.,The perpendicular slope is -1/2.
+2,What is the slope of a line perpendicular to y = -3/5x + 1?,5/3,70,Y,Flip -3/5.|Change its sign.,The perpendicular slope is 5/3.
+3,Write the equation of the line through (0 7) perpendicular to y = 1/4x - 2.,y=-4x+7|y = -4x + 7,70,Y,The perpendicular slope is -4.|The point gives the y-intercept.,The equation is y = -4x + 7.
+4,Write the equation of the line through (2 3) perpendicular to y = -x + 6.,y=x+1|y = x + 1,70,Y,The negative reciprocal of -1 is 1.|Substitute (2 3) to find b.,3 = 2 + b gives b = 1 so y = x + 1.
+5,Write the equation of the line through (-1 4) perpendicular to y = 2x - 5.,y=-1/2x+7/2|y = -1/2x + 7/2,70,Y,Use slope -1/2.|Substitute x = -1 and y = 4.,4 = (-1/2)(-1) + b gives b = 7/2 so y = (-1/2)x + 7/2.
+6,Are lines with slopes 4 and -1/4 perpendicular? Enter Yes or No.,Yes|yes|Y|y,70,Y,Multiply the slopes.|Perpendicular nonzero slopes have product -1.,Yes. 4(-1/4) = -1.
+7,Are lines with slopes -2 and 1/2 perpendicular? Enter Yes or No.,Yes|yes|Y|y,70,Y,Check whether their product is -1.|-2 times 1/2 equals -1.,Yes. The slopes are negative reciprocals.
+8,A line has undefined slope. What is the slope of a perpendicular line?,0|zero,70,Y,An undefined slope describes a vertical line.|A line perpendicular to vertical is horizontal.,The perpendicular line is horizontal with slope 0.
+9,Why do nonvertical nonhorizontal perpendicular slopes multiply to -1?,they are negative reciprocals|because they are negative reciprocals|negative reciprocal relationship,70,Y,Write one slope as a/b.|The other is -b/a.,Because the slopes are negative reciprocals their product is (a/b)(-b/a) = -1.
+10,Find the slope of a line perpendicular to 2x + 3y = 12.,3/2,70,Y,First rewrite the given line in slope-intercept form.|Its slope is -2/3 then take the negative reciprocal.,The given slope is -2/3 so the perpendicular slope is 3/2.

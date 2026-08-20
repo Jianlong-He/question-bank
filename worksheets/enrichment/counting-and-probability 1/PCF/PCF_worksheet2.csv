@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Compute 25×7×4 using a convenient multiplication rule.,700|25×4×7|25*4*7,45,Y,Use the commutative rule to multiply 25 and 4 first;Then multiply by 7,"By the commutative rule, $25\cdot7\cdot4=(25\cdot4)\cdot7$.;Since $25\cdot4=100$, the product is $100\cdot7=700$."
+2,Compute 125×8×6 using a convenient multiplication rule.,6000|125×8×6|125*8*6,45,Y,Use the commutative rule to multiply 125 and 8 first;Then multiply by 6,"By the commutative rule, $125\cdot8\cdot6=(125\cdot8)\cdot6$.;Since $125\cdot8=1000$, the product is $1000\cdot6=6000$."
+3,Compute 16×5×2.,160|16×10|16*10,45,Y,Use the associative rule to group 5 and 2;Then multiply by 16,$16\cdot5\cdot2=16\cdot(5\cdot2)=16\cdot10=160$.
+4,Compute 9×4×25 using a convenient order.,900|9×100|9*100,45,Y,Multiply 4 and 25 first;Then multiply by 9,"Using a convenient order, $9\cdot4\cdot25=9\cdot(4\cdot25)=9\cdot100=900$."
+5,Use the distribution rule to calculate 18×12.,216|18×10+18×2|18*10+18*2,60,Y,Break 12 into 10+2;Compute 18×10 and 18×2;Add the partial products,$18\cdot12=18(10+2)=18\cdot10+18\cdot2=180+36=216$.
+6,Use the distribution rule to calculate 24×15.,360|24×10+24×5|24*10+24*5,60,Y,Break 15 into 10+5;Compute 24×10 and 24×5;Add them,$24\cdot15=24(10+5)=24\cdot10+24\cdot5=240+120=360$.
+7,Expand and calculate (6+4)(8+3) using extended distribution.,110,60,Y,Multiply each part of the first bracket by each part of the second bracket;There should be four products;Add the four products,$(6+4)(8+3)=6\cdot8+6\cdot3+4\cdot8+4\cdot3$.;This equals $48+18+32+12=110$.
+8,Calculate 123×21 by breaking 21 into 20+1.,2583|123×20+123|123*20+123,60,Y,Compute 123×20;Compute 123×1;Add the partial products,$123\cdot21=123(20+1)=123\cdot20+123\cdot1=2460+123=2583$.
+9,Calculate 126×32 by breaking 32 into 30+2.,4032|126×30+126×2|126*30+126*2,75,Y,Break 32 into 30+2;Compute 126×30 and 126×2;Add the two partial products,$126\cdot32=126(30+2)=126\cdot30+126\cdot2=3780+252=4032$.
+10,Expand and calculate (200+30+4)(50+6) using extended distribution.,13104,90,Y,Multiply each part of 200+30+4 by each part of 50+6;There should be six products;Add the six products,$(200+30+4)(50+6)=200\cdot50+200\cdot6+30\cdot50+30\cdot6+4\cdot50+4\cdot6$.;This equals $10000+1200+1500+180+200+24=13104$.

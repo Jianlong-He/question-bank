@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Count by 2s starting from 0: 0, 2, 4, __, 8, 10",6,80,Y,Add 2 each time,6
+2,"Count by 2s starting from 1:    1, 3, __, 7, 9, 11",5,90,Y,Add 2 each time,5
+3,"Select. Which counting list is by 2s? A) 110, 120, 130, 140  B) 35, 40, 45, 50  C) 14, 16, 18, 20 : A B C D",C,90,Y,Which one goes up by 2?,C
+4,What number comes before 22 when counting by 2s?,20,90,Y,Go back 2 steps,20
+5,Start at 10 and skip count by 2s until you reach 20. What is the last number you will say?,20,100,Y,Adding 2 each time until you get to 20.,20
+6,You count by 2s and stop at 20. How many steps did you take starting from 0?,10,120,Y,"Adding 2 each time until you get to 20, how many numbers do you have? - 1 is the number of steps",10
+7,You count by 10s from 0 for 4 steps and then count by 2s for 5 steps. What number do you get?,50,130,Y,"Start at 0, add 10 for 4 steps to get 40. Then add 2 from 40 for 5 steps, what number is it?",50
+8,"Start counting 2s from 11 until greater than 20, what is the last number?",21,140,Y,Adding 2 each time until your number is just bigger than 20,21
+9,You have 3 pockets. Each pockets has 5 candies. How many candies you have?,15,160,Y,Adding 5 for 3 times from 5,15
+10,Your class lines up in 2s. There are 16 students. How many lines you have?,8,180,Y,"Adding 2 each time until you get to 16, how many numbers do you have?",8

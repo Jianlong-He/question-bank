@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Find the MEAN. Data: 4, 12, 35, 7, 90, 23, 8, 51",28.75|230/8|115/4|28 3/4,100,Y,"Add all numbers, then divide by 8",Sum = 230 -> 230 ÷ 8 = 28.75,
+2,"Find the MEDIAN. Data: 5, 42, 18, 9, 100, 27, 3, 60",22.5|45/2|22 1/2,100,Y,Order first,"Ordered: 3, 5, 9, 18, 27, 42, 60, 100. Median = (18 + 27) ÷ 2 = 22.5",
+3,"Find the MODE. Data: 7, 25, 7, 60, 100, 25, 25, 7","7,25",100,Y,Count repeats,Both 7 and 25 appear 3 times -> mode: 7 and 25,
+4,"Mean = 20. Data: 10, 15, ?, 25, 30. What is the missing value?",20,100,N,,Total = 20 × 5 = 100. Known sum = 80. Missing = 100 − 80 = 20,
+5,"Select. Data is 2, 4, 6, 8, 10, 12. Add a 200 into the data, which is affected MOST?: Mean Median Mode",Mean,100,N,,Mean increases a lot due to 200,
+6,"Find the MEDIAN. Data is 3, 12, 3, 45, 90, 12, 200, 3",12,100,N,,"Ordered: 3,3,3,12,12,45,90,200. Median = (12+12)/2 = 12",
+7,"Select. Data is 1, 2, 3, 4, 5, 6, 7, 100. After removing 100, what happens? Mean-decreases Median-increases Both-increase",Mean-decreases ,100,N,,Mean drops significantly when removing a larger number,
+8,"Select. Compare Mean vs Median. Data is 2, 3, 4, 5, 6, 7, 100. Compare Mean vs Median, which is larger? Mean Median Same",Mean,100,N,,Mean pulled up by 100,
+9,"Data: 4, 12, 35, 7, 90, 23, 8, 51.Does this set have a mode? Answer yes or no",No|no|NO,100,N,,All numbers appear once -> no mode,
+10,Original mean = 30 (8 numbers). A new number 70 is added. Find the new mean (Round it to hundredth),34.44|310/9|34 4/9,100,Y,What is the new total?,Old total = 30 × 8 = 240. New total = 240 + 70 = 310. New mean = 310 ÷ 9 ≈ 34.44,

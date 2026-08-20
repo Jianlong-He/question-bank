@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find 2^5.,32,45,Y,An exponent tells how many copies of the base to multiply;Write 2^5 as five 2s multiplied,$2^5=2\cdot2\cdot2\cdot2\cdot2=32$.
+2,Find 5^3.,125,45,Y,Write 5^3 as 5×5×5;Multiply,$5^3=5\cdot5\cdot5=125$.
+3,Find 6!.,720,45,Y,A factorial multiplies all positive integers down to 1;Write 6! as 6×5×4×3×2×1,$6!=6\cdot5\cdot4\cdot3\cdot2\cdot1=720$.
+4,"Find P(7,2).",42,45,Y,"P(7,2) means choose and order 2 items from 7;There are 7 choices, then 6 choices","$P(7,2)=7\cdot6=42$."
+5,In how many ways can the letters in DOG be arranged?,6|3!,45,Y,There are 3 distinct letters;Use 3!,"The letters D, O, and G are distinct.;They can be arranged in $3!=3\cdot2\cdot1=6$ ways."
+6,"A 3-digit code can use any digit from 0 to 9, and digits may repeat. How many codes are possible?",1000,60,Y,Each position has 10 choices;There are 3 positions;Use the counting principle,Each of the $3$ positions has $10$ choices.;So there are $10^3=1000$ codes.
+7,"A club has 9 members. How many ways can it choose a president, vice president, and treasurer?",504|9!/6!,90,Y,"The jobs are different, so order matters;There are 9 choices, then 8, then 7","There are $9$ choices for president, $8$ remaining choices for vice president, and $7$ for treasurer.;The total is $9\cdot8\cdot7=504$."
+8,"There are 8 students in a contest. How many ways can first, second, and third place be awarded?",336|8!/5!,60,Y,"Order matters;There are 8 choices for first, then 7, then 6","There are $8$ choices for first place, $7$ for second, and $6$ for third.;So there are $8\cdot7\cdot6=336$ ways."
+9,Four friends each choose one donut from 6 types. They all want different types. How many ordered choices are possible?,360|6!/2!,90,Y,"The first friend has 6 choices;Then 5, then 4, then 3 choices remain","The choices are $6$, then $5$, then $4$, then $3$.;Thus there are $6\cdot5\cdot4\cdot3=360$ ordered choices."
+10,"A three-letter code uses letters A through Z, and letters may repeat. How many codes are possible?",17576,60,Y,Each position has 26 choices;There are 3 positions,There are $26$ choices for each of $3$ positions.;Thus there are $26^3=17576$ codes.

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Which number is the denominator in 7/9?,9,80,Y,Fraction: numerator / denominator. The denominator tells how many equal parts the whole is divided into.,9
+2,What is the numerator in the fraction 3/5?,3,80,Y,Fraction: numerator / denominator. The numerator tells how many parts we have or how many are shaded.,3
+3,Which shows a bigger part of a whole: 1/4 or 3/4?, 3/4,100,Y,"First check the denominators: both fractions have the same denominator 4, so the ""whole"" is the same size. ; When the denominators are the same, compare the numerators: which is more: 1 or 3?", 3/4
+4,A circle is cut into 8 equal slices. You shade 7. What fraction is shaded?, 7/8,120,Y,Fractions = shaded parts / total parts, 7/8
+5,A rectangle has 5 equal parts. All 5 are shaded. What fraction is the shaded parts?,5/5|1|1/1,120,Y,"Fractions = shaded parts / total parts. If all parts are shaded, numerator = denominator.",5/5|1|1/1
+6,Which shows a smaller part of a whole: 3/8 or 7/8?, 3/8,140,Y,"First check the denominators: both fractions have the same denominator 8, so the ""whole"" is the same size. ; When the denominators are the same, compare the numerators: which is less: 3 or 7?", 3/8
+7,Which is bigger: 3/4 or 3/5?, 3/4,160,Y,"Different denominators, same numerators. When the top numbers are the same, the fraction with the smaller denominator means bigger pieces. ; Compare 4 and 5: cutting into 4 parts gives bigger slices than cutting into 5.", 3/4
+8,"A shape is divided into 19 equal parts. 4 parts are red, 7 are blue. What fraction is NOT shaded?",8/19,160,Y,Fractions = not shaded parts / total parts. 19 - (red + blue) = not shaded parts,8/19
+9,Is 9/5 larger than 1?,Yes|yes,160,Y,"When the numerator is bigger than the denominator, the fraction is more than one whole.",Yes|yes
+10,Which is bigger: 2/3 or 3/7?,2/3,160,Y,"Think about how close each fraction is to 1 whole. ; Or think of as 2 equal size shapes, one has 3 equal parts and 2 parts shaded. One has 7 equal parts and 3 shaded. Which one has larger shaded area.",2/3

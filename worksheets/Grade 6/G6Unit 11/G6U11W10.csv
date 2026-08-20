@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Data set A: 2, 2, 4, 4. Data set B: 1, 1, 4, 6. Which data set is more spread out?",B|Data set B,100,Y,Look at how far values are from the mean,Data set B has values farther from it's mean 3 → more spread,
+2,"Data: 4, 5, 6, 1. Find the Mean",4,100,N,,(4 + 5 + 6 + 1) ÷ 4 = 16 ÷ 4 = 4,
+3,"Data: 4, 5, 6, 1. Find the distance of each value from the mean","0,1,2,3",100,Y,Distance from mean (4),"|4-4| = 0, |5-4| = 1, |6-4| = 2, |1-4| = 3",
+4,"Data: 4, 5, 6, 1. Find the average of deviations.",1.4|6/4|3/2|1 1/2,100,Y,"mean = 4, distance = 0,1,2,3",0 + 1 + 2 + 3 = 6 (we got from previous question) 6 ÷ 4 = 1.5,
+5,Select. What does Average Deviation from the Mean (MAD) measure?: The-average The-total How-spread-out-the-data-is The-largest-number,How-spread-out-the-data-is,100,N,,MAD tells us how far data points are from the mean,
+6,"Two data sets both have mean = 5. Which one has larger Mean Average Deviation (MAD)?: A [4,5,6] B [1,5,9] Answer A or B",B|b,100,Y,Which is more spread out?,Set B values are farther from 5 -> larger MAD,
+7,"Data: 13, 13, 13, 13, 13, 13, 13. Find Average Deviation from the Mean (MAD).",0,100,Y,All numbers same,All values = mean -> no deviation -> 0,
+8,"Data: 2, 8, 3, 7. Find Average Deviation from the Mean (MAD).",2.5|10/4|5/2|2 1/2,100,Y,"Find the mean first, then distances then MAD","Mean = 5, Distance: 3, 3, 2, 2. MAD = (3+3+2+2) ÷ 4 = 10 ÷ 4 = 2.5",
+9,"Data: 12, 4, 9, 11. Find Average Deviation from the Mean (MAD).",2.5|10/4|5/2|2 1/2,100,Y,"Find the mean first, then distances then MAD","Mean = 9, Distance: 3, 5, 0, 2. MAD = (3+5+0+2) ÷ 4 = 10 ÷ 4 = 2.5",
+10,"Data: 8, 4, 15, 13. Find Average Deviation from the Mean (MAD).",4,100,Y,"Find the mean first, then distances then MAD","Mean = 10, Distance: 2, 6, 5, 3. MAD = (2+6+5+3) ÷ 4 = 16 ÷ 4 = 4",

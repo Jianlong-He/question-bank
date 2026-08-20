@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 3 kilometers = ____ meters = ___ centimeters,"3000,300000",300,Y,1 km = 1000 m = 100000 cm,"3000,300000"
+2,Fill: 5 kilometers = ____ meters = ___ centimeters,"5000,500000",300,Y,1 km = 1000 m = 100000 cm,"5000,500000"
+3,Fill: ____ meters = 4 kilometers + 5 meters,4005,300,Y,1 km = 1000 m = 100000 cm,4005
+4,Fill: ____ centimeters = 6 meters + 50 centimeters,650,300,Y,1 km = 1000 m = 100000 cm,650
+5,Fill: 4 feet = ___ inches,48,300,Y,1 foot = 12 inches,48
+6,Fill: ___ inches = 3 feet + 7 inches,43,600,Y,1 foot = 12 inches,43
+7,Fill: 3 yards = ___ inches ,108,600,Y,1 yard = 3 feet,108
+8,Fill: 4 yards = ___ inches,144,600,Y,1 yard = 3 feet,144
+9,Fill: 72 inches = ____  yards,2,600,Y,1 yard = 3 feet,2
+10,Fill: 3 1/2 yards = ___ inches ,126,600,Y,1 yard = 3 feet,126

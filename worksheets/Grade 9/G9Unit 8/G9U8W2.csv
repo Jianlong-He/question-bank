@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Which equation defines y as a function of x: y = 2x + 3 or x = y^2?,y=2x+3|y = 2x + 3|first|the first equation,70,Y,"For each x, count possible y-values.|x = y^2 can give two y-values.",The equation y = 2x + 3 gives exactly one y-value for each x.
+2,Write y = 5x - 2 using function notation with the name f.,f(x)=5x-2|f(x) = 5x - 2,70,Y,Replace y with f(x).|Keep the expression unchanged.,The function is f(x) = 5x - 2.
+3,"If C(n) = 4n + 10, what does C(6) represent?",the cost for 6 items|cost of 6 items|cost when 6 items are bought,70,Y,The input n counts items.|C gives the corresponding cost.,C(6) represents the cost for 6 items.
+4,"If d(t) gives distance after t hours, what does d(3) = 180 mean?",180 distance units after 3 hours|distance is 180 after 3 hours|after 3 hours the distance is 180,70,Y,Interpret the input first.|Then interpret the output.,"After 3 hours, the distance is 180 units."
+5,"If f(x) = -2x + 7, solve f(x) = 1 for x.",3,70,Y,Set -2x + 7 equal to 1.|Solve -2x = -6.,x = 3.
+6,A function sends x to x^2 - 4. Write its equation using h.,h(x)=x^2-4|h(x) = x^2 - 4|h(x)=x²-4,70,Y,Use h(x) for the output.|Write the stated rule.,The equation is h(x) = x^2 - 4.
+7,"If P(t) = 15t + 40, what is the initial value P(0)?",40,70,Y,Substitute t = 0.|The variable term becomes zero.,P(0) = 40.
+8,"If A(s) = s^2, what does A(5) equal?",25,70,Y,Replace s with 5.|Square 5.,A(5) = 25.
+9,"If f(-1) = 8, which ordered pair lies on the graph of f?","(-1,8)|-1,8",70,Y,Function notation gives input then output.|Write the input as x and output as y.,"The ordered pair is (-1, 8)."
+10,"For f(x) = 2x + 1, enter f(0) and then f(5).","1, 11",70,Y,Evaluate the rule twice.|Use x = 0 and x = 5.,f(0) = 1 and f(5) = 11.

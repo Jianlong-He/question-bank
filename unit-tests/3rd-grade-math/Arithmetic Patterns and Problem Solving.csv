@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Fill: 2,4,__,8",6,60,N,,6,
+2,"Fill: 7,14,21,__",28,60,N,,28,
+3,"FIll: 3,__,9,__","6,12",60,N,,"6,12",
+4,"What do we have to add to 60 to find the missing number in the sequence 30,45,60,__,90",15,60,N,,15,
+5,Select which step Bob makes his mistake : 1 2 None,1,60,N,,1,https://i.ibb.co/8DfD5Bd4/Screenshot-2026-05-02-at-5-26-09-PM.png
+6,Select which of the following has an even product : 3x7 4x7 5x7,4x7,60,N,,4x7,
+7,Select two of the following which have an odd product : 2x7 3x5 4x2 1x7,"3x5,1x7",60,N,,3x5 and 1x7,
+8,"Fill: Complete the pattern 81,84,__,90,93,__,99","87,96",60,N,,87 and 96,
+9,"Select an equation that represents how Igor scored 2 goals in the first two quarters of his basketball game, and 3 goals in the last two quarters : (2x2)+(3x3) (2x2)+(2x3) (3x3)+(4x2)",(2x2)+(2x3),60,N,,(2x2)+(2x3),
+10,"John started the day with 30 pieces of candy. During the day, he ate 7 pieces. He also gave a few pieces to his friend Piper. At the end of the day, John had 15 pieces left. How much did he give to Piper?",8,60,N,,8,

@@ -1,0 +1,12 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Is 2 even or odd?,even|Even|EVEN,50,Y,"Even numbers are integers exactly divisible by 2, leaving no remainder. They always end in 0, 2, 4, 6, or 8","even  -> Even numbers are integers exactly divisible by 2, leaving no remainder. They always end in 0, 2, 4, 6, or 8",
+2,Is 7 even or odd?,odd|Odd|ODD,50,Y,"Odd numbers are integers not divisible by 2, leaving a remainder of 1 when divided. They always end in 1, 3, 5, 7, or 9 in the ones place","odd -> Odd numbers are integers not divisible by 2, leaving a remainder of 1 when divided. They always end in 1, 3, 5, 7, or 9 in the ones place",
+3,Is 22 even or odd?,even|Even|EVEN,50,Y,Look at the ones place.,even  ->  The ones digit is 2. 2 is even.,
+4,Is 34 even or odd?,even|Even|EVEN,50,Y,Look at the ones place.,even  ->  The ones digit is 4. 4 is even.,
+5,Is 43 even or odd?,odd|Odd|ODD,50,Y,Look at the ones place.,odd  ->  The ones digit is 3. 4 is odd.,
+6,What is the sum of 16 + 24? Is it even or odd?,"40, even",50,Y,Even + Even = ?,"40, even  -> Even + Even = Even",
+7,What is the sum of 15 + 23? Is it even or odd?,"38, even",50,Y,odd + odd = ?,"38, even  -> odd + odd = Even",
+8,Is the product of 9 x 7 even or odd?,odd|Odd|ODD,50,Y,Odd × Odd = ?,odd   -> Odd × Odd = Odd,
+9,Is 12 × 15 even or odd?,even|Even|EVEN,50,Y,Check if one number is even.,"even  -> When multiplying, if at least one number is even, the product is even. Pattern: Even × any number = Even.",
+10,"Is 5,231 even or odd?",odd|Odd|ODD,50,Y,Look at the ones place.,odd  ->  The ones digit is 1. 1 is odd.,
+11,Select the option that would make an odd product A) Even x odd  B) Even x Even  C) odd x odd : A B C,C,50,Y,Remember: If at least one number is even...,"C  -> When multiplying, if at least one number is even, the product is even",

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A student may choose an outfit from 4 shirts and 3 hats, or choose one of 6 badges. How many total choices are there?",18|4*3+6|4×3+6,45,Y,Count outfit choices first;Then add the badge choices,"There are 4 × 3 = 12 outfits and 6 badges, for 18 total choices."
+2,"A club selects one activity from 5 sports, 4 crafts, or 2 games. How many choices are there?",11|5+4+2,45,Y,The activity groups are disjoint;Add them,There are 5 + 4 + 2 = 11 choices.
+3,How many two-digit numbers have a tens digit smaller than the ones digit?,36|8+7+6+5+4+3+2+1,60,Y,Classify by the tens digit;For tens digit 1 there are 8 possible larger ones digits,The counts are 8 + 7 + 6 + 5 + 4 + 3 + 2 + 1 = 36.
+4,A blue and red 6-sided die are rolled. In how many outcomes is the sum greater than 9?,6,60,Y,"Count outcomes with sums 10, 11, and 12;Add them","There are 3 outcomes summing to 10, 2 summing to 11, and 1 summing to 12, for 6 total."
+5,A blue and red 6-sided die are rolled. In how many outcomes is the product greater than 20?,6,60,Y,"Count valid red values when blue is 4, 5, or 6;Add the cases","Blue 4 gives 1 outcome, blue 5 gives 2, and blue 6 gives 3. The total is 6."

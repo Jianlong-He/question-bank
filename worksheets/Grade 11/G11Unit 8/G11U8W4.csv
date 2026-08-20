@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the amplitude of y=sin(x)?,1,70,Y,"Amplitude is half the distance from maximum to minimum.|The range is [-1,1].",The amplitude is 1.
+2,What is the period of y=sin(x)?,2pi|2π,70,Y,Sine repeats after one full rotation.|A full rotation is 2pi radians.,The period is 2pi.
+3,What is the period of y=cos(x)?,2pi|2π,70,Y,Cosine also repeats after a full turn.|Use radians.,The period is 2pi.
+4,What is the period of y=tan(x)?,pi|π,70,Y,Tangent repeats twice during a full turn.|Its basic period is half of 2pi.,The period is pi.
+5,What is the range of y=sin(x)?,-1<=y<=1|[-1 1],70,Y,The unit-circle y-coordinate stays between -1 and 1.|Include both endpoints.,The range is -1<=y<=1.
+6,What is the range of y=cos(x)?,-1<=y<=1|[-1 1],70,Y,The unit-circle x-coordinate stays between -1 and 1.|Include both endpoints.,The range is -1<=y<=1.
+7,At which x-value between 0 and pi/2 do sin(x) and cos(x) intersect?,pi/4|π/4,70,Y,Set sin(x)=cos(x).|The angle has equal legs on the unit circle.,They intersect at x=pi/4.
+8,What is sin(0)?,0,70,Y,"Use the unit-circle point (1,0).|Sine is the y-coordinate.",sin(0)=0.
+9,What is cos(0)?,1,70,Y,"Use the unit-circle point (1,0).|Cosine is the x-coordinate.",cos(0)=1.
+10,At what x-value does tan(x) have its first positive vertical asymptote?,pi/2|π/2,70,Y,Tangent is sin/cos.|It is undefined when cos(x)=0.,The first positive vertical asymptote is x=pi/2.

@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find the prime factorization of 48.,2*2*2*2*3|2^4*3,600,Y,Use a factor tree: 48 = 6×8. Factor until every leaf is prime.,2^4*3
+2,Find the prime factorization of 150.,2*3*5*5|2*3*5^2,600,Y,"Divide 150 by 2, then factor 75.",2*3*5^2
+3,Express 220 as a product of primes using exponents.,2^2*5*11,600,Y,"Try 220 = 22×10, then combine repeated primes with exponents.",2^2*5*11
+4,"Express 1,024 as a power of a single prime.",2^10,600,Y,Keep dividing 1024 by 2 and count how many 2s you use.,2^10
+5,What is the prime factorization of 392?,2^3*7^2|2*2*2*7*7,600,Y,Check: 8*49 = 392,2^3*7^2
+6,True or False: The number 1 is a prime number.,FALSE,600,Y,"By definition, a prime number must have exactly two distinct factors (1 and itself)",FALSE
+7,Find the prime factorization of 735.,3*5*7^2|3*5*7*7,600,Y,"735 ends in 5, so divide by 5 first. Then factor 147.",3*5*7^2
+8,"Write the prime factorization of 1,260.",2^2*3^2*5*7|2*2*3*3*5*7,600,Y,"Break 1260 into 126×10, then use divisibility by 2, 3, and 5.",2^2*3^2*5*7
+9,"If n = 2^3 * 3^2 * 5, what is the value of n?",360,600,Y,"Evaluate powers first: 2^3 and 3^2, then multiply by 5.",360
+10,"What is the smallest number divisible by 12, 15 and 28?",420,600,Y,"To find the smallest number divisible by 12 (2^2*3), 15 (3*5), and 28 (2^2*7), we take the highest powers of all primes present: 2^2*3*5*7 ",420

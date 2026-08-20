@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Use extended distribution to find 13 × 13.,169,45,Y,Write each 13 as 10 + 3;Form four products,(10 + 3)(10 + 3) = 100 + 30 + 30 + 9 = 169.
+2,"A lunch has 4 sandwich choices, 3 drink choices, and 2 fruit choices. How many lunches are possible?",24|4*3*2|4×3×2,45,Y,Choose one item from each category;Multiply the choices,There are 4 × 3 × 2 = 24 lunches.
+3,Use commutation and convenient grouping to calculate 16 × 25.,400,60,Y,Write 16 as 4 × 4;Pair one 4 with 25,16 × 25 = 4 × 4 × 25 = 4 × 100 = 400.
+4,A red and a blue 8-sided die are rolled. In how many outcomes is the red die higher than the blue die?,28,90,Y,There are 8 equal outcomes;Split the remaining outcomes equally by symmetry,"There are 64 outcomes and 8 ties. Half of the other 56 have red higher, so the answer is 28."
+5,Rewrite 3×3 + 3×4 + 4×3 + 4×4 as a square and calculate it.,49|7*7|7×7,60,Y,Use extended distribution backward;Recognize (3 + 4)(3 + 4),The expression is (3 + 4)(3 + 4) = 7 × 7 = 49.

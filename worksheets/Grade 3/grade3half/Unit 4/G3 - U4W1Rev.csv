@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill the blanks with number 5 / 5 = __ 10 / 5 = __ 15 / 5 = __ 20 / 5 = __,"1,2,3,4",240,Y,"When we say A / B, the first number A is the total. The second number B is how the total is divided equally, it can be the group size or number of group","1,2,3,4"
+2,Fill the blanks with number 8 / 2 = __ 12 / 2 = __ 16 / 2 = __ 20 / 2 = __,"4,6,8,10",240,Y,"Dividing by 2 is like asking How many groups of 2 fit in the number? ; When we say A / B, the first number A is the total. The second number B is how the total is divided equally","4,6,8,10"
+3,Fill the blanks with number 10 / 5 = __ 15 / 5 = __ 20 / 5 = __ 25 / 5 = __,"2,3,4,5",240,Y,"Dividing by 5 is like splitting into groups of 5; When we say A / B, the first number A is the total","2,3,4,5"
+4,Select the sentence that matches 15 / 5 best. A. 15 dogs are split into 5 equal groups. B. 15 dogs are split into groups of 5. C. Both A and B. : A B C,C,360,Y,/ 5 can mean 5 groups or groups of 5 ; Both sentences describe dividing 15 into 5 equal parts.,C
+5,"Select. Mia, Zoe and Sam share 18 candies equally. Which expression helps find how many candies each person gets? A. 18 x 3 B. 18 / 3 C. 18 - 3 : A B C",B,360,Y,18 candies and 3 groups. Share equally means division.,B

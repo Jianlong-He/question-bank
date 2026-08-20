@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: Breaking apart the numbers: 46 = __ tens + __ ones,"4,6",130,N,"Review ""breaking apart 2-digit addition problems"" video","4,6"
+2,Fill: Breaking apart the numbers: 51 = __ tens + __ one,"5,1",130,N,,"5,1"
+3,A student wrote: 43 = 30 + 4. Is it wrong? Write down the correct equation.,43=40+3 ,150,Y,"Tens digit is 4, ones digit is 3",43=40+3 
+4,Select. Which is another way to write 41 + 58?  A) 4 tens + 1 one + 5 tens + 8 ones   B) 4 tens + 1 ten + 5 tens + 8 tens    C) 4 ones + 1 ten + 5 ones + 8 tens : A B C D,A,150,Y,Check each digit's place value,A
+5,Fill: Breaking apart 51 + 37. Tens = __ + __. Ones = __ + __.,"5,3,1,7",170,Y,Break it into tens + ones; Add tens first.,"5,3,1,7"
+6,Select. Which is the same as 46 + 51?  A) 4 + 6 + 5 + 1    B) 40 + 50 + 6 + 1     c) 46 + 5 + 1 : A B C D,B,170,N,"Review ""breaking apart 2-digit addition problems"" video",B
+7,Fill: 20 + 50 + 4 + 5 = __,79,180,Y,"Add tens first, then ones",79
+8,Fill: 12 + 26  = __ tens + __ tens + __ ones + __ ones = __ tens + __ ones = __,"1,2,2,6,3,8,38",200,Y,Break it into tens + ones,"1,2,2,6,3,8,38"
+9,Fill: 42 + 37 = __ tens + __ tens + __ ones + __ ones = __ tens + __ ones = __,"4,3,2,7,7,9,79",200,Y,Break it into tens + ones,"4,3,2,7,7,9,79"
+10,Fill: Breaking apart and solve 51 + 49. Tens = __ + __. Ones = __ + __. Total = __,"5,4,1,9,100",220,Y,Break it into tens + ones; Add tens first then ones. 10 ones is 1 ten,"5,4,1,9,100"

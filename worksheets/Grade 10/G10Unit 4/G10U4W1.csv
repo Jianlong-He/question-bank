@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Is 7/12 rational or irrational?,rational,70,Y,It is a ratio of two integers.|The denominator is nonzero.,7/12 is rational.
+2,Is sqrt(5) rational or irrational?,irrational,70,Y,Five is not a perfect square.|Its decimal neither terminates nor repeats.,sqrt(5) is irrational.
+3,Is 0.375 rational or irrational?,rational,70,Y,A terminating decimal can be written as a fraction.|0.375=375/1000.,The number is rational.
+4,Is 0.121212... rational or irrational?,rational,70,Y,The decimal repeats a fixed block.|Every repeating decimal is a fraction.,The number is rational.
+5,Is pi rational or irrational?,irrational,70,Y,Its decimal does not terminate or repeat.|It cannot be written as a ratio of integers.,Pi is irrational.
+6,Is sqrt(81) rational or irrational?,rational,70,Y,Evaluate the square root.|sqrt(81)=9.,The value 9 is rational.
+7,Write 0.6 as a fraction in simplest form.,3/5,70,Y,Write 0.6 as 6/10.|Reduce by dividing by 2.,0.6=6/10=3/5.
+8,Which set contains every rational and irrational number?,real numbers|the real numbers|real number system,70,Y,Rational and irrational numbers partition this larger set.|It includes every point on the number line.,They are all real numbers.
+9,Is -sqrt(16) rational or irrational?,rational,70,Y,Evaluate sqrt(16) first.|-sqrt(16)=-4.,The integer -4 is rational.
+10,A decimal terminates after finitely many digits. Must it be rational? Enter Yes or No.,Yes|yes|Y|y,70,Y,Use a power of 10 as a denominator.|A finite decimal can always be written as an integer fraction.,Yes. Every terminating decimal is rational.

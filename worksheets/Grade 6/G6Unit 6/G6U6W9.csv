@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Find the Greatest Common Divisor (GCD) of 9 and 27.,9,100,Y,One divides the other,9     -> 27 ÷ 9 = 3 -> GCD = 9,
+2,Find the Greatest Common Divisor (GCD) of 14 and 21.,7,100,Y,List factors,"7     -> 14: 1, 2, 7, 14 & 21: 1, 3, 7, 21. The Greatest common: 7",
+3,Find the Greatest Common Divisor (GCD) of 16 and 24.,8,100,Y,List factors,"8     -> 16: 1, 2, 4, 8, 16 & 24: 1, 2, 3, 4, 6, 8, 12, 24. The Greatest common: 8",
+4,Find the Greatest Common Divisor (GCD) of 8 and 15.,1,100,Y,List factors,"1     -> 8: 1, 2, 4, 8 & 15: 1, 3, 5, 15. The Greatest common: 1",
+5,Find the Greatest Common Divisor (GCD) of 18 and 24.,6,100,Y,List factors,"6     -> 18: 1, 2, 3, 6, 9, 18 & 24: 1, 2, 3, 4, 6, 8, 12, 24. The Greatest common: 6",
+6,Find the Greatest Common Divisor (GCD) of 25 and 40.,5,100,Y,List factors,"5     -> 25: 1, 5, 25 & 40: 1, 2, 4, 5, 8, 10, 20, 40. The Greatest common: 5",
+7,Find the Greatest Common Divisor (GCD) of 7 and 11.,1,100,Y,Both are prime numbers,"1     -> Since both 7 and 11 are prime number, the only common factor is 1 -> GCD = 1",
+8,You have 24 apples and 36 oranges. You want to make equal groups with no leftovers. What is the largest number of groups you can make?,12|12 groups,100,Y,Use GCD,"12 groups     -> GCD(24, 36) = 12, so you can make 12 groups",
+9,"If GCD(18, x) = 6, what could x be?: (A) 6 or 18 or 24   (B) 6 or 12 or 30   (C) 6 or 12 or 28. Put the answer as A or B or C",B|b,100,Y,Must share factor 6,B     -> x must be divisible by 6 but not increase GCD beyond 6,
+10,You have 28 chocolates and 42 candies. You want to pack them into identical party bags so that: Each bag has the same number of chocolates & Each bag has the same number of candies & No items are left over. What is the greatest number of party bags you can make?,14|14 bags,100,Y,Find GCD of 28 and 42,"14 bags     -> 28 -> 1, 2, 4, 7, 14, 28, 42 -> 1, 2, 3, 6, 7, 14, 21, 42. Common factors: 1, 2, 7, 14. Greatest = 14",

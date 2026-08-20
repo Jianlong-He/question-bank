@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is 10 × 20? (10 ×  20 = 10 ×  2 ×  10 ),200,300,Y,Think of 2 as 2 × 10. Then multiply 10 × (2 × 10). ,200
+2,What is 20 × 30? ( 20 ×  30 = 2 ×  10 ×  3 ×  10 ),600,300,Y,Think of 20 as 2 × 10 and 30 as 3 × 10,600
+3,What is 80 × 30?,2400,300,Y,Think of 80 as 8 × 10 and 30 as 3 × 10,2400
+4,What is 70 × 50?,3500,300,Y,Think of 70 as 7 × 10 and 50 as 5 × 10,3500
+5,What is 60 × 50?,3000,300,Y,Think of 60 as 6 × 10 and 50 as 5 × 10,3000
+6,What is 90 × 60?,5400,300,Y,Think of 90 as 9 × 10 and 60 as 6 × 10,5400
+7,Select all calculations that equal 3200:40×80 80×40 ,"40×80,80×40",600,Y,Calculate each multiplication,"40×80,80×40"
+8,Select all calculations that equal 2400:60×40 80×30 70×30,"60×40,80×30",600,Y,Calculate each multiplication,"60×40,80×30"
+9,An auditorium has 80 rows of seats. Each row has 50 seats. How many seats are there in total?,4000,600,Y,Calculate 80 × 50,4000
+10,"A school library receives 40 new books each month. After 20 months, they donated 100 books to schools. How many books from the new collection remain?",700,600,Y,"First, find the total books received: 40×20, then subtract 100",700

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What value completes the square in x^2+8x+__?,16,70,Y,Take half of 8.|Square 4.,The missing value is (8/2)^2=16.
+2,Rewrite x^2+8x+16 as a square.,(x+4)^2,70,Y,Use the perfect-square pattern.|Half the middle coefficient is 4.,x^2+8x+16=(x+4)^2.
+3,What value completes the square in x^2-10x+__?,25,70,Y,Take half of -10.|Square -5.,The missing value is (-10/2)^2=25.
+4,Rewrite x^2-10x+25 as a square.,(x-5)^2,70,Y,Use the sign of the middle term.|The repeated binomial is x-5.,x^2-10x+25=(x-5)^2.
+5,Solve x^2+6x+5=0 by completing the square. Enter the larger root.,-1,70,Y,Move 5 then add 9 to both sides.|Solve (x+3)^2=4.,x+3=±2 gives -1 and -5 so the larger root is -1.
+6,Solve x^2-4x-12=0 by completing the square. Enter the positive root.,6,70,Y,Move -12 then add 4 to both sides.|Solve (x-2)^2=16.,x-2=±4 gives 6 and -2 so the positive root is 6.
+7,Rewrite x^2+12x+20 in vertex form.,(x+6)^2-16,70,Y,Add and subtract 36.|Group x^2+12x+36.,x^2+12x+20=(x+6)^2-16.
+8,Rewrite x^2-8x+3 in vertex form.,(x-4)^2-13,70,Y,Add and subtract 16.|Combine 3-16.,x^2-8x+3=(x-4)^2-13.
+9,When completing the square for x^2+bx what value is added?,(b/2)^2|b^2/4,70,Y,Take half the coefficient of x.|Then square that result.,Add (b/2)^2.
+10,Solve x^2+2x-1=0 by completing the square. Enter the larger root rounded to three decimal places.,0.414,70,Y,Add 1 to both sides after moving the constant.|Form (x+1)^2=2.,"x+1=±sqrt(2) so the larger root is -1+sqrt(2), approximately 0.414."

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find the sum 1+2+4+8+16.,31,70,Y,This is a finite geometric series.|Add the five terms.,The sum is 31.
+2,Identify the first term of 5+15+45+135.,5,70,Y,The first term is the first listed value.|Geometric-series notation often calls it a.,The first term is 5.
+3,Identify the common ratio of 5+15+45+135.,3,70,Y,Divide a term by the previous term.|15/5=3.,The common ratio is 3.
+4,Use the finite geometric-series formula to find 3+6+12+24+48.,93,70,Y,"Use a=3, r=2, and n=5.|S_n=a(r^n-1)/(r-1).",S_5=3(2^5-1)/(2-1)=3(31)=93.
+5,Find the sum of the first 4 terms of a geometric sequence with a=2 and r=5.,312,70,Y,Use S_n=a(r^n-1)/(r-1).|Compute 2(5^4-1)/4.,The sum is 2(624)/4=312.
+6,A ball travels 10 meters on the first swing and 8 meters on each successive swing times the previous distance. What distance does it travel in the first 4 swings?,29.52,70,Y,The ratio is 0.8.|Add 10+8+6.4+5.12.,The total is 29.52 meters.
+7,"Write sigma-style expanded terms for a geometric series with a=4, r=3, and n=4. Enter the sum.",160,70,Y,"The terms are 4, 12, 36, and 108.|Add the four terms.",The sum is 4+12+36+108=160.
+8,Find S_6 for a geometric series with a=1 and r=2.,63,70,Y,Use 1+2+4+8+16+32.|Or use 2^6-1.,The sum is 63.
+9,A hiker walks 2 km on day 1 and 1.5 times as far each day. How far does the hiker walk on day 4?,6.75|6.75 km,70,Y,Use a_n=ar^(n-1).|Compute 2(1.5)^3.,The fourth-day distance is 6.75 km.
+10,For a finite geometric series with ratio r not equal to 1 which formula gives its sum?,a(1-r^n)/(1-r)|a(r^n-1)/(r-1),70,Y,The numerator and denominator signs may both be reversed.|Use the first term a and number of terms n.,"The finite sum is a(1-r^n)/(1-r), equivalently a(r^n-1)/(r-1)."

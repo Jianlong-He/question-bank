@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,State the Pythagorean theorem for legs a and b and hypotenuse c.,a^2+b^2=c^2|a squared plus b squared equals c squared,70,Y,The hypotenuse is opposite the right angle.|Square each side length.,The theorem is a^2+b^2=c^2.
+2,Find the hypotenuse of a right triangle with legs 6 and 8.,10,70,Y,Use c^2=6^2+8^2.|Compute c^2=100.,The hypotenuse is sqrt(100)=10.
+3,Find the missing leg of a right triangle with hypotenuse 13 and one leg 5.,12,70,Y,Subtract the known leg square from the hypotenuse square.|Compute 13^2-5^2=144.,The missing leg is sqrt(144)=12.
+4,Find the diagonal of a 5 by 12 rectangle.,13,70,Y,The diagonal is a hypotenuse.|Use 5^2+12^2=169.,The diagonal is 13.
+5,A rectangular box has side lengths 1 2 and 2. Find its space diagonal.,3,70,Y,Use the three-dimensional distance relation.|Compute sqrt(1^2+2^2+2^2).,The space diagonal is sqrt(9)=3.
+6,Do side lengths 7 24 and 25 form a right triangle? Enter Yes or No.,Yes|yes|Y|y,70,Y,Test the converse of the Pythagorean theorem.|Compare 7^2+24^2 with 25^2.,Yes because 49+576=625.
+7,A ladder reaches 12 m up a wall and its foot is 5 m from the wall. Find the ladder length.,13,70,Y,Wall and ground form perpendicular legs.|Use the 5-12-13 triangle.,The ladder length is 13 m.
+8,What kind of argument do Garfield and Bhaskara use in their Pythagorean proofs?,area argument|area comparison|rearrangement of areas,70,Y,Both arrange shapes inside a larger figure.|They compare two expressions for area.,They prove the theorem by comparing or rearranging areas.
+9,In a similarity proof of the Pythagorean theorem what creates the smaller similar triangles?,an altitude to the hypotenuse|altitude from the right angle,70,Y,Draw a perpendicular segment from the right-angle vertex.|It meets the hypotenuse.,An altitude from the right angle to the hypotenuse creates the similar triangles.
+10,A right triangle has legs 9 and 12. Find its area.,54,70,Y,Use one half times the product of the legs.|Compute (1/2)(9)(12).,The area is 54 square units.

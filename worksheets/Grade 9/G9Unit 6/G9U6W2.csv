@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Use substitution to solve y = 2x and x + y = 12. Enter x and then y.,"4, 8",70,Y,Replace y with 2x.|Solve 3x = 12.,x = 4 and y = 8.
+2,Solve x = y + 1 and x + y = 9. Enter x and then y.,"5, 4",70,Y,Substitute y + 1 for x.|Solve 2y + 1 = 9.,"y = 4, so x = 5."
+3,Solve y = 3x - 2 and 2x + y = 18. Enter x and then y.,"4, 10",70,Y,Substitute 3x - 2 for y.|Solve 5x - 2 = 18.,x = 4 and y = 10.
+4,Solve y = 5 - x and 2x - y = 1. Enter x and then y.,"2, 3",70,Y,Substitute 5 - x for y.|Solve 2x - (5 - x) = 1.,"3x = 6, so x = 2 and y = 3."
+5,Multiplying x + y = 6 by 2 gives which equivalent equation?,2x+2y=12|2x + 2y = 12,70,Y,Multiply every term by 2.|Equivalent equations have the same solution set.,The equivalent equation is 2x + 2y = 12.
+6,"If y = 4x + 1, what expression replaces y in 3x + y = 22?",4x+1|4x + 1,70,Y,Use the expression already equal to y.|Substitution replaces a variable with an equal expression.,Replace y with 4x + 1.
+7,Solve x = 2y and x - y = 7. Enter x and then y.,"14, 7",70,Y,Substitute 2y for x.|Then 2y - y = 7.,y = 7 and x = 14.
+8,Solve y = -x + 6 and 3x + y = 10. Enter x and then y.,"2, 4",70,Y,Substitute -x + 6 for y.|Solve 2x + 6 = 10.,x = 2 and y = 4.
+9,Solve y = (1/2)x + 1 and y = -x + 7. Enter x and then y.,"4, 3",70,Y,Set the two expressions equal.|Solve (1/2)x + 1 = -x + 7.,"(3/2)x = 6, so x = 4 and y = 3."
+10,Two numbers have sum 13 and difference 3. Enter the larger number and then the smaller number.,"8, 5",70,Y,Use x + y = 13 and x - y = 3.|Substitution or elimination will work.,"Adding the equations gives 2x = 16, so the numbers are 8 and 5."

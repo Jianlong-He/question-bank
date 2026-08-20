@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: A line of best fit is $y = 7x - 2$. By how much does $y$ change when $x$ increases from 6 to 9?,21|21.0,85,Y,Multiply the slope by the change in x,The slope is 7. $\Delta x = 9 - 6 = 3$. $\Delta y = 7 \cdot 3 = 21$.
+2,"Fill: A dataset shows that when $x$ increases by 5, $y$ increases by 20. What is the slope?",4|4.0,80,Y,$\text{Slope} = \text{rise} / \text{run}$,$\text{Slope} = 20 / 5 = 4$.
+3,"Fill: A prediction model gives $y = 52$ at $x = 8$. If the actual value is 47, what is the residual?",-5|-5.0,75,Y,$\text{Residual} = \text{Actual} - \text{Predicted}$,$\text{Residual} = 47 - 52 = -5$.
+4,Fill: A regression line is $y = -4x + 28$. For which x-value is $y$ equal to 12?,4|4.0,90,Y,Set y to 12 and solve for x,$12 = -4x + 28 \to 4x = 16 \to x = 4$.
+5,"Fill: A scatter plot includes points $(2, 9)$, $(4, 15)$, and $(6, 21)$. If the pattern continues, predict $y$ when $x = 12$.",39|39.0,85,Y,"Find the slope and equation, then extend the pattern",$\text{Slope} = (15 - 9) / (4 - 2) = 6 / 2 = 3$. Equation: $y = 3x + 3$. When $x = 12$: $y = 3(12) + 3 = 36 + 3 = 39$.
+6,Fill: A line of best fit is $y = -3x + 15$. What is $y$ when $x = 2$?,9|9.0,80,Y,Substitute x into the equation,$y = -3(2) + 15 = -6 + 15 = 9$.
+7,"Fill: A two-way table shows 48 students total. 20 take art, 30 take music, 12 take both. How many take at least one?",38|38.0,70,Y,Add the two classes and subtract the intersection (both),$\text{Total} = \text{Art} + \text{Music} - \text{Both}$. $20 + 30 - 12 = 50 - 12 = 38$.
+8,"Fill: Given relative frequencies: 0.4 like swimming, and 0.35 of THOSE also like biking. What fraction like both?",0.14|0.140,90,Y,Multiply the decimals together,$0.4 \cdot 0.35 = 0.14$.
+9,Fill: A scatter plot shows a slight upward pattern. What type of correlation is this?,positive|Positive,85,Y,An upward trend means positive,"Because the points rise as x increases, the correlation is positive."
+10,"Fill: A best-fit line is $y = 5x - 10$. For $x = 3$, what is the predicted value?",5|5.0,75,Y,Substitute x into the equation,$y = 5(3) - 10 = 15 - 10 = 5$.

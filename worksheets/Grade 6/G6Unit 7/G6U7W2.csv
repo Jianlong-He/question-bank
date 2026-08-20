@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,A mystery number plus 7 equals 32. What is the number?,25,100,Y,Write an equation first.,"25     -> Let the mystery number be x. x + 7 = 32, x = 32 -7 = 25",
+2,Solve 79 + m = 158 and find the value of m,79,100,Y,remove 79 on both sides,"79    -> remove 79 on both sides. m = 158 - 79, m = 79",
+3,Solve 3y = 21 and find the value of y,7,100,Y,Divide both sides by 3.,"7   -> Divide both sides by 3. y = 21/3, y = 7",
+4,Write y + y + y + y + y in a shorter way.,5y,100,Y,For example m + m = 2m there are 2 copies of m,"y + y + y + y + y means 5 groups of y, so it is written as: 5y",
+5,Four equal boxes weigh 20 kg in total. What is the weight of each box?,5|5 kg|5kg,100,Y,Let each box be x. Then divide.,"5 kg     -> Let each box be x. 4x = 20, Divide both sides by 4: x = 20/4 = 5",
+6,Seven equal bags have a total weight of 42 kg. What is the weight of each bag?,6|6kg|6 kg,100,Y,Let each bag be x. Then divide.,"6 kg     -> Let each box be x. 7x = 42, Divide both sides by 7: x = 42/7 = 6",
+7,"If x = 3, y = 4, find the value of x^y",81,100,Y,Replace x and y with their values,"81    -> Replace x with 3, y with 4, x^y = 3^4 = 81",
+8,"If x = 6, x^y = 216, what is y",3,100,Y,Replace x with 6,"3      -> 6*6*6 = 216, so y = 3",
+9,Solve 56/m = 7 and find the value of m,8,100,Y,Multiply both sides by m then divide both sides,"8     -> Multiply both sides by m: 56 = 7m then divide both sides by 7: 56/7 = m, m = 8",
+10,Solve 85 - m = 37 and find the value of m,48,100,Y,remove 85 and both side to get the value of -m first,"48     -> remove 85 and both side to get the value of -m first. -m = 37-85, m = 85-37 = 48",

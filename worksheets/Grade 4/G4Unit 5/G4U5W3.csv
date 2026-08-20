@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select one answer for the estimation (rounding to the nearest ten), 79÷4≈ ? :20 30 25 40",20,300,Y,Round 79 to 80,20
+2,"Select one answer for the estimation (rounding to the nearest hundred), 112÷5≈ ?:20 25 10 30",20,300,Y,Round 112 to 100,20
+3,Select one answer for the estimation 55÷7≈ ? ( 7 times 8= 56. 56 is the multiple of 7 that is closest to 55):8 7 9 6 ,8,300,Y,Round 55 to 56,8
+4,Select one answer for the estimation 75÷9≈ ? ( Rounding 75 to it's closest multiple of 9):9 8 7 6 ,8,300,Y,Round 75 to 72,8
+5,Select one answer for the estimation 125÷6≈ ? ( 6 times 20 = 120):30 25 20,20,300,Y,Round 125 to 120,20
+6,"Select one answer for the estimation, 445÷4≈ ?  ( 4 times 111 = 444):120 111 135",111,300,Y,Round 445 to 444,111
+7,"Select one answer for the estimation, 213÷4≈?  ( 4 times 52 = 208, 4 times 53 = 212, 4 times 54 = 216):52 53 54 55",53,300,Y,Round 213 to 212,53
+8,"Select one answer for the estimation, 525÷5≈ ? :50 100 500 600",100,600,Y,Round 525 to 500,100
+9,"Select one answer for the estimation, 1924÷4≈ ? :500 200 300 2000",500,600,Y,Round 1924 to 2000,500
+10,Select which estimated quotient is most reasonable:4251÷7≈600 642÷9≈170 1182÷4≈3000,4251÷7≈600,600,Y,Round 4251 to 4200,4251÷7≈600

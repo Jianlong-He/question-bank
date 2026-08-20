@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Describe the transformation from y=|x| to y=|x-4|+3.,4 units right and 3 units up|right 4 and up 3,70,Y,The expression x-4 controls the horizontal shift.|The +3 outside the absolute value controls the vertical shift.,The graph moves 4 units right and 3 units up.
+2,What is the vertex of y=|x+2|-5? Enter the x-coordinate then y-coordinate.,"-2,-5",70,Y,Use vertex form y=|x-h|+k.|Rewrite x+2 as x-(-2).,The vertex is (-2 -5).
+3,The graph y=-|x| is reflected across which axis?,x-axis|the x-axis,70,Y,The negative sign is outside the absolute value.|It changes every output to its opposite.,The graph is reflected across the x-axis.
+4,Compared with y=|x| is y=3|x| wider or narrower?,narrower,70,Y,The output values are multiplied by 3.|A vertical stretch makes the V steeper.,The graph is narrower.
+5,Compared with y=|x| is y=0.4|x| wider or narrower?,wider,70,Y,The output values are multiplied by a number between 0 and 1.|A vertical compression makes the V less steep.,The graph is wider.
+6,Write the equation of y=|x| shifted 6 units left.,y=|x+6|,70,Y,A left shift uses addition inside the input.|Replace x with x+6.,The equation is y=|x+6|.
+7,Write the equation of y=|x| reflected across the x-axis and shifted 2 units up.,y=-|x|+2,70,Y,Put a negative sign outside the absolute value.|Add 2 outside for the upward shift.,The equation is y=-|x|+2.
+8,For f(x)=2|x-1|-4 find f(3).,0,70,Y,Substitute x=3.|Evaluate the absolute value before multiplying.,f(3)=2|3-1|-4=2(2)-4=0.
+9,What is the axis of symmetry of y=|x-7|+1?,x=7|x = 7,70,Y,The vertex has x-coordinate h.|An absolute-value graph is symmetric about the vertical line through its vertex.,The axis of symmetry is x=7.
+10,What is the minimum value of y=5|x+1|-8?,-8,70,Y,The absolute-value part is never negative.|Its smallest value is zero at x=-1.,The minimum output is 5(0)-8=-8.

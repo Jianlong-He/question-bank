@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,What number is 20% of 50?,10,100,Y,Convert percent to a decimal.,"10     -> 20% = 0.20, 0.20 x 50 = 10",
+2,What number is 40% of 60?,24,100,Y,Convert percent to a decimal.,"24     -> 40% = 0.40, 0.40 x 60 = 24",
+3,What number is 50% of 28?,14,100,Y,Convert percent to a decimal.,"14     -> 50% = 0.50, 0.50 x 28 = 14",
+4,Select. Which expression is equal to 5% of 200? : 0.005x200 0.05x200 0.5x200,0.05x200,100,N,,0.05x200    -> 5% = 0.05,
+5,Select. Which expression is equal to 2% of 475? : 0.002x475 0.02x475 0.2x475,0.02x475,100,N,,0.02x475   -> 2% = 0.02,
+6,A jacket costs 120 CAD. A store gives a 25% discount. How much money is taken off the price?,30|30 CAD,100,Y,Taking off = decrease; Find 25% of 120,"30 CAD     -> 25% = 0.25, 0.25 x 120 = 30",
+7,A school has 500 students. 60% of them walk to school. How many students walk to school?,300,100,N,,"300     -> 60% = 0.6, 0.6 x 500 = 300",
+8,A video game originally cost 40 CAD. The price increased by 15%. What is the new price of the game?,46|46 CAD,100,Y,"First find 15% of 40, then add it to the original price.",40 CAD     -> Find the increase: 15% x 40 = 0.15 x 40 = 6. Then add it back to the original price: 40 + 6 = 46,
+9,"A student answered 18 questions correctly, which is 60% of all the questions. How many questions were on the test in total?",30,100,Y,18 represents 60% of the total.,"30     -> 18 represents 60% of the total. 0.6 x total = 18, total = 18/0.6 = 30",
+10,Store A gives 20% off a 50 CAD jacket. Store B gives 15% off a 60 CAD jacket. Which store gives the bigger discount amount? Answer A or B,A,100,Y,Calculate the discount amount for each store.,Store A    -> Store A discount amount: 20% x 50 = 0.2 x 50 = 10. Store B discount amount: 15% x 60 = 0.15 x 60 = 9,

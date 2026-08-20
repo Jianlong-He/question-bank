@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Solve a - 15 = 12 and find the value of a,27,100,Y,"Opposite of -15 is +15, same operation on both sides","27     -> Opposite of -15 is +15, same operation on both sides: a = 12 + 15 = 27",
+2,Solve 76 - a = 51 and find the value of a,25,100,Y,What cancels 76? What makes -a to a?,25    -> -76 on both sides: -a = 51-76. Then convert operation signs on both sides to remove make -a to a: a = 76-51 = 25,
+3,Check the solution: Is x = 16 correct for: x + 6 = 23? Put the answer as yes or no,no,100,Y,Substitute x = 16,no     -> 16 + 6 = 22 ≠ 23,
+4,Solve equation with decimals K - 8 = 11.8 and find the value of K,19.8,100,Y,What cancels -8?,19.8     -> add 8 on both sides to cancle -8,
+5,Solve equation with fractions (5/13) = T - (6/13) and find the value of T,11/13|(11)/(13)|(11/13),100,Y,What cancels -(6/13)?,11/13     -> add 6/13 on both sides to cancel -(6/13),
+6,Solve equation with fractions (7/15) + F = (13/15) and find the value of F. Put the simplified fraction as answer,2/5|(2)/(5)|(2/5),100,Y,What cancels 7/15?,2/5    -> subtract 7/15 on both sides to cancel 7/15,
+7,Check the solution: Is x = 13.24 correct for: x + 6.15 = 19.39? Put the answer as yes or no,yes,100,Y,Substitute x = 13.24,yes    -> 13.24 + 6.15 = 19.39,
+8,Solve equation with decimals 27.87 - D = 11.8 and find the value of D,16.07,100,Y,What cancels 27.87? What makes -D to D?,"16.07   -> subtract 27.87 on both sides: -D = 11.8-27.87. Then convert operation signs on both sides to remove ""-"" sign: D = 27.87 - 11.8 = 16.07",
+9,Solve y - 15 = -46 and find the value of y,-31,100,Y,What cancels -15?,"-31     -> +15 cancel -15, +15 on both sides, y = -46+15 = -31",
+10,Solve equation with fractions 7/12 - y = 4/18 and find the value of y,13/36,100,Y,What cancels 7/12? What makes -y to y?,13/36     -> -7/12 on both sides: -y = 4/18 - 7/12. Then convert operation signs on both sides to remove make -y to y: y = 7/12 - 4/18 = 21/36 - 8/36 = 13/36,

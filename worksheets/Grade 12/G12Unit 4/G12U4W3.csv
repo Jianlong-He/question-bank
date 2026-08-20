@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Multiply (2/x)(3/x).,6/x^2,70,Y,Multiply numerators and denominators.|Combine x*x as x^2.,The product is 6/x^2.
+2,Multiply (x/4)(8/x).,2,70,Y,Cancel the nonzero factor x.|Reduce 8/4.,The product is 2 for x not equal to 0.
+3,Multiply ((x+2)/5)(10/(x+2)).,2,70,Y,Cancel the common factor x+2.|Reduce 10/5.,The product is 2 with x not equal to -2.
+4,Multiply (x^2-4)/(x+2) by 1/x.,(x-2)/x|x-2 over x,70,Y,Factor x^2-4.|Cancel the factor x+2.,The product simplifies to (x-2)/x.
+5,Divide (3/x) by (9/x).,1/3,70,Y,Multiply by the reciprocal x/9.|Cancel x and reduce 3/9.,The quotient is 1/3.
+6,Divide (x/6) by (2x/9).,3/4,70,Y,Multiply by 9/(2x).|Cancel x and reduce 9/12.,The quotient is 3/4.
+7,What operation replaces division by a rational expression?,multiplication by its reciprocal|multiply by the reciprocal,70,Y,Invert the divisor.|Then multiply as usual.,Division becomes multiplication by the reciprocal.
+8,Before multiplying rational expressions what should be done to polynomials when possible?,factor completely|factor them|factor,70,Y,Factoring exposes common factors.|Only factors can be canceled.,Factor all polynomials completely before canceling.
+9,Simplify ((x^2-9)/(x^2-x-6))((x-3)/(x+3)).,(x-3)/(x+2)|x-3 over x+2,70,Y,Factor x^2-9 and x^2-x-6.|Cancel x-3 once and x+3.,The result is (x-3)/(x+2).
+10,Do original domain restrictions remain after factors cancel? Enter Yes or No.,Yes|yes|Y|y,70,Y,Restrictions come from the original denominators.|Simplifying does not restore excluded inputs.,Yes. Every original excluded value remains excluded.

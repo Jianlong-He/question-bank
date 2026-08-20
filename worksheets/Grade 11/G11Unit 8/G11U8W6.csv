@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A sinusoidal temperature model has maximum 30 and minimum 10. What is its amplitude?,10,70,Y,Amplitude is half the total range.|Compute (30-10)/2.,The amplitude is 10.
+2,A sinusoidal temperature model has maximum 30 and minimum 10. What is its midline?,20|y=20,70,Y,Average the maximum and minimum.|Compute (30+10)/2.,The midline is 20.
+3,A daily temperature cycle repeats every 24 hours. What is its period?,24 hours|24,70,Y,The period is the repeat time.|One complete cycle takes one day.,The period is 24 hours.
+4,A seasonal model repeats every 12 months. What coefficient B is used in sin(Bt) when t is months?,pi/6|π/6,70,Y,Use B=2pi/period.|Compute 2pi/12.,B=pi/6.
+5,Daylight ranges from 8 hours to 16 hours. What is the amplitude?,4 hours|4,70,Y,Take half the difference.|Compute (16-8)/2.,The amplitude is 4 hours.
+6,Daylight ranges from 8 hours to 16 hours. What is the midline?,12 hours|12,70,Y,Average the extremes.|Compute (16+8)/2.,The midline is 12 hours.
+7,In T(t)=15+7sin(pi*t/12) what is the maximum temperature?,22,70,Y,Add amplitude to midline.|The amplitude is 7 and midline is 15.,The maximum is 22.
+8,In T(t)=15+7sin(pi*t/12) what is the minimum temperature?,8,70,Y,Subtract amplitude from midline.|Compute 15-7.,The minimum is 8.
+9,In T(t)=15+7sin(pi*t/12) what is the period in hours?,24 hours|24,70,Y,The coefficient is pi/12.|Use period=2pi/(pi/12).,The period is 24 hours.
+10,Why is a sinusoidal model appropriate for daylight over repeated years?,daylight varies periodically|the pattern repeats each year|it is periodic,70,Y,Look for a repeating cycle.|Seasonal changes recur annually.,A sinusoidal model fits because daylight follows a repeating periodic pattern.

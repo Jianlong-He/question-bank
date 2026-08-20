@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find the greatest common factor of 18x^4 and 24x^2.,6x^2,70,Y,Find the numerical GCF.|Use the smaller exponent of x.,The GCF is 6x^2.
+2,Factor 12x^3+18x^2 completely.,6x^2(2x+3),70,Y,Find the greatest factor shared by both terms.|Both terms contain 6x^2.,12x^3+18x^2=6x^2(2x+3).
+3,Factor 15a^4b^2-25a^2b^3 completely.,5a^2b^2(3a^2-5b),70,Y,Use the smallest exponent of each variable.|The numerical GCF is 5.,The factorization is 5a^2b^2(3a^2-5b).
+4,What monomial multiplied by 4x^3 gives 20x^7?,5x^4,70,Y,Divide 20x^7 by 4x^3.|Subtract exponents when dividing.,The missing factor is 5x^4.
+5,Factor -8x^3+12x^2 using a positive leading term inside the parentheses.,-4x^2(2x-3),70,Y,Factor out a negative common factor.|Both terms share 4x^2.,The expression factors as -4x^2(2x-3).
+6,Factor 9m^2n+6mn^3 completely.,3mn(3m+2n^2),70,Y,Find common numerical and variable factors.|Both terms contain 3mn.,The factorization is 3mn(3m+2n^2).
+7,The area of a rectangle is 14x^3+21x^2 and one side is 7x^2. Find the other side.,2x+3,70,Y,Divide the area by the known side.|Factor 7x^2 from the area.,"14x^3+21x^2=7x^2(2x+3), so the other side is 2x+3."
+8,Factor x^5-x^3 completely.,x^3(x^2-1)|x^3(x-1)(x+1),70,Y,First take out the common power of x.|The remaining expression is a difference of squares.,"Taking out x^3 gives x^3(x^2-1), which can also be factored further."
+9,Find the GCF of 30p^5q^2 and 45p^3q^4.,15p^3q^2,70,Y,The numerical GCF of 30 and 45 is 15.|Use the smaller variable exponents.,The GCF is 15p^3q^2.
+10,Factor 6x^2y-9xy^2+3xy completely.,3xy(2x-3y+1),70,Y,All three terms share a common monomial.|Factor out 3xy.,The factorization is 3xy(2x-3y+1).

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Compute $(-2)^3$.","-8|-8.0",60,Y,"A negative base to an odd power results in a negative number","$(-2) \cdot (-2) \cdot (-2) = 4 \cdot (-2) = -8$."
+2,"Fill: Compute $(-5)^2$.","25|25.0",60,Y,"A negative base to an even power results in a positive number","$(-5) \cdot (-5) = 25$."
+3,"Fill: Compute $(-1)^{10}$.","1|1.0",60,Y,"10 is an even number, so the negative signs cancel out","An even number of negative signs multiplied together makes a positive. $(-1)^{10} = 1$."
+4,"Fill: Compute $(-1)^{15}$.","-1|-1.0",60,Y,"15 is an odd number, so one negative sign will be left over","An odd number of negative signs multiplied together makes a negative. $(-1)^{15} = -1$."
+5,"Fill: Compute $(-4)^2$.","16|16.0",75,Y,"Because the negative sign is inside the parentheses, it gets squared","$(-4) \cdot (-4) = 16$."
+6,"Fill: Compute $-4^2$.","-16|-16.0",75,Y,"Without parentheses, the exponent only applies to the 4, not the negative sign","The exponent applies before the negative sign due to order of operations. $-(4 \cdot 4) = -16$."
+7,"Fill: Compute $(-2)^2 \cdot (-3)$.","-12|-12.0",80,Y,"Calculate the exponent first, then multiply","First, $(-2)^2 = 4$. Then, $4 \cdot (-3) = -12$."
+8,"Fill: Compute $(-10)^3$.","-1000|-1000.0",80,Y,"Count the zeros and determine the sign for an odd power","$(-10) \cdot (-10) \cdot (-10) = 100 \cdot (-10) = -1000$."
+9,"Fill: Compute $(-2)^3 \cdot (-3)^2$.","-72|-72.0",95,Y,"Evaluate each exponent separately, then multiply their results","First, $(-2)^3 = -8$. Next, $(-3)^2 = 9$. Finally, multiply them: $(-8) \cdot 9 = -72$."
+10,"Fill: Find the value of $x$ if $(-2)^x = -32$.","5|5.0",100,Y,"Keep multiplying -2 by itself until you reach -32","$(-2)^1 = -2$. $(-2)^2 = 4$. $(-2)^3 = -8$. $(-2)^4 = 16$. $(-2)^5 = -32$. Therefore, $x = 5$."

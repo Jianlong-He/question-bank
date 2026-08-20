@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A library has 38 shelves. Each shelf holds 5 books. They already have 12 books on display. Estimate how many books they need to buy to fill all shelves.,190|188|178|180,240,Y,Round 38 to 40,190|188|178|180
+2,There are 42 crates. Each crate has 5 apples. The shop already has 20 apples in stock. Estimate how many apples they have in total.,220|230,240,Y,Round 42 to 40,220|230
+3,What is 20 - 12 / 3 + 4 = ?,20,240,Y,Order of expressions: Brackets -> Multiply/Divide -> Add/Subtract,20
+4,What is 4 x 5 + 3 x 2 = ?,26,240,Y,Order of expressions: Brackets -> Multiply/Divide -> Add/Subtract,26
+5,What is 10 + 6 x 2 - 8 / 2 = ?,18,240,Y,Order of expressions: Brackets -> Multiply/Divide -> Add/Subtract,18

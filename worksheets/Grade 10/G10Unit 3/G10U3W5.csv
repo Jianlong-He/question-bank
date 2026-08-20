@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A right triangle has legs x and x+2 and area 24. Write the equation used to find x.,x(x+2)/2=24|1/2*x(x+2)=24,70,Y,Use area=base times height divided by 2.|Substitute the two leg lengths.,The equation is x(x+2)/2=24.
+2,Solve x(x+2)/2=24 for the positive value of x.,6,70,Y,Multiply by 2 and move all terms to one side.|Factor x^2+2x-48.,x^2+2x-48=(x+8)(x-6)=0 so x=6 is positive.
+3,A rectangle has width x and length x+5 with area 84. Write the equation.,x(x+5)=84,70,Y,Use area=length times width.|Substitute the expressions for both dimensions.,The equation is x(x+5)=84.
+4,Solve x(x+5)=84 for the positive value of x.,7,70,Y,Rewrite as x^2+5x-84=0.|Factor using 12 and -7.,(x+12)(x-7)=0 so the positive value is 7.
+5,A box has square base side x and height x-1. Write its volume expression.,x^2(x-1)|x^2*(x-1),70,Y,Square the base side to get base area.|Multiply base area by height.,The volume is x^2(x-1).
+6,A rectangular garden has perimeter 30. If one side is x what is the adjacent side in terms of x?,15-x,70,Y,Half the perimeter is the sum of adjacent sides.|Solve x+y=15 for y.,The adjacent side is 15-x.
+7,For the garden in the previous relationship write its area function.,A=x(15-x)|x(15-x)|A(x)=x(15-x),70,Y,Area is the product of adjacent sides.|Use sides x and 15-x.,The area function is A(x)=x(15-x).
+8,The product x(20-x) is maximized at what value of x?,10,70,Y,The roots are 0 and 20.|The vertex lies halfway between the roots.,The maximum occurs at x=(0+20)/2=10.
+9,A projectile height is h(t)=-5t^2+30t. At what time is maximum height reached?,3|3 seconds,70,Y,Use t=-b/(2a).|Here a=-5 and b=30.,t=-30/(2(-5))=3 seconds.
+10,A model gives mathematical solutions x=-8 and x=6 for a length. Which solution is valid?,6,70,Y,A physical length must be positive.|Reject the negative value.,The valid length is 6.

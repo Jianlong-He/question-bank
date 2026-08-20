@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select the table that represents a **Function**: ""[ (1,2), (2,3), (3,4) ]"" ""[ (1,5), (1,6), (2,7) ]"" ""[ (2,4), (2,5) ]""","""[ (1,2), (2,3), (3,4) ]""",25,Y,"In a function, each x-value must go to only one y-value;Look for repeated x-values with different y-values (bad)",Definition of Function
+2,Is the equation $y = x^2 + 1$ Linear or Nonlinear? (Linear/Nonlinear),Nonlinear,20,Y,Linear equations have x to the power of 1;Exponents like 2 or 3 make it curved,Linear vs Nonlinear Equation
+3,Fill: Evaluate $f(x) = 3x - 5$ when $x = 2$.,1,25,Y,Replace x with 2;$3(2) - 5$;Multiply first then subtract,Function Evaluation
+4,"Select the graph that passes the **Vertical Line Test**: ""Circle"" ""S-curve on its side"" ""Straight Line (diagonal)""","""Straight Line (diagonal)""",20,Y,If a vertical line touches the graph more than once it is NOT a function;Functions cannot stack points vertically,Vertical Line Test
+5,"Fill: Find the missing output for linear table: x:0,1,2 y:5,8,__",11,30,Y,Find the pattern (rate of change);It goes from 5 to 8 (+3);Add 3 to 8,Linear Patterns
+6,"Does the set of points $\{(1,2), (3,2), (5,2)\}$ represent a function? (Yes/No)",Yes|Y|yes,25,Y,Check inputs (x-values);Repeated outputs (y-values) are allowed;Repeated inputs are the problem,Function Definition Points
+7,Fill: Which creates a straight line graph? $y=4x$ or $y=4/x$,y=4x,20,Y,Variables in the denominator create curves (rational functions);Linear requires $mx+b$ form,Identifying Linear Graphs
+8,Fill: Convert $y - 4 = 2(x - 1)$ to slope-intercept form ($y=mx+b$). What is $b$?,2,45,Y,Distribute the 2 first: $2x - 2$;Add 4 to both sides: $-2 + 4$,Point-Slope to Slope-Intercept
+9,"Select the description of a Non-Linear function: ""Constant rate of change"" ""Graph is a curve"" ""Equation is y=mx+b""","""Graph is a curve""",20,Y,Linear means 'Line';Anything not straight is Non-Linear,Visualizing Functions
+10,"Fill: If $f(x) = -x + 4$, find $x$ when $f(x) = 0$.",4,30,Y,Set the equation equal to 0: $0 = -x + 4$;Solve for x,Solving Function Inputs

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Solve A=lw for l.,l=A/w|A/w,70,Y,Divide both sides by w.|Assume w is nonzero.,l=A/w.
+2,Solve d=rt for t.,t=d/r|d/r,70,Y,Divide both sides by r.|Assume r is nonzero.,t=d/r.
+3,Solve y=mx+b for x.,x=(y-b)/m|(y-b)/m,70,Y,Subtract b first.|Then divide by m.,x=(y-b)/m.
+4,Solve C=2pi*r for r.,r=C/(2pi)|C/(2pi)|C/2pi,70,Y,Divide by the coefficient of r.|The coefficient is 2pi.,r=C/(2pi).
+5,Solve V=pi*r^2*h for h.,h=V/(pi*r^2)|V/(pi*r^2),70,Y,Treat pi*r^2 as the coefficient of h.|Divide both sides by pi*r^2.,h=V/(pi*r^2).
+6,Solve F=(9/5)C+32 for C.,C=(5/9)(F-32)|5(F-32)/9,70,Y,Subtract 32 first.|Then multiply by 5/9.,C=(5/9)(F-32).
+7,Solve P=2l+2w for w.,w=(P-2l)/2|P/2-l,70,Y,Subtract 2l.|Then divide by 2.,w=(P-2l)/2=P/2-l.
+8,Solve I=Prt for r.,r=I/(Pt)|I/(Pt),70,Y,Divide by P and t.|Treat Pt as one factor.,r=I/(Pt).
+9,Solve ax+by=c for y.,y=(c-ax)/b|(c-ax)/b,70,Y,Subtract ax.|Then divide by b.,y=(c-ax)/b.
+10,If F=95 use C=(5/9)(F-32) to find C.,35,70,Y,Substitute F=95.|Compute (5/9)(63).,C=35.

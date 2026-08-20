@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A square has a side length of 9 meters. What is the perimeter of the square? (in meters),36,60,N,,36 meters
+2,A rectangle has an area of 12 square centimeters and a perimeter of 14 centimeters. The rectangle is longer than it is wide. What are the length and width? (cm),"4,2",60,N,,"4,2"
+3,A rectangle has an area of 36 square meters and a perimeter of 26 meters. The rectangle is longer than it is wide. What are the length and width of the rectangle? (in m),9.4,60,N,,"9 m, 4 m"
+4,Select. A vegetable garden is 15 meters long and 6 meters wide. A flower garden is 12 meters long and 9 meters wide. Which garden has a larger area?: vegetable-garden flower-garden,flower-garden,60,N,,flower-garden
+5,"Select. A gardener wants to build a rectangular fence around his flower bed. He has 30 meters of fencing. He notices two possible rectangles that both use all the fencing. Rectangle A - 6 m by 9 m. Rectangle B - 5 m by 10 m. He states that both use 30 meters of fencing, so they must have the same area. Is his statement correct?: Yes No",No,60,N,,No

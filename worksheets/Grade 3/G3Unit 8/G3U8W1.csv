@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,What is 8 + 5 - 2?,11,50,Y,Only addition and subtraction -> go left to right.,11,
+2,What is 2 x 6 ÷ 3?,4,50,Y,"Only multiplication and division -> go left to right. 2 x 6 = 12, 3 x 4 = 12",4,
+3,What is 8 + 2 x 4?,16,50,Y,Order of expressions: Brackets -> Multiply/Divide -> Add/Subtract,"16  -> Multiply first, 8 + 2 x 4 = 8 + 8",
+4,What is 18 - 3 x 3?,9,50,Y,Order of expressions: Brackets -> Multiply/Divide -> Add/Subtract,"9  -> Divide first, 18 - 3 x 3 = 18 - 9",
+5,A farmer has 36 cows. Each cow eats 4 apples. He already has 8 apples. Estimate how many apples he needs to buy to feed his cows.,150|152|136,50,Y,"Round 36 to 40, 8 to 10","150|152|136   -> Round 36 to 40, 8 to 10, 40 x 4 - 10 = 150",
+6,A school has 29 classrooms. Each classroom has 10 chairs. They already have 25 chairs. Estimate how many chairs they need to buy.,275|265|260|270,50,Y,Round 29 to 30,"275|265|260|270  -> Round 29 to 30, 30 x 10 - 25 = 275",
+7,There are 51 boxes. Each box has 6 books. The store already has 45 books on the shelf. Estimate how many books they have in total.,255|250|261|256,50,Y,Round 51 to 50,"255|250|261|256   -> Round 51 to 50, so 50 x 6 - 45 = 255",
+8,What is 15 − 9 ÷ 3 + 2 = ?,14,50,Y,Order of expressions: Brackets -> Multiply/Divide -> Add/Subtract,14  -> Order of expressions: Brackets -> Multiply/Divide -> Add/Subtract. So 15 - 3 + 2,
+9,What is 3 x 4 + 2 x 4 = ?,20,50,Y,Order of expressions: Brackets -> Multiply/Divide -> Add/Subtract,20   -> Order of expressions: Brackets -> Multiply/Divide -> Add/Subtract. So 12 + 8 ,
+10,What is 8 + 4 × 5 − 6 ÷ 2 = ?,25,50,Y,Order of expressions: Brackets -> Multiply/Divide -> Add/Subtract,25   -> Order of expressions: Brackets -> Multiply/Divide -> Add/Subtract. So 8 + 20 - 3,

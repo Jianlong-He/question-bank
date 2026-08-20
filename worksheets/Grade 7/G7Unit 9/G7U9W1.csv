@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A circle's circumference is 18π. What is its radius?",9,70,Y,"Use the formula C = 2πr.","18π = 2πr → r = 9."
+2,"A circle has a circumference of 12π. Fill in the blanks: Its radius is ___, and its area is ___. (Leave area in terms of pi, e.g., 36pi)","6, 36pi|36 pi|36\pi|36π",65,Y,"Find the radius first using C = 2πr, then use A = πr².","12π = 2πr → r = 6. Area = π(6²) = 36π."
+3,"A circle has a circumference of 10π. What is its radius?",5,65,Y,"Use the formula C = 2πr.","10π = 2πr → r = 5."
+4,"If a circle’s circumference becomes 4 times larger, how many times larger does its area become?",16,70,Y,"Remember area depends on the square of the radius (r²).","If circumference multiplies by 4, radius multiplies by 4, so area multiplies by 4² = 16."
+5,"A circle has a radius of 6. What is its area? (Leave your answer in terms of pi, e.g., 10pi)",36pi|36 pi|36\pi|36π,85,Y,"Use the formula A = πr².","A = π(6²) = 36π."
+6,"A semi-circle has a radius of 10. What is the area of this semi-circle? (Leave your answer in terms of pi, e.g., 50pi)",50pi|50 pi|50\pi|50π,85,Y,"Find the area of a full circle, then divide by 2.","Area of full circle = π(10²) = 100π. Half is 50π."
+7,"Two angles are supplementary. One angle is (3x + 10)° and the other is (2x - 5)°. What is the value of x?",35,60,Y,"Supplementary angles add to 180 degrees.","(3x + 10) + (2x - 5) = 180 → 5x + 5 = 180 → 5x = 175 → x = 35."
+8,"Two angles are complementary. One angle is (x + 15)° and the other is (2x)°. What is the value of x?",25,60,Y,"Complementary angles add to 90 degrees.","(x + 15) + 2x = 90 → 3x + 15 = 90 → 3x = 75 → x = 25."
+9,"Two vertical angles are formed. One measures (4x - 10)° and the other measures 110°. Fill in the blanks: The equation is 4x - 10 = ___, so x = ___.","110, 30",70,Y,"Vertical angles are equal to each other.","4x - 10 = 110 → 4x = 120 → x = 30."
+10,"An angle and its complement have a ratio of 2:3. Fill in the blanks: The smaller angle is ___° and the larger angle is ___°.","36, 54",70,Y,"Let the angles be 2x and 3x. Set their sum to 90.","2x + 3x = 90 → 5x = 90 → x = 18. Smaller = 36, Larger = 54."

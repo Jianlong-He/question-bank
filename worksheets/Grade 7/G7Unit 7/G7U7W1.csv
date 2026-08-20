@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A bag has 4 red, 5 blue, and 1 green marble. What is the probability of drawing a red or green marble?",1/2|0.5|50%,70,Y,"Find the total number of red and green marbles, then divide by the total.","Red + Green = 5 marbles. Total = 10. 5/10 = 1/2."
+2,"A fair coin is flipped 3 times. Fill in the blanks: There are ___ total possible outcomes in the sample space, and the probability of getting all heads is ___.", "8, 1/8|0.125",80,Y,"Make a list or tree diagram of all outcomes.","2 × 2 × 2 = 8 outcomes. Only HHH is all heads, so 1/8."
+3,"A spinner has 8 equal sections numbered 1 through 8. What is the probability of landing on a number that is a multiple of 2 or 3? Round to three decimal places.",0.625|.625|5/8|62.5%,75,Y,"Find the union of multiples of 2 and 3.","Multiples: 2,3,4,6,8 → 5/8=0.625."
+4,"A coin is flipped 80 times and lands on heads 47 times. What is the experimental probability of getting tails? Round to four decimal places.",0.4125,70,Y,"Divide tails by total flips.","Tails=33 → 33/80=0.4125."
+5,"Event A has probability 0.18 and event B has probability 0.42. Which event is more likely? ",B|b|Event B|2,60,Y,"Compare the two probabilities.","0.42 is greater than 0.18, so answer=2."
+6,"A die theoretically gives a 4 with probability 1/6. In 150 rolls, a 4 appears 30 times. Is the experimental probability greater, equal, or less?",Greater|greater|1,80,Y,"Compare 30/150 with 1/6.","30/150=0.2, 1/6≈0.1667 → experimental is greater."
+7,"The probability of rain is 0.3 on any day. Over 120 days, how many rainy days are expected? Enter a whole number.",36,65,Y,"Multiply probability by days.","120×0.3=36."
+8,"A student draws a ball 40 times (with replacement) and observes 9 red, 6 blue, and 25 green. What is the experimental probability of red? Round to three decimal places.",0.225,75,Y,"Divide red count by total draws.","9/40=0.225."
+9,"A coin is flipped twice and a four-sided die is rolled. How many outcomes are in the compound sample space?",16,70,Y,"Multiply outcomes of each event.","Two flips=4 outcomes; die=4 → 4×4=16."
+10,"Two six-sided dice are rolled. What is the probability their sum is 10? Enter the fraction in simplest form.",1/12,85,Y,"Count pairs that sum to 10.","3 successful outcomes out of 36 → 3/36≈1/12."

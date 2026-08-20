@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,How many hours are in 120 minutes?,2|2hours|2 hours,240,Y,1 hour = 60 minutes,2   -> 1 hour = 60 minutes. 120 ÷ 60 = 2,
+2,Convert 150 minutes to hours. Write your answer as a decimal.,2.5|2.5hours|2.5 hours,240,Y,1 hour = 60 minutes,2.5   -> 1 hour = 60 minutes. 150 ÷ 60 = 2.5,
+3,Convert 225 minutes to hours. Write your answer as a mixed number.,3 3/4|3 3/4hours|3 34 hours,240,Y,1 hour = 60 minutes,3 3/4   -> 1 hour = 60 minutes. 225 ÷ 60 = 3 hours + 45 minutes = 3 hours + 3/4 hours = 3 3/4 hours,
+4,Convert 45 centimeters to meters.,0.45|0.45 meters|0.45meters,240,Y,1 meter = 100 centimeters (cm),0.45 meters   ->  1 meter = 100 centimeters (cm). 45 centimeters = 45 ÷ 100 = 0.45 meters,
+5,Convert 800 millimeters to meters.,0.8|0.8 meters|0.8meters,240,Y,1 meter = 1000 millimeters (mm),"0.8 meters  -> 1 meter = 1000 millimeters (mm), 800 millimeters = 0.8 meters",
+6,Convert 34 decameters to meters.,340 meters,240,Y,1 decameter = 10 meters,340 meters   ->  1 decameter = 10 meters. 34 decameters = 34 x 10 = 340 meters,
+7,Select which is smaller: 8-meter 900-centimeter,8-meter,240,Y,1 meter = 100 centimeters (cm),8-meter   ->  1 meter = 100 centimeters (cm). 900 centimeters = 900 ÷ 100 = 9 meters,
+8,Select which is largest: 3-meter 280-centimeter 0.02-kilometer,0.02-kilometer,240,Y,"1 meter = 100 centimeters (cm), 1 kilometer = 1000 meters","0.02-kilometer  -> 1 meter = 100 centimeters (cm), 1 kilometer = 1000 meters. 280 centimeters = 2.8 meters, 0.02 kilometers = 20 meters",
+9,A movie lasts 2 hours and 45 minutes.  How long is the movie in hours (decimal form)?,2.75,240,Y,1 hour = 60 minutes,"2.75   -> 1 hour = 60 minutes. 45 ÷ 60 = 0.75, so 2 hours and 45 minutes = 2.75 hours",
+10,Select Yes or No. A rope is 0.156 kilometers meters long. Is it longer than 140 meters? : Yes No,Yes,240,Y,1 kilometer = 1000 meters,Yes  ->  0.156 kilometers = 0.156 x 1000 = 156 meters,

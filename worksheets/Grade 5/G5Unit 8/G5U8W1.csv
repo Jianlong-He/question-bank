@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Estimate 2.2 x 5 ≈ ? (rounding 2.2 to whole number),10|11,240,Y,What whole number is 2.2 closest to?,"10.   2.2 ≈ 2, 2 x 5 = 10",
+2,Estimate 4.9 x 6 ≈ ? (rounding 4.9 to whole number),30|29.4,240,Y,What whole number is 4.9 closest to?,"30.   4.9 ≈ 5, 5 x 6 = 30",
+3,Estimate 68 x 23 ≈ ? (rounding both numbers),1750,240,Y,Using friendly tens,"1750. 68 ≈ 70, 23 ≈ 25, 68 x 23 ≈ 70 x 25 = 1750",
+4,Estimate with larger number and decimals: 99.3 x 19 ≈ ?,1900|2000,240,Y,What whole number is 99.2 closest to?,"99.2 ≈ 100, 100 x 19 = 1900. Or you can also round 19 to 20 -> 100 x 20 = 2000",
+5,Estimate 4.3 x 48 ≈ ?,192|200,240,Y,What whole number is 4.3 closest to?,"4.1 ≈ 4, 4 x 48 = 192. Or you can also round 48 to 50 -> 4 x 50 = 200",
+6,What is 4 x 0.3?,1.2,240,Y,4 x 3 tenths = 12 tenths = 1.2,1.2    -> 4 x 3 tenth = 12 tenth = 1.2,
+7,What is 13 x 0.05,0.65,240,Y,Multiply hundredths.,0.65   -> 13 x 5 hundredths = 65 hundredths,
+8,"Select True or False of the statement ""6 x 0.4 is less than 1"" : TRUE FALSE",FALSE,240,Y,Multiply tenths.,FALSE.    -> 6 x 4 tenths = 24 tenths = 2.4 > 1,
+9,What is 0.25 x 8?,2,360,Y,Multiply hundredths.,2   -> 25 hundredths x 8 = 200 hundredths = 2,
+10,What is  0.125 x 4?,0.5,360,Y,Multiply thousandths,0.5    -> 125 thousandths x 4 = 500 thousandths = 0.5,

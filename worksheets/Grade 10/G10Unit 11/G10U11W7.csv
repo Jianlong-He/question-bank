@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Define one radian using arc length and radius.,the angle subtending an arc equal to the radius|arc length equals radius,70,Y,Use theta=s/r.|Set s=r.,One radian subtends an arc whose length equals the radius.
+2,Write radian measure theta as a ratio of arc length s to radius r.,s/r|theta=s/r,70,Y,Rearrange s=r theta.|Divide by r.,The radian measure is theta=s/r.
+3,Convert 180 degrees to radians.,pi|pi radians,70,Y,A half turn is pi radians.|Use degrees times pi/180.,180 degrees equals pi radians.
+4,Convert 90 degrees to radians.,pi/2|pi/2 radians,70,Y,It is half of 180 degrees.|Multiply 90 by pi/180.,90 degrees equals pi/2 radians.
+5,Convert 60 degrees to radians.,pi/3|pi/3 radians,70,Y,Multiply degrees by pi/180.|Simplify 60pi/180.,60 degrees equals pi/3 radians.
+6,Convert 3pi/2 radians to degrees.,270|270 degrees,70,Y,Multiply radians by 180/pi.|Compute (3pi/2)(180/pi).,The angle is 270 degrees.
+7,Convert pi/4 radians to degrees.,45|45 degrees,70,Y,Multiply by 180/pi.|Compute 180/4.,The angle is 45 degrees.
+8,Find the arc length when r=12 and theta=pi/3 radians in terms of pi.,4pi|4*pi,70,Y,Use s=r theta.|Compute 12(pi/3).,The arc length is 4pi.
+9,What radian measure represents one complete revolution?,2pi|2*pi|2pi radians,70,Y,A half turn is pi radians.|Double pi.,One full revolution is 2pi radians.
+10,An arc is 1/6 of a circumference. Find its central angle in radians.,pi/3|pi/3 radians,70,Y,Take one sixth of 2pi.|Compute 2pi/6.,The central angle is pi/3 radians.

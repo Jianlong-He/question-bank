@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Find all the even numbers: 29, 36, 45, 60, 73. Put each number in an answer box.","36, 60",50,Y,"Even numbers are integers exactly divisible by 2, leaving no remainder. Even numbers end in 0, 2, 4, 6, 8.","36, 60  ->  Even numbers are integers exactly divisible by 2, leaving no remainder. Even numbers end in 0, 2, 4, 6, 8.",
+2,"Which numbers are multiples of 5: 16, 25, 30, 53, 70? Put each number in an answer box.","25, 30, 70",50,Y,Multiples of 5 end in 0 or 5.,"25, 30, 70  -> Multiples of 5 end in 0 or 5.",
+3,"Find the pattern and fill the blank(s): 4, 9, 16, __, 36, 49",25,50,Y,Adding or multiplying or subtracting or dividing?,"25  -> Pattern: square numbers, 4=2x2, 9=3x3, 16=4x4, 25=5x5, 36=6x6, 49=7x7",
+4,"In a multiplication table, what number goes in the spot for 2 × 6?",12,50,Y,2 x 6 means 2 groups of 6.,12  -> 2 x 6 means 2 groups of 6 which is 12,
+5,"In a multiplication table, what number goes in the spot for 3 × 3?",9,50,Y,3 x 3 means 3 groups of 3.,9  -> 3 x 3 means 3 groups of 3 which is 9,
+6,"In a multiplication table, what number goes in the spot for 3 × 4?",12,50,Y,"3 x 4 means 3 groups of 4. Skip counting 4, 8, 12",12  -> 3 x 4 means 3 groups of 4 which is 12,
+7,"A = 3 x 6, B = 6 x 3. Compare A and B with >, < or =.  A __ B",=,50,Y,Switching the order in multiplication does not change the answer.,"A>B   -> A has 1 more group of 5 than B, A is larger. A=5x4=20, B=5x3=15",
+8,"A = 5 x 4, B = 5 x 3. Compare A and B with >, < or =.  A __ B",>,50,Y,"Both have 5, but one has more groups.",,
+9,Is 90 both an even number and a multiple of 5? Answer yes or no,yes|Yes|YES,50,Y,"Even ends in 0,2,4,6,8. Multiple of 5 ends in 0 or 5.",yes  -> 90 ends in 0 which is both even and multiple of 5,
+10,"A = 3 x 6, B = 7 x 2 . Compare A and B with >, < or =.  A __ B",>,50,Y,Compute both (or think of groups).,"A<B  -> A=3x6=18, B=7x2=14, A>B",

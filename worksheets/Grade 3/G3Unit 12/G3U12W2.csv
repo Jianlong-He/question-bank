@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,A clock shows 9:00. Another clock shows 9:11. How much time passed?,11|11 minutes,100,Y,How many minutes from 43 minutes to 60 minutes?,"11 minutes    -> From 9:00 -> 9:11, 11 minutes. ",
+2,A clock shows 8:00. Another clock shows 11:00. How many hours passed?,3|3 hours,100,Y,Count the hours,3 hours   -> 8 -> 11 is 3 hours.,
+3,A clock shows 6:43. Another clock shows 7:00. How many minutes passed?,17|17 minutes,100,Y,How many minutes from 43 minutes to 60 minutes?,"17 minutes     -> How many minutes from 43 minutes to 60 minutes? It is 17 mins, so 6:43 to 7:00 is 17 minutes",
+4,A clock shows 7:00. Another clock shows 9:00. How many minutes passed?,120|120 minutes,100,Y,Count the hours. Then convert to minutes,120 minutes   -> 7:00 -> 9:00 is 2 hours. 1 hour is 60 minutes.,
+5,Jenny's school ends at 3:05. Walking back home takes her 15 minutes.What time does she arrive at home?,3:20,100,Y,3:20     -> 3:05 -> 3:10 = 5 minutes. We still need 10 more minutes. 3:10 -> 3:20 = 10 minutes,,
+6,James must be home by 6:15. His trip takes 30 minutes. What time must he leave?,5:45,100,Y,6:15 - 30 minutes.,"5:45     -> 6:15 - 15 = 6:00, 6:00 - 15 = 5:45. So he must leave at 5:45.",
+7,A movie starts at 3:48 pm and ends at 5:00 pm. How long is the movie? Choices: A) 2 hours 12 minutes | B) 1 hour 12 minutes | C) 1 hour 48 minutes,B,100,Y,3:48 -> 4:00 -> 5:00,"1 hour 12 minutes     -> 3:48 -> 4:00 = 12 minutes, 4:00 -> 5:00 = 1 hour. Total = 1 hour 12 minutes",
+8,A clock shows 6:43 and another shows 9:11. How much time passed? Choices: A) 2 hours 28 minutes | B) 3 hours 28 minutes | C) 2 hours 32 minutes | D) 3 hours 32 minutes,A,100,Y,6:43 -> 7:00 -> 9:00 -> 9:11,"2 hours 28 minutes     -> 6:43 -> 7:00 = 17 minutes, 7:00 -> 9:00 = 2 hours, 9:00 -> 9:11 = 11 minutes, 17 + 11 = 28 minutes. Total time = 2 hours 28 minutes",
+9,"What is the time of ""a quarter after 6"" ?",6:15,100,Y,A quarter of 60 minutes.,6:15    -> 1 hour = 60 minutes. A quarter = 60 ÷ 4 = 15. So quarter after 6 = 6:15,
+10,Dinner starts at 6:25 pm and ends at 7:15 pm. How long is dinner?,50|50 minutes,100,Y,6:25 -> 7:00 -> 7:15,"50 minutes    -> 6:25 -> 7:00 = 35 minutes, 7:00 -> 7:15 = 15 minutes. 35 + 15 = 50 minutes",

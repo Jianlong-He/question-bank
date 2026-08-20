@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Compute (-3) − |−15|.",-18,60,Y,"Absolute value of a negative number is positive.","|-15|=15, -3 - 15 = -18."
+2,"A submarine rises by −(−20) meters from a depth of -150. What is its new depth? Enter only the number with no units.",-130,65,Y,"Subtracting a negative adds a positive.","-150 + 20 = -130."
+3,"Fill in the blank to make the equation true: (-22) + ___ = -9.",13,70,Y,"What do you add to -22 to get up to -9?","-9 - (-22) = -9 + 22 = 13."
+4,"Fill in the blank to make the equation true: ___ + 17 = -8.",-25,70,Y,"Subtract 17 from -8 to find the starting number.","-8 - 17 = -25."
+5,"Fill in the blank to make the equation true: (-5) − ___ = 11.",-16,75,Y,"You are starting at -5 and subtracting to reach a positive number. You must subtract a negative!","-5 - (-16) = -5 + 16 = 11."
+6,"Fill in the blank to make the equation true: 28 − ___ = -4.",32,80,Y,"You start at 28 and subtract to get below zero.","28 - 32 = -4."
+7,"Evaluate the expression: (-12) − (-3).",-9,80,Y,"Subtracting a negative adds a positive.","-12 + 3 = -9."
+8,"Evaluate the expression: |-7| + (-14).",-7,85,Y,"Find the absolute value of -7 first.","7 + (-14) = 7 - 14 = -7."
+9,"On a number line, a point is 9 units to the left of 4. What is the number?",-5,85,Y,"Moving left means subtracting.","4 - 9 = -5."
+10,"A point is located 6 units to the right of -11 on a number line. What is the number?",-5,90,Y,"Moving right means adding.","-11 + 6 = -5."

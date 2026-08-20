@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A 10 N force acts east and a 6 N force acts west. What is the resultant force in newtons east?,4,70,Y,Treat east as positive and west as negative.|Compute 10-6.,The resultant is 4 N east.
+2,A boat moves 3 m/s east while current moves 4 m/s north. Find resultant speed.,5,70,Y,The velocity vectors are perpendicular.|Use the Pythagorean theorem.,The resultant speed is 5 m/s.
+3,For the boat velocity (3 4) find its direction north of east to the nearest tenth of a degree.,53.1|53.1 degrees,70,Y,Use arctan(4/3).|Measure from the eastward x-axis.,The direction is about 53.1 degrees north of east.
+4,A hiker walks 5 km east then 12 km north. Find total displacement magnitude.,13,70,Y,Add displacement components.|Use the 5-12-13 triangle.,The displacement magnitude is 13 km.
+5,A hiker walks 5 km east then 12 km north. Find total distance traveled.,17,70,Y,Distance adds path lengths.|Do not use the resultant for total distance.,The total distance is 5+12=17 km.
+6,A 20 N force at 60 degrees above horizontal has what horizontal component?,10,70,Y,Use 20cos60.|cos60=1/2.,The horizontal component is 10 N.
+7,A 20 N force at 30 degrees above horizontal has what vertical component?,10,70,Y,Use 20sin30.|sin30=1/2.,The vertical component is 10 N.
+8,An airplane velocity is (200 0) km/h and wind is (0 50) km/h. Enter ground-velocity components.,"200,50",70,Y,Add the velocity vectors.|Combine corresponding components.,The ground velocity is (200 50) km/h.
+9,Two equal opposite force vectors act on an object. What is the resultant magnitude?,0|zero,70,Y,Add the vectors.|Every component cancels.,The resultant vector is zero so its magnitude is 0.
+10,Why are vector components useful in word problems?,they allow componentwise addition|they separate horizontal and vertical effects|to add directions separately,70,Y,Resolve each quantity along coordinate axes.|Then combine like directions.,Components let horizontal and vertical effects be calculated and added separately.

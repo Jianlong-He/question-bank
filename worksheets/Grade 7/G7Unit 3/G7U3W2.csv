@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"You create 4 zero pairs and then remove 3 positive tiles. What integer is represented?",-3,60,Y,"Zero pairs have no value; removing positives makes the result negative.","Start at 0; remove 3 positive tiles → -3."
+2,"Using integer chips, if you replace every positive tile with two negative tiles, how does +3 change?",-6,65,Y,"Each +1 becomes -2.","3 positives → 3*(-2) = -6."
+3,"On a number line, you start at 8 and move left 3 units. What number do you land on?",5,60,Y,"Subtract 3 from 8.","8 − 3 = 5."
+4,"Determine the sign of the sum: (-14) + (+2) + (+1) + (-9).",-|negative|Negative,70,Y,"Check total positives vs negatives.","Positives = 3, negatives = 23 → negative sign."
+5,"Using integer chips, evaluate (-10) − [the opposite of (+6)].",-4,75,Y,"Opposite of +6 is -6; subtracting -6 adds 6.","-10 + 6 = -4."
+6,"A diagram shows: 7 negative tiles, 4 positive tiles, and 2 zero pairs. What integer would the diagram represent?",-3,80,Y,"Zero pairs contribute nothing.","4 positives and 7 negatives → -3."
+7,"Graph the expression (+9) − (+14) mentally on a number line. What is the final value?",-5,80,Y,"Subtracting positive moves left.","9 - 14 = -5."
+8,"Interpret the integer expression −(|−6| − |3|).",-3,85,Y,"Absolute values first.","-|6 - 3| = -3."
+9,"Using integer chips, compute (+2) + the opposite of [(-9)].",11,85,Y,"Opposite of -9 is +9.","2 + 9 = 11."
+10,"Using a number line, evaluate (-4) + (-7) + the opposite of (+2).",-13,90,Y,"Opposite of +2 is -2.","-4 - 7 - 2 = -13."

@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
+1,What is 123 + 10?,133,300,Y,1 hundreds + 2 tens + 3 ones + 1 tens?,133,
+2,What is 457 + 100?,557,300,Y,4 hundreds + 5 tens + 7 ones + 1 hundreds?,557,
+3,What is 145 + 30?,175,300,Y,1 hundreds + 4 tens + 5 ones + 3 tens = ?,175,
+4,What is 632 + 200?,832,300,Y,6 hundreds + 3 tens + 2 ones + 2 hundreds = ?,832,
+5,What is 245 + 13 ?,258,300,Y,"Add using place value. First add ones, then tens",258,
+6,What is 123 + 456 ?,579,300,Y,"Add using place value. First add ones, then tens, then hundreds",579,
+7,What is 156 + 14?,170,600,Y,Break 156 as 100 + 50 + 6. Then add 6 ones to 14 ones = 20. Now add 100 + 50 + 20 = 170,170,https://i.ibb.co/TMWRgSKX/i7.jpg
+8,What is 466 + 323,789,600,Y,"Add using place value. First add ones, then tens, then hundreds",789,
+9,What is 375 + 115?,490,600,Y,Break 375 as 300 + 70 + 5. Add 5 ones to 115 = 120. Now add 300 + 70 + 120 = ?,490,
+10,What is 128 + 52?,180,600,Y,Break 128 as 100 + 20 + 8.Add 52 + 8 = 60. Now add 100 + 20 + 60 = 180,180,

@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: Sarah bought a notebook that cost 30 cents. She paid with a loonie ( 1 dollar). How much change did Sarah receive? ___ cents,70,600,Y,1 dollar = 100 cents,70
+2,Fill: Maya bought an eraser that cost 45 cents. She paid with a loonie ( 1 dollar). How much change did Maya receive? ___ cents,55,600,Y,1 dollar = 100 cents,55
+3,Fill: Sarah bought 5 pencils  that cost 30 cents. She paid with a Toonie ( 2 dollars). How much change did Sarah receive? ___ cents,50,600,Y,1 dollar = 100 cents,50
+4,Fill: Marcus bought 6 pens that cost 75 cents each. He paid with a five-dollar bill. How much change did Marcus receive?  ___ cents,50,600,Y,1 dollar = 100 cents,50
+5,Fill: Emma bought 3 books that cost 4 dollars each. She paid with a twenty-dollar bill. How much change did Emma receive? ___ dollars,8,600,N,,8
+6,Fill: Sarah bought 4 notebooks that cost 50 cents each. She paid with a ten-dollar bill. How much change did Sarah receive? ___ dollars ,8,600,N,,8
+7,Fill: Sarah bought a book that cost 60 cents. She paid with a five-dollar bill. How much change did Sarah receive? ___ dollars and ___ cents,"4,40",600,Y,1 dollar = 100 cents,"4,40"
+8,"Liam is visiting China and wants to buy a t-shirt that costs 200 Chinese yuan. He has 30 US dollars. If 1 US dollar can be converted into 6 Chinese yuan, does Liam have enough money to buy the t-shirt?(Yes or No)",No,600,Y,30 times 6 = 180 Chinese yuan,No
+9,"Chen is visiting from China with 100 US dollars and wants to buy gifts. His budget is 500 Chinese yuan. If 1 US dollar can be converted into 6 Chinese yuan, does Chen have enough money? ",Yes,600,Y,100 times 6 = 600 Chinese Yuan,Yes
+10,"Sofia is traveling to China and wants to buy a handbag that costs 700 Chinese yuan. She has 120 US dollars. If 1 US dollar can be converted into 6 Chinese yuan, does Sofia have enough money to buy the handbag? How many yuan will she have?","Yes,720",600,N,,"Yes,720"

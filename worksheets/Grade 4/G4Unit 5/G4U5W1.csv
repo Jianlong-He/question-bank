@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If you divide 9 by 2, what's left over? ( left over is the remainder)",1,300,Y,Divide 9 into equal groups of 2. See how many are left over,1
+2,"If you divide 11 by 3, what’s the remainder?",2,300,Y,Divide 11 into equal groups of 3. See how many are left over,2
+3,"If you divide 19 by 2, what's the remainder?",1,300,Y,Divide 19 into equal groups of 2. See how many are left over,1
+4,"If you divide 16 by 5, what's the remainder?",1,300,Y,Divide 16 into equal groups of 5. See how many are left over,1
+5,"If you divide 18 by 5, what's the remainder?",3,300,Y,Divide 18 into equal groups of 5. See how many are left over,3
+6,"If you divide 20 by 3, what's the remainder?",2,300,Y,Divide 20 into equal groups of 3. See how many are left over,2
+7,"If you divide 55  by 8, what's the remainder?  ( 8 times 6 = 48, 8 times 7 = 56)",7,600,Y,Subtract 55-48,7
+8,"If you divide 85 by 9, what's the remainder? ( 9 times 9 = 81, and 9 times 10 = 90)",4,600,Y,Subtract 85 - 81,4
+9,Fill: 18 marbles are split equally among 7 friends. Each friend gets __ marbles with __ marbles left over.,"2,4",600,Y,Divide 18 into groups of 7 and find how many each one has and what is left.,"2,4"
+10,"Fill: A baker has 74 croissants. She packs 9 croissants in each box. She packs __ boxes, and there are __ croissants left unpacked.","8,2",600,Y,Divide 74 into groups of 9 and find how many boxes and what is left.,"8,2"

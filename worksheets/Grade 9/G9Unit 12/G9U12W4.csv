@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A savings plan has 50 dollars in week 1 and increases by 15 dollars each week. How much is in week 8?,155|$155,70,Y,This is arithmetic with a_1 = 50 and d = 15.|Use a_8 = 50 + 7(15).,a_8 = 50 + 105 = $155.
+2,A bacteria model is B(n) = 200 × 2^n. Find B(4).,3200,70,Y,Substitute n = 4.|Compute 200 × 16.,B(4) = 200(2^4) = 200(16) = 3200.
+3,The first row of a theatre has 12 seats and each new row has 2 more. How many seats are in row 15?,40,70,Y,Use an arithmetic sequence.|Compute 12 + 14(2).,Row 15 has 12 + 28 = 40 seats.
+4,"Given a_1 = 2, a_2 = 3, and a_n = a_(n-1) + a_(n-2), find a_5.",13,70,Y,Build the sequence one term at a time.|a_3 = 5 and a_4 = 8.,"The terms are 2, 3, 5, 8, 13, so a_5 = 13."
+5,"Given a_1 = 10 and a_n = 0.8a_(n-1), find a_3.",6.4,70,Y,Multiply by 0.8 twice.|a_2 = 8.,a_3 = 8(0.8) = 6.4.
+6,"What is the usual domain of a sequence indexed by n = 1, 2, 3, ...?",positive integers|natural numbers,70,Y,A sequence uses separate term numbers.|The inputs are not every real number.,"The usual domain is the positive integers 1, 2, 3, ... ."
+7,A phone loses exactly $120 of value each year. Is its value pattern arithmetic or geometric?,arithmetic|an arithmetic sequence,70,Y,The same amount is subtracted each year.|Constant differences indicate one sequence type.,The pattern is arithmetic because the yearly difference is -120.
+8,A phone loses 15% of its value each year. Is its value pattern arithmetic or geometric?,geometric|a geometric sequence,70,Y,A constant percent creates a constant multiplier.|The yearly factor is 0.85.,The pattern is geometric because each value is multiplied by 0.85.
+9,A plant is 8 cm tall in week 1 and grows 3 cm per week. Write an explicit height rule.,a_n=8+3(n-1)|8+3(n-1),70,Y,Use an arithmetic model.|The first term is 8 and the difference is 3.,The explicit rule is a_n = 8 + 3(n - 1).
+10,Why is a sequence graphed as separate points rather than a continuous curve?,its domain is discrete|the domain is discrete|only integer term numbers are allowed,70,Y,A sequence has specific term numbers.|Values between consecutive term numbers are not terms.,"A sequence has a discrete integer domain, so its graph consists of separate points."

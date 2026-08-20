@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Does (2, 3) satisfy both y >= x and y <= -x + 5? Enter Yes or No.",Yes|yes|Y|y,70,Y,Check 3 >= 2.|Then check 3 <= 3.,"Both inequalities are true, so the point is in the solution region."
+2,A solution to a system of inequalities lies in what part of its graph?,overlap|overlapping region|intersection|intersection region,70,Y,It must satisfy every inequality.|Look where all shaded regions meet.,The solution set is the overlapping shaded region.
+3,"Does (4, 1) satisfy y > 0 and x + y <= 5? Enter Yes or No.",Yes|yes|Y|y,70,Y,Check each inequality separately.|Equality is allowed in the second inequality.,"1 > 0 and 4 + 1 <= 5, so the point is a solution."
+4,"Does (1, -2) satisfy y >= -1 and y < 2x? Enter Yes or No.",No|no|N|n,70,Y,Start with y >= -1.|One false inequality is enough to reject the point.,"-2 >= -1 is false, so the point does not solve the system."
+5,"For the system y >= x + 1 and y <= x - 2, how many solutions are there?",0|zero|none|no solution|no solutions,70,Y,The boundary lines are parallel.|One condition requires y above the higher line and the other below the lower line.,"The shaded half-planes do not overlap, so there is no solution."
+6,"For y >= 0 and x >= 0, in which quadrant is the solution region?",first|quadrant 1|quadrant I|first quadrant,70,Y,Both coordinates are nonnegative.|Include the positive axes.,"The solution region is the first quadrant, including its axes."
+7,"Which point satisfies x >= 2 and y < 1: (3, 0) or (1, 0)?","(3,0)|3,0|the first point|first",70,Y,Check the x-condition first.|Then check y < 1.,"(3, 0) satisfies both conditions."
+8,A system uses y < 2x + 1 and y >= -x - 2. Which boundary is dashed?,y=2x+1|y = 2x + 1|the first boundary|first,70,Y,Strict inequalities use dashed lines.|The other inequality includes equality.,The boundary y = 2x + 1 is dashed.
+9,Is a point on a dashed boundary included in the solution set? Enter Yes or No.,No|no|N|n,70,Y,A dashed boundary represents < or >.|Strict inequalities exclude equality.,No. Points on a dashed boundary are excluded.
+10,"Is (0, 2) a solution of y <= 2 and y > -x? Enter Yes or No.",Yes|yes|Y|y,70,Y,Check 2 <= 2.|Then check 2 > 0.,"Both inequalities are true, so (0, 2) is a solution."

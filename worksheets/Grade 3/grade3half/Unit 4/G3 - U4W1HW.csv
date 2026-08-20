@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select the division story that matches 24 / 6. A. 24 books shared among 6 students B. 24 books shared among 6 students equally C. 6 students, each student has 24 books : A B C",B,240,Y,"Division is always about equal sharing or equal groups; When we say A / B, the first number A is the total",B
+2,There are 16 pens. We want to split them into 2 equal groups. How many pens are in each group?,8,240,Y,"Think of 16 / 2. Count by 2s 2, 4, 6, 8, 10, 12, 14, 16",8
+3,"There are 24 balloons and 4 children. If they share equally, how many balloons does each child get?",6,240,Y,"Think of 24 / 4. Count by 4s 4, 8, 12, 16, 20, 24",6
+4,There are 30 marbles. You put them into boxes of 6 marbles each. How many boxes do you need?,5,240,Y,"Think of 30 / 6. Count by 6s 6, 12, 18, 24, 30",5
+5,Tom jogged for 56 minutes in one week. He jogged the same number of minutes each day for 8 days. How many minutes did he jog each day?,7,360,Y,Total / number of days ; 56 / 8 = 7,7

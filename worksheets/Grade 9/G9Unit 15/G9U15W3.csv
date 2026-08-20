@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Rotate P(3 -2) 90 degrees counterclockwise about the origin. Enter the image x-coordinate then y-coordinate.,"2,3",70,Y,Use (x y) -> (-y x).|Negate the old y-coordinate for the new x-coordinate.,P' = (-(-2)  3) = (2  3).
+2,Rotate Q(-4 1) 90 degrees clockwise about the origin. Enter the image x-coordinate then y-coordinate.,"1,4",70,Y,Use (x y) -> (y -x).|The new y-coordinate is the opposite of the old x-coordinate.,Q' = (1  -(-4)) = (1  4).
+3,Rotate R(5 -3) 180 degrees about the origin. Enter the image x-coordinate then y-coordinate.,"-5,3",70,Y,A half-turn changes both coordinate signs.|Use (x y) -> (-x -y).,R' = (-5  3).
+4,Reflect A(6 -2) across the x-axis. Enter the image x-coordinate then y-coordinate.,"6,2",70,Y,The x-coordinate stays fixed.|Change the sign of y.,A' = (6  2).
+5,Reflect B(-3 7) across the y-axis. Enter the image x-coordinate then y-coordinate.,"3,7",70,Y,The y-coordinate stays fixed.|Change the sign of x.,B' = (3  7).
+6,Reflect C(2 -5) across the line y = x. Enter the image x-coordinate then y-coordinate.,"-5,2",70,Y,A reflection across y = x swaps coordinates.|The old y becomes the new x.,C' = (-5  2).
+7,Point D lies on the line of reflection. Where does D map?,itself|the same point|D|point D,70,Y,Points on the mirror line have zero distance from it.|A fixed point does not move.,D maps to itself.
+8,A point and its image form a 70-degree angle at the center of rotation. What is the rotation angle?,70 degrees|70 degree|70|70°,70,Y,The angle at the center measures the turn.|Use the smaller directed angle described.,The rotation angle is 70 degrees.
+9,Reflect E(7 1) across the vertical line x = 4. What is the image x-coordinate?,1,70,Y,The point is 3 units right of x = 4.|Place the image 3 units left of x = 4.,The image x-coordinate is 4 - 3 = 1.
+10,A 90-degree counterclockwise rotation followed by another 90-degree counterclockwise rotation is equivalent to what rotation?,180 degrees|180 degree|180|a 180-degree rotation|half-turn|half turn,70,Y,Add the two rotation angles.|Two quarter-turns make a half-turn.,The combined transformation is a 180-degree rotation.

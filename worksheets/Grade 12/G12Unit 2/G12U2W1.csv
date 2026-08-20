@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the amplitude of y=3cos(x)?,3,70,Y,Amplitude is the absolute value of the cosine coefficient.|Use |3|.,The amplitude is 3.
+2,What is the period of y=cos(2x)?,pi|π,70,Y,For cos(Bx) the period is 2pi/|B|.|Use B=2.,The period is 2pi/2=pi.
+3,What is the maximum value of y=2cos(x)-1?,1,70,Y,Add the amplitude to the midline.|The midline is -1 and amplitude is 2.,The maximum is -1+2=1.
+4,What is the minimum value of y=2cos(x)-1?,-3,70,Y,Subtract the amplitude from the midline.|The midline is -1 and amplitude is 2.,The minimum is -1-2=-3.
+5,Solve cos(x)=0 on 0<=x<=2pi. Enter the solutions in increasing order.,"pi/2,3pi/2|π/2,3π/2",70,Y,Cosine is the unit-circle x-coordinate.|The x-coordinate is zero at the top and bottom of the circle.,The solutions are pi/2 and 3pi/2.
+6,In h(t)=5+2sin(t) what is the midline?,y=5|5,70,Y,The constant outside the sine term shifts the graph.|The oscillation is centered on that value.,The midline is y=5.
+7,An acute angle has sin(theta)=1/2. Find theta in degrees.,30|30 degrees,70,Y,Use inverse sine or a special triangle.|sin(30 degrees)=1/2.,The acute angle is 30 degrees.
+8,At x=0 does y=cos(x) begin at a maximum or minimum?,maximum|a maximum,70,Y,Evaluate cos(0).|The cosine range is from -1 to 1.,cos(0)=1 so the graph begins at a maximum.
+9,Graphically what do solutions of f(x)=g(x) represent?,intersection points|intersections|where the graphs intersect,70,Y,At a solution the outputs are equal.|Look for shared points of the two graphs.,The solutions are the x-values of graph intersections.
+10,How far apart are repeating peaks of y=cos(x)?,2pi|2π,70,Y,Cosine completes one cycle per full rotation.|Use its basic period.,Repeating peaks are 2pi units apart.

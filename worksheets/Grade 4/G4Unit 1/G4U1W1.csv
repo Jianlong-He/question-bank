@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the value of 3 in 1735?,30,300,Y,The 3 is in the tens place,30
+2,What is the value of 2 in 6231?,200,300,Y,The 2 is in the hundreds place,200
+3,What number is represented by  4 tens + 3 ones?,43,300,Y,Write each digit in its correct place value position. ,43
+4,What number is represented by  7 hundreds + 2 tens + 9 ones?,729,300,Y,Write each digit in its correct place value position. ,729
+5,What number is represented by   4 thousands  + 2 hundreds + 4 tens + 6 ones ?,4246,300,Y,Write each digit in its correct place value position. ,4246
+6,What is the largest number you can make by rearranging the digits in 902?,920,300,Y,Put the largest digits in the largest place values,920
+7,What is the value of 5 in 4735?,5,300,Y,5 is in the ones place,5
+8,Fill: 5286 = __ ones +  __ tens + __ hundreds + __ thousands,"6,8,2,5",300,Y,Look at 5286 from right to left,"6,8,2,5"
+9,Fill: 5804= __ tens + __ ones + __ hundreds + __ thousands ,"0,4,8,5",300,Y,"The blanks are not in the usual order, so read carefully.","0,4,8,5"
+10,Fill: 85804= __ tens + __ ones + __ hundreds + __  ten-thousands + __ thousands,"0,4,8,8,5",300,Y,"The blanks are not in the usual order, so read carefully.","0,4,8,8,5"

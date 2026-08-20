@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Five garden plants are available. If one plant is placed in each of two labeled plots, how many ordered choices are possible?",25|5*5|5×5|5^2,45,Y,Each plot has 5 choices;Multiply,There are 5 × 5 = 25 ordered choices.
+2,"In a 5-by-5 choice table, the first choice is fixed along one row. How many entries are in that row?",5,30,Y,Only the second choice changes;Count its possibilities,"The second choice can be any of 5 options, so the row has 5 entries."
+3,A choice table has 5 rows and 5 entries in each row. How many ordered pairs are listed?,25|5*5|5×5,45,Y,Multiply rows by entries per row,The table lists 5 × 5 = 25 ordered pairs.
+4,"A prize shelf has 6 red prizes, 3 blue prizes, and 8 green prizes. How many prizes are there?",17|6+3+8,45,Y,The categories do not overlap;Add their counts,"By classification, there are 6 + 3 + 8 = 17 prizes."
+5,"A snack table has 7 cookies, 5 muffins, and 4 brownies. How many snacks are there?",16|7+5+4,45,Y,The categories are disjoint;Add,There are 7 + 5 + 4 = 16 snacks.

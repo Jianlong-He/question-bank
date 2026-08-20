@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Point $A(4,4)$ is reflected over the x-axis then dilated by $k=2$. Final coordinates are $\dots$","8,-8",45,Y,"Step 1: Reflect over x to get $(4, -4)$;Step 2: Multiply by 2",Composite Transformation
+2,"Select the vector that translates $A(1,2)$ to $A'(0,0)$: $\langle-1,-2\rangle$ $\langle1,2\rangle$ $\langle0,0\rangle$","$\langle-1,-2\rangle$",30,Y,Subtract start from end;$0-1$ and $0-2$,Finding Vectors
+3,True or False: A $270^\circ$ Clockwise rotation is the same as a $90^\circ$ Counter-Clockwise rotation. (True/False),True,25,Y,A full circle is 360;270 in one direction leaves 90 in the other,Rotation Equivalence
+4,Fill: Two figures are Similar if one can be obtained from the other by a $\_\_$ and rigid motions.,Dilation,25,Y,Similarity requires resizing;What is the transformation that changes size?,Similarity Definition
+5,"Point $A(2,0)$ maps to $A'(-2,0)$ and $B(0,3)$ maps to $B'(0,-3)$. What is the transformation?||Identify the transformation mapping $(x,y)$ to $(-x,-y)$.||""Fill: The transformation is a $\_\_ \_\_^\circ$ (Type: Rotation 180)""",Rotation 180,30,Y,Look at the signs;Both signs flipped;This matches the 180 degree rule,Identifying Rotations
+6,"Select all coordinates that lie on the line of reflection $y=x$: $(2,2)$ $(3,1)$ $(-5,-5)$ $(0,4)$","$(2,2)$,$(-5,-5)$",35,Y,"If the line is $y=x$, the coordinates must be equal;Check which points have matching x and y",Line of Reflection
+7,Fill: Dilations centered at the origin multiply coordinates by the $\_\_ \_\_$. (two words),scale factor,25,Y,This is the number usually represented by 'k';It determines how much it grows/shrinks,Dilation Terminology
+8,A triangle with perimeter 10 is dilated by $k=3$. What is the new perimeter?,30,30,Y,Perimeter is a length measurement;Lengths scale directly by $k$,Dilation Properties
+9,"Fill: Point $A$ is at $(-2, -5)$. After translation $\langle 2, 5 \rangle$ where is it?","0,0",25,Y,Add the vector to the point;$-2+2$ and $-5+5$,Translation to Origin
+10,Select the transformation that maps a shoe pattern to its matching footprint (left to right): Reflection Rotation Translation,Reflection,20,Y,Left and Right shoes are mirror images;You cannot slide a left shoe to fit a right footprint,Reflection Concept

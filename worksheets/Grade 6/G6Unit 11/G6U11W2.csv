@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,What is a frequency table? (A) A table that shows numbers in order.   (B) A table that shows how often each value appears.   (C) A table that only shows the largest numbers,B|b,100,Y,Think about counting how many times something happens.,B   -> A frequency table lists each value (like ages) and shows how many times it occurs (its frequency).,
+2,"What does ""frequency"" mean?  (A) The size of a number.   (B) How many times something occurs   (C) The difference between numbers",B|b,100,Y,Think: how often something happens.,Frequency means the number of times a value appears in a data set.,
+3,How many dots represent 5 students in a dot plot?,5|5 dots|5dots,100,N,,Each dot stands for one data point -> 5 students = 5 dots,
+4,Select. Which representation is easiest to SEE the most common value?: List Frequency-table Dot-plot,Dot-plot,100,Y,Think visual,Both B (frequency table) and C (dot plot) can show the most common value clearly. But C (dot plot) is usually considered the easiest to SEE because you can instantly see the tallest stack of dots and no reading numbers needed -> It is more visually,
+5,"Find the range  of this data. Data: 6, 7, 9, 10, 12, 15",9,100,Y,Range = max - min,Range = max - min = 15 - 6 = 9,
+6,The table collects data in a swimming camp. Which two ages are most frequent?,"7,9",100,N,,Both 7 and 9 have frequency 4 -> most frequent,https://i.ibb.co/J8gRV2h/G6-U11-W2-Q6.png
+7,"How many students are older than 9? Data: 6, 11, 7, 10, 9, 11, 8, 12",4,100,N,,"Look for values > 9. There are 11, 10, 11, 12 -> 4 students",
+8,"Data: 5, 4, 6, 7, 7, 7, 8, 8, 9, 9, 9, 9. Identify the most frequent value",9,100,N,,Count occurrences -> highest frequency = mode which is 9,
+9,"Select TRUE or FALSE. ""A list, frequency table, and dot plot can show the same data."": TRUE FALSE",TRUE,100,Y,"Different forms, same info",TRUE. They represent the same data in different ways,
+10,"Find the range  of this data. Data: 16, 13, 8, 21, 5, 37, 23, 39",34,100,Y,Range = max - min,Range = max - min = 39 - 5 = 34,

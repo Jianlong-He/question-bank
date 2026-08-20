@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Add (3+2i)+(5-7i).,8-5i|8-5*i,70,Y,Combine real parts and imaginary parts separately.|2i-7i=-5i.,The sum is 8-5i.
+2,Subtract (6+4i)-(2-3i).,4+7i|4+7*i,70,Y,Distribute the subtraction sign.|Subtract real parts and imaginary coefficients.,The result is 6+4i-2+3i=4+7i.
+3,Multiply (2+i)(3-4i).,10-5i|10-5*i,70,Y,Distribute all four products.|Replace i^2 with -1.,6-8i+3i-4i^2=10-5i.
+4,Multiply (1+2i)^2.,-3+4i|-3+4*i,70,Y,Expand as a binomial square.|Use i^2=-1.,1+4i+4i^2=1+4i-4=-3+4i.
+5,Multiply (5+2i)(5-2i).,29,70,Y,The factors are conjugates.|Use a^2+b^2 because i^2=-1.,25-(2i)^2=25+4=29.
+6,Simplify 3i(2-5i).,15+6i|6i+15,70,Y,Distribute 3i.|Use i^2=-1.,6i-15i^2=15+6i.
+7,Solve x^2+9=0. Enter the solution with positive imaginary part.,3i,70,Y,Rewrite as x^2=-9.|Take square roots using i.,The solutions are ±3i so the requested one is 3i.
+8,Find the roots of x^2+4x+13=0. Enter the root with positive imaginary part.,-2+3i|-2+3*i,70,Y,Use the quadratic formula.|The discriminant is -36.,x=(-4±6i)/2=-2±3i so the requested root is -2+3i.
+9,What is the sum of a complex number a+bi and its conjugate a-bi?,2a,70,Y,Add corresponding parts.|The imaginary terms cancel.,The sum is 2a.
+10,What is the product of a+bi and its conjugate a-bi?,a^2+b^2,70,Y,Use the difference of squares.|Replace i^2 with -1.,(a+bi)(a-bi)=a^2-b^2i^2=a^2+b^2.

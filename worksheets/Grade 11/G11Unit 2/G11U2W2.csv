@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Factor x^4-16 completely.,(x-2)(x+2)(x^2+4),70,Y,Use difference of squares more than once.|x^4-16=(x^2-4)(x^2+4).,Over the reals the complete factorization is (x-2)(x+2)(x^2+4).
+2,Factor x^4-5x^2+4 completely.,(x-1)(x+1)(x-2)(x+2),70,Y,Treat x^2 as one variable.|Factor u^2-5u+4 as (u-1)(u-4).,Substituting back and factoring differences of squares gives (x-1)(x+1)(x-2)(x+2).
+3,Factor x^4+6x^2+9.,(x^2+3)^2,70,Y,Recognize a perfect-square trinomial.|Use a^2+2ab+b^2.,The expression is (x^2+3)^2.
+4,Factor 4x^4-25y^2.,(2x^2-5y)(2x^2+5y),70,Y,This is a difference of squares.|The square roots of the terms are 2x^2 and 5y.,The factorization is (2x^2-5y)(2x^2+5y).
+5,Factor 3x^4-12x^2 completely.,3x^2(x-2)(x+2),70,Y,Take out the GCF first.|Then factor x^2-4.,The complete factorization is 3x^2(x-2)(x+2).
+6,Using substitution u=x^2 factor x^4+7x^2+12.,(x^2+3)(x^2+4),70,Y,Factor u^2+7u+12.|Find numbers with product 12 and sum 7.,The factorization is (x^2+3)(x^2+4).
+7,Factor 9x^6-24x^3+16.,(3x^3-4)^2,70,Y,Recognize a perfect-square trinomial.|The middle term is -2(3x^3)(4).,The factorization is (3x^3-4)^2.
+8,Factor a^4-b^4 completely.,(a-b)(a+b)(a^2+b^2),70,Y,Apply difference of squares.|a^4-b^4=(a^2-b^2)(a^2+b^2).,The complete real factorization is (a-b)(a+b)(a^2+b^2).
+9,Factor x^6+2x^3-15 using substitution.,(x^3+5)(x^3-3),70,Y,Let u=x^3.|Factor u^2+2u-15.,The factorization is (x^3+5)(x^3-3).
+10,Factor 2x^5+8x^3+8x completely.,2x(x^2+2)^2,70,Y,Take out 2x first.|Recognize x^4+4x^2+4 as a square.,The expression factors as 2x(x^2+2)^2.

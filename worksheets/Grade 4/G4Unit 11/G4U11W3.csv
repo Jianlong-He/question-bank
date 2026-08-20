@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
+1,Select which pair of colored lines appears to be parallel: Dark-blue-and-red Yellow-and-green Yellow-and-red Green-and-red,Dark-blue-and-red,300,N,,Dark-blue-and-red,https://i.ibb.co/S44yDmqn/G4-U11-WS3-I1.jpg
+2,This is the standard tic-tac-toe board. How many pairs of parallel lines are drawn to make the board?,2,300,Y,The grid is made of two vertical lines and two horizontal lines.,2,https://i.ibb.co/k68zd7GZ/G4-U11-WS3-I2.jpg
+3,"Select.Line A crosses Line B, but not at a 90-degree angle. Which word best describes them?: Parallel Intersecting Perpendicular",Intersecting,300,Y,Perpendicular lines must be 90 degrees. Parallel lines never touch.,Intersecting,
+4,"If you extend the sides of a regular triangle, will they ever be parallel? (Yes or No)",No,300,Y,Parallel lines never meet. Do triangle sides meet?,No,https://i.ibb.co/1t1jpbxX/G4-U11-WS3-I4.jpg
+5,Fill: The steps of the ladder are ________ to each other. (Parallel or Perpendicular),Parallel,300,Y,The steps run in the same direction and never touch.,Parallel,https://i.ibb.co/xq82VzXh/G4-U11-WS3-I5.jpg
+6,How many pairs of parallel lines are formed by the edges of a stop sign?,4,300,Y,"A stop sign is an octagon. Opposite sides are parallel.,There are 4 pairs of opposite parallel sides.",4,https://i.ibb.co/svr47NWg/G4-U11-WS3-I6.jpg
+7,Select.Look at the alphabet letter 'T'. What is the relationship between the top bar and the vertical post?:Parallel Perpendicular ,Perpendicular,300,Y,They meet to form two right angles.,Perpendicular,
+8,Select which letter has no perpendicular line segments:L M H F,M,300,N,,M,
+9,Select. A street runs North-South. Another street runs East-West. What kind of intersection do they form?:Parallel Perpendicular,Perpendicular,600,Y,North-South and East-West are 90 degrees apart on a compass.,Perpendicular,
+10,"Line segment XY is parallel to segment WZ. If you draw a line connecting X to W that is perpendicular to WZ, will it also be perpendicular to XY?",Yes,600,Y,Draw two parallel lines. Now draw a line that crosses both of them at a right angle (perpendicular). What do you notice? Does it make a right angle with both lines?,Yes,

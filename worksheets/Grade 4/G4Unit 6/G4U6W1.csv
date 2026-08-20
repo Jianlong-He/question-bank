@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select. Is 2 and 4 a factor pair of 8?: Yes No,Yes,300,Y,Can 8 be divided by 2 and 4 without remainders?,Yes
+2,Select. Is 3 and 4 a factor pair of 12?: Yes No,Yes,300,Y,Can 12 be divided by 3 and 4 without remainders?,Yes
+3,Fill:Complete the factor pairs for 15: 1 times ___ = 15; 3 times ___ = 15; 5 times___ = 15,"15,5,3",300,Y,"Divide 15 by 1,3, and 5 to find the numbers that go in the blanks","15,5,3"
+4,Fill:Complete the factor pairs for 24: 1 times ___ = 24; 2 times ___ = 24; 3 times___ = 24; 4 times___ = 24; 6 times ___ = 24,"24,12,8,6,4",300,Y," Divide 24 by 1, 2, 3, 4, and 6 to find what number goes in each blank.","24,12,8,6,4"
+5,Select which of the following numbers are factors of 36?:4 6 7 3 12,"4,6,3,12",600,Y," Try dividing 36 by each number. If there is no remainder, it is a factor.","4,6,3,12"
+6,Select which of the following numbers is a multiple of 8?:32 40 48 63 56,"32,40,48,56",600,Y,"Divide each number by 8. If there is no remainder, that is a multiple of 8","32,40,48,56"
+7,Select which of the following numbers is a multiple of 16?:32 47 48 63 80,"32,48,80",600,Y,"Divide each number by 16. If there is no remainder, that is a multiple of 16","32,48,80"
+8,List ALL the factors of 36 from smallest to largest. (Step 1: 36 divided by 1 =? (Does it divide evenly?). Step 2: 36 divided by 2 =? (Does it divide evenly?) Keep going ),"1,2,3,4,6,9,12,18,36",900,Y," Start with 1 and 36, then find all pairs that multiply to 36. Go in order","1,2,3,4,6,9,12,18,36"
+9,Select which number is a multiple of both 6 and 8?:32 42 48 54,48,600,Y, The answer must divide evenly by 6 and by 8. Test each choice.,48
+10,Select What number has both 5 and 10 as factors?:10 25 30 45,"10,30",600,Y," If 5 and 10 are both factors, the number must be a multiple of 10. Look at the choices.","10,30"

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Compute $5 \cdot (-4)$.","-20|-20.0",60,Y,"A positive times a negative is a negative","$5 \cdot 4 = 20$. Since the signs are different, the result is $-20$."
+2,"Fill: Compute $(-6) \cdot (-7)$.","42|42.0",60,Y,"A negative times a negative is a positive","$6 \cdot 7 = 42$. Since both signs are negative, they cancel out, making the result positive 42."
+3,"Fill: Compute $(-36) / 9$.","-4|-4.0",60,Y,"A negative divided by a positive is a negative","$36 / 9 = 4$. Since the signs are different, the result is $-4$."
+4,"Fill: Compute $(-48) / (-8)$.","6|6.0",60,Y,"A negative divided by a negative is a positive","$48 / 8 = 6$. Since both numbers are negative, the result is positive 6."
+5,"Fill: Find $x$ if $x \cdot (-3) = 24$.","-8|-8.0",75,Y,"Divide both sides by -3","Divide 24 by -3: $24 / (-3) = -8$. So, $x = -8$."
+6,"Fill: Find $y$ if $(-40) / y = 5$.","-8|-8.0",75,Y,"Divide -40 by 5 to find the missing divisor","Divide -40 by 5 to find $y$: $(-40) / 5 = -8$. So, $y = -8$."
+7,"Fill: Compute $(-2) \cdot (-3) \cdot (-4)$.","-24|-24.0",80,Y,"Multiply two numbers first, then multiply by the third","First, $(-2) \cdot (-3) = 6$. Then, $6 \cdot (-4) = -24$."
+8,"Fill: A submarine descends at 15 feet per minute. What is its change in elevation after 4 minutes? (Enter as a negative number)","-60|-60.0",80,Y,"Descending means a negative rate. Multiply the rate by time","Descending 15 ft/min is a rate of $-15$. $(-15) \cdot 4 = -60$ feet."
+9,"Fill: Find $x$ if $(-60) / (x \cdot 2) = -5$.","6|6.0",95,Y,"First, find what $(-60)$ must be divided by to equal $-5$","We know $(-60) / 12 = -5$. Therefore, the denominator $(x \cdot 2)$ must equal 12. If $2x = 12$, then divide by 2 to get $x = 6$."
+10,"Fill: A freezer's temperature drops by $3^\circ$C every 20 minutes. What is the total change in temperature after 3 hours? (Enter as a negative number)","-27|-27.0",100,Y,"Find out how many 20-minute intervals are in 3 hours, then multiply by -3","There are 60 minutes in an hour, so 3 hours = 180 minutes. The number of intervals is $180 / 20 = 9$. The temperature drops 3 degrees each interval: $9 \cdot (-3) = -27^\circ$C."

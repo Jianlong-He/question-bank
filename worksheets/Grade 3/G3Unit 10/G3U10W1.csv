@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,What does area tell us about a shape? (A) How tall it is   (B) How much space it covers  (C) How many sides it has,B|b,100,N,,B   -> Area tells us how much space a shape covers on a surface.,
+2,What is a unit square? (A) A square that is 100 unit long and 100 unit wide  (B) A square that is 1 unit long and 1 unit wide,B|b,100,N,,B   -> A unit square is a square with: width = 1 unit & height = 1 unit. It is used to measure area.,
+3,Select. A shape is covered by 10 unit squares. What is its area? : 1-square-units 5-square-units 10-square-units,10-square-units,100,Y,Each square counts as one,10-square-units   -> Area = number of unit squares covering the shape.,
+4,What is a square foot? (A) A square that is 100 foot by 100 foot  (B) A square that is 1 foot by 1 foot,B|b,100,Y,Think about the size( length and width) of the square,B  -> A square foot is a unit of area where: length = 1 foot & width = 1 foot,
+5,"Select. If a rectangle is covered by 13 square feet, what is its area?: 3-square-feet 13-square-feet 10-square-feet",13-square-feet,100,N,,Area is the number of squares covering the shape. So the rectangle has 13 square feet of area.,
+6,Select. How many square feet make 1 square voot?: 6-square-feet 4-square-feet 3-square-feet,4-square-feet,100,N,,The big voot square contains 4 small square feet. So: 1 square voot = 4 square feet.,
+7,"If a rectangle is 3 square voots, how many square feet is that?",12|12 square|12 square feet,100,Y,1 voot = 4 square feet.,1 voot = 4 square feet. 3 voots × 4 square feet each = 12 square feet,
+8,Shape A has 15 square units. Shape B has 23 square units. Which shape covers more space?,B|b|shape B|Shape B|Shape b|shape b,100,Y,Compare the numbers.,23 > 15 So Shape B has larger area,
+9,"If a shape has 2 square voots, how many square feet is that?",8|8 square feet,100,Y,1 voot = 4 square feet.,1 voot = 4 square feet. 2 x 4 = 8. So the are is 8 square feet,
+10,The same rectangle can measured as 16 square feet. It can also be measured as 4 square voots. Does this mean one measurement is wrong? Answer yes or no,no|No,100,Y,The rectangle stayed the same size.,The rectangle is still the same size. Only the unit used to measure it changed.,

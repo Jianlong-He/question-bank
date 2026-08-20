@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the vertex of y=2(x-3)^2+5? Enter x-coordinate then y-coordinate.,"3,5",70,Y,Use vertex form y=a(x-h)^2+k.|The vertex is (h k).,The vertex is (3 5).
+2,What is the axis of symmetry of y=-4(x+2)^2+7?,x=-2|x = -2,70,Y,Rewrite x+2 as x-(-2).|The axis passes vertically through the vertex.,The axis of symmetry is x=-2.
+3,Does y=-3(x-1)^2+8 have a maximum or minimum?,maximum|a maximum,70,Y,Look at the sign of a.|A negative leading coefficient opens downward.,The function has a maximum.
+4,What is the maximum value of y=-3(x-1)^2+8?,8,70,Y,The maximum occurs at the vertex.|The vertex y-coordinate is k.,The maximum value is 8.
+5,Compared with y=x^2 is y=4x^2 wider or narrower?,narrower,70,Y,The vertical stretch makes outputs grow faster.|The arms become steeper.,The graph is narrower.
+6,Compared with y=x^2 is y=0.25x^2 wider or narrower?,wider,70,Y,The factor is between 0 and 1.|This vertically compresses the parabola.,The graph is wider.
+7,For f(x)=2(x+1)^2-6 find f(-1).,-6,70,Y,At the vertex the squared factor is zero.|Substitute x=-1.,f(-1)=2(0)^2-6=-6.
+8,A projectile is modeled by h(t)=-5(t-3)^2+50. At what time is maximum height reached?,3|3 seconds,70,Y,The vertex occurs at t=h in vertex form.|Read the horizontal coordinate of the vertex.,Maximum height is reached at t=3 seconds.
+9,For h(t)=-5(t-3)^2+50 what is the maximum height?,50,70,Y,Read the vertex y-value.|The negative coefficient means the vertex is highest.,The maximum height is 50.
+10,Write a vertex-form quadratic with vertex (4 -2) that opens upward.,y=(x-4)^2-2|f(x)=(x-4)^2-2,70,Y,Use y=a(x-h)^2+k.|Choose the simplest positive value a=1.,One such quadratic is y=(x-4)^2-2.

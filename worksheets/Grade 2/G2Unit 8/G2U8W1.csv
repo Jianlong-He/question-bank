@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
+1,Select the quadrilateral: Circle Triangle Square,Square,300,Y,A quadrilateral has 4 sides,Square,
+2,Select which of the following quadrilaterals have all four sides of equal length?: Rectangle Rhombus Square Trapezoid,"Rhombus, Square",300,N,,"Rhombus, Square",
+3,How many sides does this shape (Hexagon) have?,6|six,300,N,,6,https://i.ibb.co/fY4nDHBp/i3.jpg
+4,How many sides does a triangle have?,3|three,300,N,,3,
+5,How many sides does a rectangle have?,4|four,300,N,,4,
+6,Fill: A rectangle has __ sides and __ angles,"4,4",300,Y,Count each straight line (side). Count each point where lines meet (corner).,"4,4",
+7,Select which shape is a quadrilateral: A B C None,None,300,Y,A quadrilateral has 4 sides.,None,https://i.ibb.co/67yrNy6y/i7.jpg
+8,How many corners does a triangle have?,3|three,300,N,,3,
+9,Select which shape has all right angles?:  A B C None,B,300,Y,A right angle is a 90-degree corner (like a square).,B,https://i.ibb.co/tPwx7PSw/i9.jpg
+10,Select all the quadrilaterals: A B C D E,"A,E",300,Y,A quadrilateral has 4 sides.,"A,E",https://i.ibb.co/ycy95n2p/i10.jpg

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"For 2x + 3y = 12, find the x-intercept.",6,70,Y,Set y = 0.|Solve 2x = 12.,The x-intercept is 6.
+2,Convert y = 2x - 5 to standard form with A positive.,2x-y=5|2x - y = 5,70,Y,Move y to the left side.|Keep the constant on the right.,The standard form is 2x - y = 5.
+3,Convert y - 4 = -3(x - 2) to standard form.,3x+y=10|3x + y = 10,70,Y,Expand the right side.|Move the x-term left.,y - 4 = -3x + 6 gives 3x + y = 10.
+4,Find the slope of 4x + 2y = 8.,-2,70,Y,Solve for y.|Divide 2y = -4x + 8 by 2.,"y = -2x + 4, so the slope is -2."
+5,Find the y-intercept of 5x + y = 10.,10,70,Y,Set x = 0.|Read the resulting y-value.,"When x = 0, y = 10."
+6,"For 2x + 3y = 6, enter the x-intercept and then the y-intercept.","3, 2",70,Y,Set y = 0 first.|Then set x = 0.,"The intercepts are (3, 0) and (0, 2)."
+7,A line has x-intercept 6 and y-intercept 4. Which standard-form equation fits it?,2x+3y=12|2x + 3y = 12,70,Y,Check each intercept by setting the other variable to zero.|Use x/6 + y/4 = 1.,Multiplying x/6 + y/4 = 1 by 12 gives 2x + 3y = 12.
+8,Rewrite 3x - y = 7 in slope-intercept form.,y=3x-7|y = 3x - 7,70,Y,Isolate -y first.|Multiply by -1.,"-y = 7 - 3x, so y = 3x - 7."
+9,Which has the same slope as 6x + 2y = 8: y = -3x + 1 or y = 3x + 1?,y=-3x+1|y = -3x + 1|first,70,Y,Solve the standard-form equation for y.|Compare x-coefficients.,"6x + 2y = 8 becomes y = -3x + 4, so the first equation has the same slope."
+10,Write y = -x + 4 in standard form.,x+y=4|x + y = 4,70,Y,Move the x-term to the left.|Keep A positive.,Adding x to both sides gives x + y = 4.

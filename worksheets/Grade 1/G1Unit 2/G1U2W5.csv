@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"14 is 10 + 4. If you remove 5, what number left?",9,100,Y,"Think of 5 as 4 + 1, and 4 - 4 = 0. ; Then remove 1 from the 10, what is the number? ; Use tens frame",9
+2,Fill: 15 - 6  = 10 - __,1,120,Y,"15 - 5 = 10, remove 6 equal to remove 5 to make a 10 and then remove 1",1
+3,Fill: 15 - 9 = __,6,130,Y,"Think of 15 as 10 + 5, then take away 4.; Use tens frame",6
+4,"Fill: 13 - 1 = __, 13  - 2 = __, 13 - 3 + __, 13 - 4 = __, 13 - 5 = __, 13 - 6 = __","12, 11, 10, 9, 8, 7",150,N,,"12, 11, 10, 9, 8, 7"
+5,Fill: 16 - 8 + 4 =  __,12,150,Y,"First, what is 16 - 8? Then add 4",12
+6,A shelf has 14 books. You take away 6 to read. How many are still on the shelf?,8,150,Y,Take away = subtract; 14 - 6 = __,8
+7,Select. Does this statement correct? 19 - 10 + 3  = 4 + 7 : Yes No,No,160,Y,"19 - 10 = __, then + 3 = __, then what is 4 + 7",No
+8,You have 2 full tens frames with stickers. You teacher gave you 1 stickers. How many stickers you have now?,21,170,Y,Each ten frames has 10 stickers. ; 20 + 1 = __,21
+9,Fill: 22 - 8 = __,14,180,Y,Think of 22 as 20 + 2. Then what is 20 - 6?,14
+10,Mia had 20 grapes. She gave away 4 to her friend and got 2 more. How many grapes does Mia have now?,18,200,Y,"give away  = subtract ""-"", get more = add ""+""; 20 - 4 + 2 = __",18

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Is √49 a rational or irrational number? (Enter 1 for rational, 2 for irrational)",1,30,Y,Check if the square root is a whole number,"√49=7, which is a whole number, so it is rational."
+2,Fill: What is the cube root of 64? ($\sqrt[3]{64}$),4,30,Y,What number multiplied by itself three times equals 64?;$4 \cdot 4 \cdot 4 = 64$,We need a number that multiplies by itself three times to equal 64. 4 \cdot 4 \cdot 4 = 16 \cdot 4 = 64.
+3,Fill: Solve for $x$: $x^2 = 121$,11,30,Y,Take the square root of both sides;What times itself is 121?,Take the square root of both sides. \sqrt{121} = 11 because 11 \cdot 11 = 121.
+4,What is the square root of 81?,9,30,Y,Find the number that multiplies by itself to give 81,"9×9=81, so √81=9."
+5,Simplify (3×10⁴) × (2×10³).,6×10^7,40,Y,"Multiply the numbers, then add the exponents of 10","3×2=6 and 10⁴×10³=10⁷, so the result is 6×10⁷."
+6,Evaluate (-3)².,9,30,Y,"Remember to square the entire base, not just the number",(-3)×(-3)=9.
+7,Simplify (2³ × 5³).,1000,40,Y,Multiply the bases first if exponents are the same,(2×5)³=10³=1000.
+8,Fill: Calculate $(4 \cdot 10^5) / (2 \cdot 10^2)$ in scientific notation. Enter the coefficient only ($x \cdot 10^3$).,2,45,Y,Divide the coefficients: 4 / 2;Subtract the exponents: 5 - 2,"Divide the coefficients: 4 / 2 = 2. Subtract exponents: 5 - 2 = 3. The result is 2 \cdot 10^3, so the coefficient is 2."
+9,Fill: Write $7.2 \cdot 10^3$ in standard decimal form.,7200,45,Y,Move the decimal point 3 places to the right;Fill in the blanks with zeros,"Multiply 7.2 by 1000, which moves the decimal point 3 places to the right: 7.2 \to 72 \to 720 \to 7200."
+10,Fill: Simplify $(x^4)^3$. Enter the new exponent.,12,45,Y,Power of a power rule: multiply the exponents;4 times 3,"Using the power of a power rule, multiply the exponents: 4 \cdot 3 = 12."

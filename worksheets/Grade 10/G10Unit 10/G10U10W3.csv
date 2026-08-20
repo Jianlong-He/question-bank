@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Write the formula for volume density using mass m and volume V.,m/V|mass/volume|density=m/V,70,Y,Density compares how much mass occupies a volume.|Divide mass by volume.,Volume density is m/V.
+2,An object has mass 120 g and volume 30 cubic centimeters. Find its volume density.,4,70,Y,Use density=mass/volume.|Compute 120/30.,The density is 4 g per cubic centimeter.
+3,A material has density 5 g per cubic centimeter and volume 12 cubic centimeters. Find its mass.,60,70,Y,Rearrange density=mass/volume.|Multiply density by volume.,The mass is 5(12)=60 g.
+4,A solid has mass 84 g and density 7 g per cubic centimeter. Find its volume.,12,70,Y,Rearrange density=mass/volume.|Divide mass by density.,The volume is 84/7=12 cubic centimeters.
+5,Write the formula for area density using quantity Q spread over area A.,Q/A|quantity/area|area density=Q/A,70,Y,Area density is a quantity per square unit.|Divide the total quantity by area.,Area density is Q/A.
+6,A population of 900 occupies 30 square kilometers. Find the population density.,30,70,Y,Divide population by area.|Compute 900/30.,The density is 30 people per square kilometer.
+7,A cylinder has volume 200 cubic centimeters and mass 500 g. Find its density.,2.5|5/2,70,Y,Use mass divided by volume.|Compute 500/200.,The density is 2.5 g per cubic centimeter.
+8,Two similar solids have length scale factor 3. What is their volume ratio image:original?,27:1|27|27 to 1,70,Y,Cube the length factor.|Compute 3^3.,The volume ratio is 27:1.
+9,A tank is a rectangular prism 4 m by 3 m by 2 m. Find its volume.,24,70,Y,Multiply length width and height.|Use V=lwh.,The tank volume is 4(3)(2)=24 cubic meters.
+10,A tank holds 24 cubic meters and liquid density is 800 kg per cubic meter. Find the liquid mass.,19200,70,Y,Mass equals density times volume.|Compute 800(24).,The liquid mass is 19200 kg.

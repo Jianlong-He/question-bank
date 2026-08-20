@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Evaluate log base 2 of 8.,3,70,Y,Ask what power of 2 equals 8.|2^3=8.,Therefore log base 2 of 8 is 3.
+2,Evaluate log base 10 of 1000.,3,70,Y,Ask what power of 10 equals 1000.|10^3=1000.,The logarithm equals 3.
+3,Rewrite log base 3 of 81=4 in exponential form.,3^4=81,70,Y,The logarithm gives an exponent.|Base^exponent=argument.,The exponential form is 3^4=81.
+4,Rewrite 5^3=125 in logarithmic form.,log base 5 of 125=3|log_5(125)=3,70,Y,The exponent becomes the logarithm value.|The base remains 5.,The logarithmic form is log base 5 of 125=3.
+5,Evaluate log base 7 of 1.,0,70,Y,Any nonzero base to power zero equals 1.|7^0=1.,The logarithm equals 0.
+6,Evaluate log base 4 of 1/16.,-2,70,Y,Write 1/16 as a power of 4.|4^(-2)=1/16.,The logarithm equals -2.
+7,What is the domain of y=log base 2 of x?,x>0|positive real numbers,70,Y,A logarithm's argument must be positive.|Values zero or below are not allowed.,The domain is x>0.
+8,What vertical asymptote does y=log base 3 of x have?,x=0,70,Y,The graph approaches the y-axis.|The logarithm is undefined at zero.,The vertical asymptote is x=0.
+9,What point lies on every basic logarithmic graph y=log base b of x?,"1,0",70,Y,Use b^0=1.|Thus log base b of 1=0.,"Every basic logarithmic graph contains (1, 0)."
+10,The functions y=2^x and y=log base 2 of x are what type of pair?,inverse functions|inverses,70,Y,Their inputs and outputs are interchanged.|Their graphs reflect across y=x.,They are inverse functions.

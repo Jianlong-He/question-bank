@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: A line of best fit is $y = 2x + 7$. What is the predicted value of $y$ when $x = 15$?,37|37.0,85,Y,Substitute x into the equation,$y = 2(15) + 7 = 30 + 7 = 37$.
+2,"Fill: A trend line passes through $(2, 13)$ and $(10, 45)$. What is its slope?",4|4.0,80,Y,Use $\text{slope} = (y_2 - y_1) / (x_2 - x_1)$,$\text{Slope} = (45 - 13) / (10 - 2) = 32 / 8 = 4$.
+3,Fill: A regression model predicts 60 when $x = 5$. The actual value is 52. What is the residual?,-8|-8.0,75,Y,$\text{Residual} = \text{Actual} - \text{Predicted}$,$\text{Residual} = 52 - 60 = -8$.
+4,"Fill: For the regression line $y = -3x + 50$, what x-value gives $y = 23$?",9|9.0,90,Y,Set y = 23 and solve for x,$23 = -3x + 50 \to 3x = 27 \to x = 9$.
+5,"Fill: A dataset includes $(1, 4)$, $(3, 10)$, and $(5, 16)$. If the pattern continues, what is $y$ when $x = 9$?",28|28.0,85,Y,Find the slope and extend the pattern,$\text{Slope} = (10 - 4) / (3 - 1) = 6 / 2 = 3$. Equation: $y = 3x + 1$. When $x = 9$: $y = 3(9) + 1 = 27 + 1 = 28$.
+6,"Fill: In a school, 40 are in math club, 35 in science club, and 18 are in both. How many are in at least one club?",57|57.0,80,Y,Add the two clubs and subtract the intersection,$\text{Total} = 40 + 35 - 18 = 75 - 18 = 57$.
+7,"Fill: In a table, 0.60 of students play soccer, and 0.25 of THOSE also run track. What fraction of all students do both?",0.15|0.150,90,Y,Multiply the two proportions together,$0.60 \cdot 0.25 = 0.15$.
+8,"Fill: A scatter plot shows that as study hours increase, video game hours decrease. What type of correlation is this?",negative|Negative,80,Y,Think about the opposite directions,"As one variable goes up, the other goes down, which indicates a negative correlation."
+9,"Fill: In a survey of 100 people, 40 like dogs and 60 like cats. What is the relative frequency of liking dogs? (Decimal)",0.4|0.40,70,Y,Divide the part by the total to get the relative frequency,$\text{Relative Frequency} = 40 / 100 = 0.4$.
+10,Fill: A scatter plot shows points very close to a steep downward line. How would you describe the strength of the correlation?,strong|Strong,90,Y,Look at how tightly the points cluster around the line,"When points form a very tight, clear line, the correlation is considered strong."

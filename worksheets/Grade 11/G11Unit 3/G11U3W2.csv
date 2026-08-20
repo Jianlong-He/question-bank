@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Divide x^2+5x+6 by x+2.,x+3,70,Y,Find a polynomial that multiplies by x+2.|(x+2)(x+3)=x^2+5x+6.,The quotient is x+3.
+2,Divide x^2-1 by x-1.,x+1,70,Y,Use the difference-of-squares factorization.|x^2-1=(x-1)(x+1).,The quotient is x+1.
+3,Divide 2x^2+7x+3 by x+3.,2x+1,70,Y,Divide the leading terms first.|Check (x+3)(2x+1).,The quotient is 2x+1.
+4,Divide x^2+4x+7 by x+1. Enter the quotient then the remainder.,"x+3,4",70,Y,Use polynomial long division.|(x+1)(x+3)=x^2+4x+3.,The quotient is x+3 and the remainder is 4.
+5,Divide 2x^3+3x^2-5x+6 by x+2. Enter the quotient then the remainder.,"2x^2-x-3,12",70,Y,Start with 2x^3/x.|Multiply back and subtract at each step.,The quotient is 2x^2-x-3 and the remainder is 12.
+6,Divide x^3-8 by x-2.,x^2+2x+4,70,Y,Use the difference-of-cubes pattern.|x^3-2^3=(x-2)(x^2+2x+4).,The quotient is x^2+2x+4.
+7,When dividing x^3+5x-2 by x+1 what coefficient should represent the missing x^2 term?,0,70,Y,Write every power in descending order.|The polynomial is x^3+0x^2+5x-2.,Use coefficient 0 for the missing x^2 term.
+8,Given that x-3 is a factor of x^3-4x^2-3x+18 find the other quadratic factor.,x^2-x-6,70,Y,Divide the cubic by x-3.|Check (x-3)(x^2-x-6).,The other factor is x^2-x-6.
+9,Factor x^3-4x^2-x+4 completely.,(x-4)(x-1)(x+1),70,Y,Group terms or first test x=4.|After dividing by x-4 the quotient is x^2-1.,The complete factorization is (x-4)(x-1)(x+1).
+10,Divide 3x^3-x^2+2x-5 by x-1. Enter the quotient then the remainder.,"3x^2+2x+4,-1",70,Y,"Use synthetic or long division with 1.|The synthetic coefficients are 3, -1, 2, -5.",The quotient is 3x^2+2x+4 and the remainder is -1.

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find 7 × 4.,28,30,Y,Think of 7 groups of 4;Multiply,7 × 4 = 28.
+2,How many outcomes arise from spinning a 3-section spinner and rolling a 6-sided die?,18|3*6|3×6,45,Y,The spinner has 3 outcomes;The die has 6;Multiply,"By the counting principle, there are 3 × 6 = 18 outcomes."
+3,A club has 6 members. How many ways can it choose a president and a vice president?,30|6*5|6×5,45,Y,Choose the president first;Then choose the vice president from the remaining members,There are 6 × 5 = 30 ways.
+4,Use the distribution rule to find 9 × 17.,153,45,Y,Write 17 as 10 + 7;Add 9 × 10 and 9 × 7,9 × 17 = 90 + 63 = 153.
+5,You may choose one numbered card from 1 through 18 or one of 7 colors. How many total choices are there?,25|18+7,45,Y,The two groups are disjoint;Add their sizes,"By classification, there are 18 + 7 = 25 choices."

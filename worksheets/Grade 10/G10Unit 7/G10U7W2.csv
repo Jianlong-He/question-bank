@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A substance has initial mass 160 grams and half-life 5 years. Write its mass after t years.,M=160*(1/2)^(t/5)|160*(1/2)^(t/5)|M=160(1/2)^(t/5),70,Y,The exponent counts the number of half-lives.|There are t/5 half-life periods.,The model is M=160(1/2)^(t/5).
+2,A 160-gram sample has half-life 5 years. What mass remains after 10 years?,40|40 grams,70,Y,Ten years is two half-lives.|Multiply by (1/2)^2.,160(1/2)^2=40 grams.
+3,A medication amount halves every 6 hours. What fraction remains after 18 hours?,1/8,70,Y,Eighteen hours is three half-lives.|Compute (1/2)^3.,The remaining fraction is 1/8.
+4,A population grows 6% per year. What is the annual growth factor?,1.06,70,Y,Convert 6% to 0.06.|Add the rate to 1.,The growth factor is 1.06.
+5,A price decreases 15% each month. What is the monthly decay factor?,0.85|85%,70,Y,Convert 15% to 0.15.|Subtract from 1.,The decay factor is 0.85.
+6,An account starts at 1000 dollars and grows 4% annually. Write its value after t years.,A=1000*1.04^t|1000*1.04^t|A=1000(1.04)^t,70,Y,Use initial amount times annual factor^t.|The annual factor is 1.04.,The model is A=1000(1.04)^t.
+7,A car worth 24000 dollars loses 12% of its value yearly. Find its value after 2 years.,18585.6|18585.60,70,Y,Use decay factor 0.88.|Compute 24000(0.88)^2.,The value is 24000(0.7744)=18585.60 dollars.
+8,A bacteria culture increases from 400 to 500 in one hour. What is the hourly growth factor?,1.25|5/4,70,Y,Divide the new amount by the original amount.|Compute 500/400.,The growth factor is 1.25.
+9,The growth factor is 1.35. What is the percent increase?,35%|35 percent|0.35,70,Y,Subtract 1 from the factor.|Convert 0.35 to a percent.,The percent increase is 35%.
+10,The decay factor is 0.62. What is the percent decrease?,38%|38 percent|0.38,70,Y,Subtract the factor from 1.|1-0.62=0.38.,The percent decrease is 38%.

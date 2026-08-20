@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Define a parabola using a focus and a directrix.,points equidistant from the focus and directrix|the set of points equally distant from a focus and directrix,70,Y,One reference is a point and the other is a line.|Distances to both references match.,A parabola is the set of points equidistant from a focus and a directrix.
+2,Where is the vertex relative to the focus and directrix?,halfway between them|midway between the focus and directrix,70,Y,Use the parabola definition along its axis.|The vertex has equal distance to both.,The vertex lies halfway between the focus and directrix.
+3,A parabola has focus (0 2) and directrix y=-2. Find its vertex. Enter x then y.,"0,0",70,Y,The axis is vertical.|Take the midpoint between y=2 and y=-2.,The vertex is (0 0).
+4,For a vertical parabola with vertex (h k) write its standard focus form.,(x-h)^2=4p(y-k),70,Y,The squared variable is perpendicular to the axis.|The focus is p units vertically from the vertex.,The form is (x-h)^2=4p(y-k).
+5,For (x-h)^2=4p(y-k) find the focus. Enter x-coordinate then y-coordinate.,"h,k+p",70,Y,Move p units along the vertical axis.|The vertex is (h k).,The focus is (h k+p).
+6,For (x-h)^2=4p(y-k) what is the directrix?,y=k-p,70,Y,It lies p units opposite the focus.|The directrix is horizontal.,The directrix is y=k-p.
+7,Find p for x^2=8y.,2,70,Y,Compare 8 with 4p.|Solve 4p=8.,The value of p is 2.
+8,Find the focus of x^2=8y. Enter x then y.,"0,2",70,Y,The vertex is at the origin and p=2.|Use focus (0 p).,The focus is (0 2).
+9,Find the directrix of x^2=8y.,y=-2,70,Y,The directrix is opposite the focus.|Use y=-p.,The directrix is y=-2.
+10,If p is negative in (x-h)^2=4p(y-k) which direction does the parabola open?,down|downward,70,Y,The focus lies below the vertex.|The sign of p sets the vertical direction.,The parabola opens downward.

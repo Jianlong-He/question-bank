@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Is speed a scalar or vector quantity?,scalar|a scalar,70,Y,Speed has size but no direction.|Velocity includes direction.,Speed is a scalar quantity.
+2,Is velocity a scalar or vector quantity?,vector|a vector,70,Y,Velocity includes direction.|Vectors have magnitude and direction.,Velocity is a vector quantity.
+3,A vector moves 4 units right and 3 units up. Enter its x-component then y-component.,"4,3",70,Y,Right is positive x.|Up is positive y.,The component form is (4 3).
+4,Find the vector from initial point (2 1) to terminal point (7 5). Enter x then y.,"5,4",70,Y,Subtract initial coordinates from terminal coordinates.|Compute 7-2 and 5-1.,The vector is (5 4).
+5,Find the magnitude of vector (3 4).,5,70,Y,Use the Pythagorean theorem.|Compute (3^2+4^2)^(1/2).,The magnitude is 5.
+6,Find the magnitude of vector (-5 12).,13,70,Y,Signs disappear when components are squared.|Compute (25+144)^(1/2).,The magnitude is 13.
+7,A vector has initial point (-1 2) and terminal point (2 6). Find its magnitude.,5,70,Y,First find components (3 4).|Then use the magnitude formula.,The magnitude is (3^2+4^2)^(1/2)=5.
+8,Which component of vector (-2 7) controls horizontal change?,-2|the x-component|x-component,70,Y,Horizontal movement is the x-coordinate.|Read the first component.,The horizontal component is -2.
+9,Which component of vector (-2 7) controls vertical change?,7|the y-component|y-component,70,Y,Vertical movement is the y-coordinate.|Read the second component.,The vertical component is 7.
+10,A vector has zero magnitude. What must both components equal?,"0,0",70,Y,A sum of squared real components is zero only when each is zero.|Use the magnitude formula.,Both components must be 0.

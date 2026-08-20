@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"There are 5 flower types. If one flower is planted in each of two labeled pots, how many ordered choices are possible?",25|5^2|5*5|5×5,45,Y,Each pot has 5 choices;Multiply,There are 5 × 5 = 25 ordered choices.
+2,An 8-sided die and a 3-sided die are rolled. How many outcomes are possible?,24|8*3|8×3,45,Y,Count the outcomes for each die;Multiply,There are 8 × 3 = 24 outcomes.
+3,A bakery offers 6 muffin choices and 4 drink choices. How many muffin-drink orders are possible?,24|6*4|6×4,45,Y,Choose a muffin and a drink;Multiply the choices,There are 6 × 4 = 24 orders.
+4,How many outcomes arise from a coin flip and an 8-sided die roll?,16|2*8|2×8,45,Y,A coin has 2 outcomes;The die has 8;Multiply,There are 2 × 8 = 16 outcomes.
+5,A shirt comes in 4 colors and 3 sizes. How many different shirts are possible?,12|4*3|4×3,45,Y,Choose a color and a size;Multiply,There are 4 × 3 = 12 shirts.

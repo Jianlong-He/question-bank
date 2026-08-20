@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,What is |–6| ?,6,50,Y,Absolute value means distance from zero.,6   -> –6 is 6 units away from 0. Distance is always positive. So |–6| = 6,
+2,What is |–17| ?,17,50,Y,Absolute value means distance from zero.,17   -> –17 is 17 units away from 0. Distance is always positive. So |–17| = 17,
+3,What is |89| ?,89,50,Y,Positive numbers stay the same.,89   -> 89 is 89 units away from 0. Distance is always positive. So |89| = 89,
+4,A diver is at -35 meters below sea level. How far is the diver from sea level?,35| 35 meters|35m| 35 m,50,Y,"How far is distance, distance is always positive","35    -> How far is distance, distance is always positive",
+5,"Select, Which pair has the same absolute value? (A) -67 and 79 (B) 54 and -45 (C) -63 and 63 : A B C",C,50,Y,Get the absolute values of each pair,C  -> |-63| = 63 = |63|,
+6,"Select, Which number has a greater absolute value? -29 or 15 : -29 15",-29,50,Y,Absolute value means distance from zero.,"-29   -> |-29| = 29, |15| = 15",
+7,What is -|-12906|?,-12906,50,Y,Absolute value means distance from zero.,-12906,
+8,What is |-56| + |-72|?,128,50,Y,Absolute value means distance from zero.,128,
+9,"Select, Which pair has the same value? (A) -|126| and |126| (B) -87 and -|-87| (C) -(24) and |-24| : A B C",B,50,Y,Absolute value means distance from zero.,B   -> -|-87| = -87,
+10,The top of a building is at +129 m. The basement is at -30 m. How much total vertical distance is there between them?,159,50,Y,Think about distance above and below zero.,159   -> |129 - (-30)| = 159,

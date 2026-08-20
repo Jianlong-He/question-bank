@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Point P is 4 units to the right of the origin and 3 units below it. Fill in the x-coordinate and then the y-coordinate.,"4, -3",60,Y,Right of the origin means a positive x-coordinate.|Below the origin means a negative y-coordinate.,"Moving 4 units right gives x = 4, and moving 3 units down gives y = -3. The ordered pair is (4, -3)."
+2,"In which quadrant is the point (-5, 2)? Enter the quadrant number or Roman numeral.",2|II|Quadrant II|quadrant II,60,Y,A negative x-coordinate lies left of the y-axis.|A positive y-coordinate lies above the x-axis.,"The point is left of the y-axis and above the x-axis, so it is in Quadrant II."
+3,Evaluate 3x + 5 when x = -4.,-7,60,Y,Substitute -4 everywhere x appears.|Multiply before adding.,3(-4) + 5 = -12 + 5 = -7.
+4,Evaluate 2a - 3b when a = 5 and b = -2.,16,65,Y,Replace a with 5 and b with -2.|Be careful: subtracting 3(-2) adds 6.,2(5) - 3(-2) = 10 + 6 = 16.
+5,Evaluate (1/2)m + n when m = 8 and n = -3.,1,65,Y,Compute one-half of 8 first.|Then add -3.,(1/2)(8) + (-3) = 4 - 3 = 1.
+6,The expression 7p represents seven times a number p. Evaluate it when p = -6.,-42,60,Y,A number written beside a variable means multiplication.,7p = 7(-6) = -42.
+7,"Write an algebraic expression for: a number n decreased by 7, and then the result is doubled.",2(n - 7)|2(n-7)|2n - 14|2n-14,75,Y,First represent the decrease as n - 7.|Parentheses show that the entire difference is doubled.,"The decrease is n - 7. Doubling the result gives 2(n - 7), which is equivalent to 2n - 14."
+8,A rectangle has length x + 2 and width 5. What is its area when x = 6? Enter only the number.,40,70,Y,Evaluate the length first.|Area equals length times width.,The length is 6 + 2 = 8. The area is 8 × 5 = 40.
+9,A point lies on the y-axis. What must its x-coordinate be?,0,60,Y,Every point on the y-axis has no horizontal displacement from the origin.,The x-coordinate of every point on the y-axis is 0.
+10,Evaluate 4r - s² when r = 3 and s = -2.,8,75,Y,Square s before subtracting.|The square of -2 is positive 4.,4(3) - (-2)² = 12 - 4 = 8.

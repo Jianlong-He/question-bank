@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Write the combination formula nCr.,n!/(r!(n-r)!),70,Y,Order does not matter.|Divide the permutation count by r!.,The formula is nCr=n!/(r!(n-r)!).
+2,Evaluate 8C2.,28,70,Y,Use 8(7)/(2(1)).|Pairs do not have order.,8C2=28.
+3,How many handshakes occur if each pair among 10 people shakes once?,45,70,Y,Choose an unordered pair.|Compute 10C2.,There are 45 handshakes.
+4,How many 5-card hands can be chosen from 9 distinct cards?,126,70,Y,Order in a hand does not matter.|Compute 9C5=9C4.,There are 126 hands.
+5,How many possible sequences result from flipping a coin 6 times?,64,70,Y,Each flip has two outcomes.|Use 2^6.,There are 64 possible sequences.
+6,A committee of 3 is chosen from 7 people. How many committees are possible?,35,70,Y,Use combinations because order does not matter.|Compute 7C3.,There are 35 committees.
+7,A president vice-president and secretary are selected from 8 people. How many outcomes are possible?,336,70,Y,The offices are distinct so order matters.|Compute 8P3=8(7)(6).,There are 336 officer selections.
+8,A lottery chooses 5 numbers from 49 without regard to order. Write the count of possible tickets.,49C5|C(49 5),70,Y,Use a combination.|Order of the five numbers does not matter.,The number of tickets is 49C5.
+9,A class has 6 girls and 5 boys. How many 4-person groups contain exactly 2 girls?,150,70,Y,Choose two girls and two boys.|Multiply 6C2 by 5C2.,The count is 15(10)=150.
+10,If exactly one of 20 equally likely combinations wins what is the winning probability?,1/20|0.05,70,Y,Favorable outcomes equal one.|Divide by 20 total outcomes.,The probability is 1/20.

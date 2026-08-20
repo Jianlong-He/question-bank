@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 5 kilograms equal to ___  grams.,5000,300,Y,1 kg = 1000 g,5000
+2,Fill: 3 grams equal to ___  milligrams,3000,300,Y,1 g = 1000 mg,3000
+3,Fill: 5 kilograms equal to ___  milligrams,5000000,300,N,,5000000
+4,"Compare using  < , > or = : 3450 grams ___ 5 kilograms.",<,300,Y,1 kg = 1000 g,<
+5,Fill: 3 kilograms + 4 grams = ___ grams.,3004,300,Y,1 kg = 1000 g,3004
+6,Fill: 3 Tons equal to ___ pounds.,6000,300,Y,1 ton = 2000 pounds,6000
+7,Fill: 4 pounds = ___ ounces.,64,300,Y,1 pound = 16 ounces,64
+8,Fill: 3 Tons equal to ___ ounces.,96000,300,Y,"1 ton = 2000 pounds,1 pound = 16 ounces ",96000
+9,"Compare using  < , > or = : 6780 pounds ___ 3 tons.",>,300,Y,1 ton = 2000 pounds,>
+10,Fill: 5 pounds + 5 ounces = ___ ounces.,85,300,Y,1 pound = 16 ounces,85

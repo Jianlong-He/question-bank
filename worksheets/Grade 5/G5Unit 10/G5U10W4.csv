@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Select the correct answer. Consider the number 46352.73. What place value is the 4 in the number? : hundred-thousand ten-thousand thousand,ten-thousand,240,Y,Count places to the left from the decimal,ten-thousand -> Count places to the left from the decimal: ones -> tens -> hundreds -> thousands -> ten thousands -> hundred thousands,
+2,Fill: Moving decimal point one place to the right multiplies the value by ___.,10,240,N,,10  -> each step right is x10,
+3,Select the correct answer. Consider the number 7846352.43. What place value is the 8 in the number? : hundred-thousand ten-thousand thousand,hundred-thousand,240,Y,Count places to the left from the decimal,hundred-thousand  -> Count places to the left from the decimal: ones -> tens -> hundreds -> thousands -> ten thousands -> hundred thousands,
+4,Select the correct answer. Consider the number 76352.24. What place value is the 4 in the number? : thousandths tenths hundredths,hundredths,240,Y,Count places to the right from the decimal,hundredths -> Count places to the right from the decimal: tenths -> hundredths -> thousandths,
+5,Select the correct answer. Consider the number 7846352.43. What is the value of the left 4? : 4000 0.4 0.04 40000 ,40000,240,N,,40000 -> 4 ten thousands,
+6,Select the correct answer. Consider the number 7846352.43. What is the value of the right 4? : 4000 0.4 0.04 40000 ,0.4,240,N,,0.4 -> 4 tenths,
+7,"Select True or False of the statement ""The same digit can have different values depending on its position"" : TRUE FALSE",TRUE,240,Y,,TRUE,
+8,"Select the correct answer. In the number 90821.404, compare the two digits 4. How many times larger is the 4 in the tenths place than the 4 in the thousandths place? : 10 100 1000",100,240,Y,Count decimal shifts,100,
+9,"Select True or False of the statement ""10^5 ÷ 10^3 = 10^2"" : TRUE FALSE",TRUE,240,N,Rewrite all exponents as numbers. ; 100000 ÷ 1000 = 100,TRUE -> 100000 ÷ 1000 = 100 -> 10^5 ÷ 10^3 = 10^(5-3) = 10^2,
+10,"Select the correct answer. In the number 305.003, how many times larger is the 3 in the hundreds place than the 3 in the thousandths place? : 10^5(100000) 10^4(10000) 10^6(1000000)",10^5(100000),240,Y,Count decimal shifts,10^5(100000)  -> 5 decimal places different so it is 10^5,

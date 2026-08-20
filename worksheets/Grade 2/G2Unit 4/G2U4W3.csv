@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is 23 + 12 + 11 + 33 ?,79,300,Y,Add tens and ones separately: (20 + 10 + 10 + 30) + (3 + 2 + 1 + 3 ),79
+2,What is 15 + 10 + 32 + 11 ?,68,300,Y,Add tens and ones separately,68
+3,What is 4 + 2 + 12 + 31 ?,49,300,Y,Add tens and ones separately,49
+4,What is 43 + 28 + 11 + 15?,97,300,Y,Add tens and ones separately,97
+5,What is 32 + 28 + 13 + 18 ?,91,300,Y,Add tens and ones separately,91
+6,What is 53 + 16 + 8 + 12 ?,89,300,Y,Add tens and ones separately,89
+7,"Lizzy has 11 blue marbles, 13 yellow marbles, 22 green marbles and 2 red marbles. How many total marbles does Lizzy have?",48,600,Y,Add all marbles,48
+8,Select the sum equal to 25 + 31 + 16 + 55?:137 97 127 227,127,600,Y,Add tens and ones separately.,127
+9,"Sarah read 53 pages on Monday, 71 pages on Tuesday, 51 pages on Wednesday and 49 pages on Thursday. How many pages did she read in total?",224,600,Y,Add 53 + 71 + 51 + 49,224
+10,A school buys 68 pencils for each of four classes. How many pencils do they have in total? ,272,600,Y,Add 68 four times,272

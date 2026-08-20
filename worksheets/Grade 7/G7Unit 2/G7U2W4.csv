@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A robot assembles 5/6 of a model in 1/3 of an hour. Find its production rate in models per hour, rounded to the nearest tenth. Enter only the number.",2.5|5/2,60,Y,"Compute (5/6) ÷ (1/3).","(5/6) ÷ (1/3) = (5/6) × 3 = 15/6 = 2.5 → 2.500 to the nearest thousandth."
+2,"A car uses 1/4 of a tank of gas to drive 1/2 of a standard route. How many tanks does it take to drive the entire route? (Enter as a simplified fraction)",1/2,65,Y,"Divide the gas fraction by the route fraction.","(1/4) ÷ (1/2) = (1/4) × 2 = 2/4 = 1/2."
+3,"Find 30% of 150.",45,70,Y,"Multiply 0.30 by 150.","0.30 × 150 = 45."
+4,"Write 9/20 as a percentage.",45,70,Y,"Multiply by 5/5 to get a fraction out of 100.","9/20 = 45/100 = 45%."
+5,"What percent of 200 is 56? (Enter only the number)",28,60,Y,"Divide 56 by 200.","56 ÷ 200 = 0.28 = 28%."
+6,"A hiker climbs 3/4 of a mile in 2/3 of an hour. What is the hiker's speed in miles per hour?",9/8|1.125,75,Y,"Divide distance by time.","(3/4) ÷ (2/3) = (3/4) × (3/2) = 9/8."
+7,"A plant grows 12% of its total height every 4 days. What fraction of its total height does it grow in 12 days? Enter only the number with no units.",0.36|9/25,80,Y,"Three intervals of 12% each.","0.12×3 = 0.36."
+8,"A tank contains 54 liters after being filled to 45% of its capacity. Find the total capacity. Enter only the number with no units.",120,85,Y,"54 is 45% of total.","Total = 54/0.45 = 120."
+9,"A store marks up a wholesale item by 40%. The wholesale cost is $25. Fill in the blanks: The markup amount is $___, making the final price $___.","10, 35",85,Y,"Find 40% of 25, then add it to the original cost.","Markup: 0.40 × 25 = 10. Final Price: 25 + 10 = 35."
+10,"A worker completes 21 tasks which represent 70% of her weekly goal. How many tasks is the full weekly goal? Enter only the number with no units.",30,90,Y,"21 = 0.70×goal.","Goal = 21/0.70 = 30."

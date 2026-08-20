@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Write an expression for: ""6 more than x""",x+6|x + 6|6+x|6 + x,100,Y,"""more than"" means add","x + 6     -> Start with x, add 6 -> x + 6",
+2,"Write an expression for: ""The sum of y and 10""",y+10|y + 10|10+y|10 + y,100,Y,"""sum"" means addition",y + 10     -> Sum-> add -> y + 10,
+3,"Write an expression for: ""k minus 6""",k-6|k - 6,100,Y,"""minus"" meeans subtraction",k - 6     -> Direct translation -> k - 6,
+4,"Write an expression for: ""9 times m""",9m|9 x m|9 * m,100,Y,Multiplication,9m,
+5,"Write an expression for: ""32 divided by p""",32/p,100,Y,Division,32/p,
+6,"Write an expression for: ""y decreases by 13""",y-13|y - 13,100,Y,Order matters in subtraction,y - 13,
+7,"Write an expression for: ""y less than 8""",8 - y|8-y,100,Y,Order matters in subtraction,8 - y,
+8,Which phrase matches 10 - x?  (A) x less than 10 (B) 10 less than x . Put the answer as A or B,A,100,Y,Order matters in subtraction,"""x less than 10"" is 10 - x",
+9,"A student has m candies and gets 5 more, then gives away 2. Write an expression for how many candies the student have",m + 5 - 2|m+5-2|m+3|m + 3,100,Y,Step-by-step write the expression,m + 5 - 2    -> Start with m then +5 then −2 -> m + 5 - 2,
+10,"Write an expression for: ""7 times the sum of m plus 3""",7(m+3)|7 x (m + 3)|7 * (m + 3)|7x(m+3)|7*(m+3)|7 (m + 3),100,Y,getting the sum first,7(m + 3)     -> the sum of m plus 3 is (m+3) then multiply with 7 -> 7*(m+3),

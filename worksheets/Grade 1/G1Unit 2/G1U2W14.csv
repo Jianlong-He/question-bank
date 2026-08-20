@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 68 + 5 = 68 + 2 + __ = 70 + __ = __,"3, 3, 73",120,Y,How many do you add to 68 to reach 70? The rest of 5 goes after,"3, 3, 73"
+2,Select. 36 + 4 = ? : 39 40 41,40,120,Y,36 is how many more to 40?,40
+3,How many you need to add to get from 29 to the next ten?,1,150,Y,"Tens: 10, 20, 30, 40, 50, 60, 70, 80, 90. ; 29 add 1 is the next ten which is 30",1
+4,How many you need to add to get from 35 to the next ten?,5,150,Y,"Tens: 10, 20, 30, 40, 50, 60, 70, 80, 90.; 35 add 5 is the next ten which is 40",5
+5,Fill: 45 + 8 = 45 + 5 + __ = 50 + __ = __,"3, 3, 53",150,Y,How many do you add to 68 to reach 70? The rest of 5 goes after,"3, 3, 53"
+6,"You know 27 + 3 = 30, so what is 27 + 7?",34,170,Y,"27 add 3 is 30, 7 = 3 + 4, the rest of 7 goes after, so 30 + 4 = ?",34
+7,"You know 34 + 6 = 40, so what is 34 + 8?",42,170,Y,"34 add 6 is 30, 8 = 6 + 2, the rest of 8 goes after, so 40 + 2= ?",42
+8,"Fill: 73 + __ = 80, break 9 to 7 + 2 so 73 + 9 = 80 + __ = __","7, 2, 82",180,Y,How many do you add to 73 to reach 80? The rest of 9 goes after,"7, 2, 82"
+9,You love cookies. Emma gives you a box of 12 cookies and Lily give you a box of 9 cookies. How many cookies you have now?,21,190,Y,12 + 8 + 1 = 20 + 1 = ?,21
+10,Fill: 48 + 12 = 48 + __ + 10 = 50 + 10 = __,"2, 60",220,Y,"Break 12 to 10 + 2. 48 + 2 = 50, what is 50 + 10","2, 60"

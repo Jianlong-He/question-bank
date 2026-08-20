@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,What is 3 ÷ 0.06?,50,240,Y,Convert both to whole numbers and use long division,50  -> 3÷ 0.06 = 300 ÷ 6= 50,
+2,What is1.46 ÷ 2? Give your answer as a decimal.,0.73,240,Y,Convert both to whole numbers and use long division,0.73 -> 1.46 ÷ 2 = (146 ÷ 2) ÷ 100 = 73 ÷ 100 = 0.73,
+3,What is 0.8676 ÷ 0.01?,86.76,240,Y,DIviding 0.01 equals to x100,86.76   -> 0.8676 ÷ 0.01 = 0.8676 x 100 = 86.76,
+4,A rope is 5 meters long. Each piece is 0.25 meters. How many pieces are there?,20,240,Y,Number of pieces = Total length ÷ length per piece,20   -> Number of pieces = Total length ÷ length per piece = 5 ÷ 0.25 = 500 ÷ 25 = 20,
+5,What is 2.34 ÷ 3? Give your answer as a decimal.,0.78,240,Y,Convert both to whole numbers and use long division,0.78   -> 2.34 ÷ 3 = (234 ÷ 3) ÷ 100 = 78 ÷ 100 = 0.78,
+6,What is 0.84 ÷ 7? Give your answer as a decimal.,0.12,240,Y,Convert both to whole numbers and use long division,0.12  -> 0.84 ÷ 7 = (84 ÷ 7) ÷ 100 = 12 ÷ 100 = 0.12,
+7,What is 4 ÷ 0.16?,25,240,Y,Convert both to whole numbers and use long division.,25   -> 4 ÷ 0.16 = 400 ÷ 16 = 25,
+8,What is 9 ÷ 0.75? ,12,240,Y,Convert both to whole numbers and use long division.,12   -> 9 ÷ 0.75 = 900 ÷ 75 = 12,
+9,A baker uses 0.96 kg four to make 3 breads. How much flour is used for each bread?,0.32|0.32 kg|0.32kg,240,Y,Flour per bread = Total flour used ÷ number of bread,0.32|0.32 kg| 0.32kg  -> flour per bread = Total flour used ÷ number of bread = 0.96 ÷ 3 = (96 ÷ 3) ÷ 100 = 32 ÷ 100 = 0.32,
+10,A car travels 161 km in 80.5 km per hour. How many hours does the trip take?,2|2 hours|2hours,240,Y,Time = distance ÷ speed,2|2 hours|2hours  -> Time = distance ÷ speed = 161 ÷ 80.5 = 2,

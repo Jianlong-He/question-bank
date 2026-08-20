@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find the modulus of 3+4i.,5,70,Y,Use sqrt(a^2+b^2).|Compute sqrt(9+16).,The modulus is 5.
+2,Points representing complex numbers with modulus 6 lie on what shape?,a circle|circle,70,Y,Modulus is distance from the origin.|All points at a fixed distance form a circle.,They lie on a circle of radius 6 centered at the origin.
+3,Write 1+i in polar form by entering r then theta in radians.,"sqrt(2),pi/4|√2,π/4",70,Y,Find r from the Pythagorean theorem.|The point lies on the line y=x in Quadrant I.,The modulus is sqrt2 and the argument is pi/4.
+4,Write -1+i in polar form by entering r then theta between 0 and 2pi.,"sqrt(2),3pi/4|√2,3π/4",70,Y,The modulus is sqrt2.|The point lies in Quadrant II with reference angle pi/4.,The polar values are r=sqrt2 and theta=3pi/4.
+5,Convert 2(cos(0)+i sin(0)) to rectangular form.,2,70,Y,cos0=1 and sin0=0.|Substitute the trig values.,The result is 2(1+0i)=2.
+6,Convert 2(cos(pi/2)+i sin(pi/2)) to rectangular form.,2i,70,Y,cos(pi/2)=0 and sin(pi/2)=1.|Substitute the trig values.,The result is 2i.
+7,Complete the rectangular form of r(cos(theta)+i sin(theta)): real part rcos(theta) and imaginary term ___.,i r sin(theta)|ir sin(theta)|i*r*sin(theta),70,Y,The imaginary coordinate is r sin(theta).|Attach the imaginary unit i.,The imaginary term is i r sin(theta).
+8,Write the modulus formula for z=a+bi using exponent 1/2.,(a^2+b^2)^(1/2),70,Y,Use the distance from (a b) to the origin.|Apply the Pythagorean theorem.,|z|=sqrt(a^2+b^2)=(a^2+b^2)^(1/2).
+9,The complex number -3-3i lies in which quadrant?,Quadrant III|III|3,70,Y,Both coordinates are negative.|Locate (-3 -3) on the plane.,The point lies in Quadrant III.
+10,Convert 4(cos(pi)+i sin(pi)) to rectangular form.,-4,70,Y,cospi=-1 and sinpi=0.|Substitute and multiply by 4.,The result is -4.

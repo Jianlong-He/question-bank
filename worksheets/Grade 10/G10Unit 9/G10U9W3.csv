@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,In a right triangle what ratio defines sine of an acute angle?,opposite/hypotenuse|opposite over hypotenuse,70,Y,Use SOH.|Identify the side across from the angle.,Sine equals opposite divided by hypotenuse.
+2,In a right triangle what ratio defines cosine of an acute angle?,adjacent/hypotenuse|adjacent over hypotenuse,70,Y,Use CAH.|Use the non-hypotenuse side beside the angle.,Cosine equals adjacent divided by hypotenuse.
+3,In a right triangle what ratio defines tangent of an acute angle?,opposite/adjacent|opposite over adjacent,70,Y,Use TOA.|Compare the two legs.,Tangent equals opposite divided by adjacent.
+4,For an angle with opposite side 3 adjacent side 4 and hypotenuse 5 find sin(theta).,3/5|0.6,70,Y,Sine is opposite over hypotenuse.|Use 3 and 5.,sin(theta)=3/5.
+5,For the same 3-4-5 triangle find cos(theta).,4/5|0.8,70,Y,Cosine is adjacent over hypotenuse.|Use 4 and 5.,cos(theta)=4/5.
+6,For the same 3-4-5 triangle find tan(theta).,3/4|0.75,70,Y,Tangent is opposite over adjacent.|Use 3 and 4.,tan(theta)=3/4.
+7,An angle has tangent 3/4. Approximate the angle to the nearest tenth of a degree.,36.9|36.9 degrees,70,Y,Use inverse tangent.|Compute arctan(3/4).,The angle is approximately 36.9 degrees.
+8,A 10 m ramp rises at 30 degrees. Find its vertical rise.,5,70,Y,Use sine with the hypotenuse 10.|sin(30)=1/2.,The rise is 10sin(30)=5 m.
+9,A sight line makes a 45-degree angle above level ground. If the horizontal distance is 20 m find the rise.,20,70,Y,Use tangent.|tan(45)=1.,The rise is 20tan(45)=20 m.
+10,Why do right triangles with the same acute angle have equal trig ratios?,they are similar|similar triangles|AA similarity,70,Y,Both triangles also have a right angle.|Use AA similarity.,They are similar by AA so corresponding side ratios are equal.

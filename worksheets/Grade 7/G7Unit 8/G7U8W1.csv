@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A shape has a side length of 6 and the scale factor is 1.5. What is the length of the corresponding side in the scaled copy?",9,75,Y,"Multiply the original length by the scale factor.","6×1.5=9"
+2,"A triangle is scaled by a factor of 0.8. If side AB in the original is 10 units long, what is the length of A'B'?",8,75,Y,"Multiply the original side by 0.8.","10×0.8=8"
+3,"A scaled copy has a side length of 14. The corresponding side in the original is 7. What is the scale factor?",2,80,Y,"Scale factor = new/original.","14/7=2"
+4,"A pentagon has sides 5, 6, and 10. A copy has sides 7.5, 9, and 15. Fill in the blanks: The scale factor for all sides is ___, so is this a scaled copy? (Enter Yes or No)","1.5, Yes|yes|Y|y",75,Y,"Check if all corresponding sides multiply by the same factor.","5×1.5=7.5, 6×1.5=9, 10×1.5=15. All match, so Yes."
+5,"A drawing shows a segment of length 4 cm representing a real-world object 28 cm long. What is the scale factor from drawing to actual size?",7,80,Y,"Scale factor = actual/drawing.","28/4=7"
+6,"A scale drawing uses a scale factor of 0.25. If a wall is 16 m in real life, how long is it in the drawing?",4,80,Y,"Multiply the real length by 0.25.","16×0.25=4"
+7,"On a map, 1.2 cm represents 9 km. How many kilometers does 3 cm represent? Enter only number, no digit.",22.5|45/2|22 1/2,85,Y,"Find km per cm, then multiply by 3.","9/1.2=7.5 km per cm → 7.5×3=22.5"
+8,"A scale drawing uses the ratio 1:50. If an object is 180 units in real life, what is its length in the drawing?",3.6|18/5|3 3/5,85,Y,"Divide real length by scale ratio.","180/50=3.6"
+9,"A model uses the conversion 1 cm = 0.02 km. How many kilometers does 18 cm represent?",0.36|36/100|9/25,75,Y,"Multiply centimeters by 0.02.","18×0.02=0.36."
+10,"A cyclist rides 4.5 km. Using a map scale of 1 cm = 0.15 km, how many centimeters should represent the trip?",30,75,Y,"Divide kilometers by km-per-centimeter.","4.5/0.15=30"

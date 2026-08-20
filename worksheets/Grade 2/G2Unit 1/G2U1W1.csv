@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 5 + 6 = __,11,300,Y,"Try making 10 first, 5 + 5 = 10, then add the rest.",11
+2,Fill: 9 + 8 = __,17,300,Y,"Try making 10 first.9+1 = 10, then add the rest.",17
+3,Fill: 7 + 5 = __,12,300,Y,"Try making 10 first.7+3 = 10, then add the rest.",12
+4,Fill: 6 + 9 = __,15,300,Y,"Try making 10 first.6+4 = 10, then add the rest.",15
+5,Fill: 4 + 8 = __,12,300,Y,"Try making 10 first.4+6 = 10, then add the rest.",12
+6,Fill: 8 + 8 =__,16,300,Y,"Try making 10 first.8+2 = 10, then add the rest.",16
+7,Fill: 5 + 4 + 7 = ___,16,900,Y,Try adding two numbers first,16
+8,Select which number has the same answer as 8+7: 10+4 10+5 10+6 10+7,10+5,900,Y,"First solve 8+7, then check for the matching answer.",10+5
+9,Fill: Susan baked 8 butter cookies and 7 chocolate chip cookies.Susan baked __ cookies in total.,15,600,Y,Add 8+7,15
+10,"There are 5 pigeons near the water fountain at the park, then 6 more pigeons fly down to join them.How many pigeons are near the water fountain now?",11,600,Y,Add 5+6,11

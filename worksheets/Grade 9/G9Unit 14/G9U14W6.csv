@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A $50 ticket fine doubles after each unpaid period. Write the fine after n periods.,F=50*2^n|50*2^n|F=50(2)^n,70,Y,The initial fine is 50 and the factor is 2.|Use an exponential model.,The model is F = 50 × 2^n.
+2,"Using F = 50 × 2^n, find the fine after 3 unpaid periods.",400|$400,70,Y,Substitute n = 3.|Compute 50 × 8.,F = 50(2^3) = $400.
+3,"The values 10, 20, 30, 40 form a linear or exponential pattern?",linear,70,Y,Check consecutive differences.|Each value increases by 10.,The pattern is linear because it has constant difference 10.
+4,"The values 10, 20, 40, 80 form a linear or exponential pattern?",exponential,70,Y,Check consecutive ratios.|Each value is multiplied by 2.,The pattern is exponential with common ratio 2.
+5,A population starts at 200 and triples every cycle. Find the population after 4 cycles.,16200,70,Y,Use 200 × 3^4.|3^4 = 81.,"The population is 200(81) = 16,200."
+6,An investment of $1000 grows by 6% per year. Write its value after t years.,A=1000*1.06^t|1000*1.06^t|A=1000(1.06)^t,70,Y,Convert 6% growth to factor 1.06.|Use initial value times factor^t.,The model is A = 1000(1.06)^t.
+7,"A subscriber count is 500, 650, 845 for three consecutive months. What is the common ratio?",1.3|13/10,70,Y,Divide 650 by 500.|Check 845/650.,"Both ratios equal 1.3, so the common ratio is 1.3."
+8,A table begins at 12 when x = 0 and has constant ratio 1.5. Write its exponential rule.,y=12*1.5^x|12*1.5^x|y=12(1.5)^x,70,Y,Use y = ab^x.|Here a = 12 and b = 1.5.,The rule is y = 12(1.5)^x.
+9,A quantity rises from 80 to 100 in one period. What is the percent increase?,25%|25 percent|0.25,70,Y,"Find the increase, then divide by the original value.|The increase is 20 and 20/80 = 0.25.",The percent increase is (100 - 80)/80 = 0.25 = 25%.
+10,"For large positive x, which model eventually becomes larger: y = 100x or y = 2^x?",y=2^x|2^x|the exponential model|exponential,70,Y,One model adds at a constant rate; the other repeatedly doubles.|Exponential growth eventually outpaces linear growth.,"For sufficiently large x, the exponential model y = 2^x becomes larger."

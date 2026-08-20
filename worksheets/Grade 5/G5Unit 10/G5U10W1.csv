@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,What is 58 x 100?,5800,240,Y,x100 = shift decimal 2 places right,5800,
+2,"What is 42000 ÷ 1,000?",42,240,Y,"÷1,000 = shift decimal 3 places left",42,
+3,What is 0.308 x 10?,3.08,240,Y,x10 = shift decimal 1 place right,3.08,
+4,What is 0.5 ÷ 100?,0.005,240,Y,÷100 = shift decimal 2 places left,0.005,
+5,"What is 0.09 x 1,000?",90,240,Y,"x1,000 = shift decimal 3 places right",90,
+6,"What is 76 ÷ 1,000?",0.076,240,Y,"÷1,000 = shift decimal 3 places left",0.076,
+7,What is 0.00008 x 100,0.008,240,Y,x100 = shift decimal 2 places right,0.008,
+8,Select which operation turns 3.2 into 0.032? : Divide-by-10 Multiply-by-100 Divide-by-100,Divide-by-100,240,Y,"From 3.2 to 0.032, decimal points 2 places left",Divide-by-100,
+9,Select which is greater:  5.7x100 570÷10,5.7x100,240,N,,5.7x100,
+10,"A number is multiplied by 1,000 and becomes 83. What was the original number?",0.083,240,Y,Reverse the operation,"0.083 -> Reverse the operation, 83 ÷ 1,000 = 0.083",

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Name the four nondegenerate conic sections.,circle ellipse parabola hyperbola|circle ellipse parabola and hyperbola,70,Y,They arise from different plane cuts through a cone.|Include the closed and open conics.,The four are circle ellipse parabola and hyperbola.
+2,What is the standard equation of a horizontal ellipse centered at the origin with semi-axes a>b?,x^2/a^2+y^2/b^2=1,70,Y,The larger denominator lies under the horizontal variable.|Both squared terms are added.,The equation is x^2/a^2+y^2/b^2=1.
+3,Find the center of (x-2)^2/25+(y+1)^2/9=1. Enter x then y.,"2,-1",70,Y,Use (x-h)^2 and (y-k)^2.|The sign inside each square is opposite the coordinate sign.,The center is (2 -1).
+4,Find the horizontal vertices of x^2/25+y^2/9=1 by entering their x-values.,"-5,5",70,Y,The larger denominator is a^2=25.|Move a=5 units left and right from the center.,The vertex x-values are -5 and 5.
+5,Find the co-vertex y-values of x^2/25+y^2/9=1.,"-3,3",70,Y,The minor semi-axis is b=3.|Move 3 units vertically from the center.,The co-vertex y-values are -3 and 3.
+6,For an ellipse what equation relates focal distance c and semi-axes a and b?,c^2=a^2-b^2,70,Y,Ellipse foci lie inside the vertices.|Subtract the smaller squared semi-axis from the larger.,The relation is c^2=a^2-b^2.
+7,For x^2/25+y^2/9=1 what is the positive x-coordinate of a focus?,4,70,Y,Use c^2=25-9.|Take the positive square root.,c=4 so the positive focus has x-coordinate 4.
+8,For x^2/25+y^2/9=1 find the eccentricity.,4/5|0.8,70,Y,Eccentricity of an ellipse is c/a.|Use c=4 and a=5.,The eccentricity is 4/5.
+9,For an ellipse what is constant about the distances from a point on the curve to the two foci?,their sum|the sum is constant|sum of the distances,70,Y,An ellipse has a two-focus distance definition.|Add the two focal distances.,Their sum is constant and equals 2a.
+10,Write the standard equation of an ellipse centered at (h k) with horizontal semi-major axis a and vertical semi-minor axis b.,(x-h)^2/a^2+(y-k)^2/b^2=1,70,Y,Translate the origin-centered form.|Use x-h and y-k inside the squares.,The equation is (x-h)^2/a^2+(y-k)^2/b^2=1.

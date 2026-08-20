@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find sin(pi/6).,1/2,70,Y,Use the 30-degree special angle.|Sine is opposite over hypotenuse.,sin(pi/6)=1/2.
+2,Find cos(pi/3).,1/2,70,Y,Use the 60-degree special angle.|Cosine is adjacent over hypotenuse.,cos(pi/3)=1/2.
+3,Find tan(pi/3).,sqrt(3)|√3,70,Y,Use sin(pi/3)/cos(pi/3).|Divide sqrt3/2 by 1/2.,tan(pi/3)=sqrt3.
+4,Complete the symmetry identity sin(-theta)=___.,-sin(theta),70,Y,Sine is an odd function.|Reflection across the origin changes the sign.,sin(-theta)=-sin(theta).
+5,Complete the symmetry identity cos(-theta)=___.,cos(theta),70,Y,Cosine is an even function.|Reflection across the y-axis preserves the value.,cos(-theta)=cos(theta).
+6,Complete sin(pi+theta)=___.,-sin(theta),70,Y,A rotation by pi reaches the opposite point.|Both unit-circle coordinates change sign.,sin(pi+theta)=-sin(theta).
+7,What is the fundamental period of tan(x)?,pi|π,70,Y,Tangent repeats after a half-turn.|Use tan(x+pi)=tan(x).,The fundamental period is pi.
+8,What is the fundamental period of cos(x)?,2pi|2π,70,Y,Cosine repeats after a full turn.|A full rotation is 2pi radians.,The fundamental period is 2pi.
+9,Find sin(5pi/6).,1/2,70,Y,The reference angle is pi/6.|Sine is positive in Quadrant II.,sin(5pi/6)=1/2.
+10,Complete the periodicity identity tan(theta+pi)=___.,tan(theta),70,Y,Tangent has period pi.|A half-turn preserves the slope y/x.,tan(theta+pi)=tan(theta).

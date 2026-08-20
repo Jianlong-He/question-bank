@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the distance between -14 and 27 using absolute value. Fill in the blanks: The difference is |-14 - 27| = |___|, so the distance is ___.", "-41, 41",60,Y,"Distance = |difference|.","|-14 - 27| = |-41| = 41."
+2,"A diver is at -92 meters and a rock formation is located at -35 meters. How far apart are they? Enter only the number with no units.",57,65,Y,"Distance = |-92 - (-35)|.","|-57| = 57."
+3,"Compute (−13/18) + (4/9).",-5/18,70,Y,"Convert 4/9 to 8/18.","-13/18 + 8/18 = -5/18."
+4,"Compute (−11/20) − (−3/4).",1/5|0.2,70,Y,"Subtracting a negative adds.","-11/20 + 15/20 = 4/20 = 1/5."
+5,"Compute −7.53 + 4.008 − (−3.21). Round to the nearest hundredth.",-0.31,75,Y,"Add the opposite, then combine decimals.","-7.53 + 4.008 + 3.21 = -0.312 → -0.31."
+6,"Compute: (−0.5) + (−2/3) + 0.4. Round your final answer to the nearest hundredth.",-0.77,60,Y,"Convert all numbers to decimals.","−0.5 + (−0.666...) + 0.4 = −0.766... ≈ −0.77."
+7,"A statement says “The reading dropped 46 units.” Represent this as an integer.",-46,80,Y,"A drop is negative.","-46."
+8,"A skier starts at -420 meters, descends 160 meters, then climbs 250 meters. What is his final elevation? Enter only the number with no units.",-330,85,Y,"Apply vertical changes in order.","-420 -160 +250 = -330."
+9,"After dropping by 8.5°, the temperature is now -3.2°. What was the starting temperature? Enter only the number with no units.",5.3,60,Y,"Final = initial + change.","Final = initial - drop. So, −3.2=initial −8.5. Add 8.5 to both sides to get 5.3."
+10,"Using equivalent expressions and integer properties, evaluate (−28) + (−7) − (−13).",-22,90,Y,"Convert subtraction of a negative.","-28 -7 +13 = -22."

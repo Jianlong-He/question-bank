@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
+1,What is 24 + 13 ?,37,300,Y,Break 24 into 20 + 4;Break 13 into 10 + 3,37,
+2,What is 16 + 52 ?,68,300,Y,Break 16 into 10 + 6;Break 52 into 50 + 2,68,
+3,Select the addition problem that is the same as 25 + 62 :2+5+6+2 20+60+5+2 20+50+6+2,20+60+5+2,600,Y,25= 20+5 and 62 = 60 +2,20+60+5+2,
+4,Select the addition problem that is the same as 49 + 11 :40+10+10+9 40+90+1+1 40+10+9+1,40+10+9+1,600,Y,49= 40 +9 and 11 = 10 +1,40+10+9+1,
+5,What is 28 + 15? ,43,300,Y,20+10+8+5,43,https://i.ibb.co/QFzQjT1p/I3.jpg
+6,What is 45 + 27? ,72,300,Y,40+20+5+7,72,https://i.ibb.co/XZFwNjfg/I4.jpg
+7,What is 46+37 ?,83,600,Y,46 = 40 + 6 and 37 = 30 + 7,83,https://i.ibb.co/WWZ88tSb/I7.jpg
+8,"A toy store receives two delivery boxes of toy cars. The first box has 27 cars, the second box has 32 cars. What is the total number of cars in all boxes?",59,600,Y,Add 27 + 32,59,
+9,Select all equations that equal 63:20+40+1+2 50+10+3+0 30+30+2+1,"20+40+1+2,50+10+3+0,30+30+2+1",600,Y,Add each choice to see if the answer is 63,"20+40+1+2,50+10+3+0,30+30+2+1",
+10,A farmer picked 35 apples yesterday and 48 apples today. How many total apples did he pick?,83,600,Y,Add 35 + 48,83,

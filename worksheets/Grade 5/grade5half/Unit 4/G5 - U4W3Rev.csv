@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the least common multiple of 4 and 10?,20,120,Y,List multiples of both numbers. The first multiple they share is the least common multiple.,20
+2,What is the least common multiple of 5 and 9?,45,120,Y,"List multiples of 5 (5, 10, 15...) and 9 (9, 18...) and find the smallest common match.",45
+3,Convert 17/5 into a mixed number (i.e. a whole number and a fraction),3 2/5,120,Y,"How many full 5s fit into 17? Divide 17 / 5, and the remainder becomes the numerator.",3 2/5
+4,Convert 29/6 into a mixed number (i.e. a whole number and a fraction),4 5/6,120,Y,"Divide 29 by 6 to find the whole number part, and place the remainder over 6.",4 5/6
+5,Convert 43/8 into a mixed number (i.e. a whole number and a fraction),5 3/8,120,Y,8 goes into 43 five full times. Figure out the remaining leftover pieces.,5 3/8

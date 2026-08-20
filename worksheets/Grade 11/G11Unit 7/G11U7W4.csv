@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,To solve f(x)=g(x) by graphing what feature should be located?,intersection points|intersections|where the graphs intersect,70,Y,At a solution both functions have the same output.|Shared points satisfy both equations.,Locate the intersections of the two graphs.
+2,If y=2x+1 and y=7 intersect what is the x-coordinate of the solution?,3,70,Y,Set the y-values equal.|Solve 2x+1=7.,x=3.
+3,How many real solutions are shown when two graphs intersect at three points?,3|three,70,Y,Each intersection gives one solution.|Count the shared points.,There are three real solutions.
+4,If the graph of h(x)=f(x)-g(x) crosses the x-axis at x=4 what equation is solved there?,f(x)=g(x)|f(4)=g(4),70,Y,An x-intercept means h(x)=0.|Then f(x)-g(x)=0.,At x=4 the functions are equal.
+5,A graphing calculator shows an intersection near x=2.347. Rounded to the nearest tenth what is x?,2.3,70,Y,Look at the hundredths digit.|The hundredths digit is 4.,Rounded to the nearest tenth x=2.3.
+6,Why should the viewing window be chosen carefully when solving by graphing?,an intersection can be hidden outside the window|the window may hide solutions|to see all relevant intersections,70,Y,The display only shows a selected range.|Solutions outside that range are invisible.,A poor window can hide intersection points and solutions.
+7,A word problem compares cost C(x) and revenue R(x). What does an intersection represent?,break-even point|equal cost and revenue|break even,70,Y,At an intersection the outputs are equal.|Profit is zero when revenue equals cost.,The intersection represents a break-even point.
+8,If two equations graph as the same curve how many solutions does the system have?,infinitely many|infinite solutions,70,Y,Every point on one curve is on the other.|The equations are equivalent.,The system has infinitely many solutions.
+9,If two horizontal lines are distinct how many solutions does their system have?,0|zero|no solutions,70,Y,Distinct parallel lines never meet.|No intersection means no solution.,The system has zero solutions.
+10,Solve x^2=9 by graphing y=x^2 and y=9. Enter the x-values in increasing order.,"-3,3",70,Y,Find where the parabola reaches height 9.|The intersections are symmetric.,The solutions are x=-3 and x=3.

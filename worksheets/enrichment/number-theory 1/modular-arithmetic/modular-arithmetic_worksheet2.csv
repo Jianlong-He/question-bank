@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Find 4 × 3 (mod 7),5,50,Y,"Multiply first, then divide by the modulus and find the remainder",12 ÷ 7 = 1 r 5,
+2,Find 10 × 2 (mod 6),2,50,Y,"Multiply first, then divide by the modulus and find the remainder",20 ÷ 6 = 3 r 2,
+3,Find 6 × 4 (mod 7),3,50,Y,"Multiply first, then divide by the modulus and find the remainder",24 ÷ 7 = 3 r 3,
+4,Find 5 × 5 (mod 12),1,50,N,,25 ÷ 12 = 2 r 1,
+5,Find 9 × 3 (mod 10),7,50,N,,27 ÷ 10 = 2 r 7,
+6,Find 11 × 2 (mod 4),2,50,N,,22 ÷ 4 = 5 r 2,
+7,Find 8 × 6 (mod 5),3,50,N,,48 ÷ 5 = 9 r 3,
+8,Find 13 × 3 (mod 11),6,50,N,,33 ÷ 11 = 3 r 6,
+9,"Find the smallest positive n such that 7×8 ~ 1 (mod n), where 1 in {0,…,n-1}.",5,50,Y,7×8 = 56. You need a number n such that remainder is 1. Think: what number divides 55?,"7×8 = 56 mod n =1 so n divides 55 so n=5,11",
+10,"Find the smallest positive n such that 9×10 ~ 9 (mod n), where 9 in {0,…,n-1}.",27,50,Y,9×10 = 90. You need remainder 9. Think: what number divides 81?,"9×10 = 90 mod n =9 so n divides 81 so n=3,9,27 etc but n must be larger than 9",

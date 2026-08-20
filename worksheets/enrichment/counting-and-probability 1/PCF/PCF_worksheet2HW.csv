@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Compute 20 × 9 × 5 using a convenient multiplication rule.,900,45,Y,Multiply 20 and 5 first;Then multiply by 9,20 × 9 × 5 = (20 × 5) × 9 = 100 × 9 = 900.
+2,Compute 125 × 8 × 4 using a convenient multiplication rule.,4000,45,Y,Multiply 125 and 8 first;Then multiply by 4,125 × 8 × 4 = 1000 × 4 = 4000.
+3,Compute 14 × 5 × 2.,140,45,Y,Group 5 and 2;Then multiply by 14,14 × 5 × 2 = 14 × 10 = 140.
+4,Compute 16 × 25 × 4 using a convenient order.,1600,45,Y,Multiply 25 and 4 first;Then multiply by 16,16 × 25 × 4 = 16 × 100 = 1600.
+5,Use the distribution rule to calculate 27 × 13.,351,60,Y,Break 13 into 10 + 3;Add 27 × 10 and 27 × 3,27 × 13 = 27 × 10 + 27 × 3 = 270 + 81 = 351.

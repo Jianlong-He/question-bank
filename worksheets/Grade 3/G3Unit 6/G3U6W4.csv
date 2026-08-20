@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Is 3/6 equal to 1/2? Answer yes or no,yes|Yes|YES,30,Y,Split 1/2 into sixths.,"yes  -> If you split each half into 3 equal pieces, you get 6 pieces total. Half of 6 is 3.",
+2,Is 4/7 equal to 1/2? Answer yes or no,no|NO|No,30,Y,Is 4 pieces out of 7 more or less than half?,no   -> Half of 7 would be 3.5 pieces. 4 pieces is more than half. So 4/7 is greater than 1/2.,
+3,"Select, which of the following is equal to 1/2? : 4/8 1/3 2/7",4/8,30,Y,Half of 8 is what?,4/8   -> Half of 8 is 4. So 4/8 = 1/2,
+4,"Select True or False of the statement ""6/9 represents the same amount as 2/3"" : True False",True,30,Y,Divide each third into 3 smaller pieces.,True   ->  Splitting thirds into ninths tripple both numbers. So 6/9 = 2/3.,
+5,What fraction is shaded if 2 out of 5 pieces are blue?,2/5,30,N,,2/5  -> 2 shaded out of 5 pieces = 2/5.,
+6,What fraction is shaded if 3 out of 11 pieces are red?,3/11,30,N,,3/11  -> 3 shaded out of 11 pieces = 3/11.,
+7,Are 1/5 and 2/10 equal? Answer yes or no,yes|Yes|YES,30,Y,5 x 2 = 10,"yes   -> Multiply both numbers by 2: 5 x 2 = 10, 1 x 2 = 2",
+8,Fill in the missing number: 1/3 = ?/12,4,30,Y,3 x 4 = 12,"4  -> Multiply both numbers by 4: 3 x 4 = 12, 1 x 4 = 4",
+9,Fill in the missing number: 2/3 = 6/?,9,30,Y,2 x 3 = 6,"9  -> Multiply both numbers by 3: 2 x 3 = 6, 3 x 3 = 9",
+10,"Select, On a number line divided into 10 equal parts, where is 7/10? : 3-jumps-from-0 10-jumps-from-0 7-jumps-from-0",7-jumps-from-0,30,Y,Count the equal spaces.,7-jumps-from-0   -> Start at 0 and move 7 equal spaces. That is 7/10.,

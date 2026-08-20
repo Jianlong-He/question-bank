@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
+1,The teacher made a bar graph of favorite playground activities. How many children chose sliding?,9,300,N,,9,https://i.ibb.co/MxpCxkfz/i1.jpg
+2,The teacher made a bar graph of favorite playground activities. How many children chose Playing tag?,11,300,N,,11,https://i.ibb.co/MxpCxkfz/i1.jpg
+3,Fill: How many MORE children chose playing tag than monkey bars? __,7,300,Y,Subtract 11 - 4,7,https://i.ibb.co/MxpCxkfz/i1.jpg
+4,Select. Which activity is the MOST popular?: Swinging Sliding Monkey-Bars Playing-Tag,Playing-Tag,300,Y,Look for the longest bar,Playing-Tag,https://i.ibb.co/MxpCxkfz/i1.jpg
+5,How many MORE children chose sliding than swinging?,3,300,Y,9 − 6 = 3,3,https://i.ibb.co/MxpCxkfz/i1.jpg
+6,How many children in total like playing tag and swinging?,17,300,Y,Add 11 + 6,17,https://i.ibb.co/MxpCxkfz/i1.jpg
+7, How many books were read on Friday?,10,300,N,,10,https://i.ibb.co/x8rpfXqn/i2.jpg
+8,Fill: Books read on Tuesday and Thursday total = ____,12,300,Y,Add Tuesday (8) and Thursday (4),12,https://i.ibb.co/x8rpfXqn/i2.jpg
+9,Select all days with MORE than 4 books read: Monday Tuesday Wednesday Thursday Friday,"Monday,Tuesday,Friday",300,Y,Check each day: is it more than 4?,"Monday,Tuesday,Friday",https://i.ibb.co/x8rpfXqn/i2.jpg
+10,"How many books were read on Monday, Wednesday, and Friday altogether?",18,300,Y,Add all three 5 + 3 + 10,18,https://i.ibb.co/x8rpfXqn/i2.jpg

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,For independent events complete the multiplication rule P(A and B)=____.,P(A)P(B)|P(A)*P(B),70,Y,Independence leaves the second probability unchanged.|Multiply the individual probabilities.,For independent events P(A and B)=P(A)P(B).
+2,A fair coin is flipped twice. Find the probability of two heads.,1/4|0.25,70,Y,The flips are independent.|Multiply 1/2 by 1/2.,The probability is 1/4.
+3,A student guesses on two independent true-false questions. Find the probability both are correct.,1/4|0.25,70,Y,Each guess has probability 1/2.|Multiply the two probabilities.,The probability is 1/4.
+4,A free throw has success probability 0.8. Assuming independence find the probability of making two in a row.,0.64|16/25,70,Y,Multiply 0.8 by 0.8.|Independent trials use the product rule.,The probability is 0.64.
+5,Does drawing without replacement usually create dependent events? Enter Yes or No.,Yes|yes|Y|y,70,Y,The first draw changes what remains.|The second probability can change.,Yes. Drawing without replacement generally creates dependence.
+6,A bag has 3 red and 2 blue balls. Without replacement find P(red then red).,3/10|0.3,70,Y,The first probability is 3/5.|After one red remains the second probability is 2/4.,P(red then red)=(3/5)(2/4)=3/10.
+7,For dependent events complete the general rule P(A and B)=P(A)____.,P(B given A)|P(B|A),70,Y,The second probability is conditional.|Measure B after A has occurred.,The rule is P(A and B)=P(A)P(B given A).
+8,If P(B given A)=P(B) what relationship do events A and B have?,independent|they are independent|independent events,70,Y,A does not change the chance of B.|Use the definition of independence.,The events are independent.
+9,A card is drawn and replaced before a second draw. Are the draws independent? Enter Yes or No.,Yes|yes|Y|y,70,Y,Replacement restores the original deck.|The second probabilities match the first.,Yes. With replacement the draws are independent.
+10,Events A and B are mutually exclusive with positive probabilities. Can they be independent? Enter Yes or No.,No|no|N|n,70,Y,Mutually exclusive events have P(A and B)=0.|Independence would require P(A)P(B)>0.,No. Positive-probability mutually exclusive events are dependent.

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A square has sides of 8 m. What is its perimeter?,32|32 m|32m|32 meters,100,Y,Square has 4 equal sides.,32 m -> Square has 4 equal sides
+2,"A shape has sides 10 cm, 4 cm, 20 cm, 6 cm, 15 cm. What is the perimeter?",55|55 cm|55cm|55 centimeters,100,Y,Perimeter means add all the sides.,55 cm -> Perimeter means add all the sides
+3,A rectangle has length 10 m and width 5 m. What is the perimeter?,30|30 m|30m|30 meters,100,Y,A rectangle has 2 lengths and 2 widths,30 m -> Rectangle perimeter = Twice length plus twice width
+4,A rhombus has 4 equal sides. Each side is 8 m long. What is the perimeter of the rhombus?,32|32 m|32m|32 meters,100,N,,32 m -> Perimeter means add all the sides
+5,Ben walks all the way around a square park. Each side of the park is 12 m. How far does Ben walk?,48|48 m|48m|48 meters,100,Y,How far means distance.,48 m -> How far means distance = perimeter

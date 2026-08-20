@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A car travels 5/6 of a mile in 3/8 of an hour. Find the speed in miles per hour. Enter only the number with no units.",2.222|20/9,70,Y,"Divide fraction distance by fraction time.","(5/6) ÷ (3/8) = (5/6)*(8/3)=40/18=2.222... rounded to 2.222."
+2,"A turtle walks 1/5 of a mile in 1/3 of an hour. What is its speed in miles per hour? (Enter as a fraction or decimal)",3/5|0.6,65,Y,"Divide the miles by the hours.","(1/5) ÷ (1/3) = (1/5) × 3 = 3/5."
+3,"A water pump fills 2/3 of a tank in 1/2 hour. How many tanks does it fill per hour? (Enter as an improper fraction or mixed number)",4/3|1 1/3,70,Y,"Divide the tank fraction by the time fraction.","(2/3) ÷ (1/2) = (2/3) × 2 = 4/3."
+4,"Find 15% of 80.",12,70,Y,"Multiply 0.15 by 80.","0.15 × 80 = 12."
+5,"What percent of 50 is 17? (Enter only the number)",34,75,Y,"Divide 17 by 50 to find the decimal, then convert to percent.","17 ÷ 50 = 0.34 = 34%."
+6,"A baker uses 1/4 cup of butter for every 1/3 cup of milk. What is the unit rate of butter to milk?",3/4|0.75,75,Y,"Divide butter by milk.","(1/4) ÷ (1/3) = (1/4) × 3 = 3/4."
+7,"A store advertises "15% off every item." If the sale reduces an item's price by $9, find the original price. Enter only the number with no units.",60,80,Y,"9 is 15% of original.","Original = 9/0.15 = 60."
+8,"A shirt increases in price by 18% to reach $59. What was the price before the increase? Enter only the number with no units.",50,85,Y,"59 = original × 1.18.","Original = 59/1.18 ≈ 50."
+9,"A video game costs $45. The sales tax is 8%. Fill in the blanks: The tax amount is $___, making the total cost $___.","3.6|3.60, 48.6|48.60",85,Y,"Find 8% of 45 first, then add it to 45.","Tax: 0.08 × 45 = 3.60. Total: 45 + 3.60 = 48.60."
+10,"A student answered 34 out of 40 questions correctly. What percent did they get? Round to the nearest whole percent. Enter only the number with no units.",85,90,Y,"Percent = part/whole×100.","34/40=0.85→85%."

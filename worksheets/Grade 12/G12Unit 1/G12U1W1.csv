@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Write the composition (f circle g)(x) in nested-function notation.,f(g(x)),70,Y,Apply g first.|Then use its output as the input of f.,The composition is f(g(x)).
+2,Let f(x)=2x+1 and g(x)=x^2. Find (f circle g)(3).,19,70,Y,Evaluate g(3) first.|Then substitute 9 into f.,g(3)=9 and f(9)=2(9)+1=19.
+3,Let f(x)=2x+1 and g(x)=x^2. Find (g circle f)(3).,49,70,Y,Evaluate f(3) first.|Then square that output.,f(3)=7 and g(7)=49.
+4,Let f(x)=x-4 and g(x)=3x. Find (f circle g)(x).,3x-4,70,Y,Substitute g(x) for x in f.|Compute f(3x).,f(g(x))=f(3x)=3x-4.
+5,Let f(x)=x-4 and g(x)=3x. Find (g circle f)(x).,3x-12|3(x-4),70,Y,Substitute f(x) into g.|Compute 3(x-4).,g(f(x))=3(x-4)=3x-12.
+6,A table gives f(2)=7 and g(7)=-1. Find (g circle f)(2).,-1,70,Y,Read f(2) first.|Use that value as the input to g.,g(f(2))=g(7)=-1.
+7,A graph shows g(-1)=2 and f(2)=5. Find (f circle g)(-1).,5,70,Y,Begin with the inner function g.|Then read f at the resulting input.,f(g(-1))=f(2)=5.
+8,Does f circle g always equal g circle f? Enter Yes or No.,No|no|N|n,70,Y,Composition depends on order.|The first two numerical examples gave different values.,No. Function composition is generally not commutative.
+9,For f(g(x)) what condition must every output of g satisfy?,it must be in the domain of f|the output of g must be in the domain of f|belong to the domain of f,70,Y,The outer function must accept the inner output.|Think about domain compatibility.,Every output of g used in the composition must lie in the domain of f.
+10,If f(x)=x+1 find f(f(4)).,6,70,Y,Evaluate the inner f(4).|Then apply f again.,f(4)=5 and f(5)=6.

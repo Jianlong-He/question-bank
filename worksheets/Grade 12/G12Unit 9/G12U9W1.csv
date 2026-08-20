@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What constant relates consecutive terms of a geometric sequence?,common ratio|the common ratio,70,Y,Divide a term by the previous term.|The same multiplier repeats.,It is the common ratio r.
+2,Find the common ratio of 3 6 12 24.,2,70,Y,Divide 6 by 3.|Check that each term doubles.,The common ratio is 2.
+3,Write the finite geometric sum formula for r not equal to 1.,a(1-r^n)/(1-r)|a(r^n-1)/(r-1),70,Y,Use first term a and n terms.|Either sign-equivalent form works.,S_n=a(1-r^n)/(1-r).
+4,Find 1+2+4+8+16.,31,70,Y,This is geometric with a=1 r=2 n=5.|Add directly or use the sum formula.,The sum is 31.
+5,Find the sum of the first 4 terms of 5 15 45 135.,200,70,Y,Add the listed terms.|Or use a=5 r=3 n=4.,5+15+45+135=200.
+6,Find the sum 8+4+2+1.,15,70,Y,The common ratio is 1/2.|Add the four terms.,The sum is 15.
+7,A swing travels 10 m then each arc is half the previous. Find the total of the first 4 arcs.,18.75,70,Y,Use 10 5 2.5 1.25.|Add the four geometric terms.,The total is 18.75 m.
+8,A hiker walks 4 km on day 1 and 1.5 times as far each day. How far on day 4?,13.5,70,Y,Use a_n=ar^(n-1).|Compute 4(1.5)^3.,Day 4 distance is 13.5 km.
+9,If r=1 what is the sum of n geometric terms each equal to a?,na|n*a,70,Y,Every term is a.|Add a to itself n times.,The sum is na.
+10,A finite series is the sum of terms from what kind of object?,a sequence|sequence,70,Y,A sequence lists terms.|A series adds them.,A series is the sum of terms of a sequence.

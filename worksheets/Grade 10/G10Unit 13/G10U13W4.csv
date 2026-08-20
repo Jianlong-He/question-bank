@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Write the addition rule for two events A and B.,P(A)+P(B)-P(A and B)|P(A)+P(B)-P(A intersection B),70,Y,Adding P(A) and P(B) counts the overlap twice.|Subtract the intersection once.,P(A or B)=P(A)+P(B)-P(A and B).
+2,If P(A)=0.4 P(B)=0.5 and P(A and B)=0.2 find P(A or B).,0.7|7/10,70,Y,Use the addition rule.|Compute 0.4+0.5-0.2.,P(A or B)=0.7.
+3,If A and B are mutually exclusive what is P(A and B)?,0|zero,70,Y,They cannot occur together.|Their Venn regions do not overlap.,P(A and B)=0.
+4,For mutually exclusive events with P(A)=0.3 and P(B)=0.4 find P(A or B).,0.7|7/10,70,Y,The intersection is zero.|Add the two probabilities.,P(A or B)=0.3+0.4=0.7.
+5,In a Venn diagram what region represents A and B?,intersection|overlap|A intersection B,70,Y,It lies inside both circles.|Look at the overlapping lens.,The overlap represents the intersection A and B.
+6,In a Venn diagram what region represents A or B?,union|all of both circles|A union B,70,Y,Include outcomes in either event.|The overlap is included once.,The union of the circles represents A or B.
+7,A standard deck has 4 aces and 13 hearts with one ace of hearts. Find P(ace or heart).,4/13|16/52,70,Y,Use the addition rule and subtract the shared ace.|Compute (4+13-1)/52.,The probability is 16/52=4/13.
+8,If P(A or B)=0.8 P(A)=0.5 and P(B)=0.6 find P(A and B).,0.3|3/10,70,Y,Rearrange the addition rule.|Compute 0.5+0.6-0.8.,The intersection probability is 0.3.
+9,A Venn diagram has 12 in A only 8 in B only 5 in both and 25 outside. How many outcomes are in the sample space?,50,70,Y,Add all disjoint regions.|Compute 12+8+5+25.,There are 50 outcomes.
+10,Using the same Venn counts find P(A or B).,1/2|0.5|25/50,70,Y,The union contains A only B only and both.|Add 12+8+5 then divide by 50.,P(A or B)=25/50=1/2.

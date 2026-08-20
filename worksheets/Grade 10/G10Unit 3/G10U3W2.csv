@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Solve x^2=36. Enter the positive solution.,6,70,Y,Take square roots of both sides.|The two solutions are 6 and -6.,The positive solution is 6.
+2,Solve (x-2)^2=25. Enter the larger solution.,7,70,Y,Take both positive and negative square roots.|x-2=5 or x-2=-5.,The solutions are 7 and -3 so the larger is 7.
+3,Solve 3x^2=75. Enter the positive solution.,5,70,Y,Divide both sides by 3 first.|Then solve x^2=25.,x^2=25 so the positive solution is 5.
+4,What operation should be performed first to solve 2(x-4)^2=18?,divide by 2|division by 2,70,Y,Isolate the squared expression.|Undo the outside multiplication first.,First divide both sides by 2.
+5,A student solves x^2=16 and reports only x=4. What solution is missing?,-4,70,Y,A positive square has two real square roots.|Check (-4)^2.,The missing solution is -4.
+6,A student solves (x-5)(x+1)=0 and writes x=5 and x=1. Which root has the wrong sign?,1|x=1|the second root,70,Y,Solve x+1=0 carefully.|Adding 1 corresponds to root -1.,The second root should be -1 rather than 1.
+7,Solve x^2+9=0 over the real numbers. How many real solutions are there?,0|zero|no real solutions,70,Y,Isolate x^2.|A real square cannot equal -9.,There are no real solutions.
+8,Solve (x+4)^2=0.,-4,70,Y,A square is zero only when its base is zero.|Set x+4=0.,x=-4.
+9,After taking square roots of x^2=81 what complete equation should be written?,9 and -9|x=±9|x=9 or x=-9,70,Y,Include both square roots.|Use the plus-or-minus symbol or list both values.,The complete result is x=±9.
+10,Check whether x=-3 solves x^2-9=0. Enter Yes or No.,Yes|yes|Y|y,70,Y,Substitute -3 for x.|Compute (-3)^2-9.,The expression equals 9-9=0 so yes.

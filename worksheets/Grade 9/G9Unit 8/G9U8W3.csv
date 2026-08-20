@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the domain of the points (-2, 1), (0, 4), and (3, 5)? Enter the values in increasing order.","-2, 0, 3",70,Y,The domain contains input values.|Collect the x-coordinates.,"The x-values are -2, 0, and 3."
+2,"What is the range of the points (-2, 1), (0, 4), and (3, 5)? Enter the values in increasing order.","1, 4, 5",70,Y,The range contains output values.|Collect the y-coordinates.,"The y-values are 1, 4, and 5."
+3,"For f(x) = 1/(x - 4), which value must be excluded from the domain?",4,70,Y,A denominator cannot equal zero.|Solve x - 4 = 0.,"x = 4 makes the denominator zero, so it is excluded."
+4,"For g(x) = sqrt(x + 3), what is the smallest real input in the domain?",-3,70,Y,The expression under a square root must be nonnegative.|Solve x + 3 >= 0.,The domain begins at x = -3.
+5,A graph exists from x = -5 to x = 7 with both endpoints included. What is the minimum domain value?,-5,70,Y,Domain values are horizontal coordinates.|Read the left endpoint.,The smallest input is -5.
+6,"A graph has outputs from -2 up to 9, but does not include 9. Is 9 in the range? Enter Yes or No.",No|no|N|n,70,Y,The top endpoint is excluded.|Range includes only attained y-values.,"Because the graph never reaches 9, it is not in the range."
+7,A person's age model is defined from birth through age 90. Is x = -4 a reasonable domain value? Enter Yes or No.,No|no|N|n,70,Y,Interpret x in context.|Age cannot be negative.,A negative age is not meaningful in this model.
+8,A parking garage is open from hour 6 through hour 23. What is the greatest meaningful input hour?,23,70,Y,Use the closing time as the upper domain bound.|The word through includes the endpoint.,The greatest meaningful input is 23.
+9,"For the table x: 1, 2, 3 and f(x): 4, 4, 9, how many distinct values are in the range?",2,70,Y,Do not count repeated outputs twice.|The outputs are 4 and 9.,"The range is {4, 9}, which contains 2 distinct values."
+10,"If a function's domain is all real numbers greater than 2, is x = 2 included? Enter Yes or No.",No|no|N|n,70,Y,Greater than is strict.|The endpoint itself is excluded.,No. The domain contains only values strictly greater than 2.

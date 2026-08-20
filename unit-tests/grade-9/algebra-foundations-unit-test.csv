@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Simplify the expression 4x + 7x - 3. Answer without spaces.,11x-3|11x - 3,60,N,,Combine like terms: 4x + 7x = 11x, so the expression is 11x - 3.
+2,Solve for x: 3x + 8 = 26,6,60,N,,Subtract 8 from both sides to get 3x = 18, then divide by 3.
+3,A rectangle has length x + 5 and width x. Write an expression for the perimeter. Answer without spaces.,4x+10|4x + 10,60,N,,Perimeter = 2(length + width) = 2((x + 5) + x) = 4x + 10.
+4,Evaluate 2a^2 - 3 when a = 4.,29,60,N,,Substitute a = 4: 2(4^2) - 3 = 2(16) - 3 = 29.
+5,Select the expression equivalent to 5(y - 2). : 5y-10 5y+10 y-10 10y-2,5y-10,60,N,,Distribute the 5 to both terms inside the parentheses.
+6,Solve for n: 7n = 56,8,60,N,,Divide both sides by 7.
+7,The cost of c notebooks at 3 dollars each plus a 12 dollar fee is 3c + 12. What is the cost when c = 5? Answer without unit.,27,60,N,,Substitute c = 5: 3(5) + 12 = 27.
+8,Combine like terms: 9m - 4m + 6 + 2. Answer without spaces.,5m+8|5m + 8,60,N,,Subtract the coefficients of m and add the constants.
+9,Solve for p: p/4 = 9,36,60,N,,Multiply both sides by 4.
+10,Select the equation that matches the statement: A number decreased by 7 is 15. : x-7=15 x+7=15 7-x=15 15-7=x,x-7=15,60,N,,The phrase decreased by 7 means subtract 7 from the number.

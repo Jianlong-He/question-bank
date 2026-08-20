@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Which form most directly shows the roots of a quadratic: standard factored or vertex form?,factored form|factored,70,Y,Roots appear when factors equal zero.|Look for expressions such as (x-r).,Factored form most directly shows the roots.
+2,Which form most directly shows the vertex of a quadratic?,vertex form|vertex,70,Y,It is written a(x-h)^2+k.|The values h and k are visible.,Vertex form most directly shows the vertex.
+3,Which form most directly shows the y-intercept?,standard form|standard,70,Y,The constant term is the value at x=0.|Use ax^2+bx+c.,Standard form most directly shows the y-intercept c.
+4,For f(x)=(x-2)(x-8) enter the roots in increasing order.,"2,8",70,Y,Set each factor equal to zero.|The values make the product zero.,The roots are 2 and 8.
+5,For f(x)=-3(x+1)^2+12 enter the vertex x-coordinate then y-coordinate.,"-1,12",70,Y,Use vertex form.|Rewrite x+1 as x-(-1).,The vertex is (-1 12).
+6,For f(x)=2x^2-5x+7 what is the y-intercept?,7,70,Y,Set x=0.|Only the constant term remains.,The y-intercept is 7.
+7,Which function has the larger maximum: f(x)=-(x-1)^2+6 or g(x)=-2(x+3)^2+9? Enter f or g.,g|G,70,Y,The maximum is the vertex y-value for each downward parabola.|Compare 6 and 9.,g has the larger maximum because 9>6.
+8,Which function is narrower: f(x)=2(x-1)^2 or g(x)=5(x+2)^2? Enter f or g.,g|G,70,Y,Compare the absolute values of the leading coefficients.|A larger absolute coefficient gives a narrower graph.,g is narrower because 5>2.
+9,A factored model h(t)=-2(t-1)(t-7) is zero at what two times? Enter in increasing order.,"1,7",70,Y,Set each factor equal to zero.|The coefficient -2 does not change the zeros.,The zeros occur at t=1 and t=7.
+10,For h(t)=-2(t-1)(t-7) at what time does the maximum occur?,4,70,Y,The axis is halfway between the zeros.|Average 1 and 7.,The maximum occurs at t=4.

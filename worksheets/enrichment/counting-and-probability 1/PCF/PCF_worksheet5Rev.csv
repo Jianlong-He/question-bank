@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find P(10,4).",5040,60,Y,Choose and order 4 objects from 10;Multiply 10 × 9 × 8 × 7,"P(10,4) = 10 × 9 × 8 × 7 = 5040."
+2,In how many distinguishable ways can the letters in TATTER be rearranged?,120|6!/3!,60,Y,There are 6 letters;T repeats 3 times;Divide 6! by 3!,"TATTER has three Ts, so the number is 6!/3! = 120."
+3,In how many distinguishable ways can the letters in SUCCESS be rearranged?,420|7!/(3!2!),60,Y,S repeats 3 times and C repeats 2 times;Divide 7! by 3! and 2!,The count is 7!/(3! × 2!) = 420.
+4,"Six people line up. If Ana and Ben must stand next to each other, how many lineups are possible?",240|2*5!|2×5!,90,Y,Treat Ana and Ben as one block;Arrange 5 objects;The pair has 2 internal orders,"Treating the pair as one block gives 5! arrangements, and the pair has 2 orders. The total is 2 × 5! = 240."
+5,In how many distinguishable ways can the letters in LETTER be rearranged if the two Ts must be together?,60|5!/2!,90,Y,"Treat TT as one block;Then arrange the block with L, E, E, and R;Account for the repeated Es","The TT block and four other letters make 5 objects, with E repeated twice. The count is 5!/2! = 60."

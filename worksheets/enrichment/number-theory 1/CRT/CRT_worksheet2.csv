@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Solve 3x ≡ 4 (mod 7) for the smallest possible positive x,6,60,No,,Find the inverse of 3 (mod 7) which is 5. Multiply both sides: 15x ≡ 20 → x ≡ 6 (mod 7).,
+2,Solve 5x ≡ 2 (mod 11) for the smallest possible positive x,7,60,No,,The inverse of 5 (mod 11) is 9. Multiply both sides: 45x ≡ 18 → x ≡ 7 (mod 11).,
+3,Solve 10x ≡ 5 (mod 15) for the smallest possible positive x,2,60,No,,"gcd(10, 15) = 5 so inverse does not exist. Test values: x = 2 works since 10(2) = 20 = 15(1) + 5.",
+4,Solve 22x ≡ 33 (mod 55) for the smallest possible positive x,4,60,No,,"gcd(22, 55) = 11 so inverse does not exist. Test values: x = 4 works since 22(4) = 88 = 55(1) + 33.",
+5,Solve 9x ≡ 6 (mod 12) for the largest possible negative x,-2,60,No,,"gcd(9, 12) = 3. x = 2 is a solution. Period is 12/3 = 4 so x = 2 + 4k. Choose k = −1 to get x = −2.",
+6,Solve 8x ≡ 12 (mod 20) for the largest possible negative x,-1,60,No,,"gcd(8, 20) = 4. x = 4 is a solution. Period is 20/4 = 5 so x = 4 + 5k. Choose k = −1 to get x = −1.",
+7,Select. Solve 14x ≡ 21 (mod 35) for all possible x : 4+3k 2+5k 4+5k 4+7k,4+5k,60,No,,"gcd(14, 35) = 7. x = 4 is a solution. Period is 35/7 = 5 so general solution is x = 4 + 5k.",
+8,Select. Solve 13x ≡ 1 (mod 17) for all possible x : 4+13k 4+15k 4+17k 4+19k,4+17k,60,No,,Euclidean Algorithm: 17 = 1(13) + 4; 13 = 3(4) + 1. Back-substitute: 1 = 4(13) − 3(17) so inverse is 4. General solution: x = 4 + 17k.,
+9,Find all positive x that satisfy 15x ≡ 10 (mod 100) (? + ?k),14 + 20k,60,No,,First solution is x = 14 by trial. Period found by solving 15x ≡ 0 (mod 100). General solution: x = 14 + 20k.,
+10,Solve 123x ≡ 9 (mod 30) for the smallest possible positive x,3,60,No,,"gcd(123, 30) = 3. Simplify: 123 ≡ 3 (mod 30) giving 3x ≡ 9 (mod 30). Solution is x = 3.",

@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is 17 × 5? ( 5 × 7 ones= 35 ones, 5 × 1 tens = 5 tens. What is 35 + 50? )",85,600,Y,"Multiply 5 × 7 ones = 35. Multiply 5 × 1 ten = 50, then add 35 and 50.",85
+2,What is 43 × 4?,172,600,Y,Multiply 4 × 3 ones = 12 .  Add 4 × 4 tens = 160,172
+3,What is 112  × 3? ( (3  × 2 ones) +( 3  × 1 tens) +( 3  × 1 hundreds) = ?),336,600,Y,Multiply 3 × 2 ones = 6. Add 3 × 1 tens = 30. Add 3 × 1 hundreds = 300,336
+4,What is 167 × 4?,668,600,Y,Multiply 4 × 7 ones = 28. Multiply 4 × 6 tens = 240. Multiply 4 × 1 hundred = 400.,668
+5,What is 56  × 7?,392,600,Y,"First multiply the ones: 7 × 6. If the answer is more than 9, write the ones digit and carry the tens. Then multiply 7 × 5 tens and add the carried tens.",392
+6,What is 187 × 8? ,1496,600,Y,"Start with 8 × 7 ones and carry any tens. Then do 8 × 8 tens, add the carried tens and carry again if needed. Finally multiply 8 × 1 hundred and add the carried tens.",1496
+7,A bus which carries tourists travels 45 kilometers each hour. How many kilometers does it travel in 9 hours?,405,600,Y,Multiply 45 × 9 ,405
+8,A farmer picks 125 apples each hour. How many apples did the farmer pick in 7 hours?,875,900,Y,Multiply 125  × 7,875
+9,What is 1242  × 5? ((5  × 2 ones ) + ( 5 × 4 tens) +  ( 5  ×  2 hundreds ) + ( 5  × 1 thousands ) = ? ),6210,900,Y,Multiply 5 × 2 ones = 10. Multiply 5 × 4 tens = 200. Multiply 5 × 2 hundreds = 1000. Multiply 5 × 1 thousand = 5000. Add all the partial products.,6210
+10,A factory produces 357 paint tubs per hour. How many paint tubs are produced in 6 hours?,2142,900,Y,Multiply 357  × 6,2142

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Add using expanded form of 214 + 342: (200 + 10 + 4) + (300 + 40 + 2) = __ + 50 + __ = __ + 50 + __ = __,"500, 6, 500, 6, 556",240,N,,"500, 6, 500, 6, 556"
+2,Select. What does the carried 1 in the hundreds place represent? A) 10 hundreds B) 10 ones C) 10 tens D) 1 thousand : A B C D,A,240,N,,A
+3,"Fill. 9 + 4 = __, carry __ to tens","13, 1",240,Y,"13 = 1 ten + 3 ones, 1 ten goes to ten place","13, 1"
+4,"Select. When adding 426 + 185, what number should we write in tens column place? A) 11 B) 1 C) 0 D) 10 : A B C D",B,240,Y,"2 + 8 = 10, carry 1 to the hundreds place",B
+5,"Select. When adding 275 + 148, what number should we write in ones column place? A) 13 B) 1 C) 3 D) 0 : A B C D",C,240,Y,"5 + 8 = 13, carry 1 to the tens place, leave 3 to the ones place",C

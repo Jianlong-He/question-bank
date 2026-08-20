@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,What is 1% of 876?,8.76,100,Y,Convert percent to a decimal or fraction,"8.76     -> Convert percent to a decimal or fraction . To decimal: 1% = 0.01, 876 x 0.01 = 8.76. To fraction: 1% = 1/100, 1/100 x 8.76 = move decimal point two places to the left = 8.76",
+2,What is 0.3% of 500?,1.5,100,Y,Convert percent to a decimal or fraction,"1.5     -> Convert percent to a decimal or fraction. To decimal: 0.3% = 0.003, 500 x 0.003 = 1.5. To fraction: 0.3% = 3/1000, 500 x 3/1000 = 1500/1000, move decimal point 3 places to the left = 1.5",
+3,What is 25% of 72?,18,100,Y,Convert percent to a decimal or fraction,"18     -> Convert percent to a decimal or fraction. To decimal: 25% = 0.25, 0.25 x 72 = 18. To fraction: 25% = 25/100 = 1/4. 1/4 x 72 = 72 / 4 = 18",
+4,What is 50% of 96?,48,100,Y,Convert percent to a decimal or fraction,"148     -> Convert percent to a decimal or fraction. To decimal: 50% = 0.50, 0.5 x 96 = 48. To fraction: 50% = 50/100 = 1/2. 1/2 x 96 = 96/2 = 48",
+5,What percent of 20 is 5? Put the answer as 5%,25%,100,Y,Write the fraction 5/20.,25%     -> Write the fraction 5/20 -> 5/20 = 1/4 = 25/100 = 25%,
+6,What percent of 30 is 6? Put the answer as 5%,20%,100,Y,Write the fraction 6/30.,20%     -> Write the fraction 5/30 -> 6/30 = 1/5 = 20/100 = 20%,
+7,What percent of 50 is 15? Put the answer as 5%,30%,100,Y,Write the fraction 15/50.,30%     -> Write the fraction 15/50 -> 15/50 = 3/10 = 30/100 = 30%,
+8,What percent of 125 is 150? Put the answer as 5%,120%,100,Y,Write the fraction 150/125.,120%     -> Write the fraction 150/125 -> 150/125= 6/5 = 120/100 = 120%,
+9,"A student got 18 questions correct, which is 75% of the test. How many questions were on the test?",24,100,Y,"75% x total = 18, what is total?",24     -> 75% x total = 18 -> total = 18 / 75% = 18 / (3/4) = 24 or = 18 / 0.75 = 24,
+10,Select. Which is greater? : 20%-of-90 25%-of-70,20%-of-90,100,Y,Calculate both values.,20%-of-90     -> 20%-of-90 = 0.2 x 90 = 18. 25%-of-70 = 0.25 x 70 = 17.5,

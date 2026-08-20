@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Based on the bar graph (F.1) shown above, how many oranges were sold?",5,100,Y,Read the height of the oranges bar.,"The oranges bar shows 5 oranges sold.",https://i.ibb.co/1tfMNfWz/G3U15F1.png
+2,"Based on the bar graph (F.1) shown above, which fruit was sold the most?",Bananas|bananas,100,Y,Look for the tallest bar.,"The tallest bar is Bananas.",https://i.ibb.co/1tfMNfWz/G3U15F1.png
+3,"Based on the bar graph (F.2) shown above, how many minutes did students read on Tuesday?",25|25 minutes|25 mins,100,Y,Read the height of the Tuesday bar.,"The Tuesday bar shows 25 minutes.",https://i.ibb.co/5xCg0Q8R/G3U15F2.png
+4,"Based on the bar graph (F.2) shown above, which day had the least reading time?",Wed|Wednesday|wed|wednesday,100,Y,Look for the shortest bar.,"The shortest bar is Wednesday.",https://i.ibb.co/5xCg0Q8R/G3U15F2.png
+5,"Based on the bar graph (F.1) shown above, how many more bananas than apples were sold?",5,100,Y,Subtract apples from bananas.,"Bananas minus apples is 5.",https://i.ibb.co/1tfMNfWz/G3U15F1.png
+6,"Based on the bar graph (F.1) shown above, how many fruits were sold in total?",30,100,Y,Add all three bars.,"Adding all three bars gives 30 fruits.",https://i.ibb.co/1tfMNfWz/G3U15F1.png
+7,"Based on the bar graph (F.2) shown above, how many more minutes were spent reading on Thursday than Wednesday?",15|15 minutes|15 mins,100,Y,Compare values on Thursday and Wednesday,"Thursday is 15 minutes more than Wednesday.",https://i.ibb.co/5xCg0Q8R/G3U15F2.png
+8,"Based on the bar graph (F.2) shown above, how many minutes were spent reading on Monday and Tuesday together?",45|45 minutes|45 mins,100,Y,Add the two days' values,"Monday plus Tuesday is 45 minutes.",https://i.ibb.co/5xCg0Q8R/G3U15F2.png
+9,"Based on the bar graph (F.3) shown above, how many more students like Art than Science?",8,100,Y,Compare values on Art and Science,"Art has 8 more students than Science.",https://i.ibb.co/1J9xLfh5/G3-U15-W1-F3.png
+10,"Based on the bar graph (F.3) shown above, how many students like Math and Science together?",23,100,Y,Add both bars.,"Math and Science together have 23 students.",https://i.ibb.co/1J9xLfh5/G3-U15-W1-F3.png

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Find 17 + 8 (mod 6),1,50,Y,"Add first, then divide by 6 and find the remainder.",17 + 8 = 25; 25 ÷ 6 = 4 r 1,
+2,Find 5 - 12 (mod 7),0,50,Y,"If the result is negative, add 7 until it is between 0 and 6.",5 - 12 = -7; -7 + 7 = 0,
+3,Find 28 + 19 (mod 8),7,50,Y,"Add the numbers, then find the remainder after division by 8.",28 + 19 = 47; 47 ÷ 8 = 5 r 7,
+4,Find 3 - 14 (mod 6),1,50,N,,3 - 14 = -11; -11 + 6 + 6 = 1,
+5,Find the least nonnegative remainder of 73 (mod 9),1,50,N,,73 ÷ 9 = 8 r 1,
+6,Find the least nonnegative remainder of -19 (mod 7),2,50,Y,"Add multiples of 7 until the result is between 0 and 6.",-19 + 7 + 7 + 7 = 2,
+7,Find 11 + 8 - 4 (mod 6),3,50,Y,"Simplify the expression first, then find its remainder modulo 6.",11 + 8 - 4 = 15; 15 ÷ 6 = 2 r 3,
+8,"Is 38 congruent to 3 (mod 5)? Answer Yes or No.",Yes|yes,50,Y,"Two numbers are congruent modulo 5 when their difference is divisible by 5.",Yes; 38 - 3 = 35 and 35 is divisible by 5.,
+9,Find the number x between 0 and 4 such that (12 + x) mod 5 = 1,4,50,Y,"First find 12 mod 5, then choose x so the new remainder is 1.",12 mod 5 = 2; 2 + x = 6 gives remainder 1; x = 4,
+10,Find the number x between 0 and 7 such that (27 - x) mod 8 = 5,6,50,Y,"Test how much must be subtracted from 27 to leave remainder 5 after division by 8.",27 - 6 = 21; 21 ÷ 8 = 2 r 5; x = 6,

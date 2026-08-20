@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is 30 x 40? ( 30 x 40 = 3 x 10 x 4 x 10 ),1200,120,Y,Think of 30 as 3 x 10 and 40 as 4 x 10,1200
+2,What is 50 x 80?,4000,120,Y,Think of 50 as 5 x 10 and 80 as 8 x 10,4000
+3,What is 90 x 30?,2700,120,Y,Think of 90 as 9 x 10 and 30 as 3 x 10,2700
+4,Select all calculations that equal 4800: 60x80 80x60 50x90,"60x80,80x60",120,Y,Calculate each multiplication,"60x80,80x60"
+5,A stadium has 40 sections for seating. Each section holds 60 people. How many people can the stadium hold in total?,2400,120,Y,Calculate 40 x 60,2400

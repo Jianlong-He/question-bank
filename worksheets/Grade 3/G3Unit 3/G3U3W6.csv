@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Add using expanded form of 638 + 125: (600 + 30 + 8) + (100 + 20 + 5) = __ + 50 + __ = __ + 60 + __ = __,"700, 13, 700, 3, 763",120,N,,"700, 13, 700, 3, 763"
+2,"Select. What does the ""carried 1"" in the tens place represent?  A) 10 tens     B) 1 one      C) 10 ones     D) 1 hundred : A B C D",C,120,N,,C
+3,"Fill: 7 + 8 = __, carry __ to tens","15, 1",120,Y,"15 = 1 ten + 5 ones, 1 ten goes to ten place","15, 1"
+4,"Select. When adding 534 + 357, what number should we write in tens column place?  A)1   B)8   C) 18    D)9  : A B C D",D,140,Y,"4 + 7 = 11, carry 1 to the tens place",D
+5,"Select. When adding 336 + 487, what number should we write in ones column place?  A)13   B)1   C) 3    D)0  : A B C D",C,140,Y,"6 + 7 = 13, carry 1 to the tens place, leave 3 to the ones place",C
+6,"Select. When adding 594 + 387, what number should we write in tens column place?  A) 18   B)8   C) 17    D)7  : A B C D",B,140,Y,"4 + 7 = 11, carry 1 to the tens place. 9 + 8 = 17, add carrying value",B
+7,What is 166 + 328?,494,160,Y,"6 + 8 = 14, carry 1 to the tens place. 6 + 2 = 8, add carrying value",494
+8,What is 423 + 184?,607,180,Y,"3 + 4 = 7, 2 + 8 = 10, carry 1 to hundreds place",607
+9,Select. Which sums to 942?  A)467 + 455     B) 593 + 338   C) 656 + 286 : A B C,C,200,Y,"What is 343 + 287? And what is 807 - 177? Are they the same? ; 10 hundreds = 1 thousand, 10 tens = 1 hundred. 10 ones = 1 ten ; Borrow 1 from thousands to hundreds, from hundreds to tens, and from tens to ones",C
+10,What is 491 + 173 + 256?,920,280,Y,"First, what is 491 + 173? Then add 256. ; 10 hundreds = 1 thousand, 10 tens = 1 hundred. 10 ones = 1 ten ; Carry 1 from ones to tens, from tens to hundreds, and from hundreds to thousands",920

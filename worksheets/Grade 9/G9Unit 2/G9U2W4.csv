@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Solve 3 < x + 1 ≤ 8.,2 < x <= 7|2 < x ≤ 7|2<x<=7|2<x≤7,70,Y,Subtract 1 from all three parts.,Subtracting 1 gives 2 < x ≤ 7.
+2,Solve -5 ≤ 2x + 1 < 9.,-3 <= x < 4|-3 ≤ x < 4|-3<=x<4|-3≤x<4,75,Y,Subtract 1 from every part.|Then divide every part by 2.,"-6 ≤ 2x < 8, so -3 ≤ x < 4."
+3,Solve 2x - 4 < -8 or 3x + 1 ≥ 10.,x < -2 or x >= 3|x < -2 or x ≥ 3|x<-2 or x>=3|x<-2 or x≥3,80,Y,Solve each inequality separately.|Join the answers with or.,The first gives x < -2. The second gives x ≥ 3. Therefore x < -2 or x ≥ 3.
+4,Solve -1 < 3x + 2 < 11.,-1 < x < 3|-1<x<3,70,Y,Subtract 2 from all parts.|Then divide all parts by 3.,"-3 < 3x < 9, so -1 < x < 3."
+5,Solve 4 ≤ -2x < 10.,-5 < x <= -2|-5 < x ≤ -2|-5<x<=-2|-5<x≤-2,80,Y,Divide every part by -2.|Reverse both inequality signs.,"Dividing by -2 reverses the comparisons: -2 ≥ x > -5, which is -5 < x ≤ -2."
+6,A safe driving speed s is at least 45 km/h and at most 65 km/h. Write the compound inequality.,45 <= s <= 65|45 ≤ s ≤ 65|45<=s<=65|45≤s≤65,65,Y,"At least includes 45, and at most includes 65.",The speed range is 45 ≤ s ≤ 65.
+7,A temperature t is outside the safe range from 2°C through 8°C. Write the compound inequality.,t < 2 or t > 8|t<2 or t>8,70,Y,Outside means below the lower endpoint or above the upper endpoint.,Temperatures outside the inclusive safe range satisfy t < 2 or t > 8.
+8,Solve x + 5 ≤ 1 or 2x - 3 > 7.,x <= -4 or x > 5|x ≤ -4 or x > 5|x<=-4 or x>5|x≤-4 or x>5,75,Y,Solve each branch independently.,"The first gives x ≤ -4. The second gives 2x > 10, so x > 5. The union is x ≤ -4 or x > 5."
+9,Solve -6 < 2 - 4x ≤ 10.,-2 <= x < 2|-2 ≤ x < 2|-2<=x<2|-2≤x<2,80,Y,Subtract 2 from all parts.|Divide by -4 and reverse both signs.,"-8 < -4x ≤ 8. Dividing by -4 gives 2 > x ≥ -2, or -2 ≤ x < 2."
+10,How many integers satisfy -2 < x ≤ 3?,5,65,Y,List the integers strictly greater than -2 and no greater than 3.,"The integers are -1, 0, 1, 2, and 3, for a total of 5."

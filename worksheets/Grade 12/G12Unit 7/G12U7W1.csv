@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A matrix has 3 rows and 2 columns. What are its dimensions?,3 by 2|3x2|3 rows by 2 columns,70,Y,Dimensions list rows first.|Then list columns.,Its dimensions are 3 by 2.
+2,In matrix A what does entry a_23 mean?,row 2 column 3|the entry in row 2 column 3,70,Y,The first subscript is the row.|The second subscript is the column.,a_23 is the entry in row 2 column 3.
+3,Can a 2x3 matrix be added to a 2x2 matrix? Enter Yes or No.,No|no|N|n,70,Y,Addition requires matching positions.|The dimensions must be identical.,No. Their dimensions differ.
+4,Add matrices [[1 2][3 4]] and [[5 6][7 8]]. Enter the first row.,"6,8",70,Y,Add corresponding entries.|Compute 1+5 and 2+6.,The first row of the sum is (6 8).
+5,Subtract [[1 1][2 2]] from [[4 5][6 7]]. Enter the second row.,"4,5",70,Y,Subtract corresponding second-row entries.|Compute 6-2 and 7-2.,The second row is (4 5).
+6,Multiply matrix [[1 -2][3 0]] by scalar 4. Enter the first row.,"4,-8",70,Y,Multiply every entry by 4.|Preserve the negative sign.,The first row becomes (4 -8).
+7,A network adjacency matrix entry equals 1. What can that indicate?,a connection exists|the two vertices are connected|an edge exists,70,Y,Adjacency matrices encode links.|Zero commonly represents no link.,An entry 1 can indicate a connection between the corresponding vertices.
+8,A payoff matrix organizes outcomes by choices of how many decision makers?,2|two,70,Y,Rows can represent one player's choices.|Columns can represent the other player's choices.,A basic payoff matrix compares choices of two decision makers.
+9,If A and B have the same dimensions does A-B keep those dimensions? Enter Yes or No.,Yes|yes|Y|y,70,Y,Subtraction works entry by entry.|No row or column is created or removed.,Yes. The difference has the same dimensions.
+10,What matrix has every entry equal to zero?,zero matrix|the zero matrix,70,Y,It is the additive identity for matrices.|Adding it changes no entries.,It is called the zero matrix.

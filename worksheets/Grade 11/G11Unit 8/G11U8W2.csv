@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,How many radians equal 180 degrees?,pi radians|pi|π radians|π,70,Y,A half-turn is 180 degrees.|The same angle is pi radians.,180 degrees equals pi radians.
+2,Convert 60 degrees to radians.,pi/3|π/3,70,Y,Multiply degrees by pi/180.|Reduce 60/180.,60 degrees equals pi/3 radians.
+3,Convert 135 degrees to radians.,3pi/4|3π/4,70,Y,Multiply by pi/180.|Reduce 135/180 to 3/4.,135 degrees equals 3pi/4 radians.
+4,Convert 5pi/6 radians to degrees.,150 degrees|150,70,Y,Multiply radians by 180/pi.|The pi factors cancel.,5pi/6 radians equals 150 degrees.
+5,Convert 7pi/4 radians to degrees.,315 degrees|315,70,Y,Multiply by 180/pi.|Compute 7(180)/4.,The angle is 315 degrees.
+6,On the unit circle what coordinates correspond to angle 0?,"1,0",70,Y,Start on the positive x-axis.|The radius is 1.,"The point is (1, 0)."
+7,On the unit circle what coordinates correspond to pi/2?,"0,1",70,Y,A quarter-turn ends on the positive y-axis.|The radius is 1.,"The point is (0, 1)."
+8,On the unit circle the x-coordinate equals which trigonometric function?,cosine|cos|cos(theta),70,Y,The horizontal coordinate is adjacent over hypotenuse.|The hypotenuse radius is 1.,The x-coordinate is cos(theta).
+9,On the unit circle the y-coordinate equals which trigonometric function?,sine|sin|sin(theta),70,Y,The vertical coordinate is opposite over hypotenuse.|The hypotenuse radius is 1.,The y-coordinate is sin(theta).
+10,In which quadrant does an angle of 5pi/4 lie?,Quadrant III|III|3,70,Y,5pi/4 equals 225 degrees.|That is between 180 and 270 degrees.,The angle lies in Quadrant III.

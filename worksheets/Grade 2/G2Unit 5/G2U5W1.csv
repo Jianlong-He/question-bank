@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,How many cents are in 2 quarters?,50|50 cents,300,Y,1 quarter = 25 cents,50
+2,How many cents are in 3 nickels?,15|15 cents,300,Y,1 nickel = 5 cents,15
+3,How many cents are in 3 dimes?,30|30 cents,300,Y,1 dime = 10 cents,30
+4,How many cents are in 1 quarter and 1 nickel?,30|30 cents,300,Y,1 quarter = 25 cents and 1 nickel = 5 cents,30
+5,How many cents are there in  1 quarter and 1 dime?,35|35 cents,300,Y,1 quarter = 25 cents and 1 dime = 10 cents,35
+6,"How many cents are there in  2 quarters and 2 nickels, and 2 dimes?",80|80 cents,300,N,1 quarter = 25 cents and 1 dime = 10 cents,80
+7,"How many cents are there in  2 quarters, 1 nickel, 3 dimes, and 1 penny?",86|86 cents,600,Y,1 penny = 1 cent,86
+8,"Diana's mom gave her 2 one-dollar bills, 2 five-dollar bills, and 1 ten-dollar bill. How much money does she have?",22|22 dollars,600,Y,Add all bills,22
+9,Select which is worth the most?:2-quarters 60-pennies 7-dimes 10-nickels,7-dimes,600,Y,Convert each choice to cents and compare,7-dimes
+10,"A toy car costs 2 five-dollar bills and 45 cents. You pay with 1 ten-dollar bill, 1 quarter and 2 dimes. Is this enough to buy the car?",yes,600,Y,Add up everything you paid.,yes

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Simplify (x^2-9)/(x-3).,x+3,70,Y,Factor the numerator.|Cancel the common factor x-3.,The expression simplifies to x+3 with x not equal to 3.
+2,What value is excluded from (x^2-9)/(x-3)?,3,70,Y,Use the original denominator.|Set x-3=0.,The excluded value is x=3.
+3,What discontinuity is created by a canceled denominator factor?,a hole|hole|removable discontinuity,70,Y,The original input remains excluded.|The simplified graph is missing one point.,A canceled factor creates a hole or removable discontinuity.
+4,For f(x)=1/(x-2) what is the vertical asymptote?,x=2,70,Y,Set the denominator equal to zero.|The factor does not cancel.,The vertical asymptote is x=2.
+5,For f(x)=(3x+1)/(x-4) what is the horizontal asymptote?,y=3,70,Y,The numerator and denominator have equal degree.|Use the ratio of leading coefficients.,The horizontal asymptote is y=3.
+6,For f(x)=(x+1)/(x-2) what is the y-intercept?,-1/2|-0.5,70,Y,Substitute x=0.|Evaluate 1/(-2).,The y-intercept is -1/2.
+7,For f(x)=(x+1)/(x-2) what is the x-intercept?,x=-1|-1,70,Y,Set the numerator equal to zero.|Check that the denominator is not zero there.,The x-intercept occurs at x=-1.
+8,For f(x)=(x+2)/(x^2+1) what is the horizontal asymptote?,y=0|x-axis|the x-axis,70,Y,The denominator degree is greater.|The fraction approaches zero for large absolute x.,The horizontal asymptote is y=0.
+9,Does f(x)=x^2/(x+1) have a horizontal asymptote? Enter Yes or No.,No|no|N|n,70,Y,The numerator degree is larger.|A horizontal asymptote does not occur in this degree case.,No. The function instead has polynomial end behavior.
+10,Find the excluded x-values of 1/(x^2-4). Enter in increasing order.,"-2,2",70,Y,Factor the denominator as (x-2)(x+2).|Set each factor equal to zero.,The excluded values are -2 and 2.

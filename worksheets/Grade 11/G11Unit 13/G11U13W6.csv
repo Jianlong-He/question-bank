@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Add 2/x+5/x.,7/x,70,Y,The denominators already match.|Add the numerators.,2/x+5/x=7/x.
+2,Subtract 9/y-4/y.,5/y,70,Y,Keep the common denominator.|Subtract the numerators.,9/y-4/y=5/y.
+3,Add 1/x+1/3.,(x+3)/(3x)|x+3 over 3x,70,Y,Use common denominator 3x.|Rewrite 1/x as 3/(3x) and 1/3 as x/(3x).,The sum is (x+3)/(3x).
+4,Subtract 1/x-1/2.,(2-x)/(2x)|2-x over 2x,70,Y,Use common denominator 2x.|Rewrite the fractions before subtracting numerators.,The difference is (2-x)/(2x).
+5,Add 2/(x+1)+3/(x+1).,5/(x+1)|5 over x+1,70,Y,The denominators are already alike.|Add 2 and 3 while keeping the denominator.,The sum is 5/(x+1).
+6,What is the least common denominator of 1/x and 1/(x+2)?,x(x+2)|(x)(x+2),70,Y,The denominator factors are distinct.|Include each factor once.,The least common denominator is x(x+2).
+7,Add 1/x+1/(x+2).,2(x+1)/(x(x+2))|(2x+2)/(x(x+2)),70,Y,Use LCD x(x+2).|The numerator becomes x+2+x.,The sum is (2x+2)/(x(x+2))=2(x+1)/(x(x+2)).
+8,Subtract 1/(x-1)-1/(x+1).,2/(x^2-1)|2/((x-1)(x+1)),70,Y,Use LCD (x-1)(x+1).|The numerator is (x+1)-(x-1).,The numerator simplifies to 2 and the denominator to x^2-1.
+9,What is the least common multiple of x^2-4 and x^2+4x+4?,(x-2)(x+2)^2,70,Y,Factor both polynomials.|Use every distinct factor at its greatest power.,The factors are (x-2)(x+2) and (x+2)^2 so the LCM is (x-2)(x+2)^2.
+10,After adding rational expressions what final step may reduce the answer?,factor and cancel common factors|simplify|factor the numerator and cancel common factors,70,Y,The new numerator may share a factor with the denominator.|Check restrictions before canceling.,Factor the result and cancel any common factors while retaining original restrictions.

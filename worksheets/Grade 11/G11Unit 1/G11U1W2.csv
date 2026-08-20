@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Simplify (3x^2+5x-4)+(2x^2-x+7).,5x^2+4x+3,70,Y,Combine like terms.|Add coefficients of equal powers.,The sum is 5x^2+4x+3.
+2,Simplify (7x^3-2x+1)+(x^3+5x-6).,8x^3+3x-5,70,Y,Align like powers.|The x^2 coefficient is zero.,Combining like terms gives 8x^3+3x-5.
+3,Simplify (6x^2+3x-8)-(2x^2-x+5).,4x^2+4x-13,70,Y,Distribute the subtraction sign.|Subtract every term in the second polynomial.,The difference is 4x^2+4x-13.
+4,Simplify (4x^3-x^2+2)-(x^3+3x^2-5).,3x^3-4x^2+7,70,Y,Change each sign in the second polynomial.|Then combine like terms.,The result is 3x^3-4x^2+7.
+5,Find P(x)+Q(x) if P(x)=2x^2-3x+4 and Q(x)=-x^2+6x-1.,x^2+3x+3,70,Y,"Add corresponding coefficients.|Compute 2+(-1), -3+6, and 4+(-1).",P(x)+Q(x)=x^2+3x+3.
+6,Find P(x)-Q(x) if P(x)=5x^2+x-2 and Q(x)=2x^2-4x+7.,3x^2+5x-9,70,Y,"Subtract all terms of Q.|Use 5-2, 1-(-4), and -2-7.",P(x)-Q(x)=3x^2+5x-9.
+7,What term results from adding 8x^4 and -3x^4?,5x^4,70,Y,The terms are like terms.|Add 8 and -3.,8x^4-3x^4=5x^4.
+8,Simplify 2x^2-(5x^2-3x+1).,-3x^2+3x-1,70,Y,Distribute the negative sign.|Rewrite as 2x^2-5x^2+3x-1.,The result is -3x^2+3x-1.
+9,The sum of two polynomials is 4x^2+7x-3. One polynomial is x^2+2x+5. Find the other.,3x^2+5x-8,70,Y,Subtract the known polynomial from the sum.|Compute (4x^2+7x-3)-(x^2+2x+5).,The other polynomial is 3x^2+5x-8.
+10,Simplify (x^3-4x+9)+(-x^3+4x-9).,0|zero,70,Y,Each term has an opposite term.|Combine each pair.,"All terms cancel, so the sum is 0."

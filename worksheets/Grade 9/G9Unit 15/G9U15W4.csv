@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Dilate P(4 -6) about the origin by scale factor 1/2. Enter the image x-coordinate then y-coordinate.,"2,-3",70,Y,Multiply each coordinate by 1/2.|Half of -6 is -3.,P' = (4(1/2)  -6(1/2)) = (2  -3).
+2,Dilate Q(-3 5) about the origin by scale factor 3. Enter the image x-coordinate then y-coordinate.,"-9,15",70,Y,Multiply both coordinates by 3.|Keep the sign of each coordinate.,Q' = (-9  15).
+3,A side of length 8 is dilated to length 20. What is the scale factor?,2.5|5/2,70,Y,Divide image length by original length.|Compute 20/8.,The scale factor is 20/8 = 5/2 = 2.5.
+4,A dilation has scale factor 0.4. Is it an enlargement or a reduction?,reduction|a reduction|shrinking dilation,70,Y,Compare 0.4 with 1.|A positive factor below 1 makes lengths smaller.,It is a reduction.
+5,A dilation has scale factor 1.6. Is it an enlargement or a reduction?,enlargement|an enlargement,70,Y,Compare 1.6 with 1.|A factor greater than 1 makes lengths larger.,It is an enlargement.
+6,What happens to the center of a dilation?,it stays fixed|stays fixed|it does not move|fixed,70,Y,The center has distance zero from itself.|Multiplying zero distance by any scale factor still gives zero.,The center of dilation stays fixed.
+7,A point is 7 units from the center of dilation. With scale factor 3 how far is its image from the center?,21,70,Y,Distances from the center are multiplied by the scale factor.|Compute 7 times 3.,The image is 21 units from the center.
+8,A 48-degree angle is dilated by scale factor 2. What is the image angle measure?,48 degrees|48 degree|48|48°,70,Y,Dilations preserve angle measure.|Only lengths are multiplied by the scale factor.,The image angle still measures 48 degrees.
+9,Point A and its image A' lie on the same ray from center O. OA = 6 and OA' = 15. Find the scale factor.,2.5|5/2,70,Y,Use OA'/OA.|Divide 15 by 6.,The scale factor is 15/6 = 5/2 = 2.5.
+10,A student multiplies only the x-coordinate by the dilation scale factor. Is this a correct dilation about the origin? Enter Yes or No.,No|no|N|n,70,Y,A dilation scales every distance from the center.|Both coordinates must be multiplied by the same factor.,No. For a dilation about the origin both coordinates must be multiplied by the scale factor.

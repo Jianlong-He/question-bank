@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: Solve the system: $2x + 3y = 12$ and $2x + y = 4$. Find $y$.,4,45,Y,Subtract the second equation from the first;$(2x-2x) + (3y-y) = 12-4$;$2y = 8$,Elimination Subtraction
+2,Fill: The sum of two numbers is 20. Their difference is 4. Find the larger number.,12,45,Y,Set up system: $x+y=20$ and $x-y=4$;Add equations to find $2x=24$;Divide by 2,Word Problem Integers
+3,How many solutions does this system have? $y = 3x + 1$ and $y = 3x + 2$.||Select: One None Infinite,None,25,Y,Compare slopes ($m$) and intercepts ($b$);Slopes are equal (3);Intercepts are different (1 vs 2),Number of Solutions Check
+4,Fill: 3 tacos and 1 drink cost $\$7$. 2 tacos and 1 drink cost $\$5$. How much is 1 taco?,2,40,Y,"Let $t$ = taco, $d$ = drink;Subtract equation 2 from equation 1: $(3t+d) - (2t+d) = 7 - 5$",Contextual Elimination
+5,Fill: Solve for $x$: $4x + y = 10$ and $-4x + 2y = 2$,1.5,45,Y,"Add equations to eliminate $x$: $3y = 12$, so $y=4$;Plug $y=4$ back into $4x + 4 = 10$",Elimination Harder
+6,"Select the system that matches: ""Ben is 3 years older than William. Combined they are 25."" $B=W+3, B+W=25$ $B=W-3, B=W=25$ $B=3W, B+W=25$","$B=W+3, B+W=25$",30,Y,Older means add years ($+3$);Combined means sum ($+$);Look for $B=W+3$,Modeling Age Problems
+7,"Fill: If $y = 2x$ and $4x - y = 10$, solve for $x$.",5,35,Y,Substitute $2x$ for $y$ in the second equation: $4x - (2x) = 10$;Simplify to $2x = 10$,Substitution Variable
+8,"True or False: If you get $5 = 5$ when solving, there are Infinite Solutions. (True/False)",True|T|true,20,Y,A true statement like $5=5$ means the equations are identical;Any point on the line works,Recognizing Identities
+9,Fill: Tickets cost $\$5$ (child) and $\$10$ (adult). You spent $\$50$ on 7 tickets. How many adults?,3,60,Y,System: $c + a = 7$ and $5c + 10a = 50$;Multiply first eq by 5: $5c + 5a = 35$;Subtract from second eq,Ticket Word Problem
+10,Fill: Solve for $y$: $x + 2y = 8$ and $x = 4$,2,25,Y,Substitute $x=4$ immediately: $4 + 2y = 8$;Subtract 4 from both sides;Divide by 2,Substitution Final

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the distance between the numbers -17 and 5 using absolute value. Fill in the blanks: The difference is |-17 - 5| = |___|, so the distance is ___.", "-22, 22",60,Y,"Distance = absolute value of the difference.","|-17 - 5| = |-22| = 22."
+2,"On a vertical line, one point is at -48 and another point is at -12. How far apart are they? Enter only the number with no units.",36,65,Y,"Subtract and use absolute value.","|-48 - (-12)| = |-36| = 36."
+3,"Compute: (−11/12) + (7/18). Give your answer as a fraction in simplest form.",-19/36,60,Y,"Find a common denominator.","−11/12 = −33/36 and 7/18 = 14/36 → −33/36 + 14/36 = −19/36."
+4,"Compute (3/5) − (−9/10).",3/2|1.5|1 1/2,70,Y,"Subtracting a negative adds.","3/5 + 9/10 = 6/10 + 9/10 = 15/10 = 3/2."
+5,"Compute −8.42 + (−1.19) + 12.8. Round to the nearest hundredth.",3.19,75,Y,"Group negative terms using associative property.","(-8.42 -1.19)= -9.61; -9.61 +12.8=3.19."
+6,"Compute (−0.6) + (5/3) − 0.25. Give the decimal rounded to the nearest hundredth.",0.82,80,Y,"Convert all to decimals.","-0.6 + 1.666... = 1.066..., then 1.066... - 0.25 = 0.816..., which rounds to 0.82."
+7,"A statement says “The score decreased by 27 points.” Represent this change as an integer.",-27,80,Y,"Decrease means negative.","-27 shows a drop of 27."
+8,"A hiker is at -320 meters, climbs 140 meters, then descends 90 meters. What is his final elevation? Enter only the number with no units.",-270,85,Y,"Add the climb, subtract the descent.","-320 + 140 - 90 = -270."
+9,"The temperature changed by −18°, and the final temperature is −7°. What was the initial temperature? Enter only the number with no units.",11,85,Y,"Final = initial + change.","Initial = -7 - (-18) = -7 + 18 = 11."
+10,"Which value is equivalent to (−4) − (−12) + (−7) using associative and commutative properties?",1,90,Y,"Rewrite: -4 +12 -7.","-4 + 12 = 8; 8 - 7 = 1."

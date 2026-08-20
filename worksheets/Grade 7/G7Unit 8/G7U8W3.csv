@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A side of a shape measures 15 in the original and the scale factor is 0.6. What is the length of the corresponding side in the scaled copy?",9,75,Y,"Multiply original length by the scale factor.","15×0.6=9"
+2,"A scaled triangle has side GH = 18. The original triangle had side GH = 12. What is the scale factor?",1.5|3/2|1 1/2,75,Y,"Scale factor = new/original.","18/12=1.5."
+3,"A scaled copy has a side of length 28. The corresponding side in the original is 7. What is the scale factor?",4,80,Y,"Divide the scaled side by the original side.","28/7=4"
+4,"A shape has original sides 8, 12, and 20. Another shape has sides 10, 15, and 25. Fill in the blanks: The scale factor for all sides is ___, so are these scaled copies? (Enter Yes or No)","1.25, Yes|yes|Y|y",75,Y,"Check if all sides increase by the same factor.","8×1.25=10, 12×1.25=15, 20×1.25=25. All match, so Yes."
+5,"A scale drawing shows that 3 cm represents 27 cm in real life. What is the scale factor from drawing to actual size?",9,80,Y,"Scale factor = actual/drawing.","27/3=9"
+6,"A scale factor of 0.45 is used in a drawing. If a real object is 40 units long, how long is it in the drawing?",18,80,Y,"Multiply real length by scale factor.","40×0.45=18"
+7,"On a map, 3.2 cm represents 16 km. How many kilometers does 6 cm represent?",30,85,Y,"Find km per cm, then multiply.","16/3.2=5 km per cm → 5×6=30"
+8,"A blueprint uses a ratio of 1 to 120. If a real hallway is 960 units long, how long is it in the drawing?",8,85,Y,"Divide real length by the scale ratio.","960/120=8"
+9,"A scale model uses the conversion 1 cm = 0.03 km. How many kilometers are represented by 50 cm?",1.5|3/2|1 1/2,75,Y,"Multiply centimeters by km-per-cm.","50×0.03=1.5"
+10,"A hiker travels 8.4 km. A map uses a scale where 1 cm = 0.21 km. How many centimeters should represent the hiker’s route?",40,75,Y,"Divide kilometers by km-per-centimeter.","8.4/0.21=40"

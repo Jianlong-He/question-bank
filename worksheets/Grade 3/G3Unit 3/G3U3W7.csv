@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select all correct answers. What do we call it when we take 1 hundred from the hundreds place and give it to the tens place?  A) Carrying    B) Regrouping   C) Borrowing  : AB AC BC,BC,120,N,,BC
+2,"Select. Without regrouping or borrowing, can you subtract 84 from 27? : Yes No",No,120,N,,No
+3,"Select. When regouping or borrowing, does total values change when we take 100 from hundreds and adding to tens? : Yes No",No,120,N,,No
+4,Select. When compute 913 - 659. Which is the correct regrouped form of 913 after double regrouping?  A)800 + 10 + 3    B) 800 + 100 + 13   C) 900 + 0 + 13 : A B C,B,150,Y,Both tens and ones need regrouping,B
+5,Select. Which expanded subtraction shows 981 - 559 correctly?   A) (900 + 70 + 11) - (500 + 50 + 9)    B) (900 + 80 + 1) - (500 + 51 + 9)    C) (900 + 70 + 10) - (500 + 50 + 9)  : A B C,A,150,Y,"1 can not subtract 9, so regroup 10 from 80",A
+6,What is 427 - 184?,243,160,Y,regrouping from hundreds,243
+7,What is 421-184?,237,160,Y,"regrouping from hundreds, then tens",237
+8,Fill: _ + 678 = 843. What is the missing number?,165,180,Y,"The same as 843 - 678 ; 10 tens = 1 hundred. 10 ones = 1 ten ; regrouping 1 from hundreds to tens, and from tens to ones",165
+9,What is 691 + 473 - 168,996,200,Y,"Add 691 and 473 first, then subtract 168 ; 10 hundreds = 1 thousand. 10 tens = 1 hundred. 10 ones = 1 ten ; Carry 1  from ones to tens, from tens to hundreds and from hundreds to thousands. regrouping 1 from hundreds to tens, and from tens to ones",996
+10,Select. True or False 343 + 287  = 807 - 177 : True False,TRUE,240,Y,"What is 343 + 287? And what is 807 - 177? Are they the same? ; 10 hundreds = 1 thousand, 10 tens = 1 hundred. 10 ones = 1 ten ; regrouping 1 from thousands to hundreds, from hundreds to tens, and from tens to ones",TRUE

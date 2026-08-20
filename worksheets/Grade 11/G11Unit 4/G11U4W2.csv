@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find all zeros of x^3-4x by factoring. Enter them in increasing order.,"-2,0,2",70,Y,Factor out x.|Then factor x^2-4.,"x(x-2)(x+2)=0, so the zeros are -2, 0, and 2."
+2,Find all zeros of x^3+2x^2-x-2 by grouping. Enter them in increasing order.,"-2,-1,1",70,Y,Group the first two and last two terms.|Factor (x+2)(x^2-1).,"The zeros are -2, -1, and 1."
+3,Find the zeros of 2x^3-8x^2. Enter them in increasing order.,"0,4",70,Y,Factor out 2x^2.|The factor x has multiplicity 2 but is listed once.,"2x^2(x-4)=0, so the zeros are 0 and 4."
+4,Solve (x-3)(x+1)>0. Write the solution using interval notation.,(-infinity -1) union (3 infinity)|x<-1 or x>3,70,Y,Mark the critical values -1 and 3.|The product is positive when both factors have the same sign.,The solution is x<-1 or x>3.
+5,Solve (x-2)(x+4)<0. Write the solution as an inequality.,-4<x<2,70,Y,The product changes sign at -4 and 2.|Test a value between the roots.,"The product is negative between the roots, so -4<x<2."
+6,Solve x(x-5)>=0.,x<=0 or x>=5|(-infinity 0] union [5 infinity),70,Y,Use critical values 0 and 5.|Include the roots because of the equality.,The solution is x<=0 or x>=5.
+7,For f(x)=(x+2)(x-1)(x-4) what is the sign of f(x) when x=0?,positive,70,Y,"Substitute x=0 into each factor.|The signs are positive, negative, and negative.",The product of one positive and two negatives is positive.
+8,For f(x)=x^2(x-3) what is the sign of f(x) for x>3?,positive,70,Y,Both x^2 and x-3 are positive there.|A product of positive factors is positive.,For x>3 the function is positive.
+9,Solve x^2-9<=0.,-3<=x<=3|[-3 3],70,Y,Factor as (x-3)(x+3).|The upward-opening quadratic is nonpositive between its roots.,The solution is -3<=x<=3.
+10,Why are zeros useful when solving a polynomial inequality?,they divide the number line into sign intervals|they mark where the sign can change|they create sign intervals,70,Y,A polynomial can change sign at a zero.|Use the zeros as test-interval boundaries.,Zeros divide the number line into intervals on which the sign can be tested.

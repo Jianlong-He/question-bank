@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A rectangular playground is 8 meters long and 11 meters wide. What is its area?,88,45,Y,Area equals length times width;Multiply 8 by 11,The area is 8 × 11 = 88 square meters.
+2,"A rectangular crate is 5 feet wide, 7 feet deep, and 9 feet high. What is its volume?",315,45,Y,"Volume equals width times depth times height;Multiply 5, 7, and 9",The volume is 5 × 7 × 9 = 315 cubic feet.
+3,An auditorium has 6 rows with 8 chairs in each row. How many chairs are there?,48,30,Y,Each row has the same number of chairs;Multiply rows by chairs per row,There are 6 × 8 = 48 chairs.
+4,Compute 4 × 15 × 5 using a convenient order.,300,45,Y,You may change the order of the factors;Try multiplying 4 and 5 first,4 × 15 × 5 = (4 × 5) × 15 = 20 × 15 = 300.
+5,A cube has side length 4 cm. What is its volume?,64,45,Y,"A cube has equal length, width, and height;Compute 4 × 4 × 4",The volume is 4 × 4 × 4 = 64 cubic centimeters.

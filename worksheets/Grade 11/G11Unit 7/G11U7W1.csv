@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Solve 1/x=1/5.,5,70,Y,Cross multiply.|The denominators are nonzero.,x=5.
+2,Solve 3/x=6/10.,5,70,Y,Cross multiply 30=6x.|Then divide by 6.,x=5.
+3,Solve 2/(x-1)=1/3.,7,70,Y,Cross multiply.|2(3)=x-1.,x=7.
+4,Solve 1/x+1/2=3/4.,4,70,Y,Subtract 1/2 from both sides.|Then 1/x=1/4.,x=4.
+5,Solve 2/x+3/x=1.,5,70,Y,Combine like rational expressions.|5/x=1.,x=5.
+6,What value is excluded from the domain of 4/(x+6)?,-6,70,Y,The denominator cannot equal zero.|Solve x+6=0.,The excluded value is -6.
+7,Solve (x+1)/(x-2)=2.,5,70,Y,Multiply both sides by x-2.|Then x+1=2x-4.,"x=5, which is not excluded."
+8,Find the inverse of f(x)=1/x for nonzero x.,f^(-1)(x)=1/x|1/x,70,Y,Swap x and y and solve.|The reciprocal function reverses itself.,The inverse is f^(-1)(x)=1/x.
+9,Find the inverse of f(x)=2/(x-3).,f^(-1)(x)=3+2/x|3+2/x,70,Y,"Write y=2/(x-3), swap x and y, then solve for y.|From x=2/(y-3), get y-3=2/x.",The inverse is f^(-1)(x)=3+2/x.
+10,Why must proposed rational-equation solutions be checked?,they may make a denominator zero|to reject excluded values|denominators cannot be zero,70,Y,Clearing denominators can hide restrictions.|Substitute into every original denominator.,A proposed value must be rejected if it makes any denominator zero.

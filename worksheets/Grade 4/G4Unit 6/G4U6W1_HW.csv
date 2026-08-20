@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select which of the following numbers is a multiple of 7?: 28, 35, 45, 63, 56","28, 35, 56, 63",60,N,,
+2,"Select which of the following numbers is a multiple of 15?: 30, 45, 48, 60, 80","30, 45, 60",60,N,,
+3,List ALL the factors of 48 from smallest to largest.,"1, 2, 3, 4, 6, 8, 12, 16, 24, 48",60,N,,
+4,"Select which numbers is a multiple of both 4 and 6?: 18, 24, 36, 42","24, 36",60,N,,
+5,"Select which numbers has both 3 and 9 as factors?: 12, 18, 27, 45","18, 27, 45",60,N,,

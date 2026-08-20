@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"You build 5 zero pairs, then add 4 negative tiles and 1 positive tile. What integer is represented?",-3,60,Y,"Zero pairs make zero; only unmatched tiles count.","4 negatives and 1 positive → -3."
+2,"Using integer chips, you combine (+9) with a group of chips representing -4 and then remove 3 negative tiles. What is the final value?",8,65,Y,"Start with 9 + (-4) = 5, removing negatives increases value.","5 + 3 = 8."
+3,"On a number line you start at -6, move right until reaching a point whose opposite is -3. Where do you stop?",3,70,Y,"The opposite of -3 is +3.","Move right from -6 to +3."
+4,"Without computing the exact value, determine the sign of the sum: (-8) + (-12) + (+5) + (+1).",-|negative|Negative,70,Y,"Compare total negatives vs positives.","Negatives total -20; positives total +6 → negative."
+5,"Using integer chips, evaluate (-15) − |-4|.",-19,75,Y,"Subtracting a negative adds a positive.","(-15) - |-4| = -15 - 4 = -19."
+6,"A diagram shows: 10 positive tiles, 3 negative tiles, and 4 zero pairs. What integer does this represent?",7,80,Y,"Zero pairs = 0.","10 - 3 = 7."
+7,"Graph mentally: Start at +2, move left 6, then move right 4. What is the final value?",0,80,Y,"Combine movements.","2 - 6 + 4 = 0."
+8,"Interpret the expression −(|−2| + |−7|).",-9,85,Y,"Absolute values first.","-(2 + 7) = -9."
+9,"Using integer chips, compute (+6) + the opposite of [(-11)].",17,85,Y,"Opposite of -11 is +11.","6 + 11 = 17."
+10,"Using a number line, evaluate (-9) + (+3) + the opposite of (-4).",-2,90,Y,"Opposite of -4 is +4.","-9 + 3 + 4 = -2."

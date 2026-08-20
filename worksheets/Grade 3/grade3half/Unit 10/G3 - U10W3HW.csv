@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A rectangle has length 8 units and width 4 units. What is its area?,32|32 square units,100,Y,Area = length x width,32 square units
+2,Why can we multiply length x width to find area of a rectangle? (A) It counts rows and columns (B) It measures height (C) It counts corners : A B C,A,100,Y,Think about rows of squares.,A -> Multiplying counts all the squares in the rows and columns.
+3,A rectangle has area 24 square units. One side is 6 units long. What is the other side?,4|4 units,100,Y,Area = length x width. Divide,4 units
+4,A rectangle has area 30 square units. One side is 5 units long. What is the other side?,6|6 units,100,Y,Area = length x width. Divide,6 units
+5,A square has area 36 square units. What is the length of each side?,6|6 units,100,Y,Area = length x width. Square has equal sides,6 units

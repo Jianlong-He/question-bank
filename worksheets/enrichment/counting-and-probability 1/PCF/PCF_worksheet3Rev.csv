@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Calculate 124 × 16 by breaking 16 into 10 + 6.,1984,60,Y,Compute 124 × 10 and 124 × 6;Add them,124 × 16 = 1240 + 744 = 1984.
+2,Calculate 58 × 24 by breaking 24 into 20 + 4.,1392,60,Y,Compute 58 × 20 and 58 × 4;Add the results,58 × 24 = 1160 + 232 = 1392.
+3,Calculate 205 × 13 by breaking 13 into 10 + 3.,2665,60,Y,Compute 205 × 10 and 205 × 3;Add the partial products,205 × 13 = 2050 + 615 = 2665.
+4,Calculate 84 × 15 by breaking 15 into 10 + 5.,1260,60,Y,Compute 84 × 10 and 84 × 5;Add them,84 × 15 = 840 + 420 = 1260.
+5,Expand and calculate (100 + 20 + 6)(30 + 4).,4284,90,Y,Use extended distribution;There should be six products,The factors are 126 and 34. The product is 3780 + 504 = 4284.

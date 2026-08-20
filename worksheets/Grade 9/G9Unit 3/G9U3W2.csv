@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A rectangular pool is 12 m long, 5 m wide, and 1.5 m deep. Use V = lwh to find its volume in cubic meters. Enter only the number.",90,70,Y,Multiply all three dimensions.,V = 12 × 5 × 1.5 = 90 cubic meters.
+2,Runner A travels 150 km in 3 hours. Runner B travels 180 km in 4 hours. Enter A or B for the faster runner.,A|a|Runner A|runner A|first,70,Y,Compute each distance-per-time rate.,"Runner A averages 50 km/h, while Runner B averages 45 km/h. Runner A is faster."
+3,A measurement is 12.347 cm. Report it to the nearest tenth of a centimeter.,12.3,60,Y,Look at the hundredths digit to round the tenths digit.,"The hundredths digit is 4, so the tenths digit stays 3. The reported measurement is 12.3 cm."
+4,A factory makes 480 toys in 8 hours at a constant rate. How many toys will it make in 5 hours?,300,70,Y,Find toys per hour first.,"480 ÷ 8 = 60 toys per hour. In 5 hours, it makes 60 × 5 = 300 toys."
+5,A road trip covers 360 miles at an average speed of 60 miles per hour. How many hours does the trip take?,6,65,Y,Time equals distance divided by speed.,360 miles ÷ 60 miles per hour = 6 hours.
+6,A medicine dosage is 5 milligrams per kilogram of body mass. What dose is needed for a child with mass 18 kilograms? Enter only the number of milligrams.,90,70,Y,Multiply the rate by the body mass.,5 mg/kg × 18 kg = 90 mg.
+7,Convert 2.4 liters to milliliters using 1000 milliliters = 1 liter. Enter only the number.,2400,65,Y,Multiply liters by 1000 milliliters per liter.,2.4 L × 1000 mL/L = 2400 mL.
+8,Use d = rt to find the distance traveled at 72 km/h for 2.5 hours. Enter only the number of kilometers.,180,70,Y,Multiply rate by time.,d = 72 × 2.5 = 180 kilometers.
+9,A car travels at 65 miles per hour for 30 minutes. How many miles does it travel?,32.5|65/2|32 1/2,75,Y,Convert 30 minutes to 0.5 hour.|Then use distance = rate × time.,30 minutes is 0.5 hour. The distance is 65 × 0.5 = 32.5 miles.
+10,"A recipe uses 3 cups of flour for 24 cookies. At the same rate, how many cups are needed for 60 cookies?",7.5|15/2|7 1/2,75,Y,"Find cups per cookie, or scale 24 cookies up to 60.","3/24 = 1/8 cup per cookie. For 60 cookies, 60 × 1/8 = 7.5 cups."

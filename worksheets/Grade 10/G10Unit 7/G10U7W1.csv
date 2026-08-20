@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,An exponential model starts at 200 and grows by factor 1.5 each period. Write the model after t periods.,A=200*1.5^t|200*1.5^t|A=200(1.5)^t,70,Y,Use initial value times growth factor to the time power.|The initial value is 200.,The model is A=200(1.5)^t.
+2,In P=80(1.2)^t what is the initial value?,80,70,Y,Set t=0.|Any nonzero base to power zero is 1.,P(0)=80.
+3,In P=80(1.2)^t what is the percent increase per period?,20%|20 percent|0.2,70,Y,Subtract 1 from the growth factor.|1.2-1=0.2.,The percent increase is 20%.
+4,A quantity begins at 500 and decreases by 8% per year. What is the decay factor?,0.92|92%,70,Y,Subtract the decay rate from 1.|1-0.08=0.92.,The decay factor is 0.92.
+5,Write a model for 500 decreasing by 8% each year for t years.,A=500*0.92^t|500*0.92^t|A=500(0.92)^t,70,Y,Use initial value times decay factor^t.|The decay factor is 0.92.,The model is A=500(0.92)^t.
+6,For A=100(2)^t find A when t=4.,1600,70,Y,Substitute t=4.|2^4=16.,A=100(16)=1600.
+7,A population doubles every 3 years. What is the growth factor for each 3-year period?,2,70,Y,Doubling means multiplying by two.|The period is already three years.,The factor is 2 per three-year period.
+8,A table has values 40 60 90 135. What is the common ratio?,1.5|3/2,70,Y,Divide each value by the previous value.|60/40=1.5.,The common ratio is 1.5.
+9,A model is exponential if equal input increases produce equal differences or equal ratios?,equal ratios|constant ratios|equal ratio,70,Y,Exponential change is multiplicative.|Compare consecutive outputs by division.,Equal input increases produce equal ratios.
+10,For Q=300(0.7)^t is the model growth or decay?,decay|exponential decay,70,Y,Compare the factor 0.7 with 1.|A positive factor below 1 decreases values.,The model represents exponential decay.

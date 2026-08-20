@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 2 + 3 =  __,5,80,Y,"Use tens frame; Count 2 dots, then add 3 more",5
+2,Fill: 5 - 2 =  __,3,80,Y,"Use tens frame; Count 5 dots, then remove 3 dots",3
+3,"You have 4 balls and got 2 more, how many balls now?",6,90,Y,Use tens frame; get = add,6
+4,Select. Which sentence shows addition? A) Add 5 more  B) Take away 2 balls : A B,A,100,Y,Addition = more,A
+5,"Select. Does this sentence mean subtraction?  ""I lost my pens."" : Yes No",Yes,100,Y,lose = subtract,Yes
+7,"Fill: 4 + 3 = __, and __ - 3 = 4","7, 7",120,Y,Relating addition and subtraction. 3 numbers can make two true statements,"7, 7"
+8,3 + 3 + 3 = ?,9,130,Y,"What is 3+3, then add 3",9
+9,You had 5 apples and got 5 more banans from your friend. How many fruits do you have now?,10,130,Y,Both apples and banans are fruits. It means addition,10
+10,"I have 10 pens, 6 of them are green pens, the rest of them are blue pens. How many blue pens I have?",4,140,Y,Substaction,4
+11,Mia had 10 stickers. She gave 4 to her friend and got 2 more. How many stickers does Mia have now?,8,160,Y,"give = substaction, get = addition ; First subtract 4, then add 2",8

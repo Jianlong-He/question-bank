@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: If you add 1 to 37, the ones place becomes  __",8,120,Y,,8
+2,"Fill: If you add 10 to 37, the tens place becomes  __",4,120,Y,,4
+3,What number is 10 less than 68?,58,130,Y,Relating addition and subtraction. 3 numbers can make two true statements,58
+4,"Fill: Fill in the missing number follow the pattern. 6, 16, 26, __, 46, __, 66, 76, __, 96","36, 56, 86",150,Y,Add 10 at each step,"36, 56, 86"
+5,"If you add 1 four times to 43, what number do you get?",47,150,Y,43 -> 44 -> 45 -> 46 -> ?,47
+6,"If you subtract 1 four times to 43, what number do you get?",39,150,Y,43 -> 42 -> 41 -> 40 -> ?,39
+7,Select. True or False. 97 + 10 = 100 : True False,FALSE,180,Y,Ones place stays the same,FALSE
+8,Fill: 34 + 3 + 10 - 5 - 10 = __,32,180,Y,What is 34 + 3? Keep going,32
+9,"Select. Fill in with <, > or =. 184 __ 168 : < > =",>,200,Y,The hundreds place is the same. Compare the tens place,>
+10,"A robot moves like this:  +10 for every big step,  -2 for every small step. If the robot starts at 57, takes 4 small steps and 5 big steps, where does the robot end?",99,220,Y,57 - 8 + 50 = __,99

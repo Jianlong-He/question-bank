@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the slope of the line passing through the points (1, 2) and (3, 6).",2,45,Y,Use the slope formula (y₂-y₁)/(x₂-x₁),(6-2)/(3-1) = 4/2 = 2.
+2,"A line passes through (2, 4) and has a slope of 2. What is its y-intercept?",0,45,Y,Substitute the point into y = mx + b,4 = 2(2) + b → b = 0.
+3,"A line passes through the points (1, 3) and (3, 7). What is the slope of the line?",2,45,Y,Find the change in y divided by the change in x,(7-3)/(3-1)=4/2=2.
+4,"A line passes through (2, 5) and has a slope of 2. What is its y-intercept?",1,45,Y,Use y = mx + b and substitute the point,5 = 2(2) + b → b = 1.
+5,A line is represented by y = 2x + 1. What is the value of y when x = 7?,15,45,Y,Substitute x = 7 into the equation,y = 2(7) + 1 = 14 + 1 = 15.
+6,What is the y-intercept of the line y = -2x + 5?,5,45,Y,Identify the constant term in y = mx + b,"In y = -2x + 5, the y-intercept (b) is 5."
+7,"The line y = -2x + 5 passes through (0, 5). Using the slope, what is the y-value when x = 2?",1,50,Y,Use the slope to find the new y by substituting x = 2,y = -2(2) + 5 = -4 + 5 = 1.
+8,"Find the slope of the line passing through the points (-2, 1) and (4, 4).",0.5,45,Y,Use the slope formula (y₂-y₁)/(x₂-x₁),(4-1)/(4-(-2)) = 3/6 = 0.5.
+9,"A line passes through (1, 5) and has a slope of -3. What is its y-intercept?",8,50,Y,Substitute the point into y = mx + b,5 = (-3)(1) + b → b = 8.
+10,Convert the equation 3x + 2y = 10 into slope-intercept form (y = mx + b). What is the slope?,-1.5,60,Y,Solve for y to isolate it on one side,3x + 2y = 10 → 2y = -3x + 10 → y = -1.5x + 5.

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,There are 5 tens blocks and 3 single blocks. What number do they make?,53,80,Y,"5 tens make what number, then add 3 ones",53
+2,"There are 6 hundreds, 4 tens and 9 ones. What number is shown?",649,80,Y,600 + 40 + 9,649
+3,"Fill: fill in the place value chart for 872,635. hundred thousands: __, ten thousands: __, thousands: __, hundreds: __, tens: __, ones: __","8,7,2,6,3,5",150,Y,"Write one digit in each black space. Start counting from right,what number is in ones? And so on.","8,7,2,6,3,5"
+4,"3 thousands blocks,  7 tens cblocks  and 1 single blocks. What number do they make?",3071,120,Y,"3000 + 70 + 1; No hundreds, what digit should you put in the hundreds place?",3071
+5,"You see 5 thousands blocks and 9 hundreds block, what number do they make?",5900,120,Y,"5000 + 900; No tens and no ones, what digit should you put in these two places?",5900
+6,"Select. The digit 2 in which following numbers is in the hundreds place? A) 286,717    B) 6,124    C) 21     D) 873,210 : A B C D",D,130,Y,"Look at the hundreds digit; Which one is the hundreds place, ones->tens->what are the following?",D
+7,"Select. What is the place value of 5 in 593,762? A) 5,000      B) 5      C)500       D) 500,000      E) 5,000,000      F) 50,000 : A B C D E F",D,150,Y,"Count from the right , ones -> tens -> what are the following?; The 5 is in the hundred-thousands place.; That means the 5 really stands for 500,000",D
+8,How many single blocks are in 4 tens blocks?,40,150,Y,Each tens block has 10 single blocks,40
+9,"Select. What value does 5 represent in the number 357,980?   A) 5,000      B) 5      C)500       D) 500,000      E) 5,000,000      F) 50,000 : A B C D E F",F,180,Y,"5 is in the ten thousands place, so 5 represents 5ten thousands, how can we write this as a number?",F
+10,How many tens are in the number 460?,6,200,Y,6 is in the tens place,6

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find: 8.1 - 2.6,5.5,60,Y,Subtract tenths; align decimals,5.5
+2,Find: 4.08 - 0.09,3.99,60,Y,Borrow 1 tenth to make $4.08$ into $3.98 + 0.10$,3.99
+3,Find: 6.25 - 3.7,2.55,60,Y,Pad 3.7 as 3.70; subtract,2.55
+4,Compute: 11.6 - 4.85,6.75,60,Y,Align decimals; borrow as needed,6.75
+5,A pool has 100.5 L. 12.75 L leaks out. Volume left?,87.75,60,Y,Pad with zeros; align and subtract carefully,87.75

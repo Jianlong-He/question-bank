@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A car travels 180 miles in 3 hours. What is its average rate in miles per hour? Enter only the number.,60,60,Y,Rate equals distance divided by time.,180 miles ÷ 3 hours = 60 miles per hour.
+2,Fuel efficiency compares distance traveled to fuel used. Enter the appropriate compound unit using words.,miles per gallon|mile per gallon|mi/gal|mpg,60,Y,Put distance in the numerator and fuel in the denominator.,A standard unit for fuel efficiency is miles per gallon.
+3,Twelve notebooks cost $30. What is the cost per notebook? Enter only the number.,2.5|2.50|5/2,65,Y,Divide the total cost by the number of notebooks.,$30 ÷ 12 = $2.50 per notebook.
+4,Convert 5 feet to inches using 12 inches = 1 foot. Enter only the number.,60,60,Y,Multiply by 12 inches per foot.,5 ft × 12 in/ft = 60 inches.
+5,Convert 3.5 hours to minutes. Enter only the number.,210,65,Y,Multiply by 60 minutes per hour.,3.5 h × 60 min/h = 210 minutes.
+6,A cyclist travels at 72 kilometers per hour. What is this rate in kilometers per minute?,1.2|6/5,70,Y,One hour contains 60 minutes.|Divide 72 by 60.,72 km/h ÷ 60 min/h = 1.2 km/min.
+7,A sample has mass 540 grams and volume 60 cubic centimeters. What is its density in grams per cubic centimeter?,9,70,Y,Density equals mass divided by volume.,540 g ÷ 60 cm³ = 9 g/cm³.
+8,"To estimate how much paint is needed for a wall, should you model the wall's area, perimeter, or volume?",area|Area,60,Y,Paint covers a two-dimensional surface.,The relevant quantity is the wall's area.
+9,A pump moves 24 liters of water in 6 minutes. What is the pumping rate in liters per minute?,4,60,Y,Divide liters by minutes.,24 L ÷ 6 min = 4 L/min.
+10,Convert 2.5 meters to centimeters using 100 centimeters = 1 meter. Enter only the number.,250,65,Y,Arrange the conversion factor so meters cancel.,2.5 m × 100 cm/m = 250 centimeters.

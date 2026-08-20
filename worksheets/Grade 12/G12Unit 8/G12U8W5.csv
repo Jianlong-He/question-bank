@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Write the expected-value formula for discrete X.,sum xP(x)|ΣxP(x),70,Y,Multiply each value by its probability.|Then add across all outcomes.,E(X)=sum xP(x).
+2,For X=0 with probability 0.4 and X=2 with probability 0.6 find E(X).,1.2,70,Y,Compute 0(0.4)+2(0.6).|Weight each value by its probability.,E(X)=1.2.
+3,Does expected value have to be a possible outcome? Enter Yes or No.,No|no|N|n,70,Y,It is a long-run average.|Averages can lie between possible values.,No. Expected value need not be an attainable single outcome.
+4,A game pays 10 dollars with probability 0.2 and 0 otherwise. Find expected payoff.,2,70,Y,Multiply each payoff by its probability.|Compute 10(0.2)+0(0.8).,The expected payoff is 2 dollars.
+5,The game costs 3 dollars to play and has expected payout 2 dollars. Find expected net gain for the player.,-1,70,Y,Subtract the ticket cost from expected payout.|Compute 2-3.,The expected net gain is -1 dollar.
+6,A lottery ticket has expected net value -0.50 dollars. Is it favorable to the player in the long run? Enter Yes or No.,No|no|N|n,70,Y,A negative expectation means average loss.|Interpret repeated play.,No. The player loses 0.50 dollars per ticket on average.
+7,A protection plan costs 100 dollars and has expected benefit 60 dollars. Find expected net value to the buyer.,-40,70,Y,Subtract cost from expected benefit.|Compute 60-100.,The expected net value is -40 dollars.
+8,What does expected value describe over many repetitions?,long-run average|average outcome in the long run|mean outcome,70,Y,It is not a prediction of one trial.|Think of total outcome divided by number of trials.,Expected value describes the long-run average outcome.
+9,A fair game has what expected net value?,0|zero,70,Y,Neither side has a long-run advantage.|Expected gains balance expected losses.,A fair game has expected net value 0.
+10,Outcomes -2 1 and 5 have probabilities 0.5 0.3 and 0.2. Find E(X).,0.3,70,Y,Compute each weighted value.|Add -2(0.5)+1(0.3)+5(0.2).,E(X)=-1+0.3+1=0.3.

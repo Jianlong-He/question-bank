@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A trapezoid has bases 6 and 10 and height 4. Find its area.,32,70,Y,Use A = (b1 + b2)h/2.|Add the bases before multiplying by the height.,A = (6 + 10)(4)/2 = 32 square units.
+2,A triangle on the coordinate plane has base 8 units and perpendicular height 5 units. Find its area.,20,70,Y,Use one half base times height.|Compute 8(5)/2.,The area is 20 square units.
+3,A rectangle has vertices (0 0) (7 0) (7 3) and (0 3). Find its area.,21,70,Y,Its side lengths are 7 and 3.|Multiply length by width.,The area is 7(3) = 21 square units.
+4,For the circle x^2 + y^2 = 25 what is the radius?,5,70,Y,The right side equals r^2.|Take the positive square root of 25.,The radius is 5.
+5,Does point (3 4) lie on the circle x^2 + y^2 = 25? Enter Yes or No.,Yes|yes|Y|y,70,Y,Substitute x = 3 and y = 4.|Compute 3^2 + 4^2.,3^2 + 4^2 = 9 + 16 = 25 so the point is on the circle.
+6,Is point (1 2) inside on or outside the circle x^2 + y^2 = 16?,inside|inside the circle,70,Y,Compare x^2 + y^2 with 16.|1^2 + 2^2 = 5.,Because 5 < 16 the point is inside the circle.
+7,Is point (5 0) inside on or outside the circle x^2 + y^2 = 16?,outside|outside the circle,70,Y,Compare x^2 + y^2 with 16.|5^2 + 0^2 = 25.,Because 25 > 16 the point is outside the circle.
+8,What is the center of the circle (x - 2)^2 + (y + 3)^2 = 49? Enter the center x-coordinate then y-coordinate.,"2,-3",70,Y,Use the form (x - h)^2 + (y - k)^2 = r^2.|Rewrite y + 3 as y - (-3).,The center is (2  -3).
+9,What is the radius of the circle (x + 1)^2 + (y - 4)^2 = 36?,6,70,Y,The right side is r^2.|Take the positive square root of 36.,The radius is 6.
+10,A wizard at the origin can reach points at most 10 units away. Can the wizard reach (6 8)? Enter Yes or No.,Yes|yes|Y|y,70,Y,Find the point's distance from the origin.|Compute sqrt(6^2 + 8^2).,The distance is sqrt(36 + 64) = 10 so the wizard can reach the point.

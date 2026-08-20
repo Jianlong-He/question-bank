@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: A square with side length 4 is dilated by a factor of $0.5$. What is the new side length?,2|2.0,85,Y,Multiply the original side length by the scale factor,$4 \cdot 0.5 = 2$.
+2,"Fill: Point $(0, 6)$ is dilated from the origin by a factor of $1/3$. What is the new y-coordinate?",2|2.0,80,Y,Multiply the y-coordinate by $1/3$,$6 \cdot (1/3) = 2$.
+3,Fill: Does a dilation with a scale factor of 1 change the size of the shape? (Yes/No),No|N|no,75,Y,Multiplying by 1 does not change the value,"Since every coordinate and side length is multiplied by 1, the shape remains exactly the same size (congruent)."
+4,Fill: A rectangle has a length of 5. It is dilated to a new length of 20. What is the scale factor?,4|4.0,90,Y,Divide the new length by the old length,$20 / 5 = 4$.
+5,"Fill: Dilate point $(3, 11)$ by scale factor 2 from the origin. What is the new x-value?",6|6.0,85,Y,Multiply x by the scale factor,$3 \cdot 2 = 6$.
+6,Fill: A dilation maps side length 9 to side length 36. What is the scale factor?,4|4.0,80,Y,Divide the new length by the old length,$36 / 9 = 4$.
+7,"Fill: Under a dilation with scale factor $k$, a segment of length 7 becomes 21. What is $k$?",3|3.0,70,Y,Compare the final length to the original,$21 / 7 = 3$.
+8,"Fill: A rectangle has sides 8 and 12. After a dilation by factor 5, what is the new length of the side that was originally 12?",60|60.0,90,Y,Multiply the original side by the scale factor,$12 \cdot 5 = 60$.
+9,"Select which ratio describes the scale factor of a dilation: ""Original / Image"" ""Image / Original"" ""Image + Original""","""Image / Original""",85,Y,The scale factor is what you multiply the original by to get the image,Scale factor $k = \text{Image length} / \text{Original length}$.
+10,Fill: Two shapes have proportional side lengths and equal internal angles. What is their relationship?,similar|Similar,75,Y,Think about the results of a dilation,"Because their sides scale proportionally and angles match, the shapes are similar."

@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: the correct symbol (>, <, or =): 5  __  3",>,300,Y,Compare ones,>
+2,"Fill: the correct symbol (>, <, or =): 14  __  21",<,300,Y, Compare tens,<
+3,"Fill: the correct symbol (>, <, or =): 34  __  35",<,300,Y, Compare ones,<
+4,"Fill: the correct symbol (>, <, or =): 367  __  456",<,300,Y,Compare hundreds,<
+5,"Fill: the correct symbol (>, <, or =): 745  __  744",>,300,Y,"Compare hundreds: both have 7, Compare tens: both have 4, Compare ones: 5 < 4? No, so 745 > 744",>
+6,"Fill: the correct symbol (>, <, or =): 40 + 9   __   5 tens 3 ones",<,300,Y,5 tens 3 ones = 53,<
+7,"Fill: the correct symbol (>, <, or =): 600 + 30 + 5  __  6 hundreds 5 tens 3 ones",<,300,Y,600 + 30 + 5 = 635;6 hundreds 5 tens 3 ones = 653,<
+8,"Fill: the correct symbol (>, <, or =): 713   __  7 hundreds 2 tens 3 ones",<,300,Y,Compare the tens,<
+9,A baker has 8 hundreds 8 tens 9 ones cookies. A candy store has 819. Who has more cookies? (baker or candy store),baker,300,Y,Baker: 8 hundreds 8 tens 9 ones = 889 cookies,baker
+10,"Fill: the correct symbol (>, <, or =): 7 hundreds 11 tens 8 ones  __  819. ",<,300,Y,7 hundreds 11 tens 8 ones = 818;818 < 819,<

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find 7^2.,49,45,Y,Write two factors of 7;Multiply,7^2 = 7 × 7 = 49.
+2,Find 4^3.,64,45,Y,Write three factors of 4;Multiply,4^3 = 4 × 4 × 4 = 64.
+3,Find 4!.,24,45,Y,Multiply all positive integers from 4 down to 1,4! = 4 × 3 × 2 × 1 = 24.
+4,"Find P(8,2).",56,45,Y,"Choose and order 2 objects from 8;Use 8 choices, then 7","P(8,2) = 8 × 7 = 56."
+5,In how many ways can the letters in CAT be arranged?,6|3!,45,Y,There are 3 distinct letters;Use 3!,The 3 distinct letters can be arranged in 3! = 6 ways.

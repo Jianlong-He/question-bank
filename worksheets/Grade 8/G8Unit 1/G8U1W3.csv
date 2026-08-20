@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: $(2 \cdot 10^3)(3 \cdot 10^4) = \_\_ \cdot 10^7$,6,30,Y,Multiply the coefficients first;$2 \cdot 3$;Add exponents for the powers of 10,Multiplying Scientific Notation
+2,Fill: Estimate $\sqrt{80}$ to the nearest whole number,9,25,Y,Find the closest perfect square;$9^2 = 81$ which is very close,Estimating Roots
+3,Fill: $\frac{8 \cdot 10^6}{2 \cdot 10^2} = 4 \cdot 10^{\_\_}$,4,30,Y,Divide the coefficients ($8/2$);Subtract the exponents ($6-2$),Dividing Scientific Notation
+4,Select the larger number: $3.4\cdot10^5$ $9.9\cdot10^4$,$3.4\cdot10^5$,20,Y,Look at the exponent (power of 10) first;$10^5$ is 10 times bigger than $10^4$,Comparing Scientific Notation
+5,Fill: Solve $x^2 = 144$ (positive solution),12,20,Y,Square root of 144;$12 \cdot 12 = 144$,Square Roots
+6,Fill: How many times larger is $4 \cdot 10^6$ than $2 \cdot 10^6$?,2,25,Y,Since exponents are the same just divide coefficients;$4 \div 2$,Magnitude Comparison
+7,Fill: Simplify $\frac{7^5}{7^5}$,1,20,Y,Subtract exponents to get $7^0$;Or a number divided by itself is 1,Quotient Rule Zero Exp
+8,Select all Perfect Cubes: 8 16 27 64 100,"8,27,64",30,Y,$2^3=8$;$3^3=27$;$4^3=64$;16 and 100 are perfect squares not cubes,Identifying Cubes
+9,Fill: Convert $1.2 \cdot 10^{-2}$ to standard decimal,0.012,25,Y,Negative exponent 2 means move decimal left 2 times;0.012,Scientific to Standard
+10,Fill: If $x^2 = \frac{1}{16}$ then $x = \frac{1}{\_\_}$ (positive),4,25,Y,Square root of top and bottom separately;$\sqrt{1} = 1$ and $\sqrt{16} = 4$,Fraction Roots

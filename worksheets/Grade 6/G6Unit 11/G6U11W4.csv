@@ -1,0 +1,12 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"What does ""average"" mean in statistics?  (A) The largest number in a data set.   (B) A number that represents the center or typical value of a data set.   (C) The difference between the largest and smallest numbers",B|b,100,N,,"B -> ""Average"" describes data using one number that represents the center (such as mean, median, or mode).",
+2,What is the arithmetic mean?   (A) The middle number in a data set.   (B) The number that appears most often.   (C)The sum of all numbers divided by the number of values,C|c,100,N,,C -> The arithmetic mean is found by adding all values and dividing by how many values there are.,
+3,"Find the mean. Data: 2, 4, 6",4,100,N,,(2 + 4 + 6) ÷ 3 = 4,
+4,"Find the median. Data: 5, 5, 6, 7, 8",6,100,N,,Middle of 5 numbers is the 3 ones order from smallest to largest which is 6,
+5,"Find the MODE. Data: 4, 25, 4, 60, 100, 25, 25, 7",25,100,Y,Which number appears most?,25 appears 3 times  -> most frequent -> mode is 25,
+6,"Find the mean. Data: 3, 12, 45, 7, 100, 23, 8, 56",31.75|127/4| 31 3/4,100,N,,Sum = 3+12+45+7+100+23+8+56 = 254. Mean = 254 ÷ 8 = 31.75,
+7,"Find the median. Data: 5, 42, 18, 9, 100, 27, 3, 60",22.5|45/2|22 1/2,100,Y,Order first,"Ordered: 3, 5, 9, 18, 27, 42, 60, 100. Middle = (18 + 27) ÷ 2 = 22.5",
+8,"Find the median. Data: 1, 7, 50, 300, 12, 8, 6, 20, 5",8,100,N,,"Ordered: 1, 5, 6, 7, 8, 12, 20, 50, 300. Middle = 8",
+9,"Compare mean vs median. Data: 1, 2, 3, 4, 5, 6, 7, 100 Which one has larger value?",mean|Mean|MEAN,100,N,,Mean = 16. Median = 4.5. Mean pulled up by 100. Median stays near center,
+10,"Find the median. Data: 3, 3, 10, 25, 40, 60, 60, 100",32.5|65/2|32 1/2,100,N,,Ordered first. Median = (25+40)/2 = 32.5,
+11,"Find the mode. Data: 3, 3, 10, 25, 40, 60, 60, 100","3, 60",100,N,,Modes = 3 and 60,

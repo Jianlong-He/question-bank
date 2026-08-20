@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A line has slope 1 and y-intercept 2. What is y when x = 4?,6,70,Y,Write y = x + 2.|Substitute x = 4.,y = 4 + 2 = 6.
+2,"A line passes through (0, -1) and (2, 5). Find its slope.",3,70,Y,Use change in y over change in x.|Compute (5 - (-1))/(2 - 0).,The slope is 6/2 = 3.
+3,"Write the slope-intercept equation with slope -2 through (3, 1).",y=-2x+7|y = -2x + 7,70,Y,"Use y = mx + b.|Substitute (3, 1) to find b.","1 = -2(3) + b, so b = 7 and y = -2x + 7."
+4,"Write the equation of the line through (1, 4) and (3, 10).",y=3x+1|y = 3x + 1,70,Y,First find the slope.|Then substitute either point to find b.,"The slope is 6/2 = 3. Using (1, 4), 4 = 3 + b, so b = 1."
+5,"A line has y-intercept -4 and passes through (2, 0). Find its slope.",2,70,Y,"Use the points (0, -4) and (2, 0).|Find rise over run.",The slope is (0 - (-4))/(2 - 0) = 4/2 = 2.
+6,"A line has slope 1/2 and passes through (4, 3). Find its y-intercept.",1,70,Y,Substitute into y = (1/2)x + b.|Solve 3 = 2 + b.,The y-intercept is b = 1.
+7,"A model contains (0, 12) and (5, 27). Write its equation.",y=3x+12|y = 3x + 12,70,Y,The first point gives the intercept.|Find the slope using both points.,"The slope is 15/5 = 3 and the intercept is 12, giving y = 3x + 12."
+8,Are y = 4x - 2 and y = 4x + 7 parallel? Enter Yes or No.,Yes|yes|Y|y,70,Y,Compare their slopes.|Different intercepts keep the lines distinct.,"Both slopes are 4 and the intercepts differ, so the lines are parallel."
+9,"A table contains (0, 6), (3, 0), and (6, -6). Write the equation.",y=-2x+6|y = -2x + 6,70,Y,Use the row with x = 0 for b.|The y-value falls 6 when x rises 3.,"The slope is -6/3 = -2 and b = 6, so y = -2x + 6."
+10,"A line through (-1, 5) has slope -3. Find its y-intercept.",2,70,Y,Substitute the point into y = -3x + b.|Solve 5 = 3 + b.,The y-intercept is b = 2.

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Using integer rules, evaluate |-12| − |-7| + (-3).",2,60,Y,"Subtracting a negative adds a positive.","|-12| = 12 and |-7| = 7. 12 - 7 - 3 = 5 - 3 = 2."
+2,"A diver is at -18 meters and moves another -(-9) meters vertically. Find his new depth. Enter only the number with no units.",-9,65,Y,"Subtracting a negative adds a positive.","-18 + 9 = -9."
+3,"Fill in the blank to make the equation true: ___ + (-14) = -3.",11,70,Y,"Add 14 to -3 to find the missing number.","-3 + 14 = 11."
+4,"Fill in the blank to make the equation true: (-6) + ___ = -19.",-13,70,Y,"Subtract -6 from -19 (which is adding 6).","-19 + 6 = -13."
+5,"Fill in the blank to make the equation true: 8 − ___ = -4.",12,75,Y,"Think: 8 minus what gives a negative number? The number must be larger than 8.","8 - 12 = -4."
+6,"Fill in the blank to make the equation true: (-15) − ___ = -5.",-10,80,Y,"Subtracting a negative is like adding. -15 plus what is -5?","-15 - (-10) = -15 + 10 = -5."
+7,"Evaluate the expression: |-4| − (-6).",10,80,Y,"Find the absolute value first, then subtract.","|-4| = 4. 4 - (-6) = 4 + 6 = 10."
+8,"Evaluate the expression: (-3) + (−(−8)).",5,85,Y,"The opposite of -8 is +8.","-3 + 8 = 5."
+9,"On a number line, a point is located 7 units to the right of -10. What is the number?",-3,85,Y,"Moving right means adding.","-10 + 7 = -3."
+10,"A point is 4 units left of -2 on a number line. What is the number?",-6,90,Y,"Moving left means subtracting.","-2 - 4 = -6."

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Find 8 + 6 (mod 5),4,50,Y,"""mod"" means the remainder after division",14÷5=2 r 4,
+2,Find 3 - 5 (mod 4),2,50,Y,"""mod"" means the remainder after division",3−5=−2; −2+4=2,
+3,Find 7 + 9 (mod 4),0,50,Y,"""mod"" means the remainder after division",16 ÷ 4 = 4 r 0,
+4,Find 15 + 11 (mod 6),2,50,N,,26 ÷ 6 = 4 r 2,
+5,Find 22 + 5 (mod 9),0,50,N,,27 ÷ 9 = 3 r 0,
+6,Find 4 - 7 (mod 5),2,50,Y,"If you get a negative number, add 5 until it becomes positive",4 - 7 = -3; -3 + 5 = 2,
+7,Find 2 - 10 (mod 3),1,50,Y,"If negative, add 3 until it’s between 0–2",2 - 10 = -8; -8 + 3 + 3 + 3 = 1,
+8,Find 1 - 5 (mod 8),4,50,Y,"If negative, add 8 until it’s between 0–7",1 - 5 = -4; -4 + 8 = 4,
+9,Find the number x between 0 and 5 such that (9 + x) mod 6 = 3,0,50,Y,Think: what number plus x gives remainder 3 when divided by 6?,9+x-6=3;3+x=3;x=0,
+10,Find the number x between 0 and 10 such that (50 - x) mod 11 = 4,2,50,Y,Think: what number minus x gives remainder 4 when divided by 11?,50 –x -4*11=4; 6-x=4;x=2,

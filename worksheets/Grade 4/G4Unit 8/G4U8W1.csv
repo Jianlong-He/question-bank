@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: Complete the decomposition: 3/5 = 1/5 +  __/5,2,90,Y,Subtract 3 - 1,2
+2,Fill: Complete the decomposition: 9/12 = 3/12 + 2/12 + __/12,4,90,Y,Add 3 + 2. Then subtract that value from 9,4
+3,Fill: Complete the decomposition: 12/15 = 3/15 + 6/15 + __/15,3,90,Y,Add 3 + 6. Then subtract that value from 12,3
+4,Fill: Complete the decomposition: 19/25 = 3/25 + 9/25 + 2/25 + __/25,5,90,Y,Add 3 + 9 + 2. Then subtract that value from 19,5
+5,Fill: 14/9 = 4/9 + 4/9 + 4/9 + __/9,2,90,Y,Count by 4s: 4 8 12... How much more to get to 14?,2
+6,Fill: Decompose 3/4 into unit fractions. 3/4 = 1/4 + 1/4 + __/4,1,45,Y,A unit fraction always has 1 as the numerator. You need three 1s to make 3.,1
+7,Select the decomposition of 10/12 that uses two EQUAL fractions:5/12+5/12 4/12+6/12 2/12+8/12,5/12+5/12,90,Y,Split the numerator 10 into two equal numbers.,5/12+5/12
+8,Fill: Decompose the mixed number 1 3/5 into unit fractions (1/5). How many 1/5s do you need in total?,8,300,Y,First convert 1 whole into 5/5. Then add the 3/5.,8
+9,Fill: Decompose the mixed number 2 3/4 into unit fractions (1/4). How many 1/4s do you need in total?,11,,,"First convert 2 wholes into 4/4 + 4/4, then add 3/4",11
+10,Select. Decompose 12/20 into two fractions. The first numerator is 4 more than the second numerator. What is the first numerator?:8 10 12,8,300,Y,Find two numbers that add up to 12 and have a difference of 4.,8

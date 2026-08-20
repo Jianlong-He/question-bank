@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
+1,Fill:The length of the pencil is __ inches.,4,300,N,,4,https://i.ibb.co/V4Dk94n/i1.jpg
+2,Fill:The length of the book is __ centimeters.,10,300,N,,10,https://i.ibb.co/5h0L4zGF/i2.jpg
+3,Fill:The length of the book is __ centimeters.,8,300,N,,8,https://i.ibb.co/zW0zYwTs/i3.jpg
+4,Fill: The width of the rectangle is ____ meters.,3,300,N,,3,https://i.ibb.co/3Y780vk1/i4.jpg
+5,"Fill:Three objects are shown on an inch ruler: a crayon, a pencil, and an eraser. The crayon is ____ inches long. The pencil is ____ inches long. The eraser is ____ inches long. What is the total length of all three objects together? ____ inches","3,5,2,10",300,N,,"3,5,2,10",https://i.ibb.co/r25sgDjT/i5.jpg
+6,Select.A pencil is measured as 8 small paperclips long AND 16 centimeters long. Which unit of measure is longer?:One-paperclip One-centimeter,One-paperclip,300,N,,One-paperclip,
+7, Select.A book is measured as 20 small paperclips long AND 15 centimeters long.Which unit of measure is longer?: One-paperclip One-centimeter,One-centimeter,300,N,,One-centimeter,
+8,Select.A book is measured as 4 jumbo paperclips long AND 10 centimeters long. Which unit of measure is longer?:One-jumbo-paperclip One-centimeter,One-jumbo-paperclip,300,N,,One-jumbo-paperclip,
+9,Select.The length of a rectangle is measured as 10 small paperclips long AND 8 centimeters long. Which unit of measure is longer?:One-paperclip One-centimeter,One-centimeter,300,N,,One-centimeter,
+10,Select which paperclip size is bigger? A pencil is 10 inches long. It measures 5  blue paperclips long. A book is 10 inches long. It measures 2 red paperclips long.:Blue Red ,Red,300,Y,Both are 10 inches. Fewer paperclips means bigger paperclips.,Red,

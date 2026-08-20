@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
+1,This rectangle is divided into rows and columns. How many rows are there?,3|three,300,Y,Count the horizontal lines (rows),3,https://i.ibb.co/v4FHbcz4/i1.jpg
+2,This rectangle is divided into rows and columns. How many columns?,4|four,300,Y,Count the vertical lines (columns),4,https://i.ibb.co/B5k9Pnxh/i2.jpg
+3,A rectangle is partitioned into 3 rows and 6 columns. How many total same-sized squares are there?,18,300,N,,18,https://i.ibb.co/WpF3b7sY/i3.jpg
+4,"Select which rectangles are partitioned into equal, same-size squares?: A B C D","A,C",300,Y,Look for rectangles where all squares are the same size,"A,C",https://i.ibb.co/4g8K0wBR/i4.jpg
+5,A rectangle is partitioned into 3 rows and 4 columns. How many total same-sized squares are there?,12,300,N,,12,https://i.ibb.co/HT0ppxWv/i5.jpg
+6,Fill: This rectangle has __ rows and __ columns. The total number of same-sized squares is __.,"3,4,12",300,Y,Count horizontal rows. Count vertical columns. Multiply rows and columns to find the total squares,"3,4,12",https://i.ibb.co/VYLG5sk4/i6.jpg
+7,Maya splits the following rectangle into 4 rows and 5 columns. How many total same-sized squares did Maya make?,20,300,N,,20,https://i.ibb.co/CszqCj7q/i7.jpg
+8,A rectangle has 5 columns with 3 squares in each column. How many same-sized squares are there?,15,300,N,,15,
+9,Select which rectangle has MORE total same-sized squares. Rectangle A is divided into 3 rows and 5 columns of same-sized squares. Rectangle B is divided into 4 rows and 4 columns of same-sized squares. Which rectangle has MORE?:A B,B,300,N,,B,
+10,Select which rectangle is split into 4 rows with 4 columns of same-size squares:A B C,B,300,N,,B,https://i.ibb.co/M5KgGH16/i10.jpg

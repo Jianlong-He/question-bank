@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select all rational numbers: $\sqrt{4}$ $\pi$ $0.\overline{3}$ $\sqrt{2}$ $-5$ $\frac{1}{2}$,"$\sqrt{4}$,$0.\overline{3}$,$-5$,$\frac{1}{2}$",20,Y,Rational numbers can be fractions like $\frac{a}{b}$;Integers and repeating decimals ($0.\overline{3}$) are rational;$\pi$ and non-perfect roots are irrational,Rational vs Irrational
+2,What is the positive square root of 64?||Evaluate $\sqrt{64}$||Find $x$ if $x^2=64$ ($x>0$),8,15,Y,What number times itself is 64?;$8 \cdot 8 = 64$,Square Roots
+3,Fill: $2^3 \cdot 2^4 = 2^{\_\_}$,7,20,Y,When multiplying like bases add the exponents;$3 + 4$,Exponent Product Rule
+4,Convert $\frac{3}{4}$ to a decimal||What is $3 \div 4$?,0.75,20,Y,Think of 3 quarters in money;3 divided by 4 is less than 1,Fractions to Decimals
+5,Fill: $5^{-2} = \frac{1}{\_\_}$,25,25,Y,Negative exponents flip the base to the denominator;The value is $\frac{1}{5^2}$,Negative Exponents
+6,Solve for $x$: $x^3 = 27$||What is $\sqrt[3]{27}$?,3,25,Y,What number multiplied by itself 3 times equals 27?;$3 \cdot 3 \cdot 3$,Cube Roots
+7,Fill: $3.2 \times 10^3 = \_\_$,3200,30,Y,Move the decimal point 3 places to the right;$3.2 \rightarrow 32 \rightarrow 320 \dots$,Scientific to Standard
+8,Fill: Simplify $\frac{4^7}{4^4} = 4^{\_\_}$,3,20,Y,"When dividing like bases, subtract the exponents;$7 - 4$",Exponent Quotient Rule
+9,Fill: $(2^3)^4 = 2^{\_\_}$,12,30,Y,Power of a power means multiply the exponents;$3 \cdot 4$,Exponent Power Rule
+10,Select the integer closest to $\sqrt{50}$: 5 6 7 8 9,7,30,Y,$7^2 = 49$;$8^2 = 64$;50 is much closer to 49 than 64,Approximating Irrationals

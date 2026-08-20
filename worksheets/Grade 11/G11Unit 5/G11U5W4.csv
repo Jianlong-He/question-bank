@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Use change of base to write log base 2 of 7 using natural logarithms.,ln(7)/ln(2)|ln 7/ln 2,70,Y,Use log_b(a)=ln(a)/ln(b).|The argument goes in the numerator.,log base 2 of 7=ln(7)/ln(2).
+2,Approximate log base 2 of 7 to three decimal places.,2.807,70,Y,Use ln(7)/ln(2).|The quotient is about 2.80735.,Rounded to three decimals the value is 2.807.
+3,Solve 2^x=32.,5,70,Y,Write 32 as a power of 2.|32=2^5.,Equal bases give x=5.
+4,Solve 3^x=20. Give x as an exact logarithmic expression.,ln(20)/ln(3)|log(20)/log(3),70,Y,Take a logarithm of both sides.|Use change of base.,The exact solution is x=ln(20)/ln(3).
+5,Solve e^(2x)=9. Give x as an exact logarithmic expression.,ln(9)/2|0.5ln(9),70,Y,Take natural log of both sides.|Then solve 2x=ln(9).,The solution is x=ln(9)/2.
+6,A medication amount follows M=200(0.5)^(t/6). How much remains after 12 hours?,50|50 mg,70,Y,Twelve hours is two half-lives.|Compute 200(0.5)^2.,The amount is 50 mg.
+7,A bacteria population follows P=300(1.4)^t. Find P after 3 hours.,823.2,70,Y,Substitute t=3.|Compute 300(1.4)^3.,The population is 823.2.
+8,A population doubles every 5 years and starts at 800. Write its model after t years.,P=800*2^(t/5)|800*2^(t/5)|P=800(2)^(t/5),70,Y,The exponent counts five-year periods.|There are t/5 doubling periods.,The model is P=800(2)^(t/5).
+9,A quantity follows Q=500e^(-0.3t). What percent of the initial quantity remains when t=2? Round to one decimal percent.,54.9%|54.9 percent,70,Y,Compute e^(-0.6).|Convert the decimal to a percent.,"e^(-0.6) is about 0.5488, so 54.9% remains."
+10,Which logarithm property allows a calculator to evaluate a logarithm with any valid base?,change of base|change-of-base formula|change of base formula,70,Y,Rewrite the logarithm using common or natural logs.|Use log_b(a)=log(a)/log(b).,The change-of-base formula allows evaluation with any valid base.

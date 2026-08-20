@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select. If 2a+by=1, what can be said about y? Take a, b, and y to be integers. (A) y must be odd (B) y must be even (C) y must be 1 (D) Nothing can be concluded: A B C D",A,600,Y,"2a is even, so by must be odd to make the total 1.",A
+2,"Select. If 2a+by=1, what can be said about b? Take a, b, and y to be integers. (A) b must be odd (B) b must be even (C) b must be 1 (D) Nothing can be concluded:A B C D",A,600,Y,"2a is even, so by must be odd to make the total 1.",A
+3,"Select. If 2a+by=1, what can be said about a? Take a, b, and y to be integers. (A) a must be odd (B) a must be even (C) a has no restriction (D) a must be 1:A B C D",C,600,Y,"The term 2a is always even, no matter what integer a is.",C
+4,"Select all that are true. Noting that 3*3+4*(-2)=1, which statements are true? A) 3 is the inverse of 3 (mod 4), B) 2 is the inverse of 4 (mod 3), C) 3 is the inverse of 3 (mod 2):A B C ",A,600,Y,Check which product leaves remainder 1 in the stated modulus.,A
+5,"Select all that are true. If d=gcd(a,b), which statements are always true? A) gcd(da,db)=1, B) gcd(a/d,b)=1, C) gcd(a/d,b/d)=1.:A B C",C,600,N,,C
+6,"True or False: If a=b*q+1, then gcd(a,b)=1.",TRUE,600,N,,TRUE
+7,"Fill: Using the Bezout identity 123(-2) + 19(13) = 1, the inverse of 19 (mod 123) is ___.",13,600,N,,13
+8,"Fill: 7 and 8 are coprime. (a) Find x and y with y>0 so that 7x+8y=1: x=___, y=___. (b) Find x and y with x>0 so that 7x+8y=1: x=___, y=___. (c) The inverse of 7 (mod 8) is ___.","-1,1,7,-6,7",600,Y,Use your knowledge of multiplication for parts a) and b).,"-1,1,7,-6,7"
+9,Fill: A post office only sells 31-cent stamps and 20-cent stamps. Can you make exactly $2.04? Yes/No = ___. Number of 31-cent stamps = ___. Number of 20-cent stamps = ___.,"Yes,4,4",600,Y,Adding twenty 31cent stamps at the same time as subtracting thirty-one 20 cent stamps does not change the total,"Yes,4,4"
+10,"Fill: If a divides bc and gcd(a,b)=1, use Bezout's Identity to prove a divides c. Since gcd(a,b)=1, ax+by=___. Multiplying by c gives acx+bcy=___. Therefore a divides ___.","1,c,c",600,N,,"1,c,c"

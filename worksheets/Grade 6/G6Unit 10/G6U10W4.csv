@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Select. Which of the following is a polyhedron?: Sphere Cube Cylinder,Cube,100,Y,Must have flat faces and straight edges,"Sphere → curved surface, Cylinder → curved surface, Cube → flat faces + straight edges",
+2,A pyramid has a rectangular base. What is it called?,rectangular pyramid|Rectangular Pyramid|Rectangular pyramid,100,Y,Name comes from the base shape,Rectangular base → rectangular pyramid,
+3,A cube net has 6 squares. How many faces does the cube have?,6,100,Y,How many faces does the cube have?,Each square = one face. Total = 6 faces,
+4,"A triangle has: base = 14, height = 13. What is the area?",91,100,Y,Recall triangle area formula,Triangle area = 1/2 × base × height = (1/2) x 14 x 13 = 91,
+5,"A rectangle has: length = 16, width = 18. What is the area?",288,100,Y,Recall rectangle area formula,Rectangle area = base × height = 16 x 18 = 288,
+6,"A shape has: 2 triangles (24 each), 2 rectangles (160 each) and 1 base (96).What is total surface area?",464,100,N,,Total surface area = 24*2 + 160*2 + 96 = 464,https://i.ibb.co/v4w8Z5d0/G6-U10-W4-Q6.png
+7,What is the surface area of the above net?,72,100,N,,Total surface area = (3x2 + 2x6 + 3x6) x 2 = 72,https://i.ibb.co/fG2FdfTm/G6-U10-W4-Q7.png
+8,A cube has side length 3 cm. What is the surface area?,54|54 cm²,100,Y,First find out how many faces in total. Then get the area of each face,"Each face: 3 x 3 = 9, there are 6 faces, 6 x 9 = 54. Surface area = 54 cm²",
+9,Select. Look at the net shown above. Which prism will this net form when folded?: triangle-prism rectangle-prism pentagongal-prism square-prism,pentagongal-prism,100,Y,Count the shape of the two matching ends (bases),The base shape tells you the name of the prism! -> pentagongal-prism,https://i.ibb.co/gbzcbHhR/G6-U10-W4-Q9.png
+10,What is the surface area of the above net?,160,100,N,,Total surface area = (2x5 + 2x10 + 5x10) x 2 = 160,https://i.ibb.co/CK32405T/G6-U10-W4-Q10.png

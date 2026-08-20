@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is 3 * 5/25? ( / is the division sign and * is the multiplication sign) ,15/25|3/5,300,Y,Multiply 3 by 5.The denominator 25 stays the same;3 times 5 is 15,15/25
+2,What is 11 * 4/55? ,44/55|4/5,300,Y,Multiply 11 by 4.The denominator 55 stays the same;11 times 4 is 44,44/55
+3,Complete the equation: 9/45 = ____ * 1/45,9,300,Y,How many 1/45s are in 9/45?,9
+4,Complete the equation: 12/23 = ____ * 3/23,4,300,Y,How many 3/23s are in 12/23?,4
+5,Find the missing whole number: ____ * 4/20 = 28/20,7,300,Y,What number times 4 equals 28? Divide 28 by 4. 7 * 4= 28,7
+6,Find the missing numerator: 6*?/100 = 30/100,5,300,Y,6 times what number equals 30? Divide 30 by 6;The missing numerator is 5,5
+7,Select Which value is larger:5*3/17 14/17 ,5*3/17,600,Y, 15/17 is larger than 14/17,5*3/17
+8,Select which equation(s) results in 24/29:6*4/29 5*5/29 3*7/29 2*10/29 8*3/29,"6*4/29,8*3/29",600,Y,Check 6 * 4 = 24.;Check 8*3=24,"6*4/29,8*3/29"
+9,Calculate the product of 8 and 3/10. ( Write your answer as an improper fraction.),24/10|12/5,600,Y,Multiply the whole number 8 by the numerator 3;8 * 3 = 24;The denominator remains 10,24/10
+10,Select.Is 5 * 7/9 less than 40/9?:Yes No,Yes,300,Y,Calculate 5 * 7.The product is 35/9;Compare 35/9 and 40/9,Yes

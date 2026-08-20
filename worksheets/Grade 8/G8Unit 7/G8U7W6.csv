@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A scatter plot shows that as hours of sleep increase, test errors decrease. What type of correlation is this?",negative|Negative,85,Y,Think about the opposite directions of the variables,"Because one variable goes up while the other goes down, this is a negative correlation."
+2,"Fill: A best-fit line is $y = 6x - 4$. If a point has $x = 3$, what should $y$ be according to the model?",14|14.0,80,Y,Substitute x into the equation,$y = 6(3) - 4 = 18 - 4 = 14$.
+3,"Fill: In a scatter plot, points form no clear upward or downward pattern. What is the correlation?",none|None|0,75,Y,"If there is no pattern, the variables do not affect each other",A random cloud of points means there is no correlation.
+4,"Fill: A regression line predicts 72 when $x = 8$. If the actual data point is 76, what is the residual?",4|4.0,90,Y,$\text{Residual} = \text{Actual value} - \text{Predicted value}$,$\text{Residual} = 76 - 72 = 4$.
+5,"Fill: A class survey shows: 15 students own a pet, 25 do not. How many students were surveyed?",40|40.0,85,Y,Add the totals together,$15 + 25 = 40$.
+6,"Fill: A two-way table shows: 18 students like math, 12 like science, and 5 like both. How many like ONLY math?",13|13.0,80,Y,Subtract the intersection (both) from the total who like math,The 18 who like math include the 5 who also like science. $18 - 5 = 13$ like ONLY math.
+7,Fill: A regression line is $y = 5x + 2$. What is the predicted value of $y$ when $x = 3$?,17|17.0,70,Y,Substitute x into the equation,$y = 5(3) + 2 = 15 + 2 = 17$.
+8,"Fill: A scatter plot shows the points $(2, 6)$, $(4, 10)$, $(6, 14)$. What is the slope of the line through them?",2|2.0,90,Y,Use the slope formula: $\text{rise} / \text{run}$,$\text{Slope} = (10 - 6) / (4 - 2) = 4 / 2 = 2$.
+9,"Fill: A table has 60 students. 24 play sports, 18 are in band, and 10 do both. How many do neither?",28|28.0,85,Y,"Find how many do at least one activity, then subtract from the total",At least one: $24 + 18 - 10 = 32$. Neither: $60 - 32 = 28$.
+10,"Fill: A trend line has slope 2. As x increases, y will \_\_\_\_\_ (increase/decrease).",increase|Increase,75,Y,A positive slope means the line goes upwards,"Because the slope is positive, as $x$ gets larger, $y$ also gets larger (increases)."

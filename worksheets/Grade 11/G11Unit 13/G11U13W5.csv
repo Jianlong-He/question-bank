@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Multiply (2/x)(3/x).,6/x^2,70,Y,Multiply numerators and denominators.|Combine x times x as x^2.,The product is 6/x^2.
+2,Multiply (x/4)(8/x).,2,70,Y,Cancel the common factor x.|Reduce 8/4.,The product simplifies to 2 for x not equal to 0.
+3,Multiply ((x+2)/3)(6/(x+2)).,2,70,Y,Cancel the common factor x+2.|Reduce 6/3.,The product is 2 for x not equal to -2.
+4,Multiply (x^2-9)/(x+3) by 1/x.,(x-3)/x|x-3 over x,70,Y,Factor x^2-9.|Cancel the factor x+3.,The product simplifies to (x-3)/x.
+5,Divide (3/x) by (6/x).,1/2,70,Y,Multiply by the reciprocal of the divisor.|Compute (3/x)(x/6).,The quotient is 1/2 for x not equal to 0.
+6,Divide (x/5) by (2x/15).,3/2|1.5,70,Y,Multiply by 15/(2x).|Cancel x and reduce 15/5.,The quotient is 3/2 for x not equal to 0.
+7,What operation replaces division by a rational expression?,multiplication by its reciprocal|multiply by the reciprocal|multiplying by the reciprocal,70,Y,Use the keep-change-flip idea.|Invert the divisor then multiply.,Division is replaced by multiplication by the reciprocal.
+8,Simplify ((x^2-4)/(x^2-x-6))((x-3)/(x+2)).,(x-2)/(x+2)|x-2 over x+2,70,Y,Factor both quadratics.|x^2-4=(x-2)(x+2) and x^2-x-6=(x-3)(x+2).,Cancel x-3 and one x+2 to obtain (x-2)/(x+2).
+9,Before multiplying rational expressions what should be done to each polynomial when possible?,factor it|factor|factor completely,70,Y,Factoring exposes common factors.|Only factors can be canceled.,Factor each polynomial completely before canceling and multiplying.
+10,Can a factor canceled during simplification be removed from the original domain restrictions? Enter Yes or No.,No|no|N|n,70,Y,Restrictions come from the original denominators.|Cancellation does not redefine the original expression.,No. Original excluded values remain excluded.

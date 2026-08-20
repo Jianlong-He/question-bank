@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,If lim f(x)=3 and lim g(x)=5 find lim(f(x)+g(x)).,8,70,Y,Use the sum law.|Add the individual limits.,The limit is 3+5=8.
+2,If lim f(x)=3 and lim g(x)=5 find lim(f(x)g(x)).,15,70,Y,Use the product law.|Multiply the individual limits.,The limit is 3*5=15.
+3,If lim f(x)=3 and lim g(x)=5 find lim f(x)/g(x).,3/5|0.6,70,Y,Use the quotient law.|The denominator limit is nonzero.,The limit is 3/5.
+4,If lim f(x)=4 find lim 7f(x).,28,70,Y,Constants factor out of limits.|Multiply 7 by 4.,The limit is 28.
+5,What condition is required to use the quotient limit law?,denominator limit is not zero|limit of denominator is nonzero|nonzero denominator limit,70,Y,Division by zero is undefined.|Check the limiting denominator value.,The denominator's limit must be nonzero.
+6,If lim g(x)=2 and f is continuous at 2 what is lim f(g(x))?,f(2),70,Y,Use the composite-function limit theorem.|Pass the inner limit into the continuous outer function.,The limit is f(2).
+7,Why can a composite-limit theorem fail when the outer function is discontinuous at the inner limit?,the outer limit may not equal the function value|continuity condition is not met|f is discontinuous there,70,Y,The theorem needs continuity or matching limiting behavior.|Directly inserting the inner limit may be invalid.,The outer discontinuity can prevent substitution of the inner limit.
+8,If the inner limit does not exist can the composite limit still sometimes exist? Enter Yes or No.,Yes|yes|Y|y,70,Y,Different inner approaches may map to the same outer value.|The general theorem is sufficient but not necessary.,Yes. Special outer-function behavior can still produce a limit.
+9,If lim f(x)=2 find lim (f(x))^3.,8,70,Y,Use the power law.|Cube the limit value.,The limit is 2^3=8.
+10,If lim f(x)=9 find lim (f(x))^(1/2) assuming positive nearby values.,3,70,Y,Use continuity of the square-root function.|Take the square root of 9.,The limit is 3.

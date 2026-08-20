@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select the pair of variables that likely has a POSITIVE association: ""Height and Shoe Size"" ""Time spent gaming and Grades"" ""Eye color and IQ""","""Height and Shoe Size""",20,Y,"Positive means as one increases, the other also increases;Taller people usually have larger feet",Positive Association
+2,"Fill: Calculate the slope of the line passing through $(1, 2)$ and $(3, 8)$. $m = \frac{y_2-y_1}{x_2-x_1} = \_\_$",3,40,Y,Change in $y$ is $8-2=6$;Change in $x$ is $3-1=2$;Divide 6 by 2,Slope Formula
+3,"Select the description for a scatter plot with points scattered randomly everywhere: Linear Nonlinear ""No Association""","""No Association""",20,Y,"If there is no pattern or trend line, there is no association;It looks like a cloud of dots",No Association
+4,"Fill: In a survey of 100 students, 60 like Pizza. How many do NOT like Pizza?",40,60,Y,Subtract the number who like it from the total;100 minus 60,Two-Way Table Logic
+5,Which equation models a savings account starting at $\$50$ and growing by $\$10$ per week? $y=10x+50$ $y=50x+10$ $y=10x$,$y=10x+50$,60,Y,The starting amount is the y-intercept (alone);The rate (10) is the slope (attached to x),Linear Modeling
+6,True or False: A scatter plot showing a curved pattern is considered Linear. (True/False),False,60,Y,Linear strictly means a straight line;Curved patterns are non-linear,Linear vs Nonlinear
+7,"Fill: Using the model $y = -2x + 20$, predict $y$ when $x = 3$.",14,30,Y,Substitute 3 for x;Multiply -2 by 3 first;Then add 20,Substitution Prediction
+8,"Fill: In a row of 50 people, 10 are Left-Handed. The relative frequency is $\_\_\%$.",20,60,Y,Divide part by whole: $10/50$;Convert $0.2$ to a percentage,Relative Frequency
+9,"Select the meaning of the slope in a graph of Pay ($y$) vs Hours Worked ($x$): ""Hourly Wage"" ""Total Pay"" ""Starting Bonus""","""Hourly Wage""",25,Y,Slope is a rate of change;It represents dollars per hour,Contextual Slope
+10,Fill: A group of points packed closely together on a scatter plot is called a $\_\_$.,cluster,60,Y,It is not an outlier (which is far away);It sounds like a 'bunch' or 'group',Clusters

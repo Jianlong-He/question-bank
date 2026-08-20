@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select which multiplication property is used. Given 8 x 7 = 54, I solve 7 x 8 by 7 x 8 = 8 x 7 = 54  : Commutative Distributive",Commutative,80,Y,Which property says you can flip the numbers and the answer stays the same.,Commutative
+2,"Select which multiplication property is used. Given 8 x 10 = 54 and 8 x 1 = 8, I solve 8 x 11 by 8 x (10 + 1) = 80 + 8 = 88  : Commutative Distributive",Distributive,80,Y,Which property lets you break numbers apart (like 11 into 10 + 1).,Distributive
+3,Fill in the missing numbers so both sides are equal: 3 x 8 = 8 x __ = __,"3, 24",90,Y,"Use the commutative property: flip the numbers, same product.","3, 24"
+4,Fill in the missing numbers so both sides are equal: 6 x 9 = 9 x __ = 54,6,100,Y,"Use the commutative property: flip the numbers, same product.",6
+5,"Select. Amy says, ""Order matters in multiplication because 2 x 6 looks different from 6 x 2.""  Is it True or False?  : True False",FALSE,100,Y,Think about whether 2 x  6 and 6 x 2 give the same total.,FALSE
+6,Fill: 5 x 12 = 5 x (10 + 2) = 5 x 10 + 5 x __ = 50 + __ = __,"2, 10, 60",120,Y,"Distribution property of multiplication ; Break 12 into 10 and 2, then multiply separately.","2, 10, 60"
+7,Fill: 6 x 9 = 6 x (10 - 1) = 6 x __ - 6 x 1 = __ - 6 = __,"10, 60, 54",120,Y,"Distribution property of multiplication ; Break 9 as 10 x 1, then multiply each part.","10, 60, 54"
+8,"If 8 x 10 = 80, 8 x 1 = 8, what is 8 x 9?",72,150,Y,Distribution property of multiplication; Think: 8 x 9 is one group of 8 less than 8 x 10. 8 x 9 = 8 x (10 - 1) = 80 - 8= ?,72
+9,"If 8 x 10 = 80, 8 x 3 = 24, what is 8 x 13?",104,160,Y,Distribution property of multiplication; Think: 8 x 13 is 3 group of 8 more than 8  x 10. 8 x 13 = 8 x (10 + 3) = 80 + 24 = ?,104
+10,"If 12 x 10 = 120, 10 x 4 = 40, 2 x 4 = 8, what is 12 x 14?",168,200,Y,Distribution property of multiplication; Using the given facts to help you. 12 x 14 = 12 x (10 + 4) = 120 + 12 x 4 = 120 + (10 + 2) x 4 = 120 + 40 + 8 = 168,168

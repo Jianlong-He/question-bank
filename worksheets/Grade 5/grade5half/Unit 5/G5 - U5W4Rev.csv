@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Solve using long division: 177 ÷ 3. What is f in the division and what is the final value?,"9, 59",240,Y,Divide digit by digit from left to right. Bring down one digit at a time and divide.,"9, 59",https://i.ibb.co/rG9zhWM2/image.png
+2,"Solve using long division: 1218 ÷ 7. What is a, b, c in the division and what is the final value?","7, 9, 2, 174",240,Y,Divide digit by digit from left to right. Bring down one digit at a time and divide.,"7, 9, 2, 174",https://i.ibb.co/mrp4fJn6/image.png
+3,Find the quotient on your own using long divison for 676 ÷ 4.,169,240,Y,Divide digit by digit from left to right. Bring down one digit at a time and divide.,169,
+4,Find the quotient and remainder on your own using long divison for 567 ÷ 8.,"70, 7",240,Y,Stop when no digits are left. The leftover is the remainder.,"70, 7",
+5,A school has 3425 pencil cases they want to donate. If each child receives exactly 3 cases. How many children recieved the pencil cases and how many are left over?,"1141, 2",360,Y,Divide digit by digit from left to right. Bring down one digit at a time and divide. Stop when no digits are left. The leftover is the remainder.,"1141, 2",

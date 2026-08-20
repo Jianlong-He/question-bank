@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: A ladder is 10 feet long and leans against a wall. The base of the ladder is 6 feet from the wall. How high up the wall does it reach?,8|8.0,90,Y,Use the Pythagorean theorem: $a^2 + b^2 = c^2$,$6^2 + b^2 = 10^2 \to 36 + b^2 = 100 \to b^2 = 64$. The square root of 64 is 8.
+2,Fill: A right triangle has legs of 8 and 15. Find the hypotenuse.,17|17.0,80,Y,Use $a^2 + b^2 = c^2$,$8^2 + 15^2 = c^2 \to 64 + 225 = c^2 \to 289 = c^2$. The square root of 289 is 17.
+3,Fill: A right triangle has hypotenuse 50 and one leg 14. Find the other leg.,48|48.0,80,Y,Use $c^2 - a^2 = b^2$,$50^2 - 14^2 = b^2 \to 2500 - 196 = b^2 \to 2304 = b^2$. The square root of 2304 is 48.
+4,Fill: A 17-ft ladder reaches 15 ft up a wall. How far is the base from the wall?,8|8.0,90,Y,Use $a^2 + b^2 = c^2$,$15^2 + d^2 = 17^2 \to 225 + d^2 = 289 \to d^2 = 64 \to d = 8$.
+5,Fill: An isosceles triangle has equal sides 25 and base 14. Find its area.,168|168.0,90,Y,"Find height using half the base (7), then use the area formula",Half the base is 7. $h^2 + 7^2 = 25^2 \to h^2 + 49 = 625 \to h^2 = 576 \to h = 24$. Area $= 1/2 \cdot 14 \cdot 24 = 168$.
+6,Fill: A right triangle has hypotenuse 29 and one leg 21. Find the other leg.,20|20.0,80,Y,Use $c^2 - a^2 = b^2$,$29^2 - 21^2 = b^2 \to 841 - 441 = b^2 \to 400 = b^2$. The square root of 400 is 20.
+7,"Fill: A right triangle has legs $x$ and 35, and hypotenuse 37. Find $x$.",12|12.0,90,Y,Use $a^2 + b^2 = c^2$,$x^2 + 35^2 = 37^2 \to x^2 + 1225 = 1369 \to x^2 = 144 \to x = 12$.
+8,Fill: A rectangular prism measures $3 \times 6 \times 6$. Find the space diagonal.,9|9.0,90,Y,Use 3D Pythagorean theorem: $d^2 = l^2 + w^2 + h^2$,$d^2 = 3^2 + 6^2 + 6^2 \to d^2 = 9 + 36 + 36 \to d^2 = 81 \to d = 9$.
+9,"Fill: Find the distance between the points $(0, 0)$ and $(6, 8)$.",10|10.0,80,Y,Use the distance formula: $\sqrt{x^2 + y^2}$,$d^2 = 6^2 + 8^2 \to d^2 = 36 + 64 \to d^2 = 100 \to d = 10$.
+10,"Fill: In Garfield's trapezoid proof, if the two right triangles have legs 9 and 12, find the hypotenuse.",15|15.0,90,Y,Use $a^2 + b^2 = c^2$,$c^2 = 9^2 + 12^2 \to c^2 = 81 + 144 \to c^2 = 225 \to c = 15$.

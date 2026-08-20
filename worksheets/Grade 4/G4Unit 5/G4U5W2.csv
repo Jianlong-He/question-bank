@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 80 divided by  4 = __,20,300,Y,Think: 80 is 8 times 10,20
+2,Fill: 120 divided by 6 = __,20,300,Y,120= 12 times 10,20
+3,Fill: 2400 divided by  8 = __,300,300,Y,2400 = 24 times 100,300
+4,Fill: 248 divide by 2 = ___,124,300,Y,Break 248 into 200 + 40 + 8. Divide each by 2 and add them together.,124
+5,Fill: 848 divided by 4 = __,212,300,Y,Break 848 into 800 + 40 + 8. Divide each by 4 and add them together,212
+6,Fill: 555 divided  5 =  __,111,300,Y,Break 555 into 500 + 50 + 5. Divide each by 5 and add them together.,111
+7,Fill: 742 divided by 7 = __ ( 742 = 700 + 42),106,600,Y,Break 742 into 700 + 42. Divide each by 7 and add them.,106
+8,Fill: 81000 divided by  9 = __,9000,600,Y,81000 = 81 times 1000,9000
+9,A library received 1255 new books. They are arranged into 5 shelves. How many books in one shelf?,251,600,Y,Break 1255 into 1000 + 200 + 50 + 5. Divide each by 5 and add them,251
+10,"A farmer has 654 apples and packs them into boxes, 6 apples in each box. How many boxes are there?",109,600,Y,Break 654 into 600 + 54. Divide each by 6 and add them.,109

@@ -1,0 +1,12 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Select. A histogram has most data on the left and a long tail to the right. Identify the shape : Symmetrical Left-tailed Right-tailed No-pattern,Right-tailed,100,Y,Where is the tail?,A long tail on the right -> right-tailed (right-skewed),https://i.ibb.co/Rkx01Pkw/G6-U11-W12-Q1.png
+2,"Select. What does ""symmetrical"" mean? : One-side-is-longer Both-sides-look-similar Only-one-peak Data-is-random",Both-sides-look-similar,100,N,,Symmetrical means both sides look like mirror images -> Both-sides-look-similar,
+3,Select. What does a left-tailed distribution look like? : Tail-to-the-right Tail-to-the-left No-tail Equal-sides,Tail-to-the-left,100,N,,Left-tailed ->  long tail extends to the left,
+4,"Which of the histogram above is right tailed one? Put the answer A, B or C",C|c,100,N,,C has a long tail on the right -> right-tailed (right-skewed),https://i.ibb.co/PzDDNBrM/G6-U11-W12-Q4.png
+5,What is an outlier? (A) Most common value   (B) A value far from others   (C) Middle value   (D) A group of values,B|b|(B),100,Y,"Think ""very different""",B   -> An outlier is a value much higher or lower than the rest,
+6,What is a cluster? : (A) A single value   (B) A gap   (C) A group of data close together   (D) The largest value,C|c|(C),100,Y,Think grouping,A cluster is where many values are grouped together,
+7,What is a peak? (A) Lowest value   (B) Most frequent value area   (C) Gap   (D) Outlier,B|b|(B),100,Y,"Top of a ""mountain""",A peak is where the most data values occur,
+8,Select. A graph has one value far away from all others.  Identify the feature: Peak Cluster Outlier Symmetry,Outlier,100,Y,"""Far away""",A value far from others is an outlier,
+9,Which statement is TRUE?  (A) A cluster means no data   (B) A gap means no data in a range   (C) A peak means smallest value   (D) Outlier is always the median,B|b|(B),100,Y,Gap = empty space,A gap means there are no values in that range,
+10,Select. A graph is symmetrical. Which is TRUE?: Mean=median(approximately) Has-a-long-tail Has-an-outlier Has-a-gap,Mean=median(approximately),100,Y,Balanced data,"In symmetrical data, mean ≈ median",
+11,Select. A distribution has many values around 50 and a few very large values (>50). What shape is it? : Symmetrical Left-skewed Right-skewed No-pattern,Right-skewed,100,Y,Tail direction,Large values (> 50) -> tail to the right -> right-skewed,

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A function is even when f(-x) equals what expression?,f(x),70,Y,Even functions are symmetric about the y-axis.|Opposite inputs have equal outputs.,For an even function f(-x)=f(x).
+2,A function is odd when f(-x) equals what expression?,-f(x),70,Y,Odd functions are symmetric about the origin.|Opposite inputs have opposite outputs.,For an odd function f(-x)=-f(x).
+3,"Is f(x)=x^2+4 even, odd, or neither?",even,70,Y,Replace x with -x.|(-x)^2+4=x^2+4.,"Since f(-x)=f(x), the function is even."
+4,"Is f(x)=x^3-2x odd, even, or neither?",odd,70,Y,Evaluate f(-x).|Both terms change sign.,"f(-x)=-x^3+2x=-f(x), so the function is odd."
+5,"Is f(x)=x^2+x even, odd, or neither?",neither,70,Y,Compute f(-x)=x^2-x.|It matches neither f(x) nor -f(x).,The function is neither even nor odd.
+6,What line is the axis of symmetry for every even function?,y-axis|x=0|the y-axis,70,Y,Even graphs mirror left to right.|The vertical axis is x=0.,The y-axis is the symmetry line.
+7,What point is the center of rotational symmetry for every odd function? Enter x then y.,"0,0",70,Y,Odd graphs have origin symmetry.|A half-turn maps the graph onto itself.,"The center is the origin (0, 0)."
+8,A table has f(-3)=7 and f(3)=7. This evidence is consistent with even or odd symmetry?,even|even symmetry,70,Y,Compare outputs at opposite inputs.|Equal outputs suggest y-axis symmetry.,The values are consistent with an even function.
+9,A table has f(-4)=9 and f(4)=-9. This evidence is consistent with even or odd symmetry?,odd|odd symmetry,70,Y,The outputs are opposites.|Opposite outputs suggest origin symmetry.,The values are consistent with an odd function.
+10,If f is even and f(5)=-2 what is f(-5)?,-2,70,Y,Opposite inputs have the same output.|Use f(-x)=f(x).,f(-5)=f(5)=-2.

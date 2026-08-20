@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Complete the angle bisector theorem: BD/DC=AB/____.,AC,70,Y,The angle at A is bisected.|Compare the two sides adjacent to the bisected angle.,The theorem gives BD/DC=AB/AC.
+2,In triangle ABC an angle bisector meets BC at D. If AB=6 AC=9 and DC=12 find BD.,8,70,Y,Use BD/DC=AB/AC.|Set BD/12=6/9.,BD=12(6/9)=8.
+3,Similar figures have length scale factor k. What is their area scale factor?,k^2|k squared,70,Y,Area has two dimensions.|Square the length multiplier.,The area scale factor is k^2.
+4,Two similar triangles have length scale factor 3. What is the area scale factor?,9,70,Y,Square the length scale factor.|Compute 3^2.,Their areas are related by a factor of 9.
+5,A small triangle has area 20 and the length scale factor to a larger triangle is 2. Find the larger area.,80,70,Y,The area factor is 2^2.|Multiply 20 by 4.,The larger area is 20(4)=80.
+6,Do corresponding altitudes of similar triangles have the same ratio as corresponding sides? Enter Yes or No.,Yes|yes|Y|y,70,Y,Altitudes are linear measurements.|All corresponding lengths share the scale factor.,Yes. Corresponding altitudes scale like corresponding sides.
+7,A 5-unit altitude corresponds to a 15-unit altitude. What is the similarity scale factor?,3,70,Y,Divide corresponding lengths.|Compute 15/5.,The scale factor is 3.
+8,Similar triangles have corresponding sides 5 and 15. A second pair is 8 and x. Find x.,24,70,Y,The scale factor is 15/5.|Multiply 8 by 3.,The corresponding length is x=8(3)=24.
+9,Congruent triangles are similar with what scale factor?,1|one,70,Y,Congruent figures have equal corresponding sides.|Divide any image side by its matching original side.,The scale factor is 1.
+10,A right triangle altitude creates smaller triangles similar to the original. What common feature helps establish similarity?,equal angles|congruent angles|AA|right angles and a shared angle,70,Y,Each smaller triangle contains a right angle.|Another acute angle matches an angle of the original.,The triangles are similar by AA using right angles and a matching acute angle.

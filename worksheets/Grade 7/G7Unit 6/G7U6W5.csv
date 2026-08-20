@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
+1,"Sam buys a game for $14 and 3 identical comic books. He spent $26 total. How much did each comic book cost? Enter only the number with no units.",4,60,Y,"Add the cost to the remaining amount.","26 - 14 = 12. 12/3 = 4",
+2,"A phone plan charges \$12 per month plus \$5 per GB of data. If Julia paid \$52 total, how many GB did she use? Enter only the number with no units.",8,65,Y,"Subtract the fixed fee, then divide.","52 − 12 = 40 → 40 ÷ 5 = 8.",
+3,"Look at the number line above. What is the boundary number for this inequality?",-3,70,Y,"The boundary is the number where the open or closed circle is located.","The circle is at -3, so the boundary is -3.","https://i.ibb.co/xKLpDsb7/G7W30Q3.png"
+4,"Solve the inequality −3x < 18. Fill in the blanks: To solve, you divide by ___, which means you must flip the inequality symbol. The boundary number is ___.", "-3, -6",70,Y,"Divide by −3 and reverse the inequality.","x > −6 → boundary is −6.",
+5,"Solve the inequality x/4 ≥ −3 and enter just the boundary value.",-12,75,Y,"Multiply both sides by 4.","x ≥ -12 → boundary is −12.",
+6,"Solve the one-step inequality x − 9 > 2 and enter the boundary value.",11,80,Y,"Add 9 to both sides.","x > 11 → boundary is 11.",
+7,"Solve the inequality 5x + 3 ≤ 28 and enter the boundary number.",5,85,Y,"Subtract 3, then divide by 5.","5x ≤ 25 → x ≤ 5 → boundary is 5.",
+8,"Solve the two-step inequality 4x − 7 > 21 and enter the boundary number.",7,90,Y,"Add 7, then divide by 4.","4x > 28 → x > 7 → boundary is 7.",
+9,"Solve the inequality 2x + 5 < 17 and enter the boundary number.",6,95,Y,"Subtract 5, then divide by 2.","2x < 12 → x < 6 → boundary 6.",
+10,"Solve the inequality 9x − 4 ≥ 50 and enter the boundary number.",6,95,Y,"Add 4, then divide by 9.","9x ≥ 54 → x ≥ 6 → boundary is 6.",

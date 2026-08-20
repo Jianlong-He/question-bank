@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Dilate $(-7, 4)$ from the origin by a scale factor of 3. What is the new y-coordinate?",12|12.0,85,Y,Multiply the y-coordinate by the scale factor 3,$4 \cdot 3 = 12$.
+2,"Fill: A shape is dilated by a factor of 4. If an interior angle was $45^\circ$, what is the new angle in degrees?",45|45.0,80,Y,"Dilations change size, but they preserve angle measures","Since dilations preserve shape, the interior angles never change. The angle remains $45^\circ$."
+3,"Fill: A dilation is centered at the origin. Point $(2, 5)$ maps to $(8, 20)$. What is the scale factor?",4|4.0,75,Y,Divide the new coordinates by the original coordinates,Check x: $8 / 2 = 4$. Check y: $20 / 5 = 4$. The scale factor is 4.
+4,Fill: A triangle with perimeter 10 is dilated by a scale factor of 3. What is the new perimeter?,30|30.0,90,Y,"Perimeter is a 1D measurement, so it scales directly by the scale factor $k$",Multiply the original perimeter by the scale factor: $10 \cdot 3 = 30$.
+5,"Fill: Dilate point $(8, -3)$ by scale factor 4 from the origin. What is the new y-value?",-12|-12.0,85,Y,Multiply the y-coordinate by the scale factor,$-3 \cdot 4 = -12$.
+6,Fill: A dilation sends a side length of 5 to a new side length of 20. What is the scale factor?,4|4.0,80,Y,Divide the new length by the original length,$20 / 5 = 4$.
+7,Fill: A dilation with scale factor $k$ sends a side length of 12 to a side length of 30. What is $k$?,2.5|2.50,70,Y,Divide the final length by the original length,$k = 30 / 12 = 2.5$.
+8,"Fill: A triangle has sides 6, 10, and 14. After a dilation of scale factor 3, what is the new length of the side that was originally 10?",30|30.0,90,Y,Multiply the original side length by the scale factor 3,$10 \cdot 3 = 30$.
+9,"Select what measurement always changes under a dilation when $k \neq 1$: ""Angles"" ""Side lengths"" ""Shape""","""Side lengths""",85,Y,Dilations enlarge or shrink figures,"Because the figure is scaled, the side lengths must change."
+10,Fill: Two shapes are related by a dilation and have matching angles but different side lengths. What is their relationship?,similar|Similar,75,Y,Dilations create figures that are identical in shape but not size,"Because they have the same shape but different sizes, they are mathematically similar."

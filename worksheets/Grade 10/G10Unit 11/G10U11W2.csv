@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,How does an inscribed angle compare with its intercepted arc measure?,it is half the arc measure|half|one half,70,Y,Use the inscribed angle theorem.|The arc measure is twice the angle.,An inscribed angle is half its intercepted arc measure.
+2,An inscribed angle intercepts a 100-degree arc. Find the angle measure.,50|50 degrees,70,Y,Divide the arc measure by 2.|Use the inscribed angle theorem.,The angle measures 50 degrees.
+3,An inscribed angle measures 35 degrees. Find its intercepted arc measure.,70|70 degrees,70,Y,The arc is twice the inscribed angle.|Compute 2(35).,The intercepted arc measures 70 degrees.
+4,What angle is subtended by a diameter at any point on the circle?,90|90 degrees|right angle,70,Y,The intercepted arc is a semicircle.|Half of 180 degrees is 90 degrees.,A diameter subtends a right angle.
+5,A triangle is inscribed in a circle with one side as a diameter. What type of triangle is it?,right triangle|a right triangle,70,Y,Look at the angle opposite the diameter.|Use the diameter version of the inscribed angle theorem.,The triangle is a right triangle.
+6,What is the sum of opposite angles in a cyclic quadrilateral?,180|180 degrees,70,Y,A cyclic quadrilateral is inscribed in a circle.|Its opposite angles are supplementary.,Opposite angles sum to 180 degrees.
+7,One angle of a cyclic quadrilateral is 112 degrees. Find its opposite angle.,68|68 degrees,70,Y,Opposite angles are supplementary.|Compute 180-112.,The opposite angle is 68 degrees.
+8,Two inscribed angles intercept the same arc. What relationship do they have?,they are equal|equal|congruent,70,Y,Each is half the same arc.|Apply the inscribed angle theorem to both.,The two angles are congruent.
+9,An inscribed angle intercepts a semicircle. Find its measure.,90|90 degrees,70,Y,A semicircle has arc measure 180 degrees.|Take half of 180.,The inscribed angle is 90 degrees.
+10,Why is the hypotenuse of a right triangle inscribed in a circle a diameter?,it subtends a 90 degree angle|a right angle intercepts a semicircle|converse of the inscribed angle theorem,70,Y,The right angle is an inscribed angle.|Its intercepted arc must measure 180 degrees.,A 90-degree inscribed angle intercepts a semicircle so the opposite side is a diameter.

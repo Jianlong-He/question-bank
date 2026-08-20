@@ -1,0 +1,12 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select. Which shows ""6 tens""?  A) 46   B) 62   C) 6 : A B C",B,120,Y,Tens means groups of 10,B
+2,"Select. Which shows ""4 tens""?  A) 40   B) 4   C) 400 : A B C",A,120,Y,Tens means groups of 10,A
+3,"Fill: 56 - 2 = __, 56 - 4 = __, 56 - 6 = __","54, 52, 50",130,Y,"Only the ones change, tens stay the same; What is 6 - 2? 6 - 4? 6 - 6?","54, 52, 50"
+4,Select. True or False. 78 has more ones than tens. : True False,TRUE,140,Y,7 tens vs 8 ones,TRUE
+5,"Fill: 86 - 10 = __, 86 - 20 = __, 86 - 30 = __","76, 66, 56",160,Y,"Only tens change, ones stay the same; What is 8 - 1? 8 - 2? 8 - 3?","76, 66, 56"
+6,"Fill: Remove two tens from 65, the number becomes __",45,160,Y,"Only tens change, ones stay the same",45
+7,"Fill: Remove two ones from 65, how many ones left? How many tens left?","3, 6",160,Y,"Only the ones change, tens stay the same; What is 5 - 2?","3, 6"
+8,Select. Which number is larger? 63 or 48 : 63 48,63,180,Y,Compare tens first,63
+9,"Fill: 86 - 10 = 76, so 86 - 11 = __",75,180,Y,"Subtract tens first, then ones.",75
+10,Select. What stays the same when subtracting 30 from 75? : Tens Ones,Ones,200,Y,30 has zero ones,Ones
+11,Fill: 65 - 42 = __,23,220,Y,"Subtract tens first, then ones.",23

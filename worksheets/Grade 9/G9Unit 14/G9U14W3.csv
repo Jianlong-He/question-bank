@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the y-intercept value of y = 2^x?,1,70,Y,Set x = 0.|2^0 = 1.,"At x = 0, y = 1, so the y-intercept value is 1."
+2,"If b > 1 in y = b^x, is the graph increasing or decreasing?",increasing|it is increasing,70,Y,A base greater than 1 produces growth.|Successive outputs multiply by a number greater than 1.,The graph is increasing.
+3,"If 0 < b < 1 in y = b^x, is the graph increasing or decreasing?",decreasing|it is decreasing,70,Y,A base between 0 and 1 produces decay.|Successive outputs are smaller positive values.,The graph is decreasing.
+4,What horizontal line does y = 3^x approach as x becomes very negative?,y=0|0|the x-axis|x-axis,70,Y,Exponential outputs stay positive and get close to zero.|Name the horizontal asymptote.,"The graph approaches y = 0, the x-axis."
+5,"At x = 3, which is larger: y = 2^x or y = 3x + 1?",y=3x+1|3x+1|the linear function,70,Y,Evaluate both rules at x = 3.|2^3 = 8 and 3(3) + 1 = 10.,The linear value 10 is larger than the exponential value 8.
+6,"For y = 3 × 2^x, find the point's y-coordinate when x = 2.",12,70,Y,Substitute x = 2.|Compute 3 × 4.,y = 3(2^2) = 12.
+7,"A graph has points (0, 4) and (1, 12) and follows y = ab^x. Find b.",3,70,Y,The ratio of consecutive outputs is b.|Compute 12/4.,b = 12/4 = 3.
+8,"For y = -2 × 3^x, are the y-values positive or negative?",negative|all negative,70,Y,3^x is always positive.|A negative coefficient changes the sign.,"The positive power is multiplied by -2, so all y-values are negative."
+9,Compare y = 2^x and y = x^2 at x = 4. Enter the common value.,16,70,Y,Evaluate both expressions.|2^4 = 16 and 4^2 = 16.,Both functions have value 16 at x = 4.
+10,Which grows faster for sufficiently large positive x: a nonconstant linear function or an exponential function with base greater than 1?,exponential function|the exponential function|exponential,70,Y,Linear growth adds a constant amount.|Exponential growth repeatedly multiplies.,An exponential function with base greater than 1 eventually grows faster.

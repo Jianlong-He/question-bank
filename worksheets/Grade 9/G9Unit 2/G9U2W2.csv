@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Classify 4(x + 2) = 4x + 8 as having one solution, no solution, or infinitely many solutions.",infinitely many|infinite|all real numbers,60,Y,Distribute the left side and compare both sides.,"The left side becomes 4x + 8, identical to the right side, so every real x is a solution."
+2,"Classify 3(2x - 1) = 6x + 5 as having one solution, no solution, or infinitely many solutions.",no solution|none,65,Y,Distribute 3 and see what happens to the x-terms.,"The equation becomes 6x - 3 = 6x + 5. Subtracting 6x gives -3 = 5, which is false, so there is no solution."
+3,"Classify 5x + 7 = 5x + 7 as having one solution, no solution, or infinitely many solutions.",infinitely many|infinite|all real numbers,60,Y,Both sides are already identical.,"The equation is true for every real x, so it has infinitely many solutions."
+4,"Classify 2(x + 3) = 2x + 7 as having one solution, no solution, or infinitely many solutions.",no solution|none,65,Y,Distribute 2 on the left.,"The equation becomes 2x + 6 = 2x + 7. Removing 2x gives 6 = 7, so there is no solution."
+5,The equation (a - 2)x = 12 has x = 3 as a solution. Find a.,6,75,Y,Substitute x = 3.|Then solve 3(a - 2) = 12.,"3(a - 2) = 12 gives a - 2 = 4, so a = 6."
+6,Find k so that kx + 5 = 3x + 5 has infinitely many solutions.,3,70,Y,"For infinitely many solutions, the coefficients and constants must match.",The constants already match. The x-coefficients match when k = 3.
+7,The equation (m - 1)x = 6 has x = 2 as a solution. Find m.,4,75,Y,Substitute x = 2 before solving for m.,"2(m - 1) = 6 gives m - 1 = 3, so m = 4."
+8,Find a so that ax + 3 = 2x + 7 has no solution.,2,75,Y,No solution occurs when the x-coefficients match but the constants differ.,"Setting a = 2 gives 2x + 3 = 2x + 7. The variables cancel and leave a false statement, so there is no solution."
+9,For what value of b does 4(x - 1) + b = 4x + 9 have infinitely many solutions?,13,80,Y,Simplify the left side.|Then make the constant terms equal.,"The left side is 4x - 4 + b. For it to equal 4x + 9 for every x, -4 + b = 9, so b = 13."
+10,Find q so that q(x - 2) = 3x - 6 has infinitely many solutions.,3,75,Y,Factor the right side as 3(x - 2).,The right side is 3(x - 2). The expressions are identical when q = 3.

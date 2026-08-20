@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 40 x 60 = 4 x 10 x __ x 10 = 24 x 100 = __,"6, 2400",240,Y,Think of 40 as 4 x 10 and 60 as 6 x 10. You can attach 2 zeros to 4 x 6.,"6, 2400. 40 x 60 = 4 x 6 x 10 x 10 = 24 x 10 x 10 = 2400"
+2,Fill: 300 x 70 = __ x 100 x __ x 10 = 21 x __ = __,"3, 7, 1000, 21000",240,Y,Think of 300 as 3 x 100 and 70 as 7 x 10. You can attach 3 zeros to 3 x 7.,"3, 7, 1000, 21000. 300 x 70 = 3 x 7 x 100 x 10 = 21000"
+3,Fill: 500 x 400 = __ x 100 x __ x 100 = 20 x __ = __,"5|4, 4|5, 10000, 200000",240,Y,Think of 500 as 5 x 100 and 400 as 4 x 100. You can attach 4 zeros to 5x4.,"5, 4, 10000, 200000. It should be attach 4 zeros to 20 not to 2."
+4,What is 30 x 6000?,180000,240,Y,Think of 30 as 3 x 10 and 6000 as 6 x 1000. You can attach 4 zeros to 3 x 6.,180000. 30 x 6000 = 3 x 6 x 10 x 1000
+5,Select your estimate of 110 x 19: 200x20=4000 100x20=2000 100x200=20000 100x10=1000,100x20=2000,240,Y,"Round to friendly numbers: 110 -> 100, 19 -> 20",100x20=2000. 110 x 19 -> 100 x 20 = 1 x 10 x 2 x 10 = 200
+6,Select your estimate of 31 x 2974: 30x3000=9000 30x3000=90000 30x2000=60000 30x2000=6000,30x3000=90000,240,Y,"Round to friendly numbers: 31 -> 30, 2974 -> 3000",30x3000=90000
+7,Compute 600 x 8000. What is it?,4800000,240,Y,"Think of 600 as 6 x 100 and 8000 as 8 x 1000. 600 has 2 zeros, 8000 has 3 zeros, there are 5 zeros in total. You can attach 5 zeros to 6 x 8.",4800000. 600 x 8000 = 6 x 8 x 100 x 1000 = 4800000
+8,Compute 40000 x 8000. What is it?,320000000,240,Y,Think of 40000 as 4 x 10000 and 8000 as 8 x 1000. There are 7 zeros in total. You can attach 7 zeros to 4 x 8.,320000000. 40000 x 8000 = 4 x 8 x 10000 x 1000 = 320000000
+9,Select the better estimate for 68 x 323 : 70x300 60x320 60x330 70x320,70x320,360,Y,We want numbers that are close but also easy.,70x320. 68 is close to 70 than 60. 323 is close to 320 than 300 or 330.
+10,A bakery sells 138 packs of mini cakes. Each pack has 14 cakes. Estimate how many cakes they sell in total?,2100|1400,360,Y,We want numbers that are close but also easy.,1st way: 138 x 14 -> 140 x 15. 2nd way: 138 x 14 -> 140 x 10

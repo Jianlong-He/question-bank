@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
+1,Fill: Find the missing numerator to make the fractions equivalent: 1/2 = __/4           ,2,180,Y,What do you multiply 2 by to get 4? Multiply the numerator (1) by that same amount.,2,https://i.ibb.co/6RJGZ62t/I1.jpg
+2,Fill: Find the missing numerator to make the fractions equivalent: 2/3 = __/9,6,180,Y,What do you multiply 3 by to get 9? Multiply the numerator (2) by that same amount.,6,
+3,Fill: Find the missing numerator to make the fractions equivalent: 4/9 = __/45,20,180,Y,What do you multiply 9 by to get 45? Multiply the numerator (4) by that same amount.,20,
+4,Fill: Find the missing denominator: 6/9 = 2/__       ,3,180,Y,"The numbers are getting smaller, so use division. 6 divided by what equals 2?",3,https://i.ibb.co/pj2CvQDY/I4.jpg
+5,Fill: Find the missing denominator: 18/24 = 3/__,4,180,Y,"The numbers are getting smaller, so use division. 18 divided by what equals 3?",4,
+6,Fill:Find the missing denominator: 12/15 = 4/__,5,180,Y,"The numbers are getting smaller, so use division. 12 divided by what equals 4?",5,
+7,Select the fraction NOT equivalent to 2/3:8/12 12/18 9/12,9/12,300,Y,Look for multiples of 2/3,9/12,
+8,Select. Lara read 8/12 of a book. Sarah read 2/3. Did they read the same amount?:True False,TRUE,300,Y,Are these equivalent fractions?,TRUE,
+9,Select ALL fractions equivalent to 20/40:10/20 6/10 3/5  2/4 ,"10/20,2/4",300,Y,"Simplify 20/40 by dividing by 2, and 10. Check each option to see if it matches.","10/20,2/4",
+10,Fill: Convert 20/25 into an equivalent fraction with a denominator of 100. Write as __/100,80,180,Y,How many times does 25 go into 100?.Multiply the numerator 20 by that same number.,80,

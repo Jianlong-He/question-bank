@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Add mixed numbers: 3 2/9 + 2 1/9. Write the answer as mixed number in simplest form.,5 1/3,200,Y,"Add the whole number: 3 + 2. Then add the fractions: 2/9 + 1/9. If the fraction part is improper ( > 1), change it to a mixed number and add to the whole. Simplify if needed.",5 1/3
+2,Add mixed numbers: 4 5/6 + 2 1/3. Write the answer as mixed number in simplest form.,7 1/6,200,Y,"Add the whole number: 2 + 2. Then add the fractions: 5/6 + 1/3. If the fraction part is improper ( > 1), change it to a mixed number and add to the whole. Simplify if needed.",7 1/6
+3,Subtract mixed numbers: 6 3/10 - 4 1/10. Write the answer as mixed number in simplest form.,2 1/5,200,Y,Subtract the whole number:6 - 4. Then add the fractions: 3/10 - 1/10. Simplify if needed.,2 1/5
+4,Subtract mixed numbers: 5 1/2 - 3 1/4. Write the answer as mixed number in simplest form.,2 1/4,200,Y,Subtract the whole number:5 - 3. Then add the fractions: 1/2 - 1/4. Simplify if needed.,2 1/4
+5,Subtract mixed numbers: 9 5/7 - 6 3/5. Write the answer as mixed number in simplest form.,3 4/35,200,Y,Subtract the whole numbers first then add the fractions part. Simplify if needed.,3 4/35
+6,Select. Can you get a positive value by computing 6 19/21 - 7 1/47? : Yes No,No|no,200,Y,"Compare the sizes of the two mixed numbers. The second one has whole part 7 and the first has 6, both fractions part less than 1, so think about which is bigger overall",No|no
+7,Emma swam 3 3/5 laps on Tuesday and 2 4/15 on Thursday last week. How many laps she swam last week?,5 13/15,240,Y,Think of the equation: last week laps = Tuesday laps + Thursday laps,5 13/15
+8,A rope is 3 5/8 m long. kimi cuts off 1 3/8 m How much rope is left? Write the answer as mixed number in simplest form.,2 1/4,240,Y,Think of the equation: rope left = original length - the length kimi cut off,2 1/4
+9,"A recipe needs 2 1/3 cups of flour, then you add another 1 5/7 cups , but you spill 2/9 cup. How much flour is left?",3 52/63,360,Y,Think of the equation: flour left = original + added flour - spilled flour,3 52/63
+10,Compute: 12 3/4 - 7 5/6 + 2 1/3. Write the answer as mixed number in simplest form.,7 1/4,300,Y,Turn everything into improper fractions. For example 12 3/4 = 51/4. Then add and subtract,7 1/4

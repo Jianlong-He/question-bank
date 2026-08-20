@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: 2 + 3 = 5, so 5 - 2 = __, 5 - 3 = __","3, 2",80,Y,Relating addition and subtraction. 3 numbers can make two true statements,"3, 2"
+2,"Fill: 4 + 5 = 9, so 9  - 4 = __,    __ - 5 = 4","5, 9",80,Y,Relating addition and subtraction. 3 numbers can make two true statements,"5, 9"
+3,Fill: 10 + 8 = __ + 10,8,90,Y,Both sides should equal,8
+4,Fill: 3 + 5 = 2 + __,6,100,Y,"Try to solve both, what is 3 + 5? what is 3 + 5 - 2?",6
+5,"Select all true statements for 5, 1, and 6 (two additions, two subtractions) A) 1 + 5 = 6     B) 5 + 1 = 6    C) 6 - 1 = 5    D) 6 - 5 = 1:  AB CD ABC ABCD",ABCD,120,Y,"For example, 1+5=6",ABCD
+6,Fill: 9 + __ = 10 + __,"1, 0",120,Y,Both sides should equal,"1, 0"
+7,Select all true equations. A) 2 + 7 = 9   B) 9 - 3 = 6 C) 4 + 5 = 8 : AB  CD A B C D ABC,AB,150,Y,Check each equation by counting,AB
+8,"9 + 7 = 16, so __ - 9 = 7",16,150,N,,16
+9,Select. Does this equation correct? 13 - 3  = 4 + 6  : Yes No,Yes,160,Y,"Try to solve both, what is 13 - 3? what is 4 + 6?",Yes
+10,Fill: 5 + 7 = __ + 2,10,180,Y,"Try to solve both, what is 5 + 7? what is 5 + 7 - 2?",10

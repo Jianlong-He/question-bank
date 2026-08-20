@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Does (2, 5) satisfy y > 2x? Enter Yes or No.",Yes|yes|Y|y,70,Y,Substitute x = 2 and y = 5.|Compare 5 with 4.,"Since 5 > 4, the point satisfies the inequality."
+2,"Does (-1, 0) satisfy y <= x + 2? Enter Yes or No.",Yes|yes|Y|y,70,Y,Substitute x = -1.|Check whether 0 <= 1.,"0 <= 1 is true, so the point is a solution."
+3,Should the boundary line for y < 3x + 1 be solid or dashed?,dashed|Dashed,70,Y,The inequality is strict.|Points on the boundary are not included.,A strict inequality uses a dashed boundary line.
+4,Should the boundary line for y >= -x + 4 be solid or dashed?,solid|Solid,70,Y,The equality part includes boundary points.|Look for >= or <=.,"Because equality is allowed, the boundary is solid."
+5,"For y > x - 2, do you shade above or below the boundary line?",above|Above,70,Y,The inequality says y-values are greater.|Greater y-values lie above the line.,Shade above y = x - 2.
+6,"For y <= -2x + 5, do you shade above or below the boundary line?",below|Below,70,Y,The inequality says y-values are less than or equal.|Smaller y-values lie below.,Shade below the solid line.
+7,A graph has a solid boundary y = 2x + 1 and is shaded above it. Write the inequality.,y>=2x+1|y >= 2x + 1,70,Y,Solid means equality is included.|Above means greater y-values.,The inequality is y >= 2x + 1.
+8,A graph has a dashed horizontal boundary y = -3 and is shaded below. Write the inequality.,y<-3|y < -3,70,Y,Dashed means strict.|Below means y-values are smaller.,The inequality is y < -3.
+9,Which test point is often convenient for deciding which side to shade when it is not on the boundary?,"(0,0)|0,0|the origin|origin",70,Y,Choose a point with easy coordinates.|The origin makes substitution simple.,"The origin (0, 0) is often a convenient test point."
+10,"Does (0, 0) satisfy 2x + y > 3? Enter Yes or No.",No|no|N|n,70,Y,Substitute x = 0 and y = 0.|Check whether 0 > 3.,"The statement 0 > 3 is false, so the origin is not a solution."

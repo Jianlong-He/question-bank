@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 47 has  __ tens and __ ones,"4, 7",110,Y,"The first digit is tens, the second digit is ones","4, 7"
+2,"Fill: 50 + 3 = __, 50 + __ = 54","53, 4",120,Y,Start at 50 and count 3 more; How many counts do I ned to get from 50 to 54?,"53, 4"
+3,"Fill: 37 + 1 = __, 37 + 2 = __, 37 + 3 = __","38, 39, 40",120,Y,"Adding to the ones place; The first digit is tens, the second digit is ones","38, 39, 40"
+4,"Fill: 24 + 5 = __, 24 + 6 = __","29, 30",140,Y,"Adding to the ones place; The first digit is tens, the second digit is ones; 24 + 6 is 1 more than 24 + 5; 4 + 6 = 10, 20 + 10 = 30","29, 30"
+5,Select. Which has more ones? 43 or 34 : 43 34,34,150,Y,"The first digit is tens, the second digit is ones; 3 ones vs 4 ones",34
+6,Select. Which has more tens? 43 or 34 : 43 34,43,150,Y,"The first digit is tens, the second digit is ones; 4 tens vs 3 tens",43
+7,"Add 20 to 13, how many tens will you have?",3,160,Y,2 tens + 1 tens = __ tens,3
+8,"Fill: 23 + 10 = __, 23 + 20 = __, 23 + 30 = __, 23 + 40 = __","33, 43, 53, 63",180,Y,"Adding a ten changes the tens digit ; Adding 20 = adding 2 tens; The first digit is tens, the second digit is ones","33, 43, 53, 63"
+9,"You add 8 ones to 37, what number do you get?",45,180,Y,Split 8 into 3 + 5 to reach 40 first.,45
+10,What is 38 + 12?,50,200,Y,"12 = 10 + 2, 38 + 10 = __, then add 2",50

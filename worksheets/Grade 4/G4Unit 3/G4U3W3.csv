@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 5000 × 3  = __ ,15000,300,Y,Break 5000 into 1000 × 5. 5 × 3 = 15. Add three zeros to 15.,15000
+2,Fill: 54 × 3  = (50 + 4 ) × 3 = (50 × 3 ) + ( 4 × __ ) = 150 + __ = ___,"3,12,162",600,Y,Break 54 into 50 and 4. Multiply 50 by 3 and 4 by 3. Add the two partial products,"3,12,162"
+3,Fill: 24 × 3  = (20 + 4 ) × 3 = ____,72,600,Y,Break 24 into 20 and 4. Multiply each part by 3. Add the two results,72
+4,Fill: 36 × 5  = __ ,180,600,Y,Think of 36 as 30 + 6. Multiply 30 by 5 and 6 by 5. Add the two products,180
+5,Fill: Rectangle 127 by 5 = (100 + 20 + 7 ) × 5 = (100 × 5) + (20 × 5) + ( __ × __) = 500 + 100 + __ = ___,"7,5,35,635",600,Y,Break 127 into 100 + 20 + 7. Multiply each part by 5. Add the three products,"7,5,35,635"
+6,Fill: Rectangle 235 by 6 = (200 × 6) + ( __ × 6) + ( __ × 6) =  1200 + __ + __ = __,"30,5,180,30,1410",600,Y,"Break 235 into 200 + 30 + 5. Multiply 200, 30 and 5 each by 6. Add all three results","30,5,180,30,1410"
+7,Fill: 1123 by 4 = (1000 + 100 + 20 + 3) × 4 = (1000 × 4) + ( __ × 4) + ( __ × 4)  + ( __ × 4)   = 4000 +  __ + __ + __ = __,"100,20,3,400,80,12,4492",600,Y,Use place value: 1000 + 100 + 20 + 3. Multiply each part by 4.Add all four products together,"100,20,3,400,80,12,4492"
+8,Fill: 212 × 7 = ___ . ,1484,600,Y,Break 212 into 200 + 10 + 2. Multiply each part by 7. Add the three products,1484
+9,Amy's garden is 53 meters long and 6 meters wide. What is the area of her garden? ( Area = length × width ) ,318,600,Y,Area = length × width. Break 53 into 50 and 3;Multiply each by 6 and add them,318
+10,A school has a basketball court which is 125 meters long and 8 meters wide. What is the area of the court? ( Area = length × width ) ,1000,600,Y,Area = length × width;Break 125 into 100 + 20 + 5. Multiply each part by 8 and add the results,1000

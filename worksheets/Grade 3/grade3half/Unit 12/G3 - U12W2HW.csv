@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,James must be home by 5 30. His trip takes 20 minutes. What time must he leave? __ hours and __ minutes,"5, 10",100,Y,5 30 - 20 minutes,5:10
+2,A movie starts at 4:40 pm and ends at 6:00 pm. How long is the movie? Choices: A) 1 hour 20 minutes | B) 1 hour 40 minutes | C) 2 hours 20 minutes,A,100,Y,4:40 -> 5:00 -> 6:00,1 hour 20 minutes
+3,A clock shows 5:30 and another shows 7:45. How much time passed? Choices: A) 1 hour 15 minutes | B) 2 hours 15 minutes | C) 3 hours 15 minutes,B,100,Y,5:30 -> 7:30 -> 7:45,2 hours 15 minutes
+4,What is the time of a quarter to 8? __ hours and __ minutes,"7, 45",100,Y,A quarter of 60 minutes is 15 minutes.,7:45
+5,Dinner starts at 5:15 pm and ends at 6:05 pm. How long is dinner?,50|50 minutes,100,Y,5 15 - 6 00 - 6 05,50 minutes

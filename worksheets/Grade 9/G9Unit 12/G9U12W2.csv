@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Given a_1 = 5 and a_n = a_(n-1) + 3, find a_4.",14,70,Y,"Generate terms by adding 3.|The terms begin 5, 8, 11.","The sequence is 5, 8, 11, 14, so a_4 = 14."
+2,"In the recursive rule a_n = a_(n-1) - 7, what is the common difference?",-7,70,Y,The amount added to the preceding term is the difference.|Subtracting 7 means adding -7.,The common difference is -7.
+3,"For a_n = 7 + 2(n - 1), find a_100.",205,70,Y,Substitute n = 100.|Compute 7 + 2(99).,a_100 = 7 + 198 = 205.
+4,Convert a_1 = 4 and a_n = a_(n-1) + 5 to an explicit rule.,a_n=4+5(n-1)|4+5(n-1),70,Y,The first term is 4 and the common difference is 5.|Use a_n = a_1 + (n - 1)d.,The explicit rule is a_n = 4 + 5(n - 1).
+5,"Write only the recursive step for the arithmetic sequence 20, 17, 14, 11.",a_n=a_(n-1)-3|a_n=a(n-1)-3,70,Y,Each term is 3 less than the previous term.|Use the common difference -3.,The recursive step is a_n = a_(n-1) - 3.
+6,An arithmetic sequence has a_6 = 31 and common difference 5. Find a_1.,6,70,Y,From a_1 to a_6 there are five increases.|Subtract 5(5) from 31.,a_1 = 31 - 25 = 6.
+7,"For the explicit rule a_n = 3n + 2, what number is added in its recursive step?",3,70,Y,Consecutive inputs differ by 1.|The coefficient of n gives the constant difference.,"The sequence increases by 3 each term, so the recursive step adds 3."
+8,"For a_n = 50 - 4(n - 1), find a_12.",6,70,Y,Substitute n = 12.|Compute 50 - 4(11).,a_12 = 50 - 44 = 6.
+9,"Given a_1 = -2 and a_n = a_(n-1) - 6, find a_5.",-26,70,Y,"Subtract 6 four times.|The terms are -2, -8, -14, -20, ...",The fifth term is -26.
+10,Which type of rule is faster for finding the 200th term without listing earlier terms: explicit or recursive?,explicit|an explicit rule,70,Y,One rule uses n directly.|The other requires all earlier terms.,An explicit rule finds the 200th term directly from n = 200.

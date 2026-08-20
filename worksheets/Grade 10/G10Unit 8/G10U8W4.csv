@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the golden ratio rounded to three decimal places?,1.618,70,Y,It is represented by the Greek letter phi.|Use the familiar decimal approximation.,The golden ratio is approximately 1.618.
+2,In a golden rectangle what is the ratio longer side to shorter side?,golden ratio|phi|1.618,70,Y,The rectangle is defined by a special side ratio.|Longer divided by shorter equals phi.,The ratio is the golden ratio phi approximately 1.618.
+3,A golden rectangle has shorter side 10. Approximate its longer side to the nearest hundredth.,16.18,70,Y,Multiply by the golden ratio.|Compute 10(1.618).,The longer side is approximately 16.18.
+4,A scale drawing uses 1 cm for 4 m. How many meters does 7 cm represent?,28,70,Y,Use the constant scale factor.|Multiply 7 by 4.,Seven centimeters represents 28 meters.
+5,A 2 m person casts a 3 m shadow while a tree casts a 12 m shadow. Find the tree height.,8,70,Y,The sun creates similar right triangles.|Set 2/3=h/12.,The tree height is h=12(2/3)=8 m.
+6,A model moon has radius 3 cm at scale 1:1000000. What real radius in centimeters does it represent?,3000000,70,Y,Multiply the model length by the scale denominator.|Compute 3(1000000).,The represented radius is 3000000 cm.
+7,Two pool-shot triangles share equal angles. Which criterion can prove them similar?,AA|AA similarity|angle angle,70,Y,Two matching angles are enough.|Use the angle-angle criterion.,The triangles are similar by AA.
+8,A photograph 8 by 12 is enlarged so its shorter side is 20. Find the longer side.,30,70,Y,Use the scale factor 20/8.|Multiply 12 by 2.5.,The enlarged longer side is 30.
+9,If all lengths in a similar model double by what factor does its area change?,4,70,Y,Area scale is the square of length scale.|Compute 2^2.,The area changes by a factor of 4.
+10,If all lengths in a similar model double by what factor does its volume change?,8,70,Y,Volume scale is the cube of length scale.|Compute 2^3.,The volume changes by a factor of 8.

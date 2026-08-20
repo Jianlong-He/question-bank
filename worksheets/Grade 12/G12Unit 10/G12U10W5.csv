@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,State the squeeze theorem in words.,a function trapped between two functions with the same limit has that limit|trapped function shares the common limit,70,Y,Compare a lower and upper bound.|Both bounding limits must agree.,If g<=f<=h and g and h approach L then f also approaches L.
+2,If -x^2<=f(x)<=x^2 near 0 find lim x->0 f(x).,0,70,Y,Both bounds approach 0.|Apply the squeeze theorem.,The limit is 0.
+3,Evaluate lim x->0 of sin(x)/x.,1,70,Y,This is the fundamental trigonometric limit.|Angles are measured in radians.,The limit is 1.
+4,Evaluate lim x->0 of sin(5x)/x.,5,70,Y,Multiply and divide by 5.|Use sin(5x)/(5x)->1.,The limit is 5.
+5,Evaluate lim x->0 of sin(3x)/(2x).,3/2|1.5,70,Y,Rewrite as (3/2)sin(3x)/(3x).|Use the fundamental limit.,The limit is 3/2.
+6,Evaluate lim x->0 of (1-cos(x))/x.,0,70,Y,Multiply by the conjugate or use squeeze.|The numerator is second order while denominator is first order.,The limit is 0.
+7,Evaluate lim x->0 of (1-cos(x))/x^2.,1/2|0.5,70,Y,Use 1-cosx=2sin^2(x/2).|Apply sin(u)/u->1.,The limit is 1/2.
+8,Why must radians be used for lim sin(x)/x=1?,the standard limit depends on radian measure|radians make arc length proportional to angle,70,Y,The squeeze proof compares arc length and coordinates.|Degree measure introduces a scale factor.,The value 1 is valid when x is measured in radians.
+9,If 0<=f(x)<=|x| near 0 find the limit of f(x).,0,70,Y,Both lower and upper bounds approach 0.|Apply the squeeze theorem.,The limit is 0.
+10,Which theorem justifies a limit by trapping a difficult function between simpler bounds?,squeeze theorem|sandwich theorem,70,Y,The function is squeezed from above and below.|The bounding limits agree.,Use the squeeze theorem.

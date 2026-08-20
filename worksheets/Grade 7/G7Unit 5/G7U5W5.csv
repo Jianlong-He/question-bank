@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Compute $-5 + 3 \cdot (-2)$.","-11|-11.0",60,Y,"Multiply before adding (Order of Operations)","First multiply: $3 \cdot (-2) = -6$. Then add: $-5 + (-6) = -11$."
+2,"Fill: Compute $(8 - 12) \cdot (-3)$.","12|12.0",60,Y,"Calculate inside the parentheses first","First, solve parentheses: $8 - 12 = -4$. Then multiply: $(-4) \cdot (-3) = 12$."
+3,"Fill: Compute $-10 / (-2) + (-4)$.","1|1.0",60,Y,"Divide before adding","First divide: $-10 / (-2) = 5$. Then add: $5 + (-4) = 1$."
+4,"Fill: Compute $-6 - (-4) \cdot 2$.","2|2.0",60,Y,"Multiply before subtracting","First multiply: $(-4) \cdot 2 = -8$. Then subtract: $-6 - (-8) = -6 + 8 = 2$."
+5,"Fill: Compute $(-2)^3 - 4 \cdot (-3)$.","4|4.0",80,Y,"Calculate the exponent, then multiply, then subtract","Exponent: $(-2)^3 = -8$. Multiply: $4 \cdot (-3) = -12$. Subtract: $-8 - (-12) = -8 + 12 = 4$."
+6,"Fill: Compute $15 - (-2)^2 \cdot 3$.","3|3.0",80,Y,"Calculate the exponent, then multiply, then subtract","Exponent: $(-2)^2 = 4$. Multiply: $4 \cdot 3 = 12$. Subtract: $15 - 12 = 3$."
+7,"Fill: Compute $(-5 + 2)^2 / (-3)$.","-3|-3.0",80,Y,"Calculate inside parentheses, then the exponent, then divide","Parentheses: $-5 + 2 = -3$. Exponent: $(-3)^2 = 9$. Divide: $9 / (-3) = -3$."
+8,"Fill: Compute $-4 \cdot (5 - (-2)) + 10$.","-18|-18.0",85,Y,"Calculate inside the parentheses, then multiply, then add","Parentheses: $5 - (-2) = 5 + 2 = 7$. Multiply: $-4 \cdot 7 = -28$. Add: $-28 + 10 = -18$."
+9,"Fill: Compute $\frac{-4 + 10}{-2} - (-3)^2$.","-12|-12.0",95,Y,"Treat the fraction's numerator as being inside parentheses","Numerator: $-4 + 10 = 6$. Fraction: $6 / (-2) = -3$. Exponent: $(-3)^2 = 9$. Subtract: $-3 - 9 = -12$."
+10,"Fill: Compute $(-2)^3 \cdot (5 - 8) / (-4) + 7$.","1|1.0",100,Y,"Do parentheses and exponents first, then multiply/divide from left to right, then add","Parentheses: $(5 - 8) = -3$. Exponent: $(-2)^3 = -8$. The expression is now $-8 \cdot (-3) / (-4) + 7$. Multiply: $-8 \cdot (-3) = 24$. Divide: $24 / (-4) = -6$. Add: $-6 + 7 = 1$."

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,When is product AB defined?,columns of A equal rows of B|the inner dimensions match|number of columns of A equals rows of B,70,Y,Compare the inside dimensions.|Row-dot-column products require equal lengths.,AB is defined when columns of A equal rows of B.
+2,A is 2x3 and B is 3x4. What are the dimensions of AB?,2x4|2 by 4,70,Y,The inner dimensions cancel.|Keep the outer dimensions.,AB has dimensions 2x4.
+3,A is 2x3 and B is 2x2. Is AB defined? Enter Yes or No.,No|no|N|n,70,Y,Compare 3 columns of A with 2 rows of B.|The inner dimensions do not match.,No. AB is undefined.
+4,Multiply row [2 3] by column [4 5].,23,70,Y,Use a dot product.|Compute 2(4)+3(5).,The result is 8+15=23.
+5,Find the top-left entry of [[1 2][3 4]][[5 6][7 8]].,19,70,Y,Dot the first row with the first column.|Compute 1(5)+2(7).,The top-left entry is 19.
+6,Find the top-right entry of [[1 2][3 4]][[5 6][7 8]].,22,70,Y,Dot the first row with the second column.|Compute 1(6)+2(8).,The top-right entry is 22.
+7,Which matrix product represents applying transformation B first and then A?,AB|A times B,70,Y,The rightmost transformation acts first.|Matrix composition follows function-composition order.,The combined matrix is AB.
+8,Can matrix multiplication represent composition of linear transformations? Enter Yes or No.,Yes|yes|Y|y,70,Y,Each matrix maps input vectors.|Multiplying matrices combines successive mappings.,Yes. Matrix products represent composed transformations.
+9,Is matrix multiplication generally commutative? Enter Yes or No.,No|no|N|n,70,Y,AB and BA may differ or one may be undefined.|Order matters for transformations.,No. Matrix multiplication is generally not commutative.
+10,A 3x3 matrix maps vectors with how many components?,3|three,70,Y,The number of columns matches input dimension.|A 3x3 matrix takes a three-entry column vector.,It maps three-component vectors.

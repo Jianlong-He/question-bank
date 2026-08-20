@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the mean of 4, 6, and 8.",6,70,Y,Add the values and divide by 3.|The sum is 18.,The mean is (4 + 6 + 8) / 3 = 6.
+2,"Find the median of 2, 5, 7, 9, 12.",7,70,Y,The values are already ordered.|Choose the middle value.,"The third of five ordered values is 7, so the median is 7."
+3,"Find the mode of 3, 4, 4, 5, 6.",4,70,Y,The mode occurs most often.|Count the repeated values.,"The value 4 occurs twice, more than any other value, so the mode is 4."
+4,"The mean of 7, 9, and x is 10. Find x.",14,70,Y,A mean of 10 for three values requires a total of 30.|Subtract the known sum from 30.,"7 + 9 + x = 30, so x = 30 - 16 = 14."
+5,"If the lowest value is removed from a data set and all other values stay the same, what usually happens to the mean?",it increases|increases|the mean increases,70,Y,Removing a low value removes a value below the old mean.|Consider the balance point of the remaining data.,Removing the lowest value usually raises the mean because a below-average value is gone.
+6,"If only the highest value in a data set is increased, what happens to the mean?",it increases|increases|the mean increases,70,Y,The total sum increases while the number of values stays fixed.|Mean equals total divided by count.,The mean increases because the sum increases and the number of observations does not change.
+7,"For 2, 2, 4, 5, 7, find the mean.",4,70,Y,Add all five values.|The total is 20.,The mean is 20 / 5 = 4.
+8,"Find the range of 3, 8, 11, 14.",11,70,Y,Range equals maximum minus minimum.|Subtract 3 from 14.,The range is 14 - 3 = 11.
+9,Which measure of center is usually affected more by an extreme outlier: mean or median?,mean|the mean,70,Y,The mean uses every value in its calculation.|The median depends mainly on order and position.,The mean is usually affected more because an extreme value changes the total sum.
+10,"How many modes does the data set 1, 2, 3, 4 have?",0|zero|no mode,70,Y,Check whether any value occurs more often than the others.|Every value occurs once.,"No value occurs more frequently than another, so the data set has no mode."

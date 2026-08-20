@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find the slope through points (1 2) and (5 10).,2,70,Y,Use rise over run.|Compute (10 - 2)/(5 - 1).,The slope is 8/4 = 2.
+2,What relationship do the slopes of distinct nonvertical parallel lines have?,they are equal|equal|same slope|the same slope,70,Y,Parallel lines have the same steepness.|Their rise-over-run ratios match.,Distinct nonvertical parallel lines have equal slopes.
+3,What relationship do the slopes of nonvertical nonhorizontal perpendicular lines have?,negative reciprocals|they are negative reciprocals|opposite reciprocals,70,Y,Their product is -1.|Flip the fraction and change its sign.,The slopes are negative reciprocals.
+4,What is the slope of a line perpendicular to a line with slope 3/4?,-4/3,70,Y,Take the reciprocal of 3/4.|Change the sign.,The perpendicular slope is -4/3.
+5,A horizontal line is perpendicular to what type of line?,vertical line|a vertical line|vertical,70,Y,Horizontal lines have slope 0.|The perpendicular direction goes straight up and down.,A horizontal line is perpendicular to a vertical line.
+6,A quadrilateral has two pairs of opposite sides parallel. What broad type of quadrilateral is it?,parallelogram|a parallelogram,70,Y,Parallel slopes identify each opposite side pair.|This definition includes rectangles rhombi and squares.,It is a parallelogram.
+7,A parallelogram has four right angles. What more specific classification always applies?,rectangle|a rectangle,70,Y,Four right angles define this quadrilateral.|Its opposite sides are already parallel.,It is a rectangle.
+8,A rectangle has four congruent sides. What more specific classification applies?,square|a square,70,Y,Combine four right angles with four equal sides.|The most specific familiar name is needed.,It is a square.
+9,A quadrilateral has exactly one pair of parallel sides. What is it?,trapezoid|a trapezoid,70,Y,Check the number of parallel side pairs.|Exactly one pair fits the usual exclusive definition.,It is a trapezoid.
+10,Adjacent sides of a quadrilateral have slopes 2 and -1/2. Are those sides perpendicular? Enter Yes or No.,Yes|yes|Y|y,70,Y,Multiply the slopes.|2 times -1/2 equals -1.,Yes. The slopes are negative reciprocals so the sides are perpendicular.

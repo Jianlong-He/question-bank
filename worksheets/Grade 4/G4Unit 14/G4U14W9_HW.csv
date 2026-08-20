@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: Sarah bought 5 notebooks that cost 40 cents each. She paid with a ten-dollar bill. How much change did Sarah receive? ___ dollars,8,60,N,,8
+2,Fill: Sarah bought a book that cost 75 cents. She paid with a five-dollar bill. How much change did Sarah receive? ___ dollars and ___ cents,"4,25",60,N,,"4,25"
+3,"Liam is visiting China and wants to buy a t-shirt that costs 250 Chinese yuan. He has 40 US dollars. If 1 US dollar can be converted into 6 Chinese yuan, does Liam have enough money to buy the t-shirt? (Yes or No)",No,60,N,,No
+4,"Chen is visiting from China with 100 US dollars and wants to buy gifts. His budget is 600 Chinese yuan. If 1 US dollar can be converted into 6 Chinese yuan, does Chen have enough money?",Yes,60,N,,Yes
+5,"Sofia is traveling to China and wants to buy a handbag that costs 800 Chinese yuan. She has 130 US dollars. If 1 US dollar can be converted into 6 Chinese yuan, does Sofia have enough money to buy the handbag? How many yuan will she have?","Yes,780",60,N,,"Yes,780"

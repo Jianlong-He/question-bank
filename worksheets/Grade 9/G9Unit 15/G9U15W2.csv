@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Translate P(2 -1) by the vector <3 4>. Enter the image x-coordinate then y-coordinate.,"5,3",70,Y,Add 3 to the x-coordinate.|Add 4 to the y-coordinate.,P' = (2 + 3  -1 + 4) = (5  3).
+2,Under the translation (x y) -> (x - 2 y + 1) point Q(-5 6) maps to Q'. Enter the image x-coordinate then y-coordinate.,"-7,7",70,Y,Subtract 2 from x.|Add 1 to y.,Q' = (-5 - 2  6 + 1) = (-7  7).
+3,Point A(-3 2) maps to A'(4 -1). Enter the horizontal change then vertical change.,"7,-3",70,Y,Compute image x minus original x.|Compute image y minus original y.,The change is (4 - (-3)  -1 - 2) = (7  -3).
+4,The translation vector is <-4 5>. What is the image of B(6 -2)? Enter x-coordinate then y-coordinate.,"2,3",70,Y,Add -4 to 6.|Add 5 to -2.,B' = (6 - 4  -2 + 5) = (2  3).
+5,A translation maps C(1 7) to C'(1 -2). What is the vertical change?,-9,70,Y,Subtract the original y-coordinate from the image y-coordinate.|Compute -2 - 7.,The vertical change is -2 - 7 = -9.
+6,What translation reverses the rule (x y) -> (x + 8 y - 3)?,(x-8 y+3)|(x - 8 y + 3)|x-8 y+3,70,Y,Undo each coordinate change.|Use the opposite vector <-8 3>.,The inverse translation is (x y) -> (x - 8 y + 3).
+7,Translate D(-2 -5) right 7 units and up 6 units. Enter the image x-coordinate then y-coordinate.,"5,1",70,Y,Right means add to x.|Up means add to y.,D' = (-2 + 7  -5 + 6) = (5  1).
+8,A point moves from E(9 4) to E'(3 10). Enter the translation vector's horizontal component then vertical component.,"-6,6",70,Y,Find 3 - 9.|Find 10 - 4.,The translation vector is <-6  6>.
+9,Apply a translation of <2 -1> followed by <-5 4>. Enter the combined horizontal change then vertical change.,"-3,3",70,Y,Add the horizontal components.|Add the vertical components.,The combined vector is <2 + (-5)  -1 + 4> = <-3  3>.
+10,A segment has length 12 before a translation. What is its image length?,12,70,Y,Translations are rigid transformations.|Rigid transformations preserve distance.,The image segment also has length 12.

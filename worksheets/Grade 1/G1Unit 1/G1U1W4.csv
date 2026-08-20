@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,How many tens are in 37?,3,80,Y,The 1st digit shows tens.,3
+2,How many ones are in 45?,5,80,Y,The 2nd digit shows ones,5
+3,How many ones in a ten?,10,100,N,,10
+4,Write the number that has 2 tens and 3 ones.,23,90,Y,"2 tens is 20, 3 ones is 3, what is 20 + 3",23
+5,Write the number that has 4 tens and no ones.,40,100,Y,No ones means 0 in the ones place.,40
+6,Fill:  __ tens + __ ones = 48,"4, 8",120,Y,Tens digit = 4; ones digit = 8,"4, 8"
+7,A number has 4 tens and the same number of ones as tens. What number is it?,44,130,Y,Tens digit = 4; ones digit = tens digit = ?,44
+8,You have 65 candies and give away 5. How many left?,60,140,Y,Take away the ones.,60
+9,"If I add 1 ten to 26, what number do I get?",36,150,Y,Each ten adds 10,36
+10,You have 25 candies and give away 15. How many left?,10,170,Y,Take away 15 means take away 1 ten and 5 ones,50

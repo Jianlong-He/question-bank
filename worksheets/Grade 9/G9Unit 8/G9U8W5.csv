@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A function rises until x = 2 and then falls. What kind of relative extremum occurs at x = 2?,maximum|relative maximum|local maximum,70,Y,Compare nearby function values.|The turning point is higher than its neighbors.,A relative maximum occurs at x = 2.
+2,A function falls until x = -1 and then rises. What kind of relative extremum occurs at x = -1?,minimum|relative minimum|local minimum,70,Y,Compare nearby values.|The turning point is lower than its neighbors.,A relative minimum occurs at x = -1.
+3,The greatest output of a function is 12. What is its absolute maximum value?,12,70,Y,"An absolute maximum is the greatest output over the whole domain.|The question asks for the value, not the input.",The absolute maximum value is 12.
+4,"A graph has its lowest point at (-3, -7). What is the absolute minimum value?",-7,70,Y,The minimum value is a y-coordinate.|Read the second coordinate.,The absolute minimum value is -7.
+5,"On the interval from x = 1 to x = 5, f(x) gets larger as x gets larger. Is f increasing or decreasing?",increasing|Increasing,70,Y,Compare the directions of x and f(x).|Both move upward.,The function is increasing on that interval.
+6,"On the interval from x = -4 to x = 0, f(x) gets smaller as x gets larger. Is f increasing or decreasing?",decreasing|Decreasing,70,Y,"As x moves right, watch the output.|The output moves downward.",The function is decreasing on that interval.
+7,"Where a graph lies above the x-axis, are its function values positive or negative?",positive|Positive,70,Y,Above the x-axis means y > 0.|Function values are y-values.,The function values are positive.
+8,"Where a graph lies below the x-axis, are its function values positive or negative?",negative|Negative,70,Y,Below the x-axis means y < 0.|Outputs are y-values.,The function values are negative.
+9,A graph crosses from negative values to positive values at x = 3. What is f(3)?,0,70,Y,"At the crossing, the graph is on the x-axis.|Points on the x-axis have y = 0.","At the x-intercept, f(3) = 0."
+10,Can a relative maximum be smaller than the absolute maximum? Enter Yes or No.,Yes|yes|Y|y,70,Y,Relative compares nearby points only.|Absolute compares the entire domain.,Yes. A local peak can be lower than the function's highest overall point.

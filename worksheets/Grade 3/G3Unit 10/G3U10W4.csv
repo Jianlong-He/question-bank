@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,A rectangle has area = 70 square centimeters (cm^2). The length = 10 cm. What is the width?,7|7 cm|7 centimeters,100,Y,Area = length x width. What number × 10 = 70?,7 cm   -> Area = length x width. 7 × 10 = 70,
+2,A rectangle has length = 5 cm and width = 6 cm. What is the area?,30|30 square centimeters|30 cm^2,100,Y,Area = length x width. ,30 square centimeters  -> Area = length x width = 5 x 6 = 30,
+3,A rectangle has area = 24 square meters (m^2). The width = 4 meters. What is the length?,6|6 m|6 meters,100,Y,Area = length x width. What number × 4 = 24?,6 m   -> Area = length x width. 6 × 4 = 24,
+4,"A large rectangle has: Length = 9, Width = 20. What is the area?",180,100,Y,Area = length x width,180   -> Area = length x width = 9 x 20 = 180,
+5,"If a land plot has length 25 m and width 40 m, what is the area?",1000|1000 square meters|1000 m²,100,Y,Area = length x width,1000   -> Area = length x width = 25 x 40 = 1000,
+6,A rectangle has area = 48 square units. One side is 6 units. What is the other side?,8|8 square units,100,Y,Area = length x width. What number × 6 = 48?,8 square units   -> Area = length x width. 8 × 6 = 48,
+7,"A rectangle is split into two smaller rectangles. One has area 32, the other 178. What is the total area?",210,100,Y,Total area = sum of smaller area,Total area = sum of smaller area = 32 + 178 = 210,
+8,A large rectangle is made from two rectangles: Area of rectangle A is 43. Area of rectangle B is 58. What is the total area?,101,100,Y,Total area = sum of all smaller area,Total area = sum of smaller area = 43 + 58 = 101,
+9,"Two lots cost the same price. Lot A area = 1,200 square meters (m²). Lot B area = 1,000 square meters (m²). Which lot is the better deal?",A|Lot A|a|Lot a,100,Y,better deal = price per square meters (m²) is cheaper,,
+10,Two lots cost the same price. Lot A area = 495 square meters (m²). Lot B area = 783 square meters (m²). Which lot is the better deal?,B|Lot B|B|Lot b,100,Y,better deal = price per square meters (m²) is cheaper,Lot B is the better deal because Total price = price per unit x unit size. Lot B has larger size so it has chpeater price per unit,

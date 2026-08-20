@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 4 tens = __ ones,40,300,Y,1 tens = 10 ones,40
+2,Fill: 6 hundreds = __ tens,60,300,Y,1 hundreds = 10 tens,60
+3,Fill: ___ hundreds = 70 tens,7,300,Y,1 hundreds = 10 tens,7
+4,Fill: ___ tens = 50 ones,5,300,Y,1 tens = 10 ones,5
+5,Fill: 7 tens +  12 ones =  8 tens +  ___ ones (Step 1 : Split 12  as 10 + 2 ),2,300,Y,Split 12 ones = 10 + 2 = 1 tens + 2 ones.,2
+6,Fill: 4 tens +  25 ones =  ___ tens +  5 ones (Step 1 : Split 25 as 10 + 10 + 5 ),6,300,Y,Split 20 ones = 20 + 5 = 2 tens + 5 ones,6
+7,Fill: 5 hundreds + 18 tens = __ hundreds + 8 tens (Step 1 : Split 18 tens as 10 tens + 8 tens ),6,300,Y,Split 18 tens = 10 tens + 8 tens = 1 hundreds + 8 tens,6
+8,Fill: 3 hundreds + 34 tens = 6 hundreds+ ___ tens (Step 1 : Split 34 tens as 30 tens + 4 tens ),4,300,Y,Split 34 tens = 30 tens + 4 tens = 3 hundreds + 4 tens.,4
+9,Fill 785 =  0 hundreds + __ tens + 5 ones,78,300,Y,785= 700 + 80 + 5. 700 = 70 tens,78
+10,Select which expressions represent the same amount as 456:400+50+6 400+30+20+6 300+100+50+6,"400+50+6, 400+30+20+6, 300+100+50+6",300,Y,456 = 400 + 50 + 6,"400+50+6, 400+30+20+6, 300+100+50+6"

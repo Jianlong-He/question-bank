@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: 3 x __ = 18,  __ / 9 = 2","6,18",80,Y,"For 3 x _ = 18: Think, ""What number times 3 makes 18?"" ; For __ / 9 = 2: Think the opposite of dividing -> multiply! 2 x 9 = ?","6,18"
+2,"Fill: 9 x __ = 54,  20 / 5 = __","6,4",80,Y,"For 9 x __ = 54: Start skip counting by 9 (9, 18, 27, …) until you reach 54. ; For 20 / 5 = __, Think, ""How many groups of 5 are 20?""","6,4"
+3,"Fill: 6 x __ = 36, __ / 7 = 8","6, 56",100,Y,"For 6 x __ = 36: Start skip counting by 6 (6, 12, 18, …) until you reach 36. ; For __ / 7 = 8, Think the opposite of dividing -> multiply! 8 x 7 = ?","6, 56"
+4,"Fill: __ x 4 = 32, 45 /  9 = __","8, 5",100,Y,"For __ x 4 = 32: Start skip counting by 4 (4, 8, 12, …) until you reach 32. ; For 45 / 9 = __, Think, ""How many groups of 9 are 45?""","8, 5"
+5,Find ★  when ★ / 6 = 7. So ★ = __,42,120,Y,Dividing is the opposite of multiplying. If ★ / 6 = 7 then ★ must be 6 x 7,42
+6,Find 🍎 when 63 = 9 x 🍎. So 🍎 = __,7,120,Y,"Think, ""What number multiplied by 9 gives 63?"" Skip counting by 9 until you get 63 or use division: 63 / 9 = ?",7
+7,You made 8 Christmas treat bags using 48 candies. Each bag will be shared with 2 friends. How many candies will each friend get?,3,140,Y,First find how many candies are in 1 bag using 48 / 8. Then share that number between 2 friends: divide by 2 again.,3
+8,A bakery made 81 muffins. They pack them into 9 trays. Each tray is then divided evenly onto 3 display shelves. How many muffins go on each shelf?,3,160,Y,Step 1: Find muffins per tray -> 81 / 9 . Step 2: Each tray's muffins are shared onto 3 shelves -> muffins in one tray / 3,3
+9,"A camp has 64 bottles of water. They sort the them into 8 groups for the team leaders. Each group has 4 members, and the leader shares the water bottles evenly with them. How many water bottles does each member get?",2,240,Y,Evenly = equally. Find bottles in each group: 64 / 8. Then divide that number among 4 members.,2
+10,"A teacher has 42 crayons for art class. She sorts them into 6 cups equally. There are 3 tables, each table receives the same number of cups. How many crayons does each table receive?",14,240,Y,Step 1: Crayons per cup: 42 / 6. Step 2: Cups per table: 6 / 3.  Step 3: Cups per table x Crayons per cup,14

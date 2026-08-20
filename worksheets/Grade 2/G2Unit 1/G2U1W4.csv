@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Lizzy has 16 cookies. She gives away 6 cookies to her friends. How many cookies does she have left?,10,300,Y,Subtract 16-6,10
+2,In a hospital ward there are 18 patients. 4 patients were discharged. How many patients are left in the ward?,14,300,Y,Subtract 18-4,14
+3,"16 passengers are sitting in a bus. At the next stop, 2 more passengers get on the bus and sit down. How many passengers are sitting in the bus now?",18,300,Y,16 + 4,18
+4,Fill: 15 + __ = 18,3,300,Y,What number plus 15 makes 18?,3
+5,Fill:16 - __ = 12,4,300,Y,What number do you subtract from 16 to get 12?,4
+6,"Some dogs were playing fetch at the park. Then, 4 more dogs arrived at the park. Now there are 15 dogs at the park. How many dogs were playing fetch at the beginning? ( 4 + ? = 15 )",11,300,Y,"Think: Something + 4 = 15, or 15 - 4 = ?",11
+7,"Some butterflies were flying in the garden. Then, 3 more butterflies arrived from a flower. Now there are 12 butterflies in the garden. How many butterflies were in the garden at the beginning?",9,600,Y,"Think: Something + 3 = 12, or 12 - 3 = ?",9
+8,Niya had a box with 18 crayons. Her brother took some crayons to color a picture. Now Niya has 11 crayons left. How many crayons did her brother take? (18 - ? = 11),7,600,Y,"Think: 18 - something = 11, or 11 + ? = 18",7
+9,"Maya received 20 dollars as pocket money. She spent money on four items: a book for 8, some candy for 4, a pen for 2 and an apple for 1.How much pocket money does Maya have left ( in dollars)",5,600,Y,"Subtract 20 -8,then take the answer and subtract 4 more, then take the answer and subtract 2 more,then take the answer and subtract one more",5
+10,Amy kept 18 water bottles for her guests in the pantry.Her guests drank 4 water bottles.Then she restocked 6 more water bottles in the pantry. How many water bottles are in the pantry now?,20,600,Y,"Subtract 18 - 4, then add 6",20

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Select. A student cuts a shape and rearranges it into a rectangle but says the area changes. Is the student correct?: Right Wrong,Wrong,100,Y,Think about cutting vs removing,Rearranging does not add or remove area → stays the same,
+2,A rectangle has area 20 square units. Another shape is rearranged to match this rectangle exactly. What is its area? Put the answer withour unit (i.e. 5 not 5 square units),20|20 square units,100,N,,Same shape after rearranging,
+3,A rectangle has length 9 and height 3. Find its area.,27,100,Y,What is the formula of rectangle area?,Rectangle area = width x height = 9 x 3 = 27,
+4,A triangle has base 10 and height 5. Find its area.,25,100,Y,What is the formula of triangle area?,Rectangle area = ½ x base x height = ½ x 10 x 5 = 25,
+5,A shape can be rearranged into a rectangle with height 4 units and width 6 units. What is its area?,24,100,Y,Same shape after rearranging,Same shape after rearranging. So shape area = rectangle area = height x width = 4 x 6 = 24,
+6,A shape consists of a rectangle (area 30) and a triangle (area 15). What is the total area?,45,100,Y,Add parts,30 + 15 = 45,
+7,"A shape is made of a rectangle (length 8, height 3) and a triangle (base 8, height 3). Find total area.",36,100,Y,Add rectangle + triangle,Rectangle = 8 × 3 = 24. Triangle = ½ × 8 × 3 = 12. Total = 36,
+8,"Find the area of two identical triangles, each with base 6 and height 4.",24,100,Y,"Find one, then double",One triangle = ½ × 6 × 4 = 12. Two = 24,
+9,"A shape is made of: a Rectangle: 10 × 4 and a Triangle: base 10, height 4. Find total area.",60,100,Y,Add both areas,"Rectangle = 40, Triangle = ½ × 10 × 4 = 20, Total = 60",
+10,"A complex shape is split into: a Rectangle: area 28 and a Triangle: base 8, height 7. Find total area. ",56,100,Y,Add both areas,"Triangle = ½ × 8 × 7 = 28, Total = 28 + 28 = 56",

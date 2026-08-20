@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is a segment from the center of a circle to a point on the circle called?,radius|a radius,70,Y,It is half a diameter.|It begins at the center.,The segment is a radius.
+2,What is a chord that passes through the center called?,diameter|a diameter,70,Y,It is the longest chord.|Its length is twice the radius.,The chord is a diameter.
+3,What line intersects a circle at two points?,secant|a secant,70,Y,A tangent intersects only once.|The line crosses the circle.,It is a secant.
+4,Write the area formula for a circle of radius r.,pi*r^2|pi r^2|A=pi*r^2,70,Y,Area depends on the square of radius.|Use pi.,The area is A=pi r^2.
+5,Find the area of a circle with radius 6 in terms of pi.,36pi|36*pi,70,Y,Use A=pi r^2.|Square 6.,The area is 36pi square units.
+6,Write the circumference formula for a circle of radius r.,2*pi*r|2pi r|C=2*pi*r,70,Y,Diameter is 2r.|Circumference is pi times diameter.,The circumference is C=2pi r.
+7,Find the circumference of a circle with radius 4 in terms of pi.,8pi|8*pi,70,Y,Use C=2pi r.|Substitute r=4.,The circumference is 8pi.
+8,Are all circles similar? Enter Yes or No.,Yes|yes|Y|y,70,Y,Any circle can be dilated to another.|Their corresponding linear measures share one scale factor.,Yes. All circles are similar.
+9,Two circles have radii 3 and 12. Find the scale factor from the smaller to the larger.,4,70,Y,Compare corresponding radii.|Compute 12/3.,The scale factor is 4.
+10,Two circles have radii in ratio 2:5. What is their area ratio?,4:25|4/25,70,Y,Square the radius ratio.|Compute 2^2:5^2.,Their area ratio is 4:25.

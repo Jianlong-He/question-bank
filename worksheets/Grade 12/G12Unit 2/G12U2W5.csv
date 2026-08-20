@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Complete the law of sines: a/sin(A)=b/sin(B)=___.,c/sin(C),70,Y,Match every side with its opposite angle.|Continue the same ratio pattern.,The third ratio is c/sin(C).
+2,A triangle has A=30 degrees and a=5. If B=90 degrees find b.,10,70,Y,Use b/sin90=5/sin30.|sin90=1 and sin30=1/2.,b=5/(1/2)=10.
+3,A triangle has A=45 degrees and a=7. If B=45 degrees find b.,7,70,Y,Equal angles have equal opposite sides.|The sine ratios are equal.,b=7.
+4,State the law of cosines for side c.,c^2=a^2+b^2-2abcos(C)|c^2=a^2+b^2-2ab cos(C),70,Y,Side c is opposite angle C.|Start with a^2+b^2 and subtract the cosine term.,c^2=a^2+b^2-2abcos(C).
+5,Use the law of cosines with a=3 b=4 and C=90 degrees to find c.,5,70,Y,cos90=0.|Then c^2=3^2+4^2.,c^2=25 so c=5.
+6,For a=5 b=7 and C=60 degrees find c^2.,39,70,Y,Use c^2=a^2+b^2-2abcosC.|cos60=1/2.,c^2=25+49-70(1/2)=39.
+7,Which law is most direct for two sides and their included angle?,law of cosines|cosine law,70,Y,The information pattern is SAS.|The sine law needs an opposite pair.,Use the law of cosines.
+8,Which law is most direct when a known side is paired with its opposite known angle?,law of sines|sine law,70,Y,The ratios pair opposite sides and angles.|A known pair starts the proportion.,Use the law of sines.
+9,A triangle has sides 3 4 and 5. Find the angle opposite side 5.,90|90 degrees,70,Y,Use the converse of the Pythagorean theorem.|3^2+4^2=5^2.,The angle opposite side 5 is 90 degrees.
+10,Can the law of cosines be used to solve an SSS triangle? Enter Yes or No.,Yes|yes|Y|y,70,Y,All three side lengths can be substituted.|Solve the resulting equation for a cosine value.,Yes. The law of cosines can find an angle from three sides.

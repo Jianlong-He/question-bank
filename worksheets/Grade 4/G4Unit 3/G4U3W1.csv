@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: The blank to complete the comparison. 12 is 2 times as many as __.,6,180,Y,What number times 2 equals 12?,6
+2,Fill: The blank to complete the comparison. 49 is 7 times as many as __.,7,180,Y,What number times 7 equals 49?,7
+3,Write this statement as a multiplication equation: 144 is 24 times as many as 6. (write the multiplication symbol as *),144=24*6|24*6=144|144=6*24|6*24=144,180,N,,144=24*6
+4,Sarah is 3 years younger than Jacob. Jacob is 4 years old. How old is Sarah?,1,180,Y,Subtract:4 - 3,1
+5,Lizzy has 2 times more apples than Jim. Jim has 4 apples. How many apples does Lizzy have?,8,180,Y,Multiply: 4 times 2,8
+6,"A bookstore bought 5 books yesterday. Today, they buy 10 times as many books. How many books did the bookstore buy today?",50,270,Y,"Multiply  5 times 10. Anything times 10, just add a zero.",50
+7,"Yesterday, a museum had 8 visitors in the first hour, in the second hour, the museum had 5 times as many visitors. How many visitors did the museum have in the second hour",40,270,Y,Multiply 8 times  5.,40
+8,Maya has 12 crayons. Her friend has 3 times as many crayons as Maya. How many crayons does her friend have?,36,270,Y,Multiply 12 by 3,36
+9,"Select how many cookies Amy makes during the five days. Amy made 5 cookies for a birthday party yesterday. During the next five days, she is planning to make 6 times as many cookies as she made yesterday.:30 50 35 25",30,360,Y,She made 6 times as many as yesterday:Multiply 5  times 6.,30
+10,Sammy has pocket money of 8 dollars. Jill has 5 times as much pocket money as Sammy. Jill spent 5 dollars from her pocket money. How much pocket money does Jill have now? (in dollars),35 dollars|35,400,Y,Step 1: Find Jill's money: 8 × 5. Step 2: Subtract what she spent.,35

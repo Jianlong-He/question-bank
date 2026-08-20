@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What two conditions must probabilities in a discrete distribution satisfy?,each is between 0 and 1 and the total is 1|probabilities are from 0 to 1 and sum to 1,70,Y,Check individual values and the total.|Negative probabilities are impossible.,Each probability is between 0 and 1 and all probabilities sum to 1.
+2,A distribution has probabilities 0.2 0.3 and 0.5. Is it valid? Enter Yes or No.,Yes|yes|Y|y,70,Y,All values lie between 0 and 1.|Their sum is 1.,Yes. It is a valid distribution.
+3,A distribution has probabilities 0.4 0.4 and 0.4. Is it valid? Enter Yes or No.,No|no|N|n,70,Y,Add the probabilities.|A total greater than 1 is impossible.,No. The probabilities sum to 1.2.
+4,For X values 0 1 2 with probabilities 0.2 0.5 0.3 find P(X>=1).,0.8,70,Y,Add probabilities for X=1 and X=2.|Compute 0.5+0.3.,P(X>=1)=0.8.
+5,For the same distribution find P(X=0).,0.2,70,Y,Read the table entry paired with X=0.|No addition is needed.,P(X=0)=0.2.
+6,Empirical probabilities are estimated from what source?,observed data|experimental data|relative frequencies,70,Y,They come from repeated observations.|Count outcomes and divide by trials.,Empirical probabilities come from observed relative frequencies.
+7,Theoretical probabilities are based on what?,a mathematical model|assumed equally likely outcomes|theoretical model,70,Y,They are computed before collecting data.|Use a model of the random process.,Theoretical probabilities come from a mathematical probability model.
+8,A fair decision between two choices should assign what probability to each?,1/2|0.5|50%,70,Y,Fairness gives equal chances.|The two probabilities must sum to 1.,Each choice should receive probability 1/2.
+9,A spinner gives A with probability 0.4 and B with probability 0.35. What probability remains for C?,0.25,70,Y,All probabilities total 1.|Compute 1-0.4-0.35.,P(C)=0.25.
+10,What does a discrete random variable assign to each outcome?,a numerical value|number|a number,70,Y,Random variables encode outcomes numerically.|The possible values are countable.,It assigns a numerical value to each outcome.

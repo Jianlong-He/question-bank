@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Solve 3x + 5 > 20. Enter the complete inequality.,x > 5|x>5,60,Y,"Subtract 5, then divide by 3.","3x > 15, so x > 5."
+2,Solve -4x + 7 ≤ 23. Enter the complete inequality.,x >= -4|x ≥ -4|x>=-4|x≥-4,70,Y,Subtract 7.|Dividing by a negative reverses the inequality.,"-4x ≤ 16. Dividing by -4 reverses the sign, giving x ≥ -4."
+3,Solve 2(3x - 1) > 4x + 10.,x > 6|x>6,70,Y,Distribute 2 and collect x-terms.,"6x - 2 > 4x + 10 gives 2x > 12, so x > 6."
+4,Solve -3(x + 2) ≥ 9.,x <= -5|x ≤ -5|x<=-5|x≤-5,70,Y,Divide by -3 and reverse the inequality.|Then subtract 2.,"x + 2 ≤ -3, so x ≤ -5."
+5,Solve 0.5x - 4 < 2.,x < 12|x<12,65,Y,"Add 4, then divide by 0.5.","0.5x < 6, so x < 12."
+6,Solve (2/3)x + 1 ≥ 5.,x >= 6|x ≥ 6|x>=6|x≥6,70,Y,"Subtract 1.|Multiply by 3/2, which is positive.","(2/3)x ≥ 4, so x ≥ 6."
+7,A worker has earned $35 and earns $17 per hour. She needs at least $120. What is the minimum whole number of additional hours she must work?,5,75,Y,Write 35 + 17h ≥ 120.,"17h ≥ 85, so h ≥ 5. The minimum whole number is 5 hours."
+8,"An elevator can carry at most 900 kg. Equipment weighs 150 kg, and each person is counted as 150 kg. What is the greatest number of people allowed?",5,75,Y,Write 150 + 150p ≤ 900.,"150p ≤ 750, so p ≤ 5. At most 5 people are allowed."
+9,A liquid starts at 18°C and cools 2.5°C per hour. It must stay above 8°C. For how many hours h does it stay above 8°C? Enter the complete inequality for h.,h < 4|h<4,80,Y,Write 18 - 2.5h > 8.|Remember the sign reverses when dividing by -2.5.,"-2.5h > -10, so h < 4."
+10,What is the least integer solution of -2x + 3 < 9?,-2,70,Y,Solve the inequality first.|The solution is x > -3.,-2x < 6. Dividing by -2 reverses the sign: x > -3. The least integer greater than -3 is -2.

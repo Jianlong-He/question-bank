@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Simplify 7x + 3x - 5.,10x - 5|10x-5,60,Y,Combine terms that have the same variable and exponent.,"7x + 3x = 10x, so the simplified expression is 10x - 5."
+2,Simplify 4a + 7 - 2a + 5.,2a + 12|2a+12,65,Y,Combine the a-terms and then the constants.,"4a - 2a = 2a and 7 + 5 = 12, giving 2a + 12."
+3,Use the distributive property to simplify 3(2x - 5).,6x - 15|6x-15,60,Y,Multiply 3 by both terms inside the parentheses.,3(2x) + 3(-5) = 6x - 15.
+4,Simplify 5(y + 2) - 3y.,2y + 10|2y+10,65,Y,Distribute 5 first.|Then combine the y-terms.,5(y + 2) - 3y = 5y + 10 - 3y = 2y + 10.
+5,Combine like terms: (3/4)x + (1/2)x.,(5/4)x|5x/4|1.25x,70,Y,Rewrite 1/2 with denominator 4.|Add the coefficients.,"3/4 + 1/2 = 3/4 + 2/4 = 5/4, so the result is (5/4)x."
+6,Simplify -2(3m - 4) + 5m.,-m + 8|-m+8|8 - m|8-m,75,Y,Distribute -2 carefully.|Then combine -6m and 5m.,-2(3m - 4) + 5m = -6m + 8 + 5m = -m + 8.
+7,Simplify 6x - 2 + 3(4 - x).,3x + 10|3x+10,75,Y,Distribute 3 across 4 - x.|Combine the x-terms and constants.,6x - 2 + 12 - 3x = 3x + 10.
+8,Factor 8x + 12 by taking out the greatest common factor.,4(2x + 3)|4(2x+3),70,Y,Find the greatest number that divides both 8 and 12.,"The greatest common factor is 4, so 8x + 12 = 4(2x + 3)."
+9,Evaluate 2(3x - 1) - 4x + 7 when x = -2.,1,80,Y,Simplify the expression before substituting.|It simplifies to 2x + 5.,"2(3x - 1) - 4x + 7 = 6x - 2 - 4x + 7 = 2x + 5. At x = -2, the value is -4 + 5 = 1."
+10,Evaluate (2/3)x - (1/6)x + 4 when x = 12.,10,80,Y,Combine the fractional coefficients first.|2/3 - 1/6 = 1/2.,The expression simplifies to (1/2)x + 4. Substituting x = 12 gives 6 + 4 = 10.

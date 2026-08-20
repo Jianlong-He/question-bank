@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Count the stars: ★★★★★★★★★★★★. How many stars are there?,12,80,N,,12
+2,"Fill: 10, 11, 12 , __ , 14, 15",13,90,N,,13
+3,"Which group shows correct counting?    A) 100, 101, 102, 103, 106    B) 100, 101, 104, 103, 105 C) 100, 101, 102, 103, 104, 105",C,120,Y,Did you skip a number? ; keep counting from 100; Review Number grid video,34
+4,Count backward from 5 to 0,"5, 4, 3, 2, 1, 0",120,N,,"5, 4, 3, 2, 1, 0"
+5,Count backward from 30 to 25,"30, 29, 28, 27, 26, 25",140,N,,"30, 29, 28, 27, 26, 25"
+6,What number comes next after 19?,20,150,Y,Count up each time by 1 and see what is the next one of 19. Review Number grid video,20
+7,What number comes right before 18?,17,170,Y,Count to 20 and step back 2 Review Number grid video,17
+8,"Fill: 10 = 10 + 0, 11  = 10 + 1, 12 = 10 + _ . What number +10 euqal to 12?",2,180,Y,"Look at the first digit from the right of 12; Start at 10 and count up until you reach 12, how many steps did you count?; Review Number grid video",2
+9,"Fill: 10 = 10 + 0, 11  = 10 + 1,   __ + 5 = 15. What number + 5 equal to 15?",10,190,Y,"Look at the second digit from the right of 15; Let us start at 5 and count up: 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, how many number did we count?; Review Number grid video",10
+10,"You start counting at 45, what are the next 5 numbers?","46, 47, 48, 49, 50",200,Y,"After 45 comes 46, then keep adding 1.","46, 47, 48, 49, 50"

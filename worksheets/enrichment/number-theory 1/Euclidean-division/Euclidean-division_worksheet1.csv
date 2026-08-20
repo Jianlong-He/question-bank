@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the remainder when you divide 889 by 4?,1,600,Y,889= 888+1 and 4|8 so 4|888 (since 888=8*111),1
+2,"Fill:Perform one step Euclidean division for a=245, b=12. Find q and r. q = __ , r = __","20,5",600,Y,Use a = bq + r. Find the largest multiple of 12 below 245.,"20,5"
+3,"Select. If gcd(a,b)=1, what is the simplest form of the fraction a/b? (A) a/b (B) 1 (C) 0 (D) a+b: A B C D",A,600,Y,"If the GCD is 1, there is no common factor to cancel.",A
+4,"Find gcd(1001,91).",91,600,Y,Divide 1001 by 91 and check the remainder.,91
+5,Use Euclidean division to determine if 17 divides 190.(Yes or No),No,600,Y,Divide 190 by 17. A remainder of 0 means yes.,No
+6,"Find gcd(n,n+1) for any integer n>0 using Euclidean Division.",1,600,Y,Use n+1 = n(1)+1.,1
+7,"True or False: If r=0 in the step a=bq+r, then b is the GCD of a and b (assuming a,b>0).",TRUE,600,Y,"If r=0, then a is an exact multiple of b.",TRUE
+8,Find the common divisors of 144 and 108.,"1,2,3,4,6,9,12,18,36",600,Y,Use Euclidean division first: 144=108(1)+36. Then find all divisors of 36.,"1,2,3,4,6,9,12,18,36"
+9,"Fill:Find gcd(2n,n+1) for any integer n>2 using Euclidean Division. If n is odd, GCD = ___ . If n is even, GCD = ___","2,1",600,Y,"Start with 2n=(n+1)(1)+(n−1). Then reduce to checking gcd(n−1,2)","2,1"
+10,"Fill: Find gcd(n^2 +2n+3,n+1) for any integer n>2. If n is odd, GCD = ___ . If n is even, GCD = ___","2,1",600,Y,"Write n^2+2n+3=(n+1)(n+1)+2. Then check gcd(n+1,2).","2,1"

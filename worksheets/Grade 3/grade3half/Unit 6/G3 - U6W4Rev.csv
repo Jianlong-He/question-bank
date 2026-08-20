@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Is 4/8 equal to 1/2? : Yes No,Yes,240,Y,Split 1/2 into eighths.,Yes
+2,Is 3/5 equal to 1/2? : Yes No,No,240,Y,Is 3 pieces out of 5 more or less than half?,No
+3,"Select, which of the following is equal to 1/2? : 3/6 1/4 3/7",3/6,240,Y,Half of 6 is what?,3/6
+4,"Select True or False of the statement ""4/8 represents the same amount as 1/2"" : True False",TRUE,240,Y,Divide each fourth into 2 smaller pieces.,TRUE
+5,What fraction is shaded if 4 out of 9 pieces are green and rest are not?,4/9,240,N,,4/9

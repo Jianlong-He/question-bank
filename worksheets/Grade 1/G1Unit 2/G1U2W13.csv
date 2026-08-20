@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select. True or False. 94 - 62 = 90 - 60 + 4 - 2 : True False,TRUE,120,Y,Breaking apart tens and ones,TRUE
+2,"Fill: 6 tens - 2 tens = __ tens, 5 ones - 3 ones = __ ones, 65 - 23 = __ tens + __ ones = __","4,2,4,2,42",150,N,,"4,2,4,2,42"
+3,Select. Which is correct answer of 69 - 44?   A)52    B)29    C)45    D)25 : A B C D,D,150,Y,"6 - 4 = 2, 9 - 4 = 5",D
+4,Fill: 64 - __ = 33,31,150,Y,Breaking apart tens and ones; The same as 64 - 33,31
+5,Fill: __ - 26 = 34,60,160,Y,Breaking apart tens and ones; The same as 34 + 26; 1 ten = 10 ones,60
+6,Select. Which is larger?   A) 73 - 42     B) 73 - 40 : A B C ,B,180,Y,40 < 42. B subtract a smaller number,B
+7,Select. Which is smaller?   A) 88 - 46    B) 88 - 36 : A B C,A,180,Y,46 > 36. A subtratc 1 more ten,A
+8,"James has 57 stickers, he gave 23 to his cousin. Then he got 12 more from teacher. How many stickers he has now?",46,200,Y,57 - 23 + 12 = __,46
+9,"Fill: 33 - 12 = __, 32 - 12 = __, 31 - 12 = __, 30 - 12 = __","21,20,19,18",220,Y,31 - 12 is 1 less than 32 - 12; 30 - 12 is 2 less than 32 - 12,"21,20,19,18"
+10,Select two different subtraction that equal 23.    A) 43 - 20 B) 60 - 47 C) 50 - 27 : AB AC BC,AC,240,Y,60 - 47 is 7 less than 67 - 47. What is 60 - 47?; 50 - 27 is 7 less than 57 - 27. What is 50 - 27?,AC

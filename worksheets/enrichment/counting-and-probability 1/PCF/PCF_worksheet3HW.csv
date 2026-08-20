@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Use the distribution rule to calculate 16 × 14.,224,45,Y,Write 14 as 10 + 4;Add 16 × 10 and 16 × 4,16 × 14 = 160 + 64 = 224.
+2,Calculate 35 × 22 by breaking 22 into 20 + 2.,770,45,Y,Compute 35 × 20 and 35 × 2;Add the results,35 × 22 = 700 + 70 = 770.
+3,Expand and calculate (5 + 3)(7 + 4) using extended distribution.,88,60,Y,Make four products;Add them,(5 + 3)(7 + 4) = 35 + 20 + 21 + 12 = 88.
+4,Calculate 72 × 13 by breaking 13 into 10 + 3.,936,60,Y,Compute 72 × 10 and 72 × 3;Add the partial products,72 × 13 = 720 + 216 = 936.
+5,A cafe has 3 old snack choices and 4 new snack choices. It also has 2 hot drinks and 3 cold drinks. How many snack-drink combinations are possible?,35,60,Y,There are 3 + 4 snacks and 2 + 3 drinks;Multiply the totals,"There are 7 snack choices and 5 drink choices, so there are 7 × 5 = 35 combinations."

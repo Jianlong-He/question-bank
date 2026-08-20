@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What should both f(g(x)) and g(f(x)) equal when f and g are inverses?,x|the identity function,70,Y,Inverse operations undo each other.|Both composition orders must return the original input.,Both compositions equal x.
+2,Let f(x)=3x+2 and g(x)=(x-2)/3. Are they inverses? Enter Yes or No.,Yes|yes|Y|y,70,Y,Compose the functions in both orders.|Each composition simplifies to x.,Yes. Both f(g(x)) and g(f(x)) equal x.
+3,For f(x)=3x+2 and g(x)=(x-2)/3 find f(g(8)).,8,70,Y,Evaluate g(8) first.|Then apply f to the result.,g(8)=2 and f(2)=8.
+4,For f(x)=3x+2 and g(x)=(x-2)/3 find g(f(-5)).,-5,70,Y,Evaluate f(-5) first.|Then apply g to the result.,f(-5)=-13 and g(-13)=-5.
+5,Are f(x)=x^2 and g(x)=sqrt(x) inverses on all real numbers? Enter Yes or No.,No|no|N|n,70,Y,The square root has only nonnegative outputs.|g(f(x))=|x| rather than x for negative x.,No. They are inverses only after an appropriate domain restriction.
+6,Let f(x)=x+4 and g(x)=x-4. Find f(g(x)).,x,70,Y,Substitute x-4 into f.|Add 4 after subtracting 4.,f(g(x))=(x-4)+4=x.
+7,Let f(x)=2x and g(x)=x/3. Are they inverses? Enter Yes or No.,No|no|N|n,70,Y,Compose them.|f(g(x))=2x/3 rather than x.,No. Their composition is not the identity.
+8,To verify inverse functions algebraically how many composition orders should be checked?,2|two|both,70,Y,One order checks one direction of undoing.|A complete verification uses f circle g and g circle f.,Both composition orders should be checked.
+9,If a function is one-to-one can it have two different inverse functions? Enter Yes or No.,No|no|N|n,70,Y,An inverse must reverse every ordered pair.|That reversal is uniquely determined.,No. A one-to-one function has a unique inverse.
+10,A table for f has pairs (1 5) and (2 8). A table for g has pairs (5 1) and (8 2). Is this evidence that g is f inverse?,Yes|yes|Y|y,70,Y,Compare each pair with its reversal.|Inverse tables swap every input and output.,Yes. The listed pairs are reversed as required.

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: Write a multiplication sentence for: 4 + 4 + 4 + 4 + 4 + 4 = __ x __,"6, 4",80,Y,number of groups x group size; Count how many 4s there are. That number is the number of groups which go in the first box.,"6, 4"
+2,"Fill: 0 x 5 = __, 0 x 8 = __, 0 x 10 = __","0, 0, 0",80,Y,"Anything multiplied by 0 is always 0, because you have zero groups.","0, 0, 0"
+3,"Fill: 1 x 6 = __, 1 x 9 = __, 1 x 3 = __","6, 9, 3",80,Y,Anything multiplied by 1 stays the same number. That means you only have 1 group,"6, 9, 3"
+4,"Fill: 1 x 1 = __, 2 x 2 = __, 3 x 3 = __, 4 x 4 = __, 5 x 5 = __","1, 4, 9, 16, 25",120,Y,"Think as number of groups x size of each group. We has equal number of groups and size of the group each time; These are ""doubles"", a number multiplied by itself.","1, 4, 9, 16, 25"
+5,"Fill: 1 x 4 = __, 2 x 4 = __, 3 x 4 = __, 4 x 4 = __, 5 x 4 = __, 6 x 4 = __","4, 8, 12,16, 20, 24",140,Y,"Think as number of groups x size of each group. Each time has 1 more group; You can skip count by 4s: 4, 8, 12, 16, 20, 24.","4, 8, 12,16, 20, 24"
+6,"Fill: 3 x 6 = __, 4 x 6 = __, 5 x 6 = __, 6 x 6 = __","18, 24, 30, 36",140,Y,"Think as number of groups x size of each group. Each time has 1 more group; Use skip counting by 6s: 6, 12, 18, 24, 30, 36.","18, 24, 30, 36"
+7,Select all statements that give the same number?  A) 6 x 8 and 5 x 8     B) 2 x 6 and 3 x 4     C) 2 x 6 and 7 x 2 : A B C,B,160,Y,Are the totals the same? ; Work out each multiplication or compare using equal groups.; Example: 2 x 6 means 2 groups of 6. 3 x 4 means 3 groups of 4.,B
+8,Lily eats 3 candies every day for each week. One week has 7 days. How many candies she eat every week?,21,160,Y,"This is 7 days with 3 candies each, so think: 3 x 7.",21
+9,Jack has 16 toy cars. He has 4 baskets. He wants each basket has equal number of toy cars. How many toy cars in each basket?,4,180,Y,"You are sharing equally so 16 / 4; Or think: ""What times 4 makes 16?""",4
+10,Select the expression that gives the same answer as 2 + 2 + 2 + 2 + 2 + 2    A) 3 x 4      B) 2 x 6      C) 4 x 2 : A B C,B,200,Y,"number of groups x group size; Count how many 2s there are. That number will be one of the numbers of group, it should be in the mulplication ",B

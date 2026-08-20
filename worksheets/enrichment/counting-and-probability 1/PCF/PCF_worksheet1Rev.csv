@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A pool is 10 meters long, 6 meters wide, and 3 meters deep. What is its volume?",180,60,Y,Use length times width times depth;Multiply the three dimensions,The volume is 10 × 6 × 3 = 180 cubic meters.
+2,A display has 4 layers. Each layer contains 3 rows of 7 blocks. How many blocks are in the display?,84,60,Y,Find the blocks in one layer;Then multiply by 4 layers,"One layer has 3 × 7 = 21 blocks, so the display has 4 × 21 = 84 blocks."
+3,Find the missing factor in 8 × ? × 5 = 280.,7,60,Y,Multiply the known factors first;Then divide 280 by their product,"8 × 5 = 40, and 280 ÷ 40 = 7, so the missing factor is 7."
+4,"A store has 5 shelves. Each shelf holds boxes 3 wide, 4 deep, and 2 high. How many boxes are there altogether?",120,90,Y,Find the boxes on one shelf;Then multiply by the number of shelves,One shelf holds 3 × 4 × 2 = 24 boxes. Five shelves hold 5 × 24 = 120 boxes.
+5,A rectangular prism has volume 504 cubic cm. Its length is 9 cm and its width is 7 cm. What is its height?,8,90,Y,Use 9 × 7 × height = 504;Divide by 9 × 7,"9 × 7 = 63, and 504 ÷ 63 = 8, so the height is 8 cm."

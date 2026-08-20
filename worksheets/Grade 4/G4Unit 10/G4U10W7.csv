@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Compare: 0.46 _____ 0.39.(Use < , >, or =)",>,600,Y,Compare the tenths: 4 tenths vs 3 tenths,>
+2,"Compare: 2.3 _____ 2.17.(Use < , >, or =)",>,600,Y,Think 2.3 as 2.30; Compare 2.30 and 2.17,>
+3,"Compare: 3.08 _____ 3.8.(Use < , >, or =)",<,600,Y,3.08 has 0 tenths;3.8 has 8 tenths,<
+4,"Compare: 4.25 _____ 4.26.(Use < , >, or =)",<,600,N,,<
+5,"Compare: 7.4 _____ 7.62.(Use < , >, or =)",<,600,Y,Compare tenths: 4 tenths vs 6 tenths,<
+6,"Compare: 3 ones and 7 tenths _____ 3.52.(Use < , >, or =)",>,600,Y,3 ones and 7 tenths = 3.7;Compare 3.7 and 3.52,>
+7,"Compare: 6 ones and 18 hundredths _____ 6.2.(Use < , >, or =)",<,600,Y,6 ones and 18 hundredths = 6.18;Compare 6.18 and 6.20,<
+8,"Compare: 4 ones and 5 hundredths _____ 4.5.(Use < , >, or =)",<,600,Y,4 ones and 5 hundredths = 4.05;Compare 4.05 and 4.50,<
+9,"Compare: 2 ones and 34 hundredths _____ 2.29.(Use < , >, or =)",>,600,Y,2 ones and 34 hundredths = 2.34;Compare 2.34 and 2.29,>
+10,"Compare: 8 ones and 9 tenths _____ 8.89.(Use < , >, or =)",>,600,Y,8 ones and 9 tenths = 8.9;Think 8.9 as 8.90;Compare 8.90 and 8.89,>

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select. True or False.  3 + 4 = 2 + 5: True False,TRUE,100,Y,A = B: A equal to B,TRUE
+2,Select. Choose all equations that is true. A) 6 = 6  B) 12 = 12  C) 13 = 31 : AC AB A C ABC,AB,120,Y,A = B: A equal to B,AB
+3,Select. Which is equal to 14?   A) 7 + 7    B) 2 + 10    C) 4 + 8 : A B C D,A,120,Y,A = B: A equal to B,A
+4,Select. James has 4 cats and 2 dogs. Compare cats and dogs.  4 __ 2 : < > =,>,110,Y,"Fill in with <, > or =; A < B: A smaller than B. A > B: A greater than B. A = B: A equal to B",>
+5,Select. Which equation is true?  A) 6  + 8 < 13  B) 10 + 8 = 18  C)  20 - 4 < 14 : A B C,B,120,Y,A < B: A smaller than B. A > B: A greater than B. A = B: A equal to B,B
+6,Select. Which is equal to 12?   A) 4 + 4 + 4 + 4   B) 2 + 2 + 2 + 2 + 2 + 2    C) 20 - 2 - 2 - 2 : A B C D,B,160,Y,A = B: A equal to B; Skip counting by 2,B
+7,"Select. Fill in it with <, > or =.  38 + 10  __  10 + 10 + 10 : < > =",>,160,Y,A < B: A smaller than B. A > B: A greater than B. A = B: A equal to B,>
+8,"Select. Fill in it with <, > or =.   20 - 13 __ 4 + 3 : < > =",=,180,Y,A = B: A equal to B,=
+9,Select. True or False. 100 - 50 > 10 + 10 + 10 + 10 + 10: True False,FALSE,180,Y,A < B: A smaller than B. A > B: A greater than B. A = B: A equal to B; Skip counting by 10s,FALSE
+10,"Select. Mary has 20 stickers, Amy has 13 stickets but wins 7 more in class. Do they have an euqal number of stickets? : Yes No",Yes,200,Y,A = B: A equal to B,Yes

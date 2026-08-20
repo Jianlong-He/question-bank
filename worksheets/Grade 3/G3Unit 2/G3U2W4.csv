@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select which multiplication property the student uses. ""16 x 5 is hard. I'll do (2 x 5) x 8 instead.""  : Commutative Distributive Associative",Associative,80,Y,The student is breaking 16 into 2 x 8 and regrouping the multiplication.,Associative
+2,Select True or False.  4 x 5 x 2 = 5 x 2 x 4 : True False,TRUE,80,Y,Associative property of multiplication. You can change the order of numbers in multiplication and still get the same answer.,TRUE
+3,Fill: 3 x 24 = 3 x (3 x __) = 9 x __ = __,"8, 8,72",100,Y,Associative property of multiplication; Break 24 into factors. One way is: 24 = 3 x 8,"8, 8,72"
+4,Fill: 4 x 18 = 4 x (2 x __) = 8 x __ = __,"9,9,72",100,Y,Associative property of multiplication; Break 18 into factors. One way is: 18 = 2 x 9.,"9,9,72"
+5,"You know 4 x 25 = 100 and 4 x 8 = 32, what is 4 x 33?",132,140,Y,Distribution property of multiplication. 33 = 25 + 8,132
+6,"You know 4 x 25 = 100 and 100 x 2 =200, what is 8 x 25?",200,140,Y,Associative property of multiplication. You can change the order of numbers in multiplication and still get the same answer.,128
+7,"You know 8 x 4 = 32 and 4 x 32 = 128, what is 8 x 16?",128,160,Y,Associative property of multiplication,216
+8,What is 6 x 36? Use Associative or Distributive property to solve it,216,160,Y,Try to write 36 as 6 x 6 or 30 + 6; Distribution property of multiplication is easier to use here: 6 x 36  = 6 x (30 + 6) = 180 + 36 = 216,216
+9,"You know 10 x 18 = 180,  What is 15 x 12?",180,160,Y,Associative + commutative property of multiplication. Write 15 x 12 = 3 x 5 x 2 x 6 and use commutative property + regroup to rewrite it as (3 x 6) x ( 5 x 2) = 18 x 10 = 180,180
+10,"You know 4 x 7 = 28, 10 x 28 = 280, 8 x 7 = 56,  what is 12 x 28?",336,200,Y,Distribution + Association property of multiplication; 12 x 28 = (10 + 2) x 28 = 10 x 28 + 2 x 28 = 280 + 2 x 4 x 7 = 280 + 8 x 7 = 280 + 56 = 336,336

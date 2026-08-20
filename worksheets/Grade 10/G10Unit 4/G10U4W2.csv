@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,The sum of two rational numbers is always rational. Enter True or False.,True|true|T|t,70,Y,Write each number as a fraction.|A common denominator produces another fraction.,The statement is true.
+2,The product of two rational numbers is always rational. Enter True or False.,True|true|T|t,70,Y,Multiply their integer numerators and denominators.|The denominator remains nonzero.,The statement is true.
+3,If r is a nonzero rational number and x is irrational is rx rational or irrational?,irrational,70,Y,Assume rx were rational and divide by r.|That would make x rational which is a contradiction.,The product is irrational.
+4,If r is rational and x is irrational is r+x rational or irrational?,irrational,70,Y,Assume the sum were rational and subtract r.|That would make x rational.,The sum is irrational.
+5,Is sqrt(2)+sqrt(2) rational or irrational?,irrational,70,Y,Combine like radicals.|The expression equals 2sqrt(2).,A nonzero rational times sqrt(2) is irrational.
+6,Is sqrt(2)*sqrt(8) rational or irrational?,rational,70,Y,Multiply under the radical.|sqrt(16)=4.,The product equals 4 so it is rational.
+7,Is sqrt(3)+(-sqrt(3)) rational or irrational?,rational,70,Y,The terms are opposites.|Their sum is zero.,The result 0 is rational.
+8,Is 5+sqrt(7) rational or irrational?,irrational,70,Y,Five is rational and sqrt(7) is irrational.|A rational plus an irrational is irrational.,The sum is irrational.
+9,If x and y are irrational must x+y be irrational? Enter Yes or No.,No|no|N|n,70,Y,Try opposite irrational numbers.|sqrt(2)+(-sqrt(2))=0.,No. Two irrational numbers can have a rational sum.
+10,If x and y are irrational must xy be irrational? Enter Yes or No.,No|no|N|n,70,Y,Try multiplying the same square root by itself.|sqrt(2)*sqrt(2)=2.,No. Two irrational numbers can have a rational product.

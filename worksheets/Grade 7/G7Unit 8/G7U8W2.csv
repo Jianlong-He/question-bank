@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A rectangle has a side length of 12 and is scaled using a factor of 0.4. What is the corresponding side length in the scaled copy?",24/5|4.8,75,Y,"Multiply the original length by the scale factor.","12×0.4=4.8."
+2,"An original triangle has side EF = 9. After scaling, E'F' = 15. What is the scale factor?",5/3|1.67,75,Y,"Scale factor = new/original.","15/9≈1.666… → 1.67."
+3,"A scaled shape has a side of length 21. The corresponding side in the original shape is 14. What is the scale factor?",3/2|1.5,80,Y,"Divide scaled side by original side.","21/14=1.5"
+4,"A quadrilateral has sides 4, 10, and 16. A second shape has sides 6, 15, and 24. Fill in the blanks: The scale factor for all sides is ___, so is this a scaled copy? (Enter Yes or No)","1.5, Yes|yes|Y|y",75,Y,"Check if all sides grow by the same factor.","4×1.5=6, 10×1.5=15, 16×1.5=24. All match, so Yes."
+5,"A drawing shows a 6 cm segment representing 48 cm in real size. What is the scale factor from drawing to actual?",8,80,Y,"Divide actual length by drawing length.","48/6=8"
+6,"A scale drawing has a factor of 0.3. A real beam is 27 units long. How long is the beam in the drawing?",8.1|81/10|8 1/10,80,Y,"Multiply real length by scale factor.","27×0.3=8.1"
+7,"On a map, 2.4 cm represents 18 km. How many kilometers does 5 cm represent?",37.5|75/2|37 1/2,85,Y,"Find km per cm, then multiply.","18/2.4=7.5 km per cm → 7.5×5=37.5"
+8,"A blueprint uses a scale of 1 to 80. If a real hallway is 560 units long, how long is it in the drawing?",7,85,Y,"Divide real length by scale ratio.","560/80=7"
+9,"A distance model uses 1 cm = 0.025 km. How many kilometers are represented by 32 cm?",0.8|4/5,75,Y,"Multiply centimeters by km-per-centimeter.","32×0.025=0.8"
+10,"A jogger travels 12 km. A map uses a scale where 1 cm = 0.4 km. How many centimeters should represent the jogger’s route?",30,75,Y,"Divide distance by km-per-centimeter.","12/0.4=30"

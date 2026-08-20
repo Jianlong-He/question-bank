@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If f sends 3 to 8, what does f inverse send 8 to?",3,70,Y,"An inverse reverses input and output.|Swap the ordered pair (3, 8).",The inverse sends 8 back to 3.
+2,Find the inverse rule of f(x) = x + 5.,f^-1(x)=x-5|f⁻¹(x)=x-5|x-5|x - 5,70,Y,Undo adding 5.|The inverse operation is subtraction.,The inverse rule is f^-1(x) = x - 5.
+3,Find the inverse rule of f(x) = 3x.,f^-1(x)=x/3|f⁻¹(x)=x/3|x/3|x / 3,70,Y,Undo multiplication by 3.|Divide the input by 3.,The inverse rule is f^-1(x) = x/3.
+4,"If f(x) = 2x + 1, find f inverse of 7.",3,70,Y,Solve 2x + 1 = 7.|The solution is the original input.,"2x = 6, so f inverse of 7 is 3."
+5,The graph of an inverse swaps which coordinates of every point?,x and y|the x and y coordinates|input and output,70,Y,"An inverse reverses ordered pairs.|(a, b) becomes (b, a).",The x- and y-coordinates are swapped.
+6,The graph of a function and its inverse are reflections across which line?,y=x|y = x,70,Y,Swapping coordinates reflects points.|The mirror line contains points whose coordinates are equal.,The graphs reflect across y = x.
+7,Does f(x) = x^2 on all real numbers have an inverse that is a function? Enter Yes or No.,No|no|N|n,70,Y,"Check whether different inputs share outputs.|For example, 2 and -2 both map to 4.","The function is not one-to-one on all real numbers, so its inverse relation is not a function."
+8,"If f(-2) = 5, what ordered pair lies on the graph of the inverse?","(5,-2)|5,-2",70,Y,"The original point is (-2, 5).|Swap its coordinates.","The inverse contains the point (5, -2)."
+9,Find the inverse rule of f(x) = x - 4.,f^-1(x)=x+4|f⁻¹(x)=x+4|x+4|x + 4,70,Y,Undo subtracting 4.|Add 4.,The inverse rule is f^-1(x) = x + 4.
+10,"If f and g are inverses and f(6) = 10, find g(10).",6,70,Y,Inverse functions reverse each other.|Swap input and output.,"Because f sends 6 to 10, g sends 10 to 6."

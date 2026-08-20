@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answer,Question Time (seconds),Hints Allowed,Hints,Solution,ImageURL
+1,Select which is the best unit to measure the length of a pencil : Centimeters Meters Kilometers,Centimeters,60,No,No,Centimeters is best for a pencil,
+2,A crayon is 6 centimeters long. A marker is 10 centimeters long. How much longer is the marker? __ cm,4,60,No,No,10 - 6 = 4 cm longer,
+3,"Select which object would you measure in feet : ""A coin"" ""A paper clip"" ""A grain of rice"" ""A bedroom""","""A bedroom""",60,No,No,A room would be measured in feet,
+4,A string is 15 inches long. You cut off 7 inches. How long is the string now in inches?,8,60,No,No,15 - 7 = 8 inches,
+5,"Select which is heavier, 1 pound or 1 ounce? : Pound Ounce Same",Pound,60,No,No,1 pound is heavier than 1 ounce (16 oz = 1 lb),
+6,A rope is 8 feet long and another is 5 feet long. What is the total length in feet?,13,60,No,No,8 + 5 = 13 feet,
+7,Select about how long is a school bus in meters : 1 10 100,10,60,No,No,A school bus is about 40 feet long,
+8,"If a shelf is 24 inches long and you add a 12-inch shelf beside it, how long is the total shelf in inches?",36,60,No,No,24 + 12 = 36 inches,
+9,Select which tool would you use to measure the length of a book : Ruler Thermometer Stopwatch,Ruler,60,No,No,A ruler is used to measure the length of a book,
+10,A plant grows 5 centimeters in May and 8 centimeters in June. How much did it grow in total in centimers?,13 cm,60,No,No,5 + 8 = 13 centimeters,

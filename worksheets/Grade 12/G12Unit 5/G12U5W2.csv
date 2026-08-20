@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the standard equation of a horizontal hyperbola centered at the origin?,x^2/a^2-y^2/b^2=1,70,Y,A horizontal hyperbola has the x term positive.|The squared terms are subtracted.,The equation is x^2/a^2-y^2/b^2=1.
+2,What is the standard equation of a vertical hyperbola centered at the origin?,y^2/a^2-x^2/b^2=1,70,Y,A vertical hyperbola has the y term positive.|The squared terms are subtracted.,The equation is y^2/a^2-x^2/b^2=1.
+3,Find the center of (x-2)^2/9-(y+1)^2/16=1. Enter x then y.,"2,-1",70,Y,Use the translated standard form.|Read h from x-h and k from y-k.,The center is (2 -1).
+4,Find the vertex x-values of x^2/9-y^2/16=1.,"-3,3",70,Y,The transverse semi-axis is a=3.|Move left and right from the center.,The vertex x-values are -3 and 3.
+5,Give the positive-slope asymptote of x^2/9-y^2/16=1.,y=4x/3|y=(4/3)x,70,Y,For a horizontal hyperbola use y=plus or minus (b/a)x.|Here b=4 and a=3.,The positive-slope asymptote is y=4x/3.
+6,For a hyperbola what equation relates focal distance c and parameters a and b?,c^2=a^2+b^2,70,Y,Hyperbola foci lie beyond the vertices.|Add the squared parameters.,The relation is c^2=a^2+b^2.
+7,For x^2/9-y^2/16=1 what is the positive x-coordinate of a focus?,5,70,Y,Use c^2=9+16.|Take the positive square root.,c=5 so the positive focus has x-coordinate 5.
+8,Which squared term is positive for a horizontal hyperbola?,the x term|x term|x^2 term,70,Y,The branches open along the positive term's axis.|Horizontal opening follows the x-axis.,The x-squared term is positive.
+9,What are the center coordinates of (y-4)^2/25-(x+3)^2/9=1? Enter x then y.,"-3,4",70,Y,The x expression is x-(-3).|The y expression is y-4.,The center is (-3 4).
+10,For a hyperbola what is constant about the distances from a point on the curve to the two foci?,their absolute difference|the absolute difference is constant|difference of the distances,70,Y,A hyperbola uses a difference rather than a sum.|Take the absolute value so order does not matter.,The absolute difference of the focal distances is constant and equals 2a.

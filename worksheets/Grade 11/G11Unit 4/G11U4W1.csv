@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is a zero of a polynomial function?,an x-value where the function equals zero|an input where f(x)=0|an x-intercept,70,Y,Think about where the graph meets the x-axis.|At an x-intercept the output is zero.,A zero is an input x for which f(x)=0.
+2,Find the zeros of f(x)=(x-3)(x+2). Enter them in increasing order.,"-2,3",70,Y,Set each factor equal to zero.|Solve x+2=0 and x-3=0.,The zeros are -2 and 3.
+3,Find the zeros of f(x)=x(x-5)(x+1). Enter them in increasing order.,"-1,0,5",70,Y,Set every factor equal to zero.|Include the zero from the factor x.,"The zeros are -1, 0, and 5."
+4,Which equation has zeros 4 and -7?,(x-4)(x+7)=0|y=(x-4)(x+7),70,Y,A zero r gives a factor x-r.|Use factors x-4 and x+7.,An equation with those zeros is (x-4)(x+7)=0.
+5,For f(x)=2(x+1)(x-6) what are the x-intercepts? Enter the x-values in increasing order.,"-1,6",70,Y,The leading factor 2 does not change the zeros.|Set each binomial factor equal to zero.,The x-intercepts occur at x=-1 and x=6.
+6,A graph crosses the x-axis at -3 and 2. Write a monic quadratic in factored form.,f(x)=(x+3)(x-2)|y=(x+3)(x-2)|(x+3)(x-2),70,Y,Use one factor for each x-intercept.|A root r gives factor x-r.,A matching monic quadratic is f(x)=(x+3)(x-2).
+7,Does f(x)=x^2+1 have any real zeros? Enter Yes or No.,No|no|N|n,70,Y,Solve x^2=-1 over the real numbers.|A real square cannot be negative.,The function has no real zeros.
+8,If f(5)=0 what point lies on the graph?,"5,0",70,Y,A zero has output 0.|Write the input and output as coordinates.,"The point is (5, 0)."
+9,Match f(x)=x^2-9 with its two real zeros in increasing order.,"-3,3",70,Y,Factor a difference of squares.|x^2-9=(x-3)(x+3).,The zeros are -3 and 3.
+10,"A cubic polynomial has zeros -2, 1, and 4. Write a monic factored function.",f(x)=(x+2)(x-1)(x-4)|y=(x+2)(x-1)(x-4)|(x+2)(x-1)(x-4),70,Y,Use a factor x-r for each zero r.|Keep the leading coefficient equal to 1.,A matching function is f(x)=(x+2)(x-1)(x-4).

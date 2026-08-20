@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Expand 10^3 as repeated multiplication: __ x __ x __,"10,10,10",240,Y,Exponent tells how many 10s,"10,10,10  -> 10^3 means 3 tens multiplied",https://i.ibb.co/VW7rNCWF/G5-U10-W2-Q1.png
+2,"What is 10^5? Please write numbers without commas. For example write 1000 instead of 1,000",100000,240,Y,10^n = 1 followed by n zeros,"100000|100,000  -> 10^5 = 1 followed by 5 zeros",https://i.ibb.co/DHCqBjDR/G5-U10-W2-Q2.png
+3,"Fill: in 10^7, base = __, exponent = __","10, 7",240,Y,Base is the big number. Exponent is the small raised number,"10, 7   -> In 10^7, base is 10, exponent is 6",
+4,"Start with 1. Multiply by 10 6 times. What number do you get? Please write numbers without commas. For example write 1000 instead of 1,000",1000000,240,Y,6 times means 6 zeros,"1000000|1,000,000",
+5,Write this statement as a power of 10: 1 followed by 9 zeros,10^9,240,Y,Write as __ ^ __. Number of zeros = exponent,10^9,
+6,Select which of the above is equal to one thousand?,B|b,240,Y,Rewrite one thousand as a number and count zeros,B|b  -> one thousand = 1000 which has 3 zeros,https://i.ibb.co/WWRgKNL9/G5-U10-W2-Q6.png
+7,"Write this number as a power of 10: 10,000,000",10^7,240,Y,Write as __ ^ __. Count zeros,10^7,
+8,"Which number above is equal to 10^10? : 1-billion(1,000,000,000) 10-billion(10,000,000,000) 100-billion(100,000,000,000) ",B|b,240,Y,10^10 is 1 followed by 10 zeros,B|b  -> 10^10 is 1 followed by 10 zeros. 10 billion has 10 zeros,https://i.ibb.co/Hp2vjvwF/G5-U10-W2-Q8.png
+9,"Without writing the whole number, how many zeros are in 10^11?",11,240,Y,Exponent tells how many zeros,11,https://i.ibb.co/Y5C0vmj/G5-U10-W2-Q9.png
+10,Which of the above exponent is larger?,A|a,240,Y,More zeros means bigger,A|a  -> More zeros means bigger,https://i.ibb.co/G4sh94p2/G5-U10-W2-Q10.png

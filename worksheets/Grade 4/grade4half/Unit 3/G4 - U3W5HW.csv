@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select all correct: 74x8=592 92x6=542 146x5=730 235x7=1655,"74x8=592,146x5=730",300,Y,Multiply each pair of numbers step by step;Work through each part,"74x8=592,146x5=730"
+2,"A commercial orchard picks 6150 apples each day. If they pick for 6 days, how many apples do they pick in total?",36900,300,Y,"This is 6150 x 6;Multiply from ones to thousands;6 x 0, then 6 x 5...",36900
+3,A shipping truck makes 7 deliveries per week. Each delivery covers 634 miles. How many miles in total?,4438,300,Y,Find 634 x 7;Start with 7 x 4 in ones place;Continue multiplying leftwards,4438
+4,A distributor ships 8 crates daily. Each crate holds 875 items. How many items are shipped daily?,7000,300,Y,Calculate 875 x 8;Multiply place by place from right to left;Be careful with carrying,7000
+5,"A cyclist rides 1245 meters every morning for 8 days. On day 9, he rides three times that distance. What is the total distance ridden?",13695,600,Y,"First find 1245 x 8 for the first 8 days,then find 1245 x 3 for day 9, and add them",13695

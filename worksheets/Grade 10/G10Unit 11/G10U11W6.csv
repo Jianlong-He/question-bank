@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,How does the measure of a minor arc compare with its central angle?,they are equal|equal|same measure,70,Y,Central angle and intercepted arc use the same degree measure.|Both are measured from the same two radii.,A minor arc has the same measure as its central angle.
+2,A central angle is 75 degrees. Find its minor arc measure.,75|75 degrees,70,Y,The central angle equals its intercepted arc.|No additional calculation is needed.,The minor arc measures 75 degrees.
+3,A minor arc measures 140 degrees. Find the corresponding major arc measure.,220|220 degrees,70,Y,A full circle is 360 degrees.|Subtract 140 from 360.,The major arc measures 220 degrees.
+4,Two adjacent arcs measure x+20 and 2x+10 and together form a semicircle. Find x.,50,70,Y,A semicircle measures 180 degrees.|Solve x+20+2x+10=180.,The equation 3x+30=180 gives x=50.
+5,Write the arc-length formula using central angle theta in degrees and radius r.,theta/360*2*pi*r|theta*2*pi*r/360,70,Y,Use the same fraction of the circumference.|The full angle is 360 degrees.,Arc length is (theta/360)(2pi r).
+6,Find the arc length for theta=60 degrees and r=9 in terms of pi.,3pi|3*pi,70,Y,Use 60/360 of the circumference.|The circumference is 18pi.,The arc length is (1/6)(18pi)=3pi.
+7,An arc has length 5pi in a circle of radius 10. Find its central angle in radians.,pi/2|0.5pi,70,Y,Use s=r theta.|Solve theta=5pi/10.,The central angle is pi/2 radians.
+8,An arc is one third of a circle. Find its degree measure.,120|120 degrees,70,Y,Multiply the fraction by 360 degrees.|Compute 360/3.,The arc measures 120 degrees.
+9,If two arcs in the same circle have equal lengths what can be said about their central angles?,they are equal|equal|congruent,70,Y,Arc length is proportional to central angle for fixed radius.|Use s=r theta.,Their central angles are equal.
+10,A 90-degree arc is what fraction of the circumference?,1/4|one fourth|0.25,70,Y,Compare 90 to 360.|Simplify 90/360.,It is one fourth of the circumference.

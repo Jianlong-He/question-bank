@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select the line with the steepest slope: $y=5x+1$ $y=2x+10$ $y=0.5x$,$y=5x+1$,25,Y,"Steepness is determined by the magnitude of $m$ (the number before x);Compare 5, 2, and 0.5",Comparing Slopes
+2,Fill: Solve for $x$ in the model $14 = 2x + 4$.,5,40,Y,Subtract 4 from 14 first;Then divide by 2,Solving Linear Models
+3,True or False: A Line of Best Fit must pass through every single data point. (True/False),False,20,Y,"Real data is messy;The line shows the general trend, not exact matches",Line of Best Fit Concepts
+4,"Fill: As the weight of a car increases, its fuel efficiency (MPG) tends to $\_\_$. (increase/decrease)",decrease,25,Y,Heavier cars need more gas to move;More gas means lower efficiency,Negative Correlation Context
+5,"Fill: Of 20 boys, 5 play soccer. What is the row relative frequency of soccer players? (Enter as %)",25,30,Y,Divide 5 by 20;$1/4$ as a percentage,Row Relative Frequency
+6,"Select the outlier in this dataset: $(1,2)$ $(2,4)$ $(3,6)$ $(4,50)$","$(4,50)$",25,Y,"The pattern is roughly doubling x;$(4,50)$ is way too high compared to the others",Identifying Outliers
+7,"Fill: If $y$ represents temperature and $x$ is time, a negative slope means it is getting $\_\_$.",colder,25,Y,Negative slope means going down;Temperature going down means colder,Interpreting Negative Slope
+8,"Select the best way to display Categorical Data (e.g. Boys/Girls vs Yes/No): ""Two-Way Table"" ""Scatter Plot"" ""Line Graph""","""Two-Way Table""",25,Y,Scatter plots are for numbers (measurements);Categories go in tables,Data Displays
+9,True or False: Correlation implies Causation (e.g. Ice cream sales cause shark attacks). (True/False),False,20,Y,Just because they move together doesn't mean one causes the other;There could be a third factor (like Summer),Correlation vs Causation
+10,Fill: A plumber charges $\$50$ to visit plus $\$40$/hour. The equation is Cost = $\_\_h + 50$.,40,30,Y,The variable cost (per hour) is the slope;The fixed visit fee is the y-intercept,Modeling Real World

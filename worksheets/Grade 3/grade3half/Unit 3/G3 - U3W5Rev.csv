@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill 52 + 348 is the same as 50 + __ + 348.,2,240,N,,2
+2,"Fill To make number nicer to solve 32 + 48 = 30 + __, 412 + 620 = __ + 600","50, 432",240,Y,Make numbers to whole numbers,"50, 432"
+3,Select Emma wants to add 425 + 215. She changes it to 420 + 220. Is she correct? : Yes No,Yes,240,Y,"425 -> 420, 215 -> 220",Yes
+4,Fill in the blanks to show the steps 682 - 412 = (1) 682 - 400 - __ (2) __ - 10 = 282 (3) 282 - __ = 270,"12, 282, 2",240,Y,"Expand 412 and follow the order subtract 400, then 10, then 2","12, 282, 2"
+5,If we subtract 4 from both numbers 542 - 214 = (542 - 4) - (214 - 4) = __ - __ = __,"538, 210, 328",360,Y,"Make 214 nicer with 214 - 4 = 210, so at the same time 542 becomes 542 - 4 = 538","538, 210, 328"

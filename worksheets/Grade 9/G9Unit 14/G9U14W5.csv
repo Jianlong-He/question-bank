@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A table has points (0, 5), (1, 15), and (2, 45). Write its exponential rule.",y=5*3^x|5*3^x|y=5(3)^x,70,Y,The initial value is 5.|The common ratio is 3.,The rule is y = 5 × 3^x.
+2,An exponential graph has y-intercept 8 and its output doubles when x increases by 1. Write its rule.,y=8*2^x|8*2^x|y=8(2)^x,70,Y,The y-intercept is the initial value.|Doubling gives a factor of 2.,The rule is y = 8 × 2^x.
+3,"To test whether table values are exponential for equally spaced x-values, what should be constant?",ratio|common ratio|ratio of consecutive y-values,70,Y,Exponential patterns use repeated multiplication.|Divide each output by the preceding output.,The ratios of consecutive y-values should be constant.
+4,"For y = 4(0.5)^x, find y when x = 3.",0.5|1/2,70,Y,Substitute x = 3.|Compute 4 × 1/8.,y = 4(0.5^3) = 4/8 = 0.5.
+5,Is y = 4(0.5)^x increasing or decreasing?,decreasing,70,Y,The base is between 0 and 1.|This is exponential decay.,The function is decreasing.
+6,"For y = -3 × 2^x, does y increase or decrease numerically as x increases?",decrease|decreases|it decreases,70,Y,"Evaluate a few values: -3, -6, -12.|More negative numbers are smaller.","The outputs become -3, -6, -12, so y decreases numerically."
+7,"For y = 6 × 2^x, are all outputs positive or negative?",positive|all positive,70,Y,Both the coefficient and 2^x are positive.|A product of positive numbers is positive.,All outputs are positive.
+8,"In y = 250(1.04)^t, what is the growth rate?",4%|4 percent|0.04,70,Y,Subtract 1 from the factor.|1.04 - 1 = 0.04.,The growth rate is 0.04 = 4%.
+9,Solve 2^x = 32.,5,70,Y,Write 32 as a power of 2.|2^5 = 32.,"Because 32 = 2^5, x = 5."
+10,"Which y-value list is exponential: A = 4, 7, 10, 13 or B = 4, 8, 16, 32?",B|list B|sequence B,70,Y,Check for a constant ratio.|List A has a constant difference instead.,List B is exponential because each value is multiplied by 2.

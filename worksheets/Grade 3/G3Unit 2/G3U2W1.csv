@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,How many in 3 groups of 4?,12,80,Y,Think of 4 + 4 + 4 or 3 x 4.,12
+2,"If 5  x  7 = 35, what is 6 x 7?",42,80,Y,6 groups of 7 is one more group of 7 than 5 x 7.->  add 7 to 35,42
+3,"Skip counting by 4: 4, 8, __, 16, __, __, 28, 32, __, 40","12,20,24,36",100,Y,Count up each time by 4,"12,20,24,36"
+4,"Skip counting by 6: 6, __, 18, __, 30, 36, __, __, 54, 60","12,24,42,48",120,Y,Count up each time by 6,"12,24,42,48"
+5,0 -> 7 -> 14 -> 21 ->28 -> 35 -> 42 -> 49  is the same as the multiplication  __ x __,"7, 7",130,Y,"This is skip counting by 7s each time, how many steps you need to count up to 49?","7, 7"
+6,Four 3s means multiplication __ x __,"4, 3",130,Y,"Think of ""Four 3s"" as 4 groups and each group has 3 dots. How many dots in total?","4, 3"
+7,Select. Which is greater A. 6 x 9      B. 8 x 8? : A B,B,140,Y,Solve each multiplication separately. What is 6 x 9? Then what is 8 x 8? Which is bigger?,B
+8,If 10 x 3 = 30. How many more is that than 6 x 3?,12,140,Y,"What is 6 x 3, then subtract.",12
+9,The classroom has 30 students. They are sitting at 5 tables. Each table has the same number of students. How many students per table?,6,160,Y,"5 equal groups that together make 30, what is the group size?  ->  __ x 5 = 30",6
+10,Select. Class A has 9 groups with total 36 kids. Class B has 6 groups with total 36 kids. Which class has larger group size? : A B,B,160,Y,"What is the group size of each class? A: __ x 9  = 36, B : __ x 6 = 36. Which number is larger",B

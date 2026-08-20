@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,In the complex number 5-3i what is the real part?,5,70,Y,The real part has no i attached.|Read the coefficient of 1.,The real part is 5.
+2,In the complex number 5-3i what is the imaginary part?,-3,70,Y,The imaginary part is the coefficient of i.|Include its sign.,The imaginary part is -3.
+3,Write the complex number with real part -2 and imaginary part 7.,-2+7i|-2+7*i,70,Y,Use the form a+bi.|Substitute a=-2 and b=7.,The number is -2+7i.
+4,Is 8 a complex number? Enter Yes or No.,Yes|yes|Y|y,70,Y,Write 8 as 8+0i.|Real numbers are contained in the complex numbers.,Yes. Every real number is complex.
+5,Is -4i purely imaginary? Enter Yes or No.,Yes|yes|Y|y,70,Y,Its real part is zero.|A purely imaginary number has form bi with b nonzero.,Yes. -4i is purely imaginary.
+6,Plot 3+2i on the complex plane. Enter the horizontal coordinate then vertical coordinate.,"3,2",70,Y,The real part is horizontal.|The imaginary coefficient is vertical.,The point is (3 2).
+7,What complex number is represented by the point (-4 6) on the complex plane?,-4+6i|-4+6*i,70,Y,The horizontal coordinate is the real part.|The vertical coordinate is the imaginary coefficient.,The number is -4+6i.
+8,On which axis do purely real numbers lie in the complex plane?,real axis|the real axis|horizontal axis|x-axis,70,Y,Their imaginary coordinate is zero.|Points with vertical coordinate zero lie horizontally.,They lie on the real axis.
+9,On which axis do purely imaginary numbers lie in the complex plane?,imaginary axis|the imaginary axis|vertical axis|y-axis,70,Y,Their real coordinate is zero.|Points with horizontal coordinate zero lie vertically.,They lie on the imaginary axis.
+10,What is the complex conjugate of 4-7i?,4+7i|4+7*i,70,Y,Keep the real part.|Reverse the sign of the imaginary part.,The conjugate is 4+7i.

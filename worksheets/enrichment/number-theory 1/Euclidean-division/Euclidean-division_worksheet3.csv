@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
+1,"Does a solution (i.e. numbers x,y) exist for 12x+18y=1? (Yes or No)",No,600,Y,"gcd(12,18)=6. 6 does not divide 1",No,
+2,"Yes/No: If ax+by=1 for some integers x and y, must gcd(a,b)=1?",Yes,600,N,,Yes,
+3,"Fill:Find r1, r2, q1, q2 and the gcd from the Euclidean algorithm for a = 48 and b = 18: r1 = __, r2 = __, q1 = __, q2 = __, GCD = __","12,6,2,1,6",600,Y,"Start with 48=18(q1)+r1, then divide 18 by r1.","12,6,2,1,6",
+4,"Fill:Using r1=12, r2=6, q1=2, q2 =1 and r3=0 from the Euclidean algorithm for a=48 and b=18. x = __, y = __","-1,3",600,Y,"Use the back substitution rules: y₁=1, y₀=-q₂, and y₋₁=y₁-q₁y₀. Then x=y₀ and y=y₋₁.","-1,3",https://i.ibb.co/tTLKkCYf/Screenshot-2026-05-05-214246.jpg
+5,"Fill:Find the r1 ,…, rn   and q1 ,…, qn  from the Euclidean algorithm for gcd(55,21).  r1 = __, r2 = __, r3 = __, r4 = __, r5 = __, r6 = __,q1 = __,q2 = __,q3 = __,q4 = __,q5 = __,q6 = __","13,8,5,3,2,1,2,1,1,1,1,1",600,Y, You should find n=6.,"13,8,5,3,2,1,2,1,1,1,1,1",
+6,"Fill: Solve for x and y in: 35x+15y=5. x = __ , y = __ ","1,-2",600,Y,"Use Euclidean division and back substitution: yn-1=1, yn-2= -q­n .  Then, yk-1 = yk+1 - qk+1yk  for k=n-2 down to 0.  Finally, set x= y0 and y= y-1.   ","1,-2",
+7,"Fill: Use Extended Euclidean Algorithm to express gcd(132,48) as 132x+48y.  132 ( __) + 48 (__)","-1,3",600,Y,"Use Euclidean division and back substitution: yn-1=1, yn-2= -q­n .  Then, yk-1 = yk+1 - qk+1yk  for k=n-2 down to 0.  Finally, set x= y0 and y= y-1.   ","-1,3",
+8,"Fill: Use Extended Euclidean Algorithm to find x,y for 81x+57y=gcd(81,57).  x = __, y = __","-7,10",600,Y,"Use Euclidean division and back substitution: yn-1=1, yn-2= -q­n .  Then, yk-1 = yk+1 - qk+1yk  for k=n-2 down to 0.  Finally, set x= y0 and y= y-1.   ","-7,10",
+9,"Fill:Find the Bézout identity for gcd(26,7): 26(__)+7(__)=1","3,-11",600,Y,"Use 26=7(3)+5, then continue the Euclidean Algorithm and substitute backward.","3,-11",
+10,"Fill: Use the Extended Euclidean Algorithm on a=123,b=19.: 123(__)+19(__) = 1","-2,13",600,Y,Start with 123=19(6)+9 and 19=9(2)+1. Then substitute backward.,"-2,13",

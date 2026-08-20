@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Fill: A line is made by placing 5 unit lengths end to end. The length of the line is __ units.,5,240,Y,How many unit lengths fit along the line?,5,
+2,Fill: A rectangle is fully covered by 7 unit squares. The area of the rectangle is __ square units.,7,240,Y,Area = number of unit squares covering the shape.,7  -> Area = number of unit squares covering the shape,
+3,Select which measurement tells how much space an object takes up in 3 dimensions? : Length Area Volume,Volume,240,N,,"Volume  -> Volume measures space in three dimensions. Think about height, width, depth",
+4,Two boxes are fully filled with unit cubes. Box A has 16 unit cubes. Box B has 12 unit cubes. Which box has the greater volume?,A|Box A|Box a|box a|box A,240,Y,More unit cubes means more volume,"A|Box A|Box a|box a|box A  -> More unit cubes means more volume, 16 > 12 so Box A has greater volume.",
+5,"Fill: A box is made of 14 unit cubes, each cube is 1 cubic foot. The volume of the box is __ cubic feet",14,240,Y,Count each cube.,14  -> 14 cubes × 1 cubic foot = 14 ft³,
+6,"Fill: A shape looks like it has 5 cubes, but when rotated you see 10 cubes. The correct volume is __ cubic units.",10,240,Y,Some cubes may be hidden from view.,10  ->  Some cubes may be hidden from view.,
+7,"Fill: An object is made of 8 unit cubes, each cube is 2 cubic foot. The volume of the box is __ cubic feet",16,240,Y,Count each cube.,16  -> 8 cubes × 2 cubic foot = 16 ft³,
+8,Fill: Volume is measured in __ units,cubic,240,Y,Area is 2D which is measured in square units. What about volume which is 3D? ,cubic. -> Volume uses cubic units (units³),
+9,Select which unit is best for measuring the volume of a room: cubic-meters square-meters cubic-centimeters,cubic-meters,240,Y,A room is large and volume is 3D,"cubic-meter. A room is large so not cubic-centimeters, the volume is 3D so not square-meters.",
+10,An object has 3 layers and 4 cubes in each layer. Each cube is 2 cubic centimeters. The volume of this object is __ cubic centimeters,24,240,Y,First find the total number of cubes. Then multiply number of cubes by the unit,24  -> total number of cubes = 4 x 3 = 12. Then multiply number of cubes by the unit = 12 x 2 cubic centimeters = 24 cubic centimeters,

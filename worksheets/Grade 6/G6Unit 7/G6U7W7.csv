@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Write an equation for the total cost C if each banana costs 0.3 dollars, and you buy m number of banana.",C = 0.3m|C=0.3m,100,Y,Cost = price x number,"Each banana costs 0.3, so for m bananas: C = 0.3 x m = 0.3m",
+2,"If you have 6 dollars, The total cost of banana is C = 0.3m where m is the number of banana. How many banana can you buy?",20,100,Y,Subtitute in the equation,"6 = 0.3m, m = 6/0.3 = 20",
+3,"Write an equation: Each notebook costs 4 dollars. Total cost is C, number of notebooks is n. ",C = 4n|C=4n,100,Y,Cost = price x number,"Each notebook costs 4, so for n notebooks: C = 4n",
+4,Select. Which variable depends on the other in y = 8x?:y-depends-on-x x-depends-on-y,y-depends-on-x,100,Y,What changes when x changes?,y changes when x changes? So y-depends-on-x,
+5,"If C = 3n and C = 24, find n.",8,100,Y,They have the same C,"They have the same C. So C = 3n = 24, n = 24/3 = 8",
+6,"Look at the graph and straight line above, If x = 3, what is y?",15,100,Y,Find the correct point,"Find the correct point when x = 3, y = 15. This straight line is y = 5x",https://i.ibb.co/xtcb5VNP/G6-U7-W7-Q6-7.png
+7,"Look at the graph and straight line above, If y = 30, what is x?",6,100,Y,Find the correct point,"Find the correct point when y = 30, x = 6. This straight line is y = 5x",https://i.ibb.co/xtcb5VNP/G6-U7-W7-Q6-7.png
+8,"Select. Look at the graph and straight line above, If you double x, what happens to y?: y-does-not-change y-doubles y-half",y-doubles,100,Y,Check with example like when x = 2 and x = 4,"If x = 2, y = -6. If x = 4 -> y = -12. So y doubles too",https://i.ibb.co/BV0hBr9Q/G6U7W7Q8.png
+9,"If a x-y graph passes through (0,0) and (2,8), what is the equation?",y = 4x,100,Y,"Find ""per unit""",y = 4x     -> 2 -> means x4. So slope is 4 -> y = 4x,
+10,"Let ""C"" be the cost of apples and ""a"" be the number of apples. A student says: ""In C = 2a, cost is independent."" Is the student right or wrong? Put the answer as right or wrong",wrong|Wrong|WRONG,100,N,,"Number of apples determines cost. So a = independent, C = dependent",

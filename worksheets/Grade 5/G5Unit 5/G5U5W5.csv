@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Select. A student guesses 281 / 75 = 4. Is 4 too small, too big, or correct? : too-small too-big correct",too-small,240,Y,What is 75 x 4? Is it smaller than 281 or exactly or bigger?,too-small,
+2,"Fill: If 31 x 10 = 310, then 31 x 12 = __",372,240,Y,Use Long multiplication or 310 + 31 + 31,372,
+3,"Fill: If 65 x 150 = 9750, then 65 x 151 = __, 9880 / 65 = __","9815, 152",240,Y,Use Long multiplication or 9750 + 150 + 150,"9815, 152",
+4,Compute 186 / 31,6,240,Y,Try multiples of 31: 31 x 5 and 31 x 6 because we know that 30 x 6 = 180 which is close to 186.,6,https://i.ibb.co/35CT8Jyy/G5-U5-W5-Q4-Image.png
+5,"Compute 1260 / 21 by long division. What is the f, and what is the final answer?","6, 60",240,Y,"21 goes into 126, estimate and compute 21 x ? = 126. Then bring down 0","6, 60",https://i.ibb.co/qM6Mmtxt/G5-U5-W5-Q5-Image.png
+6,"Compute 7865 / 55 by long division. What are a, b, c, and what is the final answer?","23, 4, 3, 143",240,Y,"Divide step-by-step: 55 into 78, then bring down 6, then bring down 5","23, 4, 3, 143",https://i.ibb.co/LXcgdsR2/G5-U5-W5-Q6-Image.png
+7,"Divide 392 / 42, what is the final answers, and what is the remainder?","9, 14",240,Y,Check 42 x 8 and 42 x 9 because 392 ≤ 420 = 42 x 10 but close. Then what is the remainder?,"9, 14",
+8,Compute 3150 / 42 by long division. Write you own long division,75,240,Y,"42 goes into 315, estimate and compute 42 x ? = close to 315. Then bring down 0",75,https://i.ibb.co/60y4ZXnb/G5-U5-W5-Q8-Image.png
+9,A schools buys 9815 pens and pack them equally into boxes of 65 pens. How many boxes can they fill?,151,360,Y,Write down the division equation and do long division. ,151,
+10,Compute 2549 / 38 by long division. Give the quotient and remainder.,"67, 3",360,Y,"Try  from 40 x 6 = 240 -> 38 x 6 = 228, then adjust","67, 3",https://i.ibb.co/4g7V7SXd/G5-U5-W5-Q10-Image.png

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Solve x^2+7x+12=0. Enter the smaller root.,-4,70,Y,Factor the trinomial.|Use (x+3)(x+4)=0.,The roots are -3 and -4 so the smaller is -4.
+2,Solve 2x^2-10x=0. Enter the nonzero root.,5,70,Y,Factor out 2x.|Solve 2x(x-5)=0.,The roots are 0 and 5 so the nonzero root is 5.
+3,Solve 3x^2+x-2=0. Enter the larger root.,2/3,70,Y,Factor as (3x-2)(x+1).|Set each factor equal to zero.,The roots are 2/3 and -1 so the larger is 2/3.
+4,Solve x^2-16=0. Enter the positive root.,4,70,Y,Factor as a difference of squares.|Use (x-4)(x+4)=0.,The positive root is 4.
+5,Solve x^2+10x+25=0.,-5,70,Y,Recognize a perfect-square trinomial.|Write (x+5)^2=0.,The repeated root is -5.
+6,Solve (x-2)(x+6)=0. Enter the roots in increasing order.,"-6,2",70,Y,Apply the zero-product property.|Solve each linear factor.,The roots are -6 and 2.
+7,Which algebraic property justifies setting each factor equal to zero when a product equals zero?,zero-product property|zero product property,70,Y,The property applies to ab=0.|At least one factor must be zero.,This is the zero-product property.
+8,Factor and solve x^2-3x-10=0. Enter the larger root.,5,70,Y,Find factors of -10 with sum -3.|Use (x-5)(x+2)=0.,The roots are 5 and -2 so the larger is 5.
+9,Solve 4x^2-12x+9=0.,3/2|1.5,70,Y,Recognize a perfect square.|Write (2x-3)^2=0.,2x-3=0 so x=3/2.
+10,Before factoring 6x^2+18x=0 what common factor should be removed?,6x,70,Y,Both terms share a number and x.|Choose the greatest common factor.,The GCF is 6x.

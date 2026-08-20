@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,What is 0.3²?,0.09,50,Y,The exponent tells you how many 0.3’s to multiply. 3 x 3 = 9,0.09   -> 0.3² = 0.3 x 0.3 = 0.09,
+2,What is 0.4³?,0.64,50,Y,The exponent tells you how many 0.3’s to multiply. 4 x 3 = 12,0.64   -> 0.4³ = 0.4 x 0.4 x 0.4 = 0.64,
+3,What is 0.7² + 1.2?,1.69,50,Y,Follow order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract,"1.69   -> Follow order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract. 0.7² = 0.49, 0.49 + 1.2 = 1.69",
+4,What is (3/4)²?,9/16,50,Y,"Multiply numerator by numerator, denominator by denominator.","9/16   -> Multiply numerator by numerator, denominator by denominator.",
+5,What is (2/5)³?,8/125,50,Y,"Multiply numerator by numerator, denominator by denominator.","8/125   -> Multiply numerator by numerator, denominator by denominator.",
+6,What is 3658⁰?,1,50,N,,1  -> Any non-zero number to the zero power equals 1. ,
+7,What is (1/2)³+ (1/4)? Answer as a fraction,3/8,50,Y,Compute each and Follow order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract,3/8  -> (1/2)³ + (1/4) = 1/8 + 1/4 = 3/8,
+8,"Select, which is greater, (A) 0.9²  or (B) (7/8)² : A B",A,50,Y,Compute each and Convert both to decimals/fractions to compare,"A   -> Compute each and Convert both to decimals/fractions to compare. 0.9² = 0.81, (7/8)² = 49/64 ≈ 0.77",
+9,What is (3/7)² × 2?,18/49|(18/49),50,Y,Follow order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract,18/49  -> Follow order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract. (3/7)² x 2 = (9/49) x 2 = 18/49,
+10,What is 0.5² + (1/3)²? Answer as a fraction or decimal (rounded to hundredths),13/36|0.36,50,Y,Compute each and Convert both to decimals/fractions,"13/36|0.36  Follow order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract. 0.5² = 0.25, (1/3)² = 1/9, 0.25 + 1/9 = 1/4 + 1/9 = 13/36",

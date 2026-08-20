@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the slope of every line parallel to y = 3x - 7?,3,70,Y,Parallel nonvertical lines have equal slopes.|Read the coefficient of x.,The slope is 3.
+2,Write the equation of the line through (0 4) parallel to y = -2x + 1.,y=-2x+4|y = -2x + 4,70,Y,Keep slope -2.|The point gives the y-intercept directly.,The equation is y = -2x + 4.
+3,Write the equation of the line through (3 5) parallel to y = 2x - 8.,y=2x-1|y = 2x - 1,70,Y,Use slope 2 in point-slope form.|Substitute (3 5) to find b.,5 = 2(3) + b gives b = -1 so y = 2x - 1.
+4,Write the equation of the line through (-2 1) parallel to y = 1/2x + 6.,y=1/2x+2|y = 1/2x + 2,70,Y,Use slope 1/2.|Substitute x = -2 and y = 1.,1 = (1/2)(-2) + b gives b = 2 so y = (1/2)x + 2.
+5,Find the slope of the line 4x - 2y = 10.,2,70,Y,Solve for y.|Move 4x then divide by -2.,-2y = -4x + 10 so y = 2x - 5 and the slope is 2.
+6,Find the slope of a line parallel to 3x + 6y = 12.,-1/2,70,Y,Rewrite the equation in slope-intercept form.|6y = -3x + 12.,The given line has slope -3/6 = -1/2 so every parallel line has slope -1/2.
+7,Are y = 5x + 2 and 10x - 2y = 7 parallel? Enter Yes or No.,Yes|yes|Y|y,70,Y,Rewrite the second line as y = mx + b.|Its slope is 5.,The second equation becomes y = 5x - 7/2. Both slopes are 5 so the lines are parallel.
+8,Write the equation of the horizontal line through (6 -3).,y=-3|y = -3,70,Y,A horizontal line has a constant y-coordinate.|Use the point's y-coordinate.,The equation is y = -3.
+9,Write the equation of the vertical line through (-4 9).,x=-4|x = -4,70,Y,A vertical line has a constant x-coordinate.|Use the point's x-coordinate.,The equation is x = -4.
+10,A line parallel to y = -3x + 4 has y-intercept 8. Write its equation.,y=-3x+8|y = -3x + 8,70,Y,Keep the same slope -3.|Use the stated y-intercept as b.,The equation is y = -3x + 8.

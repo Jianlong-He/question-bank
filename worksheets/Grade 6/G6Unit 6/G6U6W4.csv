@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Select. What happens to 78 - x as x increases? : decreases increases no-change,decreases,100,Y,You are subtracting a bigger number,"As x gets larger, you subtract more -> result gets smaller -> decreases",
+2,Select. What happens to 34 + x as x increases? : decreases increases no-change,increases,100,Y,You are adding a bigger number,"As x gets larger, you add more -> result gets larger -> increases",
+3,Select.What happens to the fraction z/25 as z increases (z always positive)? : decreases increases no-change,increases,100,Y,Nominator is larger,Nominator gets larger -> result gets larger -> increases,
+4,Select.What happens to the fraction10/z as z increases (z always positive)? : decreases increases no-change,decreases,100,Y,You are dividing a bigger number,Denominator gets larger -> result gets smaller -> decreases,
+5,Select. What happens to fraction (5y)/(3y) as y increases (non-zero)?: decreases increases no-change,no-change,100,Y,Simplify first,no-change      -> Simplify first:(5y)/(3y) = 5/3 which is a constant,
+6,Select. What happens to 13/y + 2 as y decreases (y always positive)?: decreases increases no-change,increases,100,Y,You are dividing a smaller number,Denominator gets smaller -> result gets larger -> increases,
+7,Convert 5˚C to Fahrenheit using F = (9/5)C + 32,41,100,Y,Substitute C = 5,F =(9/5)(5) + 32 = 41,
+8,Convert 20˚C to Fahrenheit using F = (9/5)C + 32,68,100,Y,Substitute C = 20,F =(9/5)(20) + 32 = 36 + 32 = 68,
+9,"Select. Given F = (9/5)C + 32. If temperature(C) increases, what happens to Fahrenheit (F)?: decreases increases no-change",increases,100,Y,Look at the formula,Look at the formula. C increases -> F increases,
+10,Select. Which one stays the same? : 7t-t (8m)/(3m) (5z)/(z^2),(8m)/(3m),100,Y,Simplify first,"(8m)/(3m)    -> 7t-t = 6t, (8m)/(3m) = 8/3 is a constant so it stays the same, (5z)/(z^2) = 5/z",

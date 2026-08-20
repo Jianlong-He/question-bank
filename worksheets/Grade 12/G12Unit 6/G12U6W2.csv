@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Multiply vector (2 -3) by scalar 4. Enter x then y.,"8,-12",70,Y,Multiply each component by 4.|Keep the sign of the second component.,4(2 -3)=(8 -12).
+2,What happens to a vector's magnitude when multiplied by scalar -3?,it is multiplied by 3|magnitude triples|3 times as large,70,Y,Magnitude uses the absolute value of the scalar.|The negative sign reverses direction.,The magnitude is multiplied by |-3|=3.
+3,What happens to direction when a vector is multiplied by a negative scalar?,it reverses|opposite direction|the direction reverses,70,Y,A negative multiplier changes both component signs.|The new vector points 180 degrees away.,The vector reverses direction.
+4,Add vectors (3 1) and (-2 5). Enter x then y.,"1,6",70,Y,Add corresponding components.|Compute 3+(-2) and 1+5.,The sum is (1 6).
+5,Subtract vector (1 4) from vector (5 2). Enter x then y.,"4,-2",70,Y,Compute (5 2)-(1 4).|Subtract corresponding components.,The difference is (4 -2).
+6,Find the magnitude of the sum of vectors (1 2) and (2 2).,5,70,Y,The sum is (3 4).|Use the 3-4-5 triangle.,The resultant magnitude is 5.
+7,In the parallelogram rule which diagonal represents u+v?,the diagonal from the common tail|diagonal from the common starting point|resultant diagonal,70,Y,Place both vector tails together.|Complete the parallelogram.,The diagonal from the common tail is u+v.
+8,Rewrite u-v as addition.,u+(-v)|u plus negative v,70,Y,Subtraction adds an opposite.|Reverse v then add.,u-v=u+(-v).
+9,If u=(4 0) and v=(0 3) find |u+v|.,5,70,Y,The sum is (4 3).|Use the Pythagorean theorem.,|u+v|=(4^2+3^2)^(1/2)=5.
+10,Does vector addition satisfy u+v=v+u? Enter Yes or No.,Yes|yes|Y|y,70,Y,Adding components is commutative.|The parallelogram diagonal is the same in either order.,Yes. Vector addition is commutative.

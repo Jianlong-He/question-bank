@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Simplify 6x^2/(3x).,2x,70,Y,Divide the coefficients.|Subtract the exponent of x in the denominator.,6x^2/(3x)=2x for x not equal to 0.
+2,What value is excluded from the original expression 6x^2/(3x)?,0,70,Y,The original denominator cannot equal zero.|Solve 3x=0.,The excluded value is x=0.
+3,Simplify (x^2-9)/(x-3).,x+3,70,Y,Factor the numerator as a difference of squares.|Cancel the common factor x-3.,The expression simplifies to x+3 with x not equal to 3.
+4,What value is excluded from (x^2-9)/(x-3)?,3,70,Y,Use the original denominator.|Set x-3 equal to zero.,The excluded value is x=3.
+5,Simplify (x^2+5x)/x.,x+5,70,Y,Factor x from the numerator.|Cancel the common factor x.,The expression simplifies to x+5 for x not equal to 0.
+6,Simplify (x^2-4)/(x+2).,x-2,70,Y,Factor x^2-4.|Cancel the factor x+2.,The simplified expression is x-2 with x not equal to -2.
+7,Simplify (x^2-6x+9)/(x-3).,x-3,70,Y,Factor the numerator as a perfect square.|The numerator is (x-3)^2.,Cancel one factor x-3 to obtain x-3 with x not equal to 3.
+8,Simplify 10a^2b/(5ab).,2a,70,Y,Divide coefficients and cancel common variables.|One factor a remains in the numerator.,10a^2b/(5ab)=2a for nonzero a and b.
+9,Simplify 6x^2y/(9xy^2).,2x/(3y)|2x/3y,70,Y,Reduce 6/9 and cancel common variable factors.|One x remains above and one y remains below.,The simplified expression is 2x/(3y).
+10,Can terms be canceled across addition before factoring? Enter Yes or No.,No|no|N|n,70,Y,Cancellation applies to factors.|A sum must first be rewritten as a product when possible.,No. Only common factors can be canceled.

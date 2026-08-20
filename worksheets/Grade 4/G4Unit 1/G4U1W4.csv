@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select. 14 tens = ?   :1400 140 14000,140,600,Y,"Think about how many ones are in 1 ten, then multiply by 14.",140
+2,Select. 324 tens = ?   :32400 3240 324000,3240,600,Y,"First find how many ones are in 1 ten, then multiply that by 324.",3240
+3,"Select. When 732 is multiplied by 10, the digit 3 shifts from the tens place to which place?:tens thousands hundreds ones",hundreds,600,Y,Multiplying by 10 shifts the digits left one place.,hundreds
+4,"Select. When 456 is multiplied by 10, the digit 4 shifts from the hundreds place to which place?:tens thousands hundreds ones",thousands,600,Y,Multiplying by 10 shifts the digits left one place.,thousands
+5,Select. 230 divided by 10 = ? :2300 230 23 23000,23,600,Y,Dividing by 10 makes the number 10 times smaller. Move each digit one place to the right.,23
+6,"Select. When 650 is divided by 10, the digit 6 shifts from the hundreds place to which place?:tens thousands hundreds ones",tens,600,Y,Dividing by 10 shifts the digits right one place.,tens
+7,Fill: 3428 tens divided by 10  = _____,3428,600,Y,Dividing by 10 makes the number 10 times smaller. Remove one zero from the end.,3428
+8,"A bakery makes 300 cookies and packs them equally into 10 boxes. Each box gets 30 cookies because 300 ÷ 10 = 30. If the bakery makes 240 cookies, how many cookies does each box get?",24,600,Y,Divide the number of cookies by the number of boxes,24
+9,A factory produces 560 toys and packs them equally into 10 cartons. How many toys per carton?,56,600,Y,Divide the total number of toys by the number of cartons.,56
+10,Susan reads 10 pages of her novel each day. How many pages will she read in 7 days?,70,600,Y,Multiply the number of pages she reads each day by the number of days.,70

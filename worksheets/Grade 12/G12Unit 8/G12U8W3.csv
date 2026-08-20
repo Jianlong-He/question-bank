@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Write the combination formula nCr.,n!/(r!(n-r)!),70,Y,Order does not matter.|Divide the permutation count by r!.,nCr=n!/(r!(n-r)!).
+2,Evaluate 8C2.,28,70,Y,Use 8*7/(2*1).|Pairs have no order.,8C2=28.
+3,How many handshakes occur if each pair among 10 people shakes once?,45,70,Y,Each handshake is an unordered pair.|Compute 10C2.,There are 45 handshakes.
+4,How many 5-card hands can be chosen from 9 cards?,126,70,Y,Order in a hand does not matter.|Compute 9C5=9C4.,There are 126 hands.
+5,A committee of 3 is chosen from 7 people. How many committees?,35,70,Y,Use combinations.|Compute 7C3.,There are 35 committees.
+6,A group of 4 is selected from 6 women and 5 men. How many groups contain exactly 2 women?,150,70,Y,Choose 2 women and 2 men.|Multiply 6C2 by 5C2.,The count is 15*10=150.
+7,From a standard deck how many 5-card hands contain exactly 2 aces?,C(4 2)C(48 3)|6C(48 3),70,Y,Choose 2 of the 4 aces.|Choose the other 3 cards from 48 non-aces.,The count is C(4 2)C(48 3).
+8,A lottery chooses 6 numbers from 49 without order. How many possible selections?,13983816,70,Y,Use 49C6.|Order of drawn numbers does not change the ticket.,49C6=13983816.
+9,If one of 20 equally likely combinations wins what is the winning probability?,1/20|0.05,70,Y,Favorable outcomes equal 1.|Divide by 20 total outcomes.,The probability is 1/20.
+10,Choosing a president and three ordinary committee members uses both permutation and combination ideas. Which choice is ordered?,the president|president selection,70,Y,The president has a distinct role.|Ordinary committee seats are interchangeable.,The president selection is the ordered role.

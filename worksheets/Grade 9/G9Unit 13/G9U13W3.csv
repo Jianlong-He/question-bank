@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Simplify √12 completely.,2√3|2*sqrt(3),70,Y,Factor 12 as 4 × 3.|Take √4 outside the radical.,√12 = √(4×3) = 2√3.
+2,Simplify √18 completely.,3√2|3*sqrt(2),70,Y,Factor 18 as 9 × 2.|Take √9 outside the radical.,√18 = √(9×2) = 3√2.
+3,Simplify √50 completely.,5√2|5*sqrt(2),70,Y,Factor 50 as 25 × 2.|Take √25 outside the radical.,√50 = √(25×2) = 5√2.
+4,Simplify √72 completely.,6√2|6*sqrt(2),70,Y,Factor 72 as 36 × 2.|Take √36 outside the radical.,√72 = 6√2.
+5,Simplify 3√8 completely.,6√2|6*sqrt(2),70,Y,First simplify √8 as √(4×2).|Then multiply the outside coefficients.,3√8 = 3(2√2) = 6√2.
+6,Simplify 2√27 completely.,6√3|6*sqrt(3),70,Y,Factor 27 as 9 × 3.|Multiply 2 by √9.,2√27 = 2(3√3) = 6√3.
+7,"Assuming x is nonnegative, simplify √(9x^2).",3x|3*x,70,Y,Take the square root of each perfect-square factor.|√9 = 3 and √(x^2) = x for x ≥ 0.,√(9x^2) = 3x when x is nonnegative.
+8,Simplify √48 + √27 completely.,7√3|7*sqrt(3),70,Y,Simplify each radical before adding.|√48 = 4√3 and √27 = 3√3.,√48 + √27 = 4√3 + 3√3 = 7√3.
+9,Simplify √75 - √12 completely.,3√3|3*sqrt(3),70,Y,Simplify both radicals.|√75 = 5√3 and √12 = 2√3.,√75 - √12 = 5√3 - 2√3 = 3√3.
+10,Simplify √20 × √5.,10,70,Y,Combine the radicals under one square root.|20 × 5 = 100.,√20 × √5 = √100 = 10.

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find the x-intercept of the line 4x + 2y = 8.,2,30,Y,Set y = 0 and solve for x,4x = 8 → x = 2.
+2,"A plumber charges according to the equation y = 50x + 100, where x is the number of hours worked and y is the total cost in dollars. What is the cost for 3 hours of work?",250,45,Y,Substitute x = 3 into the equation,y = 50(3) + 100 = 150 + 100 = 250.
+3,"A line passes through the points (2, 6) and (5, 12). What is the slope of the line?",2,30,Y,Use the slope formula (y₂-y₁)/(x₂-x₁),(12-6)/(5-2)=6/3=2.
+4,"Fill: Write the equation of a line passing through the origin $(0,0)$ with a slope of 5. $y = \_\_ x$",5,40,Y,"Since it passes through the origin, the y-intercept is 0;The equation is simply $y = mx$",The y-intercept (b) is 0 because it passes through the origin. y = mx + b becomes y = 5x + 0 \to y = 5x.
+5,Select the equation of a line parallel to $y = 4x - 2$: $y=-1/4x+2$ $y=4x+5$ $y=2x-4$,$y=4x+5$,40,Y,Parallel lines have the exact same slope;Look for the equation with a slope of 4,Parallel lines have the same slope. The given line has m = 4. The only option with m = 4 is y = 4x + 5.
+6,"A line passes through the points (2, 3) and (5, 9). What is the slope of the line?",2,45,Y,Find how much y changes for each change in x,Slope = (9-3)/(5-2) = 6/3 = 2.
+7,"Find the slope of the line passing through the points (1, 5) and (4, -1).",-2,45,Y,Use the slope formula (y₂-y₁)/(x₂-x₁),(-1-5)/(4-1)=-6/3=-2.
+8,"If a line passes through (0, -2) and (2, 2), what is the slope of the line?",2,45,Y,Use the slope formula (y₂-y₁)/(x₂-x₁),(2-(-2))/(2-0)=4/2=2.
+9,Fill: A plant is 3cm tall and grows 2cm per week. Write the linear model: $y = \_\_ x + 3$,2,45,Y,The rate of change is the slope;It grows 2cm each week,The initial value is the intercept (3). The rate of change is the slope (2). So the equation is y = 2x + 3.
+10,"Write the equation of the line with slope 3 that passes through the point (2, 4). What is the y-intercept?",-2,60,Y,Use y = mx + b and substitute the point to find b,4 = 3(2) + b → 4 = 6 + b → b = -2.

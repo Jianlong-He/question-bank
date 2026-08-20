@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select the type of association shown if y decreases as x increases: Positive Negative None,Negative,20,Y,"Think of a line going downhill from left to right;As one goes up, the other goes down",Negative Association
+2,"Fill: In the equation $y = 3x + 5$ representing distance over time, the slope 3 represents the $\_\_$.",speed,25,Y,"Slope is the rate of change;In distance vs time, rate of change is speed",Interpreting Slope
+3,Select all terms that describe a scatter plot with points hugging a straight upward line: Linear Nonlinear Positive Negative,"Linear,Positive",25,Y,Linear means straight line;Positive means going up,Scatter Plot Description
+4,Fill: A group of data points that are packed closely together on a scatter plot is called a \_\_.,cluster|Cluster,20,Y,It is not an outlier (which is far away);It sounds like a 'bunch' or 'group',Clusters
+5,Select the association where points generally follow a curved pattern: Linear Nonlinear None,Nonlinear|Non-linear,20,Y,Linear means it looks like a straight line;Curved patterns are non-linear,Nonlinear Association
+6,Fill: A data point that lies far away from the main trend of the other points is called an \_\_.,outlier|Outlier,25,Y,It 'lies out' from the rest of the data;It does not fit the pattern,Identifying Outliers
+7,"Select the outlier in this dataset: $(2,3)$ $(3,5)$ $(4,6)$ $(10,2)$","$(10,2)$",30,Y,"Look for the point that does not fit the pattern;The pattern is increasing x and increasing y;$(10,2)$ has high x but low y",Identifying Outliers
+8,A plant grows according to $h = 2w + 4$ ($w$=weeks). What does 4 represent?||Select the meaning of the y-intercept 4: Growth_Rate Initial_Height Final_Height,Initial_Height,30,Y,The y-intercept is the value when $w=0$;It is the starting amount,Interpreting Intercepts
+9,"Fill: If a scatter plot compares 'Time spent studying' (x) to 'Test score' (y), the association is likely \_\_\_ (Positive/Negative).",positive|Positive,25,Y,"Usually, the more you study, the higher your score;Both values go up together",Contextual Association
+10,"Fill: If a scatter plot resembles a random cloud of scattered dots, it has \_\_\_ association.",no|none|No,20,Y,There is no clear line or pattern;The variables do not affect each other,No Association

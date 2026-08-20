@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A rectangle has area = 56 square units. One side is 7 units. What is the other side?,8|8 square units,100,Y,Area = length x width. What number x 7 = 56?,8 square units
+2,"A rectangle is split into two smaller rectangles. One has area 45, the other 120. What is the total area?",165,100,Y,Total area = sum of smaller area,165
+3,A large rectangle is made from two rectangles: Area of rectangle A is 67. Area of rectangle B is 94. What is the total area?,161,100,Y,Total area = sum of all smaller area,161
+4,"Two lots cost the same price. Lot A area = 2,500 square meters (m^2). Lot B area = 2,000 square meters (m^2). Which lot is the better deal? : A B",A,100,Y,better deal = price per square meters (m^2) is cheaper,Lot A
+5,Two lots cost the same price. Lot A area = 650 square meters (m^2). Lot B area = 900 square meters (m^2). Which lot is the better deal? : A B,B,100,Y,better deal = price per square meters (m^2) is cheaper,Lot B

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,How many 1s to make 18?,18,80,Y,You need as many 1s as the number you want to make.,18
+2,How many groups of 4 are needed to make 16,4,100,Y,"This is asking: ""4 times what equals 16?"". You can skip-count: 4, 8, 12, 16. ; 4 x 4 = 16 or 4 + 4 + 4 + 4 = 16",4
+3,"Different ways to make 6: 3 + __ = 6, 1 x __ = 6, 2 x __ = 6, 3 x __ = 6, 6 x __ = 6","3,6,3,2,1",100,Y,Think about pairs of numbers that multiply or add together to make 6.,"3,6,3,2,1"
+4,"Different ways to make 9: 3 + 3 + __ = 9, 3 x  __ = 9, 1 x __ = 9","3, 3, 9",100,Y,Use addition or multiplication.,"3, 3, 9"
+5,"Different ways to make 8: 4 + __ = 8, 2 + 2 + __ + 2 = 8, 2 x  __ = 8, 1 x __ = 8","4,2,4,8",120,Y,Think about pairs of numbers that multiply or add together to make 8.  Use skip-counting by 2s or 4s.,"4,2,4,8"
+6,"Different addition ways to make 12: 6 + __ = 12, 4 + 4 + __ = 12, 3 + 3 + __ + 3 = 12","6,4,3",120,Y,Try to fill the blanks so all the numbers add up to 12.,"6,4,3"
+7,"Different multiplication ways to make 12: 1 x __ = 12, 2 x  __ = 12, 3 x __ = 12, 4 x __ = 12, 6 x __ = 12, 12 x __ = 12","12, 6, 4, 3, 2, 1",160,Y,These are the factors of 12 which are numbers that multiply together to make 12.,"12, 6, 4, 3, 2, 1"
+8,"Different multiplication ways to make 16: 1 x __ = 16, 2 x __ = 16, 4 x __ = 16, 8 x __ = 16, 16 x __ = 16","16, 8, 4, 2,1",180,Y,These are the factors of 16 which are numbers that multiply together to make 16.,"16, 8, 4, 2,1"
+9,"Different multiplication ways to make 36: 1 x __ = 36, 2 x __ = 36, 3 x __ = 36, 4 x __ = 36, 6 x __ = 36","36, 18, 12,9, 6",200,Y,These are some factors of 36 which are numbers that multiply together to make 36.,"36, 18, 12,9, 6"
+10,"Which number has more multiplication ways, 8 or 12",12,200,Y,"8: 1x8, 2x4, 4x2, 8x1 -> 4 facts. 12: 1x12, 2x6, 3x4, 4x3, 6x2, 12x1 -> 6 facts",12

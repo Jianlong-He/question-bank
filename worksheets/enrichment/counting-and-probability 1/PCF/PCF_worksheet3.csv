@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Use the distribution rule to calculate 18×12.,216,45,Y,Write 12 as 10+2;Compute 18×10 and 18×2;Add the partial products,$18\cdot12=18(10+2)=180+36=216$.
+2,Use the distribution rule to calculate 24×15.,360,45,Y,Write 15 as 10+5;Compute 24×10 and 24×5;Add them,$24\cdot15=24(10+5)=240+120=360$.
+3,Calculate 37×21 by breaking 21 into 20+1.,777,45,Y,Compute 37×20;Compute 37×1;Add the results,$37\cdot21=37(20+1)=740+37=777$.
+4,Expand and calculate (6+4)(8+3) using extended distribution.,110,60,Y,"There should be four products;Compute 6×8, 6×3, 4×8, and 4×3;Add them",$(6+4)(8+3)=6\cdot8+6\cdot3+4\cdot8+4\cdot3$.;This equals $48+18+32+12=110$.
+5,Calculate 48×27 by breaking 27 into 20+7.,1296,60,Y,Compute 48×20;Compute 48×7;Add the results,$48\cdot27=48(20+7)=960+336=1296$.
+6,Calculate 123×14 by breaking 14 into 10+4.,1722,60,Y,Compute 123×10;Compute 123×4;Add the two partial products,$123\cdot14=1230+492=1722$.
+7,Calculate 64×12 by breaking 12 into 10+2.,768,60,Y,Break 12 into 10+2;Compute 64×10 and 64×2;Add the two partial products,$64\cdot12=64(10+2)=640+128=768$.
+8,A menu has 4 old sandwich choices and 2 new sandwich choices. It also has 3 hot drink choices and 5 cold drink choices. How many sandwich-drink combos are possible?,48,60,Y,There are 4+2 sandwich choices;There are 3+5 drink choices;Multiply the totals,"There are $4+2=6$ sandwich choices and $3+5=8$ drink choices.;By the counting principle, there are $6\cdot8=48$ combos."
+9,Calculate 306×25 by breaking 25 into 20+5.,7650,60,Y,Compute 306×20;Compute 306×5;Add the partial products,$306\cdot25=306(20+5)=6120+1530=7650$.
+10,Expand and calculate (200+30+4)(50+6).,13104,90,Y,Multiply each part of 200+30+4 by each part of 50+6;There will be six products;Add the six products,$(200+30+4)(50+6)=200\cdot50+200\cdot6+30\cdot50+30\cdot6+4\cdot50+4\cdot6$.;This is $10000+1200+1500+180+200+24=13104$.

@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
+1,"Fill: List the first five multiples of both 6 and 8. What is their LCM? Multiples of 6 = __, __, __, __, __. Multiples of 8 = __, __, __, __, __. LCM = __ .","6,12,18,24,30,8,16,24,32,40,24",600,Y,List the multiples of each number and find the smallest number that appears in both lists.,"6,12,18,24,30,8,16,24,32,40,24",
+2,"Find lcm(12,15).",60,600,Y,Find the smallest number that both 12 and 15 divide evenly.,60,
+3,"Use prime factorization to find lcm(18,24).",72,600,Y,Use the highest powers of all prime factors.,72,
+4,"Find the LCM of 10, 15, and 20.",60,600,Y,"Use the highest powers of all prime factors from 10, 15, and 20.",60,
+5,"Find lcm(7,11).",77,600,Y,"Since 7 and 11 are different primes, multiply them.",77,
+6,"Find lcm(60,72).",360,600,Y,Prime factorize both numbers and take the highest powers.,360,
+7,"If gcd(a,b)=10 and a*b=600, use the formula a*b = gcd(a,b) * lcm(a,b) to find the LCM.",60,600,Y,"Rearrange the formula: lcm(a,b) = (a*b)/gcd(a,b).",60,
+8,Find the LCM of 25 and 100.,100,600,Y,"If one number is already a multiple of the other, the larger number is the LCM.",100,
+9,"Find lcm(14,21,28).",84,600,Y,Prime factorize all three numbers and take the highest powers.,84,
+10,"Neon sign A flashes every 8 seconds. Neon sign B flashes every 12 seconds. If they flash together now, how many seconds until they flash together again?",24|24 seconds,600,Y,"This is asking when both cycles meet again, so use the LCM.",24|24 seconds,

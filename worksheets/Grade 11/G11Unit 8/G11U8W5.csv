@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,For y=3sin(x)-2 what is the amplitude?,3,70,Y,Amplitude is the absolute value of the sine coefficient.|Use |3|.,The amplitude is 3.
+2,For y=3sin(x)-2 what is the midline?,y=-2|-2,70,Y,The outside constant gives the vertical shift.|The center of the oscillation is -2.,The midline is y=-2.
+3,For y=sin(2x) what is the period?,pi|π,70,Y,Use period=2pi/|B|.|Here B=2.,The period is pi.
+4,For y=cos(x/3) what is the period?,6pi|6π,70,Y,Here B=1/3.|Compute 2pi divided by 1/3.,The period is 6pi.
+5,For y=-4cos(x)+1 what is the amplitude?,4,70,Y,Amplitude is an absolute value.|Ignore the negative reflection sign.,The amplitude is 4.
+6,For y=-4cos(x)+1 what is the midline?,y=1|1,70,Y,Read the vertical shift.|The graph oscillates around 1.,The midline is y=1.
+7,What is the maximum value of y=2sin(x)+5?,7,70,Y,Add the amplitude to the midline.|The amplitude is 2 and midline is 5.,The maximum is 5+2=7.
+8,What is the minimum value of y=2sin(x)+5?,3,70,Y,Subtract the amplitude from the midline.|Compute 5-2.,The minimum is 3.
+9,"Write a sine function with amplitude 4, period 2pi, and midline y=-1.",y=4sin(x)-1|4sin(x)-1,70,Y,The basic sine already has period 2pi.|Use coefficient 4 and vertical shift -1.,One function is y=4sin(x)-1.
+10,For y=3sin(0.5x)-2 what are the amplitude and period? Enter amplitude then period.,"3,4pi|3,4π",70,Y,Amplitude is |A|.|Period is 2pi/0.5.,The amplitude is 3 and the period is 4pi.

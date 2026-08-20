@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What constant relates consecutive terms of an arithmetic sequence?,common difference|the common difference,70,Y,Subtract one term from the next.|The same amount is added each time.,It is the common difference d.
+2,Find the common difference of 4 9 14 19.,5,70,Y,Subtract 4 from 9.|Check the same increase continues.,The common difference is 5.
+3,Write the arithmetic-series sum formula using first term a1 and last term an.,n(a1+an)/2|(n/2)(a1+an),70,Y,Average the first and last terms.|Multiply by the number of terms.,S_n=n(a1+an)/2.
+4,Find 1+2+3+...+10.,55,70,Y,Use n(n+1)/2.|Compute 10*11/2.,The sum is 55.
+5,Find the sum of 5 8 11 14 and 17.,55,70,Y,There are 5 terms.|Average 5 and 17 then multiply by 5.,S=5(22)/2=55.
+6,Find the 20th term of arithmetic sequence 3 7 11 ...,79,70,Y,Use a_n=a_1+(n-1)d.|Here d=4.,a_20=3+19(4)=79.
+7,Find the sum of the first 20 terms of 3 7 11 ...,820,70,Y,Use first term 3 and last term 79.|Compute 20(3+79)/2.,The sum is 820.
+8,Evaluate sum from k=1 to 6 of (2k+1).,48,70,Y,The terms are 3 5 7 9 11 13.|Use the arithmetic-series formula.,The sum is 48.
+9,A recursive arithmetic sequence has a1=10 and a_n=a_(n-1)-3. Find a5.,-2,70,Y,Subtract 3 four times.|The terms are 10 7 4 1 -2.,a5=-2.
+10,Pairing first and last terms in 1+2+...+n gives what sum for each pair?,n+1,70,Y,The outer terms are 1 and n.|The next pair is 2 and n-1.,Every outer pair sums to n+1.

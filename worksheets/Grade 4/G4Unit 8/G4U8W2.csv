@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: Complete the equation: 3/5 + 1/5 = __/5,4,300,Y,"The denominators are the same, so just add the numerators.",4
+2,Fill: Complete the equation: 12/15 - 8/15 = __/15,4,300,Y,"The denominators are the same, so just subtract the numerators.",4
+3,Fill: Complete the equation:9/16 - 7/16 = __/16,2,300,Y,"The denominators are the same, so just subtract the numerators.",2
+4,Maya had 5/8 of a chocolate bar.She gave 2/8 of the chocolate bar to her friend. How much of the chocolate bar does Maya have left? (Write your answer as a fraction),3/8,300,Y,Subtract 5/8 - 2/8,3/8
+5,Select subtraction result of 85/100 - 23/100:62/100 108/100 52/100 68/100,62/100,300,Y,Subtract 23 from 85. The denominator stays 100.,62/100
+6,Select the correct answer for 3/15 + 4/15 + 6/15:10/15 13/15 15/15 12/15,13/15,300,Y,Add all three numerators together: 3 + 4 + 6.,13/15
+7,Fill: Solve: 17/20 - 5/20 - 6/20 = __/20,6,600,Y,Do the subtraction in two steps. First 17-5. Then subtract 6 from that answer.,6
+8,Fill: Solve and simplify the resulting fraction: 7/12 + 11/12 - 8/12 = __,5/6,600,Y,First do 7 + 11. Then subtract 8. Look at your final fraction.,5/6
+9,Select. A recipe needs 15/8 cups of sugar. You have a bag with 7/8 cups of sugar and another bag with 5/8 cups of sugar. How much MORE sugar (fraction) do you still need?:3/8 5/8 2/8,3/8,600,Y,Add up the sugar you have first. Subtract that total from the amount you need (15/8).,3/8
+10,"A trail is divided into 12 equal sections. In the morning, Jerry runs 3 sections of the trail. In the evening, he runs 2 more sections of the same trail. What fraction of the trail did Jerry run in total?",5/12,600,Y,Add the sections run in the morning and evening. Then write that number over 12.,5/12

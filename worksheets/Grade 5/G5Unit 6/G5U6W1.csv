@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Select. Multiplying 3/4 by a number less than 1 makes the result smaller. : TRUE FALSE,TRUE,240,Y,"Multiply by 1 is exactly the same, so what about multiply by a number less than 1?",TRUE,
+2,"Select. Without calculating, which is greater? : A B",B,240,Y,"Focus on what multiples of 5/6. Is it larger than 1, smaller than 1 or equal to 1?",B,https://i.ibb.co/QR3R8wH/G5-U6-W1-Q2-Image.png
+3,"Without calculating, order from largest, to smallest.","B,C,A",240,Y,"Focus on what multiples of 3/4. Is it larger than 1, smaller than 1 or equal to 1? ; What number does 4 / 4 equal?","B,C,A",https://i.ibb.co/21SkHnck/G5-U6-W1-Q3-Image.png
+4,Select all expressions that are greater than 5/7: A B C D,"B,C",240,Y,Focus on what multiples of 5/7. Which are larger than 1?,"B,C",https://i.ibb.co/nKC5vxW/G5-U6-W1-Q4-Image.png
+5,Select. Multiplying a number by a fraction between 0 and 1 makes it (the number) larger. : TRUE FALSE,FALSE,240,Y,Multiply by 0 - 1 is less than 1 which make the original value smaller,FALSE,
+6,"Compare using <, >, or =.",<,240,Y,5/8 is smaller than 1,<,"https://i.ibb.co/TBvPgNpC/G5-U6-W1-Q6-Image.png"" alt=""G5U6W1Q6 Image"" border=""0""></a>"
+7,"Compare using <, >, or =.",>,240,Y,38/35 is larger than 1,>,https://i.ibb.co/SwCySdyz/G5-U6-W1-Q7-Image.png
+8,"Compare using <, >, or =.",>,240,Y,50 is 1/2 (half) of 100. 4/5 is larger than 1/2,>,https://i.ibb.co/nq6PDFXQ/G5-U6-W1-Q8-Image.png
+9,"Compare using <, >, or =.",=,360,Y,"Rewrite both sides with 7/5 x fraction. For example, the left-hand side is 7/5 x 2/8. ","=. Rewrite: 5/7 x 2/8 = 5/7 x 4/16, 2/8 = 4/16 = 1/4",https://i.ibb.co/FkQvxtq6/G5-U6-W1-Q9-Image.png
+10,Select. A number is multiplied by a fraction and becomes smaller. What must be true about the fraction?: Less-than-1 Larger-than-1 Equal-to-1,Less-than-1,360,Y,A number becomes smaller = multiply the number with a fraction less than 1,Less-than-1,

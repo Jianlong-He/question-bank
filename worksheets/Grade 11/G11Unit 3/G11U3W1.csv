@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Simplify (12x^4)/(3x).,4x^3,70,Y,Divide coefficients and subtract exponents.|12/3=4 and x^(4-1)=x^3.,The quotient is 4x^3.
+2,Simplify (18x^5-12x^3)/(6x^2).,3x^3-2x,70,Y,Divide each term by 6x^2.|Subtract 2 from each exponent.,The quotient is 3x^3-2x.
+3,Simplify (15a^4b^3+10a^2b)/(5ab).,3a^3b^2+2a,70,Y,Divide each term separately.|Subtract variable exponents.,The quotient is 3a^3b^2+2a.
+4,Divide 8x^3+4x^2-12x by 4x.,2x^2+x-3,70,Y,Divide every term by 4x.|Reduce coefficients and subtract one from each exponent.,The quotient is 2x^2+x-3.
+5,What is the quotient of 21x^6y^3 divided by 7x^2y?,3x^4y^2,70,Y,Divide coefficients.|Subtract exponents of like bases.,The quotient is 3x^4y^2.
+6,Simplify (x^5-3x^3+x^2)/x^2.,x^3-3x+1,70,Y,Divide every term by x^2.|The last term becomes 1.,The quotient is x^3-3x+1.
+7,A rectangle has area 20x^4+15x^3 and width 5x^2. Find its length.,4x^2+3x,70,Y,Divide the area polynomial by the width.|Divide each term by 5x^2.,The length is 4x^2+3x.
+8,Simplify (-24m^5+16m^3-8m)/(8m).,-3m^4+2m^2-1,70,Y,Divide each term by 8m.|Keep track of the signs.,The quotient is -3m^4+2m^2-1.
+9,When dividing a polynomial by a monomial what operation is applied to the exponents of like variables?,subtract|subtraction,70,Y,Recall the quotient rule for exponents.|x^a/x^b=x^(a-b).,The exponents are subtracted.
+10,Simplify (14x^7-7x^4+21x^2)/(7x^2).,2x^5-x^2+3,70,Y,Divide all three terms.|The middle coefficient is -1.,The quotient is 2x^5-x^2+3.

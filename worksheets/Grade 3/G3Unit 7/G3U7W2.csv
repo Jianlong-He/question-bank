@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 3 x 20 = 3 x 2 x 10 = __ x 10 = __,"6, 60",80,Y,Break 20 into 2 x 10. Multiple 3 x 2 first because you know it. Then multiply your answer by 10.,"6, 60"
+2,Fill: 6 x 40 = 6 x 4 x 10 = __ x 10 = __,"24, 240",80,Y,Break 40 into 4 x 10. Multiple 6 x 4 first because you know it. Then multiply your answer by 10.,"24, 240"
+3,Fill: 2 x 50 = 2 x 5 x 10 = __ x 10 = __,"10, 100",100,Y,Break 50 into 5 x 10. Multiple 2 x 5 first because you know it. Then multiply your answer by 10.,"10, 100"
+4,What is 8 x 60?,480,120,Y,Can you break 60 into two numbers multiplication? Think of it as 8x6x10,480
+5,What is 4 x 70?,280,120,Y,Can you break 70 into two numbers multiplication? Think of it as 4x7x10,280
+6,Fill: 540 / 9 = 54 x 10 / 9 = __ x 10 = __,"6, 60",140,Y,Divide 54 / 9 first. The answer will be multiplied by 10 at the end.,"6, 60"
+7,Fill: 640 / 8 = 64 x 10 / 8 = __ x 10 = __,"8, 80",140,Y,Divide 64 / 8 first. The answer will be multiplied by 10 at the end.,"8, 80"
+8,"Each park has 90 trees, how many trees are in 8 parks?",720,160,Y,What is 90 x 8? Think of 90 as 9 x 10,720
+9,A charity gives out 180 food bags to 6 groups evenly. How many bags per group?,30,160,Y,Divide 180 by 6. Think of 180 as 18 x 10,30
+10,A tree has 8 branches and each branch grows 50 leaves. How many leaves in total?,400,160,Y,Think of it as 8 x 50. How can you divide 50 to get the answer?,400

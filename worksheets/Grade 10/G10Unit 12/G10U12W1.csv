@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Name the four classical conic sections.,circle parabola ellipse hyperbola|circle; parabola; ellipse; hyperbola,70,Y,They come from slicing a double cone.|One is circular and three are other curves.,The four conics are circle parabola ellipse and hyperbola.
+2,Write the standard equation of a circle with center (h k) and radius r.,(x-h)^2+(y-k)^2=r^2,70,Y,Every point is distance r from the center.|Use the distance formula and square both sides.,The standard equation is (x-h)^2+(y-k)^2=r^2.
+3,Find the center of (x-3)^2+(y+2)^2=25. Enter h then k.,"3,-2",70,Y,Compare with (x-h)^2+(y-k)^2=r^2.|Rewrite y+2 as y-(-2).,The center is (3 -2).
+4,Find the radius of (x-3)^2+(y+2)^2=25.,5,70,Y,The right side is r^2.|Take the positive square root of 25.,The radius is 5.
+5,Write the equation of a circle centered at the origin with radius 4.,x^2+y^2=16,70,Y,Use h=0 and k=0.|Square the radius.,The equation is x^2+y^2=16.
+6,Write the equation of a circle with center (2 -1) and radius 3.,(x-2)^2+(y+1)^2=9,70,Y,Substitute h=2 k=-1 and r=3.|Remember y-(-1)=y+1.,The equation is (x-2)^2+(y+1)^2=9.
+7,Does point (4 0) lie on circle x^2+y^2=16? Enter Yes or No.,Yes|yes|Y|y,70,Y,Substitute x=4 and y=0.|Compute 4^2+0^2.,Yes because 16=16.
+8,Complete the square: x^2-6x+____=(x-3)^2.,9,70,Y,Take half of -6 then square it.|Compute (-3)^2.,The missing value is 9.
+9,Rewrite x^2+y^2-4x+6y-12=0 in circle standard form.,(x-2)^2+(y+3)^2=25,70,Y,Group x terms and y terms.|Add 4 and 9 to both sides.,Completing squares gives (x-2)^2+(y+3)^2=25.
+10,Find the center and radius of x^2+y^2-4x+6y-12=0. Enter h then k then r.,"2,-3,5",70,Y,Use the completed-square form.|Read the center signs carefully.,From (x-2)^2+(y+3)^2=25 the center is (2 -3) and radius is 5.

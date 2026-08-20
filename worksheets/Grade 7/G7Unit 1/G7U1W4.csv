@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A factory makes 27 identical parts using 9 kg of metal. Assuming a proportional relationship, how many parts can be made from 1 kg of metal?",3,60,Y,"Divide parts by kilograms.","27/9 = 3 parts per kg."
+2,"Three movie tickets cost $45 at a proportional price. How much does 1 ticket cost?",15,65,Y,"Find cost per ticket.","45/3 = 15."
+3,"A store sells bananas at a constant proportional rate. If 7 pounds cost $14, how much does 1 pound cost?",2,70,Y,"Cost ÷ pounds gives unit price.","14/7 = 2."
+4,"A proportional table relates x and y. When x = 10, y = 25. What is the constant of proportionality?",2.5|5/2,75,Y,"Compute y/x.","25/10 = 2.5."
+5,"A relationship between x and y is proportional. If x = 16 leads to y = 40, what is the unit rate?",2.5|5/2,80,Y,"Rate = y/x.","40/16 = 2.5."
+6,"A regular hexagon has side length s and its perimeter P is proportional to s. If a hexagon with 6 cm sides has a perimeter of 36 cm, what is the proportionality constant P/s?",6,80,Y,"Hexagon perimeter = 6s.","36/6 = 6."
+7,"A proportional relationship shows that 20 km is traveled in 2 hours at a constant pace. Without using a graph, find the constant of proportionality (km per hour).",10,85,Y,"Distance ÷ time gives rate.","20/2 = 10."
+8,"A situation is proportional if doubling x doubles y. If a worker's hours double from 4 to 8 and their pay increases from $68 to $136, what is the constant of proportionality?",17,90,Y,"Pay per hour = 136/8.","Constant = 17 dollars per hour."
+9,"A proportional relationship connects the number of pages read p to time t. If 45 pages are read in 3 hours, how many pages are read in 1 hour?",15,90,Y,"Find unit rate p/t.","45/3 = 15 pages per hour."
+10,"A printer prints 36 pages in 3 minutes. Fill in the blanks: The unit rate is ___ pages per minute, which means it will print ___ pages in 5 minutes.","12, 60",95,Y,"Find the unit rate first (36/3), then multiply by 5.","Rate = 12 pages/min. 12 × 5 = 60 pages."

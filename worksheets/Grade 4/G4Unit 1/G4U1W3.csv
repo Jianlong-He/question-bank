@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: in the blank: 70 tens = ____ hundreds,7,600,Y,70 tens = how many hundreds? Think: 10 tens = 1 hundred.,7
+2,Fill: in the blank: 7 thousands = ____ hundreds,70,600,Y,7 thousands = how many hundreds? Think: 1 thousand = 10 hundreds.,70
+3,Fill: in the blank 3600  =  3 thousands + ___ hundreds,6,600,Y,"3600 has how many hundreds left after 3 thousands? Subtract 3000, then count the hundreds.",6
+4,Fill: in the blank 6800 = 5 thousands + ____ hundreds ,18,600,Y,6800 has 5 thousands (5000). How many hundreds are in the remaining 1800?,18
+5,Fill: in the blank: 40 hundreds = ____ thousands,4,600,Y,40 hundreds = how many thousands? Think: 10 hundreds = 1 thousand.,4
+6,Fill: in the blank: 8 hundreds = ___ tens,80,600,Y,8 hundreds = how many tens? Remember: 1 hundred = 10 tens.,80
+7,Select which of the following is equivalent to 5 thousands + 12 hundreds:6-thousands+2-hundreds 5-thousands+2-hundreds 6-thousands+12-hundreds,6-thousands+2-hundreds,600,Y,"5 thousand + 12 hundred: change 12 hundred into 1 thousand and 2 hundreds, then combine",6-thousands+2-hundreds
+8,Select which of the following is equivalent to 7 thousand + 5 hundred:6-thousands+15-hundreds 6-thousands+25-hundreds 8-thousands+15-hundreds,6-thousands+15-hundreds,600,Y,7 thousands = 6 thousands + 1 thousands. 1 thousand = 10 hundreds.,6-thousands+15-hundreds 
+9,Example: 12 thousands + 3 hundreds = 12300. Now find the sum of 14 thousands + 6 tens.,14060,600,Y,14 thousands + 6 tens: turn both into standard form and then add.,14060
+10,Select the correct sum for 7  ten thousands + 26 thousands:9600 96000 70260 72600 ,96000,600,Y,7 ten thousands + 26 thousands: change both to thousands (or standard form) and then add.,96000

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Use the distribution rule to calculate 6 × 14.,84,45,Y,Write 14 as 10 + 4;Add 6 × 10 and 6 × 4,6 × 14 = 60 + 24 = 84.
+2,Use the distribution rule to calculate 8 × 17.,136,45,Y,Write 17 as 10 + 7;Add the partial products,8 × 17 = 80 + 56 = 136.
+3,Expand and calculate (4 + 3)(5 + 2) using extended distribution.,49,60,Y,Form four products;Add them,(4 + 3)(5 + 2) = 20 + 8 + 15 + 6 = 49.
+4,Expand and calculate (7 + 5)(6 + 4) using extended distribution.,120,60,Y,Use the four products;Then add,(7 + 5)(6 + 4) = 42 + 28 + 30 + 20 = 120.
+5,A menu has 4 regular sandwiches and 1 new sandwich. It also has 3 hot drinks and 2 cold drinks. How many sandwich-drink combinations are possible?,25|5*5|5×5,60,Y,There are 4 + 1 sandwiches and 3 + 2 drinks;Multiply the totals,"There are 5 sandwich choices and 5 drink choices, giving 5 × 5 = 25 combinations."

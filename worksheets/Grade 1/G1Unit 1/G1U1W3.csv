@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What comes after 10?,11,80,N,,11
+2,"Fill: 10 + 8 = 18, so __ + 6 = 16, 10 + __ = 14","10, 4",100,N,,"10, 4"
+3,"Select. Which shows ""1 ten and 5 ones"" ? A)18   B) 10   C)5    D) 15 : A B C D",D,100,Y,15 means one ten plus five ones.,D
+4, What does the 1 in 17 mean?,1 ten,120,Y,tens or ones? How many?,1 ten
+5, What does the 7 in 17 mean?,7 ones,130,Y,tens or ones? How many?,7 ones
+6,You have 10 apples and get 3 more. How many apples now?,13,130,Y,10 + 3 = __,13
+7,Select. Which is greater? A)1 tens + 9 ones   B) 2 tens + 0 ones : A B C D,B,140,Y,"1 tens + 9 ones = __  and 2 tens + 0 ones  = __,  which number is greater?",B
+8,"Fill: Write each number as 10 + ?   11 = 10 + __, 13 = 10 + __, 15 = 10 + __, 17 = 10 + __, 19 = 10 + __","1,3,5,7,9",150,Y,Each teen number is ten plus some ones.,"1,3,5,7,9"
+9,Fill: Write 21 as __ tens + __ ones,"2, 1",160,Y,The 2 means two groups of 10,"2, 1"
+10,Fill: 3 tens + 2 ones =__,32,180,Y,"Count by tens first (10, 20, 30) then add 2.",32

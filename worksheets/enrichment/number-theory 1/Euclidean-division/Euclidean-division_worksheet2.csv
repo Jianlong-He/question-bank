@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Use the formula lcm(a,b)=|a*b|/gcd(a,b) to find lcm(12,18).",36,600,Y,"First find gcd(12,18). Then divide 12*18 by the GCD.",36
+2,"Use the Euclidean Algorithm to find gcd(132,48).",12,600,Y,Keep writing a= b*q + r. The last nonzero remainder is the GCD.,12
+3,"Use the Euclidean Algorithm to find gcd(105,252).",21,600,Y,"Start with 252=105(2)+42, then continue with the remainders.",21
+4,"Find gcd(4655,77).",7,600,Y,"Start with 4655=77(60)+35, then continue using 77 and 35.",7
+5,Simplify 102/170 using the GCD.,3/5,600,Y,"Find gcd(102,170), then divide the numerator and denominator by it.",3/5
+6,Simplify 441/413 using the Euclidean Algorithm.,63/59,600,Y,"Use the Euclidean Algorithm to find the GCD, then divide both numbers by it.",63/59
+7,Simplify the fraction 144/360 by finding the GCD of the numerator and denominator.,2/5,600,Y,"Find gcd(144,360), then divide top and bottom by the GCD.",2/5
+8,Simplify 1242/3330 using the Euclidean Algorithm.,69/185,600,Y,"Use the Euclidean Algorithm to find the GCD, then reduce the fraction.",69/185
+9,Simplify 2555/4599 using the Euclidean Algorithm.,5/9,600,Y,Use the Euclidean Algorithm. The last nonzero remainder is the GCD.,5/9
+10,Simplify 1403/1817 using the Euclidean Algorithm.,61/79,600,Y,"Use the Euclidean Algorithm on 1817 and 1403, then divide both by the GCD.",61/79

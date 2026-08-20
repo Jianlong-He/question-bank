@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Select True or False. 0.5 x 0.8 = 0.04 :TRUE FALSE,FALSE,240,N,,"FALSE  -> 2 decimal places, 5 x 8 = 40, move 2 decimal -> 0.4 ≠ 0.04",
+2,Select which decimal is most reasonable for 2.3 x 4.5 (The digit product is 1035) :1035 10.35 1.035 103.5 ,10.35,240,N,,10.35 -> 2 decimal places,
+3,The digit product for 1.2 x 4.87 is 5844. What is the exact value of 1.2 x 4.87?,5.844,240,Y,How many decimal places in total?,5.844  -> 3 decimal places,
+4,The digit product for 473 x 28 is 13244. What is the exact value of 2.8 x 4.73?,13.244,240,Y,How many decimal places in total?,13.244,
+5,Compute: 2.8 x 3.4,9.52,240,Y,"First compute 28 x 34, then move decimal places",9.52,
+6,Compute: 0.7 x 3.72,2.604,240,Y,"First compute 7 x 372, then move decimal places",2.604,
+7,One Math video is 0.08 hours long. You watch 4 videos. How many hours do you spend watching videos?,0.32,240,Y,Total hours = hours per video x number of videos,0.32   -> Total hours = hours per video x number of videos = 0.08 x 4 = 0.32,
+8,A notebook costs $3.75. You buy 6 notebooks. How much do you pay?,22.5,240,Y,Total price = price per notebook x number of notebooks,22.5  -> Total price = price per notebook x number of notebooks = 3.75 x 6 = 22.5,
+9,One apple weights 0.27 kg. A bag holds 8 apples. What is the total weight of the apples?,2.16,240,Y,Total weight = weight per apple x number of apples,2.16  -> Total weight = weight per apple x number of apples = 0.27 x 8 = 2.16,
+10,A rectangle has a length of 2.8 m and a width of 0.4 m. What is the area of the rectangle in square meters?,1.12,360,Y,Area = length x width,1.12  -> Area = length x width = 2.8 m x 0.4 m = 1.12 square meters,

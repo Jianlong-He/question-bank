@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Does the relation $\{(1, 2), (2, 3), (3, 4), (2, 5)\}$ represent a function? (Yes/No)",No|N|no,30,Y,Check if any x-value repeats with different y-values;x=2 goes to both 3 and 5,The input 2 is mapped to both 3 and 5. A function must have exactly one output per input.
+2,"If f(x) = 20x + 50 represents the total cost (in dollars) of renting a kayak for x hours, what is f(3)?",110,30,Y,Substitute x = 3 into the equation,f(3) = 20(3) + 50 = 60 + 50 = 110.
+3,"From the graph of f(x), if the point (-2, 5) lies on the curve, what is f(-2)?",5,45,Y,Use the y-value corresponding to x = -2 on the graph,"At x = -2, the graph shows y = 5, so f(-2) = 5."
+4,Does $y = x^3$ represent a function? (Yes/No),Yes|Y|yes,45,Y,Every real number cubed gives exactly one unique answer;It passes the vertical line test,"For any given real number x, there is exactly one value for x^3. It passes the vertical line test."
+5,"Fill: If $f(x) = x^2 - 4$, what is $f(5)$?",21,55,Y,Substitute 5 in for x;$5^2 - 4$;$25 - 4$,f(5) = (5)^2 - 4 = 25 - 4 = 21.
+6,Rewrite the equation y = 4x - 6 as a function. What is f(5)?,14,50,Y,Replace y with f(x) and substitute x = 5,f(x) = 4x - 6 → f(5) = 4(5) - 6 = 20 - 6 = 14.
+7,"If f(x) = 3x - 4, what is f(-2)?",-10,50,Y,Substitute x = -2 into the function,f(-2) = 3(-2) - 4 = -6 - 4 = -10.
+8,"If f(x) = 2x + 1 and f(x) = 9, what is the value of x?",4,50,Y,Set f(x) equal to 9 and solve for x,2x + 1 = 9 → 2x = 8 → x = 4.
+9,"Which of the following represents a function? $\{(1,2), (1,3)\}$ $\{(2,3), (3,4)\}$ $\{(4,5), (4,6)\}$","$\{(2,3), (3,4)\}$",50,Y,Check for repeated x-values;Only the middle set has unique inputs,"The first and third options have repeated x-values. Only {(2,3), (3,4)} has unique inputs."
+10,A taxi charges a $4 flat fee plus $3 per kilometer. Write a function rule for the total cost C of a ride that is x kilometers long.,C=3x+4,60,Y,Translate the words into an equation,The total cost is the fixed fee ($4) plus $3 per kilometer → C = 3x + 4.

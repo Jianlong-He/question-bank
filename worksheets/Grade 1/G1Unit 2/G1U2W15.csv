@@ -1,0 +1,12 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 35 = __ tens and __ ones,"3, 5",120,Y,35 has 3 group of 10 and 5 more,"3, 5"
+2,Fill: 6 = __ tens and __ ones,"0, 6",120,Y,Number with 1 digit only has ones; no tens = 0 tens,"0, 6"
+3,Fill: 3 ones + 7 ones = __ ones,10,150,Y,What is 3 + 7?,10
+4,Fill: 2 tens + 5 tens = __ tens,7,150,Y,What is 2 + 5?,7
+5,"Fill: Regroup 11 ones to tens and ones, 11 ones = __ ten and __ one","1, 1",150,Y,"With regrouping, 10 ones = 1 ten, the left are in ones","1, 1"
+6,"Fill: 8 ones + 9 ones = __ ones, then with regrouping it becomes  __ ten and __ ones","17, 1, 7",150,Y,"What is 8 + 9?; With regrouping10 ones = 1 ten, the left are in ones","17, 1, 7"
+7,"Fill: 68 + 5 = 6 tens and __ ones, then with regrouping it becomes 7 tens and  __ ones ","13, 3",170,Y,"With regrouping, 10 ones = 1 ten, the left are in ones","13, 3"
+8,"Fill: 57 + 8 = 5 tens and __ ones, then with regrouping, = __ tens and 5 ones = __","15, 6, 65",200,Y,"With regrouping, 10 ones = 1 ten, the left are in ones","15, 6, 65"
+9,"Fill: with regrouping, 27 + 8 has __ tens and __ ones = __","3, 5, 35",180,Y,"With regrouping, 10 ones = 1 ten, the left are in ones","3, 5, 35"
+10,Select. Slove with regrouping 14 + 9 = ? : 20 23 24,23,190,Y,"4 + 9 = 13, regrouping to 1 ten and 3 ones. Then add 1 ten is 2 tens and 3 ones, what number is it?",23
+11,Select. Slove with regrouping 26 + 8 = ? : 30 32 34,34,220,Y,"6 + 8 = 14, regrouping to 1 ten and 4 ones. Then add 2 tens is 3 tens and 4 ones, what number is it?",34

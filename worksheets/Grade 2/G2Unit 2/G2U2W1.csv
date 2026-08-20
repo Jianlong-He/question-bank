@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: write the place values of digits in 45. Tens = __ , Ones = __","4,5",300,Y,Look at the first digit (tens). Look at the last digit (ones),"4,5"
+2,"Fill: write the place values of digits in 98. Tens = __ , Ones = __","9,8",300,Y,Look at the first digit (tens). Look at the last digit (ones),"9,8"
+3,"Fill: write the place values of digits in 134. Hundreds = __  , Tens = __ , Ones = __","1,3,4",300,Y,Look at first digit (hundreds);Look at middle digit (tens);Look at last digit (ones),"1,3,4"
+4,"Fill: write the place values of digits in 528. Hundreds = __ , Tens = __ , Ones = __","5,2,8",300,Y,Look at first digit (hundreds);Look at middle digit (tens);Look at last digit (ones),"5,2,8"
+5,Select which number has the digit 3 representing a value of 30?:232 345 356 513,232,300,Y,"For 3 to be worth 30,3 must be in the tens place",232
+6,Select which number has the digit 5 representing a value of 500?:252 745 356 517,517,300,Y,"For 5 to be worth 500,5 must be in the hundreds place",517
+7,Select which number has the digit 7 representing a value of 7?:756 745 876 517,517,300,Y,"For 7 to be worth 7,7 must be in ones place",517
+8,"Select the largest number you can create using the digits 3, 8, and 2?:328 832 823 238",832,300,Y,"Put biggest digit first,then next biggest,then smallest",832
+9,"What is the largest number you can create using the digits 7,8,3?",873,300,Y,"8 is the biggest, put first. Then 7, then 3",873
+10,"Amy needs to create the largest possible number using the digits 5, 3, and 9. However, the digit 3 MUST be in the tens place. Which number should she make?",935,300,Y,3 must be in the middle (tens). Put the largest digit in hundreds. Put the other in ones,935

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Find the slope of the line passing through $(0, 5)$ and $(2, 11)$.",3,30,Y,Use the slope formula: $(y_2-y_1)/(x_2-x_1)$;$(11-5)/(2-0)$,m = (y_2 - y_1) / (x_2 - x_1) = (11 - 5) / (2 - 0) = 6 / 2 = 3.
+2,Select the equation of a line with slope 4 and y-intercept -2: $y=4x-2$ $y=-2x+4$ $y=4x+2$,$y=4x-2$,30,Y,Use slope-intercept form $y=mx+b$;m is slope (4) and b is intercept (-2),Substitute m = 4 and b = -2 into the slope-intercept form y = mx + b to get y = 4x - 2.
+3,"A line passes through the points (0,2) and (3,8). What is the slope of the line?",2,30,Y,Use the slope formula (y₂-y₁)/(x₂-x₁),(8-2)/(3-0)=6/3=2.
+4,What is the y-intercept of the line y = 3x - 4?,-4,30,Y,Look at the constant term in the equation,"In y = mx + b, b is the y-intercept. Here, b = -4."
+5,"Does the equation y = 4x + 7 represent a linear function? (Enter 1 for Yes, 2 for No)",1,30,Y,Check if variables have exponents other than 1,"The equation is in y = mx + b form with x to the first power, so it is linear."
+6,Fill: A line has equation $y = -2x + 8$. What is the x-intercept?,4,30,Y,The x-intercept occurs when $y = 0$;Solve $0 = -2x + 8$,Set y = 0 and solve for x: 0 = -2x + 8 \to 2x = 8 \to x = 4.
+7,Fill: Convert $2x + y = 10$ to slope-intercept form. What is the slope?,-2,45,Y,Solve for $y$ to get $y = mx + b$;Subtract $2x$ from both sides to get $y = -2x + 10$,"Subtract 2x from both sides: y = -2x + 10. The slope (m) is the coefficient of x, which is -2."
+8,"Fill: If a line has a slope of $1/2$ and passes through $(0, 3)$, what is the value of $y$ when $x = 4$?",5,45,Y,Write the equation: $y = 0.5x + 3$;Plug in $x=4$,Equation is y = 0.5x + 3. Substitute x = 4: y = 0.5(4) + 3 = 2 + 3 = 5.
+9,"Select the equation for a horizontal line passing through $(4, 7)$: $x=4$ $y=7$ $y=4x+7$",$y=7$,45,Y,Horizontal lines have a slope of 0;The equation is always $y = \text{y-coordinate}$,"A horizontal line has a slope of 0 (y = 0x + b), so the equation is just y = [y-coordinate]. Therefore, y = 7."
+10,Rewrite the equation 3x - 2y = 8 in slope-intercept form (y = mx + b). What is the slope?,1.5,60,Y,Solve for y to get it in y = mx + b form,3x - 2y = 8 => -2y = -3x + 8 => y = 1.5x - 4. The slope is 1.5.

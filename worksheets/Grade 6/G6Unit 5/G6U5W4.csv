@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Compare: |-9| __ |-17|. Choose from <, > or =",<,50,Y,Evaluate both absolute values.,"<   -> |-9| = 9, |-17| = 17, 9 < 17",
+2,"Compare: |-28| __ |28|. Choose from <, > or =",=,50,Y,Evaluate both absolute values.,"=   -> |-28| = 28, so they are equal",
+3,"Which values of x make this true? |x| < 9. Choose from -8, 3, 10","-8, 3",50,Y,Absolute value of x must be less than 9,"-8, 3   -> Absolute value of x must be less than 9",
+4,"Which values of x make this true? |x| > 8. Choose from -8, 3, 10",10,50,Y,Absolute value of x must be larger than 10,10   -> Absolute value of x must be larger than 10,
+5,"Jane: -5 lb, Sarah: +3.5 lb, Bill: +6 lb. Who lost weight?",Jane,50,Y,Losing weight means a negative change.,Jane  ->  Losing weight means a negative change.,
+6,"Jane: -5 lb, Sarah: +3.5 lb, Bill: +6 lb. Who had the largest change in weight?",Bill,50,Y,Largest change = biggest absolute value.,Bill  -> Largest change = biggest absolute value.,
+7,"Select True or False of the statement ""|x| > -26 is true for every number x."" : True False",True,50,Y,Is |x| ever negative?,True   -> Absolute value is always 0 or positive. Any number that is 0 or positive is always greater than -26.,
+8,"Compare: -|-73| __ -|39|. Choose from <, > or =",<,50,Y,Evaluate both absolute values.,"<    -> -|-73| = -73, -|39| = -39",
+9,What is -26 + |-42| - |15|?,1,50,Y,Absolute value means distance from zero.,1,
+10,A fish is at -22 m and a turtle is at -8 m (below sea level). Who is farther from sea level?,fish|the fish|Fish|The Fish|The fish,50,Y,Farther from sea level = bigger absolute value.,fish   -> Farther from sea level = bigger absolute value.,

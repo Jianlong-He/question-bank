@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Solve for $x$: $3(x - 2) = 12$||Find $x$: $3x - 6 = 12$,6,30,Y,Distribute the 3 first: $3x - 6 = 12$;Add 6 to both sides;Divide by 3,Distributive Property
+2,Select the equation with **Infinitely Many** solutions: $2x+4=2(x+2)$ $x+1=x+2$ $2x=10$,2x+4=2(x+2),25,Y,Look for an equation that simplifies to the same thing on both sides;Distribute the 2 on the right side to see if it matches the left,Infinite Solutions Identity
+3,Fill: Solve $\frac{1}{2}x + 5 = 9$,8,35,Y,Subtract 5 from both sides first;Multiply by 2 to clear the fraction,Two-Step Fraction
+4,Fill: The sum of three consecutive integers is 12. Find the first integer ($x$). The equation is $x + (x+1) + (x+2) = 12$.,3,45,Y,Combine like terms: $3x + 3 = 12$;Subtract 3 then divide by 3,Consecutive Integers
+5,Fill: Solve $-2(x + 1) = -8$,3,30,Y,Distribute the -2: $-2x - 2 = -8$;Add 2 to both sides;Divide by -2 (watch the signs),Distributing Negatives
+6,Solve for $y$: $0.2y + 1.1 = 2.1$||Find $y$: $0.2y = 1$,5,30,Y,Subtract 1.1 from 2.1;Divide by 0.2 (or multiply by 10 to clear decimals first),Decimal Coefficients
+7,Fill: Make this equation have NO solution: $3x + 5 = 3x + \_\_ \text{ (enter any number except 5)}$,"any:1,2,3,4,6,7,8,9,0,10,-1",25,Y,For no solution variables must cancel out ($3x$ vs $3x$) but constants must be different;Any number other than 5 works,Creating No Solution
+8,"Select the first correct step to solve $4(x+3) = 20$: ""Divide by 4"" ""Subtract 3"" ""Subtract 4""","""Divide by 4""",20,Y,You can distribute 4 OR divide the whole equation by 4 immediately;Subtracting 3 is stuck inside the parentheses,Solving Strategy
+9,Fill: Solve $5x - 3x + 2 = 12$,5,25,Y,Combine like terms first: $5x - 3x = 2x$;Solve $2x + 2 = 12$,Combining Like Terms
+10,Fill: Solve for $k$: $\frac{k}{3} - 1 = 4$,15,30,Y,Add 1 to both sides first;Multiply by 3,Two-Step Division

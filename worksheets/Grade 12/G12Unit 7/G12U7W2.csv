@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find the determinant of [[a b][c d]].,ad-bc,70,Y,Multiply the main diagonal entries.|Subtract the other diagonal product.,The determinant is ad-bc.
+2,Find det([[2 1][3 4]]).,5,70,Y,Use ad-bc.|Compute 2(4)-1(3).,The determinant is 8-3=5.
+3,A transformation matrix has determinant 3. By what factor are areas scaled?,3,70,Y,Absolute determinant gives area scale.|The determinant is already positive.,Areas are multiplied by 3.
+4,A transformation matrix has determinant -2. By what factor are areas scaled?,2,70,Y,Area scale uses absolute value.|The negative sign indicates orientation reversal.,Areas are multiplied by 2.
+5,What does a negative determinant indicate about orientation?,orientation is reversed|a reflection|orientation reversal,70,Y,The transformation flips handedness.|Area scale itself remains positive.,A negative determinant indicates orientation reversal.
+6,Map vector (3 2) using matrix [[1 0][0 -1]]. Enter x then y.,"3,-2",70,Y,Multiply the matrix by the column vector.|The matrix reflects across the x-axis.,The image vector is (3 -2).
+7,Map vector (1 4) using matrix [[0 -1][1 0]]. Enter x then y.,"-4,1",70,Y,Compute the row-dot-column products.|This is a 90-degree counterclockwise rotation.,The image is (-4 1).
+8,What is the determinant of the identity matrix [[1 0][0 1]]?,1,70,Y,Use ad-bc.|Compute 1(1)-0(0).,The determinant is 1.
+9,If det(A)=0 what happens to area under the transformation?,it collapses to zero|area becomes 0|zero area,70,Y,The area scale is |det(A)|.|A zero determinant flattens the plane into lower dimension.,Every transformed area becomes zero.
+10,A unit square is transformed by a matrix with determinant 5. What is the image area?,5,70,Y,The original area is 1.|Multiply by |det|.,The image area is 1(5)=5.

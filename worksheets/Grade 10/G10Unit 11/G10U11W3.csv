@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A radius is perpendicular to a chord at its midpoint. What does it do to the chord?,bisects it|bisects the chord|divides it in half,70,Y,Perpendicular radii and chords have a special relationship.|The intersection creates equal chord segments.,The radius bisects the chord.
+2,If a radius is perpendicular to a chord what relationship holds between the two chord segments?,they are equal|equal|congruent,70,Y,The radius bisects the chord.|Bisect means divide into two equal parts.,The chord segments are congruent.
+3,What angle is formed by a radius and a tangent at the point of tangency?,90|90 degrees|right angle,70,Y,A tangent touches the circle at one point.|The radius to that point is perpendicular.,They form a 90-degree angle.
+4,Two tangent segments are drawn from the same external point. Compare their lengths.,they are equal|equal|congruent,70,Y,Use the tangent-segment theorem.|Both start at the same outside point.,The tangent segments are congruent.
+5,Tangents from point P have lengths 3x-1 and 2x+4. Find x.,5,70,Y,Set tangent lengths equal.|Solve 3x-1=2x+4.,The equation gives x=5.
+6,A tangent segment has length 12 and the radius to its endpoint is 5. Find the distance from the center to the external point.,13,70,Y,The radius and tangent are perpendicular.|Use a 5-12-13 right triangle.,The center-to-point distance is 13.
+7,A circumscribed angle formed by two tangents intercepts a minor arc of 80 degrees. Find the angle.,100|100 degrees,70,Y,For two tangents subtract the minor arc from 180 degrees.|Compute 180-80.,The circumscribed angle is 100 degrees.
+8,A radius is 7. What is the distance from the center to a tangent line?,7,70,Y,The perpendicular distance reaches the tangency point.|That segment is a radius.,The distance is 7.
+9,Can a tangent line intersect a circle at two distinct points? Enter Yes or No.,No|no|N|n,70,Y,A tangent touches at exactly one point.|A line through two circle points is a secant.,No. A tangent has exactly one point of contact.
+10,A chord is 16 units long and a perpendicular radius bisects it. Find either half of the chord.,8,70,Y,Bisect means divide by 2.|Compute 16/2.,Each half is 8 units.

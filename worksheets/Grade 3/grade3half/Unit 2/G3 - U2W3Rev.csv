@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select which multiplication property is used. Given 4 x 9 = 36, I solve 9 x 4 by 9 x 4 = 4 x 9 = 36 : Commutative Distributive",Commutative,240,Y,Which property says you can flip the numbers and the answer stays the same?,Commutative
+2,"Select which multiplication property is used. Given 6 x 10 = 60 and 6 x 2 = 12, I solve 6 x 12 by 6 x (10 + 2) = 60 + 12 = 72 : Commutative Distributive",Distributive,240,Y,Which property lets you break numbers apart like 12 into 10 + 2?,Distributive
+3,Fill in the missing numbers so both sides are equal 4 x 9 = 9 x __ = __,"4, 36",240,Y,"Use the commutative property flip the numbers, same product.","4, 36"
+4,Fill in the missing numbers so both sides are equal 7 x 5 = 5 x __ = 35,7,240,Y,"Use the commutative property flip the numbers, same product.",7
+5,Select. Amy says Order matters in multiplication because 3 x 4 looks different from 4 x 3. Is it True or False : True False,FALSE,240,Y,Think about whether 3 x 4 and 4 x 3 give the same total.,FALSE

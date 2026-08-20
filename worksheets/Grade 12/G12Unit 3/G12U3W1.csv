@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What point on the complex plane represents 3-2i? Enter x then y.,"3,-2",70,Y,The real part is the horizontal coordinate.|The imaginary coefficient is the vertical coordinate.,The point is (3 -2).
+2,Find the midpoint of 2+i and 4+5i.,3+3i,70,Y,Average the real parts and imaginary parts separately.|Compute (2+4)/2 and (1+5)/2.,The midpoint is 3+3i.
+3,Find the distance between 2+i and 4+5i.,2sqrt(5)|2√5|sqrt(20),70,Y,Use the distance formula on coordinates (2 1) and (4 5).|Compute sqrt((4-2)^2+(5-1)^2).,The distance is sqrt20=2sqrt5.
+4,Find the conjugate of 4+3i.,4-3i,70,Y,Keep the real part.|Change the sign of the imaginary part.,The conjugate is 4-3i.
+5,Find (4+3i)(4-3i).,25,70,Y,A complex number times its conjugate is its modulus squared.|Use 4^2+3^2.,The product is 16+9=25.
+6,Simplify (3+4i)/(1-2i).,-1+2i,70,Y,Multiply numerator and denominator by 1+2i.|The denominator becomes 1^2+2^2=5.,The numerator is -5+10i so the quotient is -1+2i.
+7,What is the real part of -7+5i?,-7,70,Y,The real part has no factor i.|Read the horizontal coordinate.,The real part is -7.
+8,What is the imaginary part of -7+5i?,5,70,Y,Use the coefficient of i.|Do not include the symbol i in the coefficient.,The imaginary part is 5.
+9,Simplify i^2.,-1,70,Y,Use the definition of the imaginary unit.|i is a square root of -1.,i^2=-1.
+10,If a+bi=6-2i find b.,-2,70,Y,Equal complex numbers have equal corresponding parts.|Compare the coefficients of i.,b=-2.

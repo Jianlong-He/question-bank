@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,The plot records amount of snow in decimeters. How many days were recorded?,16,240,Y,Count the number of crosses in the plot above,16,https://i.ibb.co/Hfd7jP4X/image.png
+2,Select True or False. The distance between each tick mark on the number line is ¼ decimeter. : TRUE FALSE,FALSE,240,Y,What is the difference between any one tick to the next tick?,FALSE,https://i.ibb.co/Hfd7jP4X/image.png
+3,What is the mode amount of snow recorded?,1/8,240,Y,Which tick has the most number of crosses on top of it?,1/8,https://i.ibb.co/Hfd7jP4X/image.png
+4,This plot records amount of rain in centimeters. What is the difference between the most amount and least amount of rain recorded in centimeters?,7/9,240,Y,See the largest number recorded and the smallest number recorded.,7/9,https://i.ibb.co/cKXwRrVL/image.png
+5,What is the median amount of rain recorded in the plot?,4/9,240,Y,Median: the middle value in a dataset arranged from lowest to highest. Odd number of values: median is the single middle number. Even number of values: add the two middle numbers together and divide by 2,4/9,https://i.ibb.co/cKXwRrVL/image.png

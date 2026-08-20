@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select which expression is equivalent to 795:700+90+5 7000+90+5 70+9+500,700+90+5,600,Y,"Match each digit to its place value:  7 hundreds, 9 tens, and 5 ones.",700+90+5
+2,Select which expression is equivalent to 4765:4000+700+60+5 400+700+60+5 40000+70+6+500,4000+700+60+5,600,Y,"Match each digit to its place value: 4 thousands, 7 hundreds, 6 tens, and 5 ones.",4000+700+60+5
+3,Select which expression is equivalent to 5825:50000+800+20+5 5000+800+20+5 500+80+2+50,5000+800+20+5,600,Y,"Break 5825 into 5 thousands, 8 hundreds, 2 tens, and 5 ones.",5000+800+20+5
+4,Fill: The missing value:  1000 +  __ + 20 + 7 = 1327,300,600,Y,Compare 1327 with 1000 + 20 + 7 and see what hundreds are missing.,300
+5,Fill: The value of the missing term: 3000+ 800 +30 +__ = 3834,4,600,Y,"Combine 3000 + 800 + 30 first, then see what ones digit is needed to reach 3834.",4
+6,Select which expression represents 52432 in expanded form:50000+2000+400+30+2 500000+2000+400+30+2 50000+3000+400+2 5000+200+40+300+2,50000+2000+400+30+2,600,Y,"Write 52432 as 5 ten‑thousands, 2 thousands, 4 hundreds, 3 tens, and 2 ones.",50000+2000+400+30+2
+7,"Select which number (in the expanded form) represents seventeen thousand, five hundred forty-three:17000+500+40+3 170000+5000+40+3 17000+5000+40+3",17000+500+40+3,600,Y,"Seventeen thousand is 17000. Then add 500, 40, and 3.",17000+500+40+3
+8,"Select the correct standard form which represents seventy-six thousand, two hundred and fifty-two:762520 76252 7526 76052",76252,600,Y,"Combine 76000, 200, and 52 to write the number in standard form.",76252
+9,"Select the correct standard form for fourteen thousand, nine hundred and twenty-four:14920 14924 140924 41924",14924,600,Y,"Combine 14000, 900, and 24 to write the number in standard form.",14924
+10,Select which expression is equivalent to 54765:50000+4000+700+60+5 5000+400+700+60+5 500+40000+70+6+500,50000+4000+700+60+5,600,Y,"Write 54765 as 5 ten‑thousands, 4 thousands, 7 hundreds, 6 tens, and 5 ones.",50000+4000+700+60+5

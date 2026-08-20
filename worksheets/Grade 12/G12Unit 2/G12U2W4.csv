@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Enter the lower and upper bounds of the principal range of arcsin(x).,"-pi/2,pi/2|-π/2,π/2",70,Y,Sine is restricted to a one-to-one interval.|Use Quadrants IV and I including endpoints.,The principal range is [-pi/2 pi/2].
+2,Enter the lower and upper bounds of the principal range of arccos(x).,"0,pi|0,π",70,Y,Cosine is restricted from 0 through pi.|The interval includes both endpoints.,The principal range is [0 pi].
+3,Enter the lower and upper bounds approached by the range of arctan(x).,"-pi/2,pi/2|-π/2,π/2",70,Y,Arctangent outputs angles between its horizontal asymptotes.|The endpoints are not included.,The range lies between -pi/2 and pi/2.
+4,Find arcsin(1).,pi/2|π/2,70,Y,Choose the principal angle whose sine is 1.|The top of the unit circle has angle pi/2.,arcsin(1)=pi/2.
+5,Find arccos(-1).,pi|π,70,Y,Choose the principal angle whose cosine is -1.|The leftmost unit-circle point has angle pi.,arccos(-1)=pi.
+6,Find arctan(1).,pi/4|π/4,70,Y,Choose the principal angle with equal sine and cosine.|tan(pi/4)=1.,arctan(1)=pi/4.
+7,Find arcsin(sin(3pi/4)).,pi/4|π/4,70,Y,The output must lie in the arcsine principal range.|Find the principal angle with the same sine value.,sin(3pi/4)=sqrt2/2 so arcsin returns pi/4.
+8,Simplify tan(arctan(5)).,5,70,Y,A function and its inverse undo each other on the inverse domain.|The input 5 is any real number.,tan(arctan(5))=5.
+9,Why must a trigonometric function's domain be restricted before defining its inverse?,to make it one-to-one|it must be one-to-one|to pass the horizontal line test,70,Y,Periodic functions repeat outputs.|An inverse function requires unique inputs for outputs.,The domain is restricted so the trig function is one-to-one.
+10,A ramp rises 3 units over a horizontal run of 4 units. Find its angle of elevation to the nearest tenth of a degree.,36.9|36.9 degrees,70,Y,Use theta=arctan(rise/run).|Compute arctan(3/4).,theta=arctan(0.75) is about 36.9 degrees.

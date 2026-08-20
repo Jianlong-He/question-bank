@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,A triangle has base 10 cm and height 6 cm. What is its area?,30|30 cm²,100,Y,Triangle area is half of a parallelogram,Triangle area is half of a parallelogram which is ½ × base × height = (1/2) x 10 x 6 = 30,
+2,"If two identical triangles form a parallelogram with area 48 cm², what is the area of one triangle?",24|24 cm²,100,Y,Triangle area is half of a parallelogram,Triangle area is half of a parallelogram = 48/2 = 24,
+3,Select. A triangle has base 8 cm and height 5 cm. A student says the area is 40 cm². Is the student correct?: Correct Wrong,Wrong,100,Y,Don’t forget the ½,Correct area = ½ × 8 × 5 = 20 cm². Student forgot to divide by 2,
+4,Find the area of a triangle with base 12 cm and height 7 cm.,42|42 cm²,100,Y,Triangle area is half of a parallelogram,Triangle area is half of a parallelogram which is ½ × base × height = (1/2) x 12 x 7 = 42,
+5,"A triangle has area 50 cm², base 10 cm. Find the height.",10|10 cm,100,Y,Work backwards,Work backwards. 50 = ½ × 10 × h -> 50 = 5h -> h = 10,
+6,"A triangle has area 27 cm², height 3 cm. Find the base.",18|18 cm,100,Y,Work backwards,Work backwards. 27 = ½ × 3 × b -> 54 = 3b -> b = 18,
+7,Select. A triangle has area 72 cm². Its height is 8 cm. A student says the base is 6 cm. Is the student correct?: Correct Wrong,Wrong,100,Y,Check using formula,½ × 6 × 8 = 24 ≠ 72,
+8,A triangle has area 84 cm² and base 12 cm. Find the height.,14|14 cm,100,Y,Work backwards,84 = ½ × 12 × h -> 84 = 6h -> h = 14,
+9,A triangle has base (x + 2) cm and height 6 cm. Its area is 24 cm². Find x.,6,100,Y,Substitute into formula,24 = ½ × (x + 2) × 6 -> 24 = 3(x + 2) -> 8 = x + 2 -> x = 6,
+10,A parallelogram has the same base and height as a triangle. The triangle’s area is 30 cm². What is the area of the parallelogram?,60|60 cm²,100,Y,Triangle area is half of a parallelogram,Parallelogram area = 2 x triangle area = 60,

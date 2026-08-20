@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A square has side length 6 units. What is the area?,36|36 square units,100,Y,Area = length x width. Square has all four equal sides,36 square units
+2,A square has side length 6 units. What is the perimeter?,24|24 units,100,Y,Perimeter = add all sides length. Square has all four equal sides,24 units
+3,A square has area = 36 square units. What is the length of each side of this square?,6|6 units,100,Y,Area = length x width. Square has all four equal sides,6 units
+4,A square has area = 49 square units. What is the perimeter of this square?,28|28 units,100,Y,Get the length of sides first. Square has all four equal sides. Area = length x width,28 units
+5,"A rectangle has length = 8 units, area = 40 square units. What is the width?",5|5 units,100,Y,Area = length x width,5 units

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A scale drawing uses 1.5 cm to represent 10 m in real life. If a hallway on the drawing is 4.5 cm long, how long is the real hallway?",30,75,Y,"What is the scale?|How many units of scales does the drawing has?","4.5÷1.5=3, 3×10=30"
+2,"On a map, 2 cm represents 50 m. A road is shown as 6.4 cm long. How long is the real road?",160,75,Y,"Multiply centimeters by meters per centimeter.","50/2=25 per cm → 25×6.4=160"
+3,"You want to create a scale drawing where 1 cm represents 8 m. If a wall is 56 m in real life, how long should it be in the drawing?",7,80,Y,"Divide real length by scale.","56/8=7"
+4,"A model uses the scale 1 to 30. If an object on the drawing is 2.2 units long, how long is the actual object?",66,80,Y,"Multiply drawing length by scale factor.","2.2×30=66"
+5,"A scale drawing uses a factor of 0.25. If a real room is 32 units long, what is the drawing length?",8,80,Y,"Multiply real length by the scale factor.","32×0.25=8"
+6,"A blueprint reduces all real lengths using a factor of 0.4. If the drawing shows a hallway that is 14.8 units long, what is the real length?",37,80,Y,"Divide drawing length by scale factor.","14.8/0.4=37"
+7,"A rectangle is scaled by a factor of 1.5. Its original area is 24. Fill in the blanks: The area scales by the square of the scale factor, which is ___. The area of the scaled rectangle is ___.", "2.25, 54",85,Y,"Square the scale factor, then multiply by the original area.","1.5² = 2.25. 24 × 2.25 = 54."
+8,"A shape has area 18. The scale factor is 0.3. Fill in the blanks: The square of the scale factor is ___. The area of the scaled copy is ___.", "0.09, 1.62",85,Y,"Square the scale factor, then multiply by the original area.","0.3² = 0.09. 18 × 0.09 = 1.62."
+9,"A scale drawing uses 1 cm = 4 km. If a river measures 15.75 cm on the map, how long is the river in real life?",63,75,Y,"Multiply drawing length by kilometers per centimeter.","15.75×4=63"
+10,"A building on a map is 2.3 cm long. The real building is 46 m long. What is the map scale?",20,75,Y,"Divide real length by drawing length.","46/2.3=20"

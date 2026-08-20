@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Identify the slope ($m$) and y-intercept ($b$) of the equation: $y = 3x - 4$||Fill: Find $m$ and $b$ for $y = 3x - 4$,"3,-4",20,Y,Compare to $y=mx+b$;The slope is the coefficient of $x$;The intercept includes the negative sign,Slope-intercept identification
+2,"Fill: Calculate the slope between points $(1, 2)$ and $(3, 8)$",3,30,Y,Use slope formula $m = \frac{y_2 - y_1}{x_2 - x_1}$;Substitute: $\frac{8 - 2}{3 - 1}$;Simplify the fraction,Slope calculation
+3,Select all **Linear** equations: $y=2x+1$ $y=x^2$ $y=5$ $y=\frac{1}{x}$,"$y=2x+1$,$y=5$",20,Y,Linear equations have $x$ to the power of 1 (or 0);Equations with $x^2$ or $x$ in the denominator are non-linear;$y=5$ is a horizontal line (linear),Linear vs Non-linear
+4,Fill: Find the value of $y$ when $x = 4$ for the function $y = -2x + 10$,2,25,Y,Substitute 4 into the equation: $y = -2(4) + 10$;Multiply first then add,Function input-output
+5,Fill: Convert $2x + y = 6$ to slope-intercept form ($y = mx + b$). What are $m$ and $b$?,"-2,6",35,Y,Isolate $y$ on the left side;Subtract $2x$ from both sides;Result is $y = -2x + 6$,Standard to Slope-intercept
+6,Fill: A tank has 50L and drains at 2L/min. Write the equation: $y = \_\_x + \_\_ $,"-2,50",40,Y,Slope ($m$) is the rate of change (draining means negative);Y-intercept ($b$) is the starting amount,Word problem formulation
+7,"Fill: What is the slope of the line passing through $(0, 4)$ and $(2, 10)$?",3,30,Y,Use the slope formula: $(y_2 - y_1) / (x_2 - x_1)$;$(10 - 4) / (2 - 0)$;$6 / 2 = 3$,Slope Formula
+8,Fill: Find the x-intercept of $3x - 2y = 12$,4,30,Y,The x-intercept occurs when $y = 0$;Set $y$ to 0: $3x - 2(0) = 12$;Solve $3x = 12$,Calculating intercepts
+9,"Fill: Find the missing $y$ if the slope between $(2, 3)$ and $(4, y)$ is 4",11,45,Y,Set up slope formula: $\frac{y-3}{4-2} = 4$;Simplify denominator: $\frac{y-3}{2} = 4$;Multiply by 2 then add 3,Missing coordinate slope
+10,Select the equation of a line with a y-intercept of -5 and a slope of 1/2: $y=1/2x-5$ $y=-5x+1/2$ $y=1/2x+5$,$y=1/2x-5$,25,Y,Use slope-intercept form $y=mx+b$;$m$ is the slope (1/2);$b$ is the y-intercept (-5),Writing Linear Equations

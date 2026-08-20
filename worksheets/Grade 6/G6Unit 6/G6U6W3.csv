@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Evaluate x + 2y when x = 6, y = 4",14,100,Y,Subtitute first then follow the order of operations,14     -> 6 + 2(4) = 6+8 = 14,
+2,"Evaluate 2x + 3y when x = 9, y = 7",39,100,Y,Subtitute first then follow the order of operations,39     -> 2(9) + 3(7) = 18+21 = 39,
+3,"Evaluate xy + x when x = 4, y = 3",16,100,Y,Subtitute first then follow the order of operations,16     -> (4)(3) + 4 = 12 + 4 = 16,
+4,Evaluate 8k - 4 when k = 0.25,-2,100,Y,Subtitute first then follow the order of operations,-2     -> 8(0.25) - 4 = 2 - 4 = -2,
+5,Evaluate 0.2m + 6 when m = 10,8,100,Y,Subtitute first then follow the order of operations,8     -> 0.2(10) + 6  = 2 + 6 = 8,
+6,Evaluate 12n - 3 when n = 1/3,1,100,Y,Subtitute first then follow the order of operations,1     -> 12(1/3) - 3 = 4 - 3 = 1,
+7,Evaluate 2y^3 - 24 when y = 5,226,100,Y,Subtitute first then follow the order of operations,226     -> 2(5)^3 - 24 = 2*5*5*5 -24 = 250 - 24 = 226,
+8,"Which is larger when x = 3, y = 2.5?  (A) 2x + y   (B) xy + 3",B,100,Y,Evaluate both,"B     -> A = 2(3) + 2.5 = 6 + 2.5 = 8.5, B = (3)(2.5) + 3 = 7.5 + 3 = 10.5",
+9,"Evaluate 5x + 2y when x = 0.8, y = 2.3",8.6,100,Y,Subtitute first then follow the order of operations,8.6     -> 5(0.8) + 2(2.3) = 4 + 4.6 = 8.6,
+10,A ride costs 3 dollars plus 2 dollars per km and 1 dollar per minute. Write an expression and find total cost if distance (d) = 4 km and time (t) = 5 min.,"3 + 2d + t|3+2d+t, 16|16 dollars",100,Y,"Use ""d"" to represent distance and ""t"" to represent time; 3 dollars is fixed, total cost =  fixed cost + distance cost + time cost. ","3 + 2d + t, 16 dollars      -> total cost =  fixed cost + distance cost + time cost = 3 + 2d + t",

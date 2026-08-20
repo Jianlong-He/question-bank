@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Round 47 to the nearest 10. What number do you get?,50,240,Y,Is the ones digit 5 or more?,50
+2,Round 83 to the nearest 10. What number do you get?,80,240,Y,Is the ones digit 5 or more?,80
+3,Round 462 to the nearest 100. What number do you get?,500,240,Y,Tens digit 5 or more?,500
+4,Fill: Round 640 to the nearest 100 is __. Round 645 to the nearest 10 is __,"600, 650",360,Y,Tens digit 5 or more?,"600, 650"
+5,Select. Place 214 on a number line between 210 and 220. Which is it closer to? : 210 220,210,240,Y,Think of is it the same as round to the nearest 100 or 10?,210

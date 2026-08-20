@@ -1,0 +1,12 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: 238 + 10 = __, 238 - 10 = __","248, 228",120,Y,Only tens digit moves up or down.,"248, 228"
+2,"A number has 5 hundreds, 3 tens and 8 ones, what number is it?",538,120,Y,"Review ""Adding ten or one hundred"" video",538
+3,"Select. When adding 100 to 378, which digit changed?  A) Hundreds   B) Tens   C) Ones : A B C",A,130,Y,"Review ""Adding ten or one hundred"" video",A
+4,"Fill: 321 + 1 = __, 321 + 10 = __, 321 + 100 = __","322, 331, 421",140,Y,Count 1 more: only the last digit changes. Count 10 more: the middle digit changes. Count 100 more: the first digit changes.,"322, 331, 421"
+5,"Lila has 20 pieces of cookies, she buys a pack of 100 more. How many cookies she has now?",120,140,Y,buy = add; 20 + 100 = __,120
+6,"Fill: 110, 210, __, 410, __, 610, 710, __, 910, 1010","310, 510, 810",160,Y,Count up 100 for each step,"310, 510, 810"
+7,"Fill: 120, 130, __, 150, __, 170, 180, __, 200","140, 160, 190",160,Y,Count up 10 for each step,"140, 160, 190"
+8,Select. Which is larger?  A) 451 - 100    B) 337 + 10   C) 253 + 100 : A B C D,C,170,Y,451 - 100:  hundreds digit becomes smaller. 337 + 10: tens digit goes up by 1.  253 + 100: hundreds digit goes up by 1,C
+9,"A library has 235 books. Someone borrows 10, and then the library buys 100 more. How many books are there now?",325,170,Y,"Borrow = subtract, buy = add; 235 - 10 + 100 = __",325
+10,"Start at 243, add 5, subtract 10, add 100. Where do you end?",338,180,Y,243 + 5 - 10 + 100 = __,338
+11,"Start at 243, add 9, subtract 4, add 100, subtract 10. Where do you end?",338,200,Y,243 + 9 - 4 + 100 - 10 = __,338

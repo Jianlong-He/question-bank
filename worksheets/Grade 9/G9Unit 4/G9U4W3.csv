@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find the y-intercept of y = 3x - 7.,-7,70,Y,"Use x = 0 at the y-axis.|In y = mx + b, the intercept is b.",The y-intercept is -7.
+2,Find the x-intercept of y = 2x + 6.,-3,70,Y,Set y equal to zero.|Solve 0 = 2x + 6.,"2x = -6, so x = -3."
+3,"For 4x + 2y = 8, enter the x-intercept and then the y-intercept.","2, 4",70,Y,Set y = 0 for the x-intercept.|Set x = 0 for the y-intercept.,"With y = 0, x = 2. With x = 0, y = 4."
+4,"A table for a line contains (0, 5), (1, 8), and (2, 11). What is the y-intercept?",5,70,Y,Look for the row where x = 0.|The y-value there is the intercept.,"The point (0, 5) shows that the y-intercept is 5."
+5,"A service costs $60 initially and $25 per hour. In C = 25h + 60, what is the initial cost?",60,70,Y,Initial means h = 0.|The constant term is the starting value.,"At h = 0, C = 60, so the initial cost is $60."
+6,"A line passes through (0, -2), (1, 1), and (2, 4). Enter its slope and then its y-intercept.","3, -2",70,Y,Compare consecutive rows for the slope.|Use the point where x = 0 for the intercept.,"The y-values increase by 3 for each increase of 1 in x, and the y-intercept is -2."
+7,Find the x-intercept of y = -2x + 4.,2,70,Y,Set y = 0.|Solve 0 = -2x + 4.,"2x = 4, so x = 2."
+8,A line has slope 2 and y-intercept 1. Find y when x = 3.,7,70,Y,Write y = 2x + 1.|Substitute x = 3.,y = 2(3) + 1 = 7.
+9,Find the x-intercept of y = (1/2)x - 3.,6,70,Y,Set y equal to zero.|Solve (1/2)x = 3.,Multiplying by 2 gives x = 6.
+10,"To graph y = -x + 5 using intercepts, what is the y-coordinate of the y-intercept?",5,70,Y,At the y-intercept x = 0.|Substitute zero for x.,"y = -0 + 5 = 5, so the y-intercept is (0, 5)."

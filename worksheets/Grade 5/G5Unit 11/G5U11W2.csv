@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Select which formula finds the volume of a rectangular prism? : 2x(LengthxWidth) Length+Width+Height LengthxWidthxHeight,LengthxWidthxHeight,240,N,,LengthxWidthxHeight,
+2,One cube measures 2 cm × 2 cm × 2 cm. What is the volume of this cube in cubic centimeter (cm³)?,8,240,Y,volume = length x width x height,8  -> volume = length x width x height,
+3,"When length is measured in meters, volume is measured in __",cubic meters|Cubic Meters|Cubic meters,240,N,,cubic meters|Cubic Meters|Cubic meters,
+4,"Fill: A rectangular prism is 2 feet long, 3 feet wide and 4 feet high. The volume is __ cubic feet (ft³)",24,240,Y,volume = length x width x height,24  -> volume = length x width x height,
+5,Fill: The face of width and length of the rectangular prism is 9 cm². If the prism is 3 cm high. The volume of the rectangular prism is __ cubic centimeters (cm³),27,240,Y,volume = length x width x height ,27  -> volume = length x width x height = 9 x height = 9 x 3 = 27,
+6,"Select True of False of the statement ""To find the volume of a rectangular prism, you only need to know two dimensions."" : TRUE FALSE",FALSE,240,N,,FALSE  -> Volume is 3-dimensional (3D),
+7,Select which of the following gives the same volume? : 8x5x7 7x5x8 5x7x8 All-of-the-above,All-of-the-above,240,N,,All-of-the-above  -> Multiplication can be done in any order.,
+8,"Fill: A box is measured as 6 m long, 4 m wide and 5 m high. The volume is __ cubic meters (m³)",120,240,Y,volume = length x width x height,120  -> volume = length x width x height = 6 x 4 x 5 = 120,
+9,"Fill: A fish tank is 12 m long, 4 m wide and 6 m high. The volume of the fish tank is __ cubic meters (m³)",288,240,Y,volume = length x width x height,288  -> volume = length x width x height = 12 x 4 x 6 = 288,
+10,Fill: A box has a volume of 60 cm³. Its length is 3 cm and width is 2 cm. The height is __ cm.,10,240,Y,volume = length x width x height. Reserve the operation to get the height,10  -> volume = length x width x height. height = volumn ÷ (width x length) = 60 ÷ (3 x 2) = 60 ÷ 6 = 10,

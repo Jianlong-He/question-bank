@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Solve sin(x)=0 on 0<=x<=2pi. Enter solutions in increasing order.,"0,pi,2pi|0,π,2π",70,Y,Sine is the unit-circle y-coordinate.|The y-coordinate is zero on the horizontal axis.,The solutions are 0 pi and 2pi.
+2,Solve cos(x)=1/2 on 0<=x<2pi. Enter solutions in increasing order.,"pi/3,5pi/3|π/3,5π/3",70,Y,The reference angle is pi/3.|Cosine is positive in Quadrants I and IV.,The solutions are pi/3 and 5pi/3.
+3,Write the general solution of sin(x)=1.,pi/2+2pi k|π/2+2πk,70,Y,Sine reaches 1 once per cycle.|Add integer multiples of the period 2pi.,x=pi/2+2pi k for any integer k.
+4,Write the general solution of cos(x)=-1.,pi+2pi k|π+2πk,70,Y,Cosine reaches -1 at pi in each cycle.|Add integer multiples of 2pi.,x=pi+2pi k for any integer k.
+5,Solve tan(x)=1 on 0<=x<2pi. Enter solutions in increasing order.,"pi/4,5pi/4|π/4,5π/4",70,Y,The reference angle is pi/4.|Tangent is positive in Quadrants I and III.,The solutions are pi/4 and 5pi/4.
+6,Solve sin(2x)=0 on 0<=x<=pi. Enter solutions in increasing order.,"0,pi/2,pi|0,π/2,π",70,Y,Set 2x equal to multiples of pi.|Within the interval 2x runs from 0 to 2pi.,2x=0 pi or 2pi so x=0 pi/2 or pi.
+7,Solve 2cos(x)-1=0 on 0<=x<2pi. Enter solutions in increasing order.,"pi/3,5pi/3|π/3,5π/3",70,Y,First isolate cosine.|Then solve cos(x)=1/2.,The solutions are pi/3 and 5pi/3.
+8,What is the first algebraic step in solving 3sin(x)+1=2?,isolate sin(x)|subtract 1|subtract 1 from both sides,70,Y,Treat sin(x) as the variable expression.|Undo addition before multiplication.,Subtract 1 from both sides to begin isolating sin(x).
+9,Write both general solution families for sin(x)=1/2. Enter the pi/6 family then the 5pi/6 family.,"pi/6+2pi k,5pi/6+2pi k|π/6+2πk,5π/6+2πk",70,Y,There are two solutions in one period.|Add 2pi k to each base solution.,The families are pi/6+2pi k and 5pi/6+2pi k.
+10,After finding solutions to a transformed trig equation what should be checked?,the original equation and interval|original equation|interval restrictions,70,Y,Algebraic transformations can introduce invalid values.|The requested interval may exclude equivalent angles.,Substitute into the original equation and enforce the stated interval.

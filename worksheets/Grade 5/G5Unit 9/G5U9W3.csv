@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,What is 2 ÷ 0.5?,4,240,Y,Convert both to whole numbers,4   -> 2 ÷ 0.5 = 20 ÷ 5 = 4,
+2,What is 3.6 ÷ 0.9?,4,240,Y,Convert both to whole numbers,4   -> 3.6 ÷ 0.9 = 36 ÷ 9 = 4,
+3,What is 1 ÷ 0.4? Give your answer as a decimal.,2.5,240,Y,"Method 1: use long division directly, don't forget your decimal.  Method 2: multiple dividend with 10 or 100, get the result and divide it back. Method 3: rewrite as a mixed number",2.5   -> Method 1: 1 ÷ 0.4 = 10 ÷ 4 = 10.0 ÷ 4 = 2.5  Method 2: 1 ÷ 0.4 = 10 ÷ 4 -> (100 ÷ 4) ÷10 = 25 ÷ 10 = 2.5  Method 3: 1 ÷ 0.4 = 10 ÷ 4 = 2 2/4 = 2 1/2 = 2.5,
+4,What is 7 ÷ 0.2? ,35,240,Y,Convert both to whole numbers,35   -> 7 ÷ 0.2 = 70 ÷ 2 = 35,
+5,What is 24 ÷ 0.6? ,40,240,Y,Convert both to whole numbers,0.25   -> 24 ÷ 0.6 = 240 ÷ 6 = 40 ,
+6,What is 6.5 ÷ 0.1? ,65,240,Y,Dividing by 0.1 is the same as x10,65  -> 6.5 ÷ 0.1 = 6.5 x 10 = 65,
+7,What is 0.9 ÷ 0.01? ,90,240,Y,Dividing by 0.01 is the same as x100,90  -> 0.9 ÷ 0.01 = 0.9 x 100 = 90,
+8,What is 3.4 ÷ 0.001?,3400,240,Y,Dividing by 0.001 is the same as x1000,3400  -> 3.4 ÷ 0.001 = 3.4 x 1000 = 3400,
+9,What is 1.8 ÷ 0.006?,300,240,Y,Convert both to whole numbers,300  -> 1.8 ÷ 0.006 = 1800 ÷ 6 = 300,
+10,A bookshelf is 6 meters long. Each book takes 0.15 meters of space. How many books fit on the shelf?,40,240,Y,Number of books = Total space ÷ space per book,40  -> Number of books = Total space ÷ space per book = 6 ÷ 0.15 = 600 ÷ 15 = 40,

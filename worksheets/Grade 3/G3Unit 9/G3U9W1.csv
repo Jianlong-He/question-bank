@@ -1,0 +1,12 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,How many sides does a quadrilateral have? ,4|4 sides|4sides,100,N,,4 sides.   -> The word quad means four. A quadrilateral is any shape that has four sides,
+2,Which shape is a quadrilateral?  (A) Triangle (B) Rectangle (C) Pentagon,b|B|Rectangle|rectangle,100,Y,Count the sides,Triangle: 3 sides. Rectangle: 4 sides. Pentagon: 5 sides. A quadrilateral is any shape that has four sides,
+3,Is a square a quadrilateral? Answer yes or no,yes|Yes,100,Y,Count the sides of a square.,"Yes. A square has 4 sides, so it is a quadrilateral.",
+4,What is special about a parallelogram? (A) Opposite sides are parallel   (B) All sides are curved  (C) It has 3 sides,A|a,100,Y,Think about sides going the same direction.,A parallelogram is a quadrilateral where opposite sides are parallel (going the same direction).,
+5,"If lines would never cross even if extended, what do we call them?",Parallel,100,Y,Same direction,Parallel    -> Parallel lines go in the same direction and never cross.,
+6,What makes a rhombus special?  (A) All sides are equal  (B) Only two sides are equal  (C) No sides are equal,A|a,100,N,,A    -> A rhombus has all four sides the same length.,
+7,Is every rhombus also a quadrilateral? Answer yes or no,yes|Yes,100,Y,Think about the properties of rhombus and quadrilateral,"Yes   -> A quadrilateral is any shape that has four sides. A rhombus has 4 sides, so it is always a quadrilateral.",
+8,"If two opposite sides of a shape are parallel and the other two are also parallel, what shape could it be? ",Parallelogram|Square|Rectangle,100,N,,"When both pairs of opposite sides are parallel, the shape is a parallelogram. Square and Rectangle are special case of parallelogram",
+9,Is a square also a rectangle? Answer yes or no,yes|Yes,100,Y,Think about the corners.,Yes   -> A square has: 4 right angles and 4 equal sides. So a square is both a rectangle and a rhombus.,
+10,A shape has 4 right angles. What shape could it be?,Rectangle|Square,100,N,,Both rectangles and squares have four right angles.,
+11,A shape has 4 sides and all sides are equal. What shape could it be?,Rhombus|Square,100,N,,A rhombus is a quadrilateral where all four sides are equal. A suqare is a special case of rhombus,

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Describe the shift from y=x^2 to y=(x-5)^2+2.,5 units right and 2 units up|right 5 and up 2,70,Y,The inside change controls horizontal movement.|The outside +2 controls vertical movement.,The parabola moves 5 units right and 2 units up.
+2,Write y=x^2 shifted 3 units left.,y=(x+3)^2,70,Y,A left shift uses addition inside.|Replace x with x+3.,The equation is y=(x+3)^2.
+3,Write y=x^2 shifted 4 units down.,y=x^2-4,70,Y,Vertical shifts are outside the square.|Subtract 4 from every output.,The equation is y=x^2-4.
+4,Write y=x^2 reflected across the x-axis.,y=-x^2,70,Y,Multiply all outputs by -1.|Place a negative sign before x^2.,The equation is y=-x^2.
+5,Write y=x^2 vertically stretched by factor 3.,y=3x^2,70,Y,Multiply the entire output by 3.|The leading coefficient becomes 3.,The equation is y=3x^2.
+6,Write y=x^2 vertically compressed by factor 1/2 and shifted 1 unit up.,y=1/2x^2+1|y=0.5x^2+1,70,Y,Use leading coefficient 1/2.|Add 1 outside for the upward shift.,The equation is y=(1/2)x^2+1.
+7,What is the vertex of y=-2(x+4)^2-3? Enter x-coordinate then y-coordinate.,"-4,-3",70,Y,Use y=a(x-h)^2+k.|Rewrite x+4 as x-(-4).,The vertex is (-4 -3).
+8,Does y=-2(x+4)^2-3 open upward or downward?,downward|down,70,Y,Look at the sign of the leading coefficient.|A negative coefficient reflects the graph across the x-axis.,The parabola opens downward.
+9,Compared with y=x^2 is y=6(x-1)^2 narrower or wider?,narrower,70,Y,Compare |6| with 1.|A larger vertical scale makes the graph steeper.,The graph is narrower.
+10,Apply a shift right 2 then up 5 to y=-x^2. Write the final equation.,y=-(x-2)^2+5,70,Y,Keep the reflection coefficient -1.|Use x-2 inside and +5 outside.,The final equation is y=-(x-2)^2+5.

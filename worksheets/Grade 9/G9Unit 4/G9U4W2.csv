@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the slope of the line through (1, 3) and (5, 11).",2,70,Y,Use change in y divided by change in x.|Compute (11 - 3)/(5 - 1).,The slope is 8/4 = 2.
+2,A line rises 6 units while running 3 units to the right. What is its slope?,2,70,Y,Slope is rise divided by run.|Divide 6 by 3.,The slope is 6/3 = 2.
+3,"A table contains the points (0, 1), (2, 7), and (4, 13). Find the slope.",3,70,Y,Use any two rows.|The y-change is 6 when the x-change is 2.,The slope is 6/2 = 3.
+4,"Find the slope through (-2, 5) and (2, -3).",-2,70,Y,Compute the changes in the same order.|Use (-3 - 5)/(2 - (-2)).,The slope is -8/4 = -2.
+5,What is the slope of any horizontal line?,0,70,Y,A horizontal line has no vertical change.|Its rise is zero.,"The slope is 0 divided by a nonzero run, which equals 0."
+6,What is the slope of the vertical line x = 4?,undefined|Undefined,70,Y,A vertical line has zero horizontal change.|Division by zero is not defined.,"Its run is zero, so the slope is undefined."
+7,"As x increases, a line moves downward from left to right. Is its slope positive or negative?",negative|Negative,70,Y,Compare the directions of x and y.|Here x increases while y decreases.,Opposite-signed changes give a negative slope.
+8,"A line has slope -3. If x increases by 2, what is the change in y?",-6,70,Y,Use change in y = slope × change in x.|Multiply -3 by 2.,The change in y is -3(2) = -6.
+9,A line falls 4 units for every 5 units it moves right. Write its slope as a fraction.,-4/5,70,Y,Falling gives a negative rise.|Slope is rise/run.,"The rise is -4 and the run is 5, so the slope is -4/5."
+10,"The points (4, 1) and (4, 9) lie on the same line. Is the line horizontal or vertical?",vertical|Vertical,70,Y,Compare the x-coordinates.|Both points have x = 4.,A constant x-coordinate forms a vertical line.

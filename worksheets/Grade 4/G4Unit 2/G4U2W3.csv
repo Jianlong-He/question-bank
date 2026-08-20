@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill:1,566 - 123  = __",1443,300,Y,Align the digits to the appropriate place values. Start by subtracting the ones place.,1443
+2,"Fill:1,000 - 123  = __",877,300,Y,Align the digits to the appropriate place values. Start by subtracting the ones place.,877
+3,Fill: 1516 - 1245 = __,271,300,Y,Align the digits to the appropriate place values. Start by subtracting the ones place.,271
+4,"Fill: 12,667 - 10,850",1817,300,Y,Align the digits to the appropriate place values. Start by subtracting the ones place. Borrow if necessary,1817
+5,"Fill:487,659 - 10,134 = __",477525,300,Y,Align the digits to the appropriate place values. Start by subtracting the ones place.,477525
+6,"Fill:487,659 - 51,471 = __",436188,300,Y,Align the digits to the appropriate place values. Start by subtracting the ones place. Borrow if necessary,436188
+7,"Fill: 887,659  - 145,911 = __",741748,300,Y,Align the digits to the appropriate place values. Start by subtracting the ones place. Borrow if necessary,741748
+8,"Fill: 7,899 - 1,054 - 1,002",5843,360,Y,"Try subtracting the first two numbers, then get the answer, and subtract the third.",5843
+9,"A toy factory produced 5,156 toys. They sold 2,323 toys. How many toys were left unsold?",2833,360,Y,Subtract the toys sold from the toys produced.,2833
+10,"If you rearrange the digits 6, 9, 2, 3 to make a 4-digit number minus another 4-digit number (using each digit once), what is the largest difference you can calculate?",7263,420,Y,"Make the first number as large as possible, the second as small as possible, and subtract the two.",7263

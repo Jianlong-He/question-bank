@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
+1,How many endpoints does a line segment have?,2,300,N,,2,
+2, A line goes on forever in only one direction. Is this statement True or False?,FALSE,300,Y,A ray has one endpoint and goes on forever.A line has no endpoints,FALSE,
+3,Select which of these figures has zero dimensions?:Line Point Plane,Point,300,Y,"You cannot measure its length, width, or height.",Point,
+4,How many endpoints does a ray have?,1,300,Y,It starts at one place and goes on forever in one direction,1,
+5,Select.The straight edges of a triangle are examples of what geometric figure?: Point Line Line-segment Ray Angle,Line-segment,300,Y,The sides do not go on forever-they connect two points (vertices),Line-segment,
+6,You have three non-collinear points (A B and C). How many unique line segments can be drawn by connecting pairs of these points?,3,300,Y,"Draw the segments: one from A to B, one from A to C, and one from B to C",3,
+7,"Point M is the midpoint of line segment AB. If the length of segment AB is 10 cm, what is the length from A to M?",5|5 cm,300,Y,The midpoint divides the segment into two equal parts.,5,
+8, Select the starting point of this ray:C D ,C,300,N,,C,https://i.ibb.co/gLF0C4kJ/G4-U11-WS1-I1.jpg
+9,Is ray (a) same as ray (b) ? ( Yes or No?),No,300,Y,Direction and starting point matter for rays,No,https://i.ibb.co/xc3mVZf/G4-U11-WS1-I2.jpg
+10,Select which geometric figure is described as a set of points extending infinitely in both directions?:Ray Line-segment Line Point ,Line,300,Y,It has no endpoints and never stops in either direction,Line,

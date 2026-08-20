@@ -1,0 +1,12 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select. What days comes after Monday? : Sunday Saturday Tuesday Thursday Friday Wednesday,Tuesday,100,Y,Count in order: Sunday Monday Tuesday Wednesday Thursday Friday Saturday,Tuesday
+2,Select. What days comes before Thursday? : Sunday Saturday Monday Thursday Friday Wednesday,Wednesday,100,Y,Count in order: Sunday Monday Tuesday Wednesday Thursday Friday Saturday,Wednesday
+3,Select. Today is Saturday. What day is it tomorrow? : Sunday Monday Tuesday Thursday Friday Wednesday,Sunday,100,Y,Count in order: Sunday Monday Tuesday Wednesday Thursday Friday Saturday. The start the next round. Sunday Monday Tuesday Wednesday Thursday Friday Saturday,Sunday
+4,Select. What season comes right before Summer? : Spring Fall Winter,Spring,100,Y,Count in order: Spring Summer Fall Winter,Spring
+5,Select. What season comes after fall? : Spring Summer Winter,Winter,100,Y,Fall is when leaves drop. What season comes next when it starts to get cold? ;Count in order: Spring Summer Fall Winter,Winter
+6,Select. Which month comes right after November? : January December October,December,100,Y,Count in order: January February March April May June July August September October November December,December
+7,Select. What month comes right before April? : May June March February,March,100,Y,Count in order: January February March April May June July August September October November December,March
+8,How many days are in 2 weeks.,14,120,Y,One week is 7 days. Think: 2 weeks is 7 + 7 = ? ,14
+9,"If the calendar shows the 1st day of the month on a Friday, what day is the 2nd?",Saturday,150,Y,The day right after Friday is Saturday,Saturday
+10,Summer break is 2 weeks and 4 days from today. How many days is that in total?,18,150,Y,One week is 7 days. What is 7 + 7 + 4?,18
+11,Select. Which month is the shortest month in a year? : May December January February,February,150,Y,Which month has only 28 or 29 days? Most of the months has 30 or 31 days. But February only has 28 or 29 days. That is the shortest month.,February

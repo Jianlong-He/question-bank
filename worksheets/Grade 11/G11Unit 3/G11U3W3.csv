@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Use the remainder theorem to find the remainder when f(x)=x^2+3x+5 is divided by x-2.,15,70,Y,Evaluate f(2).|Compute 2^2+3(2)+5.,The remainder is f(2)=15.
+2,Find the remainder when f(x)=2x^3-x+4 is divided by x+1.,3,70,Y,For divisor x+1 evaluate f(-1).|Compute 2(-1)^3-(-1)+4.,The remainder is -2+1+4=3.
+3,Is x-3 a factor of x^2-5x+6? Enter Yes or No.,Yes|yes|Y|y,70,Y,Evaluate the polynomial at x=3.|A zero remainder means the divisor is a factor.,"f(3)=9-15+6=0, so yes."
+4,Is x+2 a factor of x^3+3x^2-4? Enter Yes or No.,Yes|yes|Y|y,70,Y,Evaluate at x=-2.|Compute -8+12-4.,"The value is 0, so x+2 is a factor."
+5,Find k if x-2 is a factor of x^2+kx-6.,1,70,Y,Set f(2)=0.|Solve 4+2k-6=0.,"2k-2=0, so k=1."
+6,Find k if the remainder when x^3+kx+2 is divided by x-1 is 8.,5,70,Y,The remainder is f(1).|Set 1+k+2=8.,"k+3=8, so k=5."
+7,Construct a monic quadratic with zeros 2 and -5.,x^2+3x-10,70,Y,Use factors x-2 and x+5.|Multiply the two factors.,(x-2)(x+5)=x^2+3x-10.
+8,"Construct a monic cubic with zeros 1, 2, and 3.",x^3-6x^2+11x-6,70,Y,"Use factors x-1, x-2, and x-3.|Multiply the factors carefully.",The polynomial is (x-1)(x-2)(x-3)=x^3-6x^2+11x-6.
+9,If f(-4)=0 which linear expression is a factor of f(x)?,x+4,70,Y,A zero c corresponds to factor x-c.|Here c=-4.,The factor is x-(-4)=x+4.
+10,For f(x)=x^3-2x^2-5x+6 use the factor theorem to identify whether x-1 is a factor.,Yes|yes|Y|y,70,Y,Evaluate f(1).|Compute 1-2-5+6.,"f(1)=0, so x-1 is a factor."

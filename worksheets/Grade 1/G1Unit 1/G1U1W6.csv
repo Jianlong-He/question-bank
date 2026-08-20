@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Count by 5s starting from 0: 0, 5, 10, __, __, 25, 30","15, 20",80,Y,Add 5 each time,"15, 20"
+2,"Count by 10s starting from 0: 0, 10, 20,__, 40, 50, __, 70, 80, 90, __","30, 60, 100",90,Y,Add 10 each time,"30, 60, 100"
+3,"Select. Which counting list is by 5s?  A)110, 120, 130, 140    B)35, 40, 45, 50    C)14, 16, 18, 20 : A B C",B,80,Y,Which one goes up by 5?,B
+4,What number comes before 50 when counting by 5s?,45,90,Y,Go back 5 steps from 50,45
+5,Count backward from 100 to 0 by tens,"100, 90, 80, 70, 60, 50, 40, 30, 20, 10, 0",120,Y,Count backward from 10 to 0 first,"100, 90, 80, 70, 60, 50, 40, 30, 20, 10, 0"
+6,What number comes before 60 when counting by tens?,50,130,Y,"Count backward: 100, 90, 80, 70,60, ?",50
+7,Which number would come after 95 if we count by 5s,100,130,Y,Add 5 to 95,100
+8,Count by 10s from 100 to 150.,"100, 110, 120, 130, 140, 150",150,Y,Each step adds 10; Count by tens from 10 to 50 first; Review Counting by 10 video,"100, 110, 120, 130, 140, 150"
+9,Count by 5s from 30 to 50.,"30, 35, 40, 45, 50",180,Y,Each step adds 5; Count by 5s  from 10 to 50,"30, 35, 40, 45, 50"
+10,"Select. What list counts by 5s first and then switch to 10s?   A)1, 2, 3, 4, 5, 15, 25   B)30, 40, 45, 50   C)20, 25, 30, 32, 34, 36    D)25, 30, 35, 45, 55, 65 : A B C D",D,200,Y,"First, choose the list(s) where each step adds 5. Then, choose the one where each step adds 10.",D

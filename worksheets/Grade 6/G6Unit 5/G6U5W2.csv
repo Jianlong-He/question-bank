@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Select, Where would 3/5 be placed on a number line? (A) Between 0 and 1 (B) Between 1 and 2 (C) Between -1 and 0 : A B C",A,50,N,,,
+2,"Select, Which number is farther left on the number line? (A) -3 2/5  (B) -3.8 : A B",B,50,Y,Convert both to decimals or fractions,"B  -> -3 2/5 = -3.4, -3.8 is more negative",
+3,"Compare -0.15 __ 0.52. Choose from <, > or =",<,50,Y,Any negative number is less than any positive number.,<  -> Any negative number is less than any positive number.,
+4,"Compare 11/16 __ 3/8. Choose from <, > or =",>,50,Y,Make denominators the same.,>    -> Make denominators the same.,
+5,"Compare -4/25 __ -7/25. Choose from <, > or =",>,50,Y,Which is farther left?,>    ->  -7/25 is more negative than -4/25,
+6,"Compare -5.47 __ -7.24. Choose from <, > or =",>,50,Y,Which is farther left?,>    ->  -7.24 is more negative than -5.47,
+7,The temperature in Edmonton is -15°C. In Calgary it is -9°C. Which city is warmer?,Calgary|calgary,50,Y,Which number is greater?,Calgary  ->  -9 is greater than -15 (closer to zero),
+8,Diver A is at -30 m. Diver B is at -28 m. Who is deeper?,A|Diver A| diver A|diver a|a,50,N,,Diver A   -> -30 < -28,
+9,"Place these numbers in order (smaller to larger) from left to right: 0, -6 1/2, -3/7, 9/4, -0.6, 2.78","-6 1/2, -0.6, -3/7, 0, 9/4, 2.78",50,Y,Convert all to decimals or fractions,"-6 1/2, -0.6, -3/7, 0, 9/4, 2.78  -> Convert all to decimals or fractions to compare",
+10,The deepest point of Lake A is -184 m. Lake B is -148 m. Which lake is deeper?,A|lake A| Lake A|lake a|a,50,Y,Which number is greater?,Lake A   -> -184 < -148,

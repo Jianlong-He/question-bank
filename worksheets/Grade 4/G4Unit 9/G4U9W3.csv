@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A chef uses 3/8 cups of oil for each dish. He cooks 8 dishes. How many cups of oil does he use in total? (Answer with a whole number),3,300,Y,Multiply 8 by 3/8. 8 * 3 = 24. Divide 24 by 8 to get the whole number,3
+2,Alex runs 2/3 of a mile every day for 5 days. How many miles does he run in total? (Answer as a mixed number),3 1/3,300,Y,Multiply 5 * 2/3. The result is 10/3; Convert 10/3 to a mixed number (3 goes into 10 three times),3 1/3
+3,A puppy eats 1 1/5 cups of food. How much food do 4 puppies eat? Answer as a mixed number.,4 4/5,300,Y,Multiply the number of puppies (4) by the amount each eats (1 1/5); Multiply the whole and the fraction part by 4.,4 4/5
+4,"Amy, who is an athlete, completes a lap in 2/3 of a minute. How long does it take her to run 8 laps? (Answer as a mixed number)",5 1/3,300,Y,Multiply 8 laps * 2/3 minute.8 * 2 = 16; Convert 16/3 into a mixed number.,5 1/3
+5,A cat eats 2/5 tins of food per day. How many tins does it eat in 7 days? (Answer as a mixed number),2 4/5,300,Y,Multiply 7* 2/5,2 4/5
+6,A builder uses 2 bolts. Each bolt weighs 3/10 kg. What is the total weight? (Answer as a simplified fraction), 3/5,600,Y,Multiply 2 * 3 = 6.The fraction is 6/10. Write  6/10 as a simplified fraction,3/5
+7,A gardener has 4 flower beds. Each bed needs 5/6 bags of soil. How many bags of soil are needed in total? (Answer as a simplified mixed number),3 1/3,600,Y,Multiply 4 * 5 = 20.The fraction is 20/6;Convert to mixed number 3 2/6 and simplify,3 1/3
+8,"Who ran farther? A) Alice runs 6 times, 2/3 miles each. B) Bob runs 5 times, 3/4 miles each ( A or B?)",A,600,Y,Alice: 6 * 2/3 = 4 miles. Bob: 5 * 3/4 = 15/4 = 3 3/4 miles. ; Compare 4 and 3 3/4,A
+9,"You buy 20 meters of ribbon. You cut off 8 pieces, and each piece is 3/4 meter long. How much ribbon is left? ( Step 1: 8 * 3/4. Multiply and write this value as a whole.)",14|14 meters,300,Y,"Calculate used ribbon: 8 * 3/4. 8 * 3 = 24, 24/4 = 6 meters used;Subtract used amount from total (20 - 6)",14
+10,"A runner wants to run 30 miles in a week. He runs for 4 days, doing 5 1/2 miles each day. How many miles does he have left to run? ",8|8 miles,360,Y,Multiply 4*5=20 and 4*1/2 = 4/2 =2.  Add 20 + 2 = 22. ;Subtract 30-22=8,8

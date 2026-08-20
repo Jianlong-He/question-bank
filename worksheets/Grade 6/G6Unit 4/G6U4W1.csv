@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,What is 4²?,16,50,Y,The exponent tells you how many 4’s to multiply.,16  -> The exponent tells you how many 4’s to multiply. 4² = 4 x 4,
+2,What is 2³?,8,50,Y,The exponent tells you how many 2’s to multiply.,8   -> The exponent tells you how many 2’s to multiply. 2³ = 8,
+3,What is 6²?,36,50,Y,6² means multiply two 6’s.,36  -> The exponent tells you how many 6’s to multiply. 6² = 6 x 6,
+4,Is 7² the same as 7 × 2? Answer yes or no,no|NO|No,50,Y,"Exponent is repeated multiplication, not multiplying by the exponent.","no   -> Exponent is repeated multiplication, not multiplying by the exponent.",
+5, What is 15¹?,15,50,Y,Any number to the first power equals itself.,15  -> Any number to the first power equals itself. 5¹ = 5,
+6,What is 8⁰?,1,50,N,,1  -> Any non-zero number to the zero power equals 1. ,
+7,"Select, which is greater, 3³ or 2⁴ : 3³ 2⁴",3³,50,Y,First calculate each exponent.,"3³   -> 3³ = 27, 2⁴ = 16",
+8,What is 4³ ÷ 2¹?,32,50,Y,First calculate each exponent.,"32 -> 4³ = 64, 2¹ = 2, 4³ ÷ 2¹ = 64 ÷ 2 = 32",
+9,What is 35⁰?,1,50,N,,1  -> Any non-zero number to the zero power equals 1. ,
+10,What is 13 + (2+3)³ x 2?,263,50,Y,Follow order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract,263    -> Follow order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract. So 13 + (2+3)³ x 2 = 13 + 5³ x 2 = 13 + 125 x 2 = 13 + 250 = 265,

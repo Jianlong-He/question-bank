@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Compute (−15) × (−9).",135,60,Y,"Negative times negative is positive.","15×9 = 135."
+2,"A robot removes 4 charges labeled −12 volts each, reversing the negative effect. Fill in the blanks: The math is -4 × ___, so the total voltage change is ___ volts.","-12, 48",65,Y,"Removing negatives adds positives.","4 × (-12) reversed = +48."
+3,"Compute |−7| × (-13).",-91,70,Y,"Positive × negative is negative.","|-7|×(-13) = 7×(-13) = -91."
+4,"Compute (−64) ÷ 8. Simplify your answer before entering it.",-8,70,Y,"Negative ÷ positive is negative.","-64 ÷ 8 = -8."
+5,"A diver moves downward 6 meters per interval. If he goes through −4 intervals (moving backward), what is the resulting depth change? Enter only the number with no units.",24,75,Y,"Negative intervals reverse direction.","-4 × -6 = 24."
+6,"Compute (−3/7) ÷ 9. Simplify your answer before entering it.",-1/21,80,Y,"Rewrite division as multiply by reciprocal.","(-3/7) × 1/9 = -3/63 = -1/21."
+7,"Compute (−5/6) − (2/9) × (−3/4). Simplify your answer before entering it.",-2/3,80,Y,"Multiply first, then subtract.","-5/6 - (-1/6) = -4/6 = -2/3."
+8,"Compute (−4/5) × (−15/16). Simplify your answer before entering it.",3/4|0.75,85,Y,"Negative × negative is positive.","60/80 = 3/4."
+9,"Compute (−11/12) ÷ (5/6). Simplify your answer before entering it.",-11/10|-1.1|-1 1/10,90,Y,"Multiply by reciprocal.","-11/12 × 6/5 = -66/60 = -11/10."
+10,"Compute 5 2/3 ÷ (−7/3). Simplify your answer before entering it.",-17/7,95,Y,"Convert mixed number, multiply by reciprocal.","(17/3) × (3/-7) = -17/7."

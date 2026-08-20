@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Write the negative version of 13,-13|- 13,50,Y,"negative sign is ""-""",-13,
+2,"Select, On a number line, where is –9 located? : 9-units-to-the-right-of-0 9-units-to-the-left-of-0 At-0 Between-8-and-9",9-units-to-the-left-of-0,50,N,,9-units-to-the-left-of-0  -> Negative numbers are to the left of zero.,
+3,"If you move 45 units left from 0, what number do you reach?",-45,50,Y,Left means negative direction.,-45,
+4,"Select, Which temperature is colder? -15 or 25 : -15 25",-15,50,Y,Temperatures below zero are colder than temperatures above zero.,-15,
+5,What is the opposite of –12?,12,50,N,,12,
+6,What is -(-24)?,24,50,Y,Each negative flips the number.,24   -> Each negative flips the number.,
+7,"Order these numbers from smallest to greatest: -98,128, 0, 32, -24, 3, -7","-98, -24, -7, 0, 3, 32, 128",50,Y,Put smaller to larger numbers from left to right,"-98, -24, -7, 0, 3, 32, 128",
+8,"If you move 35 units left from 24, what number do you reach?",-11,50,Y,Left means negative direction.,-11  -> Left means negative direction.,
+9,What is -(-(-257))?,-257,50,Y,Each negative flips the number.,-257  -> Each negative flips the number.,
+10,A submarine is 15 meters below sea level. Then it rises 8 meters. What is its new position?,-7,50,Y,Start at –15 and move toward zero.,"-7  -> Below sea level is negative. Start at -15, rise 8 means -15+8 = -7",

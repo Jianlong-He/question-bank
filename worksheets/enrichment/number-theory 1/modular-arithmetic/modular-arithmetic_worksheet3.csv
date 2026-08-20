@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,What is the inverse of 2 (mod 5)?,3,50,Y,"Try 2x1, 2x2, 2x3, ...","3 (2×3=6, and 6≡1(mod5))",
+2,What is the inverse of 3 (mod10)?,7,50,Y,"Try 3x1, 3x2, 3x3, ...","7 (3×7=21, and 21≡1(mod10))",
+3,What is the inverse of 3 (mod 5)?,2,50,Y,Try numbers from 1 to 4,"2 (3 ×2 = 6, and 6 ~ 1 (mod 5)",
+4,What is the inverse of 2 (mod 7)?,4,50,Y,Try numbers from 1 to 6,"4 (2 ×4 = 8, and 8 ~ 1 (mod 7)",
+5,What is the inverse of 4 (mod 9)?,7,50,Y,Try numbers from 1 to 8,"7 (4 ×7 = 28, and 28 ~ 1 (mod 9)",
+6,What is the inverse of 5 (mod 11)?,9,50,Y,Try numbers from 1 to 10,"9 (5 ×9 = 45, and 45 ~ 1 (mod 11)",
+7,What is the inverse of 7 (mod 8)?,7,50,Y,7 is the same as -1 mod 8,"7 (7 ×7 = 49, and 49 ~ 1 (mod 8)",
+8,What is the inverse of 9 (mod 20)?,9,50,Y,Try numbers from 1 to 19,"9 (9 ×9 = 81, and 81 ~ 1 (mod 20)",
+9,Give the smallest two moduli n > 4 for which 4 is the inverse of itself.,"5,15",50,Y,Since 4 is its own inverse: 4 x 4 ~ 1 (mod n). So 16 - 1 = 15 must be divisible by n.,"5,15 (4 ×4 = 16, and 16~ 1 (mod n) when n divides 15 so 3,5,15 but 3 < 4)",
+10,"Find ((n-2) × (n-1)) mod n for n = 4,7,99,2222. Think why is the answer always the same?",2,50,Y,Notice that: n-1 ~ -1 (mod n) and n-2 ~ -2 (mod n),2 ((n-2) × (n-1) - n × (n-3) = n^2-3n+2-n^2+3n = 2 for all n >=3),

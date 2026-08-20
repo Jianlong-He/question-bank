@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill:3 minutes = ___ seconds,180,300,Y,1 minute = 60 seconds,180
+2,Fill: 11 minutes = ___ seconds,660,300,Y,1 minute = 60 seconds,660
+3,Fill: 4 minutes = ___ seconds,240,300,Y,1 minute = 60 seconds,240
+4,Fill: 600 seconds = ___ minutes,10,300,Y,1 minute = 60 seconds,10
+5,Fill: 4 hours = _____ minutes,240,300,Y,1 hour  = 60 minutes,240
+6,Fill: 3 hours = ___ seconds,10800,300,Y,1 hour = 3600 seconds,10800
+7,Fill: 360 minutes = ___ hours,6,300,Y,1 hour  = 60 minutes,6
+8,A movie is 120 minutes long. How many hours is the movie?,2,300,Y,1 hour  = 60 minutes,2
+9,Fill: Emma has a dance class that lasts 90 minutes. The class starts at 3:00 PM. What time will the dance class end? ____ : ____ PM,"4,30",500,Y,90 minutes = 1 hour and 30 minutes,"4,30"
+10,Fill: Harry has 120 minutes to complete a science project at school. The project begins at 2:45 PM. Harry has soccer practice at 5:00 PM. How much time will Harry have between the end of the project and the beginning of soccer practice? ___ minutes.,15,500,Y,120 minutes = 2 hours,15

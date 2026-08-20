@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Complete the addition rule P(A or B)=P(A)+P(B)-___.,P(A and B)|P(A intersection B),70,Y,The overlap is counted twice by addition.|Subtract the intersection once.,The missing term is P(A and B).
+2,If A and B are mutually exclusive what is P(A and B)?,0|zero,70,Y,Mutually exclusive events cannot occur together.|Their intersection is empty.,P(A and B)=0.
+3,If P(A)=0.4 P(B)=0.5 and P(A and B)=0.2 find P(A or B).,0.7,70,Y,Use the addition rule.|Compute 0.4+0.5-0.2.,P(A or B)=0.7.
+4,For independent events complete P(A and B)=___.,P(A)P(B)|P(A)*P(B),70,Y,Independence allows direct multiplication.|The probability of one event is unchanged by the other.,P(A and B)=P(A)P(B).
+5,A fair coin is flipped twice. Find the probability of two heads.,1/4|0.25,70,Y,The flips are independent.|Multiply 1/2 by 1/2.,The probability is 1/4.
+6,A test has three independent true-false questions answered randomly. Find the probability all are correct.,1/8|0.125,70,Y,Each answer has probability 1/2.|Multiply three factors of 1/2.,The probability is (1/2)^3=1/8.
+7,Complete the general multiplication rule P(A and B)=P(A)___.,P(B given A)|P(B|A),70,Y,For dependent events use a conditional probability.|The second chance is measured after A occurs.,P(A and B)=P(A)P(B given A).
+8,A bag has 3 red and 2 blue balls. Without replacement find P(red then red).,3/10|0.3,70,Y,The first probability is 3/5.|After one red remains the second probability is 2/4.,P=3/5 times 2/4=3/10.
+9,Does drawing without replacement usually create dependence? Enter Yes or No.,Yes|yes|Y|y,70,Y,The first draw changes the bag contents.|The second probability can change.,Yes. Without replacement generally creates dependent events.
+10,If P(B given A)=P(B) what relationship do A and B have?,independent|they are independent|independent events,70,Y,A does not change the chance of B.|Use the definition of independence.,A and B are independent.

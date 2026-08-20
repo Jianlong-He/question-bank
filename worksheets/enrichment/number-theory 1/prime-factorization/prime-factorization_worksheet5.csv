@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Simplify 12/18 to its simplest form.,2/3,600,Y,"Find the GCD of 12 and 18, then divide both the numerator and denominator by it.",2/3
+2,"Fill:Reduce 45/75 by first finding the GCD of the numerator and denominator. GCD = ___ , 45/75 = __/__","15,3,5",600,Y,"First find gcd(45,75), then divide both numbers by that GCD.","15,3,5"
+3,Simplify 120/200.,3/5,600,Y,"Find the GCD of 120 and 200, then divide both by it",3/5
+4,Reduce 13/39 to simplest terms.,1/3,600,Y,Check whether 13 divides both the numerator and denominator.,1/3
+5,Simplify 84/144.,7/12,600,Y,"Find the GCD of 84 and 144, then divide both numbers by it.",7/12
+6,Express 210/315 in simplest form.,2/3,600,Y,Find the GCD of 210 and 315.,2/3
+7,"Select. A fraction is x/y. If gcd(x,y)=1, what can you say about the fraction? (A) The fraction is in its simplest form (B) The fraction is always equal to 1 (C) The numerator must be larger than the denominator (D) The fraction can still be reduced: A B C D",A,600,Y,"If the numerator and denominator have no common factor other than 1, the fraction cannot be reduced further.",A
+8,Simplify 17/51.,1/3,600,Y,Check whether 17 divides 51.,1/3
+9,Use the prime factorization of both the numerator and denominator to simplify 54/90.,3/5,600,Y,"Prime factorize 54 and 90, then cancel the common prime factors.",3/5
+10,"Fill: Find the GCD and LCM of 2^4 * 3^2 * 5 and 2^2 * 3^3 * 7. GCD = ___ , LCM = ___","36,15120",600,Y,"For the GCD, use the lowest powers. For the LCM, use the highest powers.","36,15120"

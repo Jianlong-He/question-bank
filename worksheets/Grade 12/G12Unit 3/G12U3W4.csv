@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,When multiplying complex numbers in polar form what happens to their moduli?,they are multiplied|multiply the moduli|the moduli multiply,70,Y,Polar multiplication separates size and angle.|The radial scale factors combine by multiplication.,The moduli are multiplied.
+2,When multiplying complex numbers in polar form what happens to their arguments?,they are added|add the arguments|the arguments add,70,Y,Rotations combine.|Successive rotations add their angles.,The arguments are added.
+3,When dividing complex numbers in polar form what happens to their arguments?,they are subtracted|subtract the arguments|the arguments subtract,70,Y,Division reverses the divisor rotation.|Use theta1-theta2.,The divisor's argument is subtracted from the dividend's argument.
+4,Complete De Moivre's theorem: (r cis(theta))^n=___.,r^n cis(n theta)|r^n cis(ntheta),70,Y,Raise the modulus to power n.|Multiply the argument by n.,(r cis(theta))^n=r^n cis(n theta).
+5,Evaluate (cis(pi/3))^3.,-1,70,Y,Use De Moivre's theorem.|The new argument is pi.,cis(pi)=-1 so the value is -1.
+6,Evaluate i^4 using polar form or the power cycle.,1,70,Y,i has argument pi/2.|Multiplying the argument by 4 gives 2pi.,i^4=cis(2pi)=1.
+7,Multiplication by -3i scales modulus by what factor?,3,70,Y,The modulus of -3i is 3.|Complex multiplication multiplies moduli.,The scale factor is 3.
+8,Compute (1+i)^2.,2i,70,Y,Expand or use polar form.|1+2i+i^2 leaves only 2i.,(1+i)^2=2i.
+9,How many distinct cube roots does the nonzero complex number 8 have?,3|three,70,Y,An nth-root problem has n equally spaced roots.|Here n=3.,There are three distinct cube roots.
+10,What angular spacing separates consecutive nth roots of a nonzero complex number?,2pi/n|2π/n,70,Y,The roots are equally spaced around a circle.|Divide a full rotation by n.,The spacing is 2pi/n radians.

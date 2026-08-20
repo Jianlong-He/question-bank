@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,In which direction does y=x^2 open?,upward|up,70,Y,The leading coefficient is positive.|A positive quadratic has a minimum.,The parabola opens upward.
+2,For h(t)=-5t^2+20t what is h(2)?,20,70,Y,Substitute t=2.|Square before multiplying.,h(2)=-5(4)+20(2)=-20+40=20.
+3,A parabola opens downward. Does its vertex give a maximum or minimum?,maximum|a maximum,70,Y,Downward-opening arms fall away from the vertex.|The vertex is the highest point.,The vertex gives the maximum.
+4,Solve (x-6)(x+2)=0. Enter the smaller solution.,-2,70,Y,Set each factor equal to zero.|The solutions are 6 and -2.,The smaller solution is -2.
+5,For y=(x-4)(x+1) enter the smaller x-intercept.,-1,70,Y,Set each factor equal to zero.|The roots are 4 and -1.,The smaller x-intercept is -1.
+6,For f(x)=(x-3)(x-5) find f(3).,0,70,Y,Substitute x=3.|One factor becomes zero.,f(3)=(3-3)(3-5)=0.
+7,A quadratic has roots 2 and 7. Write a monic factored equation with these roots.,y=(x-2)(x-7)|f(x)=(x-2)(x-7),70,Y,A root r gives factor x-r.|Use one factor for each root.,A matching equation is y=(x-2)(x-7).
+8,What is the axis of symmetry of y=(x-1)(x-9)?,x=5|x = 5,70,Y,Average the two roots.|Compute (1+9)/2.,The axis of symmetry is x=5.
+9,For y=-2(x+3)(x-5) enter the two roots in increasing order.,"-3,5",70,Y,Set each factor equal to zero.|The leading coefficient does not change the roots.,The roots are -3 and 5.
+10,A quadratic graph crosses the x-axis at -4 and 6. What is the x-coordinate of its axis of symmetry?,1,70,Y,The axis lies halfway between the roots.|Average -4 and 6.,The x-coordinate is (-4+6)/2=1.

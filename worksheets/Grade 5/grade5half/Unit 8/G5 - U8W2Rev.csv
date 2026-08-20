@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select without calculating exactly, which is larger? : 0.35x742 0.35x74.2",0.35x742,240,Y,Compare 742 and 74.2,0.35x742. Compare 742 and 74.2
+2,Select which match the expression 0.5x680 : 34 340 3400,340,240,Y,Half of 680,340. Half of 680
+3,Select which match the expression to the correct product of 0.51x64.4 : 32.844 328.44 3284.4,32.844,240,Y,"0.51 is about half. Half of 64 is 32, which is closer?",32.844 -> 0.51 is about half. Half of 64 is 32 which is closer to 32.844
+4,"Select True or False of the statement ""15 x 0.7 should be less than 15"" : TRUE FALSE",TRUE,240,Y,0.7 is less than 1,"TRUE. 0.7 is less than 1, 15 multiplied with <1 must be smaller than 15"
+5,A bag of apples weighs 1.25 kg. There are 12 bags. What is the total weight.,15,360,Y,Total weight = weight per bag x number of bags,15 -> Total weight = weight per bag x number of bags : 1.25 x 12 = 15

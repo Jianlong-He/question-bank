@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What are the coprime natural numbers less than 12? Find ϕ(12).,"1, 5, 7, 11, 4",600,N,,"{1,5,7,11}. ϕ(12)=4"
+2,What is ϕ(27)?,18,600,N,,18. 2/3 of the numbers between 1 and 27 are not divisible by 3.
+3,Find ϕ(13).,12,600,N,,12. Since 13 is a prime number: ϕ(13)=13−1=12.
+4,"T/F. If p>2, then ϕ(p) has to be an odd number.",F,600,N,,"F. If p>2, then ϕ(p)=p−1 and p is odd so p−1 is even."
+5,Calculate ϕ(6) by identifying its prime factors.,2,600,N,,2. The number 6 can be written as the product of two distinct primes: 2×3. ϕ(6)=ϕ(2×3)=(2−1)(3−1)=1×2=2 (The coprime numbers are 1 and 5).
+6,Calculate ϕ(15).,8,600,N,,8. The number 15 is the product of distinct primes 3×5. ϕ(15)=(3−1)(5−1)=2×4=8
+7,How many numbers strictly less than 77 are not coprime to 77?,16,600,N,,16. The product pq=7×11=77 so ϕ(77)=(7−1)(11−1)=6×10=60. This means there are 60 numbers less than 77 that are coprime to it or 76−60=16 numbers not coprime to it. (These are the multiples of 7 and the multiples of 11 strictly less than 77).
+8,"A number n is the product of two distinct primes. If ϕ(n)=24 and one of the prime factors is 5, find the other prime factor and the value of n.","7, 35",600,N,,"7, 35. We are given n=p×q where p=5.  ϕ(n)=(5−1)(q−1)=24 ⟹4(q−1)=24⟹q−1=6⟹q=7 and n=5×7=35."
+9,Find ϕ(105).,48,600,Y,"If n = pqr is the product of three distinct prime numbers, then ϕ(n) = ϕ(p)ϕ(q)ϕ(r).",48. The prime factorization of 105: 105=3×5×7. Euler's function is multiplicative for distinct primes: ϕ(105)=(3−1)(5−1)(7−1)=2×4×6=48.
+10,"The product of two distinct prime numbers p and q is n=1147. If ϕ(n)=1080, find the values of p and q.","31, 37",600,N,,"31, 37. We know that: p⋅q=1147 and ϕ(n)=(p−1)(q−1)=pq−p−q+1=1080. Substitute pq=1147 into the second equation: 1147−(p+q)+1=1080 or 1148−(p+q)=1080⟹p+q=68. Now we look for two numbers that multiply to 1147 and add up to 68. We can set up a quadratic equation p^2−68p+1147=0, or look for factors near sqrt(1147)≈33.8. Testing primes close to 34, we find 31×37=1147, and 31+37=68."

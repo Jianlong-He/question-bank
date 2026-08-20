@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Three friends each choose a number from 1 to 6. In how many ordered choices is the product exactly 24?,15,90,Y,List sorted triples with product 24;Then count their different orders,"The sorted triples are 146, 226, and 234. They have 6, 3, and 6 orders, for a total of 15."
+2,Four distinguishable dice are rolled. In how many outcomes do they show one of the runs 1234 or 2345 in any order?,48|2*4!|2×4!,90,Y,There are 2 possible runs;Each run has 4! assignments to the dice,"Each run has 4! = 24 arrangements, so the total is 2 × 24 = 48."
+3,How many 3-character digit codes using 0 through 9 have at least one digit equal to 5?,271,90,Y,Count all codes;Subtract codes with no 5,There are 10^3 total codes and 9^3 codes with no 5. The answer is 1000 - 729 = 271.
+4,Three friends each choose a number from 1 to 6. How many ordered choices have exactly two friends choosing 6?,15,60,Y,Choose which 2 friends select 6;The remaining friend has 5 non-6 choices,"There are 3 choices for the non-6 friend and 5 choices for that value, giving 3 × 5 = 15."
+5,Three friends each choose a number from 1 to 6. How many ordered choices have all three numbers different?,120|6*5*4|6×5×4,60,Y,"Use 6 choices, then 5, then 4",There are 6 × 5 × 4 = 120 ordered choices.

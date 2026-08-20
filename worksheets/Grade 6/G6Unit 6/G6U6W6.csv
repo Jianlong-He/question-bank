@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Write an expression for: ""The sum of −8 and 6x""",-8+6x|-8 + 6x|6x + (-8)|6x-8|6x+(-8)|6x - 8,100,Y,"""sum"" means add",-4 + 6x,
+2,"Write an expression for: ""The product of −3 and y""",-3y|-3*y|-3xy|-3 x y|-3 * y|y * (-3)|y x (-3)|y(-3),100,Y,Product = multiply,-3y,
+3,"Write an expression for: ""−4 plus the product of −2 and z""",-4 + (-2z)|-4 - 2z|-4 + (-2 * z)|-4 + (-2 x z)|-4 - 2 * z|-4 - 2 x z|(-2z) + (-4)|(-2 x z) + (-4)|(-2 * z) + (-4)|-4 + z * (-2)|-4 + z x (-2)|-4 + z(-2),100,Y,"Recall order of operations; Multiply first, then add",-4 -2z,
+4,"Write an expression for:""7 times the sum of y and 4""",7(y + 4)|7 * (y + 4)|7 x (y + 4)|(y + 4) x 7|(y + 4) * 7|7(4 + y)|7 * (4 + y)|7 x (4 + y)|(4 + y) x 7|(4 + y) * 7,100,Y,Recall order of operations and use parentheses,7(y + 4),
+5,"Write an expression for: ""13 times the difference of y and 6""",13(y - 6)|13 * (y - 6)|13 x (y - 6)|(y - 6) * 13|(y - 6) x 13,100,Y,"""difference of A and B"" -> A − B; Recall order of operations and use parentheses",13(y - 6),
+6,"Select. Which is correct for ""5 times the sum of x and 2""? : 5x+2 5(x+2)",5(x+2),100,Y,What comes first?,5(x+2)     -> Must add first -> parentheses needed,
+7,"Select. Which is correct for ""8 less than x + 4""? : 8-(x+4) (x+4)-8",(x+4)-8,100,Y,What comes first?,(x+4)-8     -> Subtract 8 from x + 4,
+8,"Write an expression for: ""First take -3 + 2z, then multiply by 4""",4(-3 + 2z)|4 * (-3 + 2z)|4 x (-3 + 2z)|(-3 + 2z) * 4|(-3 + 2z) x 4,100,Y,"Step by step, use parentheses",4(-3 + 2z),
+9,"Write an expression for: ""Multiply 5 + y by −2, then add 3""",-2(5 + y) + 3|-2 * (5 + y) + 3|-2 x (5 + y) + 3|(5 + y) x (-2) + 3|(5 + y) * (-2) + 3|(5 + y) (-2) + 3,100,Y,"Step by step, use parentheses",-2(5 + y) + 3,
+10,"Write an expression for: ""Twice the difference of m and 3, then add 4""",2(m - 3) + 4|2 * (m - 3) + 4|2 x (m - 3) + 4|(m - 3) x 2 + 4|(m - 4) * 2 + 4|(m - 3) * (2) + 4|(m - 3) x (2) + 4|(m - 3) (2) + 4|4 + 2(m - 3)|4 + 2 * (m - 3)|4 + 2 x (m - 3)|4 + (m - 3) x 2|4 + (m - 4) * 2|4 + (m - 3) * (2)|4 + (m - 3) x (2)|4 + (m - 3) (2)|,100,Y,Twice = times 2,2(m - 3) + 4,

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What does sigma notation represent?,a sum|summation|adding a sequence of terms,70,Y,The Greek capital sigma is a summation symbol.|The index specifies which terms to add.,Sigma notation represents a sum.
+2,Evaluate sum from k=1 to 4 of k.,10,70,Y,Add 1+2+3+4.|The upper limit is included.,The sum is 10.
+3,Evaluate sum from k=0 to 3 of 2^k.,15,70,Y,List 1 2 4 and 8.|Add the four terms.,The sum is 15.
+4,How many terms are in sum from k=3 to 9 inclusive?,7,70,Y,Count both endpoints.|Use 9-3+1.,There are 7 terms.
+5,Write 3+6+12+24 in sigma notation using k=0 to 3.,sum 3*2^k|Σ3*2^k,70,Y,The first term is 3.|The ratio is 2.,The sum is sigma from k=0 to 3 of 3*2^k.
+6,Evaluate sum from k=1 to 5 of 3*2^(k-1).,93,70,Y,The terms are 3 6 12 24 48.|Add or use the geometric formula.,The sum is 93.
+7,A mortgage balance decreases by a fixed ratio each period. What type of sequence models it?,geometric sequence|geometric,70,Y,Repeated percentage change uses multiplication.|A constant ratio defines the pattern.,A geometric sequence models the balances.
+8,A geometric series has a=100 r=0.9 and n=3. Find its sum.,271,70,Y,Use 100+90+81.|Or apply the finite geometric formula.,The sum is 271.
+9,In sigma notation what does the index variable control?,which term is being added|the term number|term index,70,Y,It takes consecutive integer values.|Substitute each index value into the expression.,The index determines each term included in the sum.
+10,Can a finite geometric series formula be used when r is negative? Enter Yes or No.,Yes|yes|Y|y,70,Y,The algebraic formula does not require r positive.|Alternating signs arise from a negative ratio.,Yes. The formula works for any r except the r=1 denominator case.

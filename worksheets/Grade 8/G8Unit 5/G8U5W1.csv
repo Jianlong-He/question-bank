@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: Vertical angles are always \_\_\_ (equal/supplementary).,equal|Equal,20,Y,Vertical angles are opposite each other when two lines intersect;They have the exact same measure,Vertical Angles
+2,"Fill: If two supplementary angles are $x$ and $100^\circ$, find $x$.",80,25,Y,Supplementary angles add up to 180 degrees;Subtract 100 from 180,Supplementary Angles
+3,Select the angle relationship for angles in the exact same position at each intersection where a transversal crosses parallel lines: Alternate Interior Corresponding Vertical,Corresponding,25,Y,"They 'correspond' to the same spot (e.g., both top-right);Corresponding angles are equal",Corresponding Angles
+4,Fill: The sum of angles in any triangle is $\_\_^\circ$,180,20,Y,Think of a straight line angle divided;It is a constant for all triangles,Triangle Sum Theorem
+5,Fill: A triangle has interior angles of $90^\circ$ and $30^\circ$. Find the third angle.,60,25,Y,The sum of all three angles must be 180 degrees;180 - (90 + 30),Triangle Sum Theorem
+6,Lines $m$ and $n$ are parallel. If Angle 1 is $110^\circ$ find its Alternate Interior angle.,110,25,Y,Alternate interior angles are equal;It will be obtuse,Transversal Angles
+7,Fill: The exterior angle of a triangle is $120^\circ$. One remote interior angle is $50^\circ$. Find the other remote interior angle.,70,30,Y,The exterior angle equals the sum of the two remote interior angles;Solve: $50 + x = 120$,Exterior Angle Theorem
+8,Fill: Alternate exterior angles are strictly \_\_\_ (equal/supplementary) when lines are parallel.,equal|Equal,20,Y,Alternate means opposite sides of the transversal;They have the exact same measure,Alternate Exterior Angles
+9,Fill: Same-side interior angles add up to \_\_\_ degrees.,180,20,Y,"Unlike alternate angles, same-side angles are supplementary;They make a 'C' shape",Same-Side Interior
+10,Fill: A straight line forms an angle that measures \_\_\_ degrees.,180,15,Y,It is exactly half of a full 360-degree circle,Straight Angle

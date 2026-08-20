@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,How many faces does this shape have?,4,100,Y,Count all flat surfaces (including the bottom).,4     -> Count all flat surfaces (including the bottom).,https://i.ibb.co/fdWncdMJ/G6-U10-W1-Q1.png
+2,How many faces does this shape have?,5,100,Y,Count all flat surfaces (including the bottom).,5     -> Count all flat surfaces (including the bottom).,https://i.ibb.co/ym7bRk0q/G6-U10-W1-Q2.png
+3,Select the correct option.  An edge is: A-flat-surface A-line-where-faces-meet A-corner,A-line-where-faces-meet,100,N,,A-line-where-faces-meet,
+4,How many edges are there?,9,100,Y,Edges are lines where two faces meet.,9      -> Edges are lines where two faces meet.,https://i.ibb.co/TDCKNJr3/G6-U10-W1-Q4.png
+5,How many edges are there?,12,100,Y,Edges are lines where two faces meet.,12      -> Edges are lines where two faces meet.,https://i.ibb.co/NnHTHdtk/G6-U10-W1-Q5.png
+6,Select. Which shape has only rectangles as faces?: Triangular-prism Sphere Cylinder Rectangular-prism,Rectangular-prism,100,Y,Think of a box.,A rectangular prism: All faces are rectangles. Looks like a box → rectangular prism,
+7,How many faces does this shape have?,3,100,Y,Count all flat surfaces (including the bottom).,3     -> Count all flat surfaces (including the bottom).,https://i.ibb.co/d0gpcY6F/G6-U10-W1-Q7.png
+8,How many rectangle faces does this shape have?,6,100,Y,Count all flat surfaces (including the bottom).,6     -> Count all flat surfaces (including the bottom).,https://i.ibb.co/N2Mq0XPJ/G6-U10-W1-Q8.png
+9,"Which shape has: No edges, no vertices and only a curved surface?",Sphere|sphere,100,Y,Looks like a can.,Looks like a can -> Sphere,
+10,Which shape has: 2 circular faces and 1 curved surface,Cylinder|cylinder,100,Y,Looks like a can.,Looks like a can -> Cylinder,

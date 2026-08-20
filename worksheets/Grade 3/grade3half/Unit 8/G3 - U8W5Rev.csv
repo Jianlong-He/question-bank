@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find all the even numbers 22, 35, 48, 61, 74. Put each number in an answer box.","22, 48, 74",240,Y,"Even numbers are integers exactly divisible by 2, leaving no remainder. Even numbers end in 0, 2, 4, 6, 8.","22, 48, 74"
+2,"Which numbers are multiples of 10. Select from 15, 20, 33, 40, 55? Put each number in an answer box.","20, 40",240,Y,Multiples of 10 end in 0.,"20, 40"
+3,"Find the pattern and fill the blank 1, 4, 9, __, 25, 36",16,240,Y,Adding or multiplying or subtracting or dividing?,16
+4,"In a multiplication table, what number goes in the spot for 4 x 5?",20,240,Y,4 x 5 means 4 groups of 5.,20
+5,"In a multiplication table, what number goes in the spot for 5 x 5?",25,240,Y,5 x 5 means 5 groups of 5.,25

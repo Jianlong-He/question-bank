@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the approximate value of e rounded to three decimal places?,2.718,70,Y,Recall the natural exponential base.|It begins 2.71828.,Rounded to three decimals e is 2.718.
+2,Evaluate ln(e).,1,70,Y,Natural log has base e.|e^1=e.,Therefore ln(e)=1.
+3,Evaluate ln(1).,0,70,Y,Ask what power of e equals 1.|e^0=1.,Therefore ln(1)=0.
+4,Evaluate ln(e^5).,5,70,Y,Natural log and exponentiation base e are inverse operations.|ln(e^k)=k.,Thus ln(e^5)=5.
+5,Rewrite ln(12)=x in exponential form.,e^x=12,70,Y,Natural log uses base e.|Base^exponent=argument.,The exponential form is e^x=12.
+6,An account follows A=1000e^(0.04t). What is the initial amount?,1000,70,Y,Set t=0.|e^0=1.,A(0)=1000.
+7,In A=1000e^(0.04t) does the model represent growth or decay?,growth|exponential growth,70,Y,Inspect the sign of the exponent coefficient.|A positive rate produces growth.,The model represents exponential growth.
+8,In A=500e^(-0.2t) does the model represent growth or decay?,decay|exponential decay,70,Y,The exponent coefficient is negative.|A negative continuous rate decreases the amount.,The model represents exponential decay.
+9,Use a calculator to approximate ln(20) to three decimal places.,2.996,70,Y,Use the natural-log key.|ln(20) is about 2.9957.,Rounded to three decimals ln(20)=2.996.
+10,If e^x=7 which logarithmic expression equals x?,ln(7)|ln 7,70,Y,Apply natural log to both sides.|ln(e^x)=x.,The solution is x=ln(7).

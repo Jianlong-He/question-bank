@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A three-dimensional dilation has scale factor k. By what factor do lengths change?,k,70,Y,Length is one-dimensional.|Use the dilation scale factor directly.,All lengths are multiplied by k.
+2,A three-dimensional dilation has scale factor k. By what factor do surface areas change?,k^2|k squared,70,Y,Surface area is two-dimensional.|Square the length factor.,Surface areas are multiplied by k^2.
+3,A three-dimensional dilation has scale factor k. By what factor do volumes change?,k^3|k cubed,70,Y,Volume is three-dimensional.|Cube the length factor.,Volumes are multiplied by k^3.
+4,A solid is dilated by scale factor 2. What is its volume scale factor?,8,70,Y,Cube the scale factor.|Compute 2^3.,The volume scale factor is 8.
+5,A plane cuts a rectangular pyramid parallel to its base. What shape is the cross section?,rectangle|a rectangle,70,Y,A parallel slice has the same general shape as the base.|The base is rectangular.,The cross section is a rectangle similar to the base.
+6,A plane cuts a cube parallel to one face. What shape is the cross section?,square|a square,70,Y,The slice matches a face of the cube.|Every face is square.,The cross section is a square.
+7,Rotating a rectangle around one of its sides creates what common solid?,cylinder|a cylinder,70,Y,The opposite side traces a circle.|The fixed side becomes the axis.,The rotation creates a cylinder.
+8,Rotating a right triangle around one leg creates what common solid?,cone|a cone,70,Y,The hypotenuse sweeps a slanted surface.|The other leg sweeps a circular base.,The rotation creates a cone.
+9,State Cavalieri's principle in terms of cross-sectional areas.,solids with equal heights and equal cross-sectional areas have equal volumes|equal heights and matching cross sections imply equal volume,70,Y,Compare slices at every height.|The bases need not have the same shape.,Solids with equal heights and equal cross-sectional areas at every level have equal volumes.
+10,Two solids have equal heights and equal cross-sectional areas at every height. What can be concluded about their volumes?,they are equal|equal|same volume,70,Y,Apply Cavalieri's principle.|Matching slices accumulate to matching totals.,The two solids have equal volumes.

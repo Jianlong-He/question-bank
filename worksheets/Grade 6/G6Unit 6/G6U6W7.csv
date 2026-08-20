@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,Find the Least Common Multiplier (LCM) of 5 and 15.,15,100,Y,List multiples of both numbers,"Multiples of 15: 15, 30. Multiples of 5: 5, 10, 15. Smallest common = 15",
+2,Find the Least Common Multiplier (LCM) of 9 and 6.,18,100,Y,List multiples of both numbers,"Multiples of 9: 9, 18, 27. Multiples of 6: 6, 12, 18. Smallest common = 18",
+3,Find the Least Common Multiplier (LCM) of 8 and 12.,24,100,Y,List multiples of both numbers,"Multiples of 8: 8, 16, 24. Multiples of 12: 12, 24. Smallest common = 24",
+4,Find the Least Common Multiplier (LCM) of 4 and 10.,20,100,Y,List multiples of both numbers,"Multiples of 10: 10, 20, 30. Multiples of 4: 4, 8, 12, 16, 20. Smallest common = 20",
+5,Find the Least Common Multiplier (LCM) of 6 and 14 using Prime Factorization.,42,100,Y,"6 = 2 * 3,14 = 2 * 7","42     ->  We break both numbers into prime factors and take all the factors needed (using the biggest amount of each) so the number can be divided by both and is the smallest possible. 6 = 2 * 3,14 = 2 * 7, so LCM = 2 x 3 x 7 = 42",
+6,Find the Least Common Multiplier (LCM) of 15 and 20 using Prime Factorization.,60,100,Y,Break both numbers into prime factors first then combine i.e. 15 = 3 x 5,"60     ->  We break both numbers into prime factors and take all the factors needed (using the biggest amount of each) so the number can be divided by both and is the smallest possible. 15 = 3 * 5, 20 = 4 * 5, so LCM = 3 x 4 x 5 = 60",
+7,Find the Least Common Multiplier (LCM) of 12 and 18 using Prime Factorization.,36,100,Y,Break both numbers into prime factors first then combine i.e. 12 = 2^2 * 3,"36      -> 12 = 2^2 * 3, 18 = 3^2 * 2, LCM = 2^2 * 3^2 = 4 * 9 = 36",
+8,Find the Least Common Multiplier (LCM) of 8 and 22 using Prime Factorization.,88,100,Y,Break both numbers into prime factors first then combine i.e. 8 = 2 * 4,"88      -> 8 = 2 * 4, 22 = 2 * 11, LCM = 2 * 4 * 11= 8 * 11 = 88",
+9,Two lights blink every 6 seconds and 8 seconds. When will they blink together again? (At which seconds),24|24 seconds,100,Y,Find LCM,"24 seconds     -> LCM(6, 8) = 24",
+10,"If LCM(4, y) = 12, what could y be? Lists all possible numbers","3|6|12, 3|6|12, 3|6|12",100,Y,Think multiples,"3, 6, 12     -> Check values that give LCM = 12",

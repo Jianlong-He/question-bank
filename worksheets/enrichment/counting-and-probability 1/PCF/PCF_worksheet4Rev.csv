@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A 4-digit code may use any digit from 0 to 9, and digits may repeat. How many codes are possible?",10000,60,Y,Each of 4 positions has 10 choices;Use a power,There are 10^4 = 10000 codes.
+2,"A club has 8 members. How many ways can it choose a president, vice president, and secretary?",336,90,Y,The offices are different;Multiply 8 × 7 × 6,There are 8 × 7 × 6 = 336 ways.
+3,Nine runners compete. In how many ways can first and second place be awarded?,72,60,Y,"Order matters;Use 9 choices, then 8",There are 9 × 8 = 72 ordered results.
+4,Three friends each choose a different snack from 7 types. How many ordered choices are possible?,210,90,Y,"The friends are distinguishable;Use 7 choices, then 6, then 5",There are 7 × 6 × 5 = 210 ordered choices.
+5,"A four-letter code uses letters A through Z, and letters may repeat. How many codes are possible?",456976,60,Y,Each position has 26 choices;Compute 26^4,There are 26^4 = 456976 codes.

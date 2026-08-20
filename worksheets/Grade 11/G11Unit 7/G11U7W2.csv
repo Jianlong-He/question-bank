@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Solve sqrt(x)=7.,49,70,Y,Square both sides.|7^2=49.,x=49.
+2,Solve sqrt(x+5)=4.,11,70,Y,Square both sides.|Then x+5=16.,x=11.
+3,Solve sqrt(2x-1)=5.,13,70,Y,Square both sides.|Solve 2x-1=25.,"2x=26, so x=13."
+4,Solve sqrt(x)-3=2.,25,70,Y,Isolate the radical first.|Then sqrt(x)=5.,Squaring gives x=25.
+5,Solve sqrt(x+1)=x-1.,3,70,Y,The right side must be nonnegative.|Square to get x+1=(x-1)^2 and check both candidates.,"The candidates are 0 and 3, but only x=3 satisfies the original equation."
+6,Does x=-1 solve sqrt(x+5)=x+3? Enter Yes or No.,Yes|yes|Y|y,70,Y,Substitute into both sides.|The left side is 2 and the right side is 2.,"At x=-1 both sides equal 2, so yes."
+7,A student squares sqrt(x)=x-2 and finds x=1 or x=4. Which value satisfies the original equation?,4,70,Y,Check each candidate in the original equation.|The right side must be nonnegative.,"x=1 gives 1=-1, while x=4 gives 2=2, so only 4 works."
+8,Solve sqrt(x+6)+2=6.,10,70,Y,Isolate the square root.|sqrt(x+6)=4.,"Then x+6=16, so x=10."
+9,Why can squaring both sides create extraneous solutions?,squaring loses sign information|a false negative equality can become true after squaring|both positive and negative values have the same square,70,Y,Opposite numbers have equal squares.|The squared equation may be less restrictive.,Squaring can make unequal opposite-signed expressions appear equal.
+10,Solve cube root of x=-4.,-64,70,Y,Cube both sides.|Odd powers preserve the sign.,x=(-4)^3=-64.

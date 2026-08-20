@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Evaluate 15/0. Enter undefined if the expression has no defined value.,undefined|Undefined,60,Y,No number multiplied by 0 can equal 15.,"Division asks what number times the denominator gives the numerator. Because 0 times any number is 0, 15/0 is undefined."
+2,Evaluate 0/15.,0,60,Y,Ask what number times 15 equals 0.,"Since 15 × 0 = 0, we have 0/15 = 0."
+3,Classify 0/0 as undefined or indeterminate.,indeterminate|Indeterminate,65,Y,"Every number multiplied by 0 gives 0, so there is no unique quotient.",The form 0/0 does not determine one value; it is called indeterminate.
+4,Evaluate x/x when x = 0. Enter undefined if it has no defined value.,undefined|Undefined|indeterminate|Indeterminate,70,Y,Substituting x = 0 creates 0/0.,"At x = 0, x/x becomes 0/0, so the expression is not defined at that input; the resulting form is indeterminate."
+5,"For the expression 6/(x - 4), what value of x must be excluded from the domain?",4,65,Y,Set the denominator equal to 0.,"x - 4 = 0 when x = 4. Division by zero is undefined, so x = 4 must be excluded."
+6,Evaluate (x + 2)/(x + 2) when x = -2. Enter undefined if necessary.,undefined|Undefined|indeterminate|Indeterminate,70,Y,Substitute -2 into both the numerator and denominator.,"At x = -2, the expression becomes 0/0. Even though it simplifies to 1 for other values, it is undefined at x = -2."
+7,Evaluate 0/(x + 5) when x = 2.,0,60,Y,Check that the denominator is not zero before dividing.,"The denominator is 2 + 5 = 7, so the expression is 0/7 = 0."
+8,A fraction has a nonzero numerator and a denominator equal to zero. Is its value zero or undefined?,undefined|Undefined,60,Y,A zero denominator is the key issue.,"A nonzero number divided by zero is undefined, not zero."
+9,"For the expression 12/(3x - 6), what value of x is not allowed?",2,70,Y,Set 3x - 6 equal to zero and solve.,"3x - 6 = 0 gives 3x = 6, so x = 2 must be excluded."
+10,The equation 0x = 0 is true for how many real values of x? Enter all or none.,all|all real numbers|infinitely many|infinite,65,Y,Multiplying any real number by 0 gives 0.,"Every real number satisfies 0x = 0, so the equation has infinitely many solutions."

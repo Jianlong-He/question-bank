@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A rectangle is 5 meters long and 4 meters wide. What is its area?,20|20 square meters,100,Y,Area = length x width,20 square meters
+2,A rectangle is 6 meters long and 3 meters wide. What is its area?,18|18 square meters,100,Y,Area = length x width,18 square meters
+3,A square has 5 meters on each side. What is its area?,25|25 square meters,100,Y,Squares have equal sides.,25 square meters
+4,A rectangle has 6 squares in each row and 5 rows. What is its area?,30|30 square units,100,Y,Area = length x width,30 square units
+5,A rectangle has 7 squares in each row and 3 rows. What is its area?,21|21 square units,100,Y,Area = length x width,21 square units

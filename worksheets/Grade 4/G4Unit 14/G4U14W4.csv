@@ -1,0 +1,11 @@
+﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
+1,Select which unit of time provides the most reasonable estimate for how long it takes to tie your shoelaces: Seconds Hours Days,Seconds,600,Y,Tying shoelaces is a quick action,Seconds,
+2,Select which unit of time provides the most reasonable estimate for the length of a full school day:Seconds Minutes Hours Weeks,Hours,600,Y,A school day typically lasts about 6–7 hours.,Hours,
+3,"Select which unit of time provides the most reasonable estimate for how long it takes for a sunflower seed to grow into a tall, blooming flower: Seconds Hours Minutes Months",Months,600,Y,Plants grow slowly. ,Months,
+4,Fill: How much time has passed from the first clock to the second clock? ____ hours and ____ Minutes,"7,55",600,N,,"7,55",https://i.ibb.co/gZRpSdd4/i4.jpg
+5,Fill: How much time has passed from the first clock to the second clock? ____ hours and ____ Minutes,"2,15",600,N,,"2,15",https://i.ibb.co/mC62FFGc/i5.jpg
+6,Fill: How much time has passed from the first clock to the second clock? ____ hours and ____ Minutes,"4,30",600,N,,"4,30",https://i.ibb.co/BVxvWYwK/i6.jpg
+7,Fill: How much time has passed from the first clock to the second clock? ____ hours and ____ Minutes,"7,10",600,N,,"7,10",https://i.ibb.co/39GPbykH/i7.jpg
+8,Fill: How much time has passed from the first clock to the second clock? ____ hours and ____ Minutes,"4,6",600,N,,"4,6",https://i.ibb.co/hJ3TshK2/i8.jpg
+9,Fill:Jason started watching a movie at 2:15 p.m. and finished it at 3:55 p.m. How long did the movie last? ____ hours and  ___ minutes,"1,40",600,Y,Count the hours first: From 2:15 p.m. to 3:15 p.m. = 1 hour. Count the remaining minutes: From 3:15 p.m. to 3:55 p.m. = 40 minutes,"1,40",
+10,Select. David has a soccer game at 4.15 p.m. It takes 35 minutes to drive to the soccer field. What time should David leave home to arrive at his game on time?:3:30PM 3:20PM 3:40PM,3:40PM,600,Y,Start with the game time: 4:15 p.m. Subtract the travel time: 35 minutes. Go back 35 minutes from 4:15,3:40PM,

@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What does lim f(x) as x approaches a describe?,the value f(x) approaches near a|the value approached by f(x)|nearby behavior of f,70,Y,A limit concerns inputs close to a.|The actual value at a may differ.,It describes the value f(x) approaches as x gets close to a.
+2,A graph approaches y=4 from both sides as x approaches 2. Find the limit.,4,70,Y,Compare left- and right-hand behavior.|Both sides approach the same height.,The limit is 4.
+3,A graph approaches 3 from the left and 5 from the right at x=1. Does the two-sided limit exist?,No|no|DNE|does not exist,70,Y,A two-sided limit requires agreement.|The one-sided limits are different.,The two-sided limit does not exist.
+4,What notation means the limit as x approaches a from the right?,x approaches a+|a+|right-hand limit,70,Y,Right-hand inputs are greater than a.|A plus sign is written on a.,The notation uses x approaching a+.
+5,What notation means the limit as x approaches a from the left?,x approaches a-|a-|left-hand limit,70,Y,Left-hand inputs are less than a.|A minus sign is written on a.,The notation uses x approaching a-.
+6,A table near x=3 gives f(x)=6.99 6.999 and 7.001. Estimate the limit.,7,70,Y,Look for the value approached from nearby inputs.|The outputs cluster near 7.,The estimated limit is 7.
+7,Can a limit exist when f(a) is undefined? Enter Yes or No.,Yes|yes|Y|y,70,Y,Limits use nearby values.|A hole can still have a finite limiting height.,Yes. A limit may exist even if f(a) is undefined.
+8,If f(x) grows without bound positively as x approaches 0 from the right what is the right-hand limit?,positive infinity|infinity|+infinity,70,Y,The outputs exceed every positive bound.|Use infinite-limit notation.,The right-hand limit is positive infinity.
+9,For a two-sided finite limit to exist what must the one-sided limits do?,be equal|match|approach the same value,70,Y,Compare approach from left and right.|Both must be finite and identical.,The left- and right-hand limits must be equal.
+10,If a table samples only values greater than a which one-sided limit does it estimate?,right-hand limit|limit from the right,70,Y,Inputs greater than a lie to its right.|Look at the sign in a+.,It estimates the right-hand limit.

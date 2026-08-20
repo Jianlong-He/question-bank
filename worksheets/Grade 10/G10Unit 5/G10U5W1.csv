@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What number is represented by i^2?,-1,70,Y,i is defined as a square root of -1.|Square the defining relation.,i^2=-1.
+2,Simplify sqrt(-25).,5i,70,Y,Write sqrt(-25)=sqrt(25)sqrt(-1).|sqrt(-1)=i.,sqrt(-25)=5i.
+3,Simplify sqrt(-72).,6i*2^(1/2)|6*2^(1/2)i|6(2^(1/2))i,70,Y,Separate the negative and factor 72=36*2.|Use sqrt(-1)=i.,sqrt(-72)=sqrt(36)sqrt(2)i=6i*2^(1/2).
+4,Simplify i^3.,-i,70,Y,Use i^3=i^2*i.|i^2=-1.,i^3=-i.
+5,Simplify i^4.,1,70,Y,Square i^2.|(-1)^2=1.,i^4=1.
+6,Simplify i^7.,-i,70,Y,Powers of i repeat every 4.|7 has remainder 3 when divided by 4.,i^7=i^3=-i.
+7,Simplify i^18.,-1,70,Y,Reduce the exponent modulo 4.|18 has remainder 2.,i^18=i^2=-1.
+8,Simplify i^24.,1,70,Y,Powers repeat every four exponents.|24 is divisible by 4.,i^24=(i^4)^6=1.
+9,Solve x^2=-49. Enter one solution with positive imaginary part.,7i,70,Y,Take the square root of both sides.|sqrt(-49)=7i.,The solutions are ±7i so the one with positive imaginary part is 7i.
+10,How many values are in the repeating cycle of powers of i?,4|four,70,Y,List i i^2 i^3 and i^4.|The next power returns to i.,The cycle length is 4.

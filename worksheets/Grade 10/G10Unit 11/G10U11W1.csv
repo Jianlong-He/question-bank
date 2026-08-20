@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Write the arc-length formula for radius r and central angle theta measured in radians.,r*theta|r theta|s=r*theta,70,Y,A radian compares arc length with radius.|Multiply radius by radian measure.,The arc length is s=r theta.
+2,Find the arc length when r=5 and theta=2 radians.,10,70,Y,Use s=r theta.|Multiply 5 by 2.,The arc length is 10.
+3,Write the sector-area formula for radius r and angle theta in radians.,r^2*theta/2|1/2*r^2*theta|A=r^2*theta/2,70,Y,A full circle has angle 2pi.|The sector is theta/(2pi) of pi r^2.,The sector area is A=r^2 theta/2.
+4,Find the sector area when r=4 and theta=pi/2.,4pi|4*pi,70,Y,Use A=r^2 theta/2.|Compute 16(pi/2)/2.,The sector area is 4pi.
+5,What fraction of a circle is a 90-degree sector?,1/4|one fourth|0.25,70,Y,Compare 90 with 360.|Compute 90/360.,It is one fourth of the circle.
+6,Find the arc length of a 90-degree arc in a circle of radius 8 in terms of pi.,4pi|4*pi,70,Y,Use 90/360 of the circumference.|The circumference is 16pi.,The arc length is (1/4)(16pi)=4pi.
+7,Find the area of a 60-degree sector in a circle of radius 6 in terms of pi.,6pi|6*pi,70,Y,Use 60/360 of the circle area.|The circle area is 36pi.,The sector area is (1/6)(36pi)=6pi.
+8,A sector has central angle 180 degrees. What common fraction of the circle is it?,1/2|one half|0.5,70,Y,Compare 180 with 360.|It is a semicircle.,The sector is one half of the circle.
+9,If the central angle doubles while radius stays fixed what happens to arc length?,it doubles|doubles|multiplied by 2,70,Y,Arc length is proportional to theta.|Use s=r theta.,The arc length doubles.
+10,If the radius doubles while angle stays fixed what happens to sector area?,it quadruples|quadruples|multiplied by 4,70,Y,Sector area contains r^2.|Square the radius multiplier 2.,The sector area is multiplied by 4.

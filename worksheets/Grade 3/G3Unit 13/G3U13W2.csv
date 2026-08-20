@@ -1,0 +1,11 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Which is closest to 1 liter (L)? (A) A drop of water  (B) A milk bottle  (C) A swimming pool . Put the asnwer as A, B or C",B,100,Y,Think of a 500 mL bottle of water is 0.5 litle (L),B     -> A typical milk bottle is about 1 liter.,
+2,1 liter equals how many milliliters (mL)?,1000|1000 ml|1000ml|1000 milliliters|1000 mL|1000mL,100,Y,"""Milli"" means one-thousandth.",1000 milliliters     -> 1 L = 1000 mL,
+3,"Which is closest to 1 milliliter (mL)?  (A) A spoon of soup   (B) A dropper of medicine   (C) A bottle of water  . Put the asnwer as A, B or C",B,100,Y,1 mL is a very small amount,B   -> 1 mL is a very small amount ->  like a medicine dropper,
+4,A bottle has 85 mL of juice. You drink 28 mL. How much is left?,57|57 mL|57 ml|57ml|57mL,100,Y,Subtract.,57 mL     -> 85 - 28 = 57 mL left,
+5,Sarah poured 5 cans to get 35 mL total. How much in each can?,7|7ml|7 ml|7 mL|7mL,100,Y,Divide total by number of cans.,7 mL     -> 35 ÷ 5 = 7 mL per can,
+6,Select. Which is more? : 500mL 1L,1L,100,Y,Convert liters to mL.,1L     -> Convert liters to mL. 1L = 1000 mL,
+7,Select. Which is the best unit for a swimming pool?: milliliters liters grams,liters,100,Y,Think very large amount of liquid.,liters     -> Swimming pools hold thousands or millions of liters,
+8,A teaspoon is about 5 mL. How many teaspoons make 1 liter?,200|200 teaspoons,100,Y,1 L = 1000 mL,"200 teaspoons   -> 1 L = 1000 mL, 1000 ÷ 5 = 200 teaspoons",
+9,A container holds 1500 mL. How many liters is that?,1.5|1.5 L|1.5L,100,Y,Divide by 1000,1500 ÷ 1000 = 1.5 L,
+10,You need 1 liter (1000 mL) of juice. Each cup holds 250 mL. How many cups do you need?,4|4 cups,100,Y,Divide total by per cup.,4 cups    -> 1000 ÷ 250 = 4 cups,
