@@ -8,4 +8,4 @@
 7,Select all choices that have an odd number of stars:⭐⭐⭐⭐⭐ ⭐⭐⭐⭐⭐⭐ ⭐⭐⭐⭐⭐⭐⭐ ⭐⭐ ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐,"⭐⭐⭐⭐⭐,⭐⭐⭐⭐⭐⭐⭐,⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐",300,Y,Count the stars in each group. Odd numbers have 1 left over when split into two groups,"⭐⭐⭐⭐⭐,⭐⭐⭐⭐⭐⭐⭐,⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐",
 8,Select all choices that have an even number of caps: A B C,"A,B,C",300,Y,Count the caps in each group. Even numbers can be split into 2 equal groups,"A,B,C",https://i.ibb.co/4nwg8Nct/i8.jpg
 9,"Fill: all the even numbers between 3 and 9: ___, ___, ___","4,6,8",300,Y,Even numbers can be split into 2 equal groups,"4,6,8",
-10,Jill has pocket money of 3 dollars left from last week. She got 5 dollars as pocket money for this week. Is the total pocket money she has now even or odd?,even,300,Y,Add the money: $3 + $5 = $8; 8 can be split into 2 equal groups.,even,
+10,Jill has pocket money of 3 dollars left from last week. She got 5 dollars as pocket money for this week. Is the total pocket money she has now even or odd?,even,300,Y,Add the money: $3 + $5 = $\$8$; 8 can be split into 2 equal groups.,even,

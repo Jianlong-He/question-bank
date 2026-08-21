@@ -7,5 +7,5 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 6,Solve 2x + 3y = 12 and 2x - y = 4. Enter x and then y.,"3, 2",70,Y,Subtract the second equation from the first.|This eliminates x.,"4y = 8, so y = 2 and x = 3."
 7,Solve 3x + y = 9 and x - y = -1. Enter x and then y.,"2, 3",70,Y,Add the equations.|Then substitute x = 2.,"4x = 8, so x = 2 and y = 3."
 8,Solve 4x + y = 11 and 2x - y = 1. Enter x and then y.,"2, 3",70,Y,Add the equations.|The y-terms cancel.,"6x = 12, so x = 2 and y = 3."
-9,Two tacos and one drink cost $11. One taco and one drink cost $7. What is the price of one taco?,4|$4,70,Y,Use 2t + d = 11 and t + d = 7.|Subtract the second equation from the first.,"The drink terms cancel, leaving t = 4."
+9,Two tacos and one drink cost $\$11$. One taco and one drink cost $\$7$. What is the price of one taco?,4|$4,70,Y,Use 2t + d = 11 and t + d = 7.|Subtract the second equation from the first.,"The drink terms cancel, leaving t = 4."
 10,Solve 5x - 2y = 11 and x + 2y = 7. Enter x and then y.,"3, 2",70,Y,Add the equations.|Then substitute x into the second equation.,"6x = 18, so x = 3 and y = 2."

@@ -3,7 +3,7 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 2,"The y-values 5, 9, 13, 17 have a constant difference. Is the relationship linear or exponential?",linear|a linear relationship,70,Y,Subtract consecutive outputs.|A constant difference signals linear change.,"The outputs increase by 4, so the relationship is linear."
 3,Write an exponential rule with initial value 5 and growth factor 2.,y=5*2^x|5*2^x|y=5(2)^x,70,Y,Use y = ab^x.|Here a = 5 and b = 2.,The rule is y = 5 × 2^x.
 4,A linear model is y = 100 + 15t. How much does y increase each time t increases by 1?,15,70,Y,The coefficient of t is the constant rate.|Linear models add the same amount each interval.,The model increases by 15 per time interval.
-5,An account starts at $2000 and grows by 5% in one year. What is its value after that year?,2100|$2100,70,Y,Multiply by 1.05.|Five percent of 2000 is 100.,The value is 2000(1.05) = $2100.
+5,An account starts at $\$2000$ and grows by 5% in one year. What is its value after that year?,2100|$2100,70,Y,Multiply by 1.05.|Five percent of 2000 is 100.,The value is 2000(1.05) = $\$2100$.
 6,An exponential quantity grows by 20% each period. What is its growth factor?,1.2|1.20,70,Y,Add the decimal growth rate to 1.|20% = 0.20.,The growth factor is 1 + 0.20 = 1.20.
 7,"In A(t) = 500(1.08)^t, what is the initial value?",500|$500,70,Y,Set t = 0.|Any nonzero number to exponent 0 equals 1.,"A(0) = 500(1) = 500, so the initial value is 500."
 8,"In A(t) = 500(1.08)^t, what is the percent growth rate?",8%|8 percent|0.08,70,Y,The growth factor is 1 + r.|Subtract 1 from 1.08.,The rate is 1.08 - 1 = 0.08 = 8%.

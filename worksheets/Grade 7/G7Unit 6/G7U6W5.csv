@@ -1,5 +1,5 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
-1,"Sam buys a game for $14 and 3 identical comic books. He spent $26 total. How much did each comic book cost? Enter only the number with no units.",4,60,Y,"Add the cost to the remaining amount.","26 - 14 = 12. 12/3 = 4",
+1,"Sam buys a game for $\$14$ and 3 identical comic books. He spent $\$26$ total. How much did each comic book cost? Enter only the number with no units.",4,60,Y,"Add the cost to the remaining amount.","26 - 14 = 12. 12/3 = 4",
 2,"A phone plan charges \$12 per month plus \$5 per GB of data. If Julia paid \$52 total, how many GB did she use? Enter only the number with no units.",8,65,Y,"Subtract the fixed fee, then divide.","52 − 12 = 40 → 40 ÷ 5 = 8.",
 3,"Look at the number line above. What is the boundary number for this inequality?",-3,70,Y,"The boundary is the number where the open or closed circle is located.","The circle is at -3, so the boundary is -3.","https://i.ibb.co/xKLpDsb7/G7W30Q3.png"
 4,"Solve the inequality −3x < 18. Fill in the blanks: To solve, you divide by ___, which means you must flip the inequality symbol. The boundary number is ___.", "-3, -6",70,Y,"Divide by −3 and reverse the inequality.","x > −6 → boundary is −6.",

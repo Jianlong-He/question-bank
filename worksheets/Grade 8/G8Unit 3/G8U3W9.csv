@@ -1,5 +1,5 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Fill: A gym charges $\$50$ fee plus $\$10$/month. Write the equation for cost $y$ after $x$ months. (Format: y=mx+b),y=10x+50,40,Y,Slope ($m$) is the recurring cost ($10);Intercept ($b$) is the one-time starting fee ($50),Modeling Linear Contexts
+1,Fill: A gym charges $\$50$ fee plus $\$10$/month. Write the equation for cost $y$ after $x$ months. (Format: y=mx+b),y=10x+50,40,Y,Slope ($m$) is the recurring cost ($\$10$);Intercept ($b$) is the one-time starting fee ($\$50$),Modeling Linear Contexts
 2,"Function A has equation $y=3x$. Function B is a table with points $(0,0)$ and $(1,5)$. Which has a greater slope? (A/B)",B|b,35,Y,Find slope of A: 3;Find slope of B: $(5-0)/(1-0) = 5$;Compare 3 and 5,Comparing Functions
 3,Fill: What does the slope represent in $C = 25h + 50$ (Cost vs Hours)?,Cost per hour,25,Y,Slope is the rate of change;Look at the units: Cost divided by Hours,Interpreting Slope Context
 4,"Fill: Find the rate of change for this table: x:0,2,4 y:10,20,30",5,30,Y,Change in y is $20-10=10$;Change in x is $2-0=2$;Divide $\Delta y / \Delta x$,Calculating Rate from Table

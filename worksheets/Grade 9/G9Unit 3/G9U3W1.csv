@@ -1,7 +1,7 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
 1,A car travels 180 miles in 3 hours. What is its average rate in miles per hour? Enter only the number.,60,60,Y,Rate equals distance divided by time.,180 miles ÷ 3 hours = 60 miles per hour.
 2,Fuel efficiency compares distance traveled to fuel used. Enter the appropriate compound unit using words.,miles per gallon|mile per gallon|mi/gal|mpg,60,Y,Put distance in the numerator and fuel in the denominator.,A standard unit for fuel efficiency is miles per gallon.
-3,Twelve notebooks cost $30. What is the cost per notebook? Enter only the number.,2.5|2.50|5/2,65,Y,Divide the total cost by the number of notebooks.,$30 ÷ 12 = $2.50 per notebook.
+3,Twelve notebooks cost $\$30$. What is the cost per notebook? Enter only the number.,2.5|2.50|5/2,65,Y,Divide the total cost by the number of notebooks.,$30 ÷ 12 = $2.50 per notebook.
 4,Convert 5 feet to inches using 12 inches = 1 foot. Enter only the number.,60,60,Y,Multiply by 12 inches per foot.,5 ft × 12 in/ft = 60 inches.
 5,Convert 3.5 hours to minutes. Enter only the number.,210,65,Y,Multiply by 60 minutes per hour.,3.5 h × 60 min/h = 210 minutes.
 6,A cyclist travels at 72 kilometers per hour. What is this rate in kilometers per minute?,1.2|6/5,70,Y,One hour contains 60 minutes.|Divide 72 by 60.,72 km/h ÷ 60 min/h = 1.2 km/min.

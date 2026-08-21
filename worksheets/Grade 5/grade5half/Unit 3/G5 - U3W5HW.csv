@@ -3,4 +3,4 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 2,"A jug contains 2.5 L. If 0.85 L is poured out, how much remains?","1.65",60,Y,"Write 2.5 as 2.50 and subtract.","1.65"
 3,"A path is 15.4 km long. After walking 9.85 km, how far remains?","5.55",60,Y,"Write 15.4 as 15.40 and subtract.","5.55"
 4,"A fence is 50.5 m long. If 27.86 m is painted, how much remains?","22.64",60,Y,"Write 50.5 as 50.50 and subtract.","22.64"
-5,"You have $12.40 and spend $9.86. How much money remains?","2.54",60,Y,"Write 12.4 as 12.40 and subtract.","2.54"
+5,"You have $\$12.40$ and spend $\$9.86$. How much money remains?","2.54",60,Y,"Write 12.4 as 12.40 and subtract.","2.54"
