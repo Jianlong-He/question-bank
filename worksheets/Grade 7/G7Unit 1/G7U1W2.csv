@@ -1,5 +1,5 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
-1,"A type of ribbon costs $\$18$ for 12 meters. Assuming a proportional relationship, how much does 1 meter cost?",1.5|3/2,60,Y,"Use cost per meter = total ÷ meters.","18/12 = 1.5 dollars per meter.",
+1,"A type of ribbon costs $18 for 12 meters. Assuming a proportional relationship, how much does 1 meter cost?",1.5|3/2,60,Y,"Use cost per meter = total ÷ meters.","18/12 = 1.5 dollars per meter.",
 2,"A cyclist travels 45 km in 3 hours at a constant rate. Without using a graph, determine the constant of proportionality (km per hour).",15,65,Y,"Divide distance by time.","45/3 = 15.",
 3,"A plant grows 28 cm in 4 weeks at a constant rate. What is the proportionality constant representing centimeters grown per week?",7,70,Y,"Use growth ÷ time.","28/4 = 7 cm per week.",
 4,"An equation shows a proportional relationship: y = 9x. What is the constant of proportionality?",9,75,Y,"It is the coefficient of x.","k = 9.",

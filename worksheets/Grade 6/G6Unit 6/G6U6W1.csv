@@ -1,7 +1,7 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
 1,Which part of the expression 12 + x is the variable?,x,100,Y,What can change?,"A variable is something that changes. In 12 + x, 12 is fixed, x can change. So x is variable.",
 2,"Write an expression for: ""6 plus a number n""",6 + n|6+n,100,Y,Translate words into math,"6 + n    -> Translate words into math, ""plus"" means addition (+)",
-3,A worker earns $\$16$ per hour plus tips t. Write an expression for total per hour earnings.,16 + t|16+t,100,Y,Fixed amount + variable,"16 + t      -> Hourly pay is constant (16), tips change is variable t. So per hour total = 16 + t",
+3,A worker earns $16 per hour plus tips t. Write an expression for total per hour earnings.,16 + t|16+t,100,Y,Fixed amount + variable,"16 + t      -> Hourly pay is constant (16), tips change is variable t. So per hour total = 16 + t",
 4,"If y = 8, find the value of 26 + y",34,100,Y,Replace y with 8,34     -> Replace y with 8,
 5,"A restaurant worker earns $17 per hour plus tips t. If t = 28, how much does the worker earn per hour?",45|$45,100,Y,Write an experssion first then substitute t = 28 into expression,45    -> Write an experssion first: earns 17 + t per hour. Then substitute t = 28 into expression: 17 + t = 17 + 28 = 45,
 6,How many terms are in: 4x + 2 - 6y - 3z,4|4 terms,100,Y,Look at operation signs: + and −,"4 terms     -> Look at operation signs: + and −. Terms: 4x, 2, 6y, 3z",

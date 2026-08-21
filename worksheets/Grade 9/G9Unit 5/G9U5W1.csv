@@ -1,7 +1,7 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
 1,"In y = -4x + 9, what is the slope?",-4,70,Y,Compare with y = mx + b.|The coefficient of x is m.,The slope is -4.
 2,"In y = -4x + 9, what is the y-intercept?",9,70,Y,Compare with y = mx + b.|The constant term is b.,The y-intercept is 9.
-3,"A taxi charges $\$5$ to start and $3 per mile. In C = 3m + 5, what does 5 represent?",starting fee|initial fee|flat fee|base fee,70,Y,Set the mileage to zero.|The constant is the initial amount.,The 5 represents the $\$5$ starting fee.
+3,"A taxi charges $5 to start and $3 per mile. In C = 3m + 5, what does 5 represent?",starting fee|initial fee|flat fee|base fee,70,Y,Set the mileage to zero.|The constant is the initial amount.,The 5 represents the $5 starting fee.
 4,Write the slope-intercept equation of a line with slope 2 and y-intercept -3.,y=2x-3|y = 2x - 3,70,Y,Use y = mx + b.|Substitute m = 2 and b = -3.,The equation is y = 2x - 3.
 5,A tank starts with 100 liters and loses 8 liters each minute. Write its volume V after m minutes.,V=-8m+100|V = -8m + 100|v=-8m+100,70,Y,The starting amount is the intercept.|Losing liquid gives a negative rate.,The linear model is V = -8m + 100.
 6,"For y = 0.5x + 7, find y when x = 6.",10,70,Y,Substitute x = 6.|Compute 0.5(6) + 7.,y = 3 + 7 = 10.

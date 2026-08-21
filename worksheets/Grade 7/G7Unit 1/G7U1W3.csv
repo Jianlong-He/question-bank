@@ -1,7 +1,7 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
 1,"A recipe uses a proportional relationship between cups of rice and cups of water. If 3 cups of rice require 6 cups of water, how many cups of water are needed for 1 cup of rice?",2,60,Y,"Find the constant k = water/rice.","Water = (6/3)*1 = 2.",
-2,"At a movie theater, the total cost is proportional to the number of tickets. Four tickets cost $\$52$. What is the cost of 1 ticket?",13,70,Y,"Divide total cost by number of tickets.","52/4 = 13 dollars per ticket.",
-3,"A store sells bananas at a constant rate. If 9 pounds of bananas cost $\$18$, how much does 1 pound cost?",2,70,Y,"Use unit rate = cost ÷ pounds.","18/9 = 2 dollars per pound.",
+2,"At a movie theater, the total cost is proportional to the number of tickets. Four tickets cost $52. What is the cost of 1 ticket?",13,70,Y,"Divide total cost by number of tickets.","52/4 = 13 dollars per ticket.",
+3,"A store sells bananas at a constant rate. If 9 pounds of bananas cost $18, how much does 1 pound cost?",2,70,Y,"Use unit rate = cost ÷ pounds.","18/9 = 2 dollars per pound.",
 4,"A table shows that when x = 6, y = 15 in a proportional relationship. What is the constant of proportionality?",2.5|5/2,75,Y,"k = y/x.","k = 15/6 = 2.5.",
 5,"A proportional relationship is described as: when x = 14, y = 35. If y = kx, find k.",2.5|5/2,75,Y,"Constant of proportionality is y divided by x.","35/14 = 2.5.",
 6,"A square has side length s and perimeter P in a proportional relationship. If a side length of 5 cm gives a perimeter of 20 cm, what is the constant of proportionality P/s?",4,80,Y,"Perimeter = 4 × side.","20/5 = 4.",

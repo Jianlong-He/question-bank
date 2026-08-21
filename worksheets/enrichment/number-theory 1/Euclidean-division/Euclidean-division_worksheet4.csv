@@ -7,5 +7,5 @@
 6,"True or False: If a=b*q+1, then gcd(a,b)=1.",TRUE,600,N,,TRUE
 7,"Fill: Using the Bezout identity 123(-2) + 19(13) = 1, the inverse of 19 (mod 123) is ___.",13,600,N,,13
 8,"Fill: 7 and 8 are coprime. (a) Find x and y with y>0 so that 7x+8y=1: x=___, y=___. (b) Find x and y with x>0 so that 7x+8y=1: x=___, y=___. (c) The inverse of 7 (mod 8) is ___.","-1,1,7,-6,7",600,Y,Use your knowledge of multiplication for parts a) and b).,"-1,1,7,-6,7"
-9,Fill: A post office only sells 31-cent stamps and 20-cent stamps. Can you make exactly $\$2.04$? Yes/No = ___. Number of 31-cent stamps = ___. Number of 20-cent stamps = ___.,"Yes,4,4",600,Y,Adding twenty 31cent stamps at the same time as subtracting thirty-one 20 cent stamps does not change the total,"Yes,4,4"
+9,Fill: A post office only sells 31-cent stamps and 20-cent stamps. Can you make exactly $2.04? Yes/No = ___. Number of 31-cent stamps = ___. Number of 20-cent stamps = ___.,"Yes,4,4",600,Y,Adding twenty 31cent stamps at the same time as subtracting thirty-one 20 cent stamps does not change the total,"Yes,4,4"
 10,"Fill: If a divides bc and gcd(a,b)=1, use Bezout's Identity to prove a divides c. Since gcd(a,b)=1, ax+by=___. Multiplying by c gives acx+bcy=___. Therefore a divides ___.","1,c,c",600,N,,"1,c,c"
