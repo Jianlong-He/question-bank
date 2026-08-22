@@ -74,3 +74,6 @@ scratch/
 *copy.csv
 *Copy.csv
 * copy.csv
+
+# ---- Scratch folder for files awaiting deletion ----
+_to_delete/
