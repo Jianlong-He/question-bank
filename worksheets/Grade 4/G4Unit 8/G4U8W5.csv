@@ -1,7 +1,7 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
 1,Convert 4/10 into an equivalent fraction with a denominator of 100. ,40/100,300,Y,Multiply both top and bottom by 10.,40/100
 2,Fill: Find the missing numerator: 30/100 = __/10,3,300,Y,Divide both numbers by 10.,3
-3,Fill: Add the fractions: 3/10 + 23/100 = __/100,53/100,300,Y,Change 3/10 into 30/100 before adding.,53/100
+3,Fill: Add the fractions: 3/10 + 23/100 = __/100,53|53/100,300,Y,Change 3/10 into 30/100 before adding.,53/100
 4,Select which sum is equal to 53/100:5/10+3/100 50/10+3/100 5/100+3/10,5/10+3/100,300,Y,Convert 5/10 to 50/100 first. Then add 3/100.,5/10+3/100
 5,Add 9/10 + 3/100,93/100,300,Y,Multiply the numerator and denominator of 9/10 by 10 before adding,93/100
 6,Add and simplify: 4/10 + 10/100,1/2,300,Y,Multiply the numerator and denominator of 4/10 by 10 before adding. Simplify the fraction after adding,1/2
