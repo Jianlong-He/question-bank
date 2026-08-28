@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,X is geometric and P(X>1)=0.85. Find p(1).,3/20|0.15,45,Y,P(X>1)=1-p;p(1)=p,"$1-p=0.85$, so $p(1)=p=0.15$."
+2,X is geometric with p=0.4. Find P(X>3).,0.216|27/125,45,Y,(1-p)^3,$P(X>3)=0.6^3=0.216$.
+3,"For a geometric random variable X with success probability p, which formula gives P(X>t)? Choices: A) p^t | B) (1-p)^t | C) (1-p)^(t-1)·p | D) 1-(1-p)^t Answer with the letter only.",B,45,Y,X>t means the first t trials are all failures,"The first $t$ trials must all fail, so $P(X>t)=(1-p)^t$. The answer is B."
+4,"Jenny decides that p(k)/p(k-1)=0.52 for all k ≥ 2, where k is the number of trials to win. What is the probability the next win occurs after more than 2 tries?",0.2704|169/625,60,Y,1-p=0.52;P(X>2)=0.52^2,$P(X>2)=0.52^2=0.2704$.
+5,"A darts player hits the bullseye on 30% of her throws, independently. What is the probability that her first bullseye comes within her first 3 throws?",0.657|657/1000,60,Y,P(X ≤ 3)=1-P(X>3);P(X>3)=0.7^3,$P(X\le3)=1-0.7^3=1-0.343=0.657$.

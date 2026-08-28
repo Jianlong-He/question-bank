@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,One card is drawn from a standard 52-card deck and success means drawing an ace. What is p?,1/13|0.0769230769|0.0769,30,Y,There are 4 aces in 52 cards,$p=\frac{4}{52}=\frac{1}{13}$.
+2,Independent p-Bernoulli trials have p=0.2. Find the probability of three successes in a row.,0.008|1/125,45,Y,Multiply p three times,$p^3=0.2^3=0.008$.
+3,"Independent p-Bernoulli trials have p=1/3. Find P(ξ1=0, ξ2=0, ξ3=1): failure, failure, success.",4/27|0.1481481481|0.1481,60,Y,q=2/3;Multiply q·q·p,$P=\left(\frac{2}{3}\right)^2\cdot\frac{1}{3}=\frac{4}{27}$.
+4,A fair die is rolled twice and success means rolling an even number. What is the probability that both rolls are successes?,1/4|0.25,45,Y,p=3/6=1/2 on each roll;Square it,"$p=\frac{1}{2}$, so $P=\left(\frac{1}{2}\right)^2=\frac{1}{4}$."
+5,"For independent p-Bernoulli trials, P(ξ1=1, ξ2=1, ξ3=1)=0.027. Find p.",3/10|0.3,60,Y,p^3=0.027;Take the cube root,"$p^3=0.027$, so $p=0.3$."
