@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A bag has 5 white and 3 black balls. Two balls are drawn without replacement. What is the probability of one ball of each colour?,15/28|0.5357142857|0.5357,60,Y,"C(5,1)·C(3,1) favourable pairs;C(8,2)=28 pairs in total",$P=\frac{\binom{5}{1}\binom{3}{1}}{\binom{8}{2}}=\frac{15}{28}$.
+2,Three items are drawn without replacement from a bowl with 3 candies and 3 cockroaches. How many ways are there to draw exactly 1 candy?,9,60,Y,Choose 1 of 3 candies and 2 of 3 cockroaches,$\binom{3}{1}\binom{3}{2}=3\cdot3=9$.
+3,Three items are drawn without replacement from a bowl with 3 candies and 3 cockroaches. Find P(exactly 1 candy).,9/20|0.45,60,Y,"9 favourable draws;C(6,3)=20 draws in total",$P=\frac{9}{20}=\frac{9}{20}$.
+4,Three items are drawn without replacement from a bowl with 3 candies and 3 cockroaches. Find P(no candies).,1/20|0.05,60,Y,"All 3 items are cockroaches: C(3,3)=1",$P=\frac{\binom{3}{0}\binom{3}{3}}{\binom{6}{3}}=\frac{1}{20}=\frac{1}{20}$.
+5,A bag has 5 white and 3 black balls. Two balls are drawn without replacement. What is the probability that both are white?,5/14|0.3571428571|0.3571,60,Y,"C(5,2)=10 favourable pairs;Divide by C(8,2)=28",$P=\frac{\binom{5}{2}}{\binom{8}{2}}=\frac{10}{28}=\frac{5}{14}$.

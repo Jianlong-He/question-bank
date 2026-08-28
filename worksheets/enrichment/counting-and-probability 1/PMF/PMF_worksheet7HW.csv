@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"In the hypergeometric theorem C(N,n) = Σ C(m,k)·C(N-m,n-k), the sum runs over k=0, 1, ..., n. How many terms does the sum have when n=6?",7,30,Y,"Count the values k=0, 1, ..., 6","There are $n+1=7$ terms, one for each $k=0,1,\dots,6$."
+2,A 4-person committee is chosen from 5 males and 4 females. How many committees contain exactly 3 males?,40,60,Y,"C(5,3)·C(4,1)",$\binom{5}{3}\binom{4}{1}=10\cdot4=40$.
+3,How many 4-person committees can be chosen from 9 people in total?,126,45,Y,"C(9,4)",$\binom{9}{4}=126$.
+4,"For the committee of 4 from 5 males and 4 females, find p(3), the probability of exactly 3 males.",20/63|0.3174603175|0.3175,60,Y,40/126,$p(3)=\frac{40}{126}=\frac{20}{63}$.
+5,"For the same committee pmf, p(0)=1/126, p(1)=20/126, p(2)=60/126 and p(3)=40/126. Find p(4).",5/126|0.0396825397|0.0397,60,Y,The probabilities add to 1;126-(1+20+60+40),"$p(4)=\frac{126-121}{126}=\frac{5}{126}$, which equals $\frac{\binom{5}{4}\binom{4}{0}}{126}$."

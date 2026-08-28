@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
 1,What is 0.3²?,0.09,50,Y,The exponent tells you how many 0.3’s to multiply. 3 x 3 = 9,0.09   -> 0.3² = 0.3 x 0.3 = 0.09,
-2,What is 0.4³?,0.64,50,Y,The exponent tells you how many 0.3’s to multiply. 4 x 3 = 12,0.64   -> 0.4³ = 0.4 x 0.4 x 0.4 = 0.64,
+2,What is 0.4³?,0.064,50,Y,The exponent tells you how many 0.3’s to multiply. 4 x 3 = 12,0.64   -> 0.4³ = 0.4 x 0.4 x 0.4 = 0.64,
 3,What is 0.7² + 1.2?,1.69,50,Y,Follow order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract,"1.69   -> Follow order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract. 0.7² = 0.49, 0.49 + 1.2 = 1.69",
 4,What is (3/4)²?,9/16,50,Y,"Multiply numerator by numerator, denominator by denominator.","9/16   -> Multiply numerator by numerator, denominator by denominator.",
 5,What is (2/5)³?,8/125,50,Y,"Multiply numerator by numerator, denominator by denominator.","8/125   -> Multiply numerator by numerator, denominator by denominator.",
