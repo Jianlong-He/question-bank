@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Compute: 3/4 - 1/3,5/12,120,Y,"Find a common denominator for 4 and 3, which is 12. Convert both fractions before subtracting.",5/12
-2,Compute: 1/6 + 2/5,17/30,120,Y,Find the least common multiple of 6 and 5 to use as your common denominator.,17/30
-3,Complete: 7/10 - __ = 2/5,3/10,180,Y,"To find the missing fraction, subtract 2/5 from 7/10. Remember to rewrite 2/5 with a denominator of 10.",3/10
-4,Complete: __ + 1/4 = 5/8,3/8,180,Y,Subtract 1/4 from 5/8. Convert 1/4 into eighths first.,3/8
-5,A recipe requires 3/4 cup of sugar. Sarah has 1/2 cup of sugar. How much more sugar does she need?,1/4,260,Y,Subtract the amount she has from the required amount: 3/4 - 1/2.,1/4

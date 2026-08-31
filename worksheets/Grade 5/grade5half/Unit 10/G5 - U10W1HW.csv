@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"What is 35000 ÷ 1,000?",35,240,Y,"÷1,000 = shift decimal 3 places left",35
-2,What is 0.8 ÷ 100?,0.008,240,Y,÷100 = shift decimal 2 places left,0.008
-3,What is 0.00006 x 100,0.006,240,Y,x100 = shift decimal 2 places right,0.006
-4,Select which is greater: 8.3x10 830÷100,8.3x10,240,N,,8.3x10
-5,"A number is divided by 1,000 and becomes 0.29. What was the original number?",290,240,Y,Reverse the operation,"290 -> Reverse the operation, 0.29 x 1,000 = 290"

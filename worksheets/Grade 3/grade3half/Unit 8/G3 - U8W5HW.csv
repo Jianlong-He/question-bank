@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"In a multiplication table, what number goes in the spot for 4 x 6?",24,240,Y,"4 x 6 means 4 groups of 6. Skip counting 6, 12, 18, 24",24
-2,"A = 4 x 5, B = 5 x 4. Compare A and B with > < or =. A __ B : < > =",=,240,Y,Switching the order in multiplication does not change the answer.,=
-3,"A = 6 x 3, B = 6 x 2. Compare A and B with > < or =. A __ B : > < =",>,240,Y,"Both have 6, but one has more groups.",>
-4,Is 45 both an odd number and a multiple of 5? : Yes No,Yes,240,Y,"Odd ends in 1,3,5,7,9. Multiple of 5 ends in 0 or 5.",Yes
-5,"A = 4 x 4, B = 3 x 5. Compare A and B with > < or =. A __ B : > < =",>,240,Y,Compute both (or think of groups).,>

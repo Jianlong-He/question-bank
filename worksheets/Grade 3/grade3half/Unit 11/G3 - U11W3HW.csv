@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"A rectangle has length = 8 units, area = 40 square units. What is the perimeter?",26|26 units,100,Y,Area = length x width. Perimeter = add all sides length,26 units
-2,"A rectangle has width = 5 units, area = 30 square units. What is the length?",6|6 units,100,Y,Area = length x width,6 units
-3,"A rectangle has width = 5 units, area = 30 square units. What is the perimeter?",22|22 units,100,Y,Area = length x width. Perimeter = add all sides length,22 units
-4,"A rectangle has width = 4 units, perimeter = 24 units. What is the area?",32|32 square units,100,Y,Get the length from width and perimeter first. Rectangle has two equal lengths and two equal widths.,32 square units
-5,A square has perimeter = 32 units. What is the area?,64|64 square units,100,Y,Get length of each side from perimeter first. Square perimeter = 4 x length of each side,64 square units

@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,A triangle has three equal sides. Each side is 6 cm long. What is the perimeter of the triangle?,18|18 cm|18cm|18 centimeters,100,Y,Perimeter means add all the sides.,18 cm -> Perimeter means add all the sides
-2,"A rectangle has these side lengths 5 m, 9 m, 5 m, 9 m. What is the perimeter?",28|28 m|28m|28 meters,100,Y,Perimeter means add all the sides.,28 m -> Perimeter means add all the sides
-3,Each side of a square is 5 cm long. What is the perimeter of this square?,20|20 cm|20cm|20 centimeters,100,Y,Square has 4 equal sides.,20 cm -> Square has 4 equal sides
-4,A regular pentagon has 5 equal sides. Each side is 4 cm. What is the perimeter?,20|20 cm|20cm|20 centimeters,100,N,,20 cm -> Perimeter means add all the sides
-5,"A triangle has sides 4 cm, 8 cm, 9 cm. What is the perimeter?",21|21 cm|21cm|21 centimeters,100,N,,21 cm -> Perimeter means add all the sides

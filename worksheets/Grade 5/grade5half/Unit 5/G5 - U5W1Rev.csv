@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Fill: 50 x 70 = 5 x 10 x __ x 10 = 35 x 100 = __,"7, 3500",240,Y,Think of 50 as 5 x 10 and 70 as 7 x 10. You can attach 2 zeros to 5 x 7.,"7, 3500. 50 x 70 = 5 x 7 x 10 x 10 = 35 x 100 = 3500"
-2,Fill: 400 x 80 = __ x 100 x __ x 10 = 32 x __ = __,"4, 8, 1000, 32000",240,Y,Think of 400 as 4 x 100 and 80 as 8 x 10. You can attach 3 zeros to 4 x 8.,"4, 8, 1000, 32000. 400 x 80 = 4 x 8 x 100 x 10 = 32 x 1000 = 32000"
-3,What is 40 x 5000?,200000,240,Y,Think of 40 as 4 x 10 and 5000 as 5 x 1000. You can attach 4 zeros to 4 x 5.,200000. 40 x 5000 = 4 x 5 x 10 x 1000 = 200000
-4,Select your estimate of 120 x 19: 200x20=4000 100x20=2000 120x20=2400 100x10=1000,120x20=2400,240,Y,"Round to friendly numbers: 120 -> 120, 19 -> 20",120x20=2400. 120 x 19 -> 120 x 20 = 2400
-5,A local market orders 142 boxes of strawberries. Each box has 14 packs. Estimate how many packs they order in total?,2100|1400,360,Y,We want numbers that are close but also easy.,1st way: 142 x 14 -> 140 x 15 = 2100. 2nd way: 142 x 14 -> 140 x 10 = 1400

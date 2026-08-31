@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"You have 56 tens - 8 tens, How many tens do you get? What is it in whole number? Tens: __, Total = __","48, 480",240,Y,1 ten = 10 ones,"48, 480"
-2,"Fill. Round the numbers to the nearest 100 and add: 412 -> __, 678 -> __. Estimated total = __","400, 700, 1100",240,Y,"When tens digit > / = 5, round up","400, 700, 1100"
-3,"Fill. Round the numbers to the nearest 10 and add: 312 -> __, 584 -> __. Estimated total = __","310, 580, 890",240,Y,"When ones digit > / = 5, round up","310, 580, 890"
-4,Estimate to the nearest 10: 513 + 386 -> __,900,240,Y,"When ones digit > / = 5, round up",900
-5,A bakery sold 512 cookies on Monday and 387 on Tuesday. Estimate the total (using nearest 100).,900,360,Y,What is 512 round to the nearest 100 and 387 round to the nearest 100. Add them,900

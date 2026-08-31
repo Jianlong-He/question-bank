@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Fill 844 divided by 4 = __,211,600,Y,"Use long division divide the hundreds by 4, write the quotient digit, then bring down the tens and ones and keep going.",211
-2,Fill 535 divided by 5 = __,107,600,Y,"Use long division begin with the first two digits, divide by 5, write the quotient, subtract, then bring down the last digit.",107
-3,Fill 738 divided by 9 = __,82,600,Y,"Use long division start by dividing the first two digits by 9, write the quotient digit, subtract, then bring down the 8.",82
-4,Fill 546 divided by 14 = __,39,600,Y,"Use long division see how many times 14 fits into the first two digits, write that digit, subtract, then bring down the 6.",39
-5,A warehouse packaged 918 items into 18 boxes equally. How many items in each box?,51,600,Y,"Use long division divide 91 by 18 for the first digit of the quotient, subtract, then bring down the 8 and divide again.",51

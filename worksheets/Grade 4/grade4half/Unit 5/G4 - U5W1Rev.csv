@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"If you divide 7 by 2, what is left over? ( left over is the remainder)",1,300,Y,Divide 7 into equal groups of 2. See how many are left over,1
-2,"If you divide 14 by 3, what is the remainder?",2,300,Y,Divide 14 into equal groups of 3. See how many are left over,2
-3,"If you divide 25 by 4, what is the remainder?",1,300,Y,Divide 25 into equal groups of 4. See how many are left over,1
-4,"If you divide 22 by 6, what is the remainder?",4,300,Y,Divide 22 into equal groups of 6. See how many are left over,4
-5,"Fill. A teacher has 83 pencils. She packs 9 pencils in each box. She packs __ boxes, and there are __ pencils left unpacked.","9,2",600,Y,Divide 83 into groups of 9 and find how many boxes and what is left.,"9,2"

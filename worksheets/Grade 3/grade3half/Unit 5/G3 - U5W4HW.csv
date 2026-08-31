@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Two triangles, each divided into halves 3 halves are shaded. How many halves in total? What fraction shows the shaded part?","4, 3/2",240,Y,"Each triangle has 2 halves, so two triangles together have how many halves? Fraction = shaded halves / total halves","4, 3/2"
-2,"Select. On a number line, is 12/7 to the left of 1, at 1, or to the right of 1? : left-of-1 at-1 right-of-1",right-of-1,240,Y,"Compare the numerator and denominator. If the numerator is bigger than the denominator, the fraction is greater than 1, so it lies to the right of 1.",right-of-1
-3,A number line is marked in fourths. Point A is at 9/4. Is A closer to 2 or 3?,2,240,Y,"On a fourths number line, 1 = 4/4, 2 = 8/4, 3 = 12/4. 9/4 is just 1/4 more than 2",2
-4,Select all fractions that are greater than 1 3/3 7/2 4/5 18/5 21/4,"7/2, 18/5, 21/4",240,Y,Look for numerator > denominator. Equal to 1 is not greater than 1.,"7/2, 18/5, 21/4"
-5,Point A on the number line is between 4 and 5. Can A be 25/7?,no|No,240,Y,"4 = 28/7, 5 = 35/7. 25/7 is smaller than 28/7",no|No

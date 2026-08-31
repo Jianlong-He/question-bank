@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"On a number line, each jump is 1/6. What fraction is 4 jumps from 0?",4/6,240,Y,"If you make 4 jumps, you are adding 1/6 four times. Think 1 jump = 1/6, 2 jumps = 2/6...",4/6
-2,A frog is at the 4/9 on the number line. How many equal jumps of 1/9 did you make to 1?,5,240,Y,"First, figure out how many ninths are in 1 whole. Then subtract how many ninths the frog has made.",5
-3,"On a number line, the point at 1 is also labelled as n/n. If the jumps are each 1/15, what is n?",15,240,Y,"If each jump is 1/15, that means the whole (from 0 to 1) is divided into 15 equal parts",15
-4,A number line is divided into tenths. Which fraction is in the middle between 0 and 1?,5/10,240,Y,in the middle means halfway. How many tenths equal half of the whole? Think how many is half of 10,5/10
-5,"Which is closer to 1, 2/3 or 4/5?",4/5,240,Y,Think about how far each fraction is from 1. For 2/3: how many thirds away from 1?,4/5

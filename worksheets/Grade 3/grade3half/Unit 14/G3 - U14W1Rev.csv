@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
-1,"Based on the bar graph shown above, how long did the student play basketball?",10|10 minutes,240,Y,See how tall the bar above basketball is,10|10 minutes,https://i.ibb.co/hFjPptqf/image.png
-2,"Based on the bar graph shown above, which sport was played the most? : Soccer Tennis Badminton Basketball",Tennis,240,Y,Which bar is the tallest,Tennis,https://i.ibb.co/hFjPptqf/image.png
-3,"Based on the bar graph shown above, which sport was played the least? : Soccer Tennis Badminton Basketball",Basketball,240,Y,Which bar is the shortest,Basketball,https://i.ibb.co/hFjPptqf/image.png
-4,"Based on the bar graph shown above, which genre is the least favored? : Action Comedy Romance Biography Historical Horror",Biography,240,Y,Which bar is the shortest,Biography,https://i.ibb.co/vx0zPWf9/image.png
-5,"Based on the bar graph shown above, how many more people favored Comedy over Historical?",40,240,Y,Subtract the number of the height of the biography bar from the comedy bar,40,https://i.ibb.co/vx0zPWf9/image.png

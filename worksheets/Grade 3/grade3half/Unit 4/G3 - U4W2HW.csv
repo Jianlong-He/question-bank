@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"A number divided by 5 is 8. What is the number and what multiplication fact matches it? Number __, Multiplication fact 5 x 8 = __","40, 40",240,Y,"Think the number as 5 x 8; If the number / 5 = 8, then the number is 5 groups of 8","40, 40"
-2,"A number divided by 8 is 4. What is the number and what multiplication fact matches it? Number __, Multiplication fact __ x 8 = __","32, 4, 32",240,Y,"Think the number as 4 x 8; If the number / 8 = 4, then the number is 4 groups of 8","32, 4, 32"
-3,A bookshelf is 60 inches tall and each shelf is 6 inches. How many shelves are there?,10,240,Y,This is 60 / 6; 60 / 6 = __ or __ x 6 = 60,10
-4,A meeting room can fit 56 chairs. It has 7 rows. How many chairs per row?,8,240,Y,This is 56 / 7; 56 / 7 = __ or __ x 7 = 56,8
-5,A train parking lot is full of train cars! It has 36 cars in total and 4 rows. Each car has 8 wheels. How many wheels per row?,72,360,Y,Find cars per row and find wheels per row; Number of cars per row x 8 wheels = number of wheels per row; Number of cars per row = 36 / 4,72

@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,A rectangle has area = 80 square centimeters (cm^2). The length = 8 cm. What is the width?,10|10 cm|10 centimeters,100,Y,Area = length x width. What number x 8 = 80?,10 centimeters
-2,A rectangle has length = 7 cm and width = 9 cm. What is the area?,63|63 square centimeters|63 cm^2,100,Y,Area = length x width.,63 square centimeters
-3,A rectangle has area = 36 square meters (m^2). The width = 9 meters. What is the length?,4|4 m|4 meters,100,Y,Area = length x width. What number x 9 = 36?,4 meters
-4,"A large rectangle has: Length = 7, Width = 80. What is the area?",560,100,Y,Area = length x width,560
-5,"If a land plot has length 30 m and width 50 m, what is the area?",1500|1500 square meters|1500 m^2,100,Y,Area = length x width,1500 square meters

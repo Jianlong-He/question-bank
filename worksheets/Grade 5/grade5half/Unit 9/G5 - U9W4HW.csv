@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is 4 ÷ 0.08?,50,240,Y,Convert both to whole numbers and use long division,50 -> 4 ÷ 0.08 = 400 ÷ 8 = 50
-2,What is 2.48 ÷ 4? Give your answer as a decimal.,0.62,240,Y,Convert both to whole numbers and use long division,0.62 -> 2.48 ÷ 4 = (248 ÷ 4) ÷ 100 = 62 ÷ 100 = 0.62
-3,What is 3 ÷ 0.12?,25,240,Y,Convert both to whole numbers and use long division.,25 -> 3 ÷ 0.12 = 300 ÷ 12 = 25
-4,What is 6 ÷ 0.75?,8,240,Y,Convert both to whole numbers and use long division.,8 -> 6 ÷ 0.75 = 600 ÷ 75 = 8
-5,A car travels 141 km at 70.5 km per hour. How many hours does the trip take?,2|2 hours|2hours,360,Y,Time = distance ÷ speed,2|2 hours|2hours -> Time = distance ÷ speed = 141 ÷ 70.5 = 2

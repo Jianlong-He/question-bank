@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Select which number has the digit 2 representing a value of 20? : 234 429 328 402,429,240,Y,"For 2 to equal 20, 2 must be in tens place, Check each number for 2 in middle",429
-2,"Select the smallest number you can create using the digits 5, 2, and 8? : 528 825 258 285",258,240,Y,"Put smallest digit first, then next smallest, then largest",258
-3,"Sam needs to create the largest possible number using the digits 4, 6, and 2. However, the digit 6 MUST be in the ones place. Which number should he make?",426,240,Y,"6 must be in last (ones), Put largest digit in hundreds, Put other in tens",426
-4,Look at the number 549. Think how much is the digit 5 worth? And how much is the digit 4 worth? Find the total when you add these two values together.,540,240,Y,"5 in hundreds place = 500, 4 in tens place = 40, Add 500 + 40 = 540",540
-5,Sarah has a number with 4 in the hundreds place and 7 in the ones place. The tens digit is 0. What is Sarah number?,407,240,Y,"Hundreds = 4, Tens = 0, Ones = 7, Write in order 4 0 7",407

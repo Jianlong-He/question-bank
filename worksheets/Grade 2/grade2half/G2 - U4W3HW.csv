@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is 234 + 352 ?,586,300,Y,"Add using place value. First add ones, then tens, then hundreds",586
-2,What is 267 + 13?,280,600,Y,Break 267 as 200 + 60 + 7. Then add 7 ones to 13 ones = 20. Now add 200 + 60 + 20 = 280,280
-3,What is 578 + 211,789,600,Y,"Add using place value. First add ones, then tens, then hundreds",789
-4,What is 485 + 115?,600,600,Y,Break 485 as 400 + 80 + 5. Add 5 ones to 115 = 120. Now add 400 + 80 + 120 = ?,600
-5,What is 246 + 54?,300,600,Y,Break 246 as 200 + 40 + 6. Add 54 + 6 = 60. Now add 200 + 40 + 60 = 300,300

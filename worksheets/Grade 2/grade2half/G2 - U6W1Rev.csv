@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"How many cents are there in 3 quarters, 1 nickel, and 3 dimes?",110|110 cents,300,Y,1 quarter = 25 cents and 1 dime = 10 cents,110
-2,"How many cents are there in 1 quarter, 2 nickels, 2 dimes, and 3 pennies?",58|58 cents,600,Y,1 penny = 1 cent,58
-3,"Mom gave her 3 one-dollar bills, 1 five-dollar bill, and 2 ten-dollar bills. How much money does she have?",28|28 dollars,600,Y,Add all bills,28
-4,Select which is worth the most? : 3-quarters 70-pennies 8-dimes 12-nickels,8-dimes,600,Y,Convert each choice to cents and compare,8-dimes
-5,A puzzle costs 1 five-dollar bill and 50 cents. You pay with 2 ten-dollar bills. Is this enough to buy the puzzle? : yes no,yes,600,Y,Compare the amount paid to the cost,yes

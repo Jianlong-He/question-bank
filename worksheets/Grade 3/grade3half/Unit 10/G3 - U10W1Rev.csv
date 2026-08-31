@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is a unit rectangle? (A) A rectangle that is 10 units long and 5 units wide (B) A rectangle that is 1 unit long and 1 unit wide : A B,B,100,N,,B -> A unit rectangle is a shape with width = 1 unit & height = 1 unit. It is used to measure area.
-2,Select. A shape is covered by 15 unit squares. What is its area? : 1-square-units 15-square-units 20-square-units,15-square-units,100,Y,Each square counts as one,15-square-units -> Area = number of unit squares covering the shape.
-3,What is a square meter? (A) A square that is 10 meter by 10 meter (B) A square that is 1 meter by 1 meter : A B,B,100,Y,Think about the size( length and width) of the square,B -> A square meter is a unit of area where: length = 1 meter & width = 1 meter
-4,"Select. If a shape is covered by 20 square meters, what is its area?: 5-square-meters 20-square-meters 10-square-meters",20-square-meters,100,N,,Area is the number of squares covering the shape. So the shape has 20 square meters of area.
-5,Select. How many square centimeters make 1 square decimeter?: 100-square-centimeters 50-square-centimeters 10-square-centimeters,100-square-centimeters,100,N,,The big decimeter square contains 100 small square centimeters. So: 1 square decimeter = 100 square centimeters.

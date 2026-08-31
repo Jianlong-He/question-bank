@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is the value of 5 in 5814293? (Enter the number without commas),5000000,300,Y,The 5 is in the millions place,"5000000 -> The 5 is in the millions place, so its value is 5,000,000"
-2,Fill: 7182945 = __ tens + __ hundreds + __ millions + __ ten thousands + __ ones + __ hundred thousands + __ thousands,"4,9,7,8,5,1,2",300,Y,"The blanks are not in the usual order, so read carefully.","4,9,7,8,5,1,2 -> 4 tens, 9 hundreds, 7 millions, 8 ten thousands, 5 ones, 1 hundred thousands, 2 thousands"
-3,What number is represented by 4 millions + 2 hundred thousands + 1 ten thousands + 8 hundreds + 5 thousands + 3 ones + 9 tens? (Enter the number without commas),4215893,300,Y,Write each digit in its correct place value position. Include zeros for empty places if any.,4215893
-4,What is the largest number you can make by rearranging the digits in 8149372?,9874321,300,Y,Put the largest digits in the largest place values,9874321
-5,What is the value of 8 in 2841935?,800000,300,Y,The 8 is in the hundred thousands place,800000 -> The 8 is in the hundred thousands place

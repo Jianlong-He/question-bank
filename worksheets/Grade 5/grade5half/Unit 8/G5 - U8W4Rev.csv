@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Rewrite fraction 5429/100 as a decimal,54.29,240,N,,54.29
-2,What is the numerator when multiplying fractions (53/10) x (21/10),1113,240,Y,What is 53 x 21,1113
-3,What is 1.4 x 2.3,3.22,240,Y,"Method 1: count decimal places: 2, compute 14 x 23 then move decimal places",3.22
-4,What is 5.3 x 2.1?,11.13,240,Y,Use answers from the previous numerator and denominator questions,11.13
-5,One homework assignment needs 0.42 hours to finish. You complete 2.5 assignments over the week. How many hours do you spend on assignments in a week?,1.05|1.05 hours,240,Y,Total hours = hours per assignment x number of assignments,1.05 -> 0.42 x 2.5 = 1.05

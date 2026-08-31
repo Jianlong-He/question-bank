@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is 12 ÷ 0.3?,40,240,Y,Convert both to whole numbers,40 -> 12 ÷ 0.3 = 120 ÷ 3 = 40
-2,What is 0.4 ÷ 0.01?,40,240,Y,Dividing by 0.01 is the same as x100,40 -> 0.4 x 100 = 40
-3,What is 5.6 ÷ 0.001?,5600,240,Y,Dividing by 0.001 is the same as x1000,5600 -> 5.6 x 1000 = 5600
-4,What is 2.4 ÷ 0.008?,300,240,Y,Convert both to whole numbers,300 -> 2.4 ÷ 0.008 = 2400 ÷ 8 = 300
-5,A container holds 5 liters of liquid soap. Each small refill bottle holds 0.2 liters. How many refill bottles can be filled?,25,360,Y,Number of bottles = Total volume ÷ volume per bottle,25 -> 5 ÷ 0.2 = 50 ÷ 2 = 25

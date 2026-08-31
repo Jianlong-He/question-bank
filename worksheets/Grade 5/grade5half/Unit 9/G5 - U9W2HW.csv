@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is 0.5 ÷ 5? Write your answer as a decimal.,0.1,240,Y,Divide whole numbers first then place back decimal,0.1 -> 5 tenths ÷ 5 = 1 tenth = 0.1
-2,What is 8/10 ÷ 2? Write your answer as a decimal.,0.4,240,Y,Switch fraction to decimal first. Divide whole numbers first then place back decimal,"0.4 -> 8/10 = 0.8, then 0.8 ÷ 2 = 0.4"
-3,What is 0.84 ÷ 4? Write your answer as a decimal.,0.21,240,Y,Divide whole numbers first then place back decimal,0.21 -> 84 hundredths ÷ 4 = 21 hundredths = 0.21
-4,What is 1.35 ÷ 5? Write your answer as a decimal.,0.27,240,Y,Divide whole numbers first then place back decimal,0.27 -> 135 hundredths ÷ 5 = 27 hundredths = 0.27
-5,The total weight of 4 identical bags of flour is 2.48 kg. What is the weight of one bag (in kg)? Give your answer as a decimal.,0.62|0.62 kg|0.62kg,360,Y,Weight per bag = Total weight ÷ number of bags,0.62 -> 2.48 kg ÷ 4 = 0.62 kg

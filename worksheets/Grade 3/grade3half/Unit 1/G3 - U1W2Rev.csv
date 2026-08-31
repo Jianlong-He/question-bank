@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Fill Write a multiplication sentence for 7 + 7 + 7 + 7 + 7 = __ x __,"5, 7",240,Y,number of groups x group size; Count how many 7s there are. That number is the group count.,"5, 7"
-2,"Fill 0 x 4 = __ , 0 x 9 = __ , 0 x 12 = __","0, 0, 0",240,Y,"Anything multiplied by 0 is always 0, because you have zero groups.","0, 0, 0"
-3,"Fill 1 x 5 = __ , 1 x 8 = __ , 1 x 4 = __","5, 8, 2004",240,Y,Anything multiplied by 1 stays the same number. That means you only have one group.,"5, 8, 2004"
-4,"Fill 2 x 2 = __ , 3 x 3 = __ , 4 x 4 = __ , 5 x 5 = __ , 6 x 6 = __","4, 9, 16, 25, 36",360,Y,Think as number of groups x size of each group. We has equal number of groups and size.,"4, 9, 16, 25, 36"
-5,"Fill 1 x 3 = __ , 2 x 3 = __ , 3 x 3 = __ , 4 x 3 = __ , 5 x 3 = __ , 6 x 3 = __","3, 6, 9, 12, 15, 18",360,Y,Think as number of groups x size of each group. Each time has 1 more group of 3.,"3, 6, 9, 12, 15, 18"

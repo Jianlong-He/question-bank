@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Find the pattern and fill the blank(s) 3, 9, 27, __, 243",81,240,Y,Adding or Multiplying?,81 -> Pattern: Multiply 3
-2,"Find the pattern and fill the blank(s) 20, 28, __, 44, 52",36,240,Y,Look at how much you are adding each time.,36 -> Pattern: Add 8
-3,"Find the pattern and fill the blank(s) 2, 4, 7, 11, __",16,240,Y,"Look carefully, is it adding the same number each time?","16 -> Pattern: Add 2, then 3, then 4. Next: Add 5"
-4,"Find the pattern and fill the blank(s) 100, 80, 60, __, 20, 0",40,240,Y,Adding or multiplying or subtracting or dividing?,40 -> Pattern: Subtract 20
-5,"Find the pattern and fill the blank(s) 1, 4, 9, 16, __, 36, 49",25,240,Y,Adding or multiplying or subtracting or dividing?,"25 -> Pattern: square numbers, 1=1x1, 4=2x2, 9=3x3, 16=4x4, 25=5x5"

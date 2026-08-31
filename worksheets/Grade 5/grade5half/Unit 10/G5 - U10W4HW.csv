@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Select the correct answer. Consider the number 1482.395. What place value is the 9 in the number? : thousandths tenths hundredths,hundredths,240,Y,Count places to the right from the decimal,hundredths -> Count places to the right from the decimal: tenths -> hundredths
-2,Select the correct answer. Consider the number 29381.95. What is the value of the right 9? : 9000 0.9 0.09 90000,0.9,240,N,,0.9 -> 9 tenths
-3,"Select True or False of the statement ""10^6 ÷ 10^2 = 10^4"" : TRUE FALSE",TRUE,240,N,Rewrite all exponents as numbers. ; 1000000 ÷ 100 = 10000,TRUE -> 1000000 ÷ 100 = 10000 -> 10^6 ÷ 10^2 = 10^(6-2) = 10^4
-4,"Select the correct answer. In the number 704.007, how many times larger is the 7 in the hundreds place than the 7 in the thousandths place? : 10^5(100000) 10^4(10000) 10^6(1000000)",10^5(100000),240,Y,Count decimal shifts,10^5(100000) -> 5 decimal places different so it is 10^5
-5,"A micro-chip part measures 0.008 meters wide. Under a special magnifier, its projection looks 1,000 times larger. What is its magnified width in meters? : 0.08 0.8 8 80",8,240,Y,"Multiplying by 1,000 shifts the decimal point three places to the right.","8 -> 0.008 x 1,000 = 8"

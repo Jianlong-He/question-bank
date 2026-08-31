@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Add using the least common multiple: 1/4 + 2/5,13/20,120,Y,Find the least common multiple of 4 and 5 to use as your common denominator.,13/20
-2,Add using the least common multiple and write it as a mixed number: 2/3 + 3/4 (i.e. 1 2/3),1 5/12,120,Y,"Use 12 as the common denominator, add the numerators, and convert the improper fraction to a mixed number.",1 5/12
-3,Subtract using the least common multiple: 5/6 - 1/4,7/12,120,Y,"Find the least common multiple of 6 and 4, rewrite both fractions, and subtract.",7/12
-4,Add using the least common multiple and write it as a mixed number with simplest form: 4/5 + 7/10 (i.e. 1 2/3),1 1/2,120,Y,"The least common multiple of 5 and 10 is 10. Convert 4/5, add them up, change to a mixed number, and simplify.",1 1/2
-5,Select the sum that is greater? A) 1/2 + 2/3 B) 3/4 + 1/5,A,120,Y,Find a common denominator for each pair to calculate and compare their total values.,A

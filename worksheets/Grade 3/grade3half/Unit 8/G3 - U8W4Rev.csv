@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Is 4 even or odd?,even|Even|EVEN,240,Y,"Even numbers are integers exactly divisible by 2, leaving no remainder.",even|Even|EVEN
-2,Is 9 even or odd?,odd|Odd|ODD,240,Y,"Odd numbers are integers not divisible by 2, leaving a remainder of 1.",odd|Odd|ODD
-3,Is 46 even or odd?,even|Even|EVEN,240,Y,Look at the ones place.,even|Even|EVEN
-4,Is 55 even or odd?,odd|Odd|ODD,240,Y,Look at the ones place.,odd|Odd|ODD
-5,What is the sum of 12 + 18? Is it even or odd?,"30, even",240,Y,Even + Even = ?,"30, even"

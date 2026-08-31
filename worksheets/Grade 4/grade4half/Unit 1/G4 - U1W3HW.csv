@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Select which is equivalent to 3,200:32-hundreds 320-hundreds 32-thousands",32-hundreds,600,Y,Remove the two zeros to see how many hundreds.,"32-hundreds -> 3,200 has 32 hundreds."
-2,Fill in the blank. 12 thousands + 35 hundreds = ___ hundreds,155,600,Y,Convert 12 thousands to hundreds (120 hundreds). Add to 35 hundreds.,155 -> 12 thousands = 120 hundreds. 120 + 35 = 155 hundreds.
-3,"Select the missing number in 4 ten-thousands + ___ hundreds = 43,000:3 30 300",30,600,Y,"4 ten-thousands is 40,000. We need to get to 43,000.","30 -> 40,000 + 3,000 = 43,000. 3,000 is 30 hundreds."
-4,"Fill in the blank. The number 82,400 can be regrouped as 7 ten-thousands and ___ hundreds",124,600,Y,"7 ten-thousands is 70,000. Subtract 70,000 from 82,400.","124 -> 82,400 - 70,000 = 12,400. 12,400 is 124 hundreds."
-5,Select the equivalent value for 6 hundreds + 150 tens:2-thousands+1-hundreds 2-thousands+10-hundreds 1-thousand+1-hundreds,2-thousands+1-hundreds,600,Y,"Convert 150 tens to 1,300. Add 6 hundreds (600) to 1,500.","2-thousands+1-hundreds -> 150 tens = 1,500. 1,500 + 600 = 2,100 = 2 thousands and 1 hundred."

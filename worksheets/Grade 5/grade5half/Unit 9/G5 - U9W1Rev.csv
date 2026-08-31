@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Estimate 80 ÷ 1.98 by rounding divisor to a whole number,40,240,Y,Round the divisor to a friendly whole number. What nearby division can I do in my head?,"40. 1.98 rounds to 2, so 80 ÷ 2 = 40"
-2,Dividing whole numbers to get a decimal: What is 9 ÷ 2 ?,4.5,240,Y,Method 1: Long division. Method 2: Rewrite as a mixed fraction then change to tenths,4.5 -> 9 ÷ 2 = 4 1/2 = 4.5
-3,Dividing whole numbers to get a decimal: What is 13 ÷ 4 ?,3.25,240,Y,Method 1: Long division. Method 2: Rewrite as a mixed fraction then change to hundredths,3.25 -> 13 ÷ 4 = 3 1/4 = 3.25
-4,"Select without long division, decide which is larger : 30÷3.2 30÷4.8",30÷3.2,240,Y,"When dividend is the same, smaller divisor makes larger result","30÷3.2. Since 3.2 is smaller than 4.8, it fits into 30 more times."
-5,There are 14 liters of water shared equally among 4 bottles. How much water goes into each bottle? Write your answer as a decimal.,3.5,360,Y,Water per bottle = Total water ÷ number of bottles. Think of 14 ÷ 4 as a mixed number first.,3.5 -> 14 ÷ 4 = 3 2/4 = 3 1/2 = 3.5

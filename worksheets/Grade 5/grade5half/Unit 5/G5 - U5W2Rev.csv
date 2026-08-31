@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
-1,"Fill: Write 568 as hundreds, tens and ones: 568 = 500 + __ + 8",60,240,N,,60,
-2,"Fill: Write 987 as hundreds, tens and ones: 987 = __ + 80 + __","900|7, 7|900",240,N,,"900|7, 7|900",
-3,What is the correct value of h using the standard algorithm in the above multiplication: 47 × 65,3,240,Y,7 × 5 = 35 -> write 5 carry 3,3,https://i.ibb.co/b5Cy8vnC/image.png
-4,What is the correct value of h using the standard algorithm in the above multiplication: 55 × 77. What is the final value?,"3, 4235",240,Y,h comes from 7 × 5 = 35 -> write 5 carry 3,"3, 4235",https://i.ibb.co/dwD2j716/image.png
-5,There are 102 stores in a mall. Each store has 11 workers. How many total workers there?,1122,360,Y,This is multiplication of 102 x 11 using standard algorithm,1122,

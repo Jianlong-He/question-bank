@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is 2 ÷ 0.04?,50,240,Y,Convert both to whole numbers and use long division,50 -> 2 ÷ 0.04 = 200 ÷ 4 = 50
-2,What is 1.86 ÷ 3? Give your answer as a decimal.,0.62,240,Y,Convert both to whole numbers and use long division,0.62 -> 1.86 ÷ 3 = (186 ÷ 3) ÷ 100 = 62 ÷ 100 = 0.62
-3,What is 0.5432 ÷ 0.01?,54.32,240,Y,Dividing 0.01 equals to x100,54.32 -> 0.5432 ÷ 0.01 = 0.5432 x 100 = 54.32
-4,What is 6 ÷ 0.15?,40,240,Y,Convert both to whole numbers and use long division.,40 -> 6 ÷ 0.15 = 600 ÷ 15 = 40
-5,A chef uses 0.84 kg of sugar to make 4 cakes. How much sugar is used for each cake?,0.21|0.21 kg|0.21kg,360,Y,Sugar per cake = Total sugar used ÷ number of cakes,0.21|0.21 kg|0.21kg -> sugar per cake = Total sugar used ÷ number of cakes = 0.84 ÷ 4 = 0.21

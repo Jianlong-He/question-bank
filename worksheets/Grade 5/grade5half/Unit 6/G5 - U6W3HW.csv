@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
-1,True or False. Cross-canceling changes the value of the product. : TRUE FALSE,FALSE,240,N,,FALSE,
-2,Compute fraction from the above multiplication,21/26,240,Y,Multiply numerator and denominator separately.,21/26,https://i.ibb.co/wFCc82j9/image.png
-3,"Fill in the boxes from left to right, top to bottom. Do not skip any boxes.","5|7, 7|5, 24, 35",240,Y,Multiply numerator and denominator separately.,"5|7, 7|5, 24, 35",https://i.ibb.co/qMgnXZrZ/image.png
-4,"Simplify first, then multiply. (17/14) x (7/34)",1/4,240,Y,Cross-cancel first.,1/4,
-5,You started a trail that is 7km long. You take a break after finishing 9/21 of the trail. How many km have you finished? How many km are left?,"3, 4",240,Y,Simplify the denominator first.,"3, 4",
