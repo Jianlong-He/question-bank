@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A clock shows 4 00. Another clock shows 4 15. How much time passed?,15|15 minutes,100,Y,How many minutes from 4 00 to 4 15,15 minutes
+2,A clock shows 2 00. Another clock shows 6 00. How many hours passed?,4|4 hours,100,Y,Count the hours,4 hours
+3,A clock shows 5 40. Another clock shows 6 00. How many minutes passed?,20|20 minutes,100,Y,How many minutes from 40 minutes to 60 minutes,20 minutes
+4,A clock shows 3 00. Another clock shows 5 00. How many minutes passed?,120|120 minutes,100,Y,Count the hours. Then convert to minutes,120 minutes
+5,Jenny school ends at 2:10. Walking back home takes her 20 minutes. What time does she arrive at home? __ hours and __ minutes,"2, 30",100,Y,2 10 + 20 minutes,2:30

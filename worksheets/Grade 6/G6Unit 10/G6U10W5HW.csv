@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"The front of a box is: Height = 25 cm, Width = 10 cm. What is the area? Put the answer without units",250|250 cm²,60,Y,"Area = length × width","25 x 10 = 250 cm²"
+2,"A rectangular prism has: Length = 5 cm, Width = 3 cm, Height = 2 cm. Find the total surface area",62|62 cm²,60,Y,"There are 3 pairs of equal faces","2 x (5x3 + 5x2 + 3x2) = 2 x 31 = 62 cm²"
+3,"A square pyramid has: Base = 6 × 6, Triangle height = 8. Find total surface area",132|132 cm²,60,Y,"Find the area of each surface first. Base and triangle share the same side","Triangle area = 6 x 8 x (1/2) = 24, four triangles = 96, base = 36. Total = 132 cm²"
+4,"Select. A student draws a net with 1 square and 3 triangles. Can this form a square pyramid?: Yes No",No,60,Y,"How many triangular faces does a square pyramid have?","A square has 4 sides; with only 3 triangles it cannot form a square pyramid"
+5,"Select. If you double all dimensions of a box, what happens to surface area?: Doubles 4-times-bigger 8-times-bigger",4-times-bigger,60,Y,"Area = length × width","Each face becomes 2 x 2 = 4 times bigger, so the total surface area is 4 times bigger"

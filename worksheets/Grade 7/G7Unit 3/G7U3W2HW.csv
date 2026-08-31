@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"You create 5 zero pairs and then remove 2 positive tiles. What integer is represented?",-2,60,Y,"Zero pairs have no value; removing positives makes the result negative.","Start at 0; remove 2 positive tiles → -2."
+2,"On a number line, you start at 6 and move left 9 units. What number do you land on?",-3,60,Y,"Subtract 9 from 6.","6 − 9 = -3."
+3,"Determine the sign of the sum: (-11) + (+3) + (+2) + (-7).",-|negative|Negative,60,Y,"Compare total positives vs total negatives.","Positives = 5, negatives = 18 → negative sign."
+4,"Using integer chips, evaluate (-12) − [the opposite of (+5)].",-7,60,Y,"Opposite of +5 is -5; subtracting -5 adds 5.","-12 + 5 = -7."
+5,"Graph the expression (+7) − (+15) mentally on a number line. What is the final value?",-8,60,Y,"Subtracting a positive moves left.","7 - 15 = -8."

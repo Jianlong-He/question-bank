@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Compute: 8/9 ÷ 2/3","4/3|1 1/3",60,Y,"Multiply by the reciprocal; simplify the fraction","8/9 × 3/2 = 4/3"
+2,"Compute: 7/10 ÷ 7/20","2",60,Y,"Use reciprocal and cancel common factors","7/10 × 20/7 = 2"
+3,"Compute: 2/5 ÷ 4/5","1/2|0.5",60,Y,"Multiply by reciprocal; reduce to simplest form","2/5 × 5/4 = 1/2"
+4,"Compute: 3 1/2 ÷ 7","0.5|1/2",60,Y,"3.5 ÷ 7 = 0.5","7/2 × 1/7 = 1/2 = 0.5"
+5,"Compute: 2 1/4 ÷ 3/4","3",60,Y,"Convert mixed number to improper fraction; multiply by reciprocal","9/4 × 4/3 = 3"

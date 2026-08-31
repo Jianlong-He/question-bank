@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If you divide 42 by 5, what is the remainder?",2,300,Y,Divide 42 into equal groups of 5. See how many are left over,2
+2,"If you divide 63 by 8, what is the remainder? ( 8 times 7 = 56, 8 times 8 = 64)",7,300,Y,Subtract 63 - 56,7
+3,"If you divide 94 by 9, what is the remainder? ( 9 times 10 = 90)",4,300,Y,Subtract 94 - 90,4
+4,Fill. 25 apples are split equally among 6 friends. Each friend gets __ apples with __ apples left over.,"4,1",600,Y,Divide 25 into groups of 6 and find how many each one has and what is left.,"4,1"
+5,"If you divide 28 by 8, what is the remainder?",4,300,Y,Divide 28 into equal groups of 8. See how many are left over,4

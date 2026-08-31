@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select which of the following quadrilaterals have all four sides of equal length?: Rectangle Rhombus Square Trapezoid,"Rhombus, Square",120,Y,Which shapes have every side the same?,"Rhombus, Square"
+2,How many sides does a hexagon have?,6|six,120,Y,"Hex means six.",6
+3,How many corners does a triangle have?,3|three,120,Y,"Count each point where two sides meet.",3
+4,"Select which shape has all right angles?: Triangle Square Circle",Square,120,Y,A right angle is a 90-degree corner.,Square
+5,"Select all the quadrilaterals: Square Triangle Rectangle Circle Trapezoid","Square,Rectangle,Trapezoid",240,Y,A quadrilateral has 4 sides.,"Square,Rectangle,Trapezoid"

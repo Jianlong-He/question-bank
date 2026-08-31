@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A coin is flipped and a five-sided spinner is spun. How many total outcomes are in the compound sample space?",10,60,Y,"Multiply the number of outcomes for each event.","Coin has 2 outcomes and the spinner has 5 → 2 × 5 = 10."
+2,"A pot has 4 red flowers and 1 white flower. A flower is chosen at random to decorate a vase. What is the probability the flower chosen is red?",0.8|4/5|80%,60,Y,"Probability = red/total.","Red = 4, Total = 5 → 4/5 = 0.8."
+3,"A computer randomly selects a whole number from 1 to 10. Fill in the blanks: The probability of picking an odd number is ___, and the probability of picking a number greater than 8 is ___.","1/2|0.5, 1/5|0.2|2/10",60,Y,"Count the successful outcomes and divide by 10.","Odds: 1,3,5,7,9 (5/10 = 1/2). Greater than 8: 9,10 (2/10 = 1/5)."
+4,"A tree diagram shows outcomes for flipping a coin and then selecting 1 of 4 colored tiles. How many outcomes are possible?",8,60,Y,"Multiply the outcomes of the coin and the tiles.","Coin has 2 outcomes, tiles have 4 → 2 × 4 = 8."
+5,"A class surveys 50 people about favorite drinks and finds 30 prefer juice. Based on this sample, what is the probability a randomly chosen person prefers juice?",0.6|3/5|30/50|60%,60,Y,"Probability = part/whole.","30/50 = 0.6."

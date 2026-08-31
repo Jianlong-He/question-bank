@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A box plot shows a vertical line inside the box at 28. What does this line represent?",median|Median|the median,60,Y,"The middle value of the data","The line inside the box is the median"
+2,"A box plot has Q1 = 25 and Q3 = 32. Select. What percentage of data is between 25 and 32?: 7% 25% 50% 100%",50%,60,Y,"The box represents the middle half of the data","Q1 to Q3 covers 50% of the data"
+3,"A box plot shows: Min = 4, Q1 = 8, Median = 12, Q3 = 18, Max = 35. Which is TRUE?   (A) 75% of data is below 18   (B) 50% of data is between 8 and 18   (C) All data is below 12   (D) Median = average of all values",B|b|(B),60,Y,"Think about what each part of the box plot shows","The box from Q1 (8) to Q3 (18) holds the middle 50% of the data"
+4,"A box plot shows all values within the whiskers and no separate dots. Is there an outlier? Answer yes or no.",no|NO|No,60,Y,"Look for dots outside the whiskers","All values within whiskers -> no outlier shown"
+5,"A box plot shows min = 10, Q1 = 15, median = 20, Q3 = 25, max = 30. What is the range and the IQR?","20, 10",60,Y,"Range = max - min; IQR = Q3 - Q1","Range = 30 - 10 = 20. IQR = 25 - 15 = 10"

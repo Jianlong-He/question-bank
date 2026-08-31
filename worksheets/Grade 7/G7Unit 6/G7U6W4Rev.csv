@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve the equation using the idea that whatever you do to one side, you must do to the other: -x + |-15| = -38.",53,60,Y,"Subtract |-15| from both sides, then multiply by (-1).","-x = -38 − 15 = -53 → x = 53."
+2,"Solve the fractional/decimal equation: (2/5)x − 1.4 = 1.8.",8,60,Y,"Add 1.4, then multiply by 5/2.","1.8 + 1.4 = 3.2; x = 3.2 × (5/2) = 8."
+3,"A student solves 7x − 5 = 23 and gets x = 4. Check the work and give the correct value.",4,60,Y,"Substitute to verify.","7(4) − 5 = 23 → correct, x = 4."
+4,"A bakery charges $25 for a custom cake base plus $5 per extra topping. If a cake costs $45, how many extra toppings were added? Fill in the blanks: The equation is 5x + 25 = ___, so there are ___ toppings.","45, 4",60,Y,"Subtract the base cost, then divide by 5.","45 − 25 = 20. 20 / 5 = 4."
+5,"A taxi charges a $3 base fee plus $2.50 per mile. If the total was $28, how many miles were driven? Enter only the number with no units.",10,60,Y,"Subtract the base fee, then divide.","28 − 3 = 25 → 25 ÷ 2.5 = 10."

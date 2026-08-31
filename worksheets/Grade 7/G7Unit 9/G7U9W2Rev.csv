@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If the area of a circle is 81π, fill in the blanks: Its radius is ___, and its circumference is ___. (Leave circumference in terms of pi)","9, 18pi|18 pi|18\pi|18π",60,Y,"Find the radius first using A = πr², then use C = 2πr.","81π = πr² → r = 9. C = 2π(9) = 18π."
+2,"A circular rug is cut perfectly into 4 equal quarters. If the original rug has a radius of 6, what is the area of one quarter? (Leave your answer in terms of pi, e.g., 16pi)",9pi|9 pi|9\pi|9π,60,Y,"Find the area of the full rug, then divide by 4.","Area = π(6²) = 36π. 36π / 4 = 9π."
+3,"Angle A and Angle B are supplementary. Angle A is 40° more than Angle B. Let Angle B be x. Fill in the blanks: Angle B is ___° and Angle A is ___°.","70, 110",60,Y,"Set up the equation: x + (x + 40) = 180.","2x + 40 = 180 → 2x = 140 → x = 70. Angle A = 70 + 40 = 110."
+4,"Two intersecting lines form vertical angles. If one angle is (4x - 8)° and its vertical angle is 64°, fill in the blanks: The equation is 4x - 8 = ___, and x = ___.","64, 18",60,Y,"Vertical angles are equal to each other.","4x - 8 = 64 → 4x = 72 → x = 18."
+5,"Angles A and B are adjacent and form a right angle. If Angle A is 37.5°, what is Angle B?",52.5|52 1/2|105/2,60,Y,"Adjacent angles that form a right angle add up to 90°.","90 - 37.5 = 52.5."

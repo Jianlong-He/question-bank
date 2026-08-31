@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the RANGE. Data is 2, 6, 14, 22, 40, 55, 90",88,60,Y,"Range = max - min","90 − 2 = 88"
+2,"A data set has: Minimum = 12 and range = 18. What is the maximum value?",30,60,Y,"Range = max - min","Max = range + min = 18 + 12 = 30"
+3,"Data: 2, 4, 6, 8, 10, 12, 14, 16. Find the interquartile range (IQR)",8,60,Y,"Split into two halves","Lower half: 2, 4, 6, 8 -> median = 5. Upper half: 10, 12, 14, 16 -> median = 13. IQR = 13 − 5 = 8"
+4,"Select TRUE or FALSE of the statement. A class has 9 data points, and the median is 15. Statement is ""At least one value must be 15."" : TRUE FALSE",TRUE,60,Y,"Odd number of data -> middle is an actual value","With 9 numbers, the median is the 5th number. So one data value must be exactly 15"
+5,"Select. Data is 3, 5, 7, 9, 11. A new number 90 is added. What happens to the median?: Increases Decreases The-same Cannot-be-determined",Increases,60,Y,"Find the median before and after","Adding a larger number moves the median up: from 7 to (7+9)/2 = 8 -> increases"

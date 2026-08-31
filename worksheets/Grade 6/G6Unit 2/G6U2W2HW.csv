@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Compute: 6/7 ÷ 2/7","3",60,Y,"Multiply by the reciprocal; simplify the fraction","6/7 × 7/2 = 3"
+2,"Compute: 3/4 ÷ 1/4","3",60,Y,"Change division to multiplication by the reciprocal","3/4 × 4 = 3"
+3,"Compute: 5/8 ÷ 5/16","2",60,Y,"Use reciprocal and cancel common factors","5/8 × 16/5 = 2"
+4,"Compute: 1 1/4 ÷ 1/2","2.5|5/2",60,Y,"Convert mixed number to improper fraction; multiply by reciprocal","5/4 × 2 = 5/2 = 2.5"
+5,"Compute: 6 ÷ 2/5","15",60,Y,"Multiply by the reciprocal of 2/5","6 × 5/2 = 15"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the Least Common Multiplier (LCM) of 8 and 20.",40,60,Y,"List multiples of both numbers","Multiples of 8: 8, 16, 24, 32, 40. Multiples of 20: 20, 40. Smallest common = 40"
+2,"Find the Least Common Multiplier (LCM) of 9 and 15 using Prime Factorization.",45,60,Y,"9 = 3^2, 15 = 3 * 5","9 = 3^2, 15 = 3 * 5, so LCM = 3^2 x 5 = 45"
+3,"Find the Least Common Multiplier (LCM) of 10 and 14 using Prime Factorization.",70,60,Y,"10 = 2 * 5, 14 = 2 * 7","10 = 2 * 5, 14 = 2 * 7, so LCM = 2 x 5 x 7 = 70"
+4,"Two lights blink every 6 seconds and 9 seconds. When will they blink together again? (At which seconds)",18|18 seconds,60,Y,"Find LCM","LCM(6, 9) = 18"
+5,"If LCM(6, y) = 12, what could y be? Lists all possible numbers","4|12, 4|12",60,Y,"Think multiples","Check values that give LCM = 12: y = 4 or 12"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is 0.6 × 3 + 1.2 ÷ 4?",2.1,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","1.8 + 0.3 = 2.1"
+2,"What is 2.5 − 3 × 0.2²?",2.38,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","2.5 - 3 x 0.04 = 2.5 - 0.12 = 2.38"
+3,"What is (7 - 3)³ ÷ 2²?",16,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","4³ ÷ 2² = 64 ÷ 4 = 16"
+4,"What is 3 x (4)² + 5 ÷ 1287⁰?",53,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","3 x 16 + 5 ÷ 1 = 48 + 5 = 53"
+5,"What is 0.72⁰ x (0.5 x 20)² + 0.3²?",100.09,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","1 x 10² + 0.09 = 100 + 0.09 = 100.09"

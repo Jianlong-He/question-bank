@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select, Which number is farther left on the number line? (A) -2 1/2 (B) -2.7 : A B",B,60,Y,"Convert both to decimals or fractions","-2 1/2 = -2.5, -2.7 is more negative"
+2,"Compare -6.38 __ -8.15. Choose from <, > or =",>,60,Y,"Which is farther left?","-8.15 is more negative than -6.38"
+3,"Diver A is at -26 m. Diver B is at -31 m. Who is deeper?",B|Diver B|diver B|diver b|b,60,Y,"Deeper means more negative.","-31 < -26, so Diver B"
+4,"Place these numbers in order (smaller to larger) from left to right: 0, -4 1/2, -2/5, 7/4, -0.8, 2.15","-4 1/2, -0.8, -2/5, 0, 7/4, 2.15",60,Y,"Convert all to decimals or fractions","-4.5 < -0.8 < -0.4 < 0 < 1.75 < 2.15"
+5,"The deepest point of Lake A is -132 m. Lake B is -156 m. Which lake is deeper?",B|lake B|Lake B|lake b|b,60,Y,"Deeper means more negative.","-156 < -132, so Lake B"

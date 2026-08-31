@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Simplify the expression by combining like terms: 6x − 4 + 3x + 10 − x. Fill in the blanks: The simplified expression is ___x + ___, and its value when x = 3 is ___.","8, 6, 30",60,Y,"Combine x-terms and constants first.","6x + 3x − x = 8x, and −4 + 10 = 6. Substitute x = 3: 8(3) + 6 = 30."
+2,"Simplify using the distributive property: 4(2a − 3) + 5a when a = 3.",27,60,Y,"Distribute 4, then combine like terms.","4(2a − 3) = 8a − 12. Adding 5a gives 13a − 12. Substitute a = 3: 13(3) − 12 = 27."
+3,"Simplify the rational expression: (2/3)x − (1/3)x + 4 when x = 9. Enter only the number with no units.",7,60,Y,"Evaluate each fractional coefficient, then combine.","(2/3)×9 = 6 and (1/3)×9 = 3. Compute 6 − 3 + 4 = 7."
+4,"Factor and evaluate: Factor 8y − 12 then substitute y = 4. Enter only the number with no units.",20,60,Y,"Factor out the greatest common factor.","8y − 12 = 4(2y − 3). Substitute y = 4: 8(4) − 12 = 20."
+5,"Interpret and evaluate: “Seven more than triple a number” when the number is −5. Enter only the number with no units.",-8,60,Y,"Translate the phrase to an expression.","Triple the number: 3(−5) = −15. Add 7: −15 + 7 = −8."

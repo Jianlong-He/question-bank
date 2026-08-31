@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Could you simplify 7m - 3m + 2n + 3n + 4?",4m+5n+4|4m + 5n + 4|4m+4+5n|4m + 4 + 5n|5n + 4m + 4|5n+4m+4|4 + 4m + 5n|4+4m+5n,60,Y,"Combine the m terms together, n terms together and the numbers together.","7m-3m=4m, 2n+3n=5n -> 4m + 5n + 4"
+2,"Select. What expression is equivalent to a + a + b - 6? : b-6 3a+2b-6 2a+b-6",2a+b-6,60,Y,"Combine the a terms together, b terms together and the numbers together.","a + a = 2a -> 2a+b-6"
+3,"Select. What expression is equivalent to 4c + 6c - 5d - 3d? : 10c+8d 10c-8d",10c-8d,60,Y,"Combine the c terms together and d terms together.","4c+6c=10c, -5d-3d=-8d -> 10c-8d"
+4,"Select. What expression is equivalent to 4a - 8b + 24? : 4(a-b+6) 4a(2b+6) 4(a-2b+6)",4(a-2b+6),60,Y,"Factor out the common factor of coefficients","GCF(4, 8, 24) = 4 -> 4(a-2b+6)"
+5,"Select. What expression is equivalent to 5t - 6d + 9 - 3t + 2d - 4? : -2t+5-d 2t-4d+5 2t+8d+5",2t-4d+5,60,Y,"Combine the t terms together, d terms together and the numbers together.","5t-3t=2t, -6d+2d=-4d, 9-4=5 -> 2t-4d+5"

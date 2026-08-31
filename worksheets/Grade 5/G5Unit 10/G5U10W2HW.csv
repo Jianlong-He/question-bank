@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Expand 10⁵ as repeated multiplication. That is 10⁵ = _ × _ × _ × _ × _ ,"10, 10, 10, 10, 10",240,Y,Exponent tells how many 10s,"10, 10, 10, 10, 10"
+2,What is 10⁵? Please write your number without commas.,100000,240,Y,10^n = 1 followed by n zeros,100000
+3,"Fill. In 10², base = __, and exponent = __","10, 2",240,Y,Base is the big number. Exponent is the small raised number,"10, 2"
+4,Write this statement as a power of ten. 1 followed by 39 zeros,10^39,240,Y,Write as __ ^ __. Number of zeros = exponent,10^39
+5,"Write this number as a power of ten. 10,000,000,000,000",10^13,240,Y,Write as __ ^ __. Count zeros,10^13

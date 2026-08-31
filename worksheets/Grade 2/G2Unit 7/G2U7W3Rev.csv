@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A line plot shows how many marbles each student has: 2 students have 1 marble, 3 students have 2 marbles, 4 students have 3 marbles, 2 students have 4 marbles. How many students have exactly 3 marbles?",4,120,Y,Find the stack above 3 marbles.,4
+2,"Using the same line plot (2 at 1, 3 at 2, 4 at 3, 2 at 4), students with 2 marbles plus students with 4 marbles = ____ students.",5,120,Y,"Find both counts, then add them: 3 + 2",5
+3,"A teacher says: Students with 3 or more marbles get a prize. Using the same line plot (2 at 1, 3 at 2, 4 at 3, 2 at 4), how many students get a prize?",6,240,Y,"3 or more means 3 or 4 marbles: 4 + 2",6
+4,"Using the same line plot (2 at 1, 3 at 2, 4 at 3, 2 at 4), how many students are there in all?",11,240,Y,Add all: 2 + 3 + 4 + 2,11
+5,"Select which number of marbles has the MOST students?:1 2 3 4",3,120,Y,Look for the tallest stack,3

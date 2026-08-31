@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Which values of x make this true? |x| > 7. Choose from -9, 4, 6",-9,60,Y,"Absolute value of x must be larger than 7","|-9| = 9 > 7; |4| and |6| are not"
+2,"Jane: -6 lb, Sarah: +3 lb, Bill: +7 lb. Who had the largest change in weight?",Bill,60,Y,"Largest change = biggest absolute value.","|7| = 7 is the biggest change"
+3,"Select True or False of the statement ""|x| > -14 is true for every number x."" : True False",True,60,Y,"Is |x| ever negative?","Absolute value is always 0 or positive, so it is always greater than -14."
+4,"Compare: -|-58| __ -|24|. Choose from <, > or =",<,60,Y,"Evaluate both absolute values.","-|-58| = -58, -|24| = -24, -58 < -24"
+5,"What is -18 + |-35| - |12|?",5,60,Y,"Absolute value means distance from zero.","-18 + 35 - 12 = 5"

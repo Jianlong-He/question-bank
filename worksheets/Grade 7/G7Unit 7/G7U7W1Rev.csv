@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A spinner has 8 equal sections numbered 1 through 8. What is the probability of landing on a number that is a multiple of 4? Enter the fraction in simplest form.",1/4|2/8|0.25,60,Y,"Count the multiples of 4 from 1 to 8.","Multiples: 4, 8 → 2/8 = 1/4."
+2,"A die theoretically gives a 6 with probability 1/6. In 120 rolls, a 6 appears 24 times. Is the experimental probability greater, equal, or less?",Greater|greater,60,Y,"Compare 24/120 with 1/6.","24/120 = 0.2, 1/6 ≈ 0.1667 → experimental is greater."
+3,"A student draws a ball 50 times (with replacement) and observes 12 red, 8 blue, and 30 green. What is the experimental probability of red? Round to two decimal places.",0.24|6/25,60,Y,"Divide red count by total draws.","12/50 = 0.24."
+4,"A coin is flipped twice and a six-sided die is rolled. How many outcomes are in the compound sample space?",24,60,Y,"Multiply outcomes of each event.","Two flips = 4 outcomes; die = 6 → 4 × 6 = 24."
+5,"Two six-sided dice are rolled. What is the probability their sum is 11? Enter the fraction in simplest form.",1/18,60,Y,"Count pairs that sum to 11.","(5,6) and (6,5) = 2 outcomes out of 36 → 2/36 = 1/18."

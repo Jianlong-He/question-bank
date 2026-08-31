@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Compute (−7/20) − (−1/4).",-1/10|-2/20|-0.1,60,Y,"Subtracting a negative adds. Convert 1/4 to 5/20.","-7/20 + 5/20 = -2/20 = -1/10."
+2,"Compute −5.62 + 3.007 − (−2.41). Round to the nearest hundredth.",-0.20|-0.2,60,Y,"Add the opposite, then combine decimals.","-5.62 + 3.007 + 2.41 = -0.203 → -0.20."
+3,"Compute: (−0.4) + (−1/3) + 0.6. Round your final answer to the nearest hundredth.",-0.13,60,Y,"Convert all numbers to decimals.","-0.4 - 0.333... + 0.6 = -0.133... ≈ -0.13."
+4,"After dropping by 6.5°, the temperature is now -2.1°. What was the starting temperature? Enter only the number with no units.",4.4,60,Y,"Final = initial - drop.","-2.1 = initial - 6.5, so initial = -2.1 + 6.5 = 4.4."
+5,"Using equivalent expressions and integer properties, evaluate (−24) + (−9) − (−15).",-18,60,Y,"Convert subtraction of a negative to addition.","-24 - 9 + 15 = -18."

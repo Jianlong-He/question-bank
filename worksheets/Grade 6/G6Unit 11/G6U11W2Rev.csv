@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What does ""frequency"" mean?  (A) The size of a number.   (B) How many times something occurs   (C) The difference between numbers",B|b,60,Y,"Think: how often something happens.","Frequency means the number of times a value appears in a data set."
+2,"Select. Which representation is easiest to SEE the most common value?: List Frequency-table Dot-plot",Dot-plot,60,Y,"Think visual","On a dot plot you instantly see the tallest stack of dots — no reading numbers needed"
+3,"Select TRUE or FALSE. ""A list, frequency table, and dot plot can show the same data."": TRUE FALSE",TRUE,60,Y,"Different forms, same info","They represent the same data in different ways"
+4,"Find the range of this data. Data: 14, 11, 6, 19, 3, 33, 21, 35",32,60,Y,"Range = max - min","35 - 3 = 32"
+5,"In a swim camp, age 6 appears 3 times, age 8 appears 5 times, age 9 appears 5 times, age 10 appears 2 times. Which two ages are most frequent?","8,9|8, 9|9,8|9, 8",60,Y,"Look for the highest frequencies","Both 8 and 9 have frequency 5 -> most frequent"

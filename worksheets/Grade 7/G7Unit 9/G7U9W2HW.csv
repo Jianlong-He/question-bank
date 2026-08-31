@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A circle has an area of 36π. What is its diameter?",12,60,Y,"Find the radius first using A = πr², then double it.","36π = πr² → r² = 36 → r = 6. Diameter = 2(6) = 12."
+2,"A circle has a circumference of 26π. What is its diameter?",26,60,Y,"Use the formula C = πd.","26π = πd → d = 26."
+3,"If a circle's radius doubles, how many times larger does its area become?",4,60,Y,"Area depends on the square of the radius (r²).","2² = 4 times larger."
+4,"A circle has a diameter of 10. What is its area? (Leave your answer in terms of pi, e.g., 10pi)",25pi|25 pi|25\pi|25π,60,Y,"Find the radius (half the diameter), then use A = πr².","r = 5. Area = π(5²) = 25π."
+5,"Two complementary angles measure (7x)° and (2x)°. What is the value of x?",10,60,Y,"Complementary angles add to 90 degrees.","7x + 2x = 90 → 9x = 90 → x = 10."

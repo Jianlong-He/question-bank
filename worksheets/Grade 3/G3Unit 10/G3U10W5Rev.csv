@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,The large rectangle is 7 cm by 6 cm. What is its area?,42|42 square centimeters|42 cm^2,100,Y,Area = length x width,42 square centimeters -> Area = length x width = 7 x 6 = 42
+2,The whole figure is made of bottom rectangle = 20 cm^2 and top rectangle = 30 cm^2. What is the total area?,50|50 square centimeters|50 cm^2,100,Y,Add the two parts.,50 square centimeters -> Add the two parts = 20 + 30 = 50
+3,Why can we split a shape into rectangles to find its area? (A) Because rectangle areas are easier to find (B) Because rectangles have no sides (C) Because we only count corners : A B C,A,100,Y,Think about what math trick helps us.,"A -> We split the shape into rectangles because rectangle areas are easier to find, and then we add them together."
+4,"The whole figure has parts with areas 15 m^2, 25 m^2. What is the total area?",40|40 square meters|40 m^2,100,Y,Add the two parts.,40 square meters. Add the two parts = 15 + 35 = 40
+5,"The whole figure has parts with areas 5 m^2, 5 m^2, 20 m^2. What is the total area?",30|30 square meters|30 m^2,100,Y,Add all three.,30 square meters. Add all three = 5 + 5 + 20 = 30

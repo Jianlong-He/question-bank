@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A swimmer completes 2/3 of a lap in 1/4 of a minute. What is the unit rate in laps per minute?",8/3|2.667,60,Y,"Divide distance by time.","(2/3) ÷ (1/4) = (2/3) × 4 = 8/3 ≈ 2.667."
+2,"Convert 0.375 to a simplified fraction.",3/8,60,Y,"Write as 375/1000 and simplify.","375/1000 = 3/8."
+3,"Convert 9/40 to a decimal rounded to the nearest hundredth.",0.23|0.22,60,Y,"Divide numerator by denominator.","9 ÷ 40 = 0.225 → 0.23."
+4,"Which is greater: -4/5 or -0.7? Enter the greater value.",-0.7,60,Y,"Compare values on a number line.","-4/5 = -0.8 < -0.7, so -0.7 is greater."
+5,"A sweater is discounted by 25%. If the original price is $60, how much is the discount amount (only enter the number, no units)?",15,60,Y,"Multiply price by percent.","60 × 0.25 = 15."

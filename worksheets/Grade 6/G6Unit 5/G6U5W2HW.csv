@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select, Where would 2/3 be placed on a number line? (A) Between 0 and 1 (B) Between 1 and 2 (C) Between -1 and 0 : A B C",A,60,Y,"2/3 is a positive number less than 1.","2/3 is between 0 and 1"
+2,"Compare -0.28 __ 0.14. Choose from <, > or =",<,60,Y,"Any negative number is less than any positive number.","<"
+3,"Compare 9/16 __ 5/8. Choose from <, > or =",<,60,Y,"Make denominators the same.","5/8 = 10/16, and 9/16 < 10/16"
+4,"Compare -3/25 __ -9/25. Choose from <, > or =",>,60,Y,"Which is farther left?","-9/25 is more negative than -3/25"
+5,"The temperature in Winnipeg is -18°C. In Regina it is -11°C. Which city is warmer?",Regina|regina,60,Y,"Which number is greater?","-11 is greater than -18 (closer to zero)"

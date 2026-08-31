@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A scale drawing uses 2 cm to represent 10 m in real life. If a hallway on the drawing is 5 cm long, how long is the real hallway?",25,60,Y,"Find how many 2-cm units the drawing has, then multiply by 10.","5 ÷ 2 = 2.5 → 2.5 × 10 = 25."
+2,"On a map, 2 cm represents 40 m. A road is shown as 7.5 cm long. How long is the real road?",150,60,Y,"Multiply centimeters by meters per centimeter.","40/2 = 20 per cm → 20 × 7.5 = 150."
+3,"You want to create a scale drawing where 1 cm represents 6 m. If a wall is 42 m in real life, how long should it be in the drawing?",7,60,Y,"Divide real length by the scale.","42/6 = 7."
+4,"A model uses the scale 1 to 25. If an object on the drawing is 3.2 units long, how long is the actual object?",80,60,Y,"Multiply drawing length by the scale factor.","3.2 × 25 = 80."
+5,"A rectangle is scaled by a factor of 2. Its original area is 15. Fill in the blanks: The area scales by the square of the scale factor, which is ___. The area of the scaled rectangle is ___.","4, 60",60,Y,"Square the scale factor, then multiply by the original area.","2² = 4. 15 × 4 = 60."

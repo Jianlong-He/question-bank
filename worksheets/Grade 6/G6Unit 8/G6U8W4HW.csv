@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A quadrilateral is split into two triangles: Triangle 1: base 6, height 4. Triangle 2: base 4, height 4. Find total area.",20|20 square units,60,Y,"Add both triangle areas","Triangle 1 = ½ × 6 × 4 = 12. Triangle 2 = ½ × 4 × 4 = 8. Total = 20"
+2,"A trapezoid has bases 4 and 8, height 5. Find area.",30,60,Y,"Use average of bases × height","½ × (4 + 8) × 5 = ½ × 12 × 5 = 30"
+3,"Select. Which formula correctly finds trapezoid area?: base×height ½×base×height ½×(base₁+base₂)×height base₁+base₂×height",½×(base₁+base₂)×height,60,Y,"Think ""average of bases""","Trapezoid area uses both bases: ½×(base₁+base₂)×height"
+4,"Find area of a trapezoid with bases 12 and 8, height 4.",40,60,Y,"Use average of bases × height","½ × (12 + 8) × 4 = ½ × 20 × 4 = 40"
+5,"A trapezoid has area 45 and height 5. The sum of the bases is unknown. Find the sum of the bases.",18,60,Y,"Rearrange the formula","45 = ½ × (b₁ + b₂) × 5 -> 45 = 2.5(b₁ + b₂) -> (b₁ + b₂) = 18"

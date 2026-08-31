@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A set of 5 ages has a mean of 8. The ages are: 5, 7, ?, 9, 10. What is the missing age?",9,60,Y,"total = mean × number of data points","Total = 5 x 8 = 40. Known: 5 + 7 + 9 + 10 = 31. Missing = 40 - 31 = 9"
+2,"The data set is: 4, 8, 12, 16. The number 16 is changed to 36. Find the new mean",15,60,Y,"New data: 4, 8, 12, 36","4+8+12+36 = 60. 60 / 4 = 15"
+3,"The mean of these 5 numbers is 18: 10, 16, ?, 22, 20. What is the missing number?",22,60,Y,"First find the total of all 5 numbers.","Total = 18 x 5 = 90. Known: 10+16+22+20 = 68. Missing = 90-68 = 22"
+4,"Select. Which measure is best when there is a very large number? : Mean Median Mode",Median,60,Y,"Think about the ""fair middle""","The median is not affected by extreme values (outliers)"
+5,"Which measure is MOST affected by 300? Data 3, 12, 3, 40, 80, 12, 300, 3",Mean,60,Y,"Think: big number impact. Choose from mean, median and mode","The mean uses all values -> a large outlier affects it most"

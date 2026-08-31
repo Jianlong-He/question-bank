@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write an equation for the total cost C if each apple costs 0.5 dollars, and you buy m number of apples.",C = 0.5m|C=0.5m,60,Y,"Cost = price x number","Each apple costs 0.5, so for m apples: C = 0.5m"
+2,"If you have 8 dollars, and the total cost of apples is C = 0.5m where m is the number of apples, how many apples can you buy?",16,60,Y,"Substitute in the equation","8 = 0.5m, m = 8/0.5 = 16"
+3,"Write an equation: Each notebook costs 3 dollars. Total cost is C, number of notebooks is n.",C = 3n|C=3n,60,Y,"Cost = price x number","C = 3n"
+4,"Select. Which variable depends on the other in y = 6x?: y-depends-on-x x-depends-on-y",y-depends-on-x,60,Y,"What changes when x changes?","y changes when x changes, so y depends on x"
+5,"If C = 4n and C = 36, find n.",9,60,Y,"They have the same C","4n = 36, n = 36/4 = 9"

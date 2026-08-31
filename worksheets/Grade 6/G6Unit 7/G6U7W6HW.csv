@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select. Test x = 0 for inequality x + 3 ≤ 2x: TRUE FALSE",FALSE,60,Y,"Substitute 0 for x","0 + 3 ≤ 0, 3 ≤ 0 is False"
+2,"Write an inequality: Temperature is warmer than 18°C. Use T to represent temperature",T>18|T > 18,60,Y,"Use <, >, ≤, or ≥.","""warmer than"" -> strictly greater than. T > 18"
+3,"Write an inequality: You drink at least 40 ounces of water. Use W to represent water",W≥40|W ≥ 40,60,Y,"Use <, >, ≤, or ≥.","""At least"" means greater than or equal to -> W ≥ 40"
+4,"Select. Which is correctly represent X > 30 on a number line: Filled-dot-at-30 Open-circle-at-30 Shaded-left",Open-circle-at-30,60,Y,"Is 30 included?","Strict inequality (>) -> open circle / shade to the right"
+5,"Does x = -5 satisfy: x < 2. Answer yes or no",yes|Yes|YES,60,Y,"Is -5 less than 2?","-5 < 2, so yes"

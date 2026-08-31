@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A drone maps 2/5 of a field in 1/4 of an hour. Find its mapping rate in fields per hour. Enter only the number with no units.",8/5|1.6,60,Y,"Divide fractional area by fractional time.","(2/5) ÷ (1/4) = (2/5) × 4 = 8/5 = 1.6."
+2,"Find 4% of 250.",10,60,Y,"Multiply 0.04 by 250.","0.04 × 250 = 10."
+3,"27 is what percent of 90? (Enter only the number)",30,60,Y,"Set up the fraction 27/90 and simplify.","27 ÷ 90 = 0.30 = 30%."
+4,"Convert 21/50 to a percentage. (Enter only the number)",42,60,Y,"Find an equivalent fraction with a denominator of 100.","21/50 = 42/100 = 42%."
+5,"A storage tank reaches 80% of its capacity after adding 48 gallons of solution. Find the full capacity. Enter only the number with no units.",60,60,Y,"48 is 80% of the total.","Total = 48/0.80 = 60."

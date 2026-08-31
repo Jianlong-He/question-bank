@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A cube net has 6 squares. How many faces does the cube have?",6,60,Y,"Each square in the net becomes one face.","Each square = one face. Total = 6 faces"
+2,"A shape has: 2 triangles (20 each), 2 rectangles (120 each) and 1 base (80). What is total surface area?",360,60,Y,"Add the areas of all the faces.","20*2 + 120*2 + 80 = 360"
+3,"A rectangular prism has faces 2x3, 2x5 and 3x5 (each appearing twice). What is the surface area?",62,60,Y,"Add the areas of all six faces.","(2x3 + 2x5 + 3x5) x 2 = (6 + 10 + 15) x 2 = 62"
+4,"A cube has side length 5 cm. What is the surface area?",150|150 cm²,60,Y,"6 faces, each side x side.","Each face: 25, total = 6 x 25 = 150 cm²"
+5,"Select. A prism's net shows two pentagons and five rectangles. Which prism will this net form when folded?: triangle-prism rectangle-prism pentagonal-prism square-prism",pentagonal-prism,60,Y,"Count the shape of the two matching ends (bases)","The base shape tells you the name of the prism -> pentagonal prism"

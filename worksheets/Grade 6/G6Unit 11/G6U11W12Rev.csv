@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select. What does a left-tailed distribution look like? : Tail-to-the-right Tail-to-the-left No-tail Equal-sides",Tail-to-the-left,60,Y,"Which side does the long tail extend to?","Left-tailed -> the long tail extends to the left"
+2,"What is a peak? (A) Lowest value   (B) Most frequent value area   (C) Gap   (D) Outlier",B|b|(B),60,Y,"Top of a ""mountain""","A peak is where the most data values occur"
+3,"Which statement is TRUE?  (A) A cluster means no data   (B) A gap means no data in a range   (C) A peak means smallest value   (D) Outlier is always the median",B|b|(B),60,Y,"Gap = empty space","A gap means there are no values in that range"
+4,"Select. A graph is symmetrical. Which is TRUE?: Mean=median(approximately) Has-a-long-tail Has-an-outlier Has-a-gap",Mean=median(approximately),60,Y,"Balanced data","In symmetrical data, mean ≈ median"
+5,"Select. A distribution has many values around 30 and a few very large values (>30). What shape is it? : Symmetrical Left-skewed Right-skewed No-pattern",Right-skewed,60,Y,"Tail direction","A few large values -> tail to the right -> right-skewed"

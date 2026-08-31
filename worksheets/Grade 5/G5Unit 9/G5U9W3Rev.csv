@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is 3 ÷ 0.6?,5,240,Y,Convert both to whole numbers,5 -> 3 ÷ 0.6 = 30 ÷ 6 = 5
+2,What is 4.5 ÷ 0.9?,5,240,Y,Convert both to whole numbers,5 -> 4.5 ÷ 0.9 = 45 ÷ 9 = 5
+3,What is 3 ÷ 0.4? Give your answer as a decimal.,7.5,240,Y,"Method 1: use long division directly, don't forget your decimal. Method 2: multiply dividend and divisor by 10 to get whole numbers",7.5 -> 3 ÷ 0.4 = 30 ÷ 4 = 7.5
+4,What is 7.2 ÷ 0.1?,72,240,Y,Dividing by 0.1 is the same as x10,72 -> 7.2 x 10 = 72
+5,A ribbon is 8 meters long. Each decorative bow requires 0.25 meters of ribbon. How many bows can be made?,32,360,Y,Number of bows = Total length ÷ length per bow,32 -> 8 ÷ 0.25 = 800 ÷ 25 = 32

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the Least Common Multiplier (LCM) of 6 and 15.",30,60,Y,"List multiples of both numbers","Multiples of 15: 15, 30. Multiples of 6: 6, 12, 18, 24, 30. Smallest common = 30"
+2,"If LCM(4, y) = 8, what could y be? Lists all possible numbers","8, 8",60,Y,"Try numbers that make LCM = 8","Only y = 8 gives LCM(4, y) = 8"
+3,"Find the Least Common Multiplier (LCM) of 3, 5 and 6.",30,60,Y,"Try multiples","Multiples of 6: 6, 12, 18, 24, 30. 30 is divisible by 3 and 5 too. LCM = 30"
+4,"Find the Least Common Multiplier (LCM) of 6, 8 and 9 using prime factors.",72,60,Y,"Check prime factors of each number","6 = 2 * 3, 8 = 2^3, 9 = 3^2, LCM = 2^3 * 3^2 = 8 * 9 = 72"
+5,"Three students water plants at different intervals: Amy every 3 days, Ben every 4 days, Chloe every 6 days. If they all watered today, after how many days will they water on the same day again?",12,60,Y,"Check prime factors to find LCM","3 = 3, 4 = 2^2, 6 = 2 * 3, LCM = 2^2 * 3 = 12"

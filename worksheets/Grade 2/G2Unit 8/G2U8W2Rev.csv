@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A pie is cut into 2 equal pieces. How many pieces make the whole pie?",2|two,120,Y,Halves means 2 equal parts.,2
+2,"A rectangle is divided into 4 equal parts. How many equal parts are there?",4|four,120,Y,Count the parts.,4
+3,"Select. A square is folded into 2 equal parts. Each part is called a: half third fourth",half,120,Y,2 equal parts are halves.,half
+4,"Select. Leo shares a sandwich equally with 2 friends, so it is cut into 3 equal pieces. What portion does each person get?: half third fourth whole",third,240,Y,3 equal pieces means each piece is one third.,third
+5,"Select True or False. A rectangle cut into 4 parts of different sizes is divided into fourths.: True False",False,240,Y,Fourths must be 4 EQUAL parts.,False

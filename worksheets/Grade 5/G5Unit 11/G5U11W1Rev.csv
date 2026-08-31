@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: A line is made by placing 8 unit lengths end to end. The length of the line is __ units.,8,240,Y,How many unit lengths fit along the line?,8
+2,Fill: A rectangle is fully covered by 12 unit squares. The area of the rectangle is __ square units.,12,240,Y,Area = number of unit squares covering the shape.,12 -> Area = number of unit squares covering the shape
+3,Select which measurement tells how much distance there is between two points in 1 dimension? : Length Area Volume,Length,240,N,,Length -> Length measures distance in one dimension. Think about a straight line.
+4,Two boxes are fully filled with unit cubes. Box A has 24 unit cubes. Box B has 30 unit cubes. Which box has the greater volume?,B|Box B|box B|box b|Box b,240,Y,More unit cubes means more volume,"B|Box B|box B|box b -> More unit cubes means more volume, 30 > 24 so Box B has greater volume."
+5,"A shipping crate is packed tightly with 15 large storage blocks. If each block has a volume of 3 cubic feet, what is the total volume of the crate? __ cubic feet",45,240,Y,Count each block and multiply by its individual volume size.,45 -> 15 blocks × 3 cubic feet = 45 ft³

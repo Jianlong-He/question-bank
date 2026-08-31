@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the digit in hundreds place in 8723.4,7,60,Y,"Count places to the left of the decimal: ones, tens, hundreds",7
+2,Write 0.59 as a fraction in the simplest form,59/100,60,Y,59/100 does not simplify as 59 is a prime number,59/100
+3,"Fill 0.709 _ 0.7011 with <,>,=",>,60,Y,"Compare each place starting from tenths, if same compare the place on the right",>
+4,What is 10 × 0.059,0.59,60,Y,Multiplying by 10 shifts the decimal point one place to the right,0.59
+5,What is the value of 9 in 0.059,0.009,60,Y,9 is in the thousandths place,0.009

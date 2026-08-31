@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A side of a shape measures 20 in the original and the scale factor is 0.6. What is the length of the corresponding side in the scaled copy?",12,60,Y,"Multiply original length by the scale factor.","20 × 0.6 = 12."
+2,"A scaled triangle has side GH = 20. The original triangle had side GH = 16. What is the scale factor?",1.25|5/4|1 1/4,60,Y,"Scale factor = new/original.","20/16 = 1.25."
+3,"A scale drawing shows that 4 cm represents 32 cm in real life. What is the scale factor from drawing to actual size?",8,60,Y,"Scale factor = actual/drawing.","32/4 = 8."
+4,"A scale factor of 0.35 is used in a drawing. If a real object is 60 units long, how long is it in the drawing?",21,60,Y,"Multiply real length by scale factor.","60 × 0.35 = 21."
+5,"A blueprint uses a ratio of 1 to 150. If a real hallway is 1200 units long, how long is it in the drawing?",8,60,Y,"Divide real length by the scale ratio.","1200/150 = 8."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A coin is flipped and then a spinner with 4 equal sections is spun. How many total outcomes are possible?",8,60,Y,"Multiply outcomes of each event.","Coin has 2 outcomes, spinner has 4 → 2 × 4 = 8."
+2,"A six-sided die is rolled and then a spinner with 3 equal sections is spun. How many outcomes are possible?",18,60,Y,"Multiply outcomes of the die by outcomes of the spinner.","6 × 3 = 18."
+3,"A flower box has 4 purple pots and 6 yellow pots. Two pots are selected at random without replacement. What is the probability both pots are yellow?",1/3|0.33|0.333|33.3%,60,Y,"Multiply the probability of the first yellow pot by the probability of the second yellow pot.","(6/10) × (5/9) = 30/90 = 1/3."
+4,"A neighborhood survey of 50 people shows 32 own a cat. What is the probability a randomly chosen person owns a cat?",0.64|32/50|16/25|64%,60,Y,"Divide cat owners by total respondents.","32/50 = 16/25 = 0.64."
+5,"A tree diagram shows 2 coin flips followed by choosing one of 4 marbles. How many outcomes are possible?",16,60,Y,"Multiply outcomes for each stage.","Coin flips give 2 × 2 = 4 outcomes; 4 × 4 = 16 total outcomes."

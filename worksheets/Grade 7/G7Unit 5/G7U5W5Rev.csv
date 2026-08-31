@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Compute $12 - (-3)^2 \cdot 2$.","-6|-6.0",60,Y,"Calculate the exponent, then multiply, then subtract","Exponent: $(-3)^2 = 9$. Multiply: $9 \cdot 2 = 18$. Subtract: $12 - 18 = -6$."
+2,"Fill: Compute $(-6 + 2)^2 / (-4)$.","-4|-4.0",60,Y,"Calculate inside parentheses, then the exponent, then divide","Parentheses: $-6 + 2 = -4$. Exponent: $(-4)^2 = 16$. Divide: $16 / (-4) = -4$."
+3,"Fill: Compute $-3 \cdot (4 - (-3)) + 12$.","-9|-9.0",60,Y,"Calculate inside the parentheses, then multiply, then add","Parentheses: $4 - (-3) = 7$. Multiply: $-3 \cdot 7 = -21$. Add: $-21 + 12 = -9$."
+4,"Fill: Compute $\frac{-6 + 14}{-4} - (-2)^2$.","-6|-6.0",60,Y,"Treat the fraction's numerator as being inside parentheses","Numerator: $-6 + 14 = 8$. Fraction: $8 / (-4) = -2$. Exponent: $(-2)^2 = 4$. Subtract: $-2 - 4 = -6$."
+5,"Fill: Compute $(-2)^3 \cdot (6 - 9) / (-6) + 5$.","1|1.0",60,Y,"Do parentheses and exponents first, then multiply/divide left to right, then add","$(6-9) = -3$; $(-2)^3 = -8$. $-8 \cdot (-3) = 24$; $24 / (-6) = -4$; $-4 + 5 = 1$."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Two vertical angles are formed when two lines intersect. If one angle measures (4x + 6)° and the other is 58°, find x.",13,60,Y,"Vertical angles are equal to each other.","4x + 6 = 58 → 4x = 52 → x = 13."
+2,"Angles A and B are complementary. Angle A is twice the size of Angle B. Fill in the blanks: Angle B is ___° and Angle A is ___°.","30, 60",60,Y,"Complementary angles add to 90. Set B = x and A = 2x.","x + 2x = 90 → 3x = 90 → x = 30. Angle A is 60."
+3,"Two intersecting lines form adjacent angles that are supplementary. If one angle is 124°, what is the measure of the adjacent angle?",56,60,Y,"Supplementary angles add to 180.","180 - 124 = 56."
+4,"A triangle must be constructed with one angle 65° and another angle 48°. What is the measure of the third angle?",67,60,Y,"A triangle's interior angles always sum to 180°.","180 - (65 + 48) = 67."
+5,"Can side lengths 4, 6, and 9 form a triangle?",Yes|yes|Y|y|1,60,Y,"Use the triangle inequality theorem: the sum of the two smaller sides must be greater than the third side.","4 + 6 > 9 (10 > 9), so yes."

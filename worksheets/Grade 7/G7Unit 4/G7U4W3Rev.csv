@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Compute: (−7/12) + (5/18). Give your answer as a fraction in simplest form.",-11/36,60,Y,"Find a common denominator of 36.","−7/12 = −21/36 and 5/18 = 10/36 → −21/36 + 10/36 = −11/36."
+2,"Compute −6.31 + (−2.24) + 11.6. Round to the nearest hundredth.",3.05,60,Y,"Group the negative terms first.","(-6.31 - 2.24) = -8.55; -8.55 + 11.6 = 3.05."
+3,"A hiker is at -280 meters, climbs 130 meters, then descends 70 meters. What is his final elevation? Enter only the number with no units.",-220,60,Y,"Add the climb, subtract the descent.","-280 + 130 - 70 = -220."
+4,"Which value is equivalent to (−5) − (−14) + (−6) using associative and commutative properties?",3,60,Y,"Rewrite: -5 + 14 - 6.","-5 + 14 = 9; 9 - 6 = 3."
+5,"Compute (−0.8) + (5/4) − 0.15. Give the decimal rounded to the nearest hundredth.",0.30|0.3,60,Y,"Convert all to decimals.","-0.8 + 1.25 - 0.15 = 0.30."

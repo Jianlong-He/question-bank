@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill in the blank to make the equation true: 9 − ___ = -6.",15,60,Y,"Think: 9 minus what gives a negative number? The number must be larger than 9.","9 - 15 = -6."
+2,"Fill in the blank to make the equation true: (-18) − ___ = -8.",-10,60,Y,"Subtracting a negative is like adding. -18 plus what is -8?","-18 - (-10) = -18 + 10 = -8."
+3,"Evaluate the expression: (-5) + (−(−9)).",4,60,Y,"The opposite of -9 is +9.","-5 + 9 = 4."
+4,"On a number line, a point is located 8 units to the right of -12. What is the number?",-4,60,Y,"Moving right means adding.","-12 + 8 = -4."
+5,"A point is 5 units left of -3 on a number line. What is the number?",-8,60,Y,"Moving left means subtracting.","-3 - 5 = -8."

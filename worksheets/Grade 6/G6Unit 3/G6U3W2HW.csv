@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A 10 by 10 grid has 100 small squares. If you shade 35 squares, what percent of the grid is shaded? Put the answer as 10%",35%,60,Y,"Percent means ""per 100""","35 out of 100 = 35%"
+2,"A square is divided into 100 equal parts. How many small squares should be shaded to show 57%?",57,60,Y,"Percent means ""per 100""","57% = 57/100, so 57 small squares are shaded"
+3,"A student shaded one whole grid and then 9 more small squares on a second grid. What percent is shaded in total? Put the answer as 10%",109%,60,Y,"One whole grid is 100%.","1 full grid is 100%, 9 more small squares is 9%. Total is 109%"
+4,"A bar is divided into 10 equal parts. 7 parts are shaded. What percent is shaded? Put the answer as 10%",70%,60,Y,"Write the fraction first. Then change it to a denominator of 100.","7/10 = 70/100 = 70%"
+5,"A rectangle is divided into 20 equal squares. 8 squares are shaded. What percent is shaded? Put the answer as 10%",40%,60,Y,"Write the fraction first. Then change it to a denominator of 100.","8/20 = 40/100 = 40%"

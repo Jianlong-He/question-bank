@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Different addition ways to make 10 5 + __ = 10, 4 + 4 + __ = 10, 2 + 2 + 2 + __ + 2 = 10","5, 2, 2002",240,Y,Try to fill the blanks so all the numbers add up to 10.,"5, 2, 2002"
+2,"Different multiplication ways to make 8 1 x __ = 8, 2 x __ = 8, 4 x __ = 8, 8 x __ = 8","8, 4, 2, 1",360,Y,These are the factors of 8 which are numbers that multiply together to make 8.,"8, 4, 2, 1"
+3,"Different multiplication ways to make 20 1 x __ = 20, 2 x __ = 20, 4 x __ = 20, 5 x __ = 20, 10 x __ = 20, 20 x __ = 20","20, 10, 5, 4, 2, 1",360,Y,These are the factors of 20 which are numbers that multiply together to make 20.,"20, 10, 5, 4, 2, 1"
+4,"Different multiplication ways to make 24 1 x __ = 24, 2 x __ = 24, 3 x __ = 24, 4 x __ = 24, 6 x __ = 24, 8 x __ = 24, 12 x __ = 24","24, 12, 8, 6, 4, 3, 2",360,Y,These are some factors of 24 which are numbers that multiply together to make 24.,"24, 12, 8, 6, 4, 3, 2"
+5,Which number has more multiplication ways 12 or 16,16,240,Y,"12: 1x12, 2x6, 3x4, 4x3, 6x2, 12x1 -> 6 facts. 16: 1x16, 2x8, 4x4, 8x2, 16x1 -> 5 facts.",16

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A shoe factory makes 24 pairs in 4 hours. If production stays proportional, how many hours does it take to make 6 pairs?",1,60,Y,"Use pairs/hour to set up a proportion.","Rate = 24/4 = 6 pairs/hour → 6 pairs takes 1 hour."
+2,"A painter uses 8 liters of paint to cover 40 m² of wall. Assuming proportionality, how many square meters can be covered with 1 liter?",5,60,Y,"Divide area by liters.","40/8 = 5 m² per liter."
+3,"A proportional relationship follows y = kx. If increasing x by 4 increases y by 36, what is the constant of proportionality k?",9,60,Y,"Use Δy = k·Δx.","36/4 = 9."
+4,"In a science experiment, the distance y that a spring stretches is proportional to the weight x attached. If 6 kg makes it stretch 15 cm, write y = kx. What is k?",2.5|5/2,60,Y,"Find stretch per kg.","15/6 = 2.5."
+5,"A worker is paid proportionally to the hours worked. After 8 hours, he earns $112. Write the equation E = kh. What is the value of k?",14,60,Y,"Income per hour = total/hours.","112/8 = 14."

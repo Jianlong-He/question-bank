@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"You know 3 x 50 = 150 and 150 x 2 = 300, what is 6 x 50?",300,240,Y,Associative property of multiplication. You can change the order of numbers,300
+2,"You know 4 x 3 = 12 and 3 x 12 = 36, what is 4 x 9?",36,240,Y,Associative property of multiplication,36
+3,What is 7 x 42? Use Associative or Distributive property to solve it,294,240,Y,Try to write 42 as 7 x 6 or 40 + 2; Distribution property of multiplication,294
+4,"You know 5 x 16 = 80, What is 10 x 8?",80,240,Y,Associative + commutative property of multiplication. Write 10 x 8 = 2 x 5 x 8,80
+5,"You know 3 x 9 = 27, 10 x 27 = 270, 6 x 9 = 54, what is 9 x 27?",243,240,Y,Distribution + Association property of multiplication; 9 x 27 = (9 x 9) x 3,243

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select. A triangle has base 6 cm and height 4 cm. A student says the area is 24 cm². Is the student correct?: Correct Wrong",Wrong,60,Y,"Don't forget the ½","Correct area = ½ × 6 × 4 = 12 cm². The student forgot to divide by 2"
+2,"A triangle has area 24 cm², height 4 cm. Find the base.",12|12 cm,60,Y,"Work backwards","24 = ½ × 4 × b -> 48 = 4b -> b = 12"
+3,"Select. A triangle has area 60 cm². Its height is 10 cm. A student says the base is 6 cm. Is the student correct?: Correct Wrong",Wrong,60,Y,"Check using the formula","½ × 6 × 10 = 30 ≠ 60, so wrong"
+4,"A triangle has area 66 cm² and base 12 cm. Find the height.",11|11 cm,60,Y,"Work backwards","66 = ½ × 12 × h -> 66 = 6h -> h = 11"
+5,"A triangle has base (x + 3) cm and height 4 cm. Its area is 20 cm². Find x.",7,60,Y,"Substitute into the formula","20 = ½ × (x + 3) × 4 -> 20 = 2(x + 3) -> 10 = x + 3 -> x = 7"

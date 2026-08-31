@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A coin is flipped and an eight-sided die is rolled. How many outcomes are in the compound sample space?",16,60,Y,"Multiply the number of outcomes for each event.","2 outcomes on coin × 8 outcomes on die = 16."
+2,"A spinner has 3 equal sections: Red, Blue, Green. It is spun twice. Fill in the blanks: The total number of outcomes is ___. The probability of getting Red both times is ___.","9, 1/9",60,Y,"Multiply the outcomes of each spin.","3 × 3 = 9. Red-Red is 1 outcome → 1/9."
+3,"A standard 6-sided die is rolled. Fill in the blanks: The probability of rolling a 3 is ___, and the probability of rolling an odd number is ___.","1/6, 1/2|0.5|3/6",60,Y,"Count the outcomes and divide by 6.","Only one 3 (1/6). Odds: 1, 3, 5 (3/6 = 1/2)."
+4,"A tree diagram shows three shirt colors (3 options) and two pant colors (2 options). What is the probability of choosing a blue shirt and white pants if all outcomes are equally likely?",1/6|0.17|16.7%,60,Y,"Use 1 desired outcome over all possible outcomes.","Total = 3 × 2 = 6 outcomes; desired = 1 → 1/6."
+5,"A sample of 50 customers shows that 20 bought coffee. What is the probability a randomly chosen customer bought coffee?",0.4|2/5|20/50|40%,60,Y,"Divide coffee buyers by total sample.","20/50 = 2/5 = 0.4."

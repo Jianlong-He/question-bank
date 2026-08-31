@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Two angles are supplementary. One angle is exactly 4 times the other. What is the measure of the smaller angle?",36,60,Y,"Let the smaller angle be x. The other is 4x. They add to 180.","x + 4x = 180 → 5x = 180 → x = 36."
+2,"Two lines intersect to form four angles. If one angle is 107°, what is the vertical angle to the 107° angle?",107,60,Y,"Vertical angles are equal.","The vertical angle matches the original angle → 107."
+3,"A triangle has angles measuring (2x)°, (4x)°, and 30°. What is the value of x?",25,60,Y,"The sum of angles in a triangle is 180°.","2x + 4x + 30 = 180 → 6x = 150 → x = 25."
+4,"Can side lengths 7, 8, and 13 form a triangle?",Yes|yes|Y|y|1,60,Y,"Check the triangle inequality: the sum of the two smaller sides must be greater than the largest side.","7 + 8 > 13 (15 > 13). This is true, so yes."
+5,"A triangular prism has a triangular base area of 15 and a height of 8. What is its volume?",120,60,Y,"Volume of a prism = base area × height.","15 × 8 = 120."

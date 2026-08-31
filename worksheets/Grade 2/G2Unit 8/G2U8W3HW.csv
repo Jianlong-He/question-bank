@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A rectangle is divided into 2 rows and 5 columns of same-sized squares. How many rows are there?",2|two,120,Y,Rows go across.,2
+2,"A rectangle is divided into 2 rows and 5 columns of same-sized squares. How many columns are there?",5|five,120,Y,Columns go up and down.,5
+3,"A rectangle is partitioned into 2 rows and 5 columns. How many total same-sized squares are there?",10,120,Y,Multiply rows and columns.,10
+4,"A rectangle is partitioned into 4 rows and 3 columns. How many total same-sized squares are there?",12,120,Y,Multiply rows and columns.,12
+5,"A rectangle has 6 columns with 2 squares in each column. How many same-sized squares are there?",12,240,Y,6 columns x 2 squares each.,12

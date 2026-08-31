@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill in the blank to make the equation true: ___ + 15 = -6.",-21,60,Y,"Subtract 15 from -6 to find the starting number.","-6 - 15 = -21."
+2,"Fill in the blank to make the equation true: (-4) − ___ = 9.",-13,60,Y,"You are starting at -4 and reaching a positive number. You must subtract a negative!","-4 - (-13) = -4 + 13 = 9."
+3,"Fill in the blank to make the equation true: 24 − ___ = -6.",30,60,Y,"You start at 24 and subtract to get below zero.","24 - 30 = -6."
+4,"Evaluate the expression: |-8| + (-17).",-9,60,Y,"Find the absolute value of -8 first.","8 + (-17) = 8 - 17 = -9."
+5,"A point is located 7 units to the right of -13 on a number line. What is the number?",-6,60,Y,"Moving right means adding.","-13 + 7 = -6."

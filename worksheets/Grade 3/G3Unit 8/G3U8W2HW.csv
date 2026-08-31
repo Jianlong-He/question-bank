@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Sarah bought 5 packs of stickers. Each pack has 6 stickers. Each friend gets 3 stickers. There were none left over. How many friends were there?,10,240,Y,Number of friends = Total stickers ÷ stickers per friend,10
+2,Tom swam 4 days. He swam 2 km each day. Jerry swam 8 more km than Tom. How many km did Jerry swim?,16,240,Y,Jerry's total swimming km = Tom's total running km + 8,16
+3,A garden has 30 plants. There are 6 rows. They add 3 plants per row. How many plants are there now?,48,240,Y,Total plants = new plants + previous plants,48
+4,What is 3 x (4 + 2) x 2 = ?,36,240,Y,Order of expressions: Brackets -> Multiply/Divide,36
+5,A bus has 40 seats. There are 5 rows. They add 2 seats per row. How many seats in the bus now?,50,240,Y,Total seats = new seats + previous seats,50

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select all choices that have an even number of stars : 🐦🐦🐦🐦🐦🐦, 🐦🐦🐦🐦🐦🐦🐦",🐦🐦🐦🐦🐦🐦,120,Y,Even numbers can be split into 2 equal groups,6 birds
+2,"Select all choices that have an odd number of apples: 🍍🍍🍍🍍 , 🍍🍍🍍🍍🍍🍍🍍",🍍🍍🍍🍍🍍🍍🍍,120,Y,Odd numbers have 1 left over when split into two groups,7 pineapples
+3,"Fill all the even numbers between 30 and 40. __, __, __, __","32,34,36,38",120,Y,Even numbers can be split into 2 equal groups,"32,34,36,38"
+4,A classroom has 22 kids. Can the teacher split the kids into two groups with no leftover? : Yes No,Yes,120,Y,22 split into 2 = 11 in each group,yes
+5,"Fill all the odd numbers between 40 and 50. __, __, __, __, __","41,43,45,47,49",120,Y,Odd numbers have 1 left over when split into 2,"41,43,45,47,49"

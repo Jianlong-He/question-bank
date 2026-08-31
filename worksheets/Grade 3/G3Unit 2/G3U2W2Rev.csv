@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,How many 1s to make 24?,24,240,Y,You need as many 1s as the number you want to make.,24
+2,How many groups of 5 are needed to make 20,4,240,Y,"This is asking 5 times what equals 20?. You can skip-count 5, 10, 15, 20.",4
+3,"Different ways to make 4 2 + __ = 4, 1 x __ = 4, 2 x __ = 4, 4 x __ = 4","2, 4, 2, 1",240,Y,Think about pairs of numbers that multiply or add together to make 4.,"2, 4, 2, 1"
+4,"Different ways to make 10 5 + 5 + __ = 10, 5 x __ = 10, 1 x __ = 10","2000, 2, 10",240,Y,Use addition or multiplication.,"2000, 2, 10"
+5,"Different ways to make 6 3 + __ = 6, 2 + 2 + __ = 6, 2 x __ = 6, 1 x __ = 6","3, 2, 3, 6",240,Y,Think about pairs of numbers that multiply or add together to make 6. Use skip-counting by 2.,"3, 2, 3, 6"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A bar graph of pages read shows: Monday 6, Tuesday 9, Wednesday 4, Thursday 5, Friday 11. How many pages were read on Friday?",11,120,Y,Find the Friday bar.,11
+2,"A bar graph of pages read shows: Monday 6, Tuesday 9, Wednesday 4, Thursday 5, Friday 11. Pages read on Tuesday and Thursday total = ____",14,120,Y,Add Tuesday (9) and Thursday (5),14
+3,"A bar graph of pages read shows: Monday 6, Tuesday 9, Wednesday 4, Thursday 5, Friday 11. How many MORE pages were read on Friday than Wednesday?",7,120,Y,Subtract 11 - 4,7
+4,"Select all days with MORE than 5 pages read: Monday Tuesday Wednesday Thursday Friday","Monday,Tuesday,Friday",240,Y,Check each day: is it more than 5?,"Monday,Tuesday,Friday"
+5,"A bar graph of pages read shows: Monday 6, Tuesday 9, Wednesday 4, Thursday 5, Friday 11. How many pages were read on Monday, Wednesday, and Friday altogether?",21,240,Y,Add all three 6 + 4 + 11,21

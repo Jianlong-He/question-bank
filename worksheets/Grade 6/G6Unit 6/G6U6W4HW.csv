@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select. What happens to 56 - x as x increases? : decreases increases no-change",decreases,60,Y,"You are subtracting a bigger number","As x gets larger, you subtract more -> result gets smaller -> decreases"
+2,"Select. What happens to 27 + x as x increases? : decreases increases no-change",increases,60,Y,"You are adding a bigger number","As x gets larger, you add more -> result gets larger -> increases"
+3,"Select. What happens to the fraction z/40 as z increases (z always positive)? : decreases increases no-change",increases,60,Y,"Numerator is larger","Numerator gets larger -> result gets larger -> increases"
+4,"Select. What happens to the fraction 20/z as z increases (z always positive)? : decreases increases no-change",decreases,60,Y,"You are dividing by a bigger number","Denominator gets larger -> result gets smaller -> decreases"
+5,"Convert 10˚C to Fahrenheit using F = (9/5)C + 32",50,60,Y,"Substitute C = 10","F = (9/5)(10) + 32 = 18 + 32 = 50"

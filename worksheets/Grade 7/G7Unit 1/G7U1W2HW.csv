@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A spool of wire costs $24 for 16 meters. Assuming a proportional relationship, how much does 1 meter cost?",1.5|3/2,60,Y,Use cost per meter = total ÷ meters.,24/16 = 1.5 dollars per meter.
+2,A train travels 96 km in 4 hours at a constant rate. Determine the constant of proportionality (km per hour).,24,60,Y,Divide distance by time.,96/4 = 24.
+3,An equation shows a proportional relationship: y = 13x. What is the constant of proportionality?,13,60,Y,It is the coefficient of x.,k = 13.
+4,"In a proportional table, x = 6 produces y = 21. Find the value of k.",3.5|7/2,60,Y,k = y ÷ x.,21/6 = 3.5.
+5,Two typists work at constant rates. Typist A types 350 words in 5 minutes. Typist B types 420 words in 7 minutes. Who types faster? Enter 1 for A or 2 for B.,1,60,Y,Compare words per minute.,A: 350/5 = 70 words/min; B: 420/7 = 60 words/min. A is faster → answer 1.

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select. A student cuts a shape and rearranges it into a rectangle but says the area changes. Is the student correct?: Right Wrong",Wrong,60,Y,"Think about cutting vs removing","Rearranging does not add or remove area -> stays the same"
+2,"A rectangle has length 7 and height 4. Find its area.",28,60,Y,"What is the formula of rectangle area?","Rectangle area = 7 x 4 = 28"
+3,"A triangle has base 12 and height 5. Find its area.",30,60,Y,"What is the formula of triangle area?","½ x 12 x 5 = 30"
+4,"A shape can be rearranged into a rectangle with height 5 units and width 7 units. What is its area?",35,60,Y,"Same shape after rearranging","Shape area = rectangle area = 5 x 7 = 35"
+5,"A shape consists of a rectangle (area 25) and a triangle (area 12). What is the total area?",37,60,Y,"Add the parts","25 + 12 = 37"

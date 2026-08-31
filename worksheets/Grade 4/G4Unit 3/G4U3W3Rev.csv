@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill 4 x 30 = __ and 4 x 8 = __ , so 4 x 38 = __","120,32,152",300,Y,Calculate 4 x 30 and 4 x 8 and add the results,"120,32,152"
+2,What is 43 x 5?,215,120,Y,Break 43 into 40 + 3;Multiply 5 by each part,215
+3,A community garden in Edmonton is 47 meters long and 8 meters wide. What is the area of the garden?,376,300,Y,Area = length x width;Break 47 into tens and ones and multiply each by 8,376
+4,Fill Rectangle 146 by 4 = (100 x 4) + (40 x 4) + (__ x __) = 400 + 160 + __,"6,4,24",300,Y,Break 146 into 100 + 40 + 6,"6,4,24"
+5,Select all ways to find the area of a 49 by 6 rectangle: (40x6)+(9x6) (50x6)-(1x6) (30x6)+(19x6) 294,"(40x6)+(9x6) ,(50x6)-(1x6),294",300,Y,Test each way to break 49;Calculate 49 x 6,"(40x6)+(9x6) ,(50x6)-(1x6),294"

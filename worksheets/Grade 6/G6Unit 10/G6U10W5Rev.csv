@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A box has: Height = 20 cm, Width = 15 cm, Depth = 5 cm. What is the area of the top face (width x depth)? Put the answer without units",75|75 cm²,60,Y,"Which face is the top face?","15 x 5 = 75 cm²"
+2,"A rectangular prism has: Length = 8 cm, Width = 4 cm, Height = 3 cm. What is the total surface area?",136|136 cm²,60,Y,"Get the area of each surface first","2 x (8x4 + 8x3 + 4x3) = 2 x 68 = 136 cm²"
+3,"A square prism net has a square base with side = 6 cm, and 4 equal triangles with base = 6 cm, height = 9 cm. What is the total area? Put the answer without units",144|144 cm²,60,Y,"Get the area of each surface first","Base = 36, triangles = 6 x 9 x (1/2) x 4 = 108. Total = 144 cm²"
+4,"A square pyramid net has a square base with side = 3 cm and 4 triangles with base = 3 cm, height = 5 cm. What is the surface area?",39|39 cm²,60,Y,"Get the area of each surface first","Base = 9, triangles = 3 x 5 x (1/2) x 4 = 30. Total = 39 cm²"
+5,"A rectangular box net folds into a box with faces 10x6, 10x4 and 6x4 (each appearing twice). What is the total surface area?",248|248 cm²,60,Y,"Add the areas of all faces","(10x6 + 10x4 + 6x4) x 2 = (60 + 40 + 24) x 2 = 248 cm²"

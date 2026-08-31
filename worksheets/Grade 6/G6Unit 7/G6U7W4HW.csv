@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve 5y = 45 and find the value of y",9,60,Y,"To undo ""times 5"", divide by 5.","Divide both sides by 5: y = 45/5 = 9"
+2,"Solve 3y + 2y = 25 and find the value of y",5,60,Y,"Combine like terms first.","3y+2y=5y, then y = 25/5 = 5"
+3,"Solve m/4 = 12 and find the value of m",48,60,Y,"To undo ""divided by 4"", multiply by 4.","m = 12 * 4 = 48"
+4,"Solve m/6 = 8 and find the value of m",48,60,Y,"To undo ""divided by 6"", multiply by 6.","m = 8 * 6 = 48"
+5,"Solve 1.5c = 0.6 and find the value of c",0.4|2/5,60,Y,"To undo ""times 1.5"", divide both sides by 1.5.","c = 0.6/1.5 = 0.4"

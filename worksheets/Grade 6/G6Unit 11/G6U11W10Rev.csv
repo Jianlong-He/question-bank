@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select. What does Average Deviation from the Mean (MAD) measure?: The-average The-total How-spread-out-the-data-is The-largest-number",How-spread-out-the-data-is,60,Y,"Think about distances from the mean","MAD tells us how far data points are from the mean"
+2,"Two data sets both have mean = 6. Which one has larger Mean Average Deviation (MAD)?: A [5,6,7] B [1,6,11] Answer A or B",B|b,60,Y,"Which is more spread out?","Set B values are farther from 6 -> larger MAD"
+3,"Data: 3, 9, 4, 8. Find Average Deviation from the Mean (MAD).",2.5|5/2|10/4|2 1/2,60,Y,"Find the mean first, then distances, then MAD","Mean = 6, distances: 3, 3, 2, 2. MAD = (3+3+2+2) ÷ 4 = 2.5"
+4,"Data: 14, 6, 11, 9. Find Average Deviation from the Mean (MAD).",2.5|5/2|10/4|2 1/2,60,Y,"Find the mean first, then distances, then MAD","Mean = 10, distances: 4, 4, 1, 1. MAD = (4+4+1+1) ÷ 4 = 2.5"
+5,"Data: 7, 3, 14, 12. Find Average Deviation from the Mean (MAD).",4,60,Y,"Find the mean first, then distances, then MAD","Mean = 9, distances: 2, 6, 5, 3. MAD = (2+6+5+3) ÷ 4 = 4"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A bar graph of favorite fruits shows: Apples 8, Bananas 12, Grapes 5, Oranges 7. How many children chose bananas?",12,120,Y,Find the bananas bar.,12
+2,"A bar graph of favorite fruits shows: Apples 8, Bananas 12, Grapes 5, Oranges 7. How many MORE children chose bananas than grapes?",7,120,Y,Subtract 12 - 5,7
+3,"Select. A bar graph of favorite fruits shows: Apples 8, Bananas 12, Grapes 5, Oranges 7. Which fruit is the MOST popular?: Apples Bananas Grapes Oranges",Bananas,120,Y,Look for the biggest number (longest bar),Bananas
+4,"A bar graph of favorite fruits shows: Apples 8, Bananas 12, Grapes 5, Oranges 7. How many children in total chose apples and oranges?",15,120,Y,Add 8 + 7,15
+5,"Select all fruits with MORE than 6 votes: Apples Bananas Grapes Oranges","Apples,Bananas,Oranges",240,Y,Check each fruit: is it more than 6?,"Apples,Bananas,Oranges"

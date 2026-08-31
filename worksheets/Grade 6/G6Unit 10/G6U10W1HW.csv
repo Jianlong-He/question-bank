@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"How many faces does a rectangular prism (a box) have?",6,60,Y,"Count all flat surfaces (including the bottom).","A box has 6 faces: top, bottom and 4 sides"
+2,"Select the correct option. An edge is: A-flat-surface A-line-where-faces-meet A-corner",A-line-where-faces-meet,60,Y,"Faces, edges and corners are different parts of a solid.","An edge is a line where two faces meet"
+3,"How many edges does a cube have?",12,60,Y,"Edges are lines where two faces meet.","A cube has 12 edges"
+4,"Select. Which shape has only rectangles as faces?: Triangular-prism Sphere Cylinder Rectangular-prism",Rectangular-prism,60,Y,"Think of a box.","A rectangular prism: all faces are rectangles"
+5,"Which shape has: 2 circular faces and 1 curved surface?",Cylinder|cylinder,60,Y,"Looks like a can.","A cylinder has 2 circular faces and 1 curved surface"

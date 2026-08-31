@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write an expression for: ""y decreases by 8""",y-8|y - 8,60,Y,"Order matters in subtraction","y - 8"
+2,"Write an expression for: ""y less than 12""",12 - y|12-y,60,Y,"Order matters in subtraction","""y less than 12"" is 12 - y"
+3,"Which phrase matches 15 - x? (A) x less than 15 (B) 15 less than x. Put the answer as A or B",A,60,Y,"Order matters in subtraction","""x less than 15"" is 15 - x"
+4,"A student has m candies and gets 7 more, then gives away 3. Write an expression for how many candies the student has",m + 7 - 3|m+7-3|m+4|m + 4,60,Y,"Step-by-step write the expression","Start with m then +7 then −3 -> m + 7 - 3"
+5,"Write an expression for: ""5 times the sum of m plus 2""",5(m+2)|5 x (m + 2)|5 * (m + 2)|5x(m+2)|5*(m+2)|5 (m + 2),60,Y,"Get the sum first","The sum of m plus 2 is (m+2), then multiply by 5 -> 5(m+2)"

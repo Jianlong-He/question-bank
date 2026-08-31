@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A juice stand uses a lemon–water mixture in a constant ratio. For every 10 cups of water, it uses 15 lemons. How many lemons are needed for 1 cup of water?",1.5|3/2,60,Y,"Lemons/water gives the unit ratio.","15/10 = 1.5 lemons per cup."
+2,"The temperature inside a freezer drops in direct proportion to time. After 5 hours, it has dropped 35°C. Write D = kt, where D is the drop after t hours. What is k?",7,60,Y,"k = drop/time.","35/5 = 7 degrees per hour."
+3,"A machine fills jars with jam at a constant rate. It fills 72 jars in 8 minutes. If the relationship is proportional, how many jars does it fill in 1 minute?",9,60,Y,"Use jars/minute rate.","72/8 = 9."
+4,"In the equation y = kx, when x increases by 1, y increases by 17. What is the value of k?",17,60,Y,"In a proportional relationship, k is the amount y changes when x increases by 1.","If x increases by 1 and y increases by 17, then k = 17."
+5,"A recipe uses the equation w = 2.5f, where w is cups of water and f is cups of flour. Fill in the blanks: The constant of proportionality is ___. If you use 4 cups of flour, you need ___ cups of water.","2.5|5/2, 10",60,Y,"The constant is the number multiplied by f. Substitute f = 4 to find w.","k = 2.5. w = 2.5 × 4 = 10 cups of water."

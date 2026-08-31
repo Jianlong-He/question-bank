@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Skip count by 5s. What number comes after 105?,110,120,Y,Add 5 to 105.,110
+2,"Fill in the blanks by counting by 5s. 50, 55, 60, __, 70, __, __, 85","65, 75, 80",120,Y,Each number is 5 more than the one before.,"65,75,80"
+3,Count by 10s starting at 120. What are the three numbers that come next 120 130...,"140, 150, 160",120,Y,"Add 10 to 130, then add 10 again, then add 10 one more time.","140,150,160"
+4,"Fill in the blanks by counting by 10s. 350, __, __, 380","360, 370",120,Y,"Add 10 to 350, add 10 again to get to 370","360,370"
+5,Select all numbers we get when skip counting by 5s from 40 to 60 : 40 43 45 50 53 55 60,"40, 45, 50, 55, 60",240,Y,Numbers in skip counting by 5s end in 0 or 5,"40,45,50,55,60"

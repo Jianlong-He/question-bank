@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A scaled copy has a side of length 32. The corresponding side in the original is 8. What is the scale factor?",4,60,Y,"Divide the scaled side by the original side.","32/8 = 4."
+2,"A shape has original sides 4, 8, and 16. Another shape has sides 5, 10, and 20. Fill in the blanks: The scale factor for all sides is ___, so are these scaled copies? (Enter Yes or No)","1.25, Yes|yes|Y|y",60,Y,"Check if all sides increase by the same factor.","4×1.25=5, 8×1.25=10, 16×1.25=20. All match, so Yes."
+3,"On a map, 2.5 cm represents 20 km. How many kilometers does 7 cm represent?",56,60,Y,"Find km per cm, then multiply.","20/2.5 = 8 km per cm → 8 × 7 = 56."
+4,"A scale model uses the conversion 1 cm = 0.02 km. How many kilometers are represented by 45 cm?",0.9|9/10,60,Y,"Multiply centimeters by km-per-cm.","45 × 0.02 = 0.9."
+5,"A hiker travels 9.6 km. A map uses a scale where 1 cm = 0.24 km. How many centimeters should represent the hiker's route?",40,60,Y,"Divide kilometers by km-per-centimeter.","9.6/0.24 = 40."

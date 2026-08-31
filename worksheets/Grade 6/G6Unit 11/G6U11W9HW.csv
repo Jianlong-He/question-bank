@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A box plot has minimum 40 and maximum 220. What is the range of the data?",180,60,Y,"Range = maximum - minimum","220 - 40 = 180"
+2,"Two growing conditions are compared. Condition A: heights from 12 to 20. Condition B: heights from 9 to 23. Which condition has the larger range?",B|Condition B|condition b|Condition b,60,Y,"Range = max - min","A: 20 − 12 = 8. B: 23 − 9 = 14. So B has a larger range"
+3,"Select. Condition A's box (Q1 to Q3) spans 6 units; Condition B's box spans 3 units. Which condition has more consistent values?: Condition-A Condition-B",Condition-B,60,Y,"Less spread means more consistent","Condition B has a smaller box -> less spread -> more consistent"
+4,"Classroom A's median test score is 78; Classroom B's median is 72. Which classroom has the higher median test score?",A|Classroom A|classroom a|Classroom a|classroom A,60,Y,"Compare the medians","78 > 72 -> Classroom A"
+5,"Classroom A's scores go from 55 to 92; Classroom B's from 60 to 85. Which classroom has a larger range?",A|Classroom A|classroom a|Classroom a|classroom A,60,Y,"Range = max − min","A: 92 - 55 = 37. B: 85 - 60 = 25. Classroom A"

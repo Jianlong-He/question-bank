@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is |–23|?",23,60,Y,"Absolute value means distance from zero.","–23 is 23 units away from 0. So |–23| = 23"
+2,"Select, Which pair has the same absolute value? (A) -48 and 84 (B) 36 and -63 (C) -52 and 52 : A B C",C,60,Y,"Get the absolute values of each pair","|-52| = 52 = |52|"
+3,"What is -|-4581|?",-4581,60,Y,"Take the absolute value first, then apply the negative sign.","-|-4581| = -4581"
+4,"Select, Which pair has the same value? (A) -|95| and |95| (B) -62 and -|-62| (C) -(18) and |-18| : A B C",B,60,Y,"Absolute value means distance from zero.","-|-62| = -62, so B"
+5,"The top of a building is at +112 m. The basement is at -25 m. How much total vertical distance is there between them?",137,60,Y,"Think about distance above and below zero.","|112 - (-25)| = 137"

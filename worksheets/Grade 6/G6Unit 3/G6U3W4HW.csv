@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What number is 30% of 40?",12,60,Y,"Convert percent to a decimal.","30% = 0.30, 0.30 x 40 = 12"
+2,"What number is 50% of 46?",23,60,Y,"Convert percent to a decimal.","50% = 0.50, 0.50 x 46 = 23"
+3,"Select. Which expression is equal to 4% of 300? : 0.004x300 0.04x300 0.4x300",0.04x300,60,Y,"Convert the percent to a decimal.","4% = 0.04"
+4,"A jacket costs 80 CAD. A store gives a 20% discount. How much money is taken off the price?",16|16 CAD,60,Y,"Taking off = decrease; Find 20% of 80","20% = 0.20, 0.20 x 80 = 16 CAD"
+5,"A school has 600 students. 40% of them walk to school. How many students walk to school?",240,60,Y,"Convert the percent to a decimal and multiply.","40% = 0.4, 0.4 x 600 = 240"

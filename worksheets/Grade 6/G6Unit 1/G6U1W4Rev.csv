@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write 35:56 as a fraction in simplest form","5/8",60,Y,"Divide by 7","5/8"
+2,"Compare 7:10 and 5:8. Which is larger? (write 7:10 or 5:8)","7:10",60,Y,"Use cross-multiplication to compare","7×8=56 > 10×5=50, so 7:10"
+3,"A smoothie uses fruit:water = 3:2. For 20 cups total, fruit cups?","12",60,Y,"3+2=5 parts; 20 ÷ 5 = 4; fruit 3×4","12"
+4,"If a class has 16 boys and 20 girls, write boys:girls in simplest form","4:5",60,Y,"16:20 divide by 4","4:5"
+5,"Rate: 210 miles in 3.5 hours (mph)","60",60,Y,"210 ÷ 3.5","60"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A submarine ascends by removing 4 groups of negative-depth markers, each representing −6 meters. Fill in the blanks: The math expression is -4 × ___, so the depth changes by ___ meters.","-6, 24",60,Y,"Removing negatives adds positives.","-4 × (-6) = +24."
+2,"A hiker descends 4 meters each minute for −5 minutes (moving backward in time). How many meters of descent is undone? Enter only the number with no units.",20,60,Y,"Negative time reverses direction.","-5 × -4 = 20."
+3,"Compute (−3/8) + (1/2) − (−1/4). Simplify your answer before entering it.",3/8|0.375,60,Y,"Convert to eighths and combine.","-3/8 + 4/8 + 2/8 = 3/8."
+4,"Compute (−5/12) ÷ (−10/3). Simplify your answer before entering it.",1/8|0.125,60,Y,"Multiply by the reciprocal.","5/12 × 3/10 = 15/120 = 1/8."
+5,"Compute the value of 2 1/2 ÷ (−5/4). Simplify your answer before entering it.",-2,60,Y,"Convert the mixed number then divide.","2.5 ÷ -1.25 = -2."

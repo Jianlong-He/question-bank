@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Simplify the rational expression: (3/4)x + (1/4)x − 5 when x = 8. Enter only the number with no units.",3,60,Y,"Multiply each part by x, then combine and subtract 5.","(3/4)×8 = 6 and (1/4)×8 = 2. Then 6 + 2 − 5 = 3."
+2,"Factor the binomial 18k + 12 then evaluate when k = 2. Enter only the number with no units.",48,60,Y,"Factor out the greatest common factor 6.","18k + 12 = 6(3k + 2). Substitute k = 2: 18(2) + 12 = 48."
+3,"Simplify using distribution and negatives: −3(6 − x) − 4x when x = −1.",-17,60,Y,"Distribute −3, then combine x-terms.","−3(6 − x) = −18 + 3x. Then −18 + 3x − 4x = −18 − x. Substitute x = −1: −18 + 1 = −17."
+4,"Interpret and evaluate: “Four times a number, decreased by 9” when the number is 6. Enter only the number with no units.",15,60,Y,"Translate the phrase into an expression.","Four times the number: 4(6) = 24. Subtract 9: 24 − 9 = 15."
+5,"Write and evaluate the expression: “A number increased by 5, then tripled,” when the number is 3. Enter only the number with no units.",24,60,Y,"Translate as 3(x + 5).","3 + 5 = 8, and tripled: 3 × 8 = 24."

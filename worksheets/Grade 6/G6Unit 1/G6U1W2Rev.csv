@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"In a smoothie, fruit to yogurt is 4:3. If fruit is 16 cups, yogurt cups?","12",60,Y,"Scale by 4","4→16 is ×4; 3×4 = 12"
+2,"Write 20:28 as a fraction in simplest form","5/7",60,Y,"Divide by 4","5/7"
+3,"Compare 4:5 and 6:8. Which is larger? (write 4:5 or 6:8)","4:5",60,Y,"Use cross-multiplication to compare","4×8=32 > 5×6=30, so 4:5"
+4,"If 63 tickets are shared 2:5, how many go to the first group?","18",60,Y,"2+5=7 parts; 63 ÷ 7 = 9; 2×9","18"
+5,"Rate: 150 miles in 3 hours. Speed (mph)?","50",60,Y,"Divide miles by hours","150 ÷ 3 = 50"

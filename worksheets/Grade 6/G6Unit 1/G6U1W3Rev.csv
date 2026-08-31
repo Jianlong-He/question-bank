@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write 24 to 60 as a fraction in simplest form","2/5",60,Y,"24/60 reduces by 12","2/5"
+2,"Compare 5:8 and 4:7. Which is larger? (write 5:8 or 4:7)","5:8",60,Y,"Cross-multiply 5×7=35, 8×4=32","5:8"
+3,"A recipe uses ratio 4:3 (water:juice). If juice is 12 cups, water cups?","16",60,Y,"Find the scale factor from 3 to 12; apply to 4","3→12 is ×4; 4×4 = 16"
+4,"If 60 points are shared 1:2:3, how many for the largest share?","30",60,Y,"1+2+3=6; each part=10; largest=3×10","30"
+5,"Rate: 320 km in 4 hours (km/h)","80",60,Y,"Divide distance by time","320 ÷ 4 = 80"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A rectangle is 3/5 m tall and 4/7 m wide. Find the area. Give your answer as a fraction only, no units.",12/35,60,Y,"Rectangle area = height x width","(3/5) x (4/7) = 12/35"
+2,"Select. When a rectangle's height and width are measured in meters (m), what unit should the area be measured in? : meters square-meters",square-meters,60,Y,"Meters x meters = square meters",square-meters
+3,"If a rectangle is split into 4 equal rows and 7 equal columns, how many equal small rectangles are there in total?",28,60,Y,"Total parts = number of rows x number of columns",28
+4,"A rectangle is 3 m tall and 4 m wide. It is split into 5 equal rows (tall) and 8 equal columns (wide). What are the height and width of each small rectangle? Give your answers as fractions only, no units.","3/5, 4/8|1/2",60,Y,"Divide total height by number of rows, divide total width by number of columns.","3/5, 4/8 = 1/2"
+5,"A 1 m x 1 m large square is divided into several equal rectangles. If each small rectangle is 1/24 of the whole square, what is the area of one small rectangle in square meters? Give your answer as a fraction only, no units.",1/24,60,Y,"The area of the large square is 1, so divide by the number of small rectangles.",1/24

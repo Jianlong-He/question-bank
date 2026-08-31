@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill 98 divided by 7 = __,14,300,Y,"Use long division divide 9 by 7, write the quotient on top, multiply and subtract, then bring down the next digit.",14
+2,Fill 96 divided by 6 = __,16,300,Y,"Use long division divide 9 by 6, write the quotient digit, multiply and subtract, then bring down the 6 ones.",16
+3,Fill 84 divided by 3 = __,28,300,Y,"Use long division divide 8 by 3, write the quotient digit, multiply and subtract, then bring down the 4 ones.",28
+4,Fill 72 divided by 4 = __,18,300,Y,"Use long division divide 7 by 4, subtract, then bring down the 2 and divide again to get the next digit.",18
+5,Fill 486 divided by 3 = __,162,600,Y,"Use long division start with the hundreds digit, then divide the tens, then the ones, each time multiply, subtract.",162

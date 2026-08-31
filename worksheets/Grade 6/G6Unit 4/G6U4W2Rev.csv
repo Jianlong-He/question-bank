@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is 0.6² + 1.4?",1.76,60,Y,"Follow order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","0.6² = 0.36, 0.36 + 1.4 = 1.76"
+2,"What is (3/5)³?",27/125,60,Y,"Multiply numerator by numerator, denominator by denominator.","(3/5)³ = 27/125"
+3,"Select, which is greater, (A) 0.8² or (B) (3/4)² : A B",A,60,Y,"Compute each and convert both to decimals to compare","0.8² = 0.64, (3/4)² = 9/16 = 0.5625. A is greater"
+4,"What is (2/7)² × 3?",12/49|(12/49),60,Y,"Follow order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","(2/7)² x 3 = (4/49) x 3 = 12/49"
+5,"What is 0.5² + (1/2)²? Answer as a fraction or decimal",0.5|1/2,60,Y,"Compute each exponent, then add.","0.5² = 0.25 and (1/2)² = 1/4 = 0.25. 0.25 + 0.25 = 0.5"

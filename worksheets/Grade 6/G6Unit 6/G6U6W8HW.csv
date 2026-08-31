@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the Least Common Multiplier (LCM) of 8 and 10.",40,60,Y,"List multiples of both numbers","Multiples of 8: 8, 16, 24, 32, 40. Multiples of 10: 10, 20, 30, 40. Smallest common = 40"
+2,"Find the Least Common Multiplier (LCM) of 2, 3 and 5.",30,60,Y,"Try multiples","2, 3 and 5 are all prime, so LCM = 2 x 3 x 5 = 30"
+3,"Find the Least Common Multiplier (LCM) of 4, 6 and 8.",24,60,Y,"Check common multiples","Multiples of 8: 8, 16, 24. 24 is divisible by 4 and 6 too. LCM = 24"
+4,"Find the Least Common Multiplier (LCM) of 10 and 12 using Prime Factorization.",60,60,Y,"Get the prime factors of both numbers first then combine","10 = 2 * 5, 12 = 2^2 * 3, LCM = 2^2 * 3 * 5 = 60"
+5,"Three buses arrive every 4, 6, and 8 minutes. If they start at the same time, when will they arrive together again?",24,60,Y,"Find LCM","LCM(4, 6, 8) = 24"

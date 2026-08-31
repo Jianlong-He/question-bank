@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is 1% of 654?",6.54,60,Y,"Convert percent to a decimal or fraction","1% = 0.01, 654 x 0.01 = 6.54"
+2,"What is 25% of 88?",22,60,Y,"Convert percent to a decimal or fraction","25% = 1/4, 88 / 4 = 22"
+3,"What percent of 20 is 8? Put the answer as 5%",40%,60,Y,"Write the fraction 8/20.","8/20 = 2/5 = 40/100 = 40%"
+4,"What percent of 40 is 10? Put the answer as 5%",25%,60,Y,"Write the fraction 10/40.","10/40 = 1/4 = 25/100 = 25%"
+5,"A student got 21 questions correct, which is 70% of the test. How many questions were on the test?",30,60,Y,"70% x total = 21, what is total?","total = 21 / 0.7 = 30"

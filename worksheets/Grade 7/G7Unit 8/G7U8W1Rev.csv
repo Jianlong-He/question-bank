@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A pentagon has sides 4, 8, and 12. A copy has sides 6, 12, and 18. Fill in the blanks: The scale factor for all sides is ___, so is this a scaled copy? (Enter Yes or No)","1.5, Yes|yes|Y|y",60,Y,"Check if all corresponding sides multiply by the same factor.","4×1.5=6, 8×1.5=12, 12×1.5=18. All match, so Yes."
+2,"On a map, 1.5 cm represents 12 km. How many kilometers does 4 cm represent? Enter only the number.",32,60,Y,"Find km per cm, then multiply by 4.","12/1.5 = 8 km per cm → 8 × 4 = 32."
+3,"A scale drawing uses the ratio 1:40. If an object is 220 units in real life, what is its length in the drawing?",5.5|11/2|5 1/2,60,Y,"Divide real length by scale ratio.","220/40 = 5.5."
+4,"A model uses the conversion 1 cm = 0.05 km. How many kilometers does 14 cm represent?",0.7|7/10,60,Y,"Multiply centimeters by 0.05.","14 × 0.05 = 0.7."
+5,"A cyclist rides 6 km. Using a map scale of 1 cm = 0.25 km, how many centimeters should represent the trip?",24,60,Y,"Divide kilometers by km-per-centimeter.","6/0.25 = 24."

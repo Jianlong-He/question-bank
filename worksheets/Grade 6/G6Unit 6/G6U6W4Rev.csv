@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select. What happens to fraction (7y)/(2y) as y increases (non-zero)? : decreases increases no-change",no-change,60,Y,"Simplify first","(7y)/(2y) = 7/2, which is a constant -> no-change"
+2,"Select. What happens to 25/y + 3 as y decreases (y always positive)? : decreases increases no-change",increases,60,Y,"You are dividing by a smaller number","Denominator gets smaller -> result gets larger -> increases"
+3,"Convert 15˚C to Fahrenheit using F = (9/5)C + 32",59,60,Y,"Substitute C = 15","F = (9/5)(15) + 32 = 27 + 32 = 59"
+4,"Select. Given F = (9/5)C + 32. If temperature(C) decreases, what happens to Fahrenheit (F)? : decreases increases no-change",decreases,60,Y,"Look at the formula","C decreases -> F decreases"
+5,"Select. Which one stays the same? : 9t-t (6m)/(2m) (4z)/(z^2)",(6m)/(2m),60,Y,"Simplify first","9t-t = 8t, (6m)/(2m) = 3 is a constant, (4z)/(z^2) = 4/z. So (6m)/(2m)"

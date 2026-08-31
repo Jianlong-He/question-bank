@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A vine grows 36 cm in 6 weeks at a constant rate. What is the proportionality constant representing centimeters grown per week?",6,60,Y,"Use growth ÷ time.","36/6 = 6 cm per week."
+2,"A proportional relationship is described by y = 3.6x. What is the constant of proportionality?",3.6|18/5,60,Y,"The constant is the multiplier of x.","k = 3.6."
+3,"In a proportional table, x = 12 produces y = 30. Find the value of k.",2.5|5/2,60,Y,"k = y ÷ x.","30/12 = 2.5."
+4,"Recipe A uses 24 g of sugar for 8 g of flour. Recipe B uses 20 g of sugar for 10 g of flour. Which recipe has the greater sugar-to-flour ratio? Enter 1 for A or 2 for B.",1,60,Y,"Find sugar ÷ flour for each recipe.","A: 24/8 = 3. B: 20/10 = 2. Recipe A has the greater ratio → answer 1."
+5,"A drone flies according to y = 8x, where x is seconds and y is distance in meters. How many meters does the drone travel per second?",8,60,Y,"k represents meters per second.","The drone moves 8 meters every second."

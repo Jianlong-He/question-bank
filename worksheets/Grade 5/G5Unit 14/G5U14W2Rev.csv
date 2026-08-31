@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,How many feet are in 1 yard?,3|3 feet,240,Y,1 yard = 3 feet,"3|3 feet -> 1 yard = 3 feet. Remember it, very important"
+2,Convert 3 feet to inches.,36|36 inches,240,Y,1 foot = 12 inches,"36|36 inches -> 1 foot = 12 inches, so 3 feet = 36 inches. Remember it, very important"
+3,"Select the most reasonable unit to measure the weight of a bicycle. Given that, A slice of bread has a weight of about 1 ounce. A soccer ball has a weight of about 1 pound :ounces(oz) pounds(lb)",pounds(lb),240,Y,A bicycle is heavy,pounds(lb) -> A bicycle is heavy. 1 pound = 16 ounces
+4,How many ounces (oz) are in 2 pounds (lb)?,32|32 ounces,240,Y,1 pound = 16 ounces,32|32 ounces -> 1 pound = 16 ounces. So 2 pounds = 2 x 16 = 32 ounces
+5,A wood board is 6 feet 2 inches long. Another board is 4 feet 8 inches long. How many inches longer is the first board than the second board?,18|18 inches,360,Y,Change both lengths into inches first. 1 foot = 12 inches,18|18 inches -> 6 feet 2 inches = 6x12+2 = 74 inches. 4 feet 8 inches = 4x12+8 = 56 inches. 74-56=18 inches

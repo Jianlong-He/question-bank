@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A car travels 90 km at a constant speed v km/h. Write an equation relating time t, speed v, and distance.",90=vt|90 = vt|90 = tv|90=tv|vt = 90|vt=90|tv=90|tv = 90,60,Y,"Distance = rate x time","Distance = rate x time. So 90 = vt"
+2,"Given the equation of distance d, time t and rate v: d = vt, solve for rate v. (What is the equation of v?)",v = d/t|v=d/t,60,Y,"Divide both sides by t","v = d/t"
+3,"Given the equation of distance d, time t and rate v: d = vt, if distance is 150 km, rate is 50 km/h, what is the time t?",3|3h|3 h,60,Y,"Substitute","t = 150/50 = 3 h"
+4,"Select. If v doubles in w = (2/5)v, what happens to w?: w-unchanges w-doubles w-half",w-doubles,60,Y,"w and v have a linear relationship. Try v = 5 and v = 10","v doubles -> w doubles too"
+5,"A bike travels 12 km per hour for t hours. Write an equation for the distance in terms of speed and time. Let ""d"" be the distance and ""t"" be the time",d = 12t|d=12t|12t = d|12t=d,60,Y,"Distance = speed x time. What is the speed?","d = 12t"

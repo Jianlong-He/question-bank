@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is 5²?",25,60,Y,"The exponent tells you how many 5's to multiply.","5² = 5 x 5 = 25"
+2,"What is 3³?",27,60,Y,"The exponent tells you how many 3's to multiply.","3³ = 3 x 3 x 3 = 27"
+3,"Is 6² the same as 6 × 2? Answer yes or no",no|NO|No,60,Y,"Exponent is repeated multiplication, not multiplying by the exponent.","no -> 6² = 36 but 6 × 2 = 12"
+4,"What is 12⁰?",1,60,Y,"Any non-zero number to the zero power equals 1.","12⁰ = 1"
+5,"Select, which is greater, 2³ or 3² : 2³ 3²",3²,60,Y,"First calculate each exponent.","2³ = 8, 3² = 9, so 3² is greater"

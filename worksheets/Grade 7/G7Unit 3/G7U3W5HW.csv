@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Compute (-4) − |−12|.",-16,60,Y,"Absolute value of a negative number is positive.","|-12| = 12, -4 - 12 = -16."
+2,"A submarine rises by −(−25) meters from a depth of -170. What is its new depth? Enter only the number with no units.",-145,60,Y,"Subtracting a negative adds a positive.","-170 + 25 = -145."
+3,"Fill in the blank to make the equation true: (-19) + ___ = -7.",12,60,Y,"What do you add to -19 to get up to -7?","-7 - (-19) = -7 + 19 = 12."
+4,"Evaluate the expression: (-14) − (-6).",-8,60,Y,"Subtracting a negative adds a positive.","-14 + 6 = -8."
+5,"On a number line, a point is 8 units to the left of 3. What is the number?",-5,60,Y,"Moving left means subtracting.","3 - 8 = -5."

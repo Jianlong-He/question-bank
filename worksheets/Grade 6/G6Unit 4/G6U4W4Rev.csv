@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is (1/36) x (3 + 3)²?",1,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","(1/36) x 6² = 36/36 = 1"
+2,"Select, which is larger, (A) 4 x 3² or (B) (4 x 3)² : A B",B,60,Y,"Parentheses can change what gets squared. Compute each option and compare the values.","(A) = 4 x 9 = 36. (B) = 12 x 12 = 144. B is larger"
+3,"What is (1/10) x [(300/100) + 2]²? Answer as a fraction or a decimal",2.5|5/2|25/10|2 1/2,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","(1/10) x (3 + 2)² = (1/10) x 25 = 2.5"
+4,"What is (25/5) + 3²?",14,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","5 + 9 = 14"
+5,"What is 5³/(10+15) x (1/5)? Answer as a fraction or a decimal",1,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","125/25 x 1/5 = 5 x 1/5 = 1"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write the negative version of 27",-27|- 27,60,Y,"negative sign is ""-""","-27"
+2,"Select, On a number line, where is –6 located? : 6-units-to-the-right-of-0 6-units-to-the-left-of-0 At-0 Between-5-and-6",6-units-to-the-left-of-0,60,Y,"Negative numbers are to the left of zero.","Negative numbers are to the left of zero."
+3,"If you move 32 units left from 0, what number do you reach?",-32,60,Y,"Left means negative direction.","-32"
+4,"What is the opposite of –19?",19,60,Y,"The opposite of a negative number is positive.","19"
+5,"What is -(-31)?",31,60,Y,"Each negative flips the number.","-(-31) = 31"

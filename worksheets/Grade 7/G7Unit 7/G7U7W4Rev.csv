@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A spinner has 6 equal sections labeled A–F. It is spun once, and then a coin is flipped. How many total outcomes are possible?",12,60,Y,"Multiply spinner outcomes by coin outcomes.","6 × 2 = 12."
+2,"A coin is flipped twice and each result leads to choosing 1 of 3 beads. How many total outcomes are there?",12,60,Y,"Multiply outcomes for flips and bead choices.","Coin flips: 2 × 2 = 4; beads: 3 → 4 × 3 = 12."
+3,"A sample of 90 students shows that 54 prefer science class. Based on this, what is the probability a student prefers science?",0.6|3/5|54/90|60%,60,Y,"Divide preference count by total.","54/90 = 3/5 = 0.6."
+4,"Class X's medians: the middle value of its data is 14 books. Class Y's median is 9 books. What is the difference in their medians?",5,60,Y,"Subtract the smaller median from the larger.","14 - 9 = 5."
+5,"Class X read between 2 and 20 books; Class Y read between 5 and 15 books. What is the difference between their ranges?",8,60,Y,"Find each range (max minus min), then subtract the smaller from the larger.","Class X range = 18, Class Y range = 10. 18 - 10 = 8."

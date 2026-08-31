@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If a shape is 5 square decimeters, how many square centimeters is that?",500|500 square|500 square centimeters,100,Y,1 decimeter = 100 square centimeters.,1 decimeter = 100 square centimeters. 5 decimeters × 100 square centimeters each = 500 square centimeters
+2,Shape C has 30 square units. Shape D has 25 square units. Which shape covers more space? : C D,C,100,Y,Compare the numbers.,30 > 25 So Shape C has larger area
+3,"If a shape has 6 square decimeters, how many square centimeters is that?",600|600 square centimeters,100,Y,1 decimeter = 100 square centimeters.,1 decimeter = 100 square centimeters. 6 × 100 = 600. So the area is 600 square centimeters
+4,The same square can be measured as 25 square centimeters. It can also be measured as 1 square decimeter if the unit is larger. Does this mean one measurement is wrong? : Yes No,No,100,Y,The square stayed the same size.,The square is still the same size. Only the unit used to measure it changed.
+5,A shape is covered by 7 unit squares. What is its area? : 1-square-units 7-square-units 14-square-units,7-square-units,100,Y,Each square counts as one,7-square-units -> Area = number of unit squares covering the shape.

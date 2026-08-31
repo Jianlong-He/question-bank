@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A rectangle has base 9 cm and height 4 cm. What is its area? (Just put the values, no units needed)",36|36 cm²,60,Y,"Area = base x height","Area = 9 x 4 = 36"
+2,"A parallelogram has base 6 cm and height 8 cm. Find the area. (Just put the values, no units needed)",48|48 cm²,60,Y,"Same formula as rectangle","Area = base x height = 6 x 8 = 48"
+3,"A parallelogram has slanted sides of length 9 cm, but its height is 5 cm and base is 8 cm. Find the area. (Just put the values, no units needed)",40|40 cm²,60,Y,"Which two are the correct height and base to calculate the area of a parallelogram?","Use perpendicular height, NOT slanted side. Area = 8 x 5 = 40"
+4,"A parallelogram has area 54 cm² and base 9 cm. Find the height. (Just put the values, no units needed)",6|6 cm,60,Y,"Rearrange the area formula","height = Area / base = 54/9 = 6"
+5,"A parallelogram has base 12 cm. Its height is half the base. Find the area. (Just put the values, no units needed)",72|72 cm²,60,Y,"First get the height and calculate the area","Height = 12 / 2 = 6. Area = 12 x 6 = 72"

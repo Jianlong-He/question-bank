@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Using integer chips, if you replace every positive tile with two negative tiles, how does +4 change?",-8,60,Y,"Each +1 becomes -2.","4 positives → 4 × (-2) = -8."
+2,"A diagram shows: 8 negative tiles, 3 positive tiles, and 2 zero pairs. What integer would the diagram represent?",-5,60,Y,"Zero pairs contribute nothing.","3 positives and 8 negatives → -5."
+3,"Interpret the integer expression −(|−9| − |4|).",-5,60,Y,"Take the absolute values first.","-(9 - 4) = -5."
+4,"Using integer chips, compute (+3) + the opposite of [(-8)].",11,60,Y,"Opposite of -8 is +8.","3 + 8 = 11."
+5,"Using a number line, evaluate (-5) + (-6) + the opposite of (+3).",-14,60,Y,"Opposite of +3 is -3.","-5 - 6 - 3 = -14."

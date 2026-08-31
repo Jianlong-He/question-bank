@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write the ratio of 3 cats to 7 dogs","3:7",60,Y,"Ratio can be written with a colon","3:7"
+2,"Simplify the ratio 8:12","2:3",60,Y,"Divide both parts by their GCF (4)","2:3"
+3,"What is the unit rate of 12 miles in 3 hours (miles per hour)?","4",60,Y,"Divide miles by hours","12 ÷ 3 = 4"
+4,"Complete the equivalent ratio: 2:5 = __:10","4",60,Y,"Multiply both parts by the same number","2×2=4, 5×2=10, so 4"
+5,"Are the ratios 4:8 and 3:6 equivalent? (yes/no)","yes",60,Y,"Reduce each ratio to check equivalence","Both simplify to 1:2, so yes"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the distance between 18 and -7 using absolute value. Fill in the blanks: The difference is |18 - (-7)| = |___|, so the distance is ___.","25, 25",60,Y,"Distance = |difference|.","|18 - (-7)| = |25| = 25."
+2,"A cave entrance is at -68 meters and a ledge is at -24 meters. How far apart are they vertically? Enter only the number with no units.",44,60,Y,"Distance = |-68 - (-24)|.","|-44| = 44."
+3,"Compute (−3/7) + (8/21).",-1/21,60,Y,"Convert -3/7 to -9/21.","-9/21 + 8/21 = -1/21."
+4,"A statement says “The water level increased by 27 units.” Represent this change as an integer.",27,60,Y,"An increase means positive.","+27."
+5,"A climber starts at -800 meters, rises 220 meters, then rises another 160 meters. What is his final elevation? Enter only the number with no units.",-420,60,Y,"Add the vertical changes.","-800 + 220 + 160 = -420."

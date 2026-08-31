@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What number is 25% of 84?",21,60,Y,"Convert percent to a decimal or fraction.","25% = 1/4, 84 / 4 = 21"
+2,"Select. Which expression is equal to 3% of 250? : 0.003x250 0.03x250 0.3x250",0.03x250,60,Y,"Convert the percent to a decimal.","3% = 0.03"
+3,"A video game originally cost 50 CAD. The price increased by 10%. What is the new price of the game?",55|55 CAD,60,Y,"First find 10% of 50, then add it to the original price.","Increase: 0.10 x 50 = 5. New price: 50 + 5 = 55 CAD"
+4,"A student answered 24 questions correctly, which is 80% of all the questions. How many questions were on the test in total?",30,60,Y,"24 represents 80% of the total.","0.8 x total = 24, total = 24/0.8 = 30"
+5,"Store A gives 25% off a 40 CAD jacket. Store B gives 20% off a 45 CAD jacket. Which store gives the bigger discount amount? Answer A or B",A,60,Y,"Calculate the discount amount for each store.","Store A: 0.25 x 40 = 10. Store B: 0.20 x 45 = 9. A is bigger"

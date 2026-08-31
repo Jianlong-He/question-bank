@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A cook uses 1/2 cup of sugar for every 1/4 cup of butter. What is the unit rate of sugar to butter?",2,60,Y,"Divide sugar by butter.","(1/2) ÷ (1/4) = (1/2) × 4 = 2."
+2,"A jacket increases in price by 25% to reach $75. What was the price before the increase? Enter only the number with no units.",60,60,Y,"75 = original × 1.25.","Original = 75/1.25 = 60."
+3,"A board game costs $30. The sales tax is 5%. Fill in the blanks: The tax amount is $___, making the total cost $___.","1.5|1.50, 31.5|31.50",60,Y,"Find 5% of 30 first, then add it to 30.","Tax: 0.05 × 30 = 1.50. Total: 30 + 1.50 = 31.50."
+4,"A student answered 27 out of 30 questions correctly. What percent did they get? Enter only the number with no units.",90,60,Y,"Percent = part/whole × 100.","27/30 = 0.90 → 90%."
+5,"A bus travels 4/5 of a mile in 1/4 of an hour. Find the speed in miles per hour. Enter as a fraction or decimal.",16/5|3.2,60,Y,"Divide fraction distance by fraction time.","(4/5) ÷ (1/4) = (4/5) × 4 = 16/5 = 3.2."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve a - 12 = 19 and find the value of a",31,60,Y,"Opposite of -12 is +12, same operation on both sides","a = 19 + 12 = 31"
+2,"Check the solution: Is x = 14 correct for: x + 7 = 21? Put the answer as yes or no",yes,60,Y,"Substitute x = 14","14 + 7 = 21, so yes"
+3,"Solve equation with decimals K - 6 = 13.5 and find the value of K",19.5,60,Y,"What cancels -6?","Add 6 on both sides: K = 13.5 + 6 = 19.5"
+4,"Solve equation with fractions (4/11) = T - (5/11) and find the value of T",9/11|(9)/(11)|(9/11),60,Y,"What cancels -(5/11)?","Add 5/11 on both sides: T = 4/11 + 5/11 = 9/11"
+5,"Solve y - 12 = -35 and find the value of y",-23,60,Y,"What cancels -12?","+12 on both sides: y = -35 + 12 = -23"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Out of 50 students, 10 students wear glasses. What percent of the class wears glasses? Put the answer as 5%",20%,60,Y,"Write the fraction first: students wearing glasses / total students.","10/50 = 1/5 = 0.2 = 20%"
+2,"A class has 20 students. 15 students bring lunch from home. What percentage of the students bring lunch from home? Put the answer as 5%",75%,60,Y,"Write the fraction first: students bringing lunch / total students.","15/20 = 3/4 = 0.75 = 75%"
+3,"There are 40 students in a class. 14 students ride bikes to school. What percent ride bikes? Put the answer as 5%",35%,60,Y,"Write the fraction first: students ride bikes / total students.","14/40 = 7/20 = 0.35 = 35%"
+4,"A team has 25 players. 20 players attended practice. What percentage attended practice?",80%,60,Y,"Write the fraction first: players attended practice / total players.","20/25 = 4/5 = 0.8 = 80%"
+5,"In a school of 420 students, 50% take the bus. How many students take the bus?",210,60,Y,"students take bus / total students = 50%, total students is 420","420 x 0.5 = 210 students take the bus"

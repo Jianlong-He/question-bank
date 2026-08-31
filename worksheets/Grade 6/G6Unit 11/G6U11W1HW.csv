@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Which data set has more variability? A: 5, 5, 5, 5, 5     B: 1, 9, 3, 7, 2",B|b,60,Y,"Look at how much the numbers change.","Set A has no change -> no variability. Set B has different values -> high variability"
+2,"Is this a statistical question? ""How tall is my teacher?"" Answer yes or no",no|No|NO,60,Y,"One person or many people?","Only one data point -> no variability -> not statistical"
+3,"Is this a statistical question? ""What is the average shoe size of students in the school?"" Answer yes or no",yes|Yes|YES,60,Y,"Do we need multiple data points?","You must collect many shoe sizes -> data varies -> statistical"
+4,"Which situation has variability? A: Everyone finished the race in 60 seconds     B: Times are 55, 58, 62, 70, 75",B|b,60,Y,"Look at how much the numbers change.","A -> all the same -> no variability. B -> different -> variability exists"
+5,"Is this statistical? ""How many pets do students in my grade have?"" Answer yes or no",yes|Yes|YES,60,Y,"Many students?","Different students -> different answers -> variability -> statistical"

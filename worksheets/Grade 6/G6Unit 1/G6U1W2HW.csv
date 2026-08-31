@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write the ratio of 10 red marbles to 15 blue marbles in simplest form","2:3",60,Y,"Divide both numbers by 5","2:3"
+2,"Find the unit rate: 24 pages in 6 minutes (pages per minute)","4",60,Y,"24 ÷ 6","4"
+3,"Complete: 3:8 = 9:__","24",60,Y,"Multiply 3 by 3 to get 9; multiply 8 by 3","24"
+4,"Are 6:9 and 8:12 equivalent? (yes/no)","yes",60,Y,"Simplify each ratio to compare","Both simplify to 2:3, so yes"
+5,"A map scale is 1 cm : 4 km. How many km does 9 cm represent?","36",60,Y,"Multiply 9 by 4","36"

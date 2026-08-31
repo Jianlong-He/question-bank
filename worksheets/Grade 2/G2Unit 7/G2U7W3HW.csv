@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A line plot shows pencil lengths: 2 pencils are 3 inches, 4 pencils are 4 inches, 6 pencils are 5 inches, 2 pencils are 6 inches. How many pencils are 5 inches long?",6,120,Y,Find the stack above 5 inches.,6
+2,"Using the same line plot (2 at 3 in, 4 at 4 in, 6 at 5 in, 2 at 6 in), how many MORE pencils are 5 inches than 3 inches?",4,120,Y,Subtract 6 - 2,4
+3,"Select which length has the MOST pencils?:3 4 5 6",5,120,Y,Look for the tallest stack,5
+4,"Using the same line plot (2 at 3 in, 4 at 4 in, 6 at 5 in, 2 at 6 in), how many pencils are in the box altogether?",14,240,Y,Add all: 2 + 4 + 6 + 2,14
+5,"Using the same line plot (2 at 3 in, 4 at 4 in, 6 at 5 in, 2 at 6 in), how many pencils are SHORTER than 5 inches?",6,240,Y,"Shorter than 5 means 3 or 4 inches.",6

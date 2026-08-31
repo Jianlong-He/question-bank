@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A circle's circumference is 22π. What is its radius?",11,60,Y,"Use the formula C = 2πr.","22π = 2πr → r = 11."
+2,"A circle has a circumference of 16π. Fill in the blanks: Its radius is ___, and its area is ___. (Leave area in terms of pi, e.g., 36pi)","8, 64pi|64 pi|64\pi|64π",60,Y,"Find the radius first using C = 2πr, then use A = πr².","16π = 2πr → r = 8. Area = π(8²) = 64π."
+3,"A circle has a radius of 7. What is its area? (Leave your answer in terms of pi, e.g., 10pi)",49pi|49 pi|49\pi|49π,60,Y,"Use the formula A = πr².","A = π(7²) = 49π."
+4,"Two angles are supplementary. One angle is (2x + 20)° and the other is (3x - 15)°. What is the value of x?",35,60,Y,"Supplementary angles add to 180 degrees.","(2x + 20) + (3x - 15) = 180 → 5x + 5 = 180 → 5x = 175 → x = 35."
+5,"Two angles are complementary. One angle is (x + 10)° and the other is (3x)°. What is the value of x?",20,60,Y,"Complementary angles add to 90 degrees.","(x + 10) + 3x = 90 → 4x + 10 = 90 → 4x = 80 → x = 20."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the distance between the numbers -13 and 6 using absolute value. Fill in the blanks: The difference is |-13 - 6| = |___|, so the distance is ___.","-19, 19",60,Y,"Distance = absolute value of the difference.","|-13 - 6| = |-19| = 19."
+2,"On a vertical line, one point is at -52 and another point is at -16. How far apart are they? Enter only the number with no units.",36,60,Y,"Subtract and use absolute value.","|-52 - (-16)| = |-36| = 36."
+3,"Compute (2/5) − (−7/10).",11/10|1.1|1 1/10,60,Y,"Subtracting a negative adds.","2/5 + 7/10 = 4/10 + 7/10 = 11/10."
+4,"A statement says “The score decreased by 34 points.” Represent this change as an integer.",-34,60,Y,"A decrease means negative.","-34 shows a drop of 34."
+5,"The temperature changed by −15°, and the final temperature is −6°. What was the initial temperature? Enter only the number with no units.",9,60,Y,"Final = initial + change.","Initial = -6 - (-15) = -6 + 15 = 9."

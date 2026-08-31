@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,The digit product of 1.4 x 3.25 is 4550. What is the exact value of 1.4 x 3.25?,4.55|4.550,240,Y,Count decimal places in both numbers.,"4.55 -> 3 decimal places total, 4550 becomes 4.550 which simplifies to 4.55"
+2,What is 1.2 x 3.5,4.2|4.20|4.0,240,Y,"Method 1: count decimal places: 2, compute 12 x 35 then move decimal places","4.2 -> 12 x 35 = 420, move 2 decimal places to get 4.20"
+3,What is the denominator when multiplying fractions (53/10) x (21/10),100,240,Y,What is 10 x 10?,100
+4,What is 1.2 x 1.2,1.44,240,Y,"Method 1: count decimal places: 2, compute 12 x 12 then move decimal places",1.44
+5,A museum ticket costs $12.42. You buy 2.5 tickets' worth for a family package. How much do you pay in total?,31.05|$31.05,360,Y,Total payment = price per ticket x number of tickets you buy,31.05 -> 12.42 x 2.5 = 31.05

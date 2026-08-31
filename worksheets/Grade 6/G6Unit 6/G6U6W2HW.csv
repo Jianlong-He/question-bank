@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Evaluate 4t + 3 when t = 6",27,60,Y,"Substitute first then follow the order of operations","4(6) + 3 = 24 + 3 = 27"
+2,"A raffle costs 6t - 5. Find cost when t = 8",43,60,Y,"Substitute first then follow the order of operations","6(8) - 5 = 48 - 5 = 43"
+3,"What is 4^2 + 3^2?",25,60,Y,"Square means multiply twice","4*4 + 3*3 = 16 + 9 = 25"
+4,"Evaluate x^2 when x = 7",49,60,Y,"Square means multiply twice","x^2 = 7 * 7 = 49"
+5,"Evaluate y^2 - 5 when y = 4",11,60,Y,"Square means multiply twice","4*4 - 5 = 16 - 5 = 11"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A scaled shape has a side of length 24. The corresponding side in the original shape is 16. What is the scale factor?",1.5|3/2,60,Y,"Divide the scaled side by the original side.","24/16 = 1.5."
+2,"A quadrilateral has sides 6, 10, and 14. A second shape has sides 9, 15, and 21. Fill in the blanks: The scale factor for all sides is ___, so is this a scaled copy? (Enter Yes or No)","1.5, Yes|yes|Y|y",60,Y,"Check if all sides grow by the same factor.","6×1.5=9, 10×1.5=15, 14×1.5=21. All match, so Yes."
+3,"On a map, 1.6 cm represents 12 km. How many kilometers does 4 cm represent?",30,60,Y,"Find km per cm, then multiply.","12/1.6 = 7.5 km per cm → 7.5 × 4 = 30."
+4,"A distance model uses 1 cm = 0.04 km. How many kilometers are represented by 25 cm?",1|1.0,60,Y,"Multiply centimeters by km-per-centimeter.","25 × 0.04 = 1."
+5,"A jogger travels 15 km. A map uses a scale where 1 cm = 0.5 km. How many centimeters should represent the jogger's route?",30,60,Y,"Divide distance by km-per-centimeter.","15/0.5 = 30."

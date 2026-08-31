@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A factory makes 32 identical parts using 8 kg of metal. Assuming a proportional relationship, how many parts can be made from 1 kg of metal?",4,60,Y,"Divide parts by kilograms.","32/8 = 4 parts per kg."
+2,"Four museum tickets cost $52 at a proportional price. How much does 1 ticket cost?",13,60,Y,"Find cost per ticket.","52/4 = 13."
+3,"A proportional table relates x and y. When x = 12, y = 30. What is the constant of proportionality?",2.5|5/2,60,Y,"Compute y/x.","30/12 = 2.5."
+4,"A regular pentagon has side length s and its perimeter P is proportional to s. If a pentagon with 7 cm sides has a perimeter of 35 cm, what is the proportionality constant P/s?",5,60,Y,"Pentagon perimeter = 5s.","35/7 = 5."
+5,"A printer prints 48 pages in 4 minutes. Fill in the blanks: The unit rate is ___ pages per minute, which means it will print ___ pages in 6 minutes.","12, 72",60,Y,"Find the unit rate first (48/4), then multiply by 6.","Rate = 12 pages/min. 12 × 6 = 72 pages."

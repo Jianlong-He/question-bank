@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the distance between 9 and -6 using absolute value. Fill in the blanks: The subtraction inside the absolute value is |9 - (-6)| = |___|, so the distance is ___.","15, 15",60,Y,"Distance between two numbers is the absolute difference.","|9 - (-6)| = |15| = 15."
+2,"Two ships are located at -25 km and +9 km relative to the harbor. How far apart are they? Enter only the number with no units.",34,60,Y,"Distance = absolute value of difference.","|-25 - 9| = 34."
+3,"Interpret the statement: “The elevation dropped by 23 meters.” Represent this change as an integer.",-23,60,Y,"A drop is negative.","-23 represents the change."
+4,"A bank account starts at −320 and increases by 95 after a deposit. What is the balance now? Enter only the number with no units.",-225,60,Y,"Add the positive change.","-320 + 95 = -225."
+5,"Evaluate: (−3) − (−11) − 6.",2,60,Y,"Subtracting a negative is adding.","-3 + 11 = 8, then 8 - 6 = 2."

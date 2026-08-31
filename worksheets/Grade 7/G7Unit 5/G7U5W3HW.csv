@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Compute (−12) × (−8).",96,60,Y,"Negative times negative is positive.","12 × 8 = 96."
+2,"Compute |−6| × (-11).",-66,60,Y,"Positive × negative is negative.","|-6| × (-11) = 6 × (-11) = -66."
+3,"Compute (−81) ÷ 9. Simplify your answer before entering it.",-9,60,Y,"Negative ÷ positive is negative.","-81 ÷ 9 = -9."
+4,"Compute (−2/5) ÷ 8. Simplify your answer before entering it.",-1/20,60,Y,"Rewrite division as multiply by the reciprocal.","(-2/5) × 1/8 = -2/40 = -1/20."
+5,"Compute (−3/4) × (−8/9). Simplify your answer before entering it.",2/3,60,Y,"Negative × negative is positive.","24/36 = 2/3."

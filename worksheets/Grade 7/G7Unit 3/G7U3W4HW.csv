@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Using integer rules, evaluate |-15| − |-8| + (-4).",3,60,Y,"Take the absolute values first.","|-15| = 15 and |-8| = 8. 15 - 8 - 4 = 3."
+2,"A diver is at -22 meters and moves another -(-10) meters vertically. Find his new depth. Enter only the number with no units.",-12,60,Y,"Subtracting a negative adds a positive.","-22 + 10 = -12."
+3,"Fill in the blank to make the equation true: ___ + (-16) = -5.",11,60,Y,"Add 16 to -5 to find the missing number.","-5 + 16 = 11."
+4,"Fill in the blank to make the equation true: (-7) + ___ = -20.",-13,60,Y,"Subtract -7 from -20 (which is adding 7).","-20 + 7 = -13."
+5,"Evaluate the expression: |-6| − (-9).",15,60,Y,"Find the absolute value first, then subtract the negative.","|-6| = 6. 6 - (-9) = 6 + 9 = 15."

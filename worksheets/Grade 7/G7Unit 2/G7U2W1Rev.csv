@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Convert 13/20 to a decimal.",0.65,60,Y,"Divide numerator by denominator.","13 ÷ 20 = 0.65."
+2,"Convert 5/12 to a decimal rounded to the nearest hundredth.",0.42,60,Y,"Perform long division.","5 ÷ 12 ≈ 0.4167 → 0.42."
+3,"A store increases a price by 15%. If the original price is $40, what is the amount of the increase (only enter the number, no units)?",6,60,Y,"Compute 15% of 40.","0.15 × 40 = 6."
+4,"A restaurant bill is $75. If you leave a 20% tip, how much tip do you leave (only enter the number, no units)?",15,60,Y,"20% = 0.2.","0.20 × 75 = 15."
+5,"A class has 32 students and 8 are absent. What percent of the class is absent? (Only enter the number, no units.)",25,60,Y,"Percent = part/whole × 100.","8/32 = 0.25 → 25%."
