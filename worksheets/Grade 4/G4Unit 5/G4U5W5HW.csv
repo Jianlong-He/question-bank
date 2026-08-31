@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A stationery store orders 35 boxes of pens. Each box contains about 22 pens. About how many pens did they order in total (Estimate)? (Round 35 and 22 to the nearest ten),800,600,Y,Multiply 40 by 20,800
+2,Jim collected 96 shells over the weekend. He divided them equally into 4 buckets. Each bucket has 4 compartments. How many shells are in each compartment if each compartment has an equal number of shells?,6,900,Y,Step 1 Divide 96 by 4 = 24. Step 2 Divide 24 by 4,6
+3,A library has 8 display cases. Each case displays 6 shelves. Each shelf holds 32 books. How many books are displayed in total across all cases?,1536,900,Y,Step 1 8 cases times 6 shelves = 48 shelves. Step 2 48 shelves times 32 books per shelf.,1536
+4,A baker made 126 cupcakes for a party. She packed them into boxes with 9 cupcakes in each box. She sold 8 boxes. How many boxes does she have left?,6,900,Y,Step 1 Divide 126 by 9 = 14 total boxes; Step 2 Subtract 14 - 8,6
+5,A farmer harvested pears from 8 trees. Each tree produced 140 pears. He packed them into crates with 16 pears per crate. How many crates did he fill?,70,900,Y,Step 1 8 times 140 = 1120 pears total. Step 2 1120 pears divided by 16 pears per crate.,70

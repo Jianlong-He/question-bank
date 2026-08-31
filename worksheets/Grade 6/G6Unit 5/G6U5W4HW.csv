@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Compare: |-7| __ |-13|. Choose from <, > or =",<,60,Y,"Evaluate both absolute values.","|-7| = 7, |-13| = 13, 7 < 13"
+2,"Compare: |-19| __ |19|. Choose from <, > or =",=,60,Y,"Evaluate both absolute values.","|-19| = 19, so they are equal"
+3,"Which values of x make this true? |x| < 6. Choose from -5, 2, 8","-5, 2",60,Y,"Absolute value of x must be less than 6","|-5| = 5 < 6 and |2| = 2 < 6, but |8| = 8 is not"
+4,"Jane: -4 lb, Sarah: +2.5 lb, Bill: +5 lb. Who lost weight?",Jane,60,Y,"Losing weight means a negative change.","Jane's change is negative"
+5,"A fish is at -18 m and a turtle is at -11 m (below sea level). Who is farther from sea level?",fish|the fish|Fish|The Fish|The fish,60,Y,"Farther from sea level = bigger absolute value.","|-18| = 18 > |-11| = 11, so the fish"

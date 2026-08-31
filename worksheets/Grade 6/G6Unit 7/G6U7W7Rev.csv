@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A line follows the equation y = 6x. If x = 4, what is y?",24,60,Y,"Substitute x = 4","y = 6(4) = 24"
+2,"A line follows the equation y = 6x. If y = 42, what is x?",7,60,Y,"Substitute y = 42 and solve","42 = 6x, x = 7"
+3,"Select. For the line y = 6x, if you double x, what happens to y?: y-does-not-change y-doubles y-half",y-doubles,60,Y,"Check with an example like x = 2 and x = 4","If x = 2, y = 12. If x = 4, y = 24. So y doubles too"
+4,"If an x-y graph passes through (0,0) and (3,12), what is the equation?",y = 4x|y=4x,60,Y,"Find ""per unit""","12/3 = 4, so slope is 4 -> y = 4x"
+5,"Let ""C"" be the cost of oranges and ""a"" be the number of oranges. A student says: ""In C = 3a, cost is independent."" Is the student right or wrong? Put the answer as right or wrong",wrong|Wrong|WRONG,60,Y,"Which variable determines the other?","Number of oranges determines cost. So a = independent, C = dependent. The student is wrong"

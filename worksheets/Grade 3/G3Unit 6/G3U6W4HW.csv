@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What fraction is shaded if 5 out of 12 pieces are yellow and the rest are not colored?,5/12,240,N,,5/12
+2,Are 1/4 and 2/8 equal? : Yes No,Yes,240,Y,4 x 2 = 8,Yes
+3,Fill in the missing number 1/2 = ?/10,5,240,Y,2 x 5 = 10,5
+4,Fill in the missing number 3/4 = 9/?,12,240,Y,3 x 3 = 9,12
+5,"Select, On a number line divided into 8 equal parts, where is 5/8? : 3-jumps-from-0 5-jumps-from-0 8-jumps-from-0",5-jumps-from-0,240,Y,Count the equal spaces.,5-jumps-from-0

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select. Which of the following is a variable?: 12 x 9+4",x,60,Y,"A variable can change.","A variable is a symbol (like x or y) that can take different values."
+2,"Select. Is k + 5 an expression or equation?: Expression Equation",Expression,60,Y,"Does it have an equals sign?","No equals sign -> it is an expression."
+3,"If x = 9, find the value of x + 26",35,60,Y,"Replace x with 9","9 + 26 = 35"
+4,"Solve y - 18 = 29 and find the value of y",47,60,Y,"Add 18 on both sides","y = 29 + 18 = 47"
+5,"Solve y + 35 = 71 and find the value of y",36,60,Y,"Remove 35 on both sides","y = 71 - 35 = 36"

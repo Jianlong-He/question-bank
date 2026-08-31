@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Estimate 3.1 x 6 ≈ ? (rounding 3.1 to whole number),18|18.6,240,Y,What whole number is 3.1 closest to?,"18. 3.1 ≈ 3, 3 x 6 = 18"
+2,Estimate 72 x 24 ≈ ? (rounding both numbers),1750,240,Y,Using friendly tens,"1750. 72 ≈ 70, 24 ≈ 25, 70 x 25 = 1750"
+3,Estimate with larger number and decimals: 99.4 x 14 ≈ ?,1400|1500,240,Y,What whole number is 99.4 closest to?,"99.4 ≈ 100, 100 x 14 = 1400. Or you can also round 14 to 15 -> 100 x 15 = 1500"
+4,What is 6 x 0.2?,1.2,240,Y,6 x 2 tenths = 12 tenths = 1.2,1.2 -> 6 x 2 tenths = 12 tenths = 1.2
+5,"Select True or False of the statement ""8 x 0.3 is less than 2"" : TRUE FALSE",FALSE,240,Y,Multiply tenths.,FALSE. -> 8 x 3 tenths = 24 tenths = 2.4 > 2

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,There are 4 groups of 5 cats. How many cats are there in total? 5 + 5 + 5 + 5 = __,20,240,Y,"Think of adding 5 four times. You can also skip-count 5, 10, 15, 20.",20
+2,Fill There are 8 in each group and 3 groups. Total = __ x __,"8, 3",240,Y,number of groups x size of group,"8, 3"
+3,Select the one that is the same as 3 groups of 6? A) 3 + 3 + 3 B) 6 + 6 + 6 C) 6 + 6 + 6 + 6 : A B C D,B,240,Y,3 groups of 6 means three 6s added together.,B
+4,"Fill Skip count by 4s: 4, 8, 12, __, 20",16,240,Y,Each number increases by 4. Add 4 to 12,16
+5,Select the one represents 5 groups of 4. A) 4 + 4 B) 5 + 4 C) 5 x 4 : A B C,C,240,Y,number of groups x size of group; Multiplication means equal groups. 5 groups of 4,C

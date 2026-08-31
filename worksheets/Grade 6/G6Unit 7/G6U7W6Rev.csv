@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select. Test x = 4 for inequality 2x + 5 > 4x: TRUE FALSE",FALSE,60,Y,"Compute both sides","8 + 5 > 16, 13 > 16 is False"
+2,"Select. Which value satisfies 5x + 6 ≤ 6x: 2 4 6",6,60,Y,"Test each value","x = 6 -> 30 + 6 ≤ 36, 36 ≤ 36 (True)"
+3,"Select True or False of the statement ""Z < 25 includes 25"": TRUE FALSE",FALSE,60,Y,"Does ""less than"" include the boundary?","""less than"" does not include 25"
+4,"Select. Which is correctly represent X ≤ 45 on a number line: Filled-dot-at-45 Open-circle-at-45 Shaded-right",Filled-dot-at-45,60,Y,"Is 45 included?","≤ includes 45 -> filled circle / shade to the left"
+5,"Select. Which values satisfy BOTH? x < 80 and x ≥ 72: 85 80 75",75,60,Y,"Find the overlap","75 is less than 80 and at least 72"

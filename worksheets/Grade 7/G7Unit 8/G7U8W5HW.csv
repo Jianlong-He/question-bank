@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A scale drawing shows that 0.5 cm represents 6 m. If a hallway is shown as 3.5 cm on the drawing, how long is the real hallway? Enter the number without units.",42,60,Y,"Find how many 0.5-cm units, then multiply by 6.","3.5 ÷ 0.5 = 7 → 7 × 6 = 42."
+2,"On a map, 3 cm represents 21 m. A river section is shown as 8 cm long. How long is the real river segment? Enter the number without units.",56,60,Y,"Find meters per cm, then multiply.","21/3 = 7 → 7 × 8 = 56."
+3,"A blueprint uses a scale of 1 to 12. If a wall in the drawing is 5.5 units long, how long is the real wall? Enter the number without units.",66,60,Y,"Multiply drawing length by the scale.","5.5 × 12 = 66."
+4,"A square has area 16. The scale factor is 1.5. Fill in the blanks: The area is multiplied by 1.5 squared, which is ___. The new area is ___.","2.25, 36",60,Y,"Multiply original area by the scale factor squared.","1.5² = 2.25. 16 × 2.25 = 36."
+5,"A distance model uses 1 cm = 3.2 km. If a trail measures 10.5 cm on the model, how long is the real trail? Enter the number without units.",33.6|168/5,60,Y,"Multiply centimeters by km-per-centimeter.","10.5 × 3.2 = 33.6."

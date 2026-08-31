@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"You build 4 zero pairs, then add 5 negative tiles and 2 positive tiles. What integer is represented?",-3,60,Y,"Zero pairs make zero; only unmatched tiles count.","5 negatives and 2 positives → -3."
+2,"On a number line you start at -8, move right until reaching a point whose opposite is -5. Where do you stop?",5,60,Y,"The opposite of -5 is +5.","Move right from -8 to +5."
+3,"Without computing the exact value, determine the sign of the sum: (-9) + (-11) + (+6) + (+2).",-|negative|Negative,60,Y,"Compare total negatives vs positives.","Negatives total -20; positives total +8 → negative."
+4,"Using integer chips, evaluate (-13) − |-5|.",-18,60,Y,"The absolute value of -5 is 5.","-13 - 5 = -18."
+5,"Graph mentally: Start at +3, move left 8, then move right 5. What is the final value?",0,60,Y,"Combine the movements.","3 - 8 + 5 = 0."

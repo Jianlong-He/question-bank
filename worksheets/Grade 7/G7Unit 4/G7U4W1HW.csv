@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the distance between -5 and 8 using absolute value. Fill in the blanks: The subtraction expression inside the absolute value is |-5 - 8| = |___|, so the distance is ___.","-13, 13",60,Y,"Distance is the absolute value of the difference.","|-5 - 8| = |-13| = 13."
+2,"Two towns are located at -18 km and -6 km on a straight road. What is the distance between them? Enter only the number with no units.",12,60,Y,"Distance is the absolute value of the difference.","|-18 - (-6)| = |-12| = 12."
+3,"Compute (-3/10) − (2/5).",-7/10|-0.7,60,Y,"Convert 2/5 to 4/10.","-3/10 - 4/10 = -7/10."
+4,"A statement says: “Location B is 12 units below sea level.” Represent this using an integer.",-12,60,Y,"Below sea level → negative.","-12 represents 12 units below sea level."
+5,"A hiker is at -380 meters and climbs upward 150 meters. What is his new elevation? Enter only the number with no units.",-230,60,Y,"Add a positive amount.","-380 + 150 = -230."

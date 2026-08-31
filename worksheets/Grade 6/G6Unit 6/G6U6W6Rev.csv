@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write an expression for: ""11 times the difference of y and 4""",11(y - 4)|11 * (y - 4)|11 x (y - 4)|(y - 4) * 11|(y - 4) x 11,60,Y,"""difference of A and B"" -> A − B; use parentheses","11(y - 4)"
+2,"Write an expression for: ""−6 plus the product of −3 and z""",-6 + (-3z)|-6 - 3z|-6 + (-3 * z)|-6 + (-3 x z)|-6 - 3 * z|-6 - 3 x z|(-3z) + (-6)|-6 + z * (-3)|-6 + z x (-3)|-6 + z(-3),60,Y,"Multiply first, then add","-6 - 3z"
+3,"Write an expression for: ""First take -2 + 5z, then multiply by 3""",3(-2 + 5z)|3 * (-2 + 5z)|3 x (-2 + 5z)|(-2 + 5z) * 3|(-2 + 5z) x 3,60,Y,"Step by step, use parentheses","3(-2 + 5z)"
+4,"Write an expression for: ""Multiply 4 + y by −3, then add 5""",-3(4 + y) + 5|-3 * (4 + y) + 5|-3 x (4 + y) + 5|(4 + y) x (-3) + 5|(4 + y) * (-3) + 5|(4 + y) (-3) + 5,60,Y,"Step by step, use parentheses","-3(4 + y) + 5"
+5,"Write an expression for: ""Twice the difference of m and 5, then add 7""",2(m - 5) + 7|2 * (m - 5) + 7|2 x (m - 5) + 7|(m - 5) x 2 + 7|(m - 5) * 2 + 7|7 + 2(m - 5)|7 + 2 * (m - 5)|7 + 2 x (m - 5),60,Y,"Twice = times 2","2(m - 5) + 7"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Fill: Write 662 as hundreds, tens and ones: 662 = 600 + __ + 2",60,240,N,,60,
+2,"Fill: Write 927 as hundreds, tens and ones: 927 = __ + 20 + __","900|7, 7|900",240,N,,"900|7, 7|900",
+3,What is the correct value of h using the standard algorithm in the above multiplication: 85 × 58,4,240,Y,"h comes from 8 × 5 = 40 -> write 0, carry over 4",4,https://i.ibb.co/yF2wmqBW/image.pnghttps://ibb.co/LdKLD1hn
+4,What is the correct value of h using the standard algorithm in the above multiplication: 94 × 38. What is the final value?,"1, 3572",240,Y,"h comes from 4 × 3 = 12 -> write 2, carry over 1","1, 3572",https://i.ibb.co/dwFks6pW/image.png
+5,There are 253 jelly beans in each jar. Your mother buys you and your friends 27 jars . How many jelly beans did she buy in total?,6831,360,Y,This is multiplication of 253 x 27 using standard algorithm,6831,

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A cleaning crew finishes 3/5 of an office building in 1/2 of an hour. How much of the building do they clean per hour? (Enter as a fraction or decimal)",6/5|1.2,60,Y,"Divide building fraction by time fraction.","(3/5) ÷ (1/2) = (3/5) × 2 = 6/5."
+2,"A recipe calls for 1/2 cup of flour for every 1/4 cup of water. What is the unit rate of flour per cup of water?",2,60,Y,"Divide flour by water.","(1/2) ÷ (1/4) = (1/2) × 4 = 2."
+3,"A sample grows by 12% every 30 minutes. What percent of the original sample has grown after 2 hours? Enter your answer as a decimal.",0.48|12/25,60,Y,"Four intervals: 12% × 4.","0.12 × 4 = 0.48."
+4,"A store buys a laptop for $600 and sells it at a 20% markup. Fill in the blanks: The markup amount is $___, making the final selling price $___.","120, 720",60,Y,"Find 20% of 600, then add it to the original cost.","Markup: 0.20 × 600 = 120. Price: 600 + 120 = 720."
+5,"A student answers 45 questions correctly, which is 75% of all questions on a test. How many questions are on the test? Enter only the number with no units.",60,60,Y,"45 = 0.75 × total.","Total = 45/0.75 = 60."

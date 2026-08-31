@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,There are 4 tens blocks and 7 single blocks. What number do they make?,47,240,Y,"4 tens make what number, then add 7 ones",47
+2,"There are 3 hundreds, 8 tens and 2 ones. What number is shown?",382,240,Y,300 + 80 + 2,382
+3,"Fill in the place value chart for 542,916. hundred thousands __, ten thousands __, thousands __, hundreds __, tens __, ones __","5,4,2,9,1,6",360,Y,"Write one digit in each black space. Start counting from right, what number is in ones? And so on.","5,4,2,9,1,6"
+4,"2 thousands blocks, 4 tens blocks and 3 single blocks. What number do they make?",2043,240,Y,"2000 + 40 + 3; No hundreds, what digit should you put in the hundreds place?",2043
+5,"You see 8 thousands blocks and 2 hundreds block, what number do they make?",8200,240,Y,"8000 + 200; No tens and no ones, what digit should you put in these two places?",8200

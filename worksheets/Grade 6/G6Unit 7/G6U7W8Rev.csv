@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Given the equation of distance d, time t and rate v: v = d/t, which is the dependent variable?",v,60,Y,"Dependent variable = the one that changes based on others","v is computed from d and t, so v is dependent"
+2,"Use the equation K = 10T. What is K when T = 1? And when T = 10?","10, 100",60,Y,"K = 10T is the relationship of K and T","K = 10(1) = 10 and K = 10(10) = 100"
+3,"Using the equation K = 10T, if K = 130, what is T?",13,60,Y,"Substitute","T = K/10 = 130/10 = 13"
+4,"To make good soup, you need to add water to balance the vegetable stock. Write an equation for the recipe of water ""w"" and vegetable stock ""v"": 300 ml water for 500 ml stock",w = (3/5)v|w=(3/5)v|(3/5)v = w|(3/5)v=w|v = (5/3)w|v=(5/3)w|(5/3)w = v|(5/3)w=v,60,Y,"Use simplified fraction ratio. water : stock = 300 : 500 = 3 : 5","w = (300/500)v = (3/5)v"
+5,"A recipe uses 2 cups of sugar for every 5 cups of flour. Write the equation for sugar ""s"" in terms of flour ""f"", then find s if f = 20","s = (2/5)f|s=(2/5)f|s = (2/5) x f|s=(2/5)xf, 8",60,Y,"Think of this as a ratio sugar : flour = 2 : 5","s = (2/5)f. When f = 20: s = (2/5)(20) = 8"

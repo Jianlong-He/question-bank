@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Compute $7 \cdot (-6)$.","-42|-42.0",60,Y,"A positive times a negative is a negative","$7 \cdot 6 = 42$. Since the signs are different, the result is $-42$."
+2,"Fill: Compute $(-8) \cdot (-9)$.","72|72.0",60,Y,"A negative times a negative is a positive","$8 \cdot 9 = 72$. Since both signs are negative, the result is positive 72."
+3,"Fill: Compute $(-45) / 5$.","-9|-9.0",60,Y,"A negative divided by a positive is a negative","$45 / 5 = 9$. Since the signs are different, the result is $-9$."
+4,"Fill: Find $x$ if $x \cdot (-4) = 28$.","-7|-7.0",60,Y,"Divide both sides by -4","$28 / (-4) = -7$. So, $x = -7$."
+5,"Fill: A submarine descends at 12 feet per minute. What is its change in elevation after 5 minutes? (Enter as a negative number)","-60|-60.0",60,Y,"Descending means a negative rate. Multiply the rate by time","Descending 12 ft/min is a rate of $-12$. $(-12) \cdot 5 = -60$ feet."

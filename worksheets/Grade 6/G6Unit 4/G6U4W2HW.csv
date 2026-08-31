@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is 0.2²?",0.04,60,Y,"The exponent tells you how many 0.2's to multiply.","0.2² = 0.2 x 0.2 = 0.04"
+2,"What is 0.5³?",0.125,60,Y,"The exponent tells you how many 0.5's to multiply.","0.5³ = 0.5 x 0.5 x 0.5 = 0.125"
+3,"What is (2/3)²?",4/9,60,Y,"Multiply numerator by numerator, denominator by denominator.","(2/3)² = 4/9"
+4,"What is 1279⁰?",1,60,Y,"Any non-zero number to the zero power equals 1.","1279⁰ = 1"
+5,"What is (1/2)² + (1/4)? Answer as a fraction",1/2|2/4,60,Y,"Compute the exponent first, then add.","(1/2)² + 1/4 = 1/4 + 1/4 = 1/2"

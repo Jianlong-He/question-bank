@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Calculate 14 x 13 (14 = ( 10 + 4). 13 = ( 10 + 3). Calculate ( 10 + 4 ) x ( 10 + 3)).,182,300,Y,Break 14 into ( 10 + 4 ). Break 13 into ( 10 + 3 ). Calculate ( 10 x 10 )+ ( 10 x 3 )+ ( 4 x 10 )+ ( 4 x 3 ),182
+2,Calculate 24 x 16,384,300,Y,Break 24 into( 20 + 4 ) and 16 into( 10 + 6 ),384
+3,Calculate 43 x 22,946,300,Y,Break 43 into ( 40 + 3 ) and 22 into ( 20 + 2 ),946
+4,Estimate 18 x 31 by rounding both numbers to the nearest ten.,600,300,Y,"Round 18 to 20 and 31 to 30, then multiply",600
+5,Estimate 34 x 27 by rounding both numbers to the nearest ten.,900,300,Y,"Round 34 to 30 and 27 to 30, then multiply",900

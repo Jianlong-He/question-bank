@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is a frequency table? (A) A table that shows numbers in order.   (B) A table that shows how often each value appears.   (C) A table that only shows the largest numbers",B|b,60,Y,"Think about counting how many times something happens.","A frequency table lists each value and shows how many times it occurs."
+2,"How many dots represent 8 students in a dot plot?",8|8 dots|8dots,60,Y,"Each dot stands for one data point","8 students = 8 dots"
+3,"Find the range of this data. Data: 4, 6, 9, 11, 13, 16",12,60,Y,"Range = max - min","16 - 4 = 12"
+4,"How many students are older than 8? Data: 5, 10, 6, 9, 8, 11, 7, 12",4,60,Y,"Look for values > 8","10, 9, 11, 12 -> 4 students"
+5,"Data: 3, 4, 5, 6, 6, 6, 7, 7, 8, 8, 8, 8. Identify the most frequent value",8,60,Y,"Count occurrences","8 appears 4 times -> most frequent"

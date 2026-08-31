@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select. In a box plot, Q1 = 12, Median = 18, Q3 = 28. How much of the data is between 12 and 28? : 15% 25% 50% 100%",50%,60,Y,"Think about what Q1 and Q3 mean","The box (Q1 to Q3) = middle half of the data = 50%"
+2,"Which is TRUE about a box plot?   (A) Whiskers show quartiles   (B) Box shows full range   (C) Whiskers show min and max   (D) Median is outside the box",C|c|(C),60,Y,"What do the whisker ends touch?","Whiskers represent minimum and maximum"
+3,"A box plot has minimum 20 and maximum 36. What is the range?",16,60,Y,"Range = max - min","36 - 20 = 16"
+4,"A box plot has Q1 = 24 and Q3 = 31. What is the interquartile range (IQR)?",7,60,Y,"IQR = Q3 − Q1","31 - 24 = 7"
+5,"Select TRUE or FALSE of the statement. A box plot shows median = 12, Q1 = 9, Q3 = 14, min = 6, max = 15. Statement is ""At least 25% of the students are at or younger than 9."" : TRUE FALSE",TRUE,60,Y,"Think about Q1","Q1 = 9 -> about 25% of the data is at or below 9"

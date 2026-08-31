@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select the quadrilateral: Circle Triangle Rectangle,Rectangle,120,Y,A quadrilateral has 4 sides,Rectangle
+2,How many sides does a pentagon have?,5|five,120,Y,"Count the straight sides of a pentagon.",5
+3,How many sides does a square have?,4|four,120,Y,"Count each straight line.",4
+4,"Fill: A square has __ sides and __ angles","4,4",120,Y,Count each straight line (side). Count each point where lines meet (corner).,"4,4"
+5,How many corners does a rectangle have?,4|four,120,Y,"Count each point where two sides meet.",4

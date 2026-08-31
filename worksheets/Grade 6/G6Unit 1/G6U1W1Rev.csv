@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"In a class, the ratio of boys to girls is 5:6. If there are 20 boys, how many girls?","24",60,Y,"Use a factor to scale the ratio","5→20 is ×4; 6×4 = 24"
+2,"A recipe uses 3 cups sugar for 4 cups flour. For 12 cups flour, sugar cups?","9",60,Y,"Find the scale factor from 4 to 12","4→12 is ×3; 3×3 = 9"
+3,"Write 15 to 20 as a fraction in simplest form","3/4",60,Y,"15/20 reduces by 5","3/4"
+4,"Compare 2:3 and 3:5. Which is larger? (write 2:3 or 3:5)","2:3",60,Y,"Use cross-multiplication to compare","2×5=10 > 3×3=9, so 2:3"
+5,"If 40 apples are shared in a 3:5 ratio, how many go to the second group?","25",60,Y,"3+5=8 parts; each part=5; second group 5×5","25"

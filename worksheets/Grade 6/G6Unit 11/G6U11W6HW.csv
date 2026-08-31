@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the MEAN. Data: 5, 10, 30, 8, 80, 20, 7, 40",25,60,Y,"Add all numbers, then divide by 8","Sum = 200 -> 200 ÷ 8 = 25"
+2,"Find the MEDIAN. Data: 6, 40, 16, 10, 90, 25, 4, 55",20.5|41/2|20 1/2,60,Y,"Order first","Ordered: 4, 6, 10, 16, 25, 40, 55, 90. Median = (16 + 25) ÷ 2 = 20.5"
+3,"Find the MODE. Data: 9, 20, 9, 50, 90, 20, 20, 9","9,20|9, 20|20,9|20, 9",60,Y,"Count repeats","Both 9 and 20 appear 3 times -> modes: 9 and 20"
+4,"Mean = 15. Data: 8, 12, ?, 18, 22. What is the missing value?",15,60,Y,"total = mean × number of data points","Total = 15 × 5 = 75. Known sum = 60. Missing = 75 − 60 = 15"
+5,"Select. Data is 3, 5, 7, 9, 11, 13. Add a 300 into the data, which is affected MOST?: Mean Median Mode",Mean,60,Y,"Think about the outlier impact","The mean increases a lot due to 300"

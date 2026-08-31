@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the least common multiple of 9 and 6?,18,120,Y,List multiples of 9 and 6 until you find the first one they share.,18
+2,Rewrite 3/5 as twentieths,12/20,120,Y,"To turn the fraction into twentieths, multiply both the numerator and the denominator by 4.",12/20
+3,Subtract using the least common multiple: 5/6 - 2/9,11/18,180,Y,"Find the least common denominator for 6 and 9, convert the fractions, and subtract the numerators.",11/18
+4,Add using the least common multiple: 3/4 + 4/5. Write your answer as a mixed number.,1 11/20,200,Y,"Change both fractions to a common denominator of 20, add them, and convert the improper fraction.",1 11/20
+5,Select. Which is larger A) 5/8 - 1/4 B) 2/3 - 1/2 : A B the-same,A,260,Y,Convert each subtraction problem to a common denominator to find and compare their differences.,A

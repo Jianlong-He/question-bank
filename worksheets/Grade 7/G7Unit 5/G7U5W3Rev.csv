@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A robot removes 3 charges labeled −15 volts each, reversing the negative effect. Fill in the blanks: The math is -3 × ___, so the total voltage change is ___ volts.","-15, 45",60,Y,"Removing negatives adds positives.","-3 × (-15) = +45."
+2,"A diver moves downward 7 meters per interval. If he goes through −3 intervals (moving backward), what is the resulting depth change? Enter only the number with no units.",21,60,Y,"Negative intervals reverse direction.","-3 × -7 = 21."
+3,"Compute (−7/8) − (1/6) × (−3/4). Simplify your answer before entering it.",-3/4|-0.75,60,Y,"Multiply first, then subtract.","(1/6)×(-3/4) = -1/8. -7/8 - (-1/8) = -6/8 = -3/4."
+4,"Compute (−9/10) ÷ (3/5). Simplify your answer before entering it.",-3/2|-1.5|-1 1/2,60,Y,"Multiply by the reciprocal.","-9/10 × 5/3 = -45/30 = -3/2."
+5,"Compute 4 1/2 ÷ (−9/4). Simplify your answer before entering it.",-2,60,Y,"Convert the mixed number, multiply by the reciprocal.","(9/2) × (4/-9) = -2."

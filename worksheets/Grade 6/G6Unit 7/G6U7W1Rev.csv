@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select. Is y + 12 = 30 an expression or equation?: Expression Equation",Equation,60,Y,"Does it have an equals sign?","An equation has two sides that are equal."
+2,"If x = -8, find the value of x + 19",11,60,Y,"Replace x with -8","-8 + 19 = 11"
+3,"If x = 5, y = 6, find the value of xy",30,60,Y,"Replace x and y with their values","xy = 5*6 = 30"
+4,"Solve y^3 = -27 and find the value of y",-3,60,Y,"What number multiplied by itself 3 times gives -27?","(-3)*(-3)*(-3) = -27"
+5,"Select. If both sides of a scale are equal and you add 5 to both sides, what happens?: Becomes-unbalanced Stays-balanced Cannot-tell",Stays-balanced,60,Y,"Think of a balance scale","Same change on both sides -> still balanced"

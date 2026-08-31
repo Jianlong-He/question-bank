@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is |–8|?",8,60,Y,"Absolute value means distance from zero.","–8 is 8 units away from 0. So |–8| = 8"
+2,"What is |45|?",45,60,Y,"Positive numbers stay the same.","|45| = 45"
+3,"A diver is at -28 meters below sea level. How far is the diver from sea level?",28|28 meters|28m|28 m,60,Y,"How far is distance, distance is always positive","28"
+4,"Select, Which number has a greater absolute value? -21 or 17 : -21 17",-21,60,Y,"Absolute value means distance from zero.","|-21| = 21, |17| = 17, so -21"
+5,"What is |-34| + |-16|?",50,60,Y,"Absolute value means distance from zero.","34 + 16 = 50"

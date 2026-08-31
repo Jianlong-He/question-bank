@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Split a trapezoid into two triangles with bases 10 and 4, height 3. Find area.",21,60,Y,"Add triangle areas or use average of bases","½ × 10 × 3 = 15. ½ × 4 × 3 = 6. Total = 21"
+2,"A shape has two parallel sides of length 5 and 9, height 6. Find the area.",42,60,Y,"Use average of bases","Area = ½ × (5 + 9) × 6 = ½ × 14 × 6 = 42"
+3,"A trapezoid has bases (x + 3) and 5, height 4, area 28. Find x.",6,60,Y,"Substitute into the formula","28 = ½ × (x + 3 + 5) × 4 = 2(x + 8) -> 14 = x + 8 -> x = 6"
+4,"A trapezoid has area 36 square units, height 4, one base is 8. Find the other base.",10,60,Y,"Work backwards","36 = ½ × (8 + b) × 4 -> 36 = 2(8 + b) -> 18 = 8 + b -> b = 10"
+5,"Select. A trapezoid is split into two triangles with equal heights. Triangle A area is 21, B is 14. Which triangle has longer base?: A B the-same",A,60,Y,"They have the same height","Same height -> bigger area means bigger base -> A"

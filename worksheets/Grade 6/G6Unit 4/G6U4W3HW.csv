@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is 30 + 4 x 8?",62,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","30 + 32 = 62"
+2,"What is (5 + 2) x 6?",42,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","7 x 6 = 42"
+3,"What is 12 x (1 + 4) ÷ 20?",3,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","12 x 5 ÷ 20 = 60 ÷ 20 = 3"
+4,"What is 6 × 6 − 18 ÷ 3?",30,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","36 - 6 = 30"
+5,"What is (4 + 2)² ÷ 9?",4,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","6² ÷ 9 = 36 ÷ 9 = 4"

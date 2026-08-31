@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve (1/4)a = (3/8) and find the value of a",3/2|1.5|1 1/2,60,Y,"Multiply both sides by the reciprocal of (1/4) to cancel out (1/4)","a = (3/8)*4 = 12/8 = 3/2"
+2,"Solve 1.5s + (1/2)s = 24 and find the value of s",12,60,Y,"Combine the like terms and cancel out the coefficient","1.5s + 0.5s = 2s, s = 24/2 = 12"
+3,"Mr. Lee's class wants to raise 300 dollars by selling c boxes of cookies. They make 2.50 dollars per box. Write an equation for this situation.",2.5c = 300|2.5c=300|300/c = 2.5|300/c=2.5|300/2.5 = c|300/2.5=c|300 = 2.5c|300=2.5c|2.5 = 300/c|2.5=300/c|c = 300/2.5|c=300/2.5,60,Y,"Money per box x number of boxes = total money","2.5c = 300"
+4,"True or False: 36.8/4.6 = p and 4.6p = 36.8 can represent the same situation",True|true,60,Y,"Think about what p means","These are two ways to write the same relationship, so True."
+5,"A club earns 4.5 dollars for each ticket sold. They want to earn 54 dollars. Let t be the number of tickets. Write an equation and solve.","4.5t=54|4.5t = 54|54/t = 4.5|54/t=4.5|54/4.5 = t|54/4.5=t|54 = 4.5t|54=4.5t|t = 54/4.5|t=54/4.5, 12",60,Y,"Put the equation in the first answer box, solution of t in the second answer box; Money per ticket × number of tickets = total","4.5t = 54, t = 54/4.5 = 12"

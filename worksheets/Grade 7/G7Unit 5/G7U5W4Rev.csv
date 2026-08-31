@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Compute $(-1)^{21}$.","-1|-1.0",60,Y,"21 is an odd number, so one negative sign will be left over","An odd number of negative signs multiplied together makes a negative. $(-1)^{21} = -1$."
+2,"Fill: Compute $(-7)^2$.","49|49.0",60,Y,"Because the negative sign is inside the parentheses, it gets squared","$(-7) \cdot (-7) = 49$."
+3,"Fill: Compute $(-10)^3$.","-1000|-1000.0",60,Y,"Count the zeros and determine the sign for an odd power","$(-10) \cdot (-10) \cdot (-10) = -1000$."
+4,"Fill: Compute $(-3)^3 \cdot (-2)^2$.","-108|-108.0",60,Y,"Evaluate each exponent separately, then multiply their results","$(-3)^3 = -27$ and $(-2)^2 = 4$. $(-27) \cdot 4 = -108$."
+5,"Fill: Find the value of $x$ if $(-3)^x = -27$.","3|3.0",60,Y,"Keep multiplying -3 by itself until you reach -27","$(-3)^1 = -3$. $(-3)^2 = 9$. $(-3)^3 = -27$. Therefore, $x = 3$."

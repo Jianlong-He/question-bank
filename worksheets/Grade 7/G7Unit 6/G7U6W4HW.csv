@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve the two-step equation: 6x − 13 = 23.",6,60,Y,"Add 13, then divide by 6.","6x = 36 → x = 6."
+2,"Solve the equation: 4(5 − x) = −16.",9,60,Y,"Divide first, then isolate x.","5 − x = −4 → −x = −9 → x = 9."
+3,"Solve the equation with a numerator variable: (3x/4) + 5 = 14.",12,60,Y,"Subtract 5, then multiply by 4/3.","3x/4 = 9 → x = 12."
+4,"Solve the equation: (x + 8) / 4 = -5.",-28,60,Y,"Multiply by 4 first, then subtract 8.","x + 8 = -20 → x = -28."
+5,"A fitness studio charges $12 per class plus a $15 equipment fee. If Dana paid $87 total, how many classes did she take? Enter only the number with no units.",6,60,Y,"Subtract the fixed fee, then divide.","87 − 15 = 72 → 72 ÷ 12 = 6."

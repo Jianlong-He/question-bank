@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A machine tiles 2/5 of a floor in 1/2 of an hour. How many floors does it tile per hour?",4/5|0.8,60,Y,"Divide the floor fraction by the hours.","(2/5) ÷ (1/2) = (2/5) × 2 = 4/5."
+2,"Find 60% of 90.",54,60,Y,"Multiply 0.60 by 90.","0.60 × 90 = 54."
+3,"36 is what percent of 48? (Enter only the number)",75,60,Y,"Divide 36 by 48.","36 ÷ 48 = 0.75 = 75%."
+4,"Convert 11/25 to a percent. (Enter only the number)",44,60,Y,"Multiply the numerator and denominator by 4 to get a denominator of 100.","11/25 = 44/100 = 44%."
+5,"A container is 40% full after being filled with 22 liters of water. How many liters is the full capacity? Enter only the number with no units.",55,60,Y,"22 is 40% of the total.","Total = 22/0.40 = 55."

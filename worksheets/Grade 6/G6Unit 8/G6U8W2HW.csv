@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A triangle has base 8 cm and height 6 cm. What is its area?",24|24 cm²,60,Y,"Triangle area is half of a parallelogram","½ × 8 × 6 = 24"
+2,"If two identical triangles form a parallelogram with area 36 cm², what is the area of one triangle?",18|18 cm²,60,Y,"Triangle area is half of a parallelogram","36/2 = 18"
+3,"Find the area of a triangle with base 10 cm and height 9 cm.",45|45 cm²,60,Y,"Triangle area = ½ × base × height","½ × 10 × 9 = 45"
+4,"A triangle has area 40 cm², base 10 cm. Find the height.",8|8 cm,60,Y,"Work backwards","40 = ½ × 10 × h -> 40 = 5h -> h = 8"
+5,"A parallelogram has the same base and height as a triangle. The triangle's area is 25 cm². What is the area of the parallelogram?",50|50 cm²,60,Y,"Triangle area is half of a parallelogram","Parallelogram area = 2 x 25 = 50"

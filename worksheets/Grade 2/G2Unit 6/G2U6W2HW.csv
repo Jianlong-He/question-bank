@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,How many cents are in 4 quarters?,100|100 cents,300,Y,1 quarter = 25 cents,100
+2,How many cents are in 6 nickels?,30|30 cents,300,Y,1 nickel = 5 cents,30
+3,How many cents are in 5 dimes?,50|50 cents,300,Y,1 dime = 10 cents,50
+4,How many cents are in 1 quarter and 3 nickels?,40|40 cents,300,Y,1 quarter = 25 cents and 1 nickel = 5 cents,40
+5,How many cents are there in 1 quarter and 2 dimes?,45|45 cents,300,Y,1 quarter = 25 cents and 1 dime = 10 cents,45

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What does ""average"" mean in statistics?  (A) The largest number in a data set.   (B) A number that represents the center or typical value of a data set.   (C) The difference between the largest and smallest numbers",B|b,60,Y,"Think about what a ""typical"" value means","""Average"" describes data using one number that represents the center."
+2,"Find the median. Data: 4, 38, 16, 8, 90, 24, 2, 52",20,60,Y,"Order first","Ordered: 2, 4, 8, 16, 24, 38, 52, 90. Middle = (16 + 24) ÷ 2 = 20"
+3,"Find the median. Data: 2, 6, 40, 250, 10, 7, 5, 18, 4",7,60,Y,"Order first; with 9 numbers the median is the 5th","Ordered: 2, 4, 5, 6, 7, 10, 18, 40, 250. Middle = 7"
+4,"Compare mean vs median. Data: 1, 2, 3, 4, 5, 6, 7, 90. Which one has the larger value?",mean|Mean|MEAN,60,Y,"Which measure is pulled by the large value 90?","Mean = 14.75. Median = 4.5. The mean is pulled up by 90"
+5,"Find the mode. Data: 5, 5, 12, 20, 35, 70, 70, 90","5, 70|5,70|70, 5|70,5",60,Y,"Look for values that repeat","Both 5 and 70 appear twice -> modes = 5 and 70"

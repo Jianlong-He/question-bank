@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is 3 x 5²?",75,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","3 x 25 = 75"
+2,"What is (3 x 5)²?",225,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","15 x 15 = 225"
+3,"What is 4 + 3 x (60/10)?",22,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","4 + 3 x 6 = 4 + 18 = 22"
+4,"What is (4 + 3) x (60/10)?",42,60,Y,"Order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","7 x 6 = 42"
+5,"Select, which is larger, (A) 2³ or (B) 3² - 2 : A B",A,60,Y,"Evaluate each first.","(A) = 8. (B) = 9 - 2 = 7. A is larger"

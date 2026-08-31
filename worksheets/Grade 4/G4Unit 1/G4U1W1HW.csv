@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the value of 4 in 9148273?,40000,300,Y,The 4 is in the ten thousands place,40000 -> The 4 is in the ten thousands place
+2,Fill: 6927351 = __ thousands + __ ones + __ millions + __ tens + __ hundred thousands + __ hundreds + __ ten thousands,"7,1,6,5,9,3,2",300,Y,"The blanks are not in the usual order, so read carefully.","7,1,6,5,9,3,2 -> 7 thousands, 1 ones, 6 millions, 5 tens, 9 hundred thousands, 3 hundreds, 2 ten thousands"
+3,What number is represented by 8 millions + 0 hundred thousands + 3 ten thousands + 1 hundreds + 7 thousands + 2 ones + 5 tens?,8037152,300,Y,Write each digit in its correct place value position. Include zeros for empty places if any.,8037152
+4,What is the smallest number you can make by rearranging the digits in 5826194?,1245689,300,Y,Put the smallest digits in the smallest place values,1245689
+5,What is the value of 2 in 4519286?,200,300,Y,The 2 is in the hundreds place,200 -> The 2 is in the hundreds place

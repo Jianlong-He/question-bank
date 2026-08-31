@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A six-sided die is rolled 80 times. The number 5 appears 12 times. What is the experimental probability of rolling a 5? Round to two decimal places.",0.15|3/20,60,Y,"Divide occurrences by total rolls.","12/80 = 0.15."
+2,"In a class survey, students recorded lunch types for 40 days: 10 had fruit, 18 had sandwiches, and 12 had snacks. What is the experimental probability of fruit? Round to two decimal places.",0.25|1/4,60,Y,"Probability = fruit count/total.","10/40 = 0.25."
+3,"A coin is flipped twice and a number cube is rolled once. How many outcomes are possible in this compound experiment? Enter only the number.",24,60,Y,"Multiply outcomes of each random action.","Coin flips: 2² = 4; die: 6 → 4 × 6 = 24."
+4,"A jar has 4 green and 4 red marbles. You draw a marble, put it back, and draw again. Fill in the blanks: The probability of getting green the first time is ___, and the probability of getting green both times is ___.","1/2|0.5, 1/4|0.25",60,Y,"Multiply the probability of the first event by the second event.","First draw: 4/8 = 1/2. Both: 1/2 × 1/2 = 1/4."
+5,"Two fair six-sided dice are rolled. What is the probability the sum is 3?",1/18,60,Y,"List pairs that sum to 3.","(1,2) and (2,1) = 2 outcomes → 2/36 = 1/18."

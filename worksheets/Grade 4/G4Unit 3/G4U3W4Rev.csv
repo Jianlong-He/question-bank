@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Estimate 52 x 4 ≈ ? (Rounding to the nearest ten),200,120,Y,Round 52 to the nearest ten;What is 50 x 4?,200
+2,Estimate 415 x 7 ≈ ? (Rounding to the nearest hundred),2800,120,Y,Round 415 to the nearest hundred;What is 400 x 7?,2800
+3,A bakery makes about 389 muffins per day. Estimate how many muffins are made in 5 days. (Rounding to the nearest hundred),2000,300,Y,"Round 389 to the nearest hundred, then multiply that by 5",2000 muffins
+4,"Estimate 2,840 x 4 ≈ ? (Rounding to the nearest thousand)",12000,120,Y,Round 2840 to the nearest thousand;What is 3000 x 4?,12000
+5,"Select which gives a closer estimate for 4,215 x 5 : nearest-thousand nearest-hundred",nearest-hundred,120,Y,Try both 4000 x 5 and 4200 x 5;Which is closer to the actual answer?,nearest-hundred

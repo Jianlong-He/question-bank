@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Compute $-7 + 4 \cdot (-3)$.","-19|-19.0",60,Y,"Multiply before adding (Order of Operations)","First multiply: $4 \cdot (-3) = -12$. Then add: $-7 + (-12) = -19$."
+2,"Fill: Compute $(6 - 11) \cdot (-4)$.","20|20.0",60,Y,"Calculate inside the parentheses first","Parentheses: $6 - 11 = -5$. Multiply: $(-5) \cdot (-4) = 20$."
+3,"Fill: Compute $-12 / (-3) + (-6)$.","-2|-2.0",60,Y,"Divide before adding","Divide: $-12 / (-3) = 4$. Add: $4 + (-6) = -2$."
+4,"Fill: Compute $-8 - (-5) \cdot 3$.","7|7.0",60,Y,"Multiply before subtracting","Multiply: $(-5) \cdot 3 = -15$. Subtract: $-8 - (-15) = -8 + 15 = 7$."
+5,"Fill: Compute $(-3)^2 - 5 \cdot (-2)$.","19|19.0",60,Y,"Calculate the exponent, then multiply, then subtract","Exponent: $(-3)^2 = 9$. Multiply: $5 \cdot (-2) = -10$. Subtract: $9 - (-10) = 19$."

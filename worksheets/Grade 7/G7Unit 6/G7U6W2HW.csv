@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Combine like terms in the expression 8x − 5 + 3x + 12. Fill in the blanks: The simplified expression is ___x + ___, and its value when x = −2 is ___.","11, 7, -15",60,Y,"Combine the x-terms and constant terms first.","8x + 3x = 11x and −5 + 12 = 7. Substitute x = −2: 11(−2) + 7 = −15."
+2,"Simplify using the distributive property: 3(2a − 4) − 2a when a = 6.",12,60,Y,"Distribute 3, then combine like terms.","3(2a − 4) = 6a − 12. Then 6a − 12 − 2a = 4a − 12. Substitute a = 6: 4(6) − 12 = 12."
+3,"Simplify: 6m − 10 + 2(5 − m) when m = 5.",20,60,Y,"Distribute the 2, then combine the m-terms and constants.","2(5 − m) = 10 − 2m. The expression becomes 6m − 10 + 10 − 2m = 4m. Substitute m = 5: 4(5) = 20."
+4,"Factor 6y − 15 and evaluate the expression when y = −3. Enter only the number with no units.",-33,60,Y,"Factor out the greatest common factor 3.","6y − 15 = 3(2y − 5). Substitute y = −3: 6(−3) − 15 = −18 − 15 = −33."
+5,"Interpret and evaluate: “Five more than double a number” when the number is −7. Enter only the number with no units.",-9,60,Y,"Translate the phrase into an expression.","Double the number: 2(−7) = −14. Add 5: −14 + 5 = −9."

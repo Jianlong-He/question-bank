@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A bag has 3 red, 5 blue, and 2 green marbles. What is the probability of drawing a red or green marble?",1/2|0.5|50%,60,Y,"Find the total number of red and green marbles, then divide by the total.","Red + Green = 5 marbles. Total = 10. 5/10 = 1/2."
+2,"A fair coin is flipped 2 times. Fill in the blanks: There are ___ total possible outcomes in the sample space, and the probability of getting all heads is ___.","4, 1/4|0.25",60,Y,"Make a list or tree diagram of all outcomes.","2 × 2 = 4 outcomes. Only HH is all heads, so 1/4."
+3,"A coin is flipped 60 times and lands on heads 36 times. What is the experimental probability of getting tails? Round to one decimal place.",0.4|2/5,60,Y,"Divide tails by total flips.","Tails = 24 → 24/60 = 0.4."
+4,"Event A has probability 0.25 and event B has probability 0.55. Which event is more likely? Enter 1 for A or 2 for B.",2|B|b|Event B,60,Y,"Compare the two probabilities.","0.55 is greater than 0.25, so B → answer 2."
+5,"The probability of rain is 0.2 on any day. Over 90 days, how many rainy days are expected? Enter a whole number.",18,60,Y,"Multiply probability by days.","90 × 0.2 = 18."

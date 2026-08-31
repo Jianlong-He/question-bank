@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Compute (−5/12) + (1/6).",-1/4|-3/12,60,Y,"Convert 1/6 to 2/12.","-5/12 + 2/12 = -3/12 = -1/4."
+2,"Compute (-2.75) + 5.4 (round to the nearest hundredth).",2.65,60,Y,"Add decimals carefully.","5.4 - 2.75 = 2.65."
+3,"Compute (-0.5) + (3/4) − 0.15. Enter the decimal rounded to the nearest hundredth.",0.10|0.1,60,Y,"Convert all terms to decimals first.","-0.5 + 0.75 - 0.15 = 0.10."
+4,"A submarine is at -740 meters and descends 85 more meters. What is its new depth? Enter only the number with no units.",-825,60,Y,"Descending adds more negative depth.","-740 - 85 = -825."
+5,"The final temperature after a change of +14° is 6°. What was the starting temperature? Enter only the number with no units.",-8,60,Y,"Final = initial + 14.","Initial = 6 - 14 = -8."

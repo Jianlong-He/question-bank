@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A spinner with 4 equal sections (A,B,C,D) is spun and then a six-sided die is rolled. How many total outcomes are possible?",24,60,Y,"Multiply the outcomes of the spinner by the outcomes of the die.","4 × 6 = 24."
+2,"A spinner has 5 equal sections. After spinning, a coin is flipped. What is the probability of landing on section 2 and then getting tails?",1/10|0.1|10%,60,Y,"Multiply the probability of section 2 by the probability of tails.","1/5 × 1/2 = 1/10."
+3,"A sample of 60 students shows 15 walk to school. Based on this sample, predict the probability that a student walks to school.",0.25|1/4|15/60|25%,60,Y,"Divide walkers by total students.","15/60 = 0.25."
+4,"Class A's test scores range from 70 to 95 and Class B's range from 65 to 80. What is the difference between their ranges?",10,60,Y,"Find each range (max minus min), then subtract the smaller from the larger.","Class A range = 25, Class B range = 15. 25 - 15 = 10."
+5,"Class A has a mean score of 82 and Class B has a mean score of 74. What is the difference in their means?",8,60,Y,"Subtract the smaller mean from the larger.","82 - 74 = 8."

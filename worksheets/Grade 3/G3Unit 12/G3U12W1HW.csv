@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select. The hour hand is between 1 and 2. What hour is it? : 1 2,1,100,Y,The hour is always the smaller number the hour hand passed.,1
+2,Select. The minute hand points exactly to the 8 on the clock. How many minutes past the hour is that? : 8-minute 40-minute 45-minute,40-minute,100,Y,Each big number equals 5 minutes.,40-minute
+3,The hour hand is between 2 and 3. The minute hand shows 05 minutes. What time is it? ___ hours and ___ minutes,"2, 5",100,Y,Write time as hour 12 minutes.,2:05
+4,"The hour hand is just past 11, and the minute hand shows 08 minutes. What time is it? ___ hours and ___ minutes","11, 8",100,Y,Write time as hour 12 minutes.,11:08
+5,The hour hand is between 12 and 1. The minute hand points to 9. What time is it? ___ hours and ___ minutes,"12, 45",100,Y,Each big number equals 5 minutes. Write time as hour 12 minutes.,12:45

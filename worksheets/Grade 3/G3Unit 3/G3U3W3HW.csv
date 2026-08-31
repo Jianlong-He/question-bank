@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill. Round the numbers to the nearest 100 and subtract: 821 -> __, 294 -> __. Estimated total = __","800, 300, 500",240,Y,"When tens digit > / = 5, round up","800, 300, 500"
+2,"Fill. Round the numbers to the nearest 10 and subtract: 643 -> __, 217 -> __. Estimated total = __","640, 220, 420",240,Y,"When ones digit > / = 5, round up","640, 220, 420"
+3,Estimate to the nearest 10: 764 - 312 -> __,450,240,Y,"Round each number first, then subtract",450
+4,Select. Which estimate is better for 512 + 389? A) 500 + 400 B) 500 + 300 C) 510 + 380 D) 500 + 390 : A B C D,A,240,Y,"Which rounded numbers are closer, 100 or 10? Round up or round down?",A
+5,Select. Which is larger? A) Estimate of 789 + 112 B) Estimate of 950 - 240 : A B C D,A,360,Y,Estimate each option first; A) = 800 + 100 = ? B) = 1000 - 200 = ?,A

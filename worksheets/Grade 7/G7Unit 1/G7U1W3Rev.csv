@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A store sells apples at a constant rate. If 6 pounds of apples cost $15, how much does 1 pound cost?",2.5|5/2,60,Y,"Use unit rate = cost ÷ pounds.","15/6 = 2.5 dollars per pound."
+2,"A proportional relationship is described as: when x = 12, y = 30. If y = kx, find k.",2.5|5/2,60,Y,"Constant of proportionality is y divided by x.","30/12 = 2.5."
+3,"A proportional relationship always has the form y = kx. If a situation has a unit rate of 16, what is the value of k?",16,60,Y,"Unit rate and constant of proportionality are the same.","k = 16."
+4,"A runner travels at a constant proportional rate. If 36 km takes 4 hours, how far does the runner travel in 1 hour?",9,60,Y,"Use d/t to find the unit rate.","36/4 = 9 km per hour."
+5,"A pump moves 14 gallons of water in 4 minutes. The unit rate is ___ gallons per minute, so it will pump ___ gallons in 6 minutes.","3.5|7/2, 21",60,Y,"Find the unit rate by dividing gallons by minutes, then multiply by 6.","14/4 = 3.5 gallons per minute. 3.5 × 6 = 21 gallons."

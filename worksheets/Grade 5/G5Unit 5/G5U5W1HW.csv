@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 700 x 300 = __ x 100 x __ x 100 = 21 x __ = __,"7|3, 3|7, 10000, 210000",240,Y,Think of 700 as 7 x 100 and 300 as 3 x 100. You can attach 4 zeros to 7 x 3.,"7, 3, 10000, 210000. It should be attach 4 zeros to 21 not to 2."
+2,Select your estimate of 42 x 1985: 40x2000=8000 40x2000=80000 40x1000=40000 40x2000=800000,40x2000=80000,240,Y,"Round to friendly numbers: 42 -> 40, 1985 -> 2000",40x2000=80000
+3,Compute 400 x 9000. What is it?,3600000,240,Y,"Think of 400 as 4 x 100 and 9000 as 9 x 1000. 400 has 2 zeros, 9000 has 3 zeros, there are 5 zeros in total. You can attach 5 zeros to 4 x 9.",3600000. 400 x 9000 = 4 x 9 x 100 x 1000 = 3600000
+4,Select the better estimate for 59 x 412 : 60x400 50x410 50x400 60x410,60x410,360,Y,We want numbers that are close but also easy.,60x410. 59 is closer to 60 than 50. 412 is closer to 410 than 400 or 420.
+5,A school bus company operates 123 buses. Each bus can carry up to 24 students. Estimate the total number of students they can carry?,3000|2400,360,Y,We want numbers that are close but also easy.,1st way: 123 x 24 -> 120 x 25 = 3000. 2nd way: 123 x 24 -> 120 x 20 = 2400

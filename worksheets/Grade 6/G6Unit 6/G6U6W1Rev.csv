@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A worker earns $14 per hour plus tips t. Write an expression for total per hour earnings.",14 + t|14+t|t + 14|t+14,60,Y,"Fixed amount + variable","Hourly pay is constant (14), tips t change. Total = 14 + t"
+2,"A restaurant worker earns $15 per hour plus tips t. If t = 22, how much does the worker earn per hour?",37|$37,60,Y,"Write an expression first then substitute t = 22","15 + t = 15 + 22 = 37"
+3,"What are the factors of 9x?","9|x, x|9",60,Y,"What is being multiplied?","9x = 9 * x, so the factors are 9 and x"
+4,"What is the coefficient in 47y?",47,60,Y,"The coefficient is the number multiplying the variable","The coefficient is 47"
+5,"Evaluate 4x + 3 when x = 5",23,60,Y,"Substitute then compute","4*5 + 3 = 20 + 3 = 23"

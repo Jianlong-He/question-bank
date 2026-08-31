@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A store sells oranges at a constant proportional rate. If 9 pounds cost $27, how much does 1 pound cost?",3,60,Y,"Cost ÷ pounds gives unit price.","27/9 = 3."
+2,"A relationship between x and y is proportional. If x = 20 leads to y = 50, what is the unit rate?",2.5|5/2,60,Y,"Rate = y/x.","50/20 = 2.5."
+3,"A proportional relationship shows that 45 km is traveled in 3 hours at a constant pace. Find the constant of proportionality (km per hour).",15,60,Y,"Distance ÷ time gives rate.","45/3 = 15."
+4,"A situation is proportional if doubling x doubles y. If a worker's hours double from 3 to 6 and their pay increases from $48 to $96, what is the constant of proportionality?",16,60,Y,"Pay per hour = 96/6.","Constant = 16 dollars per hour."
+5,"A proportional relationship connects the number of pages read p to time t. If 56 pages are read in 4 hours, how many pages are read in 1 hour?",14,60,Y,"Find unit rate p/t.","56/4 = 14 pages per hour."

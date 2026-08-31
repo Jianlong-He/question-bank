@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,How many hours are in 180 minutes?,3|3hours|3 hours,240,Y,1 hour = 60 minutes,3 -> 1 hour = 60 minutes. 180 ÷ 60 = 3
+2,Convert 90 minutes to hours. Write your answer as a decimal.,1.5|1.5hours|1.5 hours,240,Y,1 hour = 60 minutes,1.5 -> 1 hour = 60 minutes. 90 ÷ 60 = 1.5
+3,Convert 65 centimeters to meters.,0.65|0.65 meters|0.65meters,240,Y,1 meter = 100 centimeters (cm),0.65 meters -> 1 meter = 100 centimeters (cm). 65 centimeters = 65 ÷ 100 = 0.65 meters
+4,Select which is smaller: 5-meter 600-centimeter,5-meter,240,Y,1 meter = 100 centimeters (cm),5-meter -> 1 meter = 100 centimeters (cm). 600 centimeters = 600 ÷ 100 = 6 meters
+5,A baseball game lasts 3 hours and 15 minutes. How long is the game in hours (decimal form)?,3.25,360,Y,1 hour = 60 minutes,"3.25 -> 1 hour = 60 minutes. 15 ÷ 60 = 0.25, so 3 hours and 15 minutes = 3.25 hours"

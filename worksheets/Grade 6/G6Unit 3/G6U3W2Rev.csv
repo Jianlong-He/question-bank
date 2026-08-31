@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"To show 126% by shading, how many full 100-square grids do you need? (Put the answer in answer box 1) And how many extra squares do you need? (Put the answer in answer box 2)","1, 26",60,Y,"126% = 100% + 26%","1 full grid and 26 extra squares"
+2,"There are 2 rectangles with the same size. One rectangle is fully shaded, and another rectangle has 3/5 shaded. What percent is shaded altogether?",160%,60,Y,"Change the fraction to a denominator of 100.","One full rectangle is 100%. 3/5 = 60/100 = 60%. Total is 100% + 60% = 160%"
+3,"There are 2 squares with the same size. A 100-square grid has 42 shaded squares. Then another 100-square grid has 2 full rows shaded. What percent is shaded altogether? Put the answer as 10%",62%,60,Y,"A full row in a 10 by 10 grid is 10 squares.","First grid: 42%. Second grid: 2 full rows = 20 squares = 20%. Total: 42% + 20% = 62%"
+4,"A model shows 3 full wholes and 15 more out of 100. What percent does the model represent? Put the answer as 10%",315%,60,Y,"Each whole is 100%.","Three wholes = 300%. 15 out of 100 = 15%. Total is 315%"
+5,"A shape is divided into 25 equal parts. 16 parts are shaded. What percent is shaded?",64%,60,Y,"Write the fraction first. Then change it to a denominator of 100.","16/25 = 64/100 = 64%"

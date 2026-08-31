@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Data set A: 3, 3, 5, 5. Data set B: 1, 2, 6, 7. Which data set is more spread out?",B|Data set B,60,Y,"Look at how far values are from the mean","Both have mean 4, but B's values are farther from 4 -> more spread"
+2,"Data: 3, 5, 7, 1. Find the Mean",4,60,Y,"Add all values then divide by 4","(3 + 5 + 7 + 1) ÷ 4 = 16 ÷ 4 = 4"
+3,"Data: 3, 5, 7, 1. Find the distance of each value from the mean","1,1,3,3",60,Y,"Distance from mean (4)","|3-4| = 1, |5-4| = 1, |7-4| = 3, |1-4| = 3"
+4,"Data: 3, 5, 7, 1. Find the average of deviations (MAD).",2,60,Y,"mean = 4, distances = 1,1,3,3","(1 + 1 + 3 + 3) ÷ 4 = 8 ÷ 4 = 2"
+5,"Data: 9, 9, 9, 9, 9. Find the Average Deviation from the Mean (MAD).",0,60,Y,"All numbers are the same","All values = mean -> no deviation -> 0"

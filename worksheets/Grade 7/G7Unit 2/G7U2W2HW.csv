@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A snail crawls 1/6 of a meter in 1/2 of a minute. What is its speed in meters per minute? (Enter as a fraction or decimal)",1/3|0.333,60,Y,"Divide the meters by the minutes.","(1/6) ÷ (1/2) = (1/6) × 2 = 1/3."
+2,"A water pump fills 3/4 of a tank in 1/2 hour. How many tanks does it fill per hour? (Enter as an improper fraction or mixed number)",3/2|1 1/2|1.5,60,Y,"Divide the tank fraction by the time fraction.","(3/4) ÷ (1/2) = (3/4) × 2 = 3/2."
+3,"Find 25% of 96.",24,60,Y,"Multiply 0.25 by 96.","0.25 × 96 = 24."
+4,"What percent of 60 is 21? (Enter only the number)",35,60,Y,"Divide 21 by 60 to find the decimal, then convert to percent.","21 ÷ 60 = 0.35 = 35%."
+5,"A store advertises 20% off every item. If the sale reduces an item's price by $12, find the original price. Enter only the number with no units.",60,60,Y,"12 is 20% of the original price.","Original = 12/0.20 = 60."

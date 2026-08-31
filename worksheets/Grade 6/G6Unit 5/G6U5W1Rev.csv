@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select, Which temperature is colder? -12 or 18 : -12 18",-12,60,Y,"Temperatures below zero are colder than temperatures above zero.","-12"
+2,"Order these numbers from smallest to greatest: -76, 105, 0, 21, -13, 5, -4","-76, -13, -4, 0, 5, 21, 105",60,Y,"Put smaller to larger numbers from left to right","-76, -13, -4, 0, 5, 21, 105"
+3,"If you move 40 units left from 18, what number do you reach?",-22,60,Y,"Left means negative direction.","18 - 40 = -22"
+4,"What is -(-(-183))?",-183,60,Y,"Each negative flips the number.","-183"
+5,"A submarine is 20 meters below sea level. Then it rises 12 meters. What is its new position?",-8,60,Y,"Start at –20 and move toward zero.","Below sea level is negative. -20 + 12 = -8"

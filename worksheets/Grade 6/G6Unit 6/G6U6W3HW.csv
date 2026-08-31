@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Evaluate x + 3y when x = 5, y = 2",11,60,Y,"Substitute first then follow the order of operations","5 + 3(2) = 5 + 6 = 11"
+2,"Evaluate 2x + 4y when x = 6, y = 3",24,60,Y,"Substitute first then follow the order of operations","2(6) + 4(3) = 12 + 12 = 24"
+3,"Evaluate xy + y when x = 3, y = 5",20,60,Y,"Substitute first then follow the order of operations","(3)(5) + 5 = 15 + 5 = 20"
+4,"Evaluate 4k - 2 when k = 0.5",0,60,Y,"Substitute first then follow the order of operations","4(0.5) - 2 = 2 - 2 = 0"
+5,"Evaluate 0.3m + 4 when m = 10",7,60,Y,"Substitute first then follow the order of operations","0.3(10) + 4 = 3 + 4 = 7"

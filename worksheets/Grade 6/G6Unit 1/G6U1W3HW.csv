@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write 20:30 in simplest form","2:3",60,Y,"Divide by 10","2:3"
+2,"Find the unit price: $8 for 4 apples ($ per apple)","2",60,Y,"8 ÷ 4","2"
+3,"Complete: __:12 = 3:4","9",60,Y,"Use equivalent ratios or cross-multiplication","4×3=12, so 3×3=9"
+4,"Are 10:15 and 14:21 equivalent? (yes/no)","yes",60,Y,"Both simplify to 2:3","yes"
+5,"A class has a 3:7 ratio of teachers to students. If 6 teachers, students?","14",60,Y,"3→6 is ×2; 7×2","14"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Two lines intersect. One angle measures 63°. What is the measure of an adjacent angle formed by the intersection?",117,60,Y,"Adjacent angles on a straight intersecting line are supplementary (add to 180).","180 - 63 = 117."
+2,"Two complementary angles measure (4x)° and (5x)°. What is the measure of the larger angle?",50,60,Y,"Complementary angles add up to 90.","4x + 5x = 90 → 9x = 90 → x = 10. The larger angle is 5(10) = 50."
+3,"A triangle has angles measuring x°, (x + 20)°, and 40°. What is the value of x?",60,60,Y,"The angles of a triangle sum to 180°.","x + (x + 20) + 40 = 180 → 2x + 60 = 180 → x = 60."
+4,"Can the side lengths 5, 12, and 8 form a triangle?",Yes|yes|Y|y|1,60,Y,"Check the triangle inequality theorem: the sum of the two smaller sides must be greater than the largest side.","5 + 8 > 12 (13 > 12). This is true, so yes."
+5,"A rectangular pyramid is sliced parallel to the base at one-quarter the height. What shape is the cross-section?",Rectangle|rectangle,60,Y,"A slice parallel to the base copies the base's shape.","The base is a rectangle, so the cross-section is a rectangle."

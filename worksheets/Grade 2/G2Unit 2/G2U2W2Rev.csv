@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill write the place values of digits in 492. Hundreds = __, Tens = __, Ones = __","4,9,2",240,Y,"Look at first digit (hundreds), Look at middle digit (tens), Look at last digit (ones)","4,9,2"
+2,Select which number has the digit 4 representing a value of 400? : 242 475 356 547,475,240,Y,"For 4 to be worth 400, 4 must be in hundreds place",475
+3,"Select the largest number you can create using the digits 4, 9, and 1? : 491 941 914 194",941,240,Y,"Put biggest digit first, then next biggest, then smallest",941
+4,"What is the largest number you can create using the digits 6, 2, 5?",652,240,Y,"6 is biggest, put first, Then 5, then 2",652
+5,"Fill write the place values of digits in 903. Hundreds = __, Tens = __, Ones = __","9,0,3",240,Y,"9 in hundreds, 0 in tens (no tens), 3 in ones","9,0,3"

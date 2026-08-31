@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write an expression for: ""4 more than x""",x+4|x + 4|4+x|4 + x,60,Y,"""more than"" means add","Start with x, add 4 -> x + 4"
+2,"Write an expression for: ""The sum of y and 12""",y+12|y + 12|12+y|12 + y,60,Y,"""sum"" means addition","y + 12"
+3,"Write an expression for: ""k minus 9""",k-9|k - 9,60,Y,"""minus"" means subtraction","k - 9"
+4,"Write an expression for: ""7 times m""",7m|7 x m|7 * m,60,Y,"Multiplication","7m"
+5,"Write an expression for: ""45 divided by p""",45/p,60,Y,"Division","45/p"

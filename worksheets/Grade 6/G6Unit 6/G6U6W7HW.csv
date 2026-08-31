@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the Least Common Multiplier (LCM) of 4 and 12.",12,60,Y,"List multiples of both numbers","Multiples of 12: 12, 24. Multiples of 4: 4, 8, 12. Smallest common = 12"
+2,"Find the Least Common Multiplier (LCM) of 6 and 9.",18,60,Y,"List multiples of both numbers","Multiples of 6: 6, 12, 18. Multiples of 9: 9, 18. Smallest common = 18"
+3,"Find the Least Common Multiplier (LCM) of 10 and 15.",30,60,Y,"List multiples of both numbers","Multiples of 10: 10, 20, 30. Multiples of 15: 15, 30. Smallest common = 30"
+4,"Find the Least Common Multiplier (LCM) of 6 and 10 using Prime Factorization.",30,60,Y,"6 = 2 * 3, 10 = 2 * 5","6 = 2 * 3, 10 = 2 * 5, so LCM = 2 x 3 x 5 = 30"
+5,"Two lights blink every 4 seconds and 10 seconds. When will they blink together again? (At which seconds)",20|20 seconds,60,Y,"Find LCM","LCM(4, 10) = 20"

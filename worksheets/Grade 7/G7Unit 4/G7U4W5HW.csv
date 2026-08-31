@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the distance between -11 and 24 using absolute value. Fill in the blanks: The difference is |-11 - 24| = |___|, so the distance is ___.","-35, 35",60,Y,"Distance = |difference|.","|-11 - 24| = |-35| = 35."
+2,"A diver is at -86 meters and a rock formation is located at -29 meters. How far apart are they? Enter only the number with no units.",57,60,Y,"Distance = |-86 - (-29)|.","|-57| = 57."
+3,"Compute (−11/18) + (5/9).",-1/18,60,Y,"Convert 5/9 to 10/18.","-11/18 + 10/18 = -1/18."
+4,"A statement says “The reading dropped 38 units.” Represent this as an integer.",-38,60,Y,"A drop is negative.","-38."
+5,"A skier starts at -360 meters, descends 140 meters, then climbs 210 meters. What is his final elevation? Enter only the number with no units.",-290,60,Y,"Apply the vertical changes in order.","-360 - 140 + 210 = -290."

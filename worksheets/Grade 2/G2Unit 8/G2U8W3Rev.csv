@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A rectangle has 2 rows and 6 columns of same-sized squares. It has __ rows and __ columns. The total number of same-sized squares is __.","2,6,12",240,Y,Count rows. Count columns. Multiply rows and columns to find the total squares.,"2,6,12"
+2,"Ben splits a rectangle into 3 rows and 5 columns. How many total same-sized squares did Ben make?",15,120,Y,Multiply rows and columns.,15
+3,"A rectangle has 4 columns with 4 squares in each column. How many same-sized squares are there?",16,120,Y,4 columns x 4 squares each.,16
+4,"Select which rectangle has MORE total same-sized squares. Rectangle A is divided into 2 rows and 6 columns. Rectangle B is divided into 3 rows and 5 columns. Which rectangle has MORE?:A B",B,240,Y,Find the total for each rectangle first.,"A has 12, B has 15. B has more"
+5,"A rectangle is partitioned into 5 rows and 4 columns. How many total same-sized squares are there?",20,120,Y,Multiply rows and columns.,20

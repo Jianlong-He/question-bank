@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A diagram shows 5 positive tiles and 11 negative tiles. Write the resulting integer. Enter only the number with no units.",-6,60,Y,"More negatives than positives.","5 − 11 = -6."
+2,"Graph the expression (-3) + (+8) on a number line in your head. What is the result?",5,60,Y,"Move right 8 from -3.","-3 + 8 = 5."
+3,"Interpret the integer expression -(|-5| + 4).",-9,60,Y,"Absolute value of -5 is 5.","-(5 + 4) = -9."
+4,"Evaluate the expression: (-8) − |-2| + |-6|.",-4,60,Y,"Take the absolute values first.","-8 - 2 + 6 = -4."
+5,"Using a number line, evaluate (-14) + the opposite of (-6).",-8,60,Y,"Opposite of -6 is +6.","-14 + 6 = -8."

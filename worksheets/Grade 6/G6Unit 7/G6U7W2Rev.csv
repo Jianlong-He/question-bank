@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Six equal bags have a total weight of 54 kg. What is the weight of each bag?",9|9kg|9 kg,60,Y,"Let each bag be x. Then divide.","6x = 54, x = 54/6 = 9 kg"
+2,"If x = 2, y = 5, find the value of x^y",32,60,Y,"Replace x and y with their values","x^y = 2^5 = 32"
+3,"If x = 4, x^y = 64, what is y",3,60,Y,"Replace x with 4","4*4*4 = 64, so y = 3"
+4,"Solve 63/m = 9 and find the value of m",7,60,Y,"Multiply both sides by m then divide both sides","63 = 9m, m = 63/9 = 7"
+5,"Solve 92 - m = 45 and find the value of m",47,60,Y,"Remove 92 on both sides to get the value of -m first","-m = 45 - 92, so m = 92 - 45 = 47"

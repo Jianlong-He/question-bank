@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is (60 - 20) ÷ 4?,10,240,Y,Order of expressions: Brackets -> Multiply/Divide,10
+2,What is 4 x 8 ÷ 2?,16,240,Y,"Only Multiply/Divide, left to right",16
+3,A notebook has 52 pages. You have already written in 12 pages. You write in 5 pages each day. How many days will it take to finish the notebook?,8,240,Y,Days = pages left ÷ pages per day,8
+4,You have 40 dollars and you already spent 10 dollars. If you spend 6 dollars every day on lunch. How many days will it take to use up all your remaining money?,5,240,Y,Days = money left ÷ money spend per day,5
+5,There are 8 plates of sandwiches. Each plate has 4 sandwiches. Each guest eats 2 sandwiches. How many guests were there?,16,240,Y,Number of guests = Total sandwiches ÷ sandwiches per guest,16

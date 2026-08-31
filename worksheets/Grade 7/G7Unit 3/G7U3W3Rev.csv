@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Using integer chips, you combine (+8) with a group of chips representing -3 and then remove 2 negative tiles. What is the final value?",7,60,Y,"Start with 8 + (-3) = 5; removing negatives increases the value.","5 + 2 = 7."
+2,"A diagram shows: 12 positive tiles, 4 negative tiles, and 3 zero pairs. What integer does this represent?",8,60,Y,"Zero pairs = 0.","12 - 4 = 8."
+3,"Interpret the expression −(|−3| + |−6|).",-9,60,Y,"Take the absolute values first.","-(3 + 6) = -9."
+4,"Using integer chips, compute (+4) + the opposite of [(-13)].",17,60,Y,"Opposite of -13 is +13.","4 + 13 = 17."
+5,"Using a number line, evaluate (-10) + (+4) + the opposite of (-3).",-3,60,Y,"Opposite of -3 is +3.","-10 + 4 + 3 = -3."

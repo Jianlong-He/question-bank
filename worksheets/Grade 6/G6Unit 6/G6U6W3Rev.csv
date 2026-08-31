@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Evaluate 9n - 2 when n = 1/3",1,60,Y,"Substitute first then follow the order of operations","9(1/3) - 2 = 3 - 2 = 1"
+2,"Evaluate 2y^3 - 10 when y = 3",44,60,Y,"Substitute first then follow the order of operations","2(3)^3 - 10 = 2*27 - 10 = 54 - 10 = 44"
+3,"Which is larger when x = 4, y = 1.5? (A) 2x + y (B) xy + 5",B,60,Y,"Evaluate both","A = 2(4) + 1.5 = 9.5, B = (4)(1.5) + 5 = 11. B is larger"
+4,"Evaluate 4x + 2y when x = 0.5, y = 1.2",4.4,60,Y,"Substitute first then follow the order of operations","4(0.5) + 2(1.2) = 2 + 2.4 = 4.4"
+5,"A ride costs 2 dollars plus 3 dollars per km and 1 dollar per minute. Write an expression and find total cost if distance (d) = 3 km and time (t) = 4 min.","2 + 3d + t|2+3d+t, 15|15 dollars",60,Y,"Total cost = fixed cost + distance cost + time cost","2 + 3d + t = 2 + 9 + 4 = 15 dollars"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is 7²?",49,60,Y,"7² means multiply two 7's.","7² = 7 x 7 = 49"
+2,"What is 21¹?",21,60,Y,"Any number to the first power equals itself.","21¹ = 21"
+3,"What is 5³ ÷ 5¹?",25,60,Y,"First calculate each exponent.","5³ = 125, 5¹ = 5, 125 ÷ 5 = 25"
+4,"What is 48⁰?",1,60,Y,"Any non-zero number to the zero power equals 1.","48⁰ = 1"
+5,"What is 10 + (1+2)³ x 2?",64,60,Y,"Follow order of operations: Brackets -> Exponents -> Multiply/Divide -> Add/Subtract","10 + 3³ x 2 = 10 + 27 x 2 = 10 + 54 = 64"

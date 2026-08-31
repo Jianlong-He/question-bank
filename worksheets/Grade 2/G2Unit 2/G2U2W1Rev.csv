@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: write the place values of digits in 63. Tens = __ , Ones = __","6,3",120,Y,Look at the first digit (tens). Look at the last digit (ones),"6,3"
+2,"Fill: write the place values of digits in 247. Hundreds = __ , Tens = __ , Ones = __","2,4,7",120,Y,Look at first digit (hundreds);Look at middle digit (tens);Look at last digit (ones),"2,4,7"
+3,Select which number has the digit 6 representing a value of 60?:264 645 456 736,264,120,Y,"For 6 to be worth 60, 6 must be in the tens place",264
+4,"What is the largest number you can create using the digits 4, 9, 2?",942,120,Y,"9 is the biggest, put first. Then 4, then 2",942
+5,"Ben needs to create the largest possible number using the digits 6, 2, and 8. However, the digit 2 MUST be in the tens place. Which number should he make?",826,240,Y,2 must be in the middle (tens). Put the largest digit in hundreds. Put the other in ones,826

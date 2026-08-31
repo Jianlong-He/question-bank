@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill the correct symbol (> < or =): 823 __ 832,<,120,Y,"Compare hundreds: both have 8, Compare tens: 2 < 3, so 823 < 832",<
+2,Fill the correct symbol (> < or =): 5021 __ 2051,>,120,Y,"5021 has 5 thousands and 2051 has 2 thousands; 5000 > 2000, so 5021 > 2051",>
+3,Which number is greater? 672 or 627?,672,120,Y,"Compare: both have 6 hundreds and 672 has 7 tens, 627 has 2 tens; 7 tens > 2 tens",672
+4,Fill the correct symbol (> < or =): 4 hundreds 2 tens 5 ones __ 425,=,120,Y,4 hundreds 2 tens 5 ones = 425,=
+5,Fill the correct symbol (> < or =): 700 + 40 + 2 __ 7 hundreds 3 tens 9 ones,>,120,Y,700 + 40 + 2 = 742; 7 hundreds 3 tens 9 ones = 739,>

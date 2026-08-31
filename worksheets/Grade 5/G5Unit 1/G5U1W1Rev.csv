@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Write 2.078 in the expanded form as a sum of places,2 + 0.07 + 0.008|2 + 0.0 + 0.07 + 0.008,60,Y,"Separate ones, tenths, hundredths and thousandths place",2 + 0.07 + 0.008|2 + 0.0 + 0.07 + 0.008
+2,"Which place is 7 in 4,382.76?",tenths,60,Y,The digit to the right of the decimal is in the tenths place,tenths
+3,"Order from greatest to least: 9.91, 9.9, 9.99","9.99, 9.91, 9.9",60,Y,"Compare the tenths place first, if same compare hundredths","9.99, 9.91, 9.9"
+4,"What is the value of 3 in 4,382.76?",300,60,Y,3 is in the hundreds place,300
+5,Round 4.385 to the nearest tenths,4.4,60,Y,Look at the hundredths place and decide whether to round up or down,4.4

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A robot assembles 3/4 of a model in 1/4 of an hour. Find its production rate in models per hour. Enter only the number.",3,60,Y,"Compute (3/4) ÷ (1/4).","(3/4) ÷ (1/4) = (3/4) × 4 = 3."
+2,"Find 40% of 85.",34,60,Y,"Multiply 0.40 by 85.","0.40 × 85 = 34."
+3,"Write 7/20 as a percentage. (Enter only the number)",35,60,Y,"Multiply by 5/5 to get a fraction out of 100.","7/20 = 35/100 = 35%."
+4,"What percent of 150 is 45? (Enter only the number)",30,60,Y,"Divide 45 by 150.","45 ÷ 150 = 0.30 = 30%."
+5,"A tank contains 42 liters after being filled to 35% of its capacity. Find the total capacity. Enter only the number with no units.",120,60,Y,"42 is 35% of the total.","Total = 42/0.35 = 120."

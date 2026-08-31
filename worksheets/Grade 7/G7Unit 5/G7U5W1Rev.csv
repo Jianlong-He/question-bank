@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Compute $(-54) / (-6)$.","9|9.0",60,Y,"A negative divided by a negative is a positive","$54 / 6 = 9$. Since both numbers are negative, the result is positive 9."
+2,"Fill: Find $y$ if $(-56) / y = 8$.","-7|-7.0",60,Y,"Divide -56 by 8 to find the missing divisor","$(-56) / 8 = -7$. So, $y = -7$."
+3,"Fill: Compute $(-3) \cdot (-2) \cdot (-5)$.","-30|-30.0",60,Y,"Multiply two numbers first, then multiply by the third","First, $(-3) \cdot (-2) = 6$. Then, $6 \cdot (-5) = -30$."
+4,"Fill: Find $x$ if $(-80) / (x \cdot 4) = -5$.","4|4.0",60,Y,"First, find what $(-80)$ must be divided by to equal $-5$","$(-80) / 16 = -5$, so $(x \cdot 4) = 16$ and $x = 4$."
+5,"Fill: A freezer's temperature drops by $2^\circ$C every 15 minutes. What is the total change in temperature after 2 hours? (Enter as a negative number)","-16|-16.0",60,Y,"Find how many 15-minute intervals are in 2 hours, then multiply by -2","2 hours = 120 minutes. $120 / 15 = 8$ intervals. $8 \cdot (-2) = -16^\circ$ C."

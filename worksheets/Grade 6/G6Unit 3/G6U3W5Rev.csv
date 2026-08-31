@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is 0.2% of 400?",0.8,60,Y,"Convert percent to a decimal or fraction","0.2% = 0.002, 400 x 0.002 = 0.8"
+2,"What is 50% of 74?",37,60,Y,"Convert percent to a decimal or fraction","50% = 1/2, 74 / 2 = 37"
+3,"What percent of 60 is 12? Put the answer as 5%",20%,60,Y,"Write the fraction 12/60.","12/60 = 1/5 = 20/100 = 20%"
+4,"What percent of 150 is 180? Put the answer as 5%",120%,60,Y,"Write the fraction 180/150.","180/150 = 6/5 = 120/100 = 120%"
+5,"Select. Which is greater? : 30%-of-80 25%-of-90",30%-of-80,60,Y,"Calculate both values.","30%-of-80 = 0.3 x 80 = 24. 25%-of-90 = 0.25 x 90 = 22.5. 24 is greater"

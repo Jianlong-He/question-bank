@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write 30 to 48 as a fraction in simplest form","5/8",60,Y,"Divide by 6","5/8"
+2,"Compare 3:8 and 4:10. Which is larger? (write 3:8 or 4:10)","4:10",60,Y,"Cross-multiply 3×10 vs 8×4","3×10=30 < 8×4=32, so 4:10"
+3,"A juice mix is 3:4 (syrup:water). If syrup is 9 L, water L?","12",60,Y,"3→9 is ×3; 4×3","12"
+4,"If 66 points are split 4:7, larger share?","42",60,Y,"4+7=11; each part=6; larger 7×6","42"
+5,"Rate: 75 km in 2.5 hours (km/h)","30",60,Y,"75 ÷ 2.5","30"

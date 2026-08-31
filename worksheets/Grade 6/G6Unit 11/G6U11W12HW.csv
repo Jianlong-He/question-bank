@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select. A histogram has most data on the left and a long tail to the right. Identify the shape : Symmetrical Left-tailed Right-tailed No-pattern",Right-tailed,60,Y,"Where is the tail?","A long tail on the right -> right-tailed (right-skewed)"
+2,"Select. What does ""symmetrical"" mean? : One-side-is-longer Both-sides-look-similar Only-one-peak Data-is-random",Both-sides-look-similar,60,Y,"Think mirror image","Symmetrical means both sides look like mirror images"
+3,"What is an outlier? (A) Most common value   (B) A value far from others   (C) Middle value   (D) A group of values",B|b|(B),60,Y,"Think ""very different""","An outlier is a value much higher or lower than the rest"
+4,"What is a cluster? : (A) A single value   (B) A gap   (C) A group of data close together   (D) The largest value",C|c|(C),60,Y,"Think grouping","A cluster is where many values are grouped together"
+5,"Select. A graph has one value far away from all others. Identify the feature: Peak Cluster Outlier Symmetry",Outlier,60,Y,"""Far away""","A value far from others is an outlier"

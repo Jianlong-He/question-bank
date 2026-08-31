@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the arithmetic mean?   (A) The middle number in a data set.   (B) The number that appears most often.   (C) The sum of all numbers divided by the number of values",C|c,60,Y,"How do you compute an average?","The arithmetic mean is found by adding all values and dividing by how many values there are."
+2,"Find the mean. Data: 3, 5, 7",5,60,Y,"Add all numbers, then divide by 3","(3 + 5 + 7) ÷ 3 = 5"
+3,"Find the median. Data: 4, 4, 5, 6, 9",5,60,Y,"The middle of 5 ordered numbers is the 3rd one","Middle value = 5"
+4,"Find the MODE. Data: 6, 30, 6, 50, 90, 30, 30, 8",30,60,Y,"Which number appears most?","30 appears 3 times -> mode is 30"
+5,"Find the mean. Data: 2, 10, 40, 8, 90, 20, 6, 40",27,60,Y,"Add all numbers, then divide by 8","Sum = 216. Mean = 216 ÷ 8 = 27"

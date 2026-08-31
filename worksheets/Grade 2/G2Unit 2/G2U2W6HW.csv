@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select Which number(s) are odd? : 32 15 20 49,"15,49",120,Y,"Odd ends in 1, 3, 5, 7, 9","15,49"
+2,Write the next 5 even numbers after 40.,"42,44,46,48,50",120,Y,Even numbers can be split into 2 equal groups,"42,44,46,48,50"
+3,Write the next 5 odd numbers after 40.,"41,43,45,47,49",120,Y,Odd numbers have 1 left over when split into 2,"41,43,45,47,49"
+4,A class has 24 pieces of candy to share among 2 equal groups of kids. Can the teacher do it fairly? : Yes No,Yes,120,Y,24 split into 2 = 12 in each group,yes
+5,Jill has pocket money of 25 dollars left from last week. She got 31 dollars as pocket money for this week. Is the total pocket money she has now even or odd?,even,240,Y,Add the money: $25 + $31 = $56; 56 can be split into 2 equal groups.,even

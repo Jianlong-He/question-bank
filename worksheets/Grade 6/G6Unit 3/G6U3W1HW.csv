@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select. A train travels 90 km in 1 hour. What is the rate of travel? : 1hour-per-90km 90km-per-hour 45km-per-hour",90km-per-hour,60,Y,"Rate = amount per something (per hour, per item, etc.)","Distance = 90 km. Time = 1 hour. Rate = 90 ÷ 1 = 90 km per hour"
+2,"A worker earns $15 per hour. How much money will they earn in 6 hours?",90|$90|$ 90,60,Y,"Multiply the rate by the number of hours.","$15 x 6 = $90 in 6 hours"
+3,"Select. Ben reads 150 pages in 5 hours. How many pages does he read per hour? : 150pages-per-hour 50pages-per-hour 30pages-per-hour 25pages-per-hour",30pages-per-hour,60,Y,"Rate = amount per something (per hour, per item, etc.)","Divide pages by hours = 150 ÷ 5 = 30 pages per hour"
+4,"A gardener plants 54 flowers in 6 hours. How many flowers can the gardener plant in 3 hours?",27|27 flowers|27flowers,60,Y,"Step 1: Find flowers per hour. Step 2: Multiply by hours","Flowers per hour = 54 ÷ 6 = 9. In 3 hours: 9 x 3 = 27"
+5,"6 notebooks cost 15 dollars. How much (dollars) do 4 notebooks cost?",10|$10|$ 10|10 dollars|10dollars,60,Y,"Find the price per notebook first.","Price per notebook = 15 ÷ 6 = 2.5. 4 notebooks = 4 x 2.5 = 10 dollars"

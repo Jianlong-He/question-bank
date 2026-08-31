@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A cyclist rides 1/2 mile in 1/8 of an hour. What is the cyclist's speed in miles per hour?",4,60,Y,"Divide miles by hours.","(1/2) ÷ (1/8) = (1/2) × 8 = 4."
+2,"A student completes 25% of a project every 30 minutes. How much of the project is completed in two hours? Enter your answer as a decimal.",1|1.0,60,Y,"There are four 30-minute intervals in two hours.","4 × 0.25 = 1.0, so 100% of the project is completed."
+3,"A robot completes 3/4 of a task in 3/8 of an hour. Compute its task rate in tasks per hour. Enter only the number with no units.",2,60,Y,"Divide fractional work by fractional time.","(3/4) ÷ (3/8) = (3/4) × (8/3) = 2."
+4,"A family's dinner bill is $60. They want to leave a 15% tip. Fill in the blanks: The tip is $___, making the total bill $___.","9, 69",60,Y,"Find 15% of 60, then add it to the bill.","Tip: 0.15 × 60 = 9. Total: 60 + 9 = 69."
+5,"A student gets 18 questions correct on a quiz and earns 90%. How many questions were on the quiz? Enter only the number with no units.",20,60,Y,"18 is 90% of the total.","Total = 18/0.90 = 20."

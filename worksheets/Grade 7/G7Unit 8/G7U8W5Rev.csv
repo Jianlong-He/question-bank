@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"You are making a scale drawing where 2 cm represents 25 m. If a road is 125 m in real life, how long should it be in the drawing? Enter the number without units.",10,60,Y,"Divide real length by meters-per-2-centimeters, then multiply by 2.","125/25 = 5 → 5 × 2 = 10."
+2,"A scale drawing reduces every real length by a factor of 0.25. If the real width of a room is 36 units, what is the width in the drawing? Enter the number without units.",9,60,Y,"Multiply real length by 0.25.","36 × 0.25 = 9."
+3,"A model enlarges all lengths by a factor of 2.5. If an object is 4.2 units long in the drawing, what is the real length? Enter the number without units.",10.5|21/2|10 1/2,60,Y,"Multiply drawing length by the enlargement factor.","4.2 × 2.5 = 10.5."
+4,"A rectangle has area 60. It is reduced by a scale factor of 0.5. Fill in the blanks: The scale factor squared is ___. The area of the scaled rectangle is ___.","0.25, 15",60,Y,"Square the scale factor, then multiply by the area.","0.5² = 0.25. 60 × 0.25 = 15."
+5,"A map shows a road as 3.5 cm long. If the real road is 84 km long, what is the map scale factor (real/drawing)? Enter the number without units.",24,60,Y,"Divide real length by drawing length.","84/3.5 = 24."

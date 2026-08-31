@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select which multiplication property the student uses. 12 x 4 is hard. I'll do (3 x 4) x 4 instead. : Commutative Distributive Associative,Associative,240,Y,The student is breaking 12 into 3 x 4 and regrouping the multiplication,Associative
+2,Select True or False. 6 x 3 x 2 = 3 x 6 x 2 : True False,TRUE,240,Y,Associative property of multiplication. You can change the order of numbers,TRUE
+3,Fill 5 x 12 = 5 x (2 x __ ) = 10 x __ = __,"6, 6, 60",240,Y,Associative property of multiplication; Break 12 into factors.,"6, 6, 60"
+4,Fill 3 x 16 = 3 x (8 x __ ) = 24 x __ = __,"2, 2, 48",240,Y,Associative property of multiplication; Break 16 into factors.,"2, 2, 48"
+5,"You know 5 x 20 = 100 and 5 x 4 = 20, what is 5 x 24?",120,240,Y,Distribution property of multiplication. 24 = 20 + 4,120

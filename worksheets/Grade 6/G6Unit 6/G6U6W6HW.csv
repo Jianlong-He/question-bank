@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write an expression for: ""The sum of −5 and 4x""",-5+4x|-5 + 4x|4x + (-5)|4x-5|4x+(-5)|4x - 5,60,Y,"""sum"" means add","-5 + 4x"
+2,"Write an expression for: ""The product of −6 and y""",-6y|-6*y|-6xy|-6 x y|-6 * y|y * (-6)|y x (-6)|y(-6),60,Y,"Product = multiply","-6y"
+3,"Write an expression for: ""9 times the sum of y and 3""",9(y + 3)|9 * (y + 3)|9 x (y + 3)|(y + 3) x 9|(y + 3) * 9|9(3 + y)|9 * (3 + y)|9 x (3 + y),60,Y,"Recall order of operations and use parentheses","9(y + 3)"
+4,"Select. Which is correct for ""4 times the sum of x and 5""? : 4x+5 4(x+5)",4(x+5),60,Y,"What comes first?","Must add first -> parentheses needed -> 4(x+5)"
+5,"Select. Which is correct for ""6 less than x + 2""? : 6-(x+2) (x+2)-6",(x+2)-6,60,Y,"What comes first?","Subtract 6 from x + 2 -> (x+2)-6"

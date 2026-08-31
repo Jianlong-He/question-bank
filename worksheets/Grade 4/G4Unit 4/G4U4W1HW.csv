@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is 40 x 70? ( 40 x 70 = 4 x 10 x 7 x 10 ),2800,120,Y,Think of 40 as 4 x 10 and 70 as 7 x 10,2800
+2,What is 80 x 50?,4000,120,Y,Think of 80 as 8 x 10 and 50 as 5 x 10,4000
+3,Select all calculations that equal 3600: 40x90 60x60 50x70,"40x90,60x60",120,Y,Calculate each multiplication,"40x90,60x60"
+4,A farmer plants 70 rows of apple trees. Each row contains 30 trees. How many apple trees are there in total?,2100,300,Y,Calculate 70 x 30,2100
+5,"A toy store receives 50 boxes of toys each week. After 30 weeks, they donated 200 boxes to a local charity. How many boxes of toys remain from the deliveries?",1300,300,Y,"First, find the total boxes received 50x30, then subtract 200",1300

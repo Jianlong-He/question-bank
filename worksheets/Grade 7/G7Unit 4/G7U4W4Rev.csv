@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Compute (3/8) − (−9/16).",15/16,60,Y,"Subtracting a negative adds.","3/8 + 9/16 = 6/16 + 9/16 = 15/16."
+2,"Compute [−7.5 − (−0.42)] + (−2.36). Round to the nearest hundredth.",-9.44,60,Y,"Simplify step by step.","-7.5 + 0.42 = -7.08; -7.08 - 2.36 = -9.44."
+3,"Compute (−1/4) + 0.36 − 0.21. Give the decimal rounded to the nearest hundredth.",-0.10|-0.1,60,Y,"Convert all to decimals.","-0.25 + 0.36 - 0.21 = -0.10."
+4,"A freezer temperature changed by −18°, and the final temperature is −14°. What was the initial temperature? Enter only the number with no units.",4,60,Y,"Final = initial + change.","Initial = -14 - (-18) = -14 + 18 = 4."
+5,"Using equivalent expressions and properties, evaluate (−12) − (−5) + (−8).",-15,60,Y,"Rewrite using +5.","-12 + 5 - 8 = -15."

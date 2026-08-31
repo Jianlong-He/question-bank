@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the sum of 11 + 27? Is it even or odd?,"38, even",240,Y,odd + odd = ?,"38, even"
+2,Is the product of 3 x 5 even or odd?,odd|Odd|ODD,240,Y,Odd x Odd = ?,odd|Odd|ODD
+3,Is 14 x 16 even or odd?,even|Even|EVEN,240,Y,Check if one number is even.,even|Even|EVEN
+4,"Is 8,462 even or odd?",even|Even|EVEN,240,Y,Look at the ones place.,even|Even|EVEN
+5,"Is 7,935 even or odd?",odd|Odd|ODD,240,Y,Look at the ones place.,odd|Odd|ODD

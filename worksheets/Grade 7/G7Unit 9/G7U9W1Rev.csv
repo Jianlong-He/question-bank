@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A circle has a circumference of 14π. What is its radius?",7,60,Y,"Use the formula C = 2πr.","14π = 2πr → r = 7."
+2,"If a circle's circumference becomes 3 times larger, how many times larger does its area become?",9,60,Y,"Remember area depends on the square of the radius (r²).","If circumference multiplies by 3, radius multiplies by 3, so area multiplies by 3² = 9."
+3,"A semi-circle has a radius of 8. What is the area of this semi-circle? (Leave your answer in terms of pi, e.g., 50pi)",32pi|32 pi|32\pi|32π,60,Y,"Find the area of a full circle, then divide by 2.","Area of full circle = π(8²) = 64π. Half is 32π."
+4,"Two vertical angles are formed. One measures (5x - 20)° and the other measures 105°. Fill in the blanks: The equation is 5x - 20 = ___, so x = ___.","105, 25",60,Y,"Vertical angles are equal to each other.","5x - 20 = 105 → 5x = 125 → x = 25."
+5,"An angle and its complement have a ratio of 1:4. Fill in the blanks: The smaller angle is ___° and the larger angle is ___°.","18, 72",60,Y,"Let the angles be x and 4x. Set their sum to 90.","x + 4x = 90 → 5x = 90 → x = 18. Smaller = 18, Larger = 72."

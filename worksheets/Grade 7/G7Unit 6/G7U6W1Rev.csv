@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Simplify the expression: 10m − 6 + 2(3 − m) when m = −2.",-16,60,Y,"Distribute the 2, then combine like terms.","2(3 − m) = 6 − 2m. Full expression: 10m − 6 + 6 − 2m = 8m. Substitute m = −2: 8(−2) = −16."
+2,"Factor the binomial 15k + 25 then evaluate when k = −3. Enter only the number with no units.",-20,60,Y,"Factor out the greatest common factor 5.","15k + 25 = 5(3k + 5). Substitute k = −3: 15(−3) + 25 = −45 + 25 = −20."
+3,"Simplify the expression using distribution and negatives: −2(5 − x) + 3x when x = 4.",10,60,Y,"Distribute −2, then combine x-terms.","−2(5 − x) = −10 + 2x. Then add 3x to get 5x − 10. Substitute x = 4: 5(4) − 10 = 10."
+4,"Interpret and evaluate: “Six less than twice a number” when the number is 10. Enter only the number with no units.",14,60,Y,"Translate the phrase to an expression.","Twice the number: 2(10) = 20. Subtract 6: 20 − 6 = 14."
+5,"Write and evaluate the expression: “A number decreased by 5, then doubled,” when the number is 12. Enter only the number with no units.",14,60,Y,"Translate as 2(x − 5).","12 − 5 = 7, then doubled: 2 × 7 = 14."

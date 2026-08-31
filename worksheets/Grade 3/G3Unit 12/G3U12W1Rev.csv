@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,How many seconds are there in one minute?,60|60 seconds,100,N,,60 seconds
+2,"Select. On a clock, which hand moves faster? : short-hand long-hand",long-hand,100,Y,One hand is shorter and moves slowly. One hand is long.,long-hand
+3,Select. The hour hand is between 5 and 6. What hour is it? : 5 6,5,100,Y,The hour is always the smaller number the hour hand passed.,5
+4,Select. The minute hand points exactly to the 4 on the clock. How many minutes past the hour is that? : 5-minute 20-minute 40-minute,20-minute,100,Y,Each big number equals 5 minutes.,20-minute
+5,The hour hand is between 8 and 9. The minute hand shows 12 minutes. What time is it? ___ hours and ___ minutes,"8, 12",100,Y,Write time as hour 12 minutes.,8:12

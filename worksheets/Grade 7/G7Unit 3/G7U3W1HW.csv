@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A zero pair consists of +1 and -1. If you start with 8 zero pairs, how many total integer tiles do you have? (Do not enter any units.)",16,60,Y,"Each zero pair has 2 tiles.","8 zero pairs contain 8 positives and 8 negatives, total tiles = 16."
+2,"Evaluate the expression: |-9| + (-12).",-3,60,Y,"Take the absolute value first, then add the negative.","|-9| = 9. 9 + (-12) = -3."
+3,"On a number line, you start at -4 and move left 6 units. Where do you land?",-10,60,Y,"Moving left makes the number more negative.","-4 - 6 = -10."
+4,"Determine the sign of the sum: (+3) + (-10).",-|negative|Negative,60,Y,"The larger absolute value is negative.","10 > 3, so final sign is negative."
+5,"Using integer chips, compute the expression (+7) + [the opposite of (+12)].",-5,60,Y,"Opposite of +12 is -12.","7 + (-12) = -5."

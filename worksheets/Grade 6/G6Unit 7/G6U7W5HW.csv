@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the reciprocal of fraction (7/12)?",12/7,60,Y,"Swap the numerator and denominator.","To find the reciprocal, flip the fraction: 7/12 -> 12/7"
+2,"Solve (3/4)y = 12 and find the value of y",16,60,Y,"Multiply both sides by the reciprocal of (3/4) to cancel out (3/4)","The reciprocal of (3/4) is (4/3). y = 12*(4/3) = 16"
+3,"Solve 10 = (5/2)y and find the value of y",4,60,Y,"Multiply both sides by the reciprocal of (5/2) to cancel out (5/2)","The reciprocal of (5/2) is (2/5). y = 10*(2/5) = 4"
+4,"Solve 1.5s = 12 and find the value of s",8,60,Y,"Divide both sides by 1.5 to cancel out 1.5","s = 12/1.5 = 8"
+5,"Movie tickets cost 8.50 dollars each. A group spends 42.50 dollars total. Let m be the number of tickets. Write an equation and solve.","8.5m = 42.5|8.5m=42.5|42.5 = 8.5m|42.5=8.5m|42.5/m = 8.5|42.5/m=8.5|42.5/8.5 = m|42.5/8.5=m, 5",60,Y,"Put the equation in the first answer box, solution of m in the second answer box; Price per ticket x number of tickets = total","8.5m = 42.5, m = 42.5/8.5 = 5"

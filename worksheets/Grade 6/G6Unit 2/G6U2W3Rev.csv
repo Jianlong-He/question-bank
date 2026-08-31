@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Compute: 9/10 ÷ 1/5","4.5|9/2",60,Y,"Multiply by reciprocal; simplify to decimal or fraction","9/10 × 5 = 9/2 = 4.5"
+2,"Compute: 2/3 ÷ 3/4","8/9",60,Y,"Multiply by the reciprocal","2/3 × 4/3 = 8/9"
+3,"Compute: 0.5 ÷ 1/4","2",60,Y,"Rewrite 0.5 as a fraction; multiply by reciprocal","1/2 × 4 = 2"
+4,"Compute: 7/8 ÷ 7","1/8",60,Y,"Dividing by a whole number uses its reciprocal","7/8 × 1/7 = 1/8"
+5,"Compute: 3 3/4 ÷ 3/4","5",60,Y,"Change mixed number to improper; multiply by reciprocal","15/4 × 4/3 = 5"

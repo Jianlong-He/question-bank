@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve 64 - a = 39 and find the value of a",25,60,Y,"What cancels 64? What makes -a to a?","-64 on both sides: -a = 39 - 64. Flip signs: a = 64 - 39 = 25"
+2,"Solve equation with fractions (5/12) + F = (11/12) and find the value of F. Put the simplified fraction as answer",1/2|(1)/(2)|(1/2),60,Y,"What cancels 5/12?","F = 11/12 - 5/12 = 6/12 = 1/2"
+3,"Check the solution: Is x = 11.32 correct for: x + 4.25 = 15.57? Put the answer as yes or no",yes,60,Y,"Substitute x = 11.32","11.32 + 4.25 = 15.57, so yes"
+4,"Solve equation with decimals 24.65 - D = 10.4 and find the value of D",14.25,60,Y,"What cancels 24.65? What makes -D to D?","-D = 10.4 - 24.65, so D = 24.65 - 10.4 = 14.25"
+5,"Solve equation with fractions 5/6 - y = 4/12 and find the value of y",1/2|6/12|(1/2),60,Y,"What cancels 5/6? What makes -y to y?","-y = 4/12 - 5/6 = 4/12 - 10/12 = -6/12, so y = 6/12 = 1/2"

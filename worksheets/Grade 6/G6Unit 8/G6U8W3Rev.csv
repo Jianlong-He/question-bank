@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A rectangle has area 32 square units. Another shape is rearranged to match this rectangle exactly. What is its area? Put the answer without unit (i.e. 5 not 5 square units)",32,60,Y,"Same shape after rearranging","Rearranged shape keeps the same area: 32"
+2,"A shape is made of a rectangle (length 6, height 4) and a triangle (base 6, height 4). Find total area.",36,60,Y,"Add rectangle + triangle","Rectangle = 24. Triangle = ½ × 6 × 4 = 12. Total = 36"
+3,"Find the area of two identical triangles, each with base 8 and height 5.",40,60,Y,"Find one, then double","One triangle = ½ × 8 × 5 = 20. Two = 40"
+4,"A shape is made of: a Rectangle: 9 × 4 and a Triangle: base 9, height 4. Find total area.",54,60,Y,"Add both areas","Rectangle = 36, Triangle = ½ × 9 × 4 = 18, Total = 54"
+5,"A complex shape is split into: a Rectangle: area 22 and a Triangle: base 6, height 6. Find total area.",40,60,Y,"Add both areas","Triangle = ½ × 6 × 6 = 18, Total = 22 + 18 = 40"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A rectangle has a side length of 15 and is scaled using a factor of 0.4. What is the corresponding side length in the scaled copy?",6,60,Y,"Multiply the original length by the scale factor.","15 × 0.4 = 6."
+2,"An original triangle has side EF = 8. After scaling, E'F' = 12. What is the scale factor?",1.5|3/2,60,Y,"Scale factor = new/original.","12/8 = 1.5."
+3,"A drawing shows a 4 cm segment representing 36 cm in real size. What is the scale factor from drawing to actual?",9,60,Y,"Divide actual length by drawing length.","36/4 = 9."
+4,"A scale drawing has a factor of 0.3. A real beam is 30 units long. How long is the beam in the drawing?",9,60,Y,"Multiply real length by the scale factor.","30 × 0.3 = 9."
+5,"A blueprint uses a scale of 1 to 60. If a real hallway is 420 units long, how long is it in the drawing?",7,60,Y,"Divide real length by scale ratio.","420/60 = 7."

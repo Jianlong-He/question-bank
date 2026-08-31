@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is 64 x 100?,6400,240,Y,x100 = shift decimal 2 places right,6400
+2,What is 0.409 x 10?,4.09,240,Y,x10 = shift decimal 1 place right,4.09
+3,Select which operation turns 4.5 into 0.045? : Divide-by-10 Multiply-by-100 Divide-by-100,Divide-by-100,240,Y,"From 4.5 to 0.045, decimal points 2 places left",Divide-by-100
+4,Select which is greater: 4.2x100 420÷10,4.2x100,240,N,,4.2x100
+5,"A number is multiplied by 1,000 and becomes 67. What was the original number?",0.067,240,Y,Reverse the operation,"0.067 -> Reverse the operation, 67 ÷ 1,000 = 0.067"

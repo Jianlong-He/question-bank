@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A recipe uses milk and oats in a proportional relationship. When 4 cups of oats are used, 6 cups of milk are needed. How much milk is needed for 2 cups of oats?",3,60,Y,"Find the constant of proportionality by dividing milk by oats.","k = 6/4 = 3/2. For 2 cups of oats: milk = (3/2)*2 = 3 cups."
+2,"A printer produces pages at a constant rate. It prints 60 pages in 5 minutes. How many pages does it print in 1 minute?",12,60,Y,"Use constant of proportionality = pages ÷ minutes.","k = 60/5 = 12 pages per minute."
+3,"An equation shows a proportional relationship: y = 11x. What is the constant of proportionality?",11,60,Y,"The constant of proportionality is the number multiplied by x.","Since y = kx, k = 11."
+4,"In a proportional table, x = 6 corresponds to y = 42. What is the constant of proportionality?",7,60,Y,"k = y ÷ x.","k = 42/6 = 7."
+5,"Two swimmers train at constant rates. Swimmer A swims 30 laps in 5 hours. Swimmer B swims 36 laps in 9 hours. Who has the greater constant of proportionality (laps per hour)? Enter 1 for A or 2 for B.",1,60,Y,"Compute laps ÷ hours for both swimmers.","A: 30/5 = 6 laps/h. B: 36/9 = 4 laps/h. A is greater → answer 1."

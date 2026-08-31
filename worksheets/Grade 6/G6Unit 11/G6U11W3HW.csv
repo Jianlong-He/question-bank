@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is a histogram?  (A) A graph that shows exact individual data values.   (B) A graph that shows how data is grouped into intervals (buckets).   (C) A graph that only shows the largest number",B|b,60,Y,"Think: bars + grouped data","A histogram groups data into ranges and shows how many values fall in each group."
+2,"A histogram of pies shows: 0-29 cherries: 4 pies, 30-59: 7 pies, 60-89: 6 pies, 90-119: 3 pies. How many pies have 60 or more cherries?",9,60,Y,"Look at buckets ≥ 60","6 + 3 = 9"
+3,"Using the same histogram (4, 7, 6, 3 pies per bucket), find the total number of pies.",20,60,Y,"Add all frequencies","4 + 7 + 6 + 3 = 20"
+4,"Total number of data points = 25. Buckets show 4, 9, and 6 data points, plus one unknown bucket. How many data points are in the unknown bucket?",6,60,Y,"Add known values first","4 + 9 + 6 = 19. 25 − 19 = 6"
+5,"A store has 30 pies total. If 8 pies are in 30-59 and 7 pies are in 60-89, how many pies are in the other buckets?",15,60,Y,"Total - known values","30 - (8+7) = 15"

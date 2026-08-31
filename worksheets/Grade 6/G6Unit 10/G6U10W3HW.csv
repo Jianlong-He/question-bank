@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A rectangle prism has: Width = 4, Depth = 5, Height = 6. What is the volume?",120,60,Y,"Volume = length × width × height","4 x 5 x 6 = 120"
+2,"Select. If the height changes from 5 to 10, keep others the same, what happens to the volume?: half Double The-same Triple Quadruples(×4)",Double,60,Y,"Only ONE dimension changed","Height doubles so volume doubles as well"
+3,"Select. If you double ALL three dimensions, what happens to volume?: Doubles Triples Quadruples(×4) 8-times-bigger",8-times-bigger,60,Y,"Multiply by 2 three times","2 x 2 x 2 = 8 times bigger"
+4,"A tank has base area 40 cm². Water level drops by 3 cm. What is the volume change? Put the answer without units",120|120 cm³,60,Y,"Volume = area × height","Volume change = 40 x 3 = 120 cm³"
+5,"Water level in a tank goes from 8.6 cm to 5.2 cm. How much did it drop?",3.4|3.4 cm,60,Y,"Subtract the two water levels.","8.6 - 5.2 = 3.4 cm"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Evaluate 3t + 11 when t = 5,26,60,Y,Substitute first then follow the order of operations,3(5) + 11 = 15 + 11 = 26
+2,Evaluate 2^3 + x^2 when x = 4,24,60,Y,Substitute first then follow the order of operations,2^3 + 4^2 = 8 + 16 = 24
+3,"Evaluate x^2 + y^2 when x = 3, y = 6",45,60,Y,Substitute both values first then follow the order of operations,3^2 + 6^2 = 9 + 36 = 45
+4,"Evaluate y^2 - x^2 when y = 7, x = 2",45,60,Y,Substitute both values first then follow the order of operations,7^2 - 2^2 = 49 - 4 = 45
+5,Which is larger when x = 2? (A) 4x + 2 (B) x^3 - 5,A|a,60,Y,Evaluate both,"A = 4*2+2 = 10, B = 2^3 - 5 = 8 - 5 = 3. A is larger"

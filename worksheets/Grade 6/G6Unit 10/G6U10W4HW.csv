@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select. Which of the following is a polyhedron?: Sphere Cube Cylinder",Cube,60,Y,"Must have flat faces and straight edges","Sphere and cylinder have curved surfaces; a cube has flat faces + straight edges"
+2,"A pyramid has a triangular base. What is it called?",triangular pyramid|Triangular Pyramid|Triangular pyramid,60,Y,"The name comes from the base shape","Triangular base -> triangular pyramid"
+3,"A triangle has: base = 12, height = 11. What is the area?",66,60,Y,"Recall the triangle area formula","(1/2) x 12 x 11 = 66"
+4,"A rectangle has: length = 14, width = 15. What is the area?",210,60,Y,"Recall the rectangle area formula","14 x 15 = 210"
+5,"A cube has side length 4 cm. What is the surface area?",96|96 cm²,60,Y,"First find how many faces in total. Then get the area of each face","Each face: 4 x 4 = 16, there are 6 faces, 6 x 16 = 96 cm²"

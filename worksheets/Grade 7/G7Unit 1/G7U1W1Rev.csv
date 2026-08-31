@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A car travels 120 km in 4 hours at a constant speed. Using proportional reasoning, how many kilometers does it travel in 1 hour?",30,60,Y,"Divide distance by time to find the constant rate.","k = 120/4 = 30 km per hour."
+2,"A proportional relationship is represented by the equation y = 6.5x. What is the constant of proportionality?",6.5|13/2,60,Y,"Identify the coefficient of x.","k = 6.5."
+3,"A table follows a proportional pattern where x = 8 corresponds to y = 20. What is the constant of proportionality?",2.5|5/2,60,Y,"k = y/x.","k = 20/8 = 2.5."
+4,"In a proportional relationship, y = 9x describes the cost of x pens. How many dollars does 1 pen cost?",9,60,Y,"The constant of proportionality tells the unit rate.","Since k = 9, one pen costs $9."
+5,"Two faucets fill tanks proportionally. Faucet X fills 24 liters in 6 minutes. Faucet Y fills 35 liters in 7 minutes. Which has the higher fill rate? Enter 1 for X or 2 for Y.",2,60,Y,"Compare liters per minute for each faucet.","X: 24/6 = 4 L/min. Y: 35/7 = 5 L/min. Y is greater → answer 2."

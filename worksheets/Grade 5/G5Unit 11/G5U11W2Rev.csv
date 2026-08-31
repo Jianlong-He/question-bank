@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Select which formula finds the volume of a cube with side length s? : s+s+s 6x(sxs) sxsxs,sxsxs,240,N,,sxsxs
+2,One cube measures 4 cm × 4 cm × 4 cm. What is the volume of this cube in cubic centimeter (cm³)?,64,240,Y,volume = length x width x height,64 -> volume = length x width x height = 4 x 4 x 4 = 64
+3,"When length is measured in centimeters, volume is measured in __",cubic centimeters|Cubic Centimeters|Cubic centimeters,240,N,,cubic centimeters|Cubic Centimeters|Cubic centimeters
+4,Fill: The face of width and length of the rectangular prism is 15 cm². If the prism is 4 cm high. The volume of the rectangular prism is __ cubic centimeters (cm³),60,240,Y,volume = length x width x height,60 -> volume = length x width x height = 15 x height = 15 x 4 = 60
+5,"A shipping box is 5 feet long, 3 feet wide and 2 feet high. What is the volume of the box in cubic feet (ft³)?",30,240,Y,volume = length x width x height,30 -> volume = length x width x height = 5 x 3 x 2 = 30

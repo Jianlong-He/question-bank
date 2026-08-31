@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A car uses 1/3 of a tank of gas to drive 1/2 of a standard route. How many tanks does it take to drive the entire route? (Enter as a simplified fraction)",2/3,60,Y,"Divide the gas fraction by the route fraction.","(1/3) ÷ (1/2) = (1/3) × 2 = 2/3."
+2,"A hiker climbs 2/3 of a mile in 1/2 of an hour. What is the hiker's speed in miles per hour?",4/3|1 1/3,60,Y,"Divide distance by time.","(2/3) ÷ (1/2) = (2/3) × 2 = 4/3."
+3,"A plant grows 15% of its total height every 5 days. What fraction of its total height does it grow in 15 days? Enter your answer as a decimal.",0.45|9/20,60,Y,"Three intervals of 15% each.","0.15 × 3 = 0.45."
+4,"A store marks up a wholesale item by 30%. The wholesale cost is $40. Fill in the blanks: The markup amount is $___, making the final price $___.","12, 52",60,Y,"Find 30% of 40, then add it to the original cost.","Markup: 0.30 × 40 = 12. Final Price: 40 + 12 = 52."
+5,"A worker completes 24 tasks which represent 60% of her weekly goal. How many tasks is the full weekly goal? Enter only the number with no units.",40,60,Y,"24 = 0.60 × goal.","Goal = 24/0.60 = 40."

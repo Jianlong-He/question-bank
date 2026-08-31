@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,How many in 4 groups of 5?,20,240,Y,Think of 5 + 5 + 5 + 5 or 4 x 5.,20
+2,"If 6 x 8 = 48, what is 7 x 8?",56,240,Y,7 groups of 8 is one more group of 8 than 6 x 8 -> add 8 to 48,56
+3,"Skip counting by 3: 3, 6, __, 12, __, 18, 21, __, 30","9, 15, 24",240,Y,Count up each time by 3,"9, 15, 24"
+4,"Skip counting by 5: 5, __, 15, __, 25, 30, __, __, 50","10, 20, 35, 40",240,Y,Count up each time by 5,"10, 20, 35, 40"
+5,0 -> 8 -> 16 -> 24 -> 32 -> 40 -> 48 -> 56 is the same as the multiplication __ x __,"7, 8",360,Y,"This is skip counting by 8s each time, how many steps you need to take?","7, 8"

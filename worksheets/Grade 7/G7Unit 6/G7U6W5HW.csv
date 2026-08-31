@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Maya buys a puzzle for $11 and 4 identical bookmarks. She spent $23 total. How much did each bookmark cost? Enter only the number with no units.",3,60,Y,"Subtract the puzzle cost, then divide by 4.","23 − 11 = 12. 12/4 = 3."
+2,"A phone plan charges $10 per month plus $4 per GB of data. If Omar paid $42 total, how many GB did he use? Enter only the number with no units.",8,60,Y,"Subtract the fixed fee, then divide.","42 − 10 = 32 → 32 ÷ 4 = 8."
+3,"Solve the inequality x/3 ≥ −4 and enter just the boundary value.",-12,60,Y,"Multiply both sides by 3.","x ≥ -12 → boundary is −12."
+4,"Solve the one-step inequality x − 7 > 3 and enter the boundary value.",10,60,Y,"Add 7 to both sides.","x > 10 → boundary is 10."
+5,"Solve the inequality 4x + 5 ≤ 25 and enter the boundary number.",5,60,Y,"Subtract 5, then divide by 4.","4x ≤ 20 → x ≤ 5 → boundary is 5."

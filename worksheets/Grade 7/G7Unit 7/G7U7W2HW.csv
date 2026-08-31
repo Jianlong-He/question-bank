@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A spinner with 3 equal sections (A, B, C) is spun and a coin is flipped. Fill in the blanks: There are ___ total outcomes, and the probability of getting an A and Heads is ___.","6, 1/6",60,Y,"Multiply the number of outcomes for each.","3 × 2 = 6. (A, Heads) is 1 specific outcome out of 6."
+2,"A bag contains 3 red, 6 black, and 3 white marbles. One marble is chosen at random. What is the probability the marble is black?",0.5|.5|1/2|50%,60,Y,"Divide number of black marbles by total marbles.","Black = 6, Total = 12 → 6/12 = 0.5."
+3,"A spinner has 8 equal sections labeled 1 to 8. What is the probability of landing on a number greater than 6?",1/4|0.25|2/8|25%,60,Y,"Count outcomes greater than 6.","Numbers: 7, 8 → 2 out of 8 → 1/4."
+4,"A coin is flipped 80 times and lands on heads 44 times. What is the experimental probability of heads? Round to two decimal places.",0.55|11/20,60,Y,"Experimental probability = heads/total.","44/80 = 0.55."
+5,"A box has 14 blue markers and 6 green markers. A marker is chosen, recorded, and replaced. Based on this, how many green markers would you expect in 200 draws? Enter a whole number.",60,60,Y,"Multiply probability of green by total draws.","Green probability = 6/20 = 0.3 → 0.3 × 200 = 60."

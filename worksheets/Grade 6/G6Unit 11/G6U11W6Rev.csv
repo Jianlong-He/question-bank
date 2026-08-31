@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the MEDIAN. Data is 4, 15, 4, 40, 80, 15, 150, 4",15,60,Y,"Order first","Ordered: 4,4,4,15,15,40,80,150. Median = (15+15)/2 = 15"
+2,"Select. Data is 2, 3, 4, 5, 6, 7, 8, 90. After removing 90, what happens? Mean-decreases Median-increases Both-increase",Mean-decreases,60,Y,"Think about removing a large number","The mean drops significantly when removing a larger number"
+3,"Select. Data is 3, 4, 5, 6, 7, 8, 90. Compare Mean vs Median, which is larger? Mean Median Same",Mean,60,Y,"Which measure is pulled by 90?","The mean is pulled up by 90"
+4,"Data: 5, 13, 32, 8, 85, 21, 9, 47. Does this set have a mode? Answer yes or no",No|no|NO,60,Y,"Does any value repeat?","All numbers appear once -> no mode"
+5,"Original mean = 25 (7 numbers). A new number 65 is added. Find the new mean",30,60,Y,"What is the new total?","Old total = 25 × 7 = 175. New total = 175 + 65 = 240. New mean = 240 ÷ 8 = 30"

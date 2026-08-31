@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Compute [−2.6 + (−1.35)] + 7.05. Round to the nearest hundredth.",3.10|3.1,60,Y,"Use the associative property to group terms.","-2.6 - 1.35 + 7.05 = 3.10."
+2,"Compute (1/4) − 0.15 + 0.32. (Enter as a decimal)",0.42,60,Y,"Convert fractions to decimals first.","1/4 = 0.25, so 0.25 − 0.15 + 0.32 = 0.42."
+3,"A mountain climber is at -460 m and descends another 170 m. What is his new elevation? Enter only the number with no units.",-630,60,Y,"Descending adds more negative.","-460 - 170 = -630."
+4,"The final temperature is −4° after a change of +12°. What was the starting temperature? Enter only the number with no units.",-16,60,Y,"Final = initial + change.","Initial = -4 - 12 = -16."
+5,"Use the commutative property to rewrite and evaluate: (−8) + 16 + (−5).",3,60,Y,"Reorder terms to combine positives.","16 - 8 - 5 = 3."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Adding Like terms. Could you simplify 3m + 8m?",11m,60,Y,"Both terms are m terms, so add the coefficients.","3 m's plus 8 m's make 11 m's -> 11m"
+2,"Adding Like terms. Could you simplify 4b + 12 + 11b?",12+15b|12 + 15b|15b+12|15b + 12,60,Y,"Combine the b terms together and the numbers together.","4b + 11b = 15b, so it is 15b + 12"
+3,"Subtracting Like terms. Could you simplify 42a - 28a?",14a,60,Y,"Both terms are a terms, so subtract the coefficients.","42 a's minus 28 a's make 14 a's -> 14a"
+4,"Subtracting Like terms. Could you simplify 2y + 14y - 6y?",10y,60,Y,"All terms are y terms, so combine the coefficients.","2 + 14 - 6 = 10 -> 10y"
+5,"Could you simplify 6a + 8 + 3a - 5?",9a+3|9a + 3|3+9a|3 + 9a,60,Y,"Combine the a terms together and the numbers together.","6a + 3a = 9a, 8 - 5 = 3 -> 9a + 3"

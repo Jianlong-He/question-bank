@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What number represents 3 hundreds 12 tens 15 ones?,435,240,Y,Start with 3 hundreds = 300 Add 12 tens = 120 Add 15 ones = 15 Total = 300 + 120 + 15,435
+2,A stationery store has 5 boxes of 100 pencils and 22 boxes of 10 pencils. How many pencils total?,720,240,Y,5 boxes 100 pencils each = 500 22 boxes 10 pencils each = 220 Add them together,720
+3,Fill 465 = __ hundreds + 16 tens + 5 ones,3,240,Y,You have 16 tens + 5 ones = 165 So __ + 165 = 465 Subtract to find hundreds,3
+4,Select ALL Which expression represent the same amount as 345 : 2hundreds+14tens+5ones 1hundred+24tens+5ones 0hundreds+34tens+5ones,"2hundreds+14tens+5ones, 1hundred+24tens+5ones, 0hundreds+34tens+5ones",240,Y,Check which options equal 345 200 + 140 + 5 = 345 100 + 240 + 5 = 345 0 + 340 + 5 = 345,"2hundreds+14tens+5ones, 1hundred+24tens+5ones, 0hundreds+34tens+5ones"
+5,Select ALL expressions that represent the same amount as 215 : 1hundred+11tens+5ones 2hundreds+1tens+5ones 0hundreds+21tens+5ones,"1hundred+11tens+5ones, 2hundreds+1tens+5ones, 0hundreds+21tens+5ones",240,Y,215 = 200 + 10 + 5 Check which equal 215 All correct options will add up to 215,"1hundred+11tens+5ones, 2hundreds+1tens+5ones, 0hundreds+21tens+5ones"

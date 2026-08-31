@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"An angle is 36° more than its supplementary angle. What is the measure of the smaller angle?",72,60,Y,"Let the smaller angle be x, so the larger is x + 36. They add to 180.","x + (x + 36) = 180 → 2x = 144 → x = 72."
+2,"Angles C and D are supplementary. Angle C is four times Angle D. What is the measure of Angle D?",36,60,Y,"Supplementary angles add to 180. Set D = x and C = 4x.","x + 4x = 180 → 5x = 180 → x = 36."
+3,"A right isosceles triangle has two equal angles. What is the measure of each of the two equal angles?",45,60,Y,"The two equal angles plus the 90° right angle sum to 180°.","(180 - 90)/2 = 45."
+4,"A square pyramid is sliced parallel to its base. If the slice is made halfway up the height, the cross-section is what shape?",Square|square,60,Y,"A slice parallel to the base matches the base's shape.","The base is a square; any parallel slice is a square."
+5,"A ring (washer) has an outer radius of 7 and an inner radius of 3. Fill in the blanks: The area of the large circle is ___, the small circle is ___, and the ring is ___. (Leave in terms of pi)","49pi|49 pi|49\pi|49π, 9pi|9 pi|9\pi|9π, 40pi|40 pi|40\pi|40π",60,Y,"Area of a ring = large circle area minus small circle area.","Large = π(7²) = 49π. Small = π(3²) = 9π. Ring = 49π - 9π = 40π."
