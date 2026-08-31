@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Find the pattern and fill the blank(s) 4, 8, 12, 16, __",20,240,Y,Look at how much you are adding each time.,20 -> Pattern: Add 4
-2,"Find the pattern and fill the blank(s) 3, 8, 13, 18, __ __","23, 28",240,Y,Look at how much you are adding each time.,"23, 28 -> Pattern: Add 5"
-3,"Find the pattern and fill the blank(s) 20, 17, 14, __, 8, 5",11,240,Y,Adding or Subtracting?,11 -> Pattern: Subtract 3
-4,"Find the pattern and fill the blank(s) 60, 55, 50, __, 40, 35",45,240,Y,Adding or Subtracting?,45 -> Pattern: Subtract 5
-5,"Find the pattern and fill the blank(s) 3, 6, 12, 24, __",48,240,Y,Adding or Multiplying?,48 -> Each number is double the one before it.

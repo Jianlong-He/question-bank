@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is the least common multiple of 6 and 9?,18,120,Y,"List multiples of 6 and 9 and find the first match; 6 -> 6, 12, 18. 9 -> 9, 18 found it!",18
-2,"Select the number that CANNOT be a common denominator for 1/3 and 2/4. A.12, B.24, C.15 : A B C",C,120,Y,List multiples of 3 and 4 until 24 and find the one that doesn't match,C
-3,Add using the least common multiple: 3/10 + 2/15,13/30,120,Y,30 is the least common denominator of 10 and 15,13/30
-4,Subtract 5/8 - 1/6 using a least common denominator,11/24,120,Y,List multiples of 8 and 6 and find the match; 24 is the least common denominator of 8 and 6,11/24
-5,"Start with 11/4, add 1/6 and then subtract 1/3. Write your final answer in simplest form.",31/12|2 7/12,120,Y,"Find a common denominator for all three fractions (4, 6, and 3). Rewrite each fraction using that denominator.",31/12|2 7/12

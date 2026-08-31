@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Select True or False. 0.6 x 0.5 = 0.3 :TRUE FALSE,TRUE,240,N,,"TRUE -> 2 decimal places, 6 x 5 = 30, move 2 decimal places to get 0.30 which equals 0.3"
-2,Select which decimal is most reasonable for 5.1 x 6.2 (The digit product is 3162) :3162 316.2 31.62 3.162,31.62,240,N,,31.62 -> 2 decimal places
-3,The digit product for 382 x 14 is 5348. What is the exact value of 3.82 x 1.4?,5.348,240,Y,How many decimal places in total?,5.348 -> 3 decimal places
-4,Compute: 0.4 x 5.13,2.052,240,Y,"First compute 4 x 513, then move decimal places",2.052
-5,A rectangle has a length of 3.5 m and a width of 0.6 m. What is the area of the rectangle in square meters?,2.1,360,Y,Area = length x width,2.1 -> Area = length x width = 3.5 m x 0.6 m = 2.1

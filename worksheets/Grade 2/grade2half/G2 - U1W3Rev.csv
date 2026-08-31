@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,In a library there are 20 books. 5 books were borrowed. Then another 4 books were borrowed. How many books are left in the library?,11,120,Y,"Subtract 20-5, then take the answer and subtract 4 more",11 books
-2,"A parking lot has 25 spaces. At first, 20 cars are parked in the spaces. At the next hour, 3 more cars park in the lot. How many spaces are now vacant in the parking lot?",2,120,Y,"Subtract 25 - 20, then take the answer and subtract 3 more",2 spaces
-3,"Ben has 12 marbles, and Leo has 10 marbles. If Ben lost 3 marbles and Leo lost 2 marble, who has more marbles left?",Ben,120,Y,Compare 12 - 3 and 10 - 2. Which value is bigger?,Ben
-4,Fill 19 - 4 - 3 - 2 = __ ?,10,120,Y,"Subtract 19 - 4, then take the answer and subtract 3, then take the answer and subtract 2",10
-5,"Maria received 25 dollars as allowance. She spent money on four items: a toy for 10, some snacks for 5, a sticker for 3 and a card for 2. How much allowance does Maria have left (in dollars)?",5,160,Y,"Subtract 25 - 10, then take the answer and subtract 5 more, then take the answer and subtract 3 more, then take the answer and subtract 2 more",$5

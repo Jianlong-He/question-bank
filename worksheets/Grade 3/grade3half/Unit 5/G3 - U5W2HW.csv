@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Which shows a smaller part of a whole 2/6 or 5/6?,2/6,240,Y,"First check the denominators: both fractions have the same denominator 6, so the whole is the same size",2/6
-2,Which is bigger 2/3 or 2/4?,2/3,240,Y,"Different denominators, same numerators. When the top numbers are the same, the fraction with the smaller bottom number is bigger.",2/3
-3,"A shape is divided into 15 equal parts. 3 parts are red, 5 are blue. What fraction is NOT shaded?",7/15,240,Y,Fractions = not shaded parts / total parts. 15 - (red + blue) = not shaded parts,7/15
-4,Is 7/3 larger than 1?,Yes|yes,240,Y,"When the numerator is bigger than the denominator, the fraction is more than one whole.",Yes
-5,Which is bigger 4/5 or 4/9?,4/5,240,Y,"Think about how close each fraction is to 1 whole. ; Or think of as 4 equal size shapes, one has 5 equal parts and one has 9 equal parts.",4/5

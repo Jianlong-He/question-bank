@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Select True of False of the statement ""Changing the order of multiplying length, width, and height changes the final volume."" : TRUE FALSE",FALSE,240,N,,FALSE -> Volume is 3-dimensional (3D). Multiplication can be done in any order.
-2,Select which of the following gives the same volume? : 6x4x9 9x4x6 4x9x6 All-of-the-above,All-of-the-above,240,N,,All-of-the-above -> Multiplication can be done in any order.
-3,"Fill: A container is measured as 8 m long, 2 m wide and 5 m high. The volume is __ cubic meters (m³)",80,240,Y,volume = length x width x height,80 -> volume = length x width x height = 8 x 2 x 5 = 80
-4,Fill: A box has a volume of 120 cm³. Its length is 5 cm and width is 4 cm. The height is __ cm.,6,240,Y,volume = length x width x height. Reverse the operation to get the height,6 -> volume = length x width x height. height = volume ÷ (width x length) = 120 ÷ (4 x 5) = 120 ÷ 20 = 6
-5,"A water trough is 10 m long, 3 m wide and 2 m high. The volume of the water trough is __ cubic meters (m³)",60,240,Y,volume = length x width x height,60 -> volume = length x width x height = 10 x 3 x 2 = 60

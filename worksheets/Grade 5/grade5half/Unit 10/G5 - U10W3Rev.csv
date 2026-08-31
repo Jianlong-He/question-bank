@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is 7.2 x 10²?,720,240,Y,x10^2 moves decimal point 2 places right,720 -> x10^2 moves decimal point 2 places right
-2,What is 14.8 ÷ 10²?,0.148,240,Y,÷ 10^2 moves decimal point 2 places left,0.148 -> ÷ 10^2 moves decimal point 2 places left
-3,"Fill. When a number is multiplied by 10ⁿ, the decimal point moves ___ places to the ___.","n,right|Right",240,Y,Decimal point moves how many places? To the left or right?,"n,right|Right"
-4,"Write fraction 4521/1,000 as a decimal",4.521,240,Y,"Divided by 1,000 = move decimal point 3 places left","4.521 -> Divided by 1,000 = move decimal point 3 places left"
-5,"A storage container holds 2.35 liters of water. If a water treatment tank holds 10³ times more water, how many liters does the tank hold?",2350,240,Y,Multiplying by 10^3 moves the decimal point 3 places right.,2350 -> 2.35 x 10^3 = 2350

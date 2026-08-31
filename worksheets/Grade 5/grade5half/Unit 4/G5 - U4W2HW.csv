@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is the least common multiple of 8 and 12?,24,120,Y,"List multiples of 8 and 12 and find the first match; 12 -> 12, 24. 8 -> 8, 16, 24 found it!",24
-2,What is the least common multiple of 6 and 8?,24,120,Y,"List multiples of 6 and 8 and find the first match; 8 -> 8, 16, 24. 6 -> 6, 12, 18, 24 found it!",24
-3,Add 2/3 + 3/8 using a least common denominator,25/24|1 1/24,120,Y,List multiples of 3 and 8 and find the match; 24 is the least common denominator of 3 and 8,25/24|1 1/24
-4,"Find a least common multiple for ALL three number: 2, 5, 6",30,120,Y,The multiples of 6 are also multiples of 2 because 6 is a multiple of 2; Find the least common multiple of 6 and 5,30
-5,"Start with 7/3, add 1/2 and then subtract 3/4. Write your final answer in simplest form.",25/12|2 1/12,120,Y,"Find a common denominator for all three fractions (3, 2, and 4). Rewrite each fraction using that denominator.",25/12|2 1/12

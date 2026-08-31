@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Fill in the blank. 80 hundreds = ___ thousands,8,600,Y,10 hundreds make 1 thousand. How many groups of 10 hundreds are in 80?,8 -> 10 hundreds make 1 thousand. 80 hundreds = 8 thousands.
-2,Select which is equivalent to 5 thousands:50-hundreds 500-hundreds 50-tens,50-hundreds,600,Y,1 thousand = 10 hundreds. So 5 thousands = 5 * 10 hundreds.,50-hundreds -> 1 thousand = 10 hundreds. So 5 thousands = 50 hundreds.
-3,Fill in the blank. 900 tens = ___ thousands,9,600,Y,10 tens = 100. 100 tens = 1000. 900 tens is 9 groups of 100 tens.,9 -> 900 tens = 9000. 9000 is 9 thousands.
-4,Select which of the following is equivalent to 4 thousand and 15 hundred:5-thousands+5-hundreds 4-thousands+5-hundreds 5-thousands+15-hundreds,5-thousands+5-hundreds,600,Y,15 hundreds is the same as 1 thousand + 5 hundreds.,5-thousands+5-hundreds -> 15 hundreds = 1 thousand + 5 hundreds. Add to 4 thousands to get 5 thousands and 5 hundreds.
-5,Fill in the blank. 48 tens = ___ hundreds + 8 tens,4,600,Y,48 tens is the number 480. 480 has 4 hundreds and 8 tens.,4 -> 48 tens = 480. 480 has 4 hundreds and 8 tens.

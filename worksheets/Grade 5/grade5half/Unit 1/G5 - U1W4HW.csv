@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Which is greater: 5.201 or 5.21?","5.21",60,Y,"Write 5.21 as 5.210 before comparing.","5.21"
-2,"Fill: 0.60 __ 0.600 with <, >, or =.","=",60,Y,"Trailing zeros do not change the value.","="
-3,"Which is smaller: 8.9 or 8.09?","8.09",60,Y,"Write 8.9 as 8.90 before comparing.","8.09"
-4,"Order from least to greatest: 0.2, 0.12, 0.012.","0.012, 0.12, 0.2",60,Y,"Write all three numbers to the thousandths place.","0.012, 0.12, 0.2"
-5,"Fill: 0.405 __ 0.45 with <, >, or =.","<",60,Y,"Write 0.45 as 0.450 before comparing.","<"

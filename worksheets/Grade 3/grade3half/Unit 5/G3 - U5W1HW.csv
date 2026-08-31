@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"A shape is divided into 4 equal parts. If you take all 4 parts, what fraction is the whole?",4/4,240,Y,One whole is 1 = 4/4,4/4
-2,"A large tray is divided into 20 equal sections, and each section is filled with fruit. 5 of them are berries. 8 of them are grapes. What fraction of the sections have berries or grapes in total?",13/20,240,Y,"Start with the total sections (denominator). If you have 5 berries and 8 grapes, add them together. The sum becomes the numerator. Write the fraction: sum / total.",13/20
-3,"A shape has 12 equal parts, and 5 are shaded. Write the fraction of the shaded parts. Is it less than or more than half?","5/12, less than",240,Y,Fraction = shaded parts / total parts,"5/12, less than"
-4,A group of 15 people has 8 wearing hats. What fraction is not wearing hats?,7/15,240,Y,First find how many are not wearing hats: subtract 8 from 15. That number becomes the numerator. Total people (15) is the denominator.,7/15
-5,"A pizza is cut into 12 equal slices. You eat 4 slices, your friend eats 3 slices. What fraction is left?",5/12,240,Y,First use 12 as the denominator. Then add how many slices were eaten altogether. Subtract that from the total slices and use the number left as the numerator.,5/12

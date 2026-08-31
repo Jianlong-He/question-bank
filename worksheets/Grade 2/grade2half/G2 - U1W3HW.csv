@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Select which choices that describe the number of hearts. Row 1 <3 🧡🧡 Row 2 🧡🧡 Row 3 🧡🧡 : 2+2+2 3+3+3,2+2+2,120,Y,Count rows going DOWN (3 rows); Count hearts going ACROSS (2 hearts); Add the rows OR add the columns,2+2+2
-2,Fill Row 1 ★★ Row 2 ★★ Row 3 ★★ Row 4 ★★. Find the total number of stars in two ways. First way (adding by rows) 2+__+__+__. Second way (adding by columns) __+__ = __,"2,2,2,4,4,8",120,Y,First: 4 rows with 2 stars each; Second: 2 columns with 4 stars each; Both equal 8,"2,2,2,4,4,8"
-3,"Select which shows the total number of birds in a tree, when there are 3 branches and each branch has 5 birds : 5+5+5 3+3+3+3+3",5+5+5,120,Y,3 groups with 5 birds each,5+5+5
-4,Tom is organizing books. He puts books on a shelf in 4 rows with 5 books in each row. How many books does he put on the shelf?,20,240,Y,4 rows of 5 books each,20
-5,"A baker made muffins and arranged them in equal boxes. There are 6 muffins in each box. If there are 30 muffins in total, how many boxes are there?",5,240,Y,Consider a box as one group; Divide the 30 muffins equally into the 5 groups,5 boxes

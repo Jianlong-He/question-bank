@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Fill 7+6 = __,13,120,Y,"Try making 10 first. 7+3 = 10, then add the rest.",13
-2,Fill 8+__ = 15,7,120,Y,What number plus 8 makes 15? Count up from 8,7
-3,Select which number has the same answer as 7+5 : 10+2 10+3 10+4 10+5,10+2,120,Y,"First solve 7+5, then check for the matching answer.",10+2
-4,Fill Susan baked 6 apple muffins and 5 blueberry muffins. Susan baked __ muffins in total.,11,240,Y,Add 6+5,11 muffins
-5,"There are 4 ducks near the pond at the park, then 7 more ducks fly down to join them. How many ducks are near the pond now?",11,240,Y,Add 4+7,11 ducks

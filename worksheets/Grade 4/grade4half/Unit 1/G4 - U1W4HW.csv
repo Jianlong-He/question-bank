@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,A factory produces 8120 toys and packed them equally into 10 cartons. How many toys per carton?,812,600,Y,Divide total number of toys by number of cartons,812 -> 8120 ÷ 10 = 812 toys per carton.
-2,6159 ones multiplied by 10 equals?,61590,600,Y,All digits shift one place left,61590 -> 6159 x 10 = 61590.
-3,A warehouse has 7384 tens of boxes. They are divided equally into 10 trucks. How many ones of boxes does each truck get?,7384,600,Y,7384 tens = 73840 ones. Then divide by 10.,7384 -> 7384 tens is 73840 ones. 73840 ÷ 10 trucks = 7384 ones per truck.
-4,Select which numbers have BOTH a 5 in the ten thousands place AND a 3 in the hundreds place: 536300 156304 56300 754388,"156304, 56300, 754388",600,Y,Count the place values from right to left: ones tens hundreds thousands ten-thousands,"156304, 56300, 754388 -> Check the ten thousands (5th digit from right) and hundreds (3rd digit from right)."
-5,Fill. 6294 ten-thousands divided by 10 equals__ millions __ hundred thousands__ ten-thousands __ thousands __ hundreds __ tens,"6,2,9,4,0,0,0",600,Y,6294 ten-thousands = 62940000.,"6,2,9,4,0,0,0 -> 62940000 ÷ 10 = 6294000. That is 6 millions, 2 hundred thousands, 9 ten thousands, 4 thousands, 0 hundreds, 0 tens."

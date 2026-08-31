@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,A company's server room is 154 feet long and 7 feet wide. What is the area of the room?,1078,300,Y,This is 154 x 7;Break 154 using place value,1078
-2,Fill Rectangle 342 by 5 = (__ x 5) + (__ x 5) + (__ x 5) = __ + __ + __ = __,"300,40,2,1500,200,10,1710",300,Y,Break 342 into 300 + 40 + 2;Multiply each by 5 and add them up,"300,40,2,1500,200,10,1710"
-3,There is a new data center layout which is 315 feet long and 8 feet wide. What is the total area of the layout?,2520,300,Y,Find area 315 x 8; Break 315 using place value.,2520
-4,Select all TRUE expressions: 84x6=504 125x5=605 314x8=2512 76x9=684,"84x6=504,314x8=2512,76x9=684",300,Y,Calculate each value and check which ones are true,"84x6=504,314x8=2512,76x9=684"
-5,"Fill Rectangle 4,825 by 6 = (4000x6) + (800x6) + (20x6) + (5x6) = __ + __ + __ + __ = __","24000,4800,120,30,28950",300,Y,Break 4825 into place values;Multiply each by 6 and add all products,"24000,4800,120,30,28950"

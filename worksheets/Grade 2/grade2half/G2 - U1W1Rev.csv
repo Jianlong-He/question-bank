@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Tom borrowed 3 pens from the desk, Sam borrowed 6 pens, and Kim borrowed 4 pens. How many pens did they borrow in total?",13,120,Y,Try adding two numbers first,13 pens
-2,Complete this addition puzzle __ + __ + __ = 15. First number is 4. The second number is 2 more than 3. What is the third number?,6,120,Y,"The second number is 3+2. Figure out what that is, then add 4 + (that number) to see what is left to reach 15",6
-3,"There are 3 bees on the flower and 4 bees on the leaf, then 5 more bees fly down to join them. How many bees are there now?",12,120,Y,Count all the bees,12 bees
-4,Fill How many tens and ones are in 7+8 __ tens and __ ones,"1,5",240,Y,"First add 7+8, then break the solution into tens and ones",1 tens and 5 ones
-5,Fill Jake has 7 marbles. His friend gave him 5 more marbles. Now Jake wants to put them into groups of 10. He has __ marbles in total. He can make __ complete groups of 10. There will be __ marbles left over,"12,1,2",240,Y,Add 7+5 to get the total. See how many groups of 10 fit inside,12 marbles. 1 complete group of ten and 2 left over

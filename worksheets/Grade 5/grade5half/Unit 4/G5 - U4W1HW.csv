@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Add 1/4 + 3/8 using a common denominator,5/8,120,Y,"Common denominator can be 8, 1/4 = 2/8",5/8
-2,Add 1/2 + 2/5 using a common denominator,9/10,120,Y,"Common denominator can be 2 x 5 = 10; 1/2 = 5/10, 2/5 = 4/10",9/10
-3,Subtract 5/6 - 1/3 using a common denominator,3/6,120,Y,"Common denominator can be 6, 1/3 = 2/6",3/6
-4,Subtract 7/10 - 2/5 using a common denominator,3/10,120,Y,"Common denominator can be 10, 2/5 = 4/10",3/10
-5,Select. Estimate and select the larger one? A) 4/5 + 1/2 B) 1/4 + 1/3 : A B,A,120,Y,"Which one is less than 1, which one is larger than 1; Estimate by comparing with 1/2",A

@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Select the correct answer. Consider the number 57281.64. What place value is the 5 in the number? : hundred-thousand ten-thousand thousand,ten-thousand,240,Y,Count places to the left from the decimal,ten-thousand -> Count places to the left from the decimal: ones -> tens -> hundreds -> thousands -> ten thousands
-2,Fill: Moving decimal point two places to the right multiplies the value by ___.,100,240,N,,"100 -> each step right is x10, two steps right is x100"
-3,Select the correct answer. Consider the number 29381.95. What is the value of the left 9? : 9000 0.9 0.09 90000,9000,240,N,,9000 -> 9 thousands
-4,"Select the correct answer. In the number 5023.509, compare the two digits 5. How many times larger is the 5 in the thousands place than the 5 in the tenths place? : 100 1000 10000",10000,240,Y,Count decimal shifts,10000 -> 4 decimal places different so it is 10000
-5,A bank account balance shifts from $532.10 to $53210.00 due to a processing update. Select how many times larger the balance became: 10 100 1000,100,240,Y,Count how many places the decimal point shifted to the right.,100 -> Shifting the decimal point two places to the right multiplies the value by 100.

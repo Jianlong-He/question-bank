@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Tim and Ben played a game. Tim started with 25 points and he lost 4 points. Then he earned 6 points. Ben started with 15 points and earned 8 points. Who has more points now?,Tim,240,Y,To find how many points Tim has now: Subtract 25 - 4 and add 6,Tim
-2,Select how many apples the grocer has left. A grocer has 25 apples in his basket. He sold 5 apples at the market. His delivery brought 6 more apples. Then he used 3 apples to bake a tart. How many apples does he have now? : 20 23 25 28,23,240,Y,"Subtract 25 - 5, then take the answer and add 6, then take the answer and subtract 3",23
-3,Fill 12 + __ = 20,8,120,Y,What number plus 12 makes 20?,8
-4,Fill 20 - __ = 15,5,120,Y,What number do you subtract from 20 to get 15?,5
-5,"A book store had some mystery books in store. In the morning, a customer bought 4 mystery books, and the store received 6 more mystery books in the afternoon. Another customer bought 5 mystery books in the evening. Now there are 12 mystery books in the store. How many mystery books were there in the store in the beginning?",15,120,Y,Work backwards: 12 + 5 = 17 (add the evening sale); 17 - 6 = 11,15

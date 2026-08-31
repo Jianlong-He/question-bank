@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is 0.6 ÷ 6? Write your answer as a decimal.,0.1,240,Y,Divide whole numbers first then place back decimal,0.1 -> 6 tenths ÷ 6 = 1 tenth = 0.1
-2,What is 4/10 ÷ 4? Write your answer as a decimal.,0.1,240,Y,Switch fraction to decimal first. Divide whole numbers first then place back decimal,"0.1 -> 4/10 = 0.4, then 0.4 ÷ 4 = 0.1"
-3,What is 0.8 ÷ 4? Write your answer as a decimal.,0.2,240,Y,Divide whole numbers first then place back decimal,0.2 -> 8 tenths ÷ 4 = 2 tenths = 0.2
-4,What is 1.80 ÷ 9? Write your answer as a decimal.,0.2,240,Y,Divide whole numbers first then place back decimal,0.2 -> 180 hundredths ÷ 9 = 20 hundredths = 0.20 = 0.2
-5,A pitcher holds 4.8 liters of lemonade. The lemonade is poured equally into 8 glasses. How much lemonade does each glass get (in liters)? Give your answer as a decimal.,0.6|0.6 liters|0.6liters,360,Y,Lemonade per glass = lemonade in pitcher ÷ number of glasses,0.6 -> 4.8 liters ÷ 8 = 0.6 liters

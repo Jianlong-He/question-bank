@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"A farmer plants corn seeds in rows. Each row has 60 seeds. If he plants 9 rows, how many seeds does he plant in total?",540,300,Y,This is 9 x 60,540 seeds
-2,"Fill If 8 x 40 = __ , then 8 x 400 = __ , and 8 x 4000 = __","320,320,032,000",120,Y,"For 8x40 Break 40 into 4x10, so 8x4=32, then add one zero","320,320,032,000"
-3,Select all TRUE expressions: 7x3000=21000 4x800=3200 6x90=540 5x4000=2000 8x6000=48000,"7x3000=21000,4x800=3200,6x90=540,8x6000=48000",300,Y,"For 7x3000 7x3=21, add three zeros = 21000","7x3000=21000,4x800=3200,6x90=540,8x6000=48000"
-4,A bookstore buys new notebooks. They ordered 9 boxes with 200 notebooks each and 4 boxes with 500 notebooks each. How many notebooks did they buy in total?,3800,300,Y,"First find 9x200 Break 200 into 2x100, so 9x2=18, then add two zeros = 1800",3800 notebooks
-5,"Fill 8 x 50 = __ , 9 x 800 = __ , and the difference between them is __","40,072,006,800",120,Y,"For 8x50 Break 50 into 5x10, so 8x5=40, then add one zero = 400; For 9x800 Break 800 into 8x100, so 9x8=72, then add two zeros = 7200; For the difference find 7200-400","40,072,006,800"

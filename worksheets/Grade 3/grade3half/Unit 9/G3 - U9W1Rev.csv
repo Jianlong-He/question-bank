@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,How many sides does a pentagon have?,5|5 sides|5sides,100,N,,5|5 sides|5sides
-2,Which shape is a quadrilateral? (A) Triangle (B) Square (C) Pentagon : A B C,B,100,Y,Count the sides,B -> Square
-3,Is a rectangle a quadrilateral? : Yes No,Yes,100,Y,Count the sides of a rectangle.,Yes
-4,What is special about a rhombus? (A) All sides are equal (B) All sides are curved (C) It has 3 sides : A B C,A,100,Y,Think about side lengths.,A
-5,"If lines would never cross even if extended, what do we call them?",Parallel,100,Y,Same direction,Parallel

@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Five 4s means multiplication __ x __,"5, 4",240,Y,"Think of ""Five 4s"" as 5 groups and each group has 4 dots.","5, 4"
-2,Select. Which is greater A. 7 x 6 B. 9 x 5 : A B,A,240,Y,Solve each multiplication separately. What is 7 x 6? Then what is 9 x 5?,A
-3,If 10 x 4 = 40. How many more is that than 7 x 4?,12,240,Y,"What is 7 x 4, then subtract.",12
-4,The party has 40 guests. They are sitting at 8 tables. Each table has the same number of guests. How many guests per table?,5,360,Y,"8 equal groups that together make 40, what is the group size?",5
-5,Select. Class X has 4 groups with total 20 kids. Class Y has 5 groups with total 20 kids. Which class has larger group size? : A B,A,240,Y,"What is the group size of each class? A: __ x 4 = 20, B: __ x 5 = 20",A

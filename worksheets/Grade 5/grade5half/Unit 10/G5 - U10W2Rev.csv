@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Expand 10⁴ as repeated multiplication. That is 10⁴ = _ × _ × _ × _,"10, 10, 10, 10",240,Y,Exponent tells how many 10s,"10, 10, 10, 10"
-2,What is 10³? Please write your number without commas.,1000,240,Y,10^n = 1 followed by n zeros,1000
-3,"Fill. In 10⁹, base = __, and exponent = __","10, 9",240,Y,Base is the big number. Exponent is the small raised number,"10, 9"
-4,Write this statement as a power of ten. 1 followed by 12 zeros,10^12,240,Y,Write as __ ^ __. Number of zeros = exponent,10^12
-5,"Write this number as a power of ten. 100,000,000,000",10^11,240,Y,Write as __ ^ __. Count zeros,10^11

@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What place is the 3 in 0.453?,thousandths,60,Y,"Count right of decimal: tenths, hundredths, thousandths",thousandths
-2,Round 0.555 to the nearest hundredth.,0.56,60,Y,Check the thousandths digit to round the hundredths,0.56
-3,"Fill: 1.009 _ 1.01 with <, >, =",<,60,Y,Compare hundredths; 0 hundredths vs 1 hundredth,<
-4,What is 15.4 ÷ 100?,0.154,60,Y,Move the decimal two places to the left,0.154
-5,"Order greatest to least: 4.4, 4.404, 4.04.","4.404, 4.4, 4.04",60,Y,"Compare the tenths, if same then compare the hundredths","4.404, 4.4, 4.04"

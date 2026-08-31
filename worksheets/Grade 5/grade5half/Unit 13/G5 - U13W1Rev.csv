@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is (12 - 4) x 5?,40,80,Y,"Order of operation: Parentheses first, then multiply and division, then add and subtract",40 -> (12 - 4) x 5 = 8 x 5 = 40
-2,Select True or False. 4 x (6 + 3) equals 4 x 6 + 3 : True False,FALSE,100,Y,"Do they have the same order of operation?; Order of operation: Parentheses first, then multiply and division, then add and subtract","False -> 4 x (6 + 3) = 4 x 9 = 36, but 4 x 6 + 3 = 24 + 3 = 27"
-3,What is 15 - 3 x 4?,3,100,Y,"Order of operation: Parentheses first, then multiply and division, then add and subtract; first 3x4 is 12, then 15-12 = 3","3 -> first multiply 3 x 4 = 12, then 15 - 12 = 3"
-4,Write the following as expression: 50 minus the sum of 12 + 8,50-(12+8),120,Y,"Add parentheses when necessary; Order of operation: Parentheses first, then multiply and division, then add and subtract",50-(12+8)
-5,"Leo had 45 stickers. He bought 15 more, then doubled his total, then gave away 20 to his friend. Write an expression for how many stickers Leo has now. Find the final number of stickers.","(45+15)x2-20, 100",240,Y,"Add parentheses when necessary. Double means x 2; Order of operation: Parentheses first, then multiply and division, then add and subtract","(45+15)x2-20, 100 -> (45 + 15) x 2 - 20 = 60 x 2 - 20 = 120 - 20 = 100"

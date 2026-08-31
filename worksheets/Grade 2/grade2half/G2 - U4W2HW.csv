@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Sam has 35 baseball cards. He buys 20 more cards and then gives 15 cards to his friend. How many cards does Sam have now?,40,120,Y,Buy 20: 35 + 20 = 55; Give away 15: 55 - 15 = 40,40
-2,A park has 65 trees on Monday. They plant 25 new trees on Tuesday and trim 20 trees on Wednesday. How many trees does the park have at the end of Wednesday?,70,120,Y,Tuesday: 65 + 25 = 90; Wednesday: 90 - 20 = 70,70
-3,Maria collects 45 rocks on Saturday and 35 on Sunday. She then trades 20 duplicate rocks with her friend. How many rocks does Maria have now?,60,120,Y,Saturday + Sunday: 45 + 35 = 80; Trade away 20: 80 - 20 = 60,60
-4,"A kitchen bakes 60 cookies in the morning. They sell 35 cookies before lunch. After lunch, they bake 25 more cookies. How many cookies do they have in total?",50,120,Y,Sell 35: 60 - 35 = 25; Bake 25 more: 25 + 25 = 50,50
-5,Leo has 50 dinosaur cards and 25 space cards. He gives 15 dinosaur cards to his friend and then receives 10 space cards from his cousin. How many trading cards does Leo have now?,70,120,Y,Start: 50 + 25 = 75 total; Give 15 dinosaur: 75 - 15 = 60; Receive 10 space: 60 + 10 = 70,70

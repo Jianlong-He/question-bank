@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Round 8921 to the nearest 10. What number do you get?,8920,240,Y,Is the ones digit 5 or more?,8920
-2,Round 2486 to the nearest 100. What number do you get?,2500,240,Y,Tens digit 5 or more?,2500
-3,Round 888 to the nearest 100. What number do you get?,900,240,Y,Tens digit 5 or more?,900
-4,Fill: Round 129 to the nearest 10 is __ and to the nearest 100 is __,"130, 100",240,Y,Two answers. Is the ones digit 5 or more? Is the tens digit 5 or more?,"130, 100"
-5,Fill: Round 7215 to the nearest 1000 is __. Round 6930 to the nearest 1000 is __,"7000, 7000",360,Y,Hundreds digit 5 or more?,"7000, 7000"

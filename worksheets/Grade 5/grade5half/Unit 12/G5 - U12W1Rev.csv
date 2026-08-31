@@ -1,6 +1,0 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
-1,"Write the ordered pair for a point that is 2 units right and 9 unit up of the origin. (__, __)","2, 9",240,Y,"Coordinate is (x,y) where Right = x, up = y","2, 9",
-2,"What is coordinate of point A in the graph above? ( __, __ )","2, 3",240,Y,"Coordinate is (x,y) where Right = x, up = y","2, 3",https://i.ibb.co/cSkHCC29/image.png
-3,"In the graph above, from point A to point B. How far do you move right? How far do you move up?","2, 1",240,Y,"Compare the x-coordinates to find how far you move right, and compare the y-coordinates to find how far you move up.","2, 1",https://i.ibb.co/HThsQB0d/image.png
-4,"Select the correct answer. In an ordered pair (x, y), which coordinate tells how far to move up or down on the grid? : x y",y,240,N,,y,
-5,"Select the correct answer. Nina’s home address is (3, 4). She writes it as (4, 3) instead. Did Nina write her address correctly? : No Yes",No,240,Y,Does switching numbers change the point?,No,
