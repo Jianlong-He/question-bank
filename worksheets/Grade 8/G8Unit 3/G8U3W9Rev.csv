@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: What does the slope represent in $C = 30h + 40$ (Cost vs Hours)?",Cost per hour,60,Y,"Slope is the rate of change;Look at the units: Cost divided by Hours",Cost per hour
+2,"Select the equation for a horizontal line passing through $(2, 8)$: $x=2$ $y=8$ $y=x+8$",$y=8$,60,Y,"Horizontal lines have 0 slope","y = the y-coordinate → y = 8"
+3,"Function A: $y=3x+7$. Function B: Graph starting at 0 going up 2 over 1. Which has a larger y-intercept? (A/B)",A,60,Y,"Intercept of A is 7;Intercept of B is 0","7 > 0, so A"
+4,"Fill: The cost of a cab ride is $y = 2.5x + 4$. What is the flat fee to enter the cab?",4,60,Y,"Flat fee is the cost when distance ($x$) is 0","The y-intercept is 4"
+5,"Fill: Write the equation of a line with slope 3 passing through $(0, -5)$.",y=3x-5,60,Y,"You are given $m=3$ and $b=-5$;Plug into $y=mx+b$",y=3x-5

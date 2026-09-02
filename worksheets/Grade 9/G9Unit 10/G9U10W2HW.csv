@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the mean of 5, 9, and 10.",8,60,Y,"Add the values and divide by 3.;The sum is 24.","The mean is (5 + 9 + 10)/3 = 24/3 = 8."
+2,"Find the median of 3, 6, 8, 11, 15.",8,60,Y,"The values are already ordered.;Choose the middle value.","The third of five ordered values is 8."
+3,"Find the mode of 2, 7, 7, 8, 9.",7,60,Y,"The mode occurs most often.;Count the repeated values.","The value 7 occurs twice, so the mode is 7."
+4,"The mean of 6, 10, and x is 9. Find x.",11,60,Y,"A mean of 9 for three values requires a total of 27.;Subtract the known sum from 27.","6 + 10 + x = 27, so x = 27 - 16 = 11."
+5,"Find the median of 4, 8, 10, 14.",9,60,Y,"With four values, average the middle two.;Compute (8 + 10)/2.","The median is (8 + 10)/2 = 9."

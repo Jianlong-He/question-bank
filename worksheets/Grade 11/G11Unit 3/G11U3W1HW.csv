@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Simplify (16x^5)/(4x^2).",4x^3,60,Y,"Divide coefficients and subtract exponents.;16/4 = 4 and 5 - 2 = 3.","The quotient is 4x^3."
+2,"Simplify (20x^6 - 15x^4)/(5x^2).",4x^4-3x^2|4x^4 - 3x^2,60,Y,"Divide each term by 5x^2.;Subtract 2 from each exponent.","The quotient is 4x^4 - 3x^2."
+3,"Divide 12x^3 + 6x^2 - 18x by 6x.",2x^2+x-3|2x^2 + x - 3,60,Y,"Divide every term by 6x.;Reduce coefficients and subtract one from each exponent.","The quotient is 2x^2 + x - 3."
+4,"What is the quotient of 24x^7y^4 divided by 8x^3y?",3x^4y^3,60,Y,"Divide coefficients.;Subtract exponents of like bases.","The quotient is 3x^4y^3."
+5,"Simplify (x^6 - 2x^4 + x^3)/x^3.",x^3-2x+1|x^3 - 2x + 1,60,Y,"Divide every term by x^3.;The last term becomes 1.","The quotient is x^3 - 2x + 1."

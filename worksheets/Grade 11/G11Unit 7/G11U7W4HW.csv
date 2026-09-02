@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"To solve f(x) = g(x) by graphing, what feature should be located?",intersection points|intersections|where the graphs intersect,60,Y,"At a solution both functions share an output.;Shared points satisfy both equations.","Locate the intersections of the two graphs."
+2,"If y = 3x + 2 and y = 11 intersect, what is the x-coordinate of the solution?",3,60,Y,"Set the y-values equal.;Solve 3x + 2 = 11.","3x = 9, so x = 3."
+3,"How many real solutions are shown when two graphs intersect at two points?",2|two,60,Y,"Each intersection gives one solution.;Count the shared points.","There are two real solutions."
+4,"If the graph of h(x) = f(x) - g(x) crosses the x-axis at x = 5, what equation is solved there?",f(x)=g(x)|f(5)=g(5),60,Y,"An x-intercept means h(x) = 0.;Then f(x) - g(x) = 0.","At x = 5 the functions are equal."
+5,"If y = 2x - 3 and y = 9 intersect, what is the x-coordinate of the solution?",6,60,Y,"Set the y-values equal.;Solve 2x - 3 = 9.","2x = 12, so x = 6."

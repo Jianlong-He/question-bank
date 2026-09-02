@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Describe the transformation from y = f(x) to y = f(x - 2) + 5.",2 units right and 5 units up|right 2 and up 5,60,Y,"The change inside controls horizontal movement.;The outside constant controls vertical movement.","The graph shifts 2 units right and 5 units up."
+2,"Describe the transformation from y = f(x) to y = f(x + 3) - 4.",3 units left and 4 units down|left 3 and down 4,60,Y,"Horizontal shifts use the opposite sign inside.;The -4 moves outputs downward.","The graph shifts 3 units left and 4 units down."
+3,"Write a transformation of y = f(x) shifted 5 units right.",y=f(x-5)|f(x-5),60,Y,"Replace x by x - h for a right shift.;Use h = 5.","The shifted function is y = f(x - 5)."
+4,"Write a transformation of y = f(x) shifted 8 units up.",y=f(x)+8|f(x)+8,60,Y,"Add to the output.;Vertical shifts occur outside the function.","The shifted function is y = f(x) + 8."
+5,"The graph of y = x^2 is shifted to y = (x + 6)^2. Which direction did it move?",left|6 units left|left 6,60,Y,"Inside changes are opposite in direction.;x + 6 means h = -6.","The graph moved 6 units left."

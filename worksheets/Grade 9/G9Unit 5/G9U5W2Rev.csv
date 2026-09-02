@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write the equation of the line through (1, 5) and (3, 11).",y=3x+2|y = 3x + 2,60,Y,"First find the slope.|Then substitute either point to find b.","Slope 3; 5 = 3 + b → b = 2."
+2,"A model contains (0, 10) and (4, 22). Write its equation.",y=3x+10|y = 3x + 10,60,Y,"The first point gives the intercept.","Slope = 12/4 = 3 → y = 3x + 10."
+3,"Are y = 5x - 3 and y = 5x + 2 parallel? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Compare their slopes.","Same slope, different intercepts → Yes."
+4,"A table contains (0, 8), (2, 0), and (4, -8). Write the equation.",y=-4x+8|y = -4x + 8,60,Y,"Use the row with x = 0 for b.","Slope = -8/2 = -4 → y = -4x + 8."
+5,"A line through (-2, 7) has slope -2. Find its y-intercept.",3,60,Y,"Substitute the point into y = -2x + b.|Solve 7 = 4 + b.","b = 3."

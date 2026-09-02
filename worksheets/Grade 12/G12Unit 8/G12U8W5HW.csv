@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write the expected-value formula for a discrete random variable X.",sum xP(x)|ΣxP(x),60,Y,"Multiply each value by its probability.;Then add across all outcomes.","E(X) = sum of x·P(x)."
+2,"For X = 0 with probability 0.5 and X = 4 with probability 0.5, find E(X).",2,60,Y,"Compute 0(0.5) + 4(0.5).;Weight each value by its probability.","E(X) = 2."
+3,"Does the expected value have to be a possible outcome? Enter Yes or No.",No|no|N|n,60,Y,"It is a long-run average.;Averages can fall between possible values.","No — the expected value need not be attainable."
+4,"A game pays 20 dollars with probability 0.1 and 0 otherwise. Find the expected payoff in dollars.",2,60,Y,"Multiply each payoff by its probability.;Compute 20(0.1) + 0(0.9).","The expected payoff is 2 dollars."
+5,"The game in the previous question costs 3 dollars to play. What is the expected net gain in dollars?",-1,60,Y,"Subtract the cost from the expected payoff.;Compute 2 - 3.","The expected net gain is -1 dollar."

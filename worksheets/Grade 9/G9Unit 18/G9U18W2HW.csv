@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A trapezoid has bases 5 and 9 and height 6. Find its area.",42,60,Y,"Use A = (b1 + b2)h/2.;Add the bases first.","A = (5 + 9)(6)/2 = 42 square units."
+2,"A triangle on the coordinate plane has base 10 units and perpendicular height 6 units. Find its area.",30,60,Y,"Use one half base times height.;Compute 10(6)/2.","The area is 30 square units."
+3,"A rectangle has vertices (0, 0), (8, 0), (8, 4), and (0, 4). Find its area.",32,60,Y,"Its side lengths are 8 and 4.;Multiply length by width.","The area is 8(4) = 32 square units."
+4,"For the circle x^2 + y^2 = 36, what is the radius?",6,60,Y,"The right side equals r^2.;Take the positive square root of 36.","The radius is 6."
+5,"Does the point (6, 8) lie on the circle x^2 + y^2 = 100? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Substitute x = 6 and y = 8.;Compute 36 + 64.","36 + 64 = 100, so the point is on the circle."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select the type of association shown if y decreases as x increases: Positive Negative None",Negative,60,Y,"Think of a line going downhill from left to right",Negative
+2,"Fill: In the equation $y = 4x + 3$ representing distance over time, the slope 4 represents the $\_\_$.",speed,60,Y,"Slope is the rate of change;In distance vs time, rate of change is speed",speed
+3,"Fill: A group of data points that are packed closely together on a scatter plot is called a \_\_.",cluster|Cluster,60,Y,"It sounds like a 'bunch' or 'group'",cluster
+4,"Fill: A data point that lies far away from the main trend of the other points is called an \_\_.",outlier|Outlier,60,Y,"It 'lies out' from the rest of the data",outlier
+5,"Fill: If a scatter plot compares 'Hours of practice' (x) to 'Free throws made' (y), the association is likely \_\_\_ (Positive/Negative).",positive|Positive,60,Y,"More practice usually means more free throws made",positive

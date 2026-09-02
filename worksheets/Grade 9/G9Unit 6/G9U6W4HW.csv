@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"How many solutions does y = 3x + 2 and y = 3x - 5 have?",0|zero|none|no solution|no solutions,60,Y,"Compare slope and intercept.","Parallel and distinct → no solution."
+2,"How many solutions does 3x + 6y = 12 and x + 2y = 4 have?",infinitely many|infinite|infinite solutions|infinitely many solutions,60,Y,"Multiply the second equation by 3.","Equivalent equations → infinitely many."
+3,"How many solutions does y = -2x + 3 and y = 4x - 9 have?",1|one|one solution,60,Y,"The slopes differ.","Exactly one."
+4,"A system with no solution is called consistent or inconsistent?",inconsistent|Inconsistent,60,Y,"A consistent system has at least one solution.","Inconsistent."
+5,"If elimination produces 0 = 7, how many solutions does the original system have?",0|zero|none|no solution|no solutions,60,Y,"The final statement is false.","No solution."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A point moves from $(3, -6)$ to $(3, 4)$ under a translation. By how much did the y-coordinate change?",10,60,Y,"Find the change in y by subtracting the old y from the new y","$4 - (-6) = 10$"
+2,"Fill: Point $(2, 5)$ is reflected across the x-axis. What is the new y-coordinate?",-5,60,Y,"Reflecting across the x-axis flips the sign of the y-coordinate","$(2, 5) \to (2, -5)$"
+3,"Fill: A transformation sends $(4, 1)$ to $(-1, 4)$. What is the angle of counter-clockwise rotation in degrees?",90,60,Y,"Check the rotation rules","$(x, y) \to (-y, x)$ → 90° CCW"
+4,"Fill: A point goes from $(6, -8)$ to $(-6, -8)$ under a reflection. Across which axis was it reflected? (Type x-axis or y-axis)",y-axis|y axis,60,Y,"Look at which coordinate changed its sign","The x-coordinate flipped → y-axis"
+5,"Fill: Apply the translation vector $(-7, 5)$ to point $(4, -2)$. What is the y-coordinate of the image?",3,60,Y,"Add the y-component of the vector to the y-coordinate","$-2 + 5 = 3$"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A medicine dosage is 4 milligrams per kilogram of body mass. What dose is needed for a child with mass 20 kilograms? Enter only the number of milligrams.",80,60,Y,"Multiply the rate by the body mass.","4 × 20 = 80 mg."
+2,"Convert 3.2 liters to milliliters using 1000 milliliters = 1 liter. Enter only the number.",3200,60,Y,"Multiply liters by 1000 milliliters per liter.","3.2 × 1000 = 3200 mL."
+3,"Use d = rt to find the distance traveled at 64 km/h for 2.5 hours. Enter only the number of kilometers.",160,60,Y,"Multiply rate by time.","64 × 2.5 = 160 km."
+4,"A car travels at 70 miles per hour for 30 minutes. How many miles does it travel?",35,60,Y,"Convert 30 minutes to 0.5 hour.|Then use distance = rate × time.","70 × 0.5 = 35 miles."
+5,"A recipe uses 2 cups of flour for 16 cookies. At the same rate, how many cups are needed for 40 cookies?",5,60,Y,"Find cups per cookie, or scale 16 cookies up to 40.","2/16 = 1/8 cup per cookie; 40 × 1/8 = 5 cups."

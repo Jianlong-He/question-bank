@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A function passes the horizontal line test. Does it have an inverse function? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Passing means no repeated outputs.;One-to-one functions are invertible.","Yes — it is one-to-one, so an inverse exists."
+2,"Find the inverse of f(x) = x + 9.",f^-1(x)=x-9|x-9|x - 9,60,Y,"Undo adding 9.;Subtract instead.","The inverse is f^-1(x) = x - 9."
+3,"Find the inverse of f(x) = 5x.",f^-1(x)=x/5|x/5,60,Y,"Undo multiplying by 5.;Divide instead.","The inverse is f^-1(x) = x/5."
+4,"Find the inverse of f(x) = 2x - 6.",f^-1(x)=(x+6)/2|(x+6)/2|x/2+3,60,Y,"Swap x and y, then solve.;Add 6 and divide by 2.","The inverse is f^-1(x) = (x + 6)/2."
+5,"The point (3, 8) lies on the graph of f. What point lies on the graph of f inverse?","(8, 3)|(8,3)",60,Y,"Inverses swap coordinates.;(a, b) becomes (b, a).","The point (8, 3) lies on the inverse's graph."

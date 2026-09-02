@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A line of best fit is $y = 2x + 10$. Estimate $y$ when $x = 12$.",34,60,Y,"Substitute x into the equation","$2(12) + 10 = 34$"
+2,"Fill: A regression line predicts a score of 80 at $x = 4$ and 90 at $x = 6$. What is the slope?",5,60,Y,"Use the slope formula: rise / run","$(90-80)/(6-4) = 5$"
+3,"Fill: A trend line has negative slope -3. If $x$ increases by 5, how much does $y$ change?",-15,60,Y,"Multiply the slope by the change in x","$-3 \cdot 5 = -15$"
+4,"Fill: The average number of books read per month rose from 2 to 10 over 4 years. What is the average yearly increase?",2,60,Y,"Find the total change, then divide by the number of years","$8/4 = 2$"
+5,"Fill: A two-way table shows: 24 play soccer, 15 play basketball, and 7 play both. How many play at least one of the sports?",32,60,Y,"Add the two groups and subtract the intersection","$24 + 15 - 7 = 32$"

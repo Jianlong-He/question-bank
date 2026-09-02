@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What should you multiply x + y = 4 by so its x-term can eliminate the 3x in 3x - y = 5?",-3,60,Y,"You want the first x-coefficient to become -3.","Multiply by -3."
+2,"Solve 2x + 5y = 16 and 2x - y = 4. Enter x and then y.","3, 2",60,Y,"Subtract the second equation from the first.","6y = 12 → y = 2, x = 3."
+3,"Solve 4x + y = 14 and x - y = 1. Enter x and then y.","3, 2",60,Y,"Add the equations.","5x = 15 → x = 3, y = 2."
+4,"Solve 5x + y = 13 and 3x - y = 3. Enter x and then y.","2, 3",60,Y,"Add the equations.|The y-terms cancel.","8x = 16 → x = 2, y = 3."
+5,"Solve 4x - 3y = 10 and 2x + 3y = 14. Enter x and then y.","4, 2",60,Y,"Add the equations.","6x = 24 → x = 4, y = 2."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the center of (x + 4)^2/25 + (y - 1)^2/4 = 1. Enter x then y.","-4, 1",60,Y,"Read h from x - h and k from y - k.;The signs flip.","The center is (-4, 1)."
+2,"Find the vertical vertices of x^2/9 + y^2/25 = 1 by entering their y-values in increasing order.","-5, 5",60,Y,"The vertical semi-axis is 5.;Move up and down from the center.","The vertex y-values are -5 and 5."
+3,"For the circle (x - 1)^2 + (y + 3)^2 = 49, what is the center? Enter x then y.","1, -3",60,Y,"Read h and k from the squares.;The signs flip.","The center is (1, -3)."
+4,"For the circle (x - 1)^2 + (y + 3)^2 = 49, what is the radius?",7,60,Y,"The right side equals r^2.;Take the square root of 49.","The radius is 7."
+5,"In x^2/a^2 + y^2/b^2 = 1 with a > b, is the major axis horizontal or vertical?",horizontal|Horizontal,60,Y,"The larger denominator sits under x^2.;That direction is the major axis.","The major axis is horizontal."

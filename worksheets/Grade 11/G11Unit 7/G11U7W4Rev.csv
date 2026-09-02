@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If y = 4x + 1 and y = 13 intersect, what is the x-coordinate of the solution?",3,60,Y,"Set the y-values equal.;Solve 4x + 1 = 13.","4x = 12, so x = 3."
+2,"Two graphs never intersect. How many real solutions does f(x) = g(x) have?",0|zero|none,60,Y,"Solutions are shared points.;There are none.","There are no real solutions."
+3,"The graphs of f and g intersect at (2, 7). What is f(2) - g(2)?",0,60,Y,"At an intersection the outputs are equal.;Subtracting equal values gives zero.","f(2) - g(2) = 7 - 7 = 0."
+4,"If the graph of h(x) = f(x) - g(x) has x-intercepts at 1 and 6, at which x-values does f(x) = g(x)?","1, 6",60,Y,"Each x-intercept of h solves f = g.;Read both intercepts.","f(x) = g(x) at x = 1 and x = 6."
+5,"A calculator shows the graphs of y = x^2 and y = x + 2 intersecting at x = -1 and x = 2. What are the solutions of x^2 = x + 2? Enter them in increasing order.","-1, 2",60,Y,"The intersections give the solutions.;Read the x-values.","The solutions are x = -1 and x = 2."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If 1 - x^2 <= f(x) <= 1 + x^2 near 0, find lim x->0 f(x).",1,60,Y,"Both bounds approach 1.;Apply the squeeze theorem.","The limit is 1."
+2,"Evaluate lim x->0 of sin(6x)/x.",6,60,Y,"Multiply and divide by 6.;Use sin(6x)/(6x) -> 1.","The limit is 6."
+3,"Evaluate lim x->0 of sin(x)/(5x).",1/5|0.2,60,Y,"Factor out 1/5.;sin(x)/x approaches 1.","The limit is 1/5."
+4,"Evaluate lim x->0 of sin(3x)/(2x).",3/2|1.5,60,Y,"Rewrite as (3/2)·sin(3x)/(3x).;The fraction approaches 1.","The limit is 3/2."
+5,"What must be true of the two bounding functions in the squeeze theorem?",they have the same limit|equal limits|both approach the same value,60,Y,"The trapped function inherits the shared limit.;Different limits give no conclusion.","Both bounds must approach the same limit L."

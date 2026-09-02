@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Multiply (4/x)(2/x).",8/x^2,60,Y,"Multiply numerators and denominators.;Combine x times x as x^2.","The product is 8/x^2."
+2,"Multiply (x/6)(12/x).",2,60,Y,"Cancel the common factor x.;Reduce 12/6.","The product simplifies to 2 for x not equal to 0."
+3,"Multiply ((x + 4)/5)(10/(x + 4)).",2,60,Y,"Cancel the common factor x + 4.;Reduce 10/5.","The product is 2 for x not equal to -4."
+4,"Divide (5/x) by (10/x).",1/2|0.5,60,Y,"Multiply by the reciprocal of the divisor.;Compute (5/x)(x/10).","The quotient is 1/2 for x not equal to 0."
+5,"What operation replaces division by a rational expression?",multiplying by the reciprocal|multiply by the reciprocal,60,Y,"Flip the divisor.;Then multiply.","Division becomes multiplication by the reciprocal."

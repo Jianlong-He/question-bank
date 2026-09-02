@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write the composition (g circle f)(x) in nested-function notation.",g(f(x)),60,Y,"Apply f first.;Then use its output as the input of g.","The composition is g(f(x))."
+2,"Let f(x) = 3x + 2 and g(x) = x^2. Find (f circle g)(2).",14,60,Y,"Evaluate g(2) first.;Then substitute 4 into f.","g(2) = 4 and f(4) = 3(4) + 2 = 14."
+3,"Let f(x) = 3x + 2 and g(x) = x^2. Find (g circle f)(2).",64,60,Y,"Evaluate f(2) first.;Then square that output.","f(2) = 8 and g(8) = 64."
+4,"Let f(x) = x - 5 and g(x) = 2x. Find (f circle g)(x).",2x-5|2x - 5,60,Y,"Substitute g(x) for x in f.;Compute f(2x).","f(g(x)) = f(2x) = 2x - 5."
+5,"A table gives f(3) = 6 and g(6) = -2. Find (g circle f)(3).",-2,60,Y,"Read f(3) first.;Use that output as g's input.","f(3) = 6 and g(6) = -2."

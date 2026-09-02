@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Evaluate ln(e).",1,60,Y,"Natural log has base e.;e^1 = e.","ln(e) = 1."
+2,"Evaluate ln(e^7).",7,60,Y,"Natural log and base-e exponentiation are inverses.;ln(e^k) = k.","ln(e^7) = 7."
+3,"Rewrite ln(20) = x in exponential form.",e^x=20|e^x = 20,60,Y,"Natural log uses base e.;Base^exponent = argument.","The exponential form is e^x = 20."
+4,"An account follows A = 500e^(0.03t). What is the initial amount?",500,60,Y,"Set t = 0.;e^0 = 1.","A(0) = 500."
+5,"In A = 500e^(0.03t), does the model represent growth or decay?",growth|exponential growth,60,Y,"Inspect the sign of the exponent coefficient.;0.03 is positive.","A positive rate means growth."

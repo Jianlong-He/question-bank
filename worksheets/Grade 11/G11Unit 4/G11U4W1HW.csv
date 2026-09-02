@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the zeros of f(x) = (x - 4)(x + 3). Enter them in increasing order.","-3, 4",60,Y,"Set each factor equal to zero.;Solve x + 3 = 0 and x - 4 = 0.","The zeros are -3 and 4."
+2,"Find the zeros of f(x) = x(x - 2)(x + 5). Enter them in increasing order.","-5, 0, 2",60,Y,"Set every factor equal to zero.;Include the zero from the factor x.","The zeros are -5, 0, and 2."
+3,"Which equation has zeros 3 and -8?",(x-3)(x+8)=0|y=(x-3)(x+8),60,Y,"A zero r gives a factor x - r.;Use factors x - 3 and x + 8.","An equation with those zeros is (x - 3)(x + 8) = 0."
+4,"For f(x) = 3(x + 2)(x - 7), what are the x-intercepts? Enter the x-values in increasing order.","-2, 7",60,Y,"The coefficient 3 does not affect the zeros.;Set each factor to zero.","The x-intercepts are at x = -2 and x = 7."
+5,"What is a zero of a polynomial function?",an x-value where the function equals zero|an input where f(x)=0|an x-intercept,60,Y,"Think about where the graph meets the x-axis.;There the output is zero.","A zero is an input x for which f(x) = 0."

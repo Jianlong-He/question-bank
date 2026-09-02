@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Add 5/x + 2/x.",7/x,60,Y,"The denominators match.;Add the numerators.","5/x + 2/x = 7/x."
+2,"Subtract 1/x - 1/5.",(5-x)/(5x)|5-x over 5x,60,Y,"Use common denominator 5x.;Rewrite the fractions before subtracting.","The difference is (5 - x)/(5x)."
+3,"Subtract 9/(x - 1) - 4/(x - 1).",5/(x-1)|5 over x-1,60,Y,"The denominators are alike.;Subtract the numerators.","The difference is 5/(x - 1)."
+4,"What is the least common denominator of 1/(x - 3) and 1/(x + 3)?",(x-3)(x+3)|x^2-9,60,Y,"The factors are distinct.;Multiply them together.","The LCD is (x - 3)(x + 3) = x^2 - 9."
+5,"Add 1/x + 2/x^2.",(x+2)/x^2|x+2 over x^2,60,Y,"Use common denominator x^2.;Rewrite 1/x as x/x^2.","The sum is (x + 2)/x^2."

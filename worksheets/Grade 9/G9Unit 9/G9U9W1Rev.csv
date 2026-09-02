@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"As temperature rises, ice cream sales rise. Is this association positive or negative?",positive|Positive,60,Y,"Both variables move in the same direction.;Rising together means positive.","The association is positive."
+2,"As a car's age increases, its resale value decreases. Is this association positive or negative?",negative|Negative,60,Y,"The variables move in opposite directions.;One rises while the other falls.","The association is negative."
+3,"In a scatter plot, which variable is placed on the vertical axis?",response variable|dependent variable|output variable,60,Y,"The vertical axis shows the output.;It responds to the explanatory variable.","The response, or dependent, variable is on the vertical axis."
+4,"Points in a scatter plot cluster tightly along a straight path. Is the linear association strong or weak?",strong|Strong,60,Y,"Tight clustering means the pattern is clear.;Loose scatter would mean weak.","A tight linear cluster shows a strong association."
+5,"Shoe size and test scores show scattered points with no trend. What type of association is present?",no association|none|no correlation,60,Y,"Look for a directional pattern.;There is none here.","There is no association between the variables."

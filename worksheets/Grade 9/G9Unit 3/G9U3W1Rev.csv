@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fuel efficiency compares distance traveled to fuel used. Enter the appropriate compound unit using words.",miles per gallon|mile per gallon|mi/gal|mpg,60,Y,"Put distance in the numerator and fuel in the denominator.","miles per gallon."
+2,"A cyclist travels at 90 kilometers per hour. What is this rate in kilometers per minute?",1.5|3/2,60,Y,"One hour contains 60 minutes.|Divide 90 by 60.","90 ÷ 60 = 1.5 km/min."
+3,"A sample has mass 480 grams and volume 60 cubic centimeters. What is its density in grams per cubic centimeter?",8,60,Y,"Density equals mass divided by volume.","480 ÷ 60 = 8 g/cm³."
+4,"To estimate how much paint is needed for a wall, should you model the wall's area, perimeter, or volume?",area|Area,60,Y,"Paint covers a two-dimensional surface.","area."
+5,"Convert 3.5 meters to centimeters using 100 centimeters = 1 meter. Enter only the number.",350,60,Y,"Arrange the conversion factor so meters cancel.","3.5 × 100 = 350 cm."

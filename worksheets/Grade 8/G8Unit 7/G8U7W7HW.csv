@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A best-fit line is $y = 3x + 7$. Predict the difference between y-values at $x = 8$ and $x = 3$.",15,60,Y,"Multiply the slope by the change in x","$3 \cdot 5 = 15$"
+2,"Fill: A scatter plot shows points increasing roughly 4 units in y for every 2 units in x. What is the slope?",2,60,Y,"Slope = rise / run","$4/2 = 2$"
+3,"Fill: A regression line predicts $y = 78$ at $x = 5$. The residual is -3. What was the ACTUAL value?",75,60,Y,"Actual = Predicted + Residual","$78 + (-3) = 75$"
+4,"Fill: A trend line drops from $y = 36$ at $x = 2$ to $y = 12$ at $x = 8$. What is the slope?",-4,60,Y,"Slope = change in y / change in x","$(12-36)/(8-2) = -24/6 = -4$"
+5,"Fill: A line of best fit is $y = 3x + 8$. What is the y-intercept?",8,60,Y,"Look at the equation in $y = mx + b$ form",8

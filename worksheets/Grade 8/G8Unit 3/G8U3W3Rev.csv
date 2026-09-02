@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Does the equation y = 6x + 2 represent a linear function? (Enter 1 for Yes, 2 for No)",1,60,Y,"Check if variables have exponents other than 1","It is in y = mx + b form, so yes"
+2,"Fill: Convert $4x + y = 12$ to slope-intercept form. What is the slope?",-4,60,Y,"Solve for $y$ to get $y = mx + b$","$y = -4x + 12$, slope = -4"
+3,"Fill: If a line has a slope of $1/2$ and passes through $(0, 5)$, what is the value of $y$ when $x = 6$?",8,60,Y,"Write the equation: $y = 0.5x + 5$;Plug in $x=6$","$y = 3 + 5 = 8$"
+4,"Select the equation for a horizontal line passing through $(3, 6)$: $x=3$ $y=6$ $y=3x+6$",$y=6$,60,Y,"Horizontal lines have a slope of 0","The equation is $y$ = the y-coordinate → $y = 6$"
+5,"Rewrite the equation 5x - 2y = 6 in slope-intercept form (y = mx + b). What is the slope?",2.5|5/2,60,Y,"Solve for y","$-2y = -5x + 6$ → $y = 2.5x - 3$; slope = 2.5"

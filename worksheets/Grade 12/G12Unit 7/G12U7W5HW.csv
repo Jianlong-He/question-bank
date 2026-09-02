@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write the system 3x + y = 7 and x - 2y = 4 as AX = B. Enter the coefficient matrix's first row.","3, 1",60,Y,"Use the coefficients of x then y.;Read the first equation.","The first row of A is (3, 1)."
+2,"For the same system, enter the coefficient matrix's second row.","1, -2",60,Y,"Use the coefficients from x - 2y = 4.;The y coefficient is -2.","The second row is (1, -2)."
+3,"For invertible A, solve AX = B symbolically.",X=A^(-1)B|A^(-1)B,60,Y,"Multiply both sides on the left by A inverse.;A^(-1)A = I.","X = A^(-1)B."
+4,"What determinant condition makes a 2x2 matrix invertible?",det(A)!=0|nonzero determinant|determinant is not zero,60,Y,"A zero determinant collapses dimension.;An inverse cannot undo a collapse.","A is invertible exactly when det(A) is nonzero."
+5,"Find the inverse of the diagonal matrix [[4, 0], [0, 2]]. Enter the first row.","1/4, 0",60,Y,"Invert each diagonal entry.;Off-diagonal entries stay zero.","The first row of the inverse is (1/4, 0)."

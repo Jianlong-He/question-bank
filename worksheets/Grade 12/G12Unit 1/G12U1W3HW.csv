@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What property must a function have to possess an inverse function?",one-to-one|one to one|injective,60,Y,"Different inputs must not share an output.;Use the horizontal line test.","The function must be one-to-one."
+2,"Which graph test determines whether a function is one-to-one?",horizontal line test|the horizontal line test,60,Y,"A horizontal line checks repeated outputs.;More than one intersection means not one-to-one.","Use the horizontal line test."
+3,"Is f(x) = x^3 invertible on all real numbers? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Cubing is strictly increasing.;No horizontal line crosses twice.","Yes — the cubing function is one-to-one."
+4,"Is f(x) = x^2 invertible on all real numbers? Enter Yes or No.",No|no|N|n,60,Y,"Opposite inputs share a square.;The graph fails the horizontal line test.","No — squaring is not one-to-one on all reals."
+5,"Which common domain restriction makes f(x) = x^2 invertible?",x>=0|x >= 0|nonnegative x,60,Y,"Keep only one half of the parabola.;The right half passes the horizontal line test.","Restricting to x >= 0 makes it one-to-one."

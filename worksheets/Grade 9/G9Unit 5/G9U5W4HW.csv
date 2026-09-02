@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"For 3x + 2y = 12, find the x-intercept.",4,60,Y,"Set y = 0.|Solve 3x = 12.","4."
+2,"Convert y = 3x - 4 to standard form with A positive.",3x-y=4|3x - y = 4,60,Y,"Move y to the left side.","3x - y = 4."
+3,"Find the slope of 6x + 2y = 10.",-3,60,Y,"Solve for y.","y = -3x + 5 → slope -3."
+4,"Find the y-intercept of 4x + y = 8.",8,60,Y,"Set x = 0.","8."
+5,"Rewrite 2x - y = 5 in slope-intercept form.",y=2x-5|y = 2x - 5,60,Y,"Isolate -y first.|Multiply by -1.","y = 2x - 5."

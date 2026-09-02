@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the domain of the points (-1, 3), (2, 6), and (5, 8)? Enter the values in increasing order.","-1, 2, 5",60,Y,"The domain contains input values.;Collect the x-coordinates.","The x-values are -1, 2, and 5."
+2,"What is the range of the points (-1, 3), (2, 6), and (5, 8)? Enter the values in increasing order.","3, 6, 8",60,Y,"The range contains output values.;Collect the y-coordinates.","The y-values are 3, 6, and 8."
+3,"For f(x) = 1/(x - 7), which value must be excluded from the domain?",7,60,Y,"A denominator cannot equal zero.;Solve x - 7 = 0.","x = 7 makes the denominator zero, so it is excluded."
+4,"For g(x) = sqrt(x - 2), what is the smallest real input in the domain?",2,60,Y,"The expression under the root must be nonnegative.;Solve x - 2 >= 0.","The domain begins at x = 2."
+5,"A graph exists from x = -3 to x = 6 with both endpoints included. What is the maximum domain value?",6,60,Y,"Domain values are horizontal coordinates.;Read the right endpoint.","The largest input is 6."

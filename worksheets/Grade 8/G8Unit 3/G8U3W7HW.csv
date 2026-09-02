@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Does the relation $\{(1, 4), (2, 5), (3, 6), (1, 7)\}$ represent a function? (Yes/No)",No|N|no,60,Y,"Check if any x-value repeats with different y-values","x=1 goes to both 4 and 7 → not a function"
+2,"If f(x) = 15x + 40 represents the total cost (in dollars) of renting a kayak for x hours, what is f(4)?",100,60,Y,"Substitute x = 4 into the equation","f(4) = 60 + 40 = 100"
+3,"If the point (-3, 8) lies on the graph of f(x), what is f(-3)?",8,60,Y,"Use the y-value corresponding to x = -3","f(-3) = 8"
+4,"Fill: If $f(x) = x^2 - 6$, what is $f(4)$?",10,60,Y,"Substitute 4 in for x;$4^2 - 6$","f(4) = 16 - 6 = 10"
+5,"If f(x) = 2x - 5, what is f(-3)?",-11,60,Y,"Substitute x = -3 into the function","f(-3) = -6 - 5 = -11"

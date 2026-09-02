@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A 15 N force acts east and a 9 N force acts west. What is the resultant force in newtons east?",6,60,Y,"Treat east as positive and west as negative.;Compute 15 - 9.","The resultant is 6 N east."
+2,"A boat moves 6 m/s east while the current moves 8 m/s north. Find the resultant speed in m/s.",10,60,Y,"The velocity vectors are perpendicular.;Use the Pythagorean theorem.","The resultant speed is sqrt(36 + 64) = 10 m/s."
+3,"A hiker walks 9 km east then 12 km north. Find the total displacement magnitude in km.",15,60,Y,"Add the displacement components.;Use the 3-4-5 family scaled by 3.","The displacement is sqrt(81 + 144) = 15 km."
+4,"For the velocity (3, 4), find its direction north of east to the nearest tenth of a degree.",53.1|53.1 degrees,60,Y,"Use arctan(4/3).;Measure from the eastward x-axis.","The direction is about 53.1 degrees north of east."
+5,"Two forces of 5 N each act in exactly opposite directions. What is the resultant force?",0,60,Y,"Opposite vectors cancel.;Add 5 and -5.","The resultant is 0 N."

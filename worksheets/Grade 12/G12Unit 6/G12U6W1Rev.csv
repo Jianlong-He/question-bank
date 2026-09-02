@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Is speed a scalar or vector quantity?",scalar|a scalar,60,Y,"Speed has size but no direction.;Velocity includes direction.","Speed is a scalar quantity."
+2,"Is displacement a scalar or vector quantity?",vector|a vector,60,Y,"Displacement includes a direction.;Distance does not.","Displacement is a vector quantity."
+3,"Find the vector from initial point (-2, 4) to terminal point (3, 1). Enter x then y.","5, -3",60,Y,"Subtract initial from terminal.;Compute 3 - (-2) and 1 - 4.","The vector is (5, -3)."
+4,"Find the magnitude of the vector (5, 12).",13,60,Y,"Use the Pythagorean theorem.;Compute sqrt(25 + 144).","The magnitude is 13."
+5,"Find the magnitude of the vector (-3, 4).",5,60,Y,"Magnitude uses squares, so signs do not matter.;Compute sqrt(9 + 16).","The magnitude is 5."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write row 4 of Pascal's triangle (the coefficients for (a + b)^4).","1, 4, 6, 4, 1",60,Y,"Each entry is the sum of the two above it.;There are five entries.","Row 4 is 1, 4, 6, 4, 1."
+2,"Expand (a - b)^2.",a^2-2ab+b^2,60,Y,"Use coefficients 1, 2, 1 with alternating signs.;The middle term is negative.","(a - b)^2 = a^2 - 2ab + b^2."
+3,"What is the coefficient of x^2 y^2 in (x + y)^4?",6,60,Y,"Choose which 2 factors give y.;Compute 4C2.","The coefficient is 6."
+4,"How many terms does the expansion of (x + y)^6 have?",7|seven,60,Y,"An nth power gives n + 1 terms.;Compute 6 + 1.","There are 7 terms."
+5,"What is the coefficient of x^4 in (x + 1)^4?",1,60,Y,"It is the first entry of Pascal row 4.;Every factor supplies an x.","The coefficient is 1."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the modulus of 6 + 8i.",10,60,Y,"Use sqrt(a^2 + b^2).;Compute sqrt(36 + 64).","The modulus is sqrt(100) = 10."
+2,"Find the modulus of 5 - 12i.",13,60,Y,"Use sqrt(a^2 + b^2).;Compute sqrt(25 + 144).","The modulus is sqrt(169) = 13."
+3,"Points representing complex numbers with modulus 4 lie on what shape?",a circle|circle,60,Y,"Modulus is distance from the origin.;Points at a fixed distance form a circle.","They lie on a circle of radius 4 centered at the origin."
+4,"Write 1 + i in polar form by entering r then theta in radians.","sqrt(2), pi/4|√2, π/4",60,Y,"Find r from the Pythagorean theorem.;The point lies on y = x in Quadrant I.","The modulus is sqrt(2) and the argument is pi/4."
+5,"What is the argument of the positive real number 7?",0,60,Y,"The point lies on the positive x-axis.;The angle from that axis is zero.","The argument is 0."

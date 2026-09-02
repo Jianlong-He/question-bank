@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: The longest side of a right triangle, opposite the right angle, is called the \_\_\_.",hypotenuse|Hypotenuse,60,Y,"It is represented by 'c' in the formula",hypotenuse
+2,"Fill: Solve for the hypotenuse $c$: $6^2 + 8^2 = c^2$",10,60,Y,"Calculate $36 + 64$;Then find $\sqrt{100}$",10
+3,"Fill: Find the missing leg $a$: $a^2 + 8^2 = 10^2$",6,60,Y,"$a^2 + 64 = 100$;Subtract 64, then square root","$a^2 = 36$ → $a = 6$"
+4,"Fill: Do the side lengths 5, 12, and 13 form a right triangle? (Yes/No)",Yes|Y|yes,60,Y,"Check if $a^2 + b^2 = c^2$;Does $25 + 144 = 169$?",Yes
+5,"Fill: A TV screen is 9 inches wide and 12 inches tall. Find the diagonal length in inches.",15,60,Y,"The width, height, and diagonal form a right triangle;Solve $9^2 + 12^2 = c^2$","$81 + 144 = 225$ → $c = 15$"

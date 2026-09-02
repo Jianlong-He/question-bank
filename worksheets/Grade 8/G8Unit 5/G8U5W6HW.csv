@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A right triangle has a hypotenuse of 13 and one leg of 5. Find the other leg.",12,60,Y,"Use $c^2 - a^2 = b^2$","$169 - 25 = 144$ → $b = 12$"
+2,"Fill: A right triangle has legs 9 cm and 12 cm. Find the length of the hypotenuse.",15,60,Y,"Use $a^2 + b^2 = c^2$","$81 + 144 = 225$ → $c = 15$"
+3,"Fill: A ladder is placed so that the base is 5 ft from the wall and the top touches the wall 12 ft above the ground. Find the length of the ladder.",13,60,Y,"Use the Pythagorean theorem","$25 + 144 = 169$ → 13 ft"
+4,"Fill: A right triangle has hypotenuse 41 m and one leg 40 m. Find the length of the other leg.",9,60,Y,"Use $c^2 - a^2 = b^2$","$1681 - 1600 = 81$ → $b = 9$"
+5,"Fill: A right triangle has legs $x$ and 24, and hypotenuse 26. Find $x$.",10,60,Y,"Use $a^2 + b^2 = c^2$","$x^2 + 576 = 676$ → $x^2 = 100$ → $x = 10$"

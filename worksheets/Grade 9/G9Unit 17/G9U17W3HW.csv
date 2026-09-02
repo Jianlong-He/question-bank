@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the sum of the interior angle measures of any triangle?",180 degrees|180|180°,60,Y,"Draw a parallel to one side through the opposite vertex.;The angles form a straight angle.","The interior angles sum to 180 degrees."
+2,"A triangle has angles 42 degrees and 77 degrees. Find the third angle.",61 degrees|61|61°,60,Y,"Subtract the known angles from 180.;42 + 77 = 119.","The third angle is 180 - 119 = 61 degrees."
+3,"An isosceles triangle has a vertex angle of 50 degrees. Find each base angle.",65 degrees|65|65°,60,Y,"The base angles are congruent.;They share 180 - 50 degrees equally.","Each base angle is (180 - 50)/2 = 65 degrees."
+4,"An isosceles triangle has a base angle of 62 degrees. Find the vertex angle.",56 degrees|56|56°,60,Y,"Both base angles measure 62.;Subtract 2(62) from 180.","The vertex angle is 180 - 124 = 56 degrees."
+5,"Each angle of an equilateral triangle measures how many degrees?",60 degrees|60|60°,60,Y,"All three angles are equal.;Divide 180 by 3.","Each angle is 180/3 = 60 degrees."

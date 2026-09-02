@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"For y = -2cos(x) + 6, what is the amplitude?",2,60,Y,"Amplitude is an absolute value.;Ignore the reflection sign.","The amplitude is 2."
+2,"For y = -2cos(x) + 6, what is the midline?",y=6|6,60,Y,"Read the vertical shift.;The graph oscillates around 6.","The midline is y = 6."
+3,"For y = sin(3x), what is the period?",2pi/3|2π/3,60,Y,"Use period = 2pi/|B|.;Here B = 3.","The period is 2pi/3."
+4,"What is the minimum value of y = 2sin(x) + 5?",3,60,Y,"The minimum of sin is -1.;Compute 2(-1) + 5.","The minimum value is 3."
+5,"For y = 4cos(x) - 1, what is the maximum value?",3,60,Y,"The maximum of cos is 1.;Compute 4(1) - 1.","The maximum value is 3."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve 2 < x + 1 ≤ 6.",1 < x <= 5|1 < x ≤ 5|1<x<=5|1<x≤5,60,Y,"Subtract 1 from all three parts.","1 < x ≤ 5."
+2,"Solve -3 ≤ 2x + 1 < 7.",-2 <= x < 3|-2 ≤ x < 3|-2<=x<3|-2≤x<3,60,Y,"Subtract 1 from every part.|Then divide every part by 2.","-4 ≤ 2x < 6 → -2 ≤ x < 3."
+3,"Solve -2 < 3x + 4 < 13.",-2 < x < 3|-2<x<3,60,Y,"Subtract 4 from all parts.|Then divide all parts by 3.","-6 < 3x < 9 → -2 < x < 3."
+4,"A safe driving speed s is at least 40 km/h and at most 60 km/h. Write the compound inequality.",40 <= s <= 60|40 ≤ s ≤ 60|40<=s<=60|40≤s≤60,60,Y,"At least includes 40, and at most includes 60.","40 ≤ s ≤ 60."
+5,"How many integers satisfy -3 < x ≤ 2?",5,60,Y,"List the integers strictly greater than -3 and no greater than 2.","-2, -1, 0, 1, 2 → 5 integers."

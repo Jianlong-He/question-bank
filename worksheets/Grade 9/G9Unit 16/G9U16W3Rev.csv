@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"How many lines of symmetry does a square have?",4|four,60,Y,"Count two midlines and two diagonals.;Each fold maps the square onto itself.","A square has 4 lines of symmetry."
+2,"How many lines of symmetry does a circle have?",infinitely many|infinite|infinity,60,Y,"Every diameter is a fold line.;There is no limit to their number.","A circle has infinitely many lines of symmetry."
+3,"How many lines of symmetry does a scalene triangle have?",0|zero|none,60,Y,"All sides have different lengths.;No fold matches the halves.","A scalene triangle has no lines of symmetry."
+4,"What is the smallest positive rotation that maps a regular hexagon onto itself?",60 degrees|60|60°,60,Y,"Its rotational symmetry has order 6.;Divide 360 by 6.","The smallest angle is 360/6 = 60 degrees."
+5,"Does a parallelogram that is not a rectangle or rhombus have any line of symmetry? Enter Yes or No.",No|no|N|n,60,Y,"Try folding along midlines and diagonals.;None match the halves.","No — a general parallelogram has no line of symmetry, only rotational symmetry."

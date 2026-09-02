@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the slope through points (2, 3) and (6, 11).",2,60,Y,"Use rise over run.;Compute (11 - 3)/(6 - 2).","The slope is 8/4 = 2."
+2,"What relationship do the slopes of distinct nonvertical parallel lines have?",they are equal|equal|same slope|the same slope,60,Y,"Parallel lines have the same steepness.;Their rise-over-run ratios match.","Distinct nonvertical parallel lines have equal slopes."
+3,"What relationship do the slopes of nonvertical, nonhorizontal perpendicular lines have?",negative reciprocals|they are negative reciprocals|opposite reciprocals,60,Y,"Their product is -1.;Flip the fraction and change its sign.","The slopes are negative reciprocals."
+4,"What is the slope of a line perpendicular to a line with slope 2/5?",-5/2,60,Y,"Take the reciprocal of 2/5.;Change the sign.","The perpendicular slope is -5/2."
+5,"A horizontal line is perpendicular to what type of line?",vertical line|a vertical line|vertical,60,Y,"Horizontal lines have slope 0.;Their perpendiculars are undefined in slope.","A horizontal line is perpendicular to a vertical line."

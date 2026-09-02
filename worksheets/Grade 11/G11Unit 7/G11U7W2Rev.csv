@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve sqrt(x) = 6.",36,60,Y,"Square both sides.;6^2 = 36.","x = 36."
+2,"Solve sqrt(x - 4) = 3.",13,60,Y,"Square both sides.;Then x - 4 = 9.","x = 13."
+3,"Solve sqrt(2x + 5) = 5.",10,60,Y,"Square both sides.;Solve 2x + 5 = 25.","2x = 20, so x = 10."
+4,"Solve sqrt(x) + 1 = 4.",9,60,Y,"Isolate the radical first.;Then sqrt(x) = 3.","Squaring gives x = 9."
+5,"Does x = -2 solve sqrt(x + 6) = x + 4? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Substitute into both sides.;The left side is 2 and the right side is 2.","At x = -2 both sides equal 2, so yes."

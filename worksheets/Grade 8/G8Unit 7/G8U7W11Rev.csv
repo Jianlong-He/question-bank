@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A dataset includes $(1, 9)$, $(3, 15)$, $(5, 21)$. If the pattern continues, what is $y$ when $x = 11$?",39,60,Y,"Find the slope and equation, then extend the pattern","Slope = 3; $y = 3x + 6$; $y = 39$"
+2,"Fill: A school has 100 students. 60 like soccer, 40 like basketball, and 20 like both. How many like at least one?",80,60,Y,"Add the two sports and subtract the intersection","$60 + 40 - 20 = 80$"
+3,"Fill: A table shows 0.4 of students are in band and 0.3 of THOSE also do art. What fraction do both?",0.12,60,Y,"Multiply the proportions together","$0.4 \cdot 0.3 = 0.12$"
+4,"Fill: A scatter plot shows points tightly clustered around a downward-sloping line. What type of correlation is this?",negative|Negative,60,Y,"A downward slope means the variables move in opposite directions",negative
+5,"Fill: A best-fit line for income vs hours worked is $y = 15x + 60$. Predict income when $x = 10$.",210,60,Y,"Substitute 10 for x in the equation","$150 + 60 = 210$"

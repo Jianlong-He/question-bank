@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Convert y - 5 = -2(x - 3) to standard form.",2x+y=11|2x + y = 11,60,Y,"Expand the right side.|Move the x-term left.","y - 5 = -2x + 6 → 2x + y = 11."
+2,"For 3x + 4y = 12, enter the x-intercept and then the y-intercept.","4, 3",60,Y,"Set y = 0 first.|Then set x = 0.","(4, 0) and (0, 3)."
+3,"A line has x-intercept 4 and y-intercept 6. Which standard-form equation fits it?",3x+2y=12|3x + 2y = 12,60,Y,"Use x/4 + y/6 = 1.","Multiply by 12 → 3x + 2y = 12."
+4,"Which has the same slope as 4x + 2y = 6: y = -2x + 1 or y = 2x + 1?",y=-2x+1|y = -2x + 1|first,60,Y,"Solve the standard-form equation for y.","y = -2x + 3 → first equation."
+5,"Write y = -x + 6 in standard form.",x+y=6|x + y = 6,60,Y,"Move the x-term to the left.","x + y = 6."

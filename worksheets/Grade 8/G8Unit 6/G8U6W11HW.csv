@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A square with side length 6 is dilated by a factor of $0.5$. What is the new side length?",3,60,Y,"Multiply the original side length by the scale factor","$6 \cdot 0.5 = 3$"
+2,"Fill: Point $(0, 9)$ is dilated from the origin by a factor of $1/3$. What is the new y-coordinate?",3,60,Y,"Multiply the y-coordinate by $1/3$","$9 \cdot 1/3 = 3$"
+3,"Fill: Does a dilation with a scale factor of 1 change the size of the shape? (Yes/No)",No|N|no,60,Y,"Multiplying by 1 does not change the value","The shape stays the same size → No"
+4,"Fill: A rectangle has a length of 4. It is dilated to a new length of 12. What is the scale factor?",3,60,Y,"Divide the new length by the old length","$12/4 = 3$"
+5,"Fill: Dilate point $(5, 8)$ by scale factor 2 from the origin. What is the new x-value?",10,60,Y,"Multiply x by the scale factor","$5 \cdot 2 = 10$"

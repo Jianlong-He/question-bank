@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the standard equation of a horizontal hyperbola centered at the origin?",x^2/a^2-y^2/b^2=1,60,Y,"A horizontal hyperbola has the x term positive.;The squared terms are subtracted.","The equation is x^2/a^2 - y^2/b^2 = 1."
+2,"What is the standard equation of a vertical hyperbola centered at the origin?",y^2/a^2-x^2/b^2=1,60,Y,"A vertical hyperbola has the y term positive.;The squared terms are subtracted.","The equation is y^2/a^2 - x^2/b^2 = 1."
+3,"Find the center of (x - 5)^2/4 - (y + 3)^2/9 = 1. Enter x then y.","5, -3",60,Y,"Read h from x - h and k from y - k.;The signs flip.","The center is (5, -3)."
+4,"Find the vertex x-values of x^2/16 - y^2/9 = 1. Enter them in increasing order.","-4, 4",60,Y,"The transverse semi-axis is a = 4.;Move left and right from the center.","The vertex x-values are -4 and 4."
+5,"How does a hyperbola's standard equation differ from an ellipse's?",the terms are subtracted|subtraction instead of addition|minus sign instead of plus,60,Y,"Compare the operation between the squared terms.;One adds, the other subtracts.","A hyperbola subtracts the squared terms; an ellipse adds them."

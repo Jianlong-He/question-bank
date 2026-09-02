@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the greatest common factor of 24x^4 and 36x^2.",12x^2,60,Y,"The numerical GCF of 24 and 36 is 12.;Use the smaller exponent of x.","The GCF is 12x^2."
+2,"Factor 9x^4 + 12x^2 completely.",3x^2(3x^2+4)|3x^2(3x^2 + 4),60,Y,"Both terms share 3x^2.;Divide each term by it.","9x^4 + 12x^2 = 3x^2(3x^2 + 4)."
+3,"Factor 6p^2q - 15pq^3 completely.",3pq(2p-5q^2)|3pq(2p - 5q^2),60,Y,"Both terms share 3pq.;Divide each term by it.","The factorization is 3pq(2p - 5q^2)."
+4,"What monomial multiplied by 5x^4 gives 30x^9?",6x^5,60,Y,"Divide 30x^9 by 5x^4.;Subtract exponents.","The missing factor is 6x^5."
+5,"Factor -6x^3 + 9x^2 using a positive leading term inside the parentheses.",-3x^2(2x-3)|-3x^2(2x - 3),60,Y,"Factor out a negative common factor.;Both terms share 3x^2.","The expression factors as -3x^2(2x - 3)."

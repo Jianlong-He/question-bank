@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the domain of y = sqrt(x - 4)?",x>=4|x >= 4,60,Y,"Require x - 4 >= 0.;Solve for x.","The domain is x >= 4."
+2,"What point is the starting point of y = sqrt(x + 2) - 3?","(-2, -3)|(-2,-3)",60,Y,"Shift the parent point (0, 0).;Left 2 and down 3.","The graph starts at (-2, -3)."
+3,"For y = 2^x - 6, what is the horizontal asymptote?",y=-6|y = -6,60,Y,"The parent asymptote y = 0 shifts down 6.;Follow the vertical shift.","The horizontal asymptote is y = -6."
+4,"What is the range of y = x^2?",y>=0|y >= 0,60,Y,"Squares are never negative.;The minimum output is 0.","The range is y >= 0."
+5,"What is the domain of y = 1/x?",all real numbers except 0|x not equal to 0|x≠0,60,Y,"The denominator cannot be zero.;All other inputs work.","The domain is all real numbers except x = 0."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Evaluate (x + 4)/(x + 4) when x = -4. Enter undefined if necessary.",undefined|Undefined|indeterminate|Indeterminate,60,Y,"Substitute -4 into both the numerator and denominator.","It becomes 0/0, undefined at that input."
+2,"Evaluate 0/(x + 3) when x = 4.",0,60,Y,"Check that the denominator is not zero before dividing.","0/7 = 0."
+3,"For the expression 10/(2x - 8), what value of x is not allowed?",4,60,Y,"Set 2x - 8 equal to zero and solve.","2x = 8 → x = 4."
+4,"The equation 0x = 0 is true for how many real values of x? Enter all or none.",all|all real numbers|infinitely many|infinite,60,Y,"Multiplying any real number by 0 gives 0.","Every real number works."
+5,"Evaluate x/x when x = 0. Enter undefined if it has no defined value.",undefined|Undefined|indeterminate|Indeterminate,60,Y,"Substituting x = 0 creates 0/0.","0/0 is not defined."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Convert 30 degrees to radians.",pi/6|π/6,60,Y,"Multiply degrees by pi/180.;Reduce 30/180.","30 degrees equals pi/6 radians."
+2,"Convert 120 degrees to radians.",2pi/3|2π/3,60,Y,"Multiply by pi/180.;Reduce 120/180 to 2/3.","120 degrees equals 2pi/3 radians."
+3,"Convert pi/4 radians to degrees.",45 degrees|45,60,Y,"Multiply radians by 180/pi.;Compute 180/4.","pi/4 radians equals 45 degrees."
+4,"Convert 5pi/3 radians to degrees.",300 degrees|300,60,Y,"Multiply by 180/pi.;Compute 5(180)/3.","The angle is 300 degrees."
+5,"On the unit circle, what coordinates correspond to the angle 0? Enter the x-coordinate then the y-coordinate.","1, 0",60,Y,"Start on the positive x-axis.;The radius is 1.","The point is (1, 0)."

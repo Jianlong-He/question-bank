@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Solve $3(x + 2) = 4(x - 1)$",10,60,Y,"Distribute both sides: $3x + 6 = 4x - 4$;Subtract $3x$;Add 4","$x = 10$"
+2,"Determine the number of solutions for $4x + 7 = 4x + 7$. Select: One None Infinite",Infinite,60,Y,"Notice both sides are exactly the same;This is an identity",Infinite
+3,"Fill: A rectangle has width $x$ and length $3x$. The perimeter is 32. Find $x$. (Hint: $P = 2L + 2W$)",4,60,Y,"Set up: $2(x) + 2(3x) = 32$;Combine terms: $8x = 32$","$x = 4$"
+4,"Solve for $m$: $-2m + 5 = 4m - 13$",3,60,Y,"Add $2m$ to both sides;Add 13 to 5","$18 = 6m$, so $m = 3$"
+5,"Fill: Four times a number minus 5 equals 15. Find the number.",5,60,Y,"Translate to equation: $4n - 5 = 15$;Add 5 then divide by 4","$4n = 20$, so $n = 5$"

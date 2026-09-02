@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Simplify (4x^2)(3x^6).",12x^8,60,Y,"Multiply coefficients and add exponents.;4 × 3 = 12 and 2 + 6 = 8.","The product is 12x^8."
+2,"Expand 2x(x^2 + 5x - 3).",2x^3+10x^2-6x|2x^3 + 10x^2 - 6x,60,Y,"Distribute 2x to every term.;Add one to each exponent.","The expansion is 2x^3 + 10x^2 - 6x."
+3,"Expand (x + 7)(x - 7).",x^2-49|x^2 - 49,60,Y,"Use the difference of squares.;(a+b)(a-b) = a^2 - b^2.","The product is x^2 - 49."
+4,"Expand (2x - 3)^2.",4x^2-12x+9|4x^2 - 12x + 9,60,Y,"Use (a-b)^2 = a^2 - 2ab + b^2.;Compute 2(2x)(3) = 12x.","The expansion is 4x^2 - 12x + 9."
+5,"Expand (x - 1)(x^2 + x + 1).",x^3-1|x^3 - 1,60,Y,"This is the difference-of-cubes pattern.;The middle terms cancel.","The product is x^3 - 1."

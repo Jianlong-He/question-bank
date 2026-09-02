@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A diagonal divides a parallelogram into two triangles. Are the triangles congruent? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Use alternate interior angles and the shared diagonal.;ASA applies.","Yes — the two triangles are congruent."
+2,"In parallelogram ABCD, AB = 12. What is the length of CD?",12,60,Y,"Opposite sides are congruent.;CD is opposite AB.","CD = AB = 12."
+3,"In parallelogram ABCD, angle A = 118 degrees. Find angle B.",62 degrees|62|62°,60,Y,"Consecutive angles are supplementary.;Subtract 118 from 180.","Angle B = 180 - 118 = 62 degrees."
+4,"The diagonals of parallelogram ABCD meet at M, and AM = 7. Find MC.",7,60,Y,"Diagonals bisect each other.;M is the midpoint of AC.","MC = AM = 7."
+5,"In parallelogram ABCD, angle A = 75 degrees. Find angle C.",75 degrees|75|75°,60,Y,"Angle C is opposite angle A.;Opposite angles are congruent.","Angle C = 75 degrees."

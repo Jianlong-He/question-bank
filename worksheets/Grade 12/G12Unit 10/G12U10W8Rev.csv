@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Evaluate lim x->infinity of 7/x^2.",0,60,Y,"The denominator grows without bound.;The fraction shrinks to zero.","The limit is 0."
+2,"Evaluate lim x->infinity of (4x - 9)/(2x + 1).",2,60,Y,"The degrees are equal.;Use the ratio of leading coefficients.","The limit is 4/2 = 2."
+3,"Evaluate lim x->infinity of (x^3)/(x^2 + 5).",infinity|positive infinity|+infinity,60,Y,"The numerator has higher degree.;The quotient grows without bound.","The limit is positive infinity."
+4,"Evaluate lim x->negative infinity of 1/x.",0,60,Y,"The denominator grows in absolute value.;The fraction approaches zero.","The limit is 0."
+5,"If lim x->infinity f(x) = 6, what horizontal line does the graph approach?",y=6|y = 6,60,Y,"A finite limit at infinity gives a horizontal asymptote.;Use the limit value.","The graph approaches y = 6."

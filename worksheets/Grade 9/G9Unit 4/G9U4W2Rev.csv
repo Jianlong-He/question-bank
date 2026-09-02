@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A table contains the points (0, 2), (2, 10), and (4, 18). Find the slope.",4,60,Y,"Use any two rows.|The y-change is 8 when the x-change is 2.","8/2 = 4."
+2,"Find the slope through (-3, 4) and (3, -8).",-2,60,Y,"Compute the changes in the same order.","(-8-4)/(3-(-3)) = -12/6 = -2."
+3,"As x increases, a line moves downward from left to right. Is its slope positive or negative?",negative|Negative,60,Y,"Compare the directions of x and y.","Negative."
+4,"A line falls 3 units for every 4 units it moves right. Write its slope as a fraction.",-3/4,60,Y,"Falling gives a negative rise.|Slope is rise/run.","-3/4."
+5,"The points (6, 2) and (6, 9) lie on the same line. Is the line horizontal or vertical?",vertical|Vertical,60,Y,"Compare the x-coordinates.","Constant x → vertical."

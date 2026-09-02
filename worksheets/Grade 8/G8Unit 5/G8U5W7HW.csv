@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A ladder is 13 feet long and leans against a wall. The base of the ladder is 5 feet from the wall. How high up the wall does it reach?",12,60,Y,"Use the Pythagorean theorem: $a^2 + b^2 = c^2$","$25 + b^2 = 169$ → $b = 12$"
+2,"Fill: A right triangle has legs of 20 and 21. Find the hypotenuse.",29,60,Y,"Use $a^2 + b^2 = c^2$","$400 + 441 = 841$ → $c = 29$"
+3,"Fill: A right triangle has hypotenuse 25 and one leg 15. Find the other leg.",20,60,Y,"Use $c^2 - a^2 = b^2$","$625 - 225 = 400$ → $b = 20$"
+4,"Fill: A 25-ft ladder reaches 24 ft up a wall. How far is the base from the wall?",7,60,Y,"Use $a^2 + b^2 = c^2$","$576 + d^2 = 625$ → $d = 7$"
+5,"Fill: Find the distance between the points $(0, 0)$ and $(5, 12)$.",13,60,Y,"Use the distance formula: $\sqrt{x^2 + y^2}$","$25 + 144 = 169$ → $d = 13$"

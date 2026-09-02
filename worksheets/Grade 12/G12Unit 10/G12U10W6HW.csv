@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"State the first continuity condition at x = a.",f(a) is defined|the function value exists,60,Y,"The point must belong to the domain.;Check the actual value first.","The first condition is that f(a) exists."
+2,"State the second continuity condition at x = a.",the limit exists|lim x->a f(x) exists,60,Y,"Both one-sided limits must agree.;This concerns nearby behavior.","The two-sided limit must exist."
+3,"State the third continuity condition at x = a.",the limit equals f(a)|lim x->a f(x)=f(a),60,Y,"Connect the nearby behavior to the point value.;The first two quantities must match.","Continuity requires lim f(x) = f(a)."
+4,"What type of discontinuity is a missing point with a finite two-sided limit?",removable discontinuity|removable|a hole,60,Y,"Filling in one point would fix it.;The graph shows a hole.","It is a removable discontinuity."
+5,"Is f(x) = x^2 continuous at every real number? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Polynomials are continuous everywhere.;All three conditions hold.","Yes — polynomials are continuous on all reals."

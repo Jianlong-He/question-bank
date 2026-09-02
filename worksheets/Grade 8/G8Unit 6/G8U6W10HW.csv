@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Dilate $(-5, 3)$ from the origin by a scale factor of 4. What is the new y-coordinate?",12,60,Y,"Multiply the y-coordinate by the scale factor 4","$3 \cdot 4 = 12$"
+2,"Fill: A shape is dilated by a factor of 3. If an interior angle was $60^\circ$, what is the new angle in degrees?",60,60,Y,"Dilations change size, but they preserve angle measures","The angle remains 60°"
+3,"Fill: A dilation is centered at the origin. Point $(3, 4)$ maps to $(9, 12)$. What is the scale factor?",3,60,Y,"Divide the new coordinates by the original coordinates","$9/3 = 3$"
+4,"Fill: A triangle with perimeter 12 is dilated by a scale factor of 2. What is the new perimeter?",24,60,Y,"Perimeter scales directly by the scale factor $k$","$12 \cdot 2 = 24$"
+5,"Fill: A dilation sends a side length of 6 to a new side length of 24. What is the scale factor?",4,60,Y,"Divide the new length by the original length","$24/6 = 4$"

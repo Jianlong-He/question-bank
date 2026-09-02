@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A city has about 3.6×10⁶ residents and a stadium holds roughly 6×10⁴ people. About how many stadiums would hold all the residents?",60,60,Y,"Divide total residents by stadium capacity","(3.6×10⁶) ÷ (6×10⁴) = 0.6×10² = 60 stadiums"
+2,"Fill: Multiply $(2 \cdot 10^5)(4 \cdot 10^2)$. Express in scientific notation.",8 \cdot 10^7|8 \times 10^7|8*10^7,60,Y,"Multiply the coefficients: 2 times 4;Add the exponents: 5 + 2","$(2 \cdot 4) = 8$ and $10^5 \cdot 10^2 = 10^7$, so $8 \cdot 10^7$"
+3,"Fill: Write 0.00073 in scientific notation.",$7.3 \cdot 10^{-4}$|$7.3 \times 10^{-4}$|7.3*10^-4,60,Y,"Move the decimal 4 places to the right;The number is less than 1 so the exponent is negative","Move the decimal 4 places right to get 7.3 → $7.3 \cdot 10^{-4}$"
+4,"Simplify the expression: 3⁻².",1/9,60,Y,"A negative exponent means take the reciprocal","3⁻² = 1/(3²) = 1/9"
+5,"Fill: Estimate $\sqrt{48}$ to the nearest whole number.",7,60,Y,"Find the closest perfect square;$\sqrt{49} = 7$","48 is very close to 49, so $\sqrt{48} \approx 7$"

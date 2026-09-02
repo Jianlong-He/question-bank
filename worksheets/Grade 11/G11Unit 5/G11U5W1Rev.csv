@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Evaluate log base 5 of 125.",3,60,Y,"Ask what power of 5 equals 125.;5^3 = 125.","log base 5 of 125 = 3."
+2,"Evaluate log base 9 of 1.",0,60,Y,"Any nonzero base to power zero equals 1.;9^0 = 1.","The logarithm equals 0."
+3,"Rewrite log base 6 of 36 = 2 in exponential form.",6^2=36|6^2 = 36,60,Y,"The logarithm gives an exponent.;Base^exponent = argument.","The exponential form is 6^2 = 36."
+4,"Evaluate log base 2 of 1/8.",-3,60,Y,"Write 1/8 as a power of 2.;2^(-3) = 1/8.","The logarithm equals -3."
+5,"What is the domain of y = log base 3 of x?",x>0|x > 0|positive real numbers,60,Y,"Logarithms accept only positive inputs.;The argument must exceed zero.","The domain is x > 0."

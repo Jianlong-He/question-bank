@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"In the data set 5, 5, 5, 7, 8, what is the frequency of 5?",3,60,Y,"Count how many times 5 appears.;Frequency means number of occurrences.","The value 5 appears three times, so its frequency is 3."
+2,"In a dot plot, what does one dot usually represent?",one data value|one observation|a single observation,60,Y,"Each mark records one item.;Think about how raw data are counted.","Each dot represents one observation or data value."
+3,"A frequency table lists frequencies 4, 6, and 5. How many observations are in the data set?",15,60,Y,"Add all frequencies.;The total frequency equals the sample size.","The sample size is 4 + 6 + 5 = 15."
+4,"A histogram has frequency 6 for 0-10 and frequency 9 for 10-20. Which interval contains more data?",10-20|10 to 20,60,Y,"Compare the two frequencies.;The larger frequency is 9.","The 10-20 interval has frequency 9, so it contains more data."
+5,"What does the height of a bar in a frequency histogram show?",frequency|the frequency|number of data values,60,Y,"The height counts observations in that interval.;Taller bars mean more data.","The height shows the frequency of that interval."

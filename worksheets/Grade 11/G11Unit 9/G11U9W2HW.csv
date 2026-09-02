@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve A = lw for w.",w=A/l|A/l,60,Y,"Divide both sides by l.;Assume l is nonzero.","w = A/l."
+2,"Solve d = rt for r.",r=d/t|d/t,60,Y,"Divide both sides by t.;Assume t is nonzero.","r = d/t."
+3,"Solve y = mx + b for m.",m=(y-b)/x|(y-b)/x,60,Y,"Subtract b first.;Then divide by x.","m = (y - b)/x."
+4,"Solve C = 2pi*r for r.",r=C/(2pi)|C/(2pi)|C/2pi,60,Y,"Divide by the coefficient of r.;The coefficient is 2pi.","r = C/(2pi)."
+5,"Solve P = 2l + 2w for l.",l=(P-2w)/2|P/2-w,60,Y,"Subtract 2w.;Then divide by 2.","l = (P - 2w)/2 = P/2 - w."

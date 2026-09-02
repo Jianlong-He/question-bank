@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Evaluate log base 2 of 16.",4,60,Y,"Ask what power of 2 equals 16.;2^4 = 16.","log base 2 of 16 = 4."
+2,"Evaluate log base 10 of 100.",2,60,Y,"Ask what power of 10 equals 100.;10^2 = 100.","The logarithm equals 2."
+3,"Rewrite log base 4 of 64 = 3 in exponential form.",4^3=64|4^3 = 64,60,Y,"The logarithm gives an exponent.;Base^exponent = argument.","The exponential form is 4^3 = 64."
+4,"Rewrite 2^5 = 32 in logarithmic form.",log base 2 of 32=5|log_2(32)=5,60,Y,"The exponent becomes the logarithm value.;The base remains 2.","The logarithmic form is log base 2 of 32 = 5."
+5,"Evaluate log base 3 of 1/9.",-2,60,Y,"Write 1/9 as a power of 3.;3^(-2) = 1/9.","The logarithm equals -2."

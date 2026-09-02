@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A dataset includes $(1, 5)$, $(3, 11)$, and $(5, 17)$. If the pattern continues, what is $y$ when $x = 8$?",26,60,Y,"Find the slope and extend the pattern","Slope = 3; $y = 3x + 2$; $y = 26$"
+2,"Fill: In a school, 35 are in math club, 30 in science club, and 15 are in both. How many are in at least one club?",50,60,Y,"Add the two clubs and subtract the intersection","$35 + 30 - 15 = 50$"
+3,"Fill: In a table, 0.40 of students play soccer, and 0.25 of THOSE also run track. What fraction of all students do both?",0.1|0.10,60,Y,"Multiply the two proportions together","$0.40 \cdot 0.25 = 0.1$"
+4,"Fill: A scatter plot shows that as study hours increase, TV hours decrease. What type of correlation is this?",negative|Negative,60,Y,"Think about the opposite directions",negative
+5,"Fill: A scatter plot shows points very close to a steep downward line. How would you describe the strength of the correlation?",strong|Strong,60,Y,"Look at how tightly the points cluster around the line",strong

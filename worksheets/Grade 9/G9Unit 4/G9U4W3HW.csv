@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the y-intercept of y = 4x - 9.",-9,60,Y,"In y = mx + b, the intercept is b.","-9."
+2,"Find the x-intercept of y = 3x + 6.",-2,60,Y,"Set y equal to zero.|Solve 0 = 3x + 6.","x = -2."
+3,"For 2x + 4y = 8, enter the x-intercept and then the y-intercept.","4, 2",60,Y,"Set y = 0 for the x-intercept.|Set x = 0 for the y-intercept.","x-int = 4, y-int = 2."
+4,"A service costs $50 initially and $30 per hour. In C = 30h + 50, what is the initial cost?",50,60,Y,"Initial means h = 0.","$50."
+5,"A line has slope 3 and y-intercept 2. Find y when x = 4.",14,60,Y,"Write y = 3x + 2.|Substitute x = 4.","y = 14."

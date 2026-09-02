@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Simplify 6x + 4x - 3.",10x - 3|10x-3,60,Y,"Combine terms that have the same variable.","6x + 4x = 10x → 10x - 3."
+2,"Simplify 5a + 6 - 3a + 2.",2a + 8|2a+8,60,Y,"Combine the a-terms and then the constants.","5a - 3a = 2a and 6 + 2 = 8."
+3,"Use the distributive property to simplify 4(3x - 2).",12x - 8|12x-8,60,Y,"Multiply 4 by both terms inside the parentheses.","12x - 8."
+4,"Simplify 6(y + 3) - 4y.",2y + 18|2y+18,60,Y,"Distribute 6 first.|Then combine the y-terms.","6y + 18 - 4y = 2y + 18."
+5,"Factor 6x + 9 by taking out the greatest common factor.",3(2x + 3)|3(2x+3),60,Y,"Find the greatest number that divides both 6 and 9.","GCF = 3 → 3(2x + 3)."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the sum 1 + 2 + 4 + 8 + 16 + 32.",63,60,Y,"This is a finite geometric series.;Add the six terms or use 2^6 - 1.","The sum is 63."
+2,"Identify the common ratio of 4 + 12 + 36 + 108.",3,60,Y,"Divide a term by the previous term.;12/4 = 3.","The common ratio is 3."
+3,"Use the finite geometric-series formula to find 2 + 4 + 8 + 16 + 32.",62,60,Y,"Use a = 2, r = 2, n = 5.;S_n = a(r^n - 1)/(r - 1).","S_5 = 2(31)/1 = 62."
+4,"Find the sum of the first 4 terms of a geometric sequence with a = 3 and r = 2.",45,60,Y,"Use S_n = a(r^n - 1)/(r - 1).;Compute 3(2^4 - 1)/1.","The sum is 3(15) = 45."
+5,"Identify the first term of 7 + 14 + 28 + 56.",7,60,Y,"The first term is the first listed value.;It is often called a.","The first term is 7."

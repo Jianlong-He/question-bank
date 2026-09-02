@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"For y = 5 × 6^x, give the initial value and growth factor in that order.","5, 6",60,Y,"Compare with y = ab^x.;The coefficient is a and the base is b.","The initial value is 5 and the growth factor is 6."
+2,"A table has y-values 4, 12, 36 for x = 0, 1, 2. Write its exponential rule.",y=4*3^x|4*3^x|y=4(3)^x,60,Y,"The initial value is y(0) = 4.;The common ratio is 12/4 = 3.","The rule is y = 4 × 3^x."
+3,"In P = 1500(1.03)^t, what percent increase occurs each period?",3%|3 percent|0.03,60,Y,"Subtract 1 from the growth factor.;1.03 - 1 = 0.03.","The quantity increases by 3% each period."
+4,"A factor of 0.90 represents what percent decrease per period?",10%|10 percent|0.1,60,Y,"A decay factor is 1 - r.;Compute 1 - 0.90.","The decrease is 0.10 = 10% per period."
+5,"Write a model with initial value 25 and growth rate 50% per period.",y=25*1.5^t|25*1.5^t|y=25(1.5)^t,60,Y,"Convert 50% to a growth factor of 1.50.;Use y = ab^t.","The model is y = 25(1.5)^t."

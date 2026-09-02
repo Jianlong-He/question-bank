@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the square root of 144?",12,60,Y,"Find the number that multiplies by itself to give 144","12×12=144, so √144=12"
+2,"Simplify (2² × 5²).",100,60,Y,"Multiply the bases first if exponents are the same","(2×5)² = 10² = 100"
+3,"Fill: Calculate $(6 \cdot 10^7) / (3 \cdot 10^4)$ in scientific notation. Enter the coefficient only ($x \cdot 10^3$).",2,60,Y,"Divide the coefficients: 6 / 3;Subtract the exponents: 7 - 4","$6/3 = 2$ and $7-4 = 3$, so $2 \cdot 10^3$"
+4,"Fill: Write $5.6 \cdot 10^4$ in standard decimal form.",56000,60,Y,"Move the decimal point 4 places to the right","$5.6 \to 56 \to 560 \to 5600 \to 56000$"
+5,"Fill: Simplify $(x^5)^2$. Enter the new exponent.",10,60,Y,"Power of a power rule: multiply the exponents","$5 \cdot 2 = 10$"

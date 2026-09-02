@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Is √36 a rational or irrational number? (Enter 1 for rational, 2 for irrational)",1,60,Y,"Check if the square root is a whole number","√36 = 6, a whole number, so it is rational"
+2,"Fill: What is the cube root of 27? ($\sqrt[3]{27}$)",3,60,Y,"What number multiplied by itself three times equals 27?","$3 \cdot 3 \cdot 3 = 27$"
+3,"Fill: Solve for $x$: $x^2 = 100$ (positive solution)",10,60,Y,"Take the square root of both sides","$\sqrt{100} = 10$"
+4,"Simplify (2×10³) × (4×10²).",8×10^5|8x10^5|8*10^5,60,Y,"Multiply the numbers, then add the exponents of 10","2×4=8 and 10³×10²=10⁵, so 8×10⁵"
+5,"Evaluate (-5)².",25,60,Y,"Remember to square the entire base including the sign","(-5)×(-5) = 25"

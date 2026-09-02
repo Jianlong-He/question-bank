@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve for x: 7x - 6 = 4x + 9.",5,60,Y,"Move all x terms to one side and constants to the other","$3x = 15$ → $x = 5$"
+2,"The sum of three consecutive even integers is 66. What is the smallest integer?",20,60,Y,"Let the integers be x, x+2, and x+4, then solve for x","$3x + 6 = 66$ → $3x = 60$ → $x = 20$"
+3,"Solve for x: 3x + 4 = x + 14.",5,60,Y,"Subtract x from both sides then subtract 4","$2x = 10$ → $x = 5$"
+4,"Fill: Solve for $x$: $-3(x - 2) = 15$",-3,60,Y,"Distribute the -3: $-3x + 6 = 15$;Subtract 6;Divide by -3","$-3x = 9$, so $x = -3$"
+5,"Maria walked for 1 hour at $w$ km/h and then rode her bike for 2 hours at $(w-6)$ km/h, traveling a total of 24 km. What was her walking speed $w$?",12,60,Y,"Distance = rate × time for each part;$w + 2(w-6) = 24$","$w + 2w - 12 = 24$ → $3w = 36$ → $w = 12$"

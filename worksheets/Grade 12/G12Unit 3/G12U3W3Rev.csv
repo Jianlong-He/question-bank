@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the modulus of 3 - 4i.",5,60,Y,"Use sqrt(a^2 + b^2).;Compute sqrt(9 + 16).","The modulus is 5."
+2,"Find the modulus of 8 + 6i.",10,60,Y,"Use sqrt(64 + 36).;The sum is 100.","The modulus is 10."
+3,"Write -1 + i in polar form by entering r then theta between 0 and 2pi.","sqrt(2), 3pi/4|√2, 3π/4",60,Y,"The modulus is sqrt(2).;The point lies in Quadrant II with reference angle pi/4.","r = sqrt(2) and theta = 3pi/4."
+4,"What is the argument of the imaginary number 5i?",pi/2|π/2,60,Y,"The point lies on the positive y-axis.;That direction is a quarter turn.","The argument is pi/2."
+5,"What is the modulus of i?",1,60,Y,"i corresponds to the point (0, 1).;Compute sqrt(0 + 1).","The modulus is 1."

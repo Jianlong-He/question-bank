@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find the principal square root of 121.,11,60,Y,Find the nonnegative number whose square is 121.;11 × 11 = 121.,√121 = 11.
+2,Find √0.36.,0.6,60,Y,Think of 36 hundredths.;0.6 × 0.6 = 0.36.,√0.36 = 0.6.
+3,Find the cube root of 27.,3,60,Y,Find the number whose cube is 27.;3^3 = 27.,The cube root of 27 is 3.
+4,Find the cube root of -8.,-2,60,Y,Odd roots of negative numbers are negative.;(-2)^3 = -8.,The cube root of -8 is -2.
+5,Between which two consecutive integers does √40 lie? Enter the lower and then upper integer.,"6, 7",60,Y,Compare 40 with nearby perfect squares.;6^2 = 36 and 7^2 = 49.,"Because 36 < 40 < 49, √40 lies between 6 and 7."

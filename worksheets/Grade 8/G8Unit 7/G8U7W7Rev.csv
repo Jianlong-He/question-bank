@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A dataset includes $(1, 6)$, $(3, 12)$, and $(5, 18)$. If the pattern continues, what is $y$ when $x = 10$?",33,60,Y,"Find the slope and equation, then plug in $x = 10$","Slope = 3; $y = 3x + 3$; $y = 33$"
+2,"Fill: A two-way table shows 60 students. 25 play sports, 20 do theater, and 10 do both. How many do neither?",25,60,Y,"Find how many do at least one activity, then subtract from the total","At least one: $25+20-10 = 35$; Neither: $60-35 = 25$"
+3,"Fill: A regression line is $y = -3x + 27$. What is the x-value when $y = 6$?",7,60,Y,"Substitute 6 for y and solve for x","$6 = -3x + 27$ → $3x = 21$ → $x = 7$"
+4,"Fill: A table shows 0.5 of students like art and 0.2 of THOSE also like music. What fraction like both?",0.1|0.10,60,Y,"Multiply the proportions together","$0.5 \cdot 0.2 = 0.1$"
+5,"Fill: A scatter plot shows a very steep positive trend with tightly clustered points. What type of correlation does this show?",strong|Strong,60,Y,"Steep, tightly clustered lines show strong correlation",strong

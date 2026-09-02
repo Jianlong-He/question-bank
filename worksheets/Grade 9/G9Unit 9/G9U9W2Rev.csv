@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the purpose of a line of best fit?",model the trend|represent the overall trend|predict values|model the relationship,60,Y,"It summarizes the pattern in the points.;It supports estimates.","A line of best fit models the overall linear trend and supports predictions."
+2,"A trend line is y = 4x + 2. Predict y when x = 3.",14,60,Y,"Substitute x = 3.;Compute 4(3) + 2.","The predicted value is 12 + 2 = 14."
+3,"A line of best fit is y = -x + 25. Predict y when x = 10.",15,60,Y,"Replace x with 10.;Calculate -10 + 25.","The predicted value is 15."
+4,"A trend line has slope -3. By how much does predicted y change when x increases by 1?",decreases by 3|-3|y decreases by 3,60,Y,"Slope is predicted change in y per unit of x.;A negative slope means a decrease.","Predicted y decreases by 3 for each 1-unit increase in x."
+5,"A trend line is y = 3x + 1. For what x is the predicted y equal to 22?",7,60,Y,"Set 3x + 1 = 22.;Solve 3x = 21.","3x = 21 gives x = 7."

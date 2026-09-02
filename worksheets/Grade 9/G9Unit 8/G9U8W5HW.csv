@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A function rises until x = 4 and then falls. What kind of relative extremum occurs at x = 4?",maximum|relative maximum|local maximum,60,Y,"Compare nearby function values.;The turning point is higher than its neighbors.","A relative maximum occurs at x = 4."
+2,"A function falls until x = -3 and then rises. What kind of relative extremum occurs at x = -3?",minimum|relative minimum|local minimum,60,Y,"Compare nearby values.;The turning point is lower than its neighbors.","A relative minimum occurs at x = -3."
+3,"A graph has its highest point at (2, 15). What is the absolute maximum value?",15,60,Y,"The maximum value is a y-coordinate.;Read the second coordinate.","The absolute maximum value is 15."
+4,"On the interval from x = 0 to x = 6, f(x) gets larger as x gets larger. Is f increasing or decreasing there?",increasing|Increasing,60,Y,"Compare the directions of x and f(x).;Both move upward.","The function is increasing on that interval."
+5,"On the interval from x = -5 to x = -1, f(x) gets smaller as x gets larger. Is f increasing or decreasing there?",decreasing|Decreasing,60,Y,"Watch the output as x moves right.;The output moves downward.","The function is decreasing on that interval."

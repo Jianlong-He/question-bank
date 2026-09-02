@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the common difference of 30, 24, 18, 12.",-6,60,Y,"Subtract consecutive terms.;24 - 30 = -6.","Each term decreases by 6, so the common difference is -6."
+2,"Find the next term of the arithmetic sequence 3, 10, 17, 24.",31,60,Y,"The common difference is 7.;Add 7 to 24.","The next term is 24 + 7 = 31."
+3,"For an arithmetic sequence with first term 2 and common difference 9, find the fifth term.",38,60,Y,"Use a_n = a_1 + (n - 1)d.;There are four increases to term 5.","a_5 = 2 + 4(9) = 38."
+4,"A sequence rule defines each term using the preceding term. Is the rule explicit or recursive?",recursive|a recursive rule,60,Y,"The rule refers back to an earlier term.;It needs a starting value.","A rule based on preceding terms is recursive."
+5,"Is the sequence 2, 4, 8, 16 arithmetic? Enter Yes or No.",No|no|N|n,60,Y,"Check the differences.;They are 2, 4, and 8 — not constant.","The differences are not constant, so it is not arithmetic."

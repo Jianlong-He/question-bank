@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What matrix satisfies AI = A for compatible A?",identity matrix|the identity matrix|I,60,Y,"It plays the role of the number 1.;Multiplication by it changes nothing.","I, the identity matrix."
+2,"What matrix satisfies A + O = A?",zero matrix|the zero matrix|O,60,Y,"It plays the role of 0 for addition.;Every entry is zero.","O, the zero matrix."
+3,"What size identity matrix multiplies a 4x3 matrix A on the left?",4x4|4 by 4,60,Y,"The left identity acts on rows of A.;Use the number of rows.","I_4, a 4x4 identity matrix."
+4,"What size identity matrix multiplies a 4x3 matrix A on the right?",3x3|3 by 3,60,Y,"The right identity acts on columns of A.;Use the number of columns.","I_3, a 3x3 identity matrix."
+5,"Does (AB)C = A(BC) when the products are defined? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Matrix multiplication is associative.;Grouping does not change the result.","Yes — matrix multiplication is associative."

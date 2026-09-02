@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: The sum of three consecutive integers is 18. Find the first integer ($x$). The equation is $x + (x+1) + (x+2) = 18$.",5,60,Y,"Combine like terms: $3x + 3 = 18$;Subtract 3 then divide by 3","$3x = 15$, so $x = 5$"
+2,"Fill: Make this equation have NO solution: $4x + 3 = 4x + \_\_ \text{ (enter any number except 3)}$","any:1,2,4,5,6,7,8,9,0,10,-1",60,Y,"For no solution the variables cancel but the constants must differ","Any number other than 3 works"
+3,"Select the first correct step to solve $5(x+2) = 30$: ""Divide by 5"" ""Subtract 2"" ""Subtract 5""","""Divide by 5""",60,Y,"You can distribute 5 OR divide the whole equation by 5 immediately","Dividing by 5 gives $x + 2 = 6$"
+4,"Fill: Solve $6x - 4x + 3 = 13$",5,60,Y,"Combine like terms first: $6x - 4x = 2x$","$2x + 3 = 13$ → $2x = 10$ → $x = 5$"
+5,"Fill: Solve for $k$: $\frac{k}{4} - 2 = 3$",20,60,Y,"Add 2 to both sides first;Multiply by 4","$\frac{k}{4} = 5$, so $k = 20$"

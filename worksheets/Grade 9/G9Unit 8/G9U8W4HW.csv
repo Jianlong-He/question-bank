@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Does the set {(2, 5), (3, 7), (4, 5)} represent a function? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Check whether any input repeats.;Repeated outputs are allowed.","Each input appears only once, so the set is a function."
+2,"Does the set {(6, 1), (6, 3), (8, 2)} represent a function? Enter Yes or No.",No|no|N|n,60,Y,"Look at input 6.;It has two different outputs.","Input 6 is paired with two outputs, so this is not a function."
+3,"A graph passes the vertical line test. Is it a function of x? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Each vertical line meets it at most once.;That means one output per input.","Passing the vertical line test means the graph is a function."
+4,"Does the vertical line x = -2 represent y as a function of x? Enter Yes or No.",No|no|N|n,60,Y,"Input -2 has many y-values.;Apply the vertical line test.","The input -2 corresponds to infinitely many outputs, so it is not a function."
+5,"A circle is drawn on the coordinate plane. Does it represent y as a function of x? Enter Yes or No.",No|no|N|n,60,Y,"Apply the vertical line test.;A vertical line through the middle crosses twice.","A vertical line crosses a circle twice, so it is not a function."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"In constructions, what does the compass draw?",arcs and circles|circles|arcs,60,Y,"It pivots around a fixed point.;It keeps a constant radius.","The compass draws arcs and circles."
+2,"In constructions, what does the straightedge draw?",lines|straight lines|lines and segments,60,Y,"It has no markings.;It cannot measure.","The straightedge draws straight lines."
+3,"Every point on an angle bisector is equidistant from which parts of the angle?",the two sides|both sides|the sides of the angle,60,Y,"Use the defining property of the bisector.;Compare perpendicular distances to each side.","Each point is equidistant from the two sides of the angle."
+4,"To bisect segment AB with a compass, arcs of equal radius are drawn from A and B. The radius must be larger than what?",half of AB|half the length of AB|AB/2,60,Y,"The arcs must intersect above and below the segment.;Too small a radius gives no intersection.","The radius must exceed half of AB."
+5,"A constructed perpendicular bisector of AB meets AB at what angle?",90 degrees|90|90°|a right angle,60,Y,"Perpendicular means a right angle.;Bisector also implies the midpoint.","It meets AB at 90 degrees."

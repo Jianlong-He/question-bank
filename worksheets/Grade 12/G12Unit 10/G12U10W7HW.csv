@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If f(x) grows to positive infinity as x approaches a, what kind of limit is this?",infinite limit|an infinite limit,60,Y,"The outputs are unbounded.;Infinity describes growth, not a finite value.","It is an infinite limit."
+2,"What graph feature often occurs when an infinite limit appears at x = a?",vertical asymptote|a vertical asymptote,60,Y,"The graph rises or falls without bound near a vertical line.;The line is x = a.","A vertical asymptote often occurs at x = a."
+3,"For f(x) = 1/(x - 3), find lim x->3+ f(x).",positive infinity|infinity|+infinity,60,Y,"From the right, x - 3 is small and positive.;Its reciprocal is large and positive.","The right-hand limit is positive infinity."
+4,"For f(x) = 1/(x - 3), find lim x->3- f(x).",negative infinity|-infinity,60,Y,"From the left, x - 3 is small and negative.;Its reciprocal is large and negative.","The left-hand limit is negative infinity."
+5,"For f(x) = 1/(x - 3), does the two-sided limit at x = 3 exist? Enter Yes or No.",No|no|N|n,60,Y,"Compare the one-sided limits.;They go opposite ways.","No — the one-sided limits differ."

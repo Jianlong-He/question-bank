@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A line of best fit is $y = 6x - 1$. By how much does $y$ change when $x$ increases from 4 to 7?",18,60,Y,"Multiply the slope by the change in x","$6 \cdot 3 = 18$"
+2,"Fill: A dataset shows that when $x$ increases by 4, $y$ increases by 20. What is the slope?",5,60,Y,"Slope = rise / run","$20/4 = 5$"
+3,"Fill: A prediction model gives $y = 48$ at $x = 7$. If the actual value is 43, what is the residual?",-5,60,Y,"Residual = Actual - Predicted","$43 - 48 = -5$"
+4,"Fill: A regression line is $y = -5x + 35$. For which x-value is $y$ equal to 10?",5,60,Y,"Set y to 10 and solve for x","$10 = -5x + 35$ → $5x = 25$ → $x = 5$"
+5,"Fill: A line of best fit is $y = -2x + 18$. What is $y$ when $x = 4$?",10,60,Y,"Substitute x into the equation","$-8 + 18 = 10$"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: An isosceles triangle has equal sides 17 and base 16. Find its area.",120,60,Y,"Find height using half the base (8), then use the area formula","$h^2 + 64 = 289$ → $h = 15$; Area = $\frac{1}{2}(16)(15) = 120$"
+2,"Fill: A right triangle has hypotenuse 61 and one leg 60. Find the other leg.",11,60,Y,"Use $c^2 - a^2 = b^2$","$3721 - 3600 = 121$ → $b = 11$"
+3,"Fill: A right triangle has legs $x$ and 30, and hypotenuse 34. Find $x$.",16,60,Y,"Use $a^2 + b^2 = c^2$","$x^2 + 900 = 1156$ → $x^2 = 256$ → $x = 16$"
+4,"Fill: A rectangular prism measures $2 \times 3 \times 6$. Find the space diagonal.",7,60,Y,"Use the 3D Pythagorean theorem: $d^2 = l^2 + w^2 + h^2$","$4 + 9 + 36 = 49$ → $d = 7$"
+5,"Fill: In Garfield's trapezoid proof, if the two right triangles have legs 6 and 8, find the hypotenuse.",10,60,Y,"Use $a^2 + b^2 = c^2$","$36 + 64 = 100$ → $c = 10$"

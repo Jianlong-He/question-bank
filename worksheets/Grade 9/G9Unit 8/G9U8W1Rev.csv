@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Every input of a relation has exactly one output. Is it a function? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Recall the definition of a function.;One output per input is required.","A relation with exactly one output per input is a function."
+2,"If f(x) = 4x - 3, find f(5).",17,60,Y,"Replace x with 5.;Compute 4(5) - 3.","f(5) = 20 - 3 = 17."
+3,"If g(x) = x^2 + 3, find g(-2).",7,60,Y,"Square -2 before adding.;(-2)^2 = 4.","g(-2) = 4 + 3 = 7."
+4,"If f(6) = -1, what is the output when the input is 6?",-1,60,Y,"Function notation names an input and its output.;Read the value after the equals sign.","The output is -1."
+5,"Can two different inputs of a function have the same output? Enter Yes or No.",Yes|yes|Y|y,60,Y,"The rule restricts each single input.;Many-to-one pairings are allowed.","Yes, different inputs may share an output."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Use change of base to write log base 3 of 10 using natural logarithms.",ln(10)/ln(3)|ln 10/ln 3,60,Y,"Use log_b(a) = ln(a)/ln(b).;The argument goes in the numerator.","log_3(10) = ln(10)/ln(3)."
+2,"Solve 2^x = 64.",6,60,Y,"Write 64 as a power of 2.;64 = 2^6.","Equal bases give x = 6."
+3,"Solve 5^x = 12. Give x as an exact logarithmic expression.",ln(12)/ln(5)|log(12)/log(5),60,Y,"Take a logarithm of both sides.;Use change of base.","The exact solution is x = ln(12)/ln(5)."
+4,"Solve e^(3x) = 8. Give x as an exact logarithmic expression.",ln(8)/3|(1/3)ln(8),60,Y,"Take natural log of both sides.;Then solve 3x = ln(8).","The solution is x = ln(8)/3."
+5,"Solve 10^x = 1000.",3,60,Y,"Write 1000 as a power of 10.;1000 = 10^3.","Equal bases give x = 3."

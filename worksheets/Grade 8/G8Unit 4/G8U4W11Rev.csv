@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Solve for $x$: $3x + y = 9$ and $-3x + 2y = 0$. (Enter as a decimal if needed)",2,60,Y,"Add equations to eliminate $x$: $3y = 9$, so $y=3$;Plug $y=3$ back in","$3x + 3 = 9$ → $x = 2$"
+2,"Select the system that matches: ""Ben is 5 years older than William. Combined they are 27."" $B=W+5, B+W=27$ $B=W-5, B=W=27$ $B=5W, B+W=27$","$B=W+5, B+W=27$",60,Y,"Older means add years ($+5$);Combined means sum","$B=W+5$ and $B+W=27$"
+3,"True or False: If you get $3 = 3$ when solving, there are Infinite Solutions. (True/False)",True|T|true,60,Y,"A true statement means the equations are identical","Any point on the line works → True"
+4,"Fill: Tickets cost $\$4$ (child) and $\$8$ (adult). You spent $\$40$ on 8 tickets. How many adults?",2,60,Y,"System: $c + a = 8$ and $4c + 8a = 40$","$4(8-a) + 8a = 40$ → $32 + 4a = 40$ → $a = 2$"
+5,"Fill: Solve for $y$: $x + 3y = 10$ and $x = 4$",2,60,Y,"Substitute $x=4$ immediately: $4 + 3y = 10$","$3y = 6$ → $y = 2$"

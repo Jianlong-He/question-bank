@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A theater can hold at most 400 people. If a is adults and c is children, write the capacity inequality.",a+c<=400|a + c <= 400,60,Y,"At most means less than or equal to.","a + c <= 400."
+2,"A club must raise at least $600. Adult tickets earn $8 and student tickets earn $5. Write the inequality.",8a+5s>=600|8a + 5s >= 600,60,Y,"At least means greater than or equal to.","8a + 5s >= 600."
+3,"A student studies more than 5 hours total. If m is math time and s is science time, write the inequality.",m+s>5|m + s > 5,60,Y,"More than is a strict inequality.","m + s > 5."
+4,"Pens cost $3 and notebooks cost $4. With a budget of $25, can 3 pens and 4 notebooks be bought? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Compute 3(3) + 4(4).|Compare with $25.","9 + 16 = 25 → Yes."
+5,"A phone plan allows fewer than 800 texts. If t is the number of texts, write the inequality.",t<800|t < 800,60,Y,"Fewer than is strict.","t < 800."

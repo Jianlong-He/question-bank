@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the x-intercept of the line 3x + 2y = 12.",4,60,Y,"Set y = 0 and solve for x","3x = 12 → x = 4"
+2,"A plumber charges according to the equation y = 40x + 80, where x is the number of hours worked and y is the total cost in dollars. What is the cost for 4 hours of work?",240,60,Y,"Substitute x = 4 into the equation","y = 160 + 80 = 240"
+3,"A line passes through the points (1, 4) and (4, 13). What is the slope of the line?",3,60,Y,"Use the slope formula (y₂-y₁)/(x₂-x₁)","(13-4)/(4-1) = 9/3 = 3"
+4,"Fill: Write the equation of a line passing through the origin $(0,0)$ with a slope of 4. $y = \_\_ x$",4,60,Y,"Since it passes through the origin, the y-intercept is 0","y = 4x"
+5,"Select the equation of a line parallel to $y = 3x - 5$: $y=-1/3x+2$ $y=3x+1$ $y=5x-3$",$y=3x+1$,60,Y,"Parallel lines have the exact same slope","Look for slope 3 → $y = 3x + 1$"

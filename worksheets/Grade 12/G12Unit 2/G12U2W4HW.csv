@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Enter the lower and upper bounds of the principal range of arcsin(x).","-pi/2, pi/2|-π/2, π/2",60,Y,"Sine is restricted to a one-to-one interval.;Use Quadrants IV and I with endpoints.","The principal range is [-pi/2, pi/2]."
+2,"Enter the lower and upper bounds of the principal range of arccos(x).","0, pi|0, π",60,Y,"Cosine is restricted from 0 through pi.;Both endpoints are included.","The principal range is [0, pi]."
+3,"Find arcsin(1).",pi/2|π/2,60,Y,"Choose the principal angle whose sine is 1.;The top of the unit circle.","arcsin(1) = pi/2."
+4,"Find arccos(1).",0,60,Y,"Choose the principal angle whose cosine is 1.;The point (1, 0) is at angle 0.","arccos(1) = 0."
+5,"Find arctan(1).",pi/4|π/4,60,Y,"Choose the principal angle whose tangent is 1.;Sine and cosine are equal there.","arctan(1) = pi/4."

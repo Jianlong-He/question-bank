@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the y-intercept value of y = 4 × 3^x?",4,60,Y,"Set x = 0.;3^0 = 1, so y = 4.","At x = 0, y = 4(1) = 4."
+2,"Is the graph of y = (1/3)^x increasing or decreasing?",decreasing|it is decreasing,60,Y,"The base is between 0 and 1.;Bases below 1 give decay.","The graph is decreasing."
+3,"Is the graph of y = 6^x increasing or decreasing?",increasing|it is increasing,60,Y,"The base is greater than 1.;Bases above 1 give growth.","The graph is increasing."
+4,"Can y = 2^x ever output a negative value? Enter Yes or No.",No|no|N|n,60,Y,"Powers of a positive base are positive.;The graph stays above the x-axis.","All outputs of 2^x are positive, so no."
+5,"For very large x, which grows faster: y = 2^x or y = 100x?",y=2^x|2^x|the exponential function,60,Y,"Exponential growth eventually overtakes linear growth.;Doubling beats adding 100 in the long run.","Eventually 2^x grows faster than 100x."

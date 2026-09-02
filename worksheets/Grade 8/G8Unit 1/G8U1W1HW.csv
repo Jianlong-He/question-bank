@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select all rational numbers: $\sqrt{9}$ $\pi$ $0.\overline{6}$ $\sqrt{3}$ $-7$","$\sqrt{9}$,$0.\overline{6}$,$-7$",60,Y,"Rational numbers can be written as fractions;Integers and repeating decimals are rational;$\pi$ and non-perfect roots are irrational","$\sqrt{9}=3$, $0.\overline{6}=2/3$ and $-7$ are rational; $\pi$ and $\sqrt{3}$ are irrational"
+2,"What is the positive square root of 81?",9,60,Y,"What number times itself is 81?","$9 \cdot 9 = 81$"
+3,"Fill: $3^2 \cdot 3^5 = 3^{\_\_}$",7,60,Y,"When multiplying like bases add the exponents","$2 + 5 = 7$"
+4,"Fill: $4^{-2} = \frac{1}{\_\_}$",16,60,Y,"Negative exponents flip the base to the denominator","$4^{-2} = 1/4^2 = 1/16$"
+5,"Fill: $2.7 \times 10^3 = \_\_$",2700,60,Y,"Move the decimal point 3 places to the right","$2.7 \rightarrow 27 \rightarrow 270 \rightarrow 2700$"

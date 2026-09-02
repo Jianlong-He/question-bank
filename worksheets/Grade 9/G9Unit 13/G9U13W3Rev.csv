@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Simplify √45 completely.",3√5|3*sqrt(5)|3sqrt5,60,Y,"Factor 45 as 9 × 5.;Take √9 outside the radical.","√45 = √(9×5) = 3√5."
+2,"Simplify √98 completely.",7√2|7*sqrt(2)|7sqrt2,60,Y,"Factor 98 as 49 × 2.;Take √49 outside the radical.","√98 = √(49×2) = 7√2."
+3,"Simplify 3√12 completely.",6√3|6*sqrt(3)|6sqrt3,60,Y,"First simplify √12 as 2√3.;Then multiply the outside coefficients.","3√12 = 3(2√3) = 6√3."
+4,"Simplify √8 + √18 completely.",5√2|5*sqrt(2)|5sqrt2,60,Y,"Simplify each radical first.;√8 = 2√2 and √18 = 3√2.","2√2 + 3√2 = 5√2."
+5,"Assuming y is nonnegative, simplify √(25y^2).",5y|5*y,60,Y,"Take the root of each perfect-square factor.;√25 = 5 and √(y^2) = y for y ≥ 0.","√(25y^2) = 5y when y is nonnegative."

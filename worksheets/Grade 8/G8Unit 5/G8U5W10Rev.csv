@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A cylinder has radius 2 cm and height 8 cm. Find its total surface area. (Enter the coefficient of $\pi$ only)",40,60,Y,"Use $SA = 2\pi r^2 + 2\pi r h$","$2(4) + 2(2)(8) = 8 + 32 = 40\pi$"
+2,"Fill: A sphere has radius 12 cm. Find its volume. (Enter the coefficient of $\pi$ only)",2304,60,Y,"Use $V = 4/3 \pi r^3$","$\frac{4}{3}(1728) = 2304\pi$"
+3,"Fill: A cone has radius 5 cm and height 9 cm. Find its volume. (Enter the coefficient of $\pi$ only)",75,60,Y,"Use $V = 1/3 \pi r^2 h$","$\frac{1}{3}(25)(9) = 75\pi$"
+4,"Fill: A cone has radius 6 cm and height 4 cm. Find its volume. (Enter the coefficient of $\pi$ only)",48,60,Y,"Use $V = 1/3 \pi r^2 h$","$\frac{1}{3}(36)(4) = 48\pi$"
+5,"Fill: A cylinder has radius 10 cm and height 3 cm. Find its volume. (Enter the coefficient of $\pi$ only)",300,60,Y,"Use $V = \pi r^2 h$","$100 \cdot 3 = 300\pi$"

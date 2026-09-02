@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write y = 2x - 9 using function notation with the name g.",g(x)=2x-9|g(x) = 2x - 9,60,Y,"Replace y with g(x).;Keep the rule the same.","The function is g(x) = 2x - 9."
+2,"If d(t) gives distance in km after t hours and d(4) = 240, what is the distance after 4 hours?",240,60,Y,"The input is the time.;The output is the distance.","After 4 hours the distance is 240 km."
+3,"If f(x) = 5x - 8, solve f(x) = 12 for x.",4,60,Y,"Set 5x - 8 equal to 12.;Solve 5x = 20.","5x = 20 gives x = 4."
+4,"If h(x) = x^2 - 5, find h(3).",4,60,Y,"Substitute x = 3.;Compute 9 - 5.","h(3) = 9 - 5 = 4."
+5,"If f(x) = -2x + 11, what is f(0)?",11,60,Y,"Substitute x = 0.;Only the constant remains.","f(0) = 11."

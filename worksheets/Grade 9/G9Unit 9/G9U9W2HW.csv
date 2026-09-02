@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A trend line is y = 3x + 4. Predict y when x = 5.",19,60,Y,"Substitute x = 5.;Compute 3(5) + 4.","The predicted value is 15 + 4 = 19."
+2,"A line of best fit is y = -2x + 30. Predict y when x = 6.",18,60,Y,"Replace x with 6.;Calculate -12 + 30.","The predicted value is 18."
+3,"A trend line has slope 5. By how much does predicted y change when x increases by 1?",increases by 5|5|y increases by 5,60,Y,"Slope is predicted change in y per unit of x.;The slope is positive.","Predicted y increases by 5 for each 1-unit increase in x."
+4,"A line of best fit has y-intercept 8. What is the predicted y-value at x = 0?",8,60,Y,"The y-intercept occurs at x = 0.;Read the constant term.","The predicted value at x = 0 is 8."
+5,"A trend line is y = 2x + 5. For what x is the predicted y equal to 17?",6,60,Y,"Set 2x + 5 = 17.;Solve 2x = 12.","2x = 12 gives x = 6."

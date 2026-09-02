@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Let f(x) = 2x - 5 and g(x) = (x + 5)/2. Are they inverses? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Compose in both orders.;Each simplifies to x.","Yes — both compositions equal x."
+2,"For f(x) = 2x - 5 and g(x) = (x + 5)/2, find f(g(7)).",7,60,Y,"Evaluate g(7) first.;Then apply f.","g(7) = 6 and f(6) = 7."
+3,"Are f(x) = x^2 and g(x) = sqrt(x) inverses on all real numbers? Enter Yes or No.",No|no|N|n,60,Y,"Check negative inputs.;sqrt(f(-2)) = 2, not -2.","No — squaring is not one-to-one on all reals."
+4,"Are f(x) = 1/x and g(x) = 1/x inverses for nonzero x? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Compose: f(g(x)) = 1/(1/x).;The reciprocal of the reciprocal is x.","Yes — the reciprocal function is its own inverse."
+5,"If f(g(x)) = x but g(f(x)) = x only for x >= 0, are f and g full inverses on all reals? Enter Yes or No.",No|no|N|n,60,Y,"Both orders must give x everywhere.;One direction fails for negatives.","No — both compositions must return x on the whole domain."

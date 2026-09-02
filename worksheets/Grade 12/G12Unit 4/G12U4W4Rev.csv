@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Add 2/x + 9/x.",11/x,60,Y,"The denominators match.;Add the numerators.","The sum is 11/x."
+2,"Subtract 1/x - 1/6.",(6-x)/(6x)|6-x over 6x,60,Y,"Use common denominator 6x.;Subtract the rewritten numerators carefully.","The difference is (6 - x)/(6x)."
+3,"Subtract 10/(x - 4) - 3/(x - 4).",7/(x-4)|7 over x-4,60,Y,"The denominators are alike.;Subtract the numerators.","The difference is 7/(x - 4)."
+4,"What is the least common denominator of 1/(x + 1) and 1/(x - 1)?",(x+1)(x-1)|x^2-1,60,Y,"The factors are distinct.;Multiply them together.","The LCD is (x + 1)(x - 1) = x^2 - 1."
+5,"Add 1/x + 3/x^2.",(x+3)/x^2|x+3 over x^2,60,Y,"Use common denominator x^2.;Rewrite 1/x as x/x^2.","The sum is (x + 3)/x^2."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find det([[5, 2], [3, 4]]).",14,60,Y,"Use ad - bc.;Compute 5(4) - 2(3).","The determinant is 20 - 6 = 14."
+2,"Find det([[1, 0], [0, 1]]).",1,60,Y,"Use ad - bc.;Compute 1(1) - 0(0).","The determinant is 1."
+3,"Find det([[2, 4], [1, 2]]).",0,60,Y,"Use ad - bc.;Compute 2(2) - 4(1).","The determinant is 4 - 4 = 0."
+4,"A 2x2 matrix has determinant 0. Is it invertible? Enter Yes or No.",No|no|N|n,60,Y,"A zero determinant collapses area.;An inverse cannot undo a collapse.","No — a zero determinant means no inverse."
+5,"A transformation matrix has determinant 1. What happens to areas?",they are unchanged|unchanged|no change,60,Y,"The area scale is the absolute determinant.;Here it equals 1.","Areas are unchanged."

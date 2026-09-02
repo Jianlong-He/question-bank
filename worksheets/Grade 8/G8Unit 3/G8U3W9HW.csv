@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A gym charges $\$40$ fee plus $\$15$/month. Write the equation for cost $y$ after $x$ months. (Format: y=mx+b)",y=15x+40,60,Y,"Slope ($m$) is the recurring cost;Intercept ($b$) is the one-time starting fee",y=15x+40
+2,"Function A has equation $y=4x$. Function B is a table with points $(0,0)$ and $(1,6)$. Which has a greater slope? (A/B)",B|b,60,Y,"Find slope of B: $(6-0)/(1-0) = 6$;Compare 4 and 6","6 > 4, so B"
+3,"Fill: Find the rate of change for this table: x:0,3,6 y:5,20,35",5,60,Y,"Change in y is $20-5=15$;Change in x is $3-0=3$","15/3 = 5"
+4,"Fill: A tank drains at 4 gallons per minute from 80 gallons. Write the function. $y = \_\_ x + 80$",-4,60,Y,"'Draining' means the amount is decreasing;The rate must be negative",-4
+5,"Fill: Does $(3, 5)$ lie on the line $y = 2x - 1$? (Yes/No)",Yes,60,Y,"Plug in $x=3$ and see if $y=5$","$2(3) - 1 = 5$ ✓"

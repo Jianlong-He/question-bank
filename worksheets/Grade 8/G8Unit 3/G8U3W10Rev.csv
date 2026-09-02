@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Function A has the equation $y = 4x$. Function B is a table where x goes 1, 2, 3 and y goes 5, 10, 15. Which has a greater rate of change? Function_A Function_B",Function_B,60,Y,"Find the slope of B: (10-5)/(2-1) = 5;Compare 4 and 5","5 > 4, so B"
+2,"Plan A: $y = 15x + 90$. Plan B: $y = 25x + 10$. Which is cheaper after 10 months? Plan_A Plan_B",Plan_A,60,Y,"Plug $x=10$ into both","A: 240; B: 260; A is cheaper"
+3,"The equation of a line is y = -3x + 8. As x increases by 1, how does y change?",-3,60,Y,"Use the slope to find the rate of change","y decreases by 3"
+4,"A plumber charges y = 45x + 90, where x is the number of hours worked. How much will a 3-hour job cost?",225,60,Y,"Substitute x = 3 into the equation","y = 135 + 90 = 225"
+5,"A line passes through the points (1, 5) and (3, 13). Write the equation of the line in slope-intercept form. What is the slope?",4,60,Y,"Use the slope formula (y₂-y₁)/(x₂-x₁)","(13-5)/(3-1) = 4; equation is y = 4x + 1"

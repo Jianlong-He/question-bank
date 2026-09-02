@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select the description for a scatter plot with points scattered randomly everywhere: Linear Nonlinear ""No Association""","""No Association""",60,Y,"If there is no pattern or trend line, there is no association","No Association"
+2,"True or False: A scatter plot showing a curved pattern is considered Linear. (True/False)",False,60,Y,"Linear strictly means a straight line",False
+3,"Fill: In a row of 40 people, 10 are Left-Handed. The relative frequency is $\_\_\%$.",25,60,Y,"Divide part by whole: $10/40$","$0.25 = 25\%$"
+4,"Select the meaning of the slope in a graph of Pay ($y$) vs Hours Worked ($x$): ""Hourly Wage"" ""Total Pay"" ""Starting Bonus""","""Hourly Wage""",60,Y,"Slope is a rate of change","Hourly Wage"
+5,"Fill: A group of points packed closely together on a scatter plot is called a $\_\_$.",cluster,60,Y,"It sounds like a 'bunch' or 'group'",cluster

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A right triangle has legs of 8 and 15. Find the hypotenuse.",17,60,Y,"Use the Pythagorean theorem: $a^2 + b^2 = c^2$","$64 + 225 = 289$ → $c = 17$"
+2,"Fill: A right triangle has legs 12 and 16. Find the hypotenuse.",20,60,Y,"Use $a^2 + b^2 = c^2$","$144 + 256 = 400$ → $c = 20$"
+3,"Fill: A right triangle has hypotenuse 25 and one leg 7. Find the other leg.",24,60,Y,"Use $c^2 - a^2 = b^2$","$625 - 49 = 576$ → $b = 24$"
+4,"Fill: A ladder leans against a wall. The base is 6 ft from the wall and the ladder reaches 8 ft up. Find the ladder's length.",10,60,Y,"The ladder forms the hypotenuse of a right triangle","$36 + 64 = 100$ → 10 ft"
+5,"Fill: Find the distance between points $(-2, 3)$ and $(4, -5)$.",10,60,Y,"Use the distance formula: $\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$","$6^2 + (-8)^2 = 100$ → $d = 10$"

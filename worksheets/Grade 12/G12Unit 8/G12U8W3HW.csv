@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write the combination formula nCr.",n!/(r!(n-r)!),60,Y,"Order does not matter.;Divide the permutation count by r!.","nCr = n!/(r!(n - r)!)."
+2,"Evaluate 6C2.",15,60,Y,"Use 6×5/(2×1).;Pairs have no order.","6C2 = 15."
+3,"How many handshakes occur if each pair among 8 people shakes once?",28,60,Y,"Each handshake is an unordered pair.;Compute 8C2.","There are 28 handshakes."
+4,"A committee of 3 is chosen from 6 people. How many committees are possible?",20,60,Y,"Use combinations.;Compute 6C3.","There are 20 committees."
+5,"Evaluate 7C7.",1,60,Y,"There is only one way to choose everyone.;Use nCn = 1.","7C7 = 1."

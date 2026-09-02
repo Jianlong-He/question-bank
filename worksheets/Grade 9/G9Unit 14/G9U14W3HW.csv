@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the y-intercept value of y = 5^x?",1,60,Y,"Set x = 0.;5^0 = 1.","At x = 0, y = 1, so the y-intercept value is 1."
+2,"If b > 1 in y = b^x, is the graph increasing or decreasing?",increasing|it is increasing,60,Y,"A base greater than 1 produces growth.;Outputs multiply by a number above 1.","The graph is increasing."
+3,"If 0 < b < 1 in y = b^x, is the graph increasing or decreasing?",decreasing|it is decreasing,60,Y,"A base between 0 and 1 produces decay.;Outputs shrink each step.","The graph is decreasing."
+4,"What horizontal line does y = 2^x approach as x becomes very negative?",y=0|0|the x-axis|x-axis,60,Y,"Exponential outputs stay positive and shrink toward zero.;Name the horizontal asymptote.","The graph approaches y = 0, the x-axis."
+5,"At x = 2, which is larger: y = 2^x or y = 5x?",y=5x|5x|the linear function,60,Y,"Evaluate both rules at x = 2.;2^2 = 4 and 5(2) = 10.","5x = 10 is larger than 2^2 = 4 at x = 2."

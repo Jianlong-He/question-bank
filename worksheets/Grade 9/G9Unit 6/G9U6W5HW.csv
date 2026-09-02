@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Adult tickets cost $12 and student tickets cost $8. A total of 15 tickets earns $148. How many adult tickets were sold?",7,60,Y,"Use a + s = 15 and 12a + 8s = 148.|Substitute s = 15 - a.","12a + 120 - 8a = 148 → 4a = 28 → a = 7."
+2,"The sum of two numbers is 30 and their difference is 8. What is the larger number?",19,60,Y,"Use x + y = 30 and x - y = 8.|Add the equations.","2x = 38 → x = 19."
+3,"A farm has chickens and cows. There are 16 heads and 44 legs. How many cows are there?",6,60,Y,"Use c + h = 16 and 4c + 2h = 44.","4c + 2(16-c) = 44 → 2c = 12 → c = 6."
+4,"Mia is 6 years older than Leo. Their ages total 28. How old is Mia?",17,60,Y,"Use m = l + 6 and m + l = 28.","2l + 6 = 28 → l = 11 → Mia = 17."
+5,"A rectangle has perimeter 30 cm. Its length is 3 cm more than its width. Find the width.",6,60,Y,"Use 2l + 2w = 30 and l = w + 3.","2(w+3) + 2w = 30 → 4w = 24 → w = 6."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"How many solutions do y = 3x - 4 and 2y = 6x - 8 have?",infinitely many|infinite|infinite solutions|infinitely many solutions,60,Y,"Simplify the second equation.","Same line → infinitely many."
+2,"Does (2, 3) solve the system x + y = 5 and 3x - y = 3? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Check the point in each equation.","2 + 3 = 5 and 6 - 3 = 3 → Yes."
+3,"At a school event, x is the number of adult tickets and y is the number of student tickets. What does x + y = 150 represent?",150 total tickets|a total of 150 tickets|150 tickets were sold|total tickets sold is 150,60,Y,"Add the two kinds of tickets.","A total of 150 tickets were sold."
+4,"Adult tickets cost $9 and student tickets cost $4. Write an equation for $460 in total sales using x adults and y students.",9x+4y=460|9x + 4y = 460,60,Y,"Multiply each ticket count by its price.","9x + 4y = 460."
+5,"The lines y = 3x and y = -x + 8 meet at what x-coordinate?",2,60,Y,"Set 3x equal to -x + 8.|Solve 4x = 8.","x = 2."

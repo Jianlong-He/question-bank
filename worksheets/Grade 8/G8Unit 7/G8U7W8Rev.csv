@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A scatter plot includes points $(2, 7)$, $(4, 13)$, and $(6, 19)$. If the pattern continues, predict $y$ when $x = 10$.",31,60,Y,"Find the slope and equation, then extend the pattern","Slope = 3; $y = 3x + 1$; $y = 31$"
+2,"Fill: A two-way table shows 45 students total. 18 take art, 27 take music, 9 take both. How many take at least one?",36,60,Y,"Add the two classes and subtract the intersection (both)","$18 + 27 - 9 = 36$"
+3,"Fill: Given relative frequencies: 0.5 like swimming, and 0.3 of THOSE also like biking. What fraction like both?",0.15,60,Y,"Multiply the decimals together","$0.5 \cdot 0.3 = 0.15$"
+4,"Fill: A scatter plot shows a slight upward pattern. What type of correlation is this?",positive|Positive,60,Y,"An upward trend means positive",positive
+5,"Fill: A best-fit line is $y = 4x - 8$. For $x = 5$, what is the predicted value?",12,60,Y,"Substitute x into the equation","$20 - 8 = 12$"

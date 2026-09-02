@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the approximate value of e rounded to two decimal places?",2.72,60,Y,"Recall the natural exponential base.;It begins 2.71828.","Rounded to two decimals, e is 2.72."
+2,"Evaluate ln(1).",0,60,Y,"Ask what power of e equals 1.;e^0 = 1.","ln(1) = 0."
+3,"Evaluate ln(e^3).",3,60,Y,"ln undoes base-e exponentiation.;ln(e^k) = k.","ln(e^3) = 3."
+4,"In M = 300e^(-0.05t), does the model represent growth or decay?",decay|exponential decay,60,Y,"Inspect the exponent coefficient.;-0.05 is negative.","A negative rate means decay."
+5,"An account follows A = 1200e^(0.02t). What is the initial amount?",1200,60,Y,"Set t = 0.;e^0 = 1.","A(0) = 1200."

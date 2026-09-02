@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Is the point $(2, 9)$ a solution to the system $y=4x+1$ and $y=3x+3$? (Type Y or N)",Y,60,Y,"Plug $x=2$ and $y=9$ into both equations;It must work for BOTH","$4(2)+1=9$ ✓ and $3(2)+3=9$ ✓ → Y"
+2,"Select the equation that is Parallel to $y=2x+4$: $y=2x-3$ $y=4x+4$ $y=-2x$",$y=2x-3$,60,Y,"Parallel lines have the SAME slope ($m$) but different y-intercepts","$y=2x-3$ has the same slope 2"
+3,"Select the number of solutions for $y=3x+2$ and $y=3x+2$: 0 1 Infinite",Infinite,60,Y,"Compare the slopes and intercepts;Same slope AND same intercept means the same line",Infinite
+4,"Fill: Two lines intersect at $(4, -3)$. What is the solution to the system? Enter $x,y$","4,-3",60,Y,"The intersection point IS the solution.","(4, -3)"
+5,"Select the number of solutions for $y=6x$ and $y=2x+4$: 0 1 Infinite",$1$,60,Y,"Compare the slopes;Lines with different slopes must intersect exactly once",1

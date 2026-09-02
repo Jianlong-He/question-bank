@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Does the graph of a horizontal line represent a function? (Yes/No)",Yes|Y|yes,60,Y,"Apply the Vertical Line Test","A vertical line hits a horizontal line exactly once → function"
+2,"Does $\{(2,3), (3,5), (4,7), (2,6)\}$ represent a function? (Yes/No)",No|N|no,60,Y,"Check if any x-value repeats","The input 2 goes to both 3 and 6 → not a function"
+3,"Is $y = x^2 + 5$ a function? (Yes/No)",Yes|Y|yes,60,Y,"For every x you plug in, you get exactly one y out","A parabola passes the vertical line test → yes"
+4,"Which defines a function? ""Each x has exactly one y"" ""Each y has exactly one x""","""Each x has exactly one y""",60,Y,"The rule applies to the inputs (x)","Each input maps to exactly one output"
+5,"Does this table represent a function? x: 1, 2, 3, 4; y: 6, 8, 10, 12 (Yes/No)",Yes|Y|yes,60,Y,"Check that no x repeats","All inputs are unique → function"

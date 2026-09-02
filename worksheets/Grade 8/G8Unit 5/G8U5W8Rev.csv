@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A sphere has a radius of 6. What is its volume? (Enter the coefficient of $\pi$ only)",288,60,Y,"Formula: $V = \frac{4}{3} \pi r^3$;Cube the radius ($6^3 = 216$)","$\frac{4}{3}(216) = 288\pi$"
+2,"Fill: A cylinder has a volume of 150. What is the volume of a cone with the exact same radius and height?",50,60,Y,"A cone holds exactly one-third the volume of a cylinder","$150 / 3 = 50$"
+3,"Fill: A sphere has radius $r=3$. Volume is $\_\_\pi$. (Enter the number only)",36,60,Y,"Formula is $\frac{4}{3}\pi r^3$;$3^3 = 27$","$\frac{4}{3}(27) = 36\pi$"
+4,"Fill: Find the volume of a cylinder if the Area of its circular base is 15 and its height is 6.",90,60,Y,"Just multiply the base area by the height","$15 \cdot 6 = 90$"
+5,"Select the cylinder with the larger volume: ""Radius 3, Height 4"" ""Radius 4, Height 3""","""Radius 4, Height 3""",60,Y,"Because the radius is squared, a larger radius makes a bigger difference","A: $9 \cdot 4 = 36$; B: $16 \cdot 3 = 48$ → B"

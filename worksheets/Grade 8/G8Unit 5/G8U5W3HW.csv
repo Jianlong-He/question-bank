@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Two parallel lines are cut by a transversal. One alternate interior angle measures $82^\circ$. What is the measure of the other alternate interior angle?",82,60,Y,"Alternate interior angles are strictly equal","82°"
+2,"Fill: In a triangle, two angles measure $55^\circ$ and $75^\circ$. Find the third angle in degrees.",50,60,Y,"All three angles must add up to 180 degrees","$180 - 130 = 50°$"
+3,"Fill: An angle formed by a transversal and a parallel line measures $115^\circ$. Find its supplementary acute angle.",65,60,Y,"Supplementary angles add up to 180 degrees","$180 - 115 = 65°$"
+4,"Fill: If $(7x - 5)^\circ$ and $(5x + 9)^\circ$ are vertical angles, find $x$.",7,60,Y,"Vertical angles are equal to each other","$7x - 5 = 5x + 9$ → $2x = 14$ → $x = 7$"
+5,"Fill: An equilateral triangle has all angles equal. One angle is written as $(3x + 15)^\circ$. Find the value of $x$.",15,60,Y,"Each angle in an equilateral triangle is exactly 60 degrees","$3x + 15 = 60$ → $x = 15$"

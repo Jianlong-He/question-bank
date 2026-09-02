@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the mean of 2, 6, 7, and 9.",6,60,Y,"Add the values and divide by 4.;The sum is 24.","The mean is 24/4 = 6."
+2,"Find the median of 1, 4, 5, 9, 20.",5,60,Y,"The values are ordered.;Choose the middle value.","The third of five ordered values is 5."
+3,"Find the mode of 3, 3, 5, 8, 8, 8.",8,60,Y,"Count each repeated value.;8 appears most often.","The value 8 occurs three times, so the mode is 8."
+4,"The mean of 4, 8, 12, and x is 10. Find x.",16,60,Y,"A mean of 10 for four values requires a total of 40.;Subtract 24 from 40.","4 + 8 + 12 + x = 40, so x = 16."
+5,"If the lowest value is removed from a data set and all others stay the same, what usually happens to the mean?",it increases|increases|the mean increases,60,Y,"A value below the old mean is removed.;Consider the balance point of the rest.","Removing the lowest value usually raises the mean."

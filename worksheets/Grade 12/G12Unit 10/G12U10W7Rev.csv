@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"For f(x) = 1/x^2, find lim x->0 f(x).",positive infinity|infinity|+infinity,60,Y,"The denominator is small and positive from both sides.;The reciprocal grows without bound.","The limit is positive infinity."
+2,"For f(x) = 1/(x + 1), find lim x->-1+ f(x).",positive infinity|infinity|+infinity,60,Y,"From the right, x + 1 is small and positive.;Its reciprocal is large and positive.","The right-hand limit is positive infinity."
+3,"For f(x) = -1/(x - 2)^2, find lim x->2 f(x).",negative infinity|-infinity,60,Y,"The squared denominator is small and positive.;The negative sign flips the growth.","The limit is negative infinity."
+4,"At what x-value does f(x) = 1/(x - 6) have a vertical asymptote?",x=6|6|x = 6,60,Y,"Set the denominator to zero.;Solve x - 6 = 0.","The vertical asymptote is x = 6."
+5,"Does an infinite limit mean the limit exists as a finite number? Enter Yes or No.",No|no|N|n,60,Y,"Infinity is not a real number.;It describes unbounded growth.","No — an infinite limit means the limit does not exist as a finite value."

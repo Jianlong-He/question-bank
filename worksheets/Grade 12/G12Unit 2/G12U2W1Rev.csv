@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the amplitude of y = 2sin(x) + 3?",2,60,Y,"Amplitude is the coefficient's absolute value.;Ignore the vertical shift.","The amplitude is 2."
+2,"What is the period of y = sin(3x)?",2pi/3|2π/3,60,Y,"For sin(Bx) the period is 2pi/|B|.;Use B = 3.","The period is 2pi/3."
+3,"What is the maximum value of y = 2sin(x) + 3?",5,60,Y,"Add the amplitude to the midline.;The midline is 3 and the amplitude is 2.","The maximum is 3 + 2 = 5."
+4,"What is the minimum value of y = 2sin(x) + 3?",1,60,Y,"Subtract the amplitude from the midline.;3 - 2 = 1.","The minimum is 1."
+5,"What is the midline of y = 4cos(x) - 7?",y=-7|-7,60,Y,"The outside constant gives the vertical shift.;The oscillation centers there.","The midline is y = -7."

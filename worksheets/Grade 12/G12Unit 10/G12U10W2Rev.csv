@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If lim f(x) = 7 and lim g(x) = 2, find lim (f(x) - g(x)).",5,60,Y,"Use the difference law.;Subtract the individual limits.","The limit is 7 - 2 = 5."
+2,"If lim f(x) = 3, find lim (f(x))^2.",9,60,Y,"Use the power law.;Square the limit.","The limit is 3^2 = 9."
+3,"If lim f(x) = 9, find lim sqrt(f(x)).",3,60,Y,"Use the root law.;Take the square root of 9.","The limit is 3."
+4,"If lim f(x) = -4, find lim (-2f(x)).",8,60,Y,"Constants factor out.;Multiply -2 by -4.","The limit is 8."
+5,"If lim f(x) = 6 and lim g(x) = 0, can the quotient law be used for lim f(x)/g(x)? Enter Yes or No.",No|no|N|n,60,Y,"The denominator limit is zero.;The law requires a nonzero denominator limit.","No — the quotient law does not apply."

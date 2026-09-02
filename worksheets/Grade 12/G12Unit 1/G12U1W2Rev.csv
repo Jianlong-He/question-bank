@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Let C(t) = 2t + 8 and F(c) = 3c - 1. Find F(C(3)).",41,60,Y,"First find C(3).;Then apply F.","C(3) = 14 and F(14) = 42 - 1 = 41."
+2,"A side length is s(t) = 2t and a square's area is A(s) = s^2. Write A(s(t)).",4t^2,60,Y,"Substitute 2t for s.;Square the whole quantity.","A(s(t)) = (2t)^2 = 4t^2."
+3,"A discount is D(p) = 0.75p. Find the price after discount for p = 60.",45,60,Y,"Multiply 60 by 0.75.;This is 75% of the price.","D(60) = 45."
+4,"A distance model is s(t) = 6t and a fuel model is G(s) = s/30. Write G(s(t)).",t/5|6t/30|0.2t,60,Y,"Substitute 6t for s.;Reduce 6/30.","G(s(t)) = 6t/30 = t/5."
+5,"In the composition T(D(p)), which operation happens second?",T,60,Y,"Work from the inside out.;The outer function acts last.","The outer function T is applied second."

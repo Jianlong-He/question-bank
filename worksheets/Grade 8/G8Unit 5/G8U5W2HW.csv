@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Two parallel lines are cut by a transversal. One exterior angle measures $72^\circ$. What is the measure of the corresponding interior angle in degrees?",72,60,Y,"Corresponding angles are in the exact same position at each intersection","Corresponding angles are equal → 72°"
+2,"Fill: Two parallel lines are cut by a transversal. If one interior angle is $105^\circ$, what is the measure of the alternate interior angle in degrees?",105,60,Y,"Alternate interior angles are equal","105°"
+3,"Fill: Two parallel lines are cut by a transversal. One angle formed is $54^\circ$. Find the measure of its supplementary angle in degrees.",126,60,Y,"Supplementary angles add up to 180 degrees","180 - 54 = 126°"
+4,"Fill: Two angles $(5x + 8)^\circ$ and $(3x + 30)^\circ$ form a pair of vertical angles. Find $x$.",11,60,Y,"Vertical angles are equal","$5x + 8 = 3x + 30$ → $2x = 22$ → $x = 11$"
+5,"Fill: An isosceles triangle has two equal base angles of $35^\circ$. Find the vertex angle in degrees.",110,60,Y,"The three angles must add up to 180 degrees","$35 + 35 + V = 180$ → $V = 110°$"

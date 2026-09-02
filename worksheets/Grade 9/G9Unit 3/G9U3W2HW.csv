@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A rectangular pool is 10 m long, 4 m wide, and 2 m deep. Use V = lwh to find its volume in cubic meters. Enter only the number.",80,60,Y,"Multiply all three dimensions.","10 × 4 × 2 = 80 m³."
+2,"Runner A travels 120 km in 2 hours. Runner B travels 200 km in 4 hours. Enter A or B for the faster runner.",A|a|Runner A|runner A|first,60,Y,"Compute each distance-per-time rate.","A: 60 km/h; B: 50 km/h → A."
+3,"A measurement is 8.462 cm. Report it to the nearest tenth of a centimeter.",8.5,60,Y,"Look at the hundredths digit to round the tenths digit.","The hundredths digit is 6, so round up → 8.5 cm."
+4,"A factory makes 360 toys in 6 hours at a constant rate. How many toys will it make in 4 hours?",240,60,Y,"Find toys per hour first.","60 per hour × 4 = 240."
+5,"A road trip covers 300 miles at an average speed of 60 miles per hour. How many hours does the trip take?",5,60,Y,"Time equals distance divided by speed.","300 ÷ 60 = 5 hours."

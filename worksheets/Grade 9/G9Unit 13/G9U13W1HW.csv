@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Simplify x^4 × x^6.",x^10,60,Y,"When multiplying like bases, add exponents.;4 + 6 = 10.","x^4 × x^6 = x^(4+6) = x^10."
+2,"Simplify a^8 / a^3.",a^5,60,Y,"When dividing like bases, subtract exponents.;8 - 3 = 5.","a^8 / a^3 = a^(8-3) = a^5."
+3,"Simplify (3x^2)^2.",9x^4|9*x^4,60,Y,"Apply the exponent to the coefficient and the power.;3^2 = 9 and (x^2)^2 = x^4.","(3x^2)^2 = 9x^4."
+4,"Simplify 12x^7 / 3x^2.",4x^5|4*x^5,60,Y,"Divide coefficients and subtract exponents.;12/3 = 4 and 7 - 2 = 5.","12x^7 / 3x^2 = 4x^5."
+5,"For x not equal to 0, simplify x^0.",1,60,Y,"Use the zero-exponent rule.;Any nonzero base to exponent zero equals 1.","For x ≠ 0, x^0 = 1."

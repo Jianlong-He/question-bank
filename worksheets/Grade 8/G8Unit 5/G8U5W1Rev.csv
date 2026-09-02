@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Vertical angles are always \_\_\_ (equal/supplementary).",equal|Equal,60,Y,"Vertical angles are opposite each other when two lines intersect",equal
+2,"Select the angle relationship for angles in the exact same position at each intersection where a transversal crosses parallel lines: Alternate Interior Corresponding Vertical",Corresponding,60,Y,"They 'correspond' to the same spot",Corresponding
+3,"Fill: Alternate exterior angles are strictly \_\_\_ (equal/supplementary) when lines are parallel.",equal|Equal,60,Y,"Alternate means opposite sides of the transversal",equal
+4,"Fill: Same-side interior angles add up to \_\_\_ degrees.",180,60,Y,"Same-side angles are supplementary",180
+5,"Fill: A straight line forms an angle that measures \_\_\_ degrees.",180,60,Y,"It is exactly half of a full 360-degree circle",180

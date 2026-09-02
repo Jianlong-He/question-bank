@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the slope of every line parallel to y = -4x + 3?",-4,60,Y,"Parallel lines share slopes.;Read the coefficient of x.","The slope is -4."
+2,"Write the equation of the line through (0, -5) parallel to y = 2x + 8.",y=2x-5|y = 2x - 5,60,Y,"Keep slope 2.;The point gives the y-intercept directly.","The equation is y = 2x - 5."
+3,"Write the equation of the line through (1, 4) parallel to y = -2x + 3.",y=-2x+6|y = -2x + 6,60,Y,"Use slope -2.;Substitute (1, 4) to find b.","4 = -2(1) + b gives b = 6, so y = -2x + 6."
+4,"Find the slope of the line 2x + 4y = 8.",-1/2,60,Y,"Solve for y.;4y = -2x + 8.","y = (-1/2)x + 2, so the slope is -1/2."
+5,"Are the lines y = 3x + 2 and 6x - 2y = 5 parallel? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Find the second line's slope.;-2y = -6x + 5 gives slope 3.","Both slopes are 3, so the lines are parallel."

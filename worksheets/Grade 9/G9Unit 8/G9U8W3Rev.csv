@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the domain of the points (0, 2), (3, 5), and (4, 9)? Enter the values in increasing order.","0, 3, 4",60,Y,"The domain holds the inputs.;List the x-coordinates.","The x-values are 0, 3, and 4."
+2,"For f(x) = 1/(x + 5), which value must be excluded from the domain?",-5,60,Y,"The denominator cannot be zero.;Solve x + 5 = 0.","x = -5 makes the denominator zero, so it is excluded."
+3,"For g(x) = sqrt(x + 6), what is the smallest real input in the domain?",-6,60,Y,"Require x + 6 >= 0.;Solve for x.","The domain begins at x = -6."
+4,"A graph has outputs from 0 up to 12, including both. What is the maximum range value?",12,60,Y,"Range values are vertical coordinates.;Read the top value.","The greatest output is 12."
+5,"A model gives the height of a ball, defined for times t from 0 to 5 seconds. Is t = -2 a reasonable domain value? Enter Yes or No.",No|no|N|n,60,Y,"Interpret t in context.;Time cannot be negative here.","Negative time is outside the context, so t = -2 is not reasonable."

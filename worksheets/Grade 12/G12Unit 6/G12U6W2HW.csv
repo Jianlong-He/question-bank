@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Multiply the vector (3, -2) by the scalar 5. Enter x then y.","15, -10",60,Y,"Multiply each component by 5.;Keep the sign of the second component.","5(3, -2) = (15, -10)."
+2,"What happens to a vector's magnitude when it is multiplied by the scalar -4?",it is multiplied by 4|magnitude quadruples|4 times as large,60,Y,"Magnitude uses the absolute value of the scalar.;The negative reverses direction only.","The magnitude is multiplied by |-4| = 4."
+3,"What happens to direction when a vector is multiplied by a negative scalar?",it reverses|opposite direction|the direction reverses,60,Y,"A negative multiplier flips both component signs.;The new vector points 180 degrees away.","The vector reverses direction."
+4,"Add the vectors (5, 2) and (-3, 6). Enter x then y.","2, 8",60,Y,"Add corresponding components.;Compute 5 + (-3) and 2 + 6.","The sum is (2, 8)."
+5,"Subtract (1, 4) from (7, 9). Enter x then y.","6, 5",60,Y,"Subtract corresponding components.;Compute 7 - 1 and 9 - 4.","The difference is (6, 5)."

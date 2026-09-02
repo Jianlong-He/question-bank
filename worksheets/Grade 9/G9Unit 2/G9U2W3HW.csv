@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve 2x + 7 > 15. Enter the complete inequality.",x > 4|x>4,60,Y,"Subtract 7, then divide by 2.","2x > 8 → x > 4."
+2,"Solve -3x + 5 ≤ 20. Enter the complete inequality.",x >= -5|x ≥ -5|x>=-5|x≥-5,60,Y,"Subtract 5.|Dividing by a negative reverses the inequality.","-3x ≤ 15 → x ≥ -5."
+3,"Solve 0.4x - 3 < 5.",x < 20|x<20,60,Y,"Add 3, then divide by 0.4.","0.4x < 8 → x < 20."
+4,"A worker has earned $40 and earns $15 per hour. She needs at least $100. What is the minimum whole number of additional hours she must work?",4,60,Y,"Write 40 + 15h ≥ 100.","15h ≥ 60 → h ≥ 4."
+5,"What is the least integer solution of -3x + 2 < 11?",-2,60,Y,"Solve the inequality first.|The solution is x > -3.","-3x < 9 → x > -3; least integer is -2."

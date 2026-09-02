@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A print shop has fixed cost 80 dollars and a cost of 2 dollars per poster. Write the total cost for x posters.",C=80+2x|C(x)=80+2x|2x+80,60,Y,"Use fixed cost plus variable cost.;Variable cost is 2 times x.","The total cost is C(x) = 80 + 2x."
+2,"For C(x) = 80 + 2x, what is the average cost per poster?",80/x+2|(80+2x)/x|2+80/x,60,Y,"Divide total cost by the number of posters.;Separate the fraction if desired.","Average cost is (80 + 2x)/x = 2 + 80/x."
+3,"A graph's horizontal axis counts months from 0 to 12. What should its scale show?",equal intervals from 0 to 12|consistent equal intervals|uniform intervals,60,Y,"A numerical axis should use consistent spacing.;Equal distances represent equal changes.","The axis should show uniformly spaced values from 0 to 12."
+4,"Using C(x) = 80 + 2x, find the total cost of 30 posters.",140|$140,60,Y,"Substitute x = 30.;Compute 80 + 60.","C(30) = 80 + 60 = $140."
+5,"As x becomes very large, what value does the average cost 2 + 80/x approach?",2,60,Y,"The term 80/x shrinks toward zero.;Only the constant 2 remains.","The average cost approaches 2 dollars."

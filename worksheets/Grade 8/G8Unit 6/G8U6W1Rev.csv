@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the rule for a $90^\circ$ Counter-Clockwise rotation about the origin? Select: $(x,y) \to (-y,x)$ $(x,y) \to (y,-x)$ $(x,y) \to (-x,-y)$","$(x,y) \to (-y,x)$",60,Y,"Try testing with point $(1,0)$ which rotates to $(0,1)$","$(x,y) \to (-y,x)$"
+2,"True or False: A reflection changes the size of a figure. (True/False)",False|F|false,60,Y,"Reflections are rigid transformations","Rigid transformations preserve size → False"
+3,"Fill: If Figure A is mapped to Figure B using only rotations and reflections, they are $\_\_$ (Congruent/Similar)",Congruent,60,Y,"Rigid transformations preserve exact size and shape",Congruent
+4,"Fill: If Figure A is translated to Figure B, the corresponding side lengths are \_\_ (equal/different)",equal|Equal,60,Y,"Translations are rigid motions",equal
+5,"Fill: Point $P(-3, 6)$ is translated by the rule $(x,y) \to (x+4, y-2)$. The new coordinates are $\_\_$","1,4",60,Y,"Add 4 to the x-coordinate;Subtract 2 from the y-coordinate","(1, 4)"

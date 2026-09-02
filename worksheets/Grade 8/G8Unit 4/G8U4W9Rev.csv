@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A father is three times as old as his daughter. In 5 years, their total age will be 58. How old is the father now?",36,60,Y,"Set up equations: $f = 3d$ and $(f + 5) + (d + 5) = 58$","$f + d = 48$; $4d = 48$ → $d = 12$; father = 36"
+2,"Fill: A system for a bus and train trip is: $t = 2h + 5$ and $t - 5 = 2h$. How many solutions does the system have? (Type 0, 1, or Infinite)",Infinite|infinite,60,Y,"Rearrange the second equation to isolate t","$t = 2h + 5$ — identical → Infinite"
+3,"Fill: Two sisters have ages that sum to 30. In 3 years, the older sister will be twice the younger. How old is the younger sister now?",9,60,Y,"Equations: $o + y = 30$ and $o + 3 = 2(y + 3)$","$(30-y)+3 = 2y+6$ → $33-y = 2y+6$ → $27 = 3y$ → $y = 9$"
+4,"Fill: A woman is 10 years older than her niece. In 2 years, the woman's age will be 3 times the niece's current age. How old is the niece now?",6,60,Y,"Equations: $w = n + 10$ and $w + 2 = 3n$","$n + 12 = 3n$ → $n = 6$"
+5,"Fill: Exercise time consists of running and stretching. Running is three times stretching time. Total time is 40 minutes. How many minutes are spent running?",30,60,Y,"Equations: $r = 3s$ and $r + s = 40$","$4s = 40$ → $s = 10$; running = 30"

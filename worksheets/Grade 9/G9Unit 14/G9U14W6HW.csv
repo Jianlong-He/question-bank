@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A $40 fee doubles after each missed deadline. Write the fee after n missed deadlines.",F=40*2^n|40*2^n|F=40(2)^n,60,Y,"The initial fee is 40 and the factor is 2.;Use an exponential model.","The model is F = 40 × 2^n."
+2,"Using F = 40 × 2^n, find the fee after 3 missed deadlines.",320|$320,60,Y,"Substitute n = 3.;Compute 40 × 8.","F = 40(8) = $320."
+3,"The values 15, 30, 45, 60 form a linear or exponential pattern?",linear,60,Y,"Check consecutive differences.;Each value increases by 15.","The differences are constant at 15, so the pattern is linear."
+4,"The values 5, 15, 45, 135 form a linear or exponential pattern?",exponential,60,Y,"Check consecutive ratios.;Each value is multiplied by 3.","The ratios are constant at 3, so the pattern is exponential."
+5,"A population starts at 300 and doubles every cycle. Find the population after 4 cycles.",4800,60,Y,"Use 300 × 2^4.;2^4 = 16.","The population is 300(16) = 4800."

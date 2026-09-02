@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Multiply (5/x)(2/x).",10/x^2,60,Y,"Multiply numerators and denominators.;Combine x times x as x^2.","The product is 10/x^2."
+2,"Multiply (x/3)(9/x).",3,60,Y,"Cancel the nonzero factor x.;Reduce 9/3.","The product is 3 for x not equal to 0."
+3,"Multiply ((x + 5)/4)(12/(x + 5)).",3,60,Y,"Cancel the common factor x + 5.;Reduce 12/4.","The product is 3 with x not equal to -5."
+4,"Multiply (x^2 - 9)/(x + 3) by 1/x.",(x-3)/x|x-3 over x,60,Y,"Factor x^2 - 9.;Cancel the factor x + 3.","The product simplifies to (x - 3)/x."
+5,"Divide (4/x) by (8/x).",1/2|0.5,60,Y,"Multiply by the reciprocal x/8.;Cancel x and reduce 4/8.","The quotient is 1/2."

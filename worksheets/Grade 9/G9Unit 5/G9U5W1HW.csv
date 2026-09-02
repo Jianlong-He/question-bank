@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"In y = -3x + 7, what is the slope?",-3,60,Y,"Compare with y = mx + b.","-3."
+2,"In y = -3x + 7, what is the y-intercept?",7,60,Y,"The constant term is b.","7."
+3,"Write the slope-intercept equation of a line with slope 4 and y-intercept -2.",y=4x-2|y = 4x - 2,60,Y,"Use y = mx + b.","y = 4x - 2."
+4,"For y = 0.5x + 4, find y when x = 8.",8,60,Y,"Substitute x = 8.","4 + 4 = 8."
+5,"Line A is y = 6x + 2 and Line B is y = 4x + 8. Which line has the greater slope? Enter A or B.",A|a|Line A|line A,60,Y,"Compare the coefficients of x.","A."

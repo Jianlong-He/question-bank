@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the sum 5 + 10 + 20 + 40.",75,60,Y,"This is a geometric series with ratio 2.;Add the four terms.","The sum is 5 + 10 + 20 + 40 = 75."
+2,"Identify the common ratio of 81 + 27 + 9 + 3.",1/3,60,Y,"Divide a term by the previous term.;27/81 = 1/3.","The common ratio is 1/3."
+3,"Use the finite geometric-series formula to find 1 + 3 + 9 + 27 + 81.",121,60,Y,"Use a = 1, r = 3, n = 5.;S_n = (3^5 - 1)/2.","S_5 = 242/2 = 121."
+4,"Find the sum of the first 3 terms of a geometric sequence with a = 6 and r = 4.",126,60,Y,"The terms are 6, 24, 96.;Add them.","The sum is 6 + 24 + 96 = 126."
+5,"A ball travels 20 meters on the first swing, and each swing covers half the previous distance. How far does it travel in the first 4 swings?",37.5,60,Y,"The ratio is 0.5.;Add 20 + 10 + 5 + 2.5.","The total is 37.5 meters."

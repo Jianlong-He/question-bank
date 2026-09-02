@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What can be concluded about opposite sides of a parallelogram?",they are congruent|congruent|opposite sides are congruent|parallel and congruent,60,Y,"A diagonal creates two congruent triangles.;Use CPCTC on the opposite sides.","Opposite sides of a parallelogram are congruent."
+2,"What do the diagonals of a parallelogram do to each other?",bisect each other|they bisect each other,60,Y,"Their intersection is the midpoint of each diagonal.;Each diagonal is split in half.","The diagonals bisect each other."
+3,"What can be concluded about opposite angles of a parallelogram?",they are congruent|congruent|opposite angles are congruent|equal,60,Y,"A diagonal creates congruent triangles.;Use corresponding angles.","Opposite angles are congruent."
+4,"Two consecutive angles of a parallelogram measure x and 110 degrees. Find x.",70 degrees|70|70°,60,Y,"Consecutive angles are supplementary.;Subtract 110 from 180.","x = 180 - 110 = 70 degrees."
+5,"One angle of a parallelogram measures 65 degrees. What is the measure of its opposite angle?",65 degrees|65|65°,60,Y,"Opposite angles are congruent.;No calculation needed beyond that.","The opposite angle also measures 65 degrees."

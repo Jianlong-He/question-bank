@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select which measurement always stays the same after ANY rigid transformation: ""Distance from origin"" ""Angle measure"" ""Coordinate signs""","""Angle measure""",60,Y,"Rigid motions do not change the shape or internal angles","Angle measure"
+2,"Fill: Reflect $(4, -3)$ across the line $y = x$. What is the new x-coordinate?",-3,60,Y,"Reflecting across $y = x$ swaps the x and y coordinates","$(4, -3) \to (-3, 4)$"
+3,"Fill: Translate $(5, 9)$ exactly 4 units down. What is the y-coordinate of the image?",5,60,Y,"Moving down subtracts from the y-coordinate","$9 - 4 = 5$"
+4,"Fill: A figure is translated by vector $(3, 3)$. Does its perimeter change? (Yes/No)",No|N|no,60,Y,"Translations are rigid transformations","Perimeter stays the same → No"
+5,"Fill: Two shapes have equal angles but different side lengths. Are they congruent? (Yes/No)",No|N|no,60,Y,"Congruent shapes must match in exactly the same size and shape","They are similar, not congruent → No"

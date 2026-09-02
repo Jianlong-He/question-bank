@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Given a_1 = 6 and a_n = a_(n-1) + 4, find a_4.",18,60,Y,"Generate terms by adding 4.;The terms begin 6, 10, 14.","The sequence is 6, 10, 14, 18, so a_4 = 18."
+2,"In the recursive rule a_n = a_(n-1) - 9, what is the common difference?",-9,60,Y,"The amount added each step is the difference.;Subtracting 9 means adding -9.","The common difference is -9."
+3,"For a_n = 5 + 3(n - 1), find a_50.",152,60,Y,"Substitute n = 50.;Compute 5 + 3(49).","a_50 = 5 + 147 = 152."
+4,"Convert a_1 = 8 and a_n = a_(n-1) + 2 to an explicit rule.",a_n=8+2(n-1)|8+2(n-1),60,Y,"The first term is 8 and the common difference is 2.;Use a_n = a_1 + (n - 1)d.","The explicit rule is a_n = 8 + 2(n - 1)."
+5,"An arithmetic sequence has a_5 = 22 and common difference 4. Find a_1.",6,60,Y,"From a_1 to a_5 there are four increases.;Subtract 4(4) from 22.","a_1 = 22 - 16 = 6."

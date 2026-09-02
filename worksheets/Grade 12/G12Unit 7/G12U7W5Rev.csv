@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write the system 2x - y = 3 and 4x + 5y = 1 as AX = B. Enter the coefficient matrix's first row.","2, -1",60,Y,"Use the coefficients of x then y.;Read the first equation.","The first row of A is (2, -1)."
+2,"For the same system, enter the constant matrix B's entries in order.","3, 1",60,Y,"B holds the right-hand sides.;Read them in equation order.","B is (3, 1)."
+3,"Find the inverse of the diagonal matrix [[5, 0], [0, 10]]. Enter the second row.","0, 1/10",60,Y,"Invert each diagonal entry.;Off-diagonal entries stay zero.","The second row of the inverse is (0, 1/10)."
+4,"A system's coefficient matrix has determinant 0. Can it be solved by X = A^(-1)B? Enter Yes or No.",No|no|N|n,60,Y,"A zero determinant means no inverse exists.;Another method is needed.","No — A is not invertible."
+5,"Solve AX = B for X when A is the 2x2 identity matrix.",X=B|B,60,Y,"The identity leaves X unchanged.;IX = X.","X = B."

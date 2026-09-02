@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: In triangle DEF, angle D = $(4x - 10)^\circ$, angle E = $(3x + 5)^\circ$, and angle F = $(2x + 5)^\circ$. Find the measure of angle F in degrees.",45,60,Y,"All three angles in a triangle must add up to 180 degrees","$9x = 180$ → $x = 20$; angle F = $2(20)+5 = 45°$"
+2,"Fill: An exterior angle of a triangle measures $135^\circ$. One remote interior angle is $60^\circ$. Find the other remote interior angle.",75,60,Y,"The exterior angle equals the sum of the two remote interior angles","$135 = 60 + x$ → $x = 75°$"
+3,"Fill: Triangle ABC has angle A = $3x^\circ$, angle B = $(x + 20)^\circ$, and angle C = $40^\circ$. Find the measure of angle A in degrees.",90,60,Y,"The sum of the angles is 180 degrees","$4x + 60 = 180$ → $x = 30$; angle A = 90°"
+4,"Fill: In triangle PQR, angle P = $2x^\circ$, angle Q = $(x + 30)^\circ$, and angle R = $(x + 10)^\circ$. Find the measure of angle R in degrees.",45,60,Y,"The sum of the angles is 180 degrees","$4x + 40 = 180$ → $x = 35$; angle R = 45°"
+5,"Fill: Two angles $(6x + 5)^\circ$ and $(4x + 25)^\circ$ form a pair of vertical angles. Find $x$.",10,60,Y,"Vertical angles are equal","$6x + 5 = 4x + 25$ → $2x = 20$ → $x = 10$"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Simplify $(2^3)^2 = 2^{\_\_}$",6,60,Y,"Power of a power rule: multiply the exponents","$3 \cdot 2 = 6$"
+2,"Select all irrational numbers: $\sqrt{5}$ $\frac{2}{7}$ $\pi$ $2.5$ $\sqrt{16}$","$\sqrt{5}$,$\pi$",60,Y,"Irrational numbers cannot be written as fractions;Terminating decimals are rational","$\sqrt{5}$ and $\pi$ are irrational; $\sqrt{16}=4$, $2/7$ and $2.5$ are rational"
+3,"Fill: Convert $0.\overline{7}$ to a fraction (use / for fraction bar)",7/9,60,Y,"One repeating digit means the denominator is 9","$0.\overline{7} = 7/9$"
+4,"Fill: Write 6,200 in Scientific Notation: $6.2 \cdot 10^{\_\_}$",3,60,Y,"Count how many places the decimal moves left","The decimal moves 3 places: $6.2 \cdot 10^3$"
+5,"Fill: $12^0 = \_\_$",1,60,Y,"Any non-zero number to the power of 0 is 1",1

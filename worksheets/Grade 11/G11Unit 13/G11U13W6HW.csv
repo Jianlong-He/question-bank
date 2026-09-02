@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Add 3/x + 4/x.",7/x,60,Y,"The denominators already match.;Add the numerators.","3/x + 4/x = 7/x."
+2,"Subtract 8/y - 3/y.",5/y,60,Y,"Keep the common denominator.;Subtract the numerators.","8/y - 3/y = 5/y."
+3,"Add 1/x + 1/4.",(x+4)/(4x)|x+4 over 4x,60,Y,"Use common denominator 4x.;Rewrite 1/x as 4/(4x) and 1/4 as x/(4x).","The sum is (x + 4)/(4x)."
+4,"Add 4/(x + 2) + 3/(x + 2).",7/(x+2)|7 over x+2,60,Y,"The denominators are already alike.;Add 4 and 3.","The sum is 7/(x + 2)."
+5,"What is the least common denominator of 1/x and 1/(x + 5)?",x(x+5)|(x)(x+5),60,Y,"The denominator factors are distinct.;Include each factor once.","The least common denominator is x(x + 5)."

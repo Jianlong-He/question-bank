@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Does the set {(1, 4), (2, 4), (3, 4)} represent a function? Enter Yes or No.",Yes|yes|Y|y,60,Y,"No input repeats.;A shared output is fine.","Each input appears once, so the set is a function."
+2,"Does the set {(5, 2), (5, 9), (7, 1)} represent a function? Enter Yes or No.",No|no|N|n,60,Y,"Look at input 5.;It has two outputs.","Input 5 has two different outputs, so this is not a function."
+3,"A graph fails the vertical line test. Is it a function of x? Enter Yes or No.",No|no|N|n,60,Y,"A vertical line hits it more than once.;That means one input has several outputs.","Failing the vertical line test means it is not a function of x."
+4,"Does a nonvertical straight line represent y as a function of x? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Apply the vertical line test.;Each x meets the line once.","Every vertical line meets it at most once, so it is a function."
+5,"A table lists x-values 1, 2, 3, and 4 exactly once each. Must it define a function? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Every input has one listed output.;No input repeats.","Each input appears once with one output, so it defines a function."

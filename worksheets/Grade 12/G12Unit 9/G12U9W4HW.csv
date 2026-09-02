@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What constant relates consecutive terms of an arithmetic sequence?",common difference|the common difference,60,Y,"Subtract one term from the next.;The same amount is added each time.","It is the common difference d."
+2,"Find the common difference of 3, 10, 17, 24.",7,60,Y,"Subtract 3 from 10.;Check the same increase continues.","The common difference is 7."
+3,"Write the arithmetic-series sum formula using the first term a1 and last term an.",n(a1+an)/2|(n/2)(a1+an),60,Y,"Average the first and last terms.;Multiply by the number of terms.","S_n = n(a1 + an)/2."
+4,"Find 1 + 2 + 3 + ... + 20.",210,60,Y,"Use n(n + 1)/2.;Compute 20 × 21/2.","The sum is 210."
+5,"Find the sum of 4, 7, 10, 13, and 16.",50,60,Y,"There are 5 terms.;Average 4 and 16, then multiply by 5.","S = 5(20)/2 = 50."

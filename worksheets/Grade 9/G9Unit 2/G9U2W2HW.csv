@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Classify 3(x + 4) = 3x + 12 as having one solution, no solution, or infinitely many solutions.",infinitely many|infinite|all real numbers,60,Y,"Distribute the left side and compare both sides.","Both sides identical → infinitely many."
+2,"Classify 2(3x - 2) = 6x + 3 as having one solution, no solution, or infinitely many solutions.",no solution|none,60,Y,"Distribute 2 and see what happens to the x-terms.","6x - 4 = 6x + 3 → -4 = 3 false → no solution."
+3,"Classify 4x + 9 = 4x + 9 as having one solution, no solution, or infinitely many solutions.",infinitely many|infinite|all real numbers,60,Y,"Both sides are already identical.","True for every x."
+4,"Find k so that kx + 7 = 5x + 7 has infinitely many solutions.",5,60,Y,"The coefficients and constants must match.","k = 5."
+5,"Find a so that ax + 2 = 3x + 8 has no solution.",3,60,Y,"No solution occurs when the x-coefficients match but the constants differ.","a = 3."

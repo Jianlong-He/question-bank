@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What does lim f(x) as x approaches a describe?",the value f(x) approaches near a|the value approached by f(x)|nearby behavior of f,60,Y,"A limit concerns inputs close to a.;The actual value at a may differ.","It describes the value f(x) approaches as x gets close to a."
+2,"A graph approaches y = 7 from both sides as x approaches 3. Find the limit.",7,60,Y,"Compare left- and right-hand behavior.;Both sides approach the same height.","The limit is 7."
+3,"A graph approaches 2 from the left and 6 from the right at x = 4. Does the two-sided limit exist? Enter Yes or No.",No|no|N|n|DNE,60,Y,"A two-sided limit requires agreement.;The one-sided limits differ.","No — the two-sided limit does not exist."
+4,"If f(2) = 5 but lim x->2 f(x) = 3, what is the limit as x approaches 2?",3,60,Y,"The limit ignores the value at the point.;Read the approached value.","The limit is 3."
+5,"What notation means the limit as x approaches 1 from the right?",lim x->1+|x->1+|from the right,60,Y,"A plus superscript marks approach from above.;A minus marks from below.","It is written lim x->1+ f(x)."

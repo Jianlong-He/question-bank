@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Evaluate $f(x) = 3x - 5$ when $x = 4$.",7,60,Y,"Substitute 4 in for x;$3(4) - 5$","f(4) = 12 - 5 = 7"
+2,"Rewrite the equation y = 2x - 3 as a function. What is f(6)?",9,60,Y,"Replace y with f(x) and substitute x = 6","f(6) = 2(6) - 3 = 9"
+3,"Is $y = 5x + 2$ linear or nonlinear? Linear Nonlinear",Linear|linear,60,Y,"Check if x is raised to a power other than 1","x is to the first power, so it is linear"
+4,"Select the relation that is NOT a function: $\{(1,5), (2,6)\}$ $\{(4,1), (4,2)\}$ $\{(6,3), (8,3)\}$","$\{(4,1), (4,2)\}$",60,Y,"Look for repeating x-values with different y-values","The input 4 maps to both 1 and 2, so it is not a function"
+5,"Which function has a greater rate of change? $y=3x+1$ $y=5x-2$",$y=5x-2$,60,Y,"The rate of change is the slope (the number attached to x)","5 is greater than 3"

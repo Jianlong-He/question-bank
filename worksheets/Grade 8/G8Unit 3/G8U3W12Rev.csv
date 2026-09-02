@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Does the set of points $\{(2,6), (4,6), (6,6)\}$ represent a function? (Yes/No)",Yes|Y|yes,60,Y,"Check inputs (x-values);Repeated outputs are allowed","No repeated inputs → function"
+2,"Fill: Which creates a straight line graph? $y=3x$ or $y=3/x$",y=3x,60,Y,"Variables in the denominator create curves","y=3x is linear"
+3,"Fill: Convert $y - 6 = 3(x - 1)$ to slope-intercept form ($y=mx+b$). What is $b$?",3,60,Y,"Distribute the 3 first: $3x - 3$;Add 6 to both sides","$y = 3x + 3$, so b = 3"
+4,"Select the description of a Non-Linear function: ""Constant rate of change"" ""Graph is a curve"" ""Equation is y=mx+b""","""Graph is a curve""",60,Y,"Linear means 'Line'","Anything not straight is nonlinear"
+5,"Fill: If $f(x) = -x + 7$, find $x$ when $f(x) = 0$.",7,60,Y,"Set the equation equal to 0: $0 = -x + 7$","x = 7"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Complete the identity: (a - b)^2 = ___.",a^2-2ab+b^2|a^2 - 2ab + b^2,60,Y,"The middle term is negative.;Square both a and b.","(a - b)^2 = a^2 - 2ab + b^2."
+2,"Use an identity to compute 98^2.",9604,60,Y,"Write 98 as 100 - 2.;Use (a - b)^2.","98^2 = 10000 - 400 + 4 = 9604."
+3,"Use a difference-of-squares identity to compute 61 × 59.",3599,60,Y,"Write the factors as 60 + 1 and 60 - 1.;Use a^2 - b^2.","61(59) = 3600 - 1 = 3599."
+4,"Which expression is equivalent to x^2 - 18x + 81?",(x-9)^2|(x - 9)^2,60,Y,"Recognize a perfect-square trinomial.;Half of 18 is 9.","x^2 - 18x + 81 = (x - 9)^2."
+5,"Expand (3x + 2y)^2.",9x^2+12xy+4y^2|9x^2 + 12xy + 4y^2,60,Y,"Use a = 3x and b = 2y.;The middle term is 2ab.","The expansion is 9x^2 + 12xy + 4y^2."

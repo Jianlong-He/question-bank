@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select the outlier in this dataset: $(1,3)$ $(2,6)$ $(3,9)$ $(4,60)$","$(4,60)$",60,Y,"The pattern is roughly tripling x","$(4,60)$ is far too high"
+2,"Fill: If $y$ represents temperature and $x$ is time, a negative slope means it is getting $\_\_$.",colder,60,Y,"Negative slope means going down",colder
+3,"Select the best way to display Categorical Data (e.g. Boys/Girls vs Yes/No): ""Two-Way Table"" ""Scatter Plot"" ""Line Graph""","""Two-Way Table""",60,Y,"Categories go in tables","Two-Way Table"
+4,"True or False: Correlation implies Causation (e.g. Ice cream sales cause shark attacks). (True/False)",False,60,Y,"There could be a third factor (like Summer)",False
+5,"Fill: A plumber charges $\$60$ to visit plus $\$35$/hour. The equation is Cost = $\_\_h + 60$.",35,60,Y,"The variable cost (per hour) is the slope",35

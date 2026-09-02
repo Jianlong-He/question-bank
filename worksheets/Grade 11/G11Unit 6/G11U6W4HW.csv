@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the domain of y = sqrt(x) in inequality form?",x>=0|x >= 0,60,Y,"The quantity inside a real square root cannot be negative.;Start at zero and move right.","The domain is x >= 0."
+2,"What is the domain of y = cube root of x?",all real numbers|all reals,60,Y,"Odd roots accept negative inputs.;There is no restriction.","The domain is all real numbers."
+3,"What point is the starting point of y = sqrt(x - 5) + 1?","(5, 1)|(5,1)",60,Y,"Use the parent starting point (0, 0).;Shift right 5 and up 1.","The graph starts at (5, 1)."
+4,"For y = 3^x, what is the horizontal asymptote?",y=0|the x-axis|x-axis,60,Y,"Exponential outputs approach zero for very negative x.;The graph never reaches zero.","The horizontal asymptote is y = 0."
+5,"For y = 3^x + 2, what is the horizontal asymptote?",y=2,60,Y,"The parent asymptote y = 0 shifts up.;Add the vertical shift.","The horizontal asymptote is y = 2."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Evaluate lim x->3 of x^2 + 2x by direct substitution.",15,60,Y,"Polynomials are continuous.;Substitute x = 3.","3^2 + 2(3) = 15."
+2,"Evaluate lim x->2 of (x + 4)/(x + 3).",6/5|1.2,60,Y,"The denominator is nonzero at 2.;Substitute directly.","The limit is 6/5."
+3,"Direct substitution gives 0/0. What does this result indicate?",indeterminate form|an indeterminate form|more work is needed,60,Y,"It is not the final limit value.;Use algebra or another strategy.","0/0 is an indeterminate form requiring further analysis."
+4,"Evaluate lim x->0 of sin(x).",0,60,Y,"Sine is continuous.;Substitute 0.","The limit is sin(0) = 0."
+5,"Evaluate lim x->pi of cos(x).",-1,60,Y,"Cosine is continuous.;Substitute pi.","The limit is cos(pi) = -1."

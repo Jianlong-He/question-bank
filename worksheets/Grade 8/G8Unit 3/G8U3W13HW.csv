@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Which is a linear function? $y = 3x + 4$ $y = x^2 + 4$",$y = 3x + 4$,60,Y,"Look for the variable raised to the first power","y = 3x + 4 is in y = mx + b form"
+2,"Is $y = -2x + 9$ linear or nonlinear? Linear Nonlinear",Linear|linear,60,Y,"Check the exponent of x","x is to the first power → linear"
+3,"Is $y = x^2 - 3x + 5$ linear or nonlinear? Linear Nonlinear",Nonlinear|nonlinear,60,Y,"Look for exponents higher than 1","The $x^2$ term creates a curve → nonlinear"
+4,"A function is defined by y = 6x + 3. What is the rate of change of this function?",6,60,Y,"The slope m represents the rate of change","The slope is 6"
+5,"If y = 4x + 1, what happens to y when x increases by 3?",12,60,Y,"Use slope × change in x to find change in y","4 × 3 = 12"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Does (1, 4) solve both y = x + 3 and y = -x + 5? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Substitute x = 1 into both equations.|Each equation must give y = 4.","Both give y = 4 → Yes."
+2,"Find the intersection of y = x + 2 and y = -x + 6. Enter x and then y.","2, 4",60,Y,"Set the two expressions for y equal.|Solve x + 2 = -x + 6.","2x = 4 → x = 2, y = 4."
+3,"Two distinct lines intersect once. How many solutions does their system have?",1|one|one solution,60,Y,"A solution is a shared point.","One."
+4,"How many solutions do y = 4x + 2 and y = 4x - 3 have?",0|zero|none|no solution|no solutions,60,Y,"Compare the slopes and intercepts.|Parallel distinct lines never meet.","No solution."
+5,"Find the solution of y = x and x + y = 10. Enter x and then y.","5, 5",60,Y,"Replace y with x in the second equation.|Solve 2x = 10.","x = 5, y = 5."

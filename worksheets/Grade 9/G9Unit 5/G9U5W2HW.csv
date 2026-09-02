@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A line has slope 2 and y-intercept 3. What is y when x = 4?",11,60,Y,"Write y = 2x + 3.|Substitute x = 4.","11."
+2,"A line passes through (0, -2) and (3, 7). Find its slope.",3,60,Y,"Use change in y over change in x.","(7-(-2))/(3-0) = 3."
+3,"Write the slope-intercept equation with slope -3 through (2, 1).",y=-3x+7|y = -3x + 7,60,Y,"Use y = mx + b.|Substitute (2, 1) to find b.","1 = -6 + b → b = 7."
+4,"A line has y-intercept -6 and passes through (3, 0). Find its slope.",2,60,Y,"Use the points (0, -6) and (3, 0).","(0-(-6))/(3-0) = 2."
+5,"A line has slope 1/2 and passes through (6, 5). Find its y-intercept.",2,60,Y,"Substitute into y = (1/2)x + b.|Solve 5 = 3 + b.","b = 2."

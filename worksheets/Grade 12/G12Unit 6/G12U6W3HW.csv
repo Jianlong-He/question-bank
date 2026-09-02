@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the direction angle of the vector (1, 1) in degrees.",45|45 degrees,60,Y,"Use arctan(y/x).;The components are equal and positive.","The direction angle is 45 degrees."
+2,"Find the direction angle of the vector (0, 7) in degrees.",90|90 degrees,60,Y,"The vector points straight up.;Measure counterclockwise from the positive x-axis.","The direction angle is 90 degrees."
+3,"A vector has magnitude 12 and direction 0 degrees. Find its x-component.",12,60,Y,"Use r cos(theta).;cos(0) = 1.","The x-component is 12."
+4,"A vector has magnitude 12 and direction 0 degrees. Find its y-component.",0,60,Y,"Use r sin(theta).;sin(0) = 0.","The y-component is 0."
+5,"A vector has magnitude 6 and direction 90 degrees. Enter x then y.","0, 6",60,Y,"Use (r cos theta, r sin theta).;cos(90) = 0 and sin(90) = 1.","The components are (0, 6)."

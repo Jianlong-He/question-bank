@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find arcsin(0).",0,60,Y,"Choose the principal angle whose sine is 0.;Zero lies in the principal range.","arcsin(0) = 0."
+2,"Find arccos(0).",pi/2|π/2,60,Y,"Choose the principal angle whose cosine is 0.;The top of the unit circle.","arccos(0) = pi/2."
+3,"Find arcsin(1/2).",pi/6|π/6,60,Y,"Recall sin(pi/6) = 1/2.;Pick the principal angle.","arcsin(1/2) = pi/6."
+4,"Find arccos(1/2).",pi/3|π/3,60,Y,"Recall cos(pi/3) = 1/2.;Pick the principal angle.","arccos(1/2) = pi/3."
+5,"Find arctan(0).",0,60,Y,"Choose the angle whose tangent is 0.;tan(0) = 0.","arctan(0) = 0."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"For y <= -3x + 4, do you shade above or below the boundary line?",below|Below,60,Y,"Smaller y-values lie below.","Below."
+2,"A graph has a solid boundary y = 3x + 2 and is shaded above it. Write the inequality.",y>=3x+2|y >= 3x + 2,60,Y,"Solid means equality is included.|Above means greater y-values.","y >= 3x + 2."
+3,"A graph has a dashed horizontal boundary y = -2 and is shaded below. Write the inequality.",y<-2|y < -2,60,Y,"Dashed means strict.","y < -2."
+4,"Which test point is often convenient for deciding which side to shade when it is not on the boundary?","(0,0)|0,0|the origin|origin",60,Y,"Choose a point with easy coordinates.","The origin."
+5,"Does (0, 0) satisfy 3x + y > 4? Enter Yes or No.",No|no|N|n,60,Y,"Substitute x = 0 and y = 0.","0 > 4 is false → No."

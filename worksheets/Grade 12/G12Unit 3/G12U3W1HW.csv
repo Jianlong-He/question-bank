@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What point on the complex plane represents 5 - 3i? Enter x then y.","5, -3",60,Y,"The real part is the horizontal coordinate.;The imaginary coefficient is the vertical coordinate.","The point is (5, -3)."
+2,"Find the midpoint of 1 + 2i and 5 + 6i.",3+4i|3 + 4i,60,Y,"Average the real and imaginary parts separately.;Compute (1+5)/2 and (2+6)/2.","The midpoint is 3 + 4i."
+3,"Find the conjugate of 6 + 2i.",6-2i|6 - 2i,60,Y,"Keep the real part.;Change the sign of the imaginary part.","The conjugate is 6 - 2i."
+4,"Find (5 + 2i)(5 - 2i).",29,60,Y,"A complex number times its conjugate is its modulus squared.;Use 5^2 + 2^2.","(5 + 2i)(5 - 2i) = 25 + 4 = 29."
+5,"Find the distance between 1 + 2i and 4 + 6i.",5,60,Y,"Use the distance formula on (1, 2) and (4, 6).;Compute sqrt(9 + 16).","The distance is sqrt(25) = 5."

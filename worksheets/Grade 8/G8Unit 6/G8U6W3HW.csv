@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Point A$(-3, 8)$ is translated by $(-5, -2)$. What is the new x-coordinate?",-8,60,Y,"Add the x-component of the translation vector to the original x-coordinate","$-3 + (-5) = -8$"
+2,"Fill: Point B$(7, -4)$ is reflected across the y-axis. What is its new x-coordinate?",-7,60,Y,"Reflecting across the y-axis negates the x-coordinate","$(7, -4) \to (-7, -4)$"
+3,"Fill: A figure is rotated $180^\circ$ about the origin. If a point on it was at $(8, -11)$, what is the image's x-coordinate?",-8,60,Y,"A 180 degree rotation negates both coordinates","$(8, -11) \to (-8, 11)$"
+4,"Fill: Translate point P$(-3, 10)$ by the vector $(6, -13)$. What is the image's y-value?",-3,60,Y,"Add the y-component of the vector to the original y-coordinate","$10 + (-13) = -3$"
+5,"Fill: A shape is translated 4 units left and 7 units up. If the original point was $(11, -2)$, what is the x-value of the image?",7,60,Y,"Translating left means subtracting from the x-coordinate","$11 - 4 = 7$"

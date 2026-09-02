@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Solve the system $4x + y = 11$ and $2x - y = 1$. What is $x$?",2,60,Y,"Add the two equations; y cancels out","$6x = 12$ → $x = 2$"
+2,"Fill: Solve the system $x + y = 9$ and $3x - y = 7$. What is $y$?",5,60,Y,"Add the equations to find x first","$4x = 16$ → $x = 4$; then $y = 9 - 4 = 5$"
+3,"Fill: Three notebooks and one binder cost $\$14$. One notebook and one binder cost $\$8$. What is the price of one notebook?",3,60,Y,"Subtract the second equation from the first","$2n = 6$ → $n = 3$"
+4,"Fill: Solve the system $y = 3x + 8$ and $2x + y = 3$. What is $x$?",-1,60,Y,"Substitute the expression for y into the second equation","$2x + 3x + 8 = 3$ → $5x = -5$ → $x = -1$"
+5,"Fill: Solve the system $y = 8 - x$ and $3x + y = 16$. What is $x$?",4,60,Y,"Substitute the expression for y into the second equation","$3x + 8 - x = 16$ → $2x = 8$ → $x = 4$"

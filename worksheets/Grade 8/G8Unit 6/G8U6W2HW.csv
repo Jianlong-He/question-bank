@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Point A(2, 6) is translated 5 units right and 3 units down. What is the new x-value of the image?",7,60,Y,"Add the translation vector to the original coordinates","$2 + 5 = 7$"
+2,"Fill: A triangle is reflected across the x-axis. If a vertex was at $(3, 8)$, what is the new y-coordinate?",-8,60,Y,"Reflecting across the x-axis negates the y-coordinate","$(3, 8) \to (3, -8)$"
+3,"Fill: Translate point P(-5, 3) by the vector $(4, -2)$. What is the x-coordinate of the image?",-1,60,Y,"Add the x-components together","$-5 + 4 = -1$"
+4,"Fill: A triangle is translated 6 units up. Its vertex moved from $(2, -4)$ to what y-value?",2,60,Y,"Add 6 to the y-coordinate","$-4 + 6 = 2$"
+5,"Fill: Reflect point $(5, -2)$ across the y-axis. What is the image's x-value?",-5,60,Y,"Reflecting across the y-axis negates the x-coordinate","$(5, -2) \to (-5, -2)$"

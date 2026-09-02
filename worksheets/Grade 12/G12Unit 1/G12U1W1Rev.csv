@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write the composition (f circle g)(x) in nested-function notation.",f(g(x)),60,Y,"Apply g first.;Then use its output as the input of f.","The composition is f(g(x))."
+2,"Let f(x) = x + 4 and g(x) = 5x. Find (g circle f)(x).",5x+20|5(x+4)|5x + 20,60,Y,"Substitute f(x) into g.;Compute 5(x + 4).","g(f(x)) = 5(x + 4) = 5x + 20."
+3,"Let f(x) = 2x - 1 and g(x) = x^2. Find (f circle g)(3).",17,60,Y,"Evaluate g(3) first.;Then substitute 9 into f.","g(3) = 9 and f(9) = 17."
+4,"Let f(x) = 2x - 1 and g(x) = x^2. Find (g circle f)(1).",1,60,Y,"Evaluate f(1) first.;Then square the output.","f(1) = 1 and g(1) = 1."
+5,"In (f circle g)(x), which function is applied first?",g,60,Y,"Composition works from the inside out.;The inner function acts first.","The inner function g is applied first."

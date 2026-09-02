@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select the pair of variables that likely has a POSITIVE association: ""Height and Shoe Size"" ""Time spent gaming and Grades"" ""Eye color and IQ""","""Height and Shoe Size""",60,Y,"Positive means as one increases, the other also increases","Height and Shoe Size"
+2,"Fill: Calculate the slope of the line passing through $(1, 3)$ and $(3, 11)$. $m = \frac{y_2-y_1}{x_2-x_1} = \_\_$",4,60,Y,"Change in $y$ is $11-3=8$;Change in $x$ is $3-1=2$","$8/2 = 4$"
+3,"Fill: In a survey of 80 students, 50 like Pizza. How many do NOT like Pizza?",30,60,Y,"Subtract the number who like it from the total","$80 - 50 = 30$"
+4,"Which equation models a savings account starting at $\$40$ and growing by $\$15$ per week? $y=15x+40$ $y=40x+15$ $y=15x$",$y=15x+40$,60,Y,"The starting amount is the y-intercept;The rate is the slope","$y=15x+40$"
+5,"Fill: Using the model $y = -3x + 25$, predict $y$ when $x = 4$.",13,60,Y,"Substitute 4 for x","$-12 + 25 = 13$"

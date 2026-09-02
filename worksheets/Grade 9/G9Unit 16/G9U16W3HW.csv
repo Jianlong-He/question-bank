@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A line that divides a figure into two matching reflected halves is called what?",line of symmetry|axis of symmetry|a line of symmetry,60,Y,"Folding along this line makes the halves coincide.;It is also called a reflection axis.","The line is a line of symmetry."
+2,"How many lines of symmetry does a nonsquare rectangle have?",2|two,60,Y,"Consider the vertical and horizontal midlines.;Diagonal folds do not match here.","A nonsquare rectangle has 2 lines of symmetry."
+3,"How many lines of symmetry does an equilateral triangle have?",3|three,60,Y,"Each fold passes through a vertex and the opposite midpoint.;There is one per vertex.","An equilateral triangle has 3 lines of symmetry."
+4,"What is the smallest positive rotation that maps a square onto itself?",90 degrees|90|90°,60,Y,"A square has rotational symmetry of order 4.;Divide 360 by 4.","The smallest angle is 360/4 = 90 degrees."
+5,"What is the smallest positive rotation that maps an equilateral triangle onto itself?",120 degrees|120|120°,60,Y,"Its rotational symmetry has order 3.;Divide 360 by 3.","The smallest angle is 360/3 = 120 degrees."

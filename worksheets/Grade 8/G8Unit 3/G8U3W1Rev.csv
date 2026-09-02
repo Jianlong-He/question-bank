@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Is $y = 5/x$ linear or nonlinear? Linear Nonlinear",Nonlinear|nonlinear,60,Y,"Variables in the denominator create curved graphs","x is in the denominator, so it is nonlinear"
+2,"Does $x = y^2$ represent a function of x? (Yes/No)",No|N|no,60,Y,"If $x=9$, $y$ could be 3 or -3","One input gives two outputs, so it is not a function"
+3,"A proportional relationship is shown by the equation y = 1.5x. What is the value of y when x = 8?",12,60,Y,"Multiply x by the constant of proportionality","y = 1.5 × 8 = 12"
+4,"Does $\{(3,4), (5,6), (3,7)\}$ represent a function? (Yes/No)",No|N|no,60,Y,"Look at the x-values","The x-value 3 appears twice with different y-values"
+5,"Function A has slope 4. Function B passes through $(0,0)$ and $(3,9)$. Which has a greater slope? Function_A Function_B",Function_A,60,Y,"Calculate the slope of Function B: $(9-0)/(3-0) = 3$","Slope of B = 3; 4 > 3, so Function A"

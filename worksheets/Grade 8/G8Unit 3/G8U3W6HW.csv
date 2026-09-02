@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select the table that represents a Function: ""x:1,2,3 y:5,6,7"" ""x:2,2,3 y:4,5,6"" ""x:1,1,1 y:1,2,3""","""x:1,2,3 y:5,6,7""",60,Y,"In a function, every x-value must have exactly one y-value","Only the table with unique x-values (1,2,3) is a function"
+2,"Which point lies on the function $f(x) = 3x - 2$? $(2,4)$ $(3,5)$ $(1,2)$","$(2,4)$",60,Y,"Substitute each point into the equation to check","f(2) = 6 - 2 = 4 ✓"
+3,"Does the graph of a circle represent a function? (Yes/No)",No|N|no,60,Y,"Use the Vertical Line Test","A vertical line passes through a circle twice → not a function"
+4,"Does the set of points $\{(1,7), (2,7), (4,7)\}$ represent a function? (Yes/No)",Yes|Y|yes,60,Y,"Check if any x-values repeat;It is okay if y-values repeat","No x-values repeat → it is a function"
+5,"If f(x) = 4x + 8 represents the cost (in dollars) of renting a bike for x hours, what is f(3)?",20,60,Y,"Substitute x = 3 into the function","f(3) = 12 + 8 = 20"

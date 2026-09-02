@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Add 5/x + 6/x.",11/x,60,Y,"The denominators already match.;Add the numerators.","The sum is 11/x."
+2,"Subtract 12/y - 5/y.",7/y,60,Y,"Keep the common denominator.;Subtract the numerators.","The difference is 7/y."
+3,"Add 1/x + 1/5.",(x+5)/(5x)|x+5 over 5x,60,Y,"Use common denominator 5x.;Rewrite the numerators as 5 and x.","The sum is (x + 5)/(5x)."
+4,"Add 3/(x + 2) + 4/(x + 2).",7/(x+2)|7 over x+2,60,Y,"The denominators are alike.;Add 3 + 4.","The sum is 7/(x + 2)."
+5,"What is the least common denominator of 1/x and 1/(x - 3)?",x(x-3),60,Y,"The factors are distinct.;Include each denominator factor once.","The LCD is x(x - 3)."

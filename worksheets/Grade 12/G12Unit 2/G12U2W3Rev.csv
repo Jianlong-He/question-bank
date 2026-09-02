@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find sin(pi/6).",1/2,60,Y,"Use the 30-degree special angle.;Sine is the smaller coordinate there.","sin(pi/6) = 1/2."
+2,"Find cos(pi/3).",1/2,60,Y,"Use the 60-degree special angle.;Cosine is adjacent over hypotenuse.","cos(pi/3) = 1/2."
+3,"Find tan(pi/3).",sqrt(3)|√3,60,Y,"Use sin(pi/3)/cos(pi/3).;Divide sqrt(3)/2 by 1/2.","tan(pi/3) = sqrt(3)."
+4,"Complete sin(pi + theta) = ___.",-sin(theta),60,Y,"A rotation by pi reaches the opposite point.;Both coordinates change sign.","sin(pi + theta) = -sin(theta)."
+5,"Complete cos(pi - theta) = ___.",-cos(theta),60,Y,"Reflect across the y-axis.;The x-coordinate changes sign.","cos(pi - theta) = -cos(theta)."

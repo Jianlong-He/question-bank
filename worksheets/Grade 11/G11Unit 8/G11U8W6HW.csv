@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A sinusoidal temperature model has maximum 26 and minimum 14. What is its amplitude?",6,60,Y,"Amplitude is half the total range.;Compute (26 - 14)/2.","The amplitude is 6."
+2,"A sinusoidal temperature model has maximum 26 and minimum 14. What is its midline?",20|y=20,60,Y,"Average the maximum and minimum.;Compute (26 + 14)/2.","The midline is 20."
+3,"A tide cycle repeats every 12 hours. What is its period?",12 hours|12,60,Y,"The period is the repeat time.;One cycle takes 12 hours.","The period is 12 hours."
+4,"A seasonal model repeats every 6 months. What coefficient B is used in sin(Bt) when t is months?",pi/3|π/3,60,Y,"Use B = 2pi/period.;Compute 2pi/6.","B = pi/3."
+5,"Daylight ranges from 9 hours to 15 hours. What is the amplitude?",3 hours|3,60,Y,"Take half the difference.;Compute (15 - 9)/2.","The amplitude is 3 hours."

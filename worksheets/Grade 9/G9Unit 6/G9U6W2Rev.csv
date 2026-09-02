@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve y = 6 - x and 2x - y = 3. Enter x and then y.","3, 3",60,Y,"Substitute 6 - x for y.|Solve 2x - (6 - x) = 3.","3x = 9 → x = 3, y = 3."
+2,"Solve x = 3y and x - y = 8. Enter x and then y.","12, 4",60,Y,"Substitute 3y for x.|Then 3y - y = 8.","y = 4, x = 12."
+3,"Solve y = -x + 7 and 2x + y = 10. Enter x and then y.","3, 4",60,Y,"Substitute -x + 7 for y.|Solve x + 7 = 10.","x = 3, y = 4."
+4,"Solve y = (1/2)x + 2 and y = -x + 8. Enter x and then y.","4, 4",60,Y,"Set the two expressions equal.","(3/2)x = 6 → x = 4, y = 4."
+5,"Two numbers have sum 15 and difference 5. Enter the larger number and then the smaller number.","10, 5",60,Y,"Use x + y = 15 and x - y = 5.|Add the equations.","2x = 20 → 10 and 5."

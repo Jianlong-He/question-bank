@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"In triangle ABC, which side is opposite angle A?",a|side a,60,Y,"Sides use the lowercase letter of the opposite angle.;Angle A faces side a.","Side a is opposite angle A."
+2,"A triangle has A = 90 degrees and a = 14. If B = 30 degrees, find b.",7,60,Y,"Use b/sin(30) = 14/sin(90).;sin(30) = 1/2.","b = 14(1/2) = 7."
+3,"When C = 90 degrees, the law of cosines reduces to which theorem?",Pythagorean theorem|the Pythagorean theorem,60,Y,"cos(90) = 0.;The last term vanishes.","It reduces to c^2 = a^2 + b^2."
+4,"When two sides and the included angle are known, which law finds the third side?",law of cosines|the law of cosines|cosine law,60,Y,"The law of sines needs an opposite pair.;SAS calls for the other law.","The law of cosines applies to SAS."
+5,"Use the law of cosines with a = 5, b = 12, and C = 90 degrees to find c.",13,60,Y,"cos(90) = 0.;Then c^2 = 25 + 144.","c^2 = 169, so c = 13."

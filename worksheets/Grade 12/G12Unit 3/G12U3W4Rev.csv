@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Two complex numbers have moduli 4 and 6. What is the modulus of their product?",24,60,Y,"Multiply the moduli.;4 × 6 = 24.","The product's modulus is 24."
+2,"Two complex numbers have moduli 10 and 2. What is the modulus of their quotient?",5,60,Y,"Divide the moduli.;10/2 = 5.","The quotient's modulus is 5."
+3,"Two complex numbers have arguments pi/4 and pi/4. What is the argument of their product?",pi/2|π/2,60,Y,"Add the arguments.;pi/4 + pi/4 = pi/2.","The argument is pi/2."
+4,"When dividing complex numbers in polar form, what happens to their moduli?",they are divided|divide the moduli|the moduli divide,60,Y,"Division reverses the scaling.;Use r1/r2.","The moduli are divided."
+5,"Multiplying by i rotates a complex number by what angle counterclockwise?",pi/2|90 degrees|π/2,60,Y,"i has modulus 1 and argument pi/2.;Multiplication adds arguments.","Multiplying by i rotates by pi/2 (90 degrees)."

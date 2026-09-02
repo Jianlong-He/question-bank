@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve 1/x = 1/12.",12,60,Y,"Cross multiply.;The denominators are nonzero.","x = 12."
+2,"Solve 2/x + 4/x = 3.",2,60,Y,"Combine like rational expressions.;6/x = 3.","6/x = 3 gives x = 2."
+3,"Solve (x + 2)/(x - 1) = 3.",5/2|2.5,60,Y,"Multiply both sides by x - 1.;Then x + 2 = 3x - 3.","5 = 2x, so x = 5/2."
+4,"What value is excluded from the domain of 9/(x + 4)?",-4,60,Y,"The denominator cannot equal zero.;Solve x + 4 = 0.","The excluded value is -4."
+5,"Solve 5/(x + 1) = 1/2.",9,60,Y,"Cross multiply.;5(2) = x + 1.","10 = x + 1, so x = 9."

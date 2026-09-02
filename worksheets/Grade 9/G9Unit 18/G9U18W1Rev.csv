@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the distance between (1, 3) and (7, 3).",6,60,Y,"The y-coordinates are equal.;Find the difference of the x-coordinates.","The horizontal distance is |7 - 1| = 6."
+2,"Find the distance between (0, 0) and (5, 12).",13,60,Y,"Use the distance formula.;sqrt(25 + 144).","The distance is sqrt(169) = 13."
+3,"Find the midpoint of (-4, 6) and (2, -2). Enter the midpoint x-coordinate then y-coordinate.","-1, 2",60,Y,"Average the x-coordinates.;Average the y-coordinates.","The midpoint is ((-4+2)/2, (6-2)/2) = (-1, 2)."
+4,"The midpoint of A(3, 1) and B(9, y) is (6, 4). Find y.",7,60,Y,"Average the endpoint y-coordinates.;Solve (1 + y)/2 = 4.","1 + y = 8, so y = 7."
+5,"Point P is halfway from A(0, 0) to B(8, 6). Enter P's x-coordinate then y-coordinate.","4, 3",60,Y,"Halfway means the midpoint.;Average the coordinates.","P = (8/2, 6/2) = (4, 3)."

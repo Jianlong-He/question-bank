@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve the system y = x + 2 and y = x^2. Enter the smaller x-value then the larger x-value.","-1, 2",60,Y,"Set x^2 = x + 2.;Factor x^2 - x - 2.","(x - 2)(x + 1) = 0, so the x-values are -1 and 2."
+2,"For y = x + 2 and y = x^2, find the y-value corresponding to x = 2.",4,60,Y,"Substitute x = 2.;Both equations agree.","y = 4."
+3,"Solve y = x^2 - 1 and y = 8. Enter the x-values in increasing order.","-3, 3",60,Y,"Set x^2 - 1 = 8.;Then x^2 = 9.","The x-values are -3 and 3."
+4,"Solve y = x^2 and y = 6x. Enter the x-values in increasing order.","0, 6",60,Y,"Set x^2 = 6x.;Factor x(x - 6) = 0.","The x-values are 0 and 6."
+5,"How many real solutions does the system y = x^2 and y = -1 have?",0|zero,60,Y,"Squares are never negative.;The parabola never reaches y = -1.","The system has no real solution."

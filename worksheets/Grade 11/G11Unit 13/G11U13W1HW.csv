@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Simplify 8x^3/(4x).",2x^2,60,Y,"Divide the coefficients.;Subtract the exponents of x.","8x^3/(4x) = 2x^2 for x not equal to 0."
+2,"What value is excluded from the original expression 8x^3/(4x)?",0,60,Y,"The original denominator cannot equal zero.;Solve 4x = 0.","The excluded value is x = 0."
+3,"Simplify (x^2 - 16)/(x - 4).",x+4|x + 4,60,Y,"Factor the numerator as a difference of squares.;Cancel the common factor x - 4.","The expression simplifies to x + 4 with x not equal to 4."
+4,"What value is excluded from (x^2 - 16)/(x - 4)?",4,60,Y,"Use the original denominator.;Set x - 4 equal to zero.","The excluded value is x = 4."
+5,"Simplify (x^2 + 7x)/x.",x+7|x + 7,60,Y,"Factor x from the numerator.;Cancel the common factor x.","The expression simplifies to x + 7 for x not equal to 0."

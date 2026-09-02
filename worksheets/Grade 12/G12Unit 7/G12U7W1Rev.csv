@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A matrix has 2 rows and 5 columns. What are its dimensions?",2 by 5|2x5|2 rows by 5 columns,60,Y,"Rows come first.;Then columns.","Its dimensions are 2 by 5."
+2,"How many entries does a 3x4 matrix have?",12,60,Y,"Multiply rows by columns.;3 × 4.","It has 12 entries."
+3,"Add the matrices [[1, 0], [2, 1]] and [[3, 4], [5, 6]]. Enter the second row.","7, 7",60,Y,"Add corresponding entries.;Compute 2 + 5 and 1 + 6.","The second row of the sum is (7, 7)."
+4,"Multiply the matrix [[2, 3], [4, 5]] by the scalar 3. Enter the first row.","6, 9",60,Y,"Multiply every entry by 3.;Compute 3(2) and 3(3).","The first row is (6, 9)."
+5,"Can a 2x2 matrix be added to another 2x2 matrix? Enter Yes or No.",Yes|yes|Y|y,60,Y,"The dimensions match.;Addition is entry by entry.","Yes — matching dimensions allow addition."

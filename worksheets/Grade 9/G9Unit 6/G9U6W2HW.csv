@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Use substitution to solve y = 3x and x + y = 12. Enter x and then y.","3, 9",60,Y,"Replace y with 3x.|Solve 4x = 12.","x = 3, y = 9."
+2,"Solve x = y + 2 and x + y = 10. Enter x and then y.","6, 4",60,Y,"Substitute y + 2 for x.|Solve 2y + 2 = 10.","y = 4, x = 6."
+3,"Solve y = 2x - 3 and 3x + y = 17. Enter x and then y.","4, 5",60,Y,"Substitute 2x - 3 for y.|Solve 5x - 3 = 17.","x = 4, y = 5."
+4,"Multiplying x + y = 8 by 3 gives which equivalent equation?",3x+3y=24|3x + 3y = 24,60,Y,"Multiply every term by 3.","3x + 3y = 24."
+5,"If y = 3x + 2, what expression replaces y in 4x + y = 23?",3x+2|3x + 2,60,Y,"Use the expression already equal to y.","3x + 2."
