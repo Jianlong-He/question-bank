@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"How many radians equal 360 degrees?",2pi|2π|2pi radians,60,Y,"A full turn is 360 degrees.;It equals two half-turns of pi each.","360 degrees equals 2pi radians."
+2,"Convert 90 degrees to radians.",pi/2|π/2,60,Y,"Multiply degrees by pi/180.;Reduce 90/180.","90 degrees equals pi/2 radians."
+3,"Convert 45 degrees to radians.",pi/4|π/4,60,Y,"Multiply by pi/180.;Reduce 45/180.","45 degrees equals pi/4 radians."
+4,"Convert 2pi/3 radians to degrees.",120 degrees|120,60,Y,"Multiply radians by 180/pi.;Compute 2(180)/3.","2pi/3 radians equals 120 degrees."
+5,"Convert 3pi/2 radians to degrees.",270 degrees|270,60,Y,"Multiply by 180/pi.;Compute 3(180)/2.","The angle is 270 degrees."

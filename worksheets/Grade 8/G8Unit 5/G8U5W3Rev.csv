@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: In triangle PQR, angle P = $52^\circ$ and angle Q = $(2x - 10)^\circ$. Angle R = $(x + 12)^\circ$. Find angle R in degrees.",54,60,Y,"The sum of the angles is 180 degrees","$52 + 3x + 2 = 180$ → $3x = 126$ → $x = 42$; angle R = 54°"
+2,"Fill: An exterior angle of a triangle is $150^\circ$. One remote interior angle is $65^\circ$. Find the other remote interior angle.",85,60,Y,"The exterior angle equals the sum of the two remote interior angles","$150 - 65 = 85°$"
+3,"Fill: Triangle ABC has angle A = $(2x + 10)^\circ$, angle B = $(3x - 20)^\circ$, and angle C = $40^\circ$. Find angle A in degrees.",70,60,Y,"The sum of the angles is 180 degrees","$5x + 30 = 180$ → $x = 30$; angle A = 70°"
+4,"Fill: In triangle DEF, angle D = $3x^\circ$, angle E = $(x + 40)^\circ$, and angle F = $(2x - 4)^\circ$. Find the measure of angle F in degrees.",44,60,Y,"The sum of the angles is 180 degrees","$6x + 36 = 180$ → $x = 24$; angle F = 44°"
+5,"Fill: Two parallel lines are cut by a transversal. One angle is $63^\circ$. Find its same-side interior partner in degrees.",117,60,Y,"Same-side interior angles add up to 180","$180 - 63 = 117°$"

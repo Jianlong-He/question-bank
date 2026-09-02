@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select the rule for a $90^\circ$ Clockwise rotation: $(x,y)\to(y,-x)$ $(x,y)\to(-y,x)$ $(x,y)\to(-x,-y)$","$(x,y)\to(y,-x)$",60,Y,"Clockwise turns $(1,0)$ to $(0,-1)$","$(x,y)\to(y,-x)$"
+2,"Fill: Triangle $ABC$ is rotated $90^\circ$ to form Triangle $A'B'C'$. If $\angle A = 65^\circ$, then $\angle A' = \_\_^\circ$",65,60,Y,"Rotations are rigid transformations;They preserve angle measures",65
+3,"Select all transformations that reverse orientation (flip the figure): Translation Reflection Rotation",Reflection,60,Y,"Imagine holding a paper up to a mirror",Reflection
+4,"Point $P(-4, 3)$ is reflected over the y-axis. Find $P'$.","4,3",60,Y,"Reflecting over y changes the x-sign","(4, 3)"
+5,"Fill: Rotate point $(3,6)$ $180^\circ$ about the origin. New coordinates are $\dots$","-3,-6",60,Y,"180 degrees changes both signs","(-3, -6)"

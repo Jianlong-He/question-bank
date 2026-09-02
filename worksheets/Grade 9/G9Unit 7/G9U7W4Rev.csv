@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"For c + p <= 15 and 2c + 3p <= 36, is (10, 6) feasible? Enter Yes or No.",No|no|N|n,60,Y,"Check the item count and time separately.","10 + 6 = 16 > 15 → No."
+2,"Apples cost $2 and oranges cost $3. A budget is at most $36. Write the constraint.",2a+3o<=36|2a + 3o <= 36,60,Y,"Multiply quantity by price.","2a + 3o <= 36."
+3,"A system requires x + y >= 12 and x + y <= 8. How many feasible solutions are there?",0|zero|none|no solution|no solutions,60,Y,"The same sum cannot meet both bounds.","None."
+4,"A ball order has basketballs b and soccer balls s. At least 4 basketballs and at least 6 soccer balls are needed. Write the two constraints.","b>=4,s>=6|b >= 4, s >= 6",60,Y,"Translate each minimum separately.","b >= 4 and s >= 6."
+5,"For x >= 0, y >= 0, and x + y <= 10, is (6, 5) feasible? Enter Yes or No.",No|no|N|n,60,Y,"The coordinates are nonnegative.|Now check their sum.","6 + 5 = 11 > 10 → No."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A scatter plot rises from left to right. Is the association positive or negative?",positive|Positive,60,Y,"As x increases, y tends to increase.;The variables move in the same direction.","The association is positive."
+2,"A scatter plot falls from left to right. Is the association positive or negative?",negative|Negative,60,Y,"As x increases, y tends to decrease.;The variables move in opposite directions.","The association is negative."
+3,"Points in a scatter plot show no clear upward or downward pattern. What type of association is present?",no association|none|no correlation,60,Y,"Look for an overall trend.;Random-looking points show no direction.","The variables show no clear association."
+4,"In a scatter plot of study hours and test scores, which variable usually goes on the horizontal axis?",study hours|hours|explanatory variable,60,Y,"The horizontal axis shows the input or predictor.;Study hours explain the scores.","Study hours, the explanatory variable, go on the horizontal axis."
+5,"One point in a scatter plot lies far away from the overall pattern. What is this point called?",outlier|an outlier,60,Y,"It does not fit the trend of the other points.;It stands apart from the cluster.","A point far from the pattern is an outlier."

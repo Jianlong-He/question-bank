@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: After a sequence of rigid transformations (translations, rotations, reflections), the final image is \_\_\_ to the original figure.",congruent|Congruent,60,Y,"Rigid transformations do not change size or shape",congruent
+2,"True or False: A translation of $\langle 4,0 \rangle$ moves the figure 4 units up. (True/False)",False|F|false,60,Y,"The vector is $\langle x, y \rangle$;The y-component is 0","It moves right, not up → False"
+3,"Select all transformations that are considered Rigid Motions: Translation Reflection Rotation","Translation,Reflection,Rotation",60,Y,"Rigid motions preserve size and shape","All three"
+4,"Fill: If triangle $ABC$ is congruent to $DEF$, side $BC$ must have the same length as side $\_\_$ (Enter two letters)",EF,60,Y,"Order of letters matters in congruence statements","BC matches EF"
+5,"Fill: A figure is moved by rule $(x,y) \to (x+2, y-5)$. This is a $\_\_$.",Translation,60,Y,"Adding or subtracting numbers from coordinates describes a slide",Translation

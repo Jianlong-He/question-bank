@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Evaluate 5C2.",10,60,Y,"Use 5×4/(2×1).;Pairs have no order.","5C2 = 10."
+2,"Evaluate 9C1.",9,60,Y,"Choosing one item from nine.;Use nC1 = n.","9C1 = 9."
+3,"How many 3-card hands can be chosen from 6 cards?",20,60,Y,"Order in a hand does not matter.;Compute 6C3.","There are 20 hands."
+4,"A group of 3 is selected from 4 women and 3 men. How many groups contain exactly 2 women?",18,60,Y,"Choose 2 women and 1 man.;Multiply 4C2 by 3C1.","6 × 3 = 18 groups."
+5,"Does order matter in a combination? Enter Yes or No.",No|no|N|n,60,Y,"Combinations count unordered selections.;Permutations count ordered ones.","No — order does not matter in a combination."

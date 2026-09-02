@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Evaluate (1/2)m + n when m = 10 and n = -4.",1,60,Y,"Compute one-half of 10 first.|Then add -4.","5 - 4 = 1."
+2,"The expression 6p represents six times a number p. Evaluate it when p = -7.",-42,60,Y,"A number written beside a variable means multiplication.","6(-7) = -42."
+3,"Write an algebraic expression for: a number n increased by 4, and then the result is tripled.",3(n + 4)|3(n+4)|3n + 12|3n+12,60,Y,"First represent the increase as n + 4.|Parentheses show the entire sum is tripled.","3(n + 4) = 3n + 12."
+4,"A point lies on the x-axis. What must its y-coordinate be?",0,60,Y,"Every point on the x-axis has no vertical displacement from the origin.","The y-coordinate is 0."
+5,"Evaluate 5r - s² when r = 2 and s = -3.",1,60,Y,"Square s before subtracting.|The square of -3 is positive 9.","10 - 9 = 1."

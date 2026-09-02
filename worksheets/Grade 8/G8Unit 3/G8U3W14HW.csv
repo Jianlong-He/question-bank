@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Which represents a linear relationship? $y = 4x + 3$ $y = x^2 + 4$",$y = 4x + 3$,60,Y,"Linear equations have an exponent of 1","y = 4x + 3 is in y = mx + b form"
+2,"Does the table x:1,2,3,4 y:3,6,12,24 represent a linear function? (Yes/No)",No|N|no,60,Y,"Check if the rate of change is constant by adding;The y-values are doubling","Differences: 3, 6, 12 → not constant → nonlinear"
+3,"If y = 4x - 6, what is y when x = 3?",6,60,Y,"Substitute x = 3 into the equation","y = 12 - 6 = 6"
+4,"A function is defined by y = 8x + 40. What is the initial value when x = 0?",40,60,Y,"In y = mx + b, b is the initial value",40
+5,"A taxi ride costs $2 per mile plus a $6 starting fee. Write a linear equation for the total cost y after x miles, then find y when x = 7.",20,60,Y,"Use y = mx + b and substitute x = 7","y = 2(7) + 6 = 20"

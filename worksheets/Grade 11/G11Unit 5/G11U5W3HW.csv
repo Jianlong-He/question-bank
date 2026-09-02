@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Expand log base b of (xy).",log base b of x+log base b of y|log_b(x)+log_b(y),60,Y,"Use the product property.;A product inside becomes a sum outside.","log_b(xy) = log_b(x) + log_b(y)."
+2,"Expand log base b of x^7.",7 log base b of x|7log_b(x),60,Y,"Use the power property.;Move the exponent in front.","log_b(x^7) = 7 log_b(x)."
+3,"Condense log base 5 of x + log base 5 of y.",log base 5 of (xy)|log_5(xy),60,Y,"Reverse the product property.;A sum of logs becomes a log of a product.","The condensed form is log_5(xy)."
+4,"Expand log base b of (x/y).",log base b of x-log base b of y|log_b(x)-log_b(y),60,Y,"Use the quotient property.;A quotient inside becomes a difference outside.","log_b(x/y) = log_b(x) - log_b(y)."
+5,"Condense 3 log base 2 of x.",log base 2 of x^3|log_2(x^3),60,Y,"Reverse the power property.;The coefficient becomes an exponent.","3 log_2(x) = log_2(x^3)."

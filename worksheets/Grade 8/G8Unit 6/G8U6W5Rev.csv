@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A point moves from $(3, -2)$ to $(-2, -3)$. What angle of counter-clockwise rotation around the origin maps the point?",270,60,Y,"Check the rule $(x, y) \to (y, -x)$","This matches a 270° CCW rotation"
+2,"Fill: Point R $(2, 6)$ is translated by $(-5, 4)$, then rotated $180^\circ$. What is the final x-value?",3,60,Y,"Perform the translation first, then apply the rotation rule","Translate: $(-3, 10)$; rotate: $(3, -10)$ → x = 3"
+3,"Fill: A point moves from $(-3, -5)$ to $(-5, 3)$. What angle of clockwise rotation about the origin maps the point?",90,60,Y,"Check the rule for $90^\circ$ clockwise: $(x, y) \to (y, -x)$","$(-3, -5) \to (-5, 3)$ matches 90° CW"
+4,"Fill: Reflect point $(7, 4)$ across $x = -1$. What is the new x-coordinate?",-9,60,Y,"Measure the horizontal distance from the point to the line of reflection","7 is 8 right of -1; reflect: $-1 - 8 = -9$"
+5,"Fill: Reflect $(6, -3)$ across the y-axis. What is the new x-coordinate?",-6,60,Y,"Reflecting across the y-axis flips the sign of the x-coordinate","$(6, -3) \to (-6, -3)$"

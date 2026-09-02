@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"For X = 1 with probability 0.4 and X = 6 with probability 0.6, find E(X).",4,60,Y,"Compute 1(0.4) + 6(0.6).;Add the weighted values.","E(X) = 0.4 + 3.6 = 4."
+2,"A fair six-sided die is rolled. What is the expected value of the roll?",3.5|7/2,60,Y,"Each face has probability 1/6.;Average 1 through 6.","E(X) = 21/6 = 3.5."
+3,"A game pays 50 dollars with probability 0.02 and 0 otherwise. Find the expected payoff in dollars.",1,60,Y,"Multiply payoff by probability.;Compute 50(0.02).","The expected payoff is 1 dollar."
+4,"A game has expected payoff 4 dollars and costs 5 dollars to play. Is it favorable to the player? Enter Yes or No.",No|no|N|n,60,Y,"Compare the expected payoff with the cost.;The net gain is negative.","No — the expected net gain is -1 dollar."
+5,"For X = 2 with probability 1, find E(X).",2,60,Y,"A certain outcome carries all the weight.;Compute 2(1).","E(X) = 2."

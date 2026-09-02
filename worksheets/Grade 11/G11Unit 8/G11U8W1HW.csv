@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Complete the law of sines: a/sin(A) = b/sin(B) = ___.",c/sin(C),60,Y,"Match each side with its opposite angle.;Continue the ratio pattern.","The third ratio is c/sin(C)."
+2,"In triangle ABC, which side is paired with angle B in the law of sines?",b|side b,60,Y,"Sides use the lowercase letter of the opposite angle.;Angle B is opposite side b.","Angle B is paired with side b."
+3,"A triangle has A = 30 degrees, a = 4, and B = 90 degrees. Use the law of sines to find b.",8,60,Y,"Use b/sin(90) = 4/sin(30).;sin(90) = 1 and sin(30) = 1/2.","b = 4(1)/(1/2) = 8."
+4,"A triangle has A = 60 degrees, a = 9, and B = 60 degrees. Find b.",9,60,Y,"Equal angles have equal opposite sides.;The sine ratios are equal.","b = 9."
+5,"State the law of cosines for side c.",c^2=a^2+b^2-2ab cos(C)|c^2=a^2+b^2-2abcos(C),60,Y,"Side c is opposite angle C.;Start with a^2 + b^2.","c^2 = a^2 + b^2 - 2ab cos(C)."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Using Elimination, solve: $x + y = 14$ and $x - y = 4$. Find $x$.",9,60,Y,"Add the two equations together","$2x = 18$ → $x = 9$"
+2,"True or False: A system of parallel lines has exactly one solution. (True/False)",False,60,Y,"Parallel lines never cross","Parallel lines have NO solution → False"
+3,"Fill: Solve for $x$: $y = x - 2$ and $y = -3x + 10$",3,60,Y,"Set the equations equal since both equal $y$: $x - 2 = -3x + 10$","$4x = 12$ → $x = 3$"
+4,"Select the graph of a system with No Solution: ""Lines crossing at 90 degrees"" ""Lines that never touch"" ""One line on top of another""","""Lines that never touch""",60,Y,"No solution means no intersection","Lines that never touch are parallel"
+5,"Fill: If $2x + 3y = 18$ and $x = 3$, find $y$.",4,60,Y,"Substitute $x=3$ into the equation: $2(3) + 3y = 18$","$3y = 12$ → $y = 4$"

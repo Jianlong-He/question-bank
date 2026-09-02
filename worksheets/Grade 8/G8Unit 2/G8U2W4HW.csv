@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Solve for $x$: $6x - 5 = 2x + 11$",4,60,Y,"Subtract $2x$ from both sides;Add 5 to both sides;Divide by 4","$4x = 16$, so $x = 4$"
+2,"Solve for x: 2(x + 5) = 16.",3,60,Y,"Distribute first, then isolate x","$2x + 10 = 16$ → $2x = 6$ → $x = 3$"
+3,"Select the number of solutions for the equation $2x + 6 = 2x - 1$: One None Infinite",None|none|0,60,Y,"Subtract $2x$ from both sides;You are left with $6 = -1$, which is impossible","No solution"
+4,"Fill: Find the value of $k$ that gives infinite solutions: $3(x + 4) = 3x + k$",12,60,Y,"Distribute the left side: $3x + 12$;Both sides must be identical","$k = 12$"
+5,"Solve for x: 3(2x - 4) = 18.",5,60,Y,"Distribute first, then isolate x","$6x - 12 = 18$ → $6x = 30$ → $x = 5$"

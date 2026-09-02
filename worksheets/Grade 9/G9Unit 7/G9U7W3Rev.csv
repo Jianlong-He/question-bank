@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A truck carries no more than 1500 kg. Boxes weigh 20 kg and crates weigh 50 kg. Write the inequality.",20b+50c<=1500|20b + 50c <= 1500,60,Y,"Multiply each count by its weight.","20b + 50c <= 1500."
+2,"A recipe needs at least 10 cups total of flour f and oats o. Write the inequality.",f+o>=10|f + o >= 10,60,Y,"At least includes equality.","f + o >= 10."
+3,"A school buys x chairs at $30 each and y tables at $70 each for at most $1500. Write the inequality.",30x+70y<=1500|30x + 70y <= 1500,60,Y,"Write each item cost as price times quantity.","30x + 70y <= 1500."
+4,"For 2x + 3y <= 18, is (3, 4) a feasible choice? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Substitute x = 3 and y = 4.","6 + 12 = 18 → Yes."
+5,"For 4x + 5y > 40, is (5, 4) a feasible choice? Enter Yes or No.",No|no|N|n,60,Y,"Substitute the coordinates.","20 + 20 = 40, not greater → No."

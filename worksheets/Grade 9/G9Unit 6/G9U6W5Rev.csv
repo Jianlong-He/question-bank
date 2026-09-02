@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A jar contains nickels and dimes. There are 25 coins worth $1.75. How many dimes are there?",10,60,Y,"Use n + d = 25 and 5n + 10d = 175 in cents.","5(25-d) + 10d = 175 → 5d = 50 → d = 10."
+2,"A boat travels 30 km downstream in 2 h and 30 km upstream in 3 h. Find the boat's speed in still water.",12.5|25/2,60,Y,"Downstream speed is b + c; upstream is b - c.","b + c = 15 and b - c = 10 → 2b = 25 → b = 12.5 km/h."
+3,"Two notebooks and three pens cost $12. One notebook and one pen cost $5. What is the price of one pen?",2|$2,60,Y,"Use 2n + 3p = 12 and n + p = 5.|Double the second and subtract.","2n + 2p = 10 → p = 2."
+4,"A mixture uses a 10% solution and a 40% solution to make 12 L of 30% solution. How many liters of the 40% solution are needed?",8,60,Y,"Use x + y = 12 and 0.1x + 0.4y = 3.6.","0.1(12-y) + 0.4y = 3.6 → 0.3y = 2.4 → y = 8 L."
+5,"A cyclist rides 10 km/h for part of 4 hours and 16 km/h for the rest, traveling 52 km. How many hours were spent at 16 km/h?",2,60,Y,"Let x + y = 4 and 10x + 16y = 52.","10(4-y) + 16y = 52 → 6y = 12 → y = 2 hours."

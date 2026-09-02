@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Five friends split an 80 dollar bill equally. What does each person pay in dollars?",16,60,Y,"Divide the total by the number of friends.;Compute 80/5.","Each person pays 16 dollars."
+2,"If n people split a 150 dollar cost equally, what expression gives each person's share?",150/n,60,Y,"Equal sharing means total divided by people.;The share decreases as n grows.","Each person's share is 150/n."
+3,"For a fixed distance d, what rational expression gives travel time in terms of speed v?",d/v|t=d/v,60,Y,"Use distance = speed × time.;Solve d = vt for t.","Travel time is t = d/v."
+4,"One pipe fills a tank in 8 hours. What fraction of the tank does it fill each hour?",1/8,60,Y,"One whole tank divided by total hours.;This is the hourly work rate.","The pipe fills 1/8 of the tank per hour."
+5,"A car travels 240 km at speed v km/h. Write the travel time in hours.",240/v|t=240/v,60,Y,"Use t = d/v.;The distance is 240.","The travel time is 240/v hours."

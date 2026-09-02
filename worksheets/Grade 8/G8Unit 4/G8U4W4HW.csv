@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Two numbers satisfy $2x - 3y = 1$ and $x + 3y = 11$. What is $x$?",4,60,Y,"Add the equations together; the y-terms cancel","$3x = 12$ → $x = 4$"
+2,"Fill: A system has $y = 3x - 5$ and also satisfies $2x + y = 10$. What is $x$?",3,60,Y,"Substitute the expression for y into the second equation","$2x + 3x - 5 = 10$ → $5x = 15$ → $x = 3$"
+3,"Fill: Two pencils and one eraser cost $\$7$. One pencil and one eraser cost $\$5$. What is the price of one pencil?",2,60,Y,"Subtract the second equation from the first","$(2p+e) - (p+e) = 7 - 5$ → $p = 2$"
+4,"Fill: A system has $y = -4x + 3$. If the solution has $y = -5$, what is $x$?",2,60,Y,"Substitute -5 in for y and solve for x","$-5 = -4x + 3$ → $-8 = -4x$ → $x = 2$"
+5,"Fill: The solution satisfies $y = 7 - 2x$. If $x = -3$, what is $y$?",13,60,Y,"Substitute -3 in for x and solve for y","$y = 7 + 6 = 13$"

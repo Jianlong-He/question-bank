@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Find $m$ and $b$ for $y = 5x - 2$","5,-2",60,Y,"Compare to $y=mx+b$;The slope is the coefficient of $x$","m = 5, b = -2"
+2,"Fill: Calculate the slope between points $(1, 3)$ and $(3, 11)$",4,60,Y,"Use slope formula $m = \frac{y_2 - y_1}{x_2 - x_1}$","$(11-3)/(3-1) = 8/2 = 4$"
+3,"Select all Linear equations: $y=3x+2$ $y=x^2$ $y=7$ $y=\frac{2}{x}$","$y=3x+2$,$y=7$",60,Y,"Linear equations have $x$ to the power of 1 (or 0)","$y=3x+2$ and the horizontal line $y=7$ are linear"
+4,"Fill: Find the value of $y$ when $x = 3$ for the function $y = -3x + 12$",3,60,Y,"Substitute 3 into the equation","y = -9 + 12 = 3"
+5,"Fill: Convert $3x + y = 9$ to slope-intercept form ($y = mx + b$). What are $m$ and $b$?","-3,9",60,Y,"Isolate $y$ on the left side;Subtract $3x$ from both sides","$y = -3x + 9$"

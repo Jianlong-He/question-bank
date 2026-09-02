@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What does lim x->infinity f(x) describe?",end behavior as x grows without bound|right-end behavior|behavior for large positive x,60,Y,"The input moves far to the right.;Look for a horizontal trend.","It describes the function's behavior for very large positive x."
+2,"Evaluate lim x->infinity of 1/x.",0,60,Y,"The denominator grows without bound.;A fixed numerator over a huge number shrinks to zero.","The limit is 0."
+3,"Evaluate lim x->infinity of (5x + 2)/(x - 1).",5,60,Y,"Divide numerator and denominator by x.;Leading coefficients dominate.","The limit is 5/1 = 5."
+4,"Evaluate lim x->infinity of (3x)/(x^2 + 4).",0,60,Y,"The denominator has higher degree.;Compare growth rates.","The limit is 0."
+5,"Evaluate lim x->infinity of (x^2 + 1)/(2x^2 - 3).",1/2|0.5,60,Y,"The degrees are equal.;Use the ratio of leading coefficients.","The limit is 1/2."

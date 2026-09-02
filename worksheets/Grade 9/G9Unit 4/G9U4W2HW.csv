@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the slope of the line through (1, 2) and (4, 11).",3,60,Y,"Use change in y divided by change in x.","(11-2)/(4-1) = 3."
+2,"A line rises 8 units while running 4 units to the right. What is its slope?",2,60,Y,"Slope is rise divided by run.","8/4 = 2."
+3,"What is the slope of any horizontal line?",0,60,Y,"A horizontal line has no vertical change.","0."
+4,"What is the slope of the vertical line x = 7?",undefined|Undefined,60,Y,"A vertical line has zero horizontal change.","Undefined."
+5,"A line has slope -4. If x increases by 3, what is the change in y?",-12,60,Y,"Use change in y = slope × change in x.","-4(3) = -12."

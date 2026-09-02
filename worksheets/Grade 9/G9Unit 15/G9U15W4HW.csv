@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Dilate P(6, -8) about the origin by scale factor 1/2. Enter the image x-coordinate then y-coordinate.","3, -4",60,Y,"Multiply each coordinate by 1/2.;Half of -8 is -4.","P' = (3, -4)."
+2,"Dilate Q(-2, 4) about the origin by scale factor 3. Enter the image x-coordinate then y-coordinate.","-6, 12",60,Y,"Multiply both coordinates by 3.;Keep each sign.","Q' = (-6, 12)."
+3,"A side of length 6 is dilated to length 15. What is the scale factor?",2.5|5/2,60,Y,"Divide image length by original length.;Compute 15/6.","The scale factor is 15/6 = 5/2 = 2.5."
+4,"A dilation has scale factor 0.3. Is it an enlargement or a reduction?",reduction|a reduction,60,Y,"Compare 0.3 with 1.;A positive factor below 1 shrinks lengths.","It is a reduction."
+5,"A dilation has scale factor 2.4. Is it an enlargement or a reduction?",enlargement|an enlargement,60,Y,"Compare 2.4 with 1.;A factor above 1 stretches lengths.","It is an enlargement."

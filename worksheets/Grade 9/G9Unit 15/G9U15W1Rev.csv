@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A figure is moved 5 units right without turning or flipping. What transformation is this?",translation|a translation,60,Y,"Every point slides the same way.;No rotation or reflection occurs.","Sliding a figure is a translation."
+2,"A figure is turned 90 degrees about the origin. What transformation is this?",rotation|a rotation,60,Y,"The figure turns about a fixed point.;The origin is the center.","Turning about a point is a rotation."
+3,"A figure is flipped across the y-axis. What transformation is this?",reflection|a reflection,60,Y,"The axis acts like a mirror.;The figure is flipped, not slid.","Flipping across a line is a reflection."
+4,"A figure is enlarged to twice its size from the origin. What transformation is this?",dilation|a dilation,60,Y,"The size changes by a scale factor.;Shape is preserved but not size.","Resizing by a scale factor is a dilation."
+5,"Does a dilation with scale factor 3 preserve side lengths? Enter Yes or No.",No|no|N|n,60,Y,"A dilation multiplies lengths by the factor.;Lengths triple here.","No — lengths are multiplied by 3."

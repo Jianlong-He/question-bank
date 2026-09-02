@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Which transformation slides every point the same distance in the same direction?",translation|a translation,60,Y,"No turning or flipping occurs.;Think of moving a figure along a vector.","A translation slides every point the same distance in the same direction."
+2,"Which transformation turns a figure around a fixed point?",rotation|a rotation,60,Y,"The fixed point is the center.;The figure changes direction by an angle.","A rotation turns a figure about a fixed center."
+3,"Which transformation flips a figure across a line?",reflection|a reflection,60,Y,"The line acts like a mirror.;Points are equally far from the line on each side.","A reflection flips a figure across its line of reflection."
+4,"Which transformation changes a figure's size using a scale factor?",dilation|a dilation,60,Y,"A center and scale factor define it.;The image stays similar to the original.","A dilation changes size by a scale factor."
+5,"Do translations, rotations, and reflections preserve side lengths? Enter Yes or No.",Yes|yes|Y|y,60,Y,"These are rigid motions.;Rigid motions keep distances the same.","Yes — rigid motions preserve all side lengths."

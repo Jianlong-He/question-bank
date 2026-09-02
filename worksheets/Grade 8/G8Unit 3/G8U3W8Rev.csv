@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A phone plan costs $30 after 5 GB of data and $50 after 10 GB. Assuming a linear relationship, what is the base fee (cost when data = 0)?",10,60,Y,"Find slope and solve for b in y = mx + b","Slope = (50-30)/(10-5) = 4 → 30 = 4(5) + b → b = 10"
+2,"A company's revenue increases from $150 to $270 when the number of products sold rises from 3 to 6. What is the rate of change?",40,60,Y,"Find the change in y divided by the change in x","(270-150)/(6-3) = 120/3 = 40"
+3,"A taxi costs $y = 3x + 6$. What does 6 represent? ""Base fare"" ""Cost per km"" ""Total cost""","""Base fare""",60,Y,"The constant term is the starting value","6 is the initial fee before any distance is covered"
+4,"A car rental costs $40 per day plus a $25 service fee. Write a linear equation for the total cost y after x days, and find the total cost for 5 days.",225,60,Y,"Use y = mx + b with m = 40 and b = 25","y = 40(5) + 25 = 225"
+5,"You start with $80 and spend $6 each day. Write a linear equation for your remaining money y after x days, and find how much you'll have after 10 days.",20,60,Y,"Use y = mx + b with m = -6 and b = 80","y = -6(10) + 80 = 20"

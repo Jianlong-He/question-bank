@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A graph approaches y = -2 from both sides as x approaches 0. Find the limit.",-2,60,Y,"Both one-sided limits agree.;Read the common value.","The limit is -2."
+2,"A graph approaches 1 from the left and 1 from the right at x = 5, but f(5) = 9. Find lim x->5 f(x).",1,60,Y,"The limit ignores the value at the point.;Both sides approach 1.","The limit is 1."
+3,"Does a limit require the function to be defined at the point? Enter Yes or No.",No|no|N|n,60,Y,"Limits describe nearby behavior.;The point itself may be a hole.","No — the function need not be defined there."
+4,"What must be true of the one-sided limits for a two-sided limit to exist?",they must be equal|equal|they agree,60,Y,"Compare the left and right behavior.;They must approach the same value.","The one-sided limits must be equal."
+5,"What notation means the limit as x approaches 3 from the left?",lim x->3-|x->3-|from the left,60,Y,"A minus superscript marks approach from below.;A plus marks from above.","It is written lim x->3- f(x)."

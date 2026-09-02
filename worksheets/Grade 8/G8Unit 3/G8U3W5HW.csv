@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the slope of the line passing through the points (1, 3) and (4, 12).",3,60,Y,"Use the slope formula (y₂-y₁)/(x₂-x₁)","(12-3)/(4-1) = 9/3 = 3"
+2,"A line passes through (3, 6) and has a slope of 2. What is its y-intercept?",0,60,Y,"Substitute the point into y = mx + b","6 = 2(3) + b → b = 0"
+3,"A line is represented by y = 3x + 2. What is the value of y when x = 5?",17,60,Y,"Substitute x = 5 into the equation","y = 15 + 2 = 17"
+4,"What is the y-intercept of the line y = -4x + 9?",9,60,Y,"Identify the constant term in y = mx + b","b = 9"
+5,"Find the slope of the line passing through the points (-3, 2) and (3, 5).",0.5|1/2,60,Y,"Use the slope formula (y₂-y₁)/(x₂-x₁)","(5-2)/(3-(-3)) = 3/6 = 0.5"

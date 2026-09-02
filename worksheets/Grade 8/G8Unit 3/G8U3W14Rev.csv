@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Which is nonlinear? $y = 7x$ $y = 3x - 2$ $y = x^3$",$y = x^3$,60,Y,"Exponents higher than 1 create curves","y = x^3 is a cubic curve"
+2,"Select the nonlinear function: ""Graph of a straight line"" ""Graph of a parabola (U-shape)""","""Graph of a parabola (U-shape)""",60,Y,"Linear strictly means straight line","A parabola curves → nonlinear"
+3,"Which table is linear? ""x:1,2,3 y:4,7,10"" ""x:1,2,3 y:3,6,12""","""x:1,2,3 y:4,7,10""",60,Y,"Check for constant addition in y-values","The first table adds 3 each time → linear"
+4,"Does the equation $y = 8/x$ represent a linear function? (Yes/No)",No|N|no,60,Y,"x in the denominator makes a rational function","It creates a curve → not linear"
+5,"A plant grows 3cm week 1, 6cm week 2, and 12cm week 3. Is the growth linear? (Yes/No)",No|N|no,60,Y,"Linear means adding the exact same amount every week","The growth doubles each week → not linear"

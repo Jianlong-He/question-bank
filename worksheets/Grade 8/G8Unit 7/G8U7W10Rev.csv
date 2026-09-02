@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A dataset includes $(1, 6)$, $(3, 12)$, $(5, 18)$. If the pattern continues, what is $y$ when $x = 12$?",39,60,Y,"Find the slope and equation, then plug in x","Slope = 3; $y = 3x + 3$; $y = 39$"
+2,"Fill: In a group of 80 students, 45 like math, 35 like science, and 20 like both. How many like at least one?",60,60,Y,"Add the subjects and subtract the intersection","$45 + 35 - 20 = 60$"
+3,"Fill: A table shows 0.6 like sports, and 0.5 of THOSE also like art. What fraction like both?",0.3|0.30,60,Y,"Multiply the conditional probability by the total probability","$0.6 \cdot 0.5 = 0.3$"
+4,"Fill: A scatter plot shows points rising slowly as x increases. What type of correlation is shown?",positive|Positive,60,Y,"An upward pattern means positive correlation",positive
+5,"Fill: A best-fit line is $y = 8x - 24$. What is $y$ when $x = 4$?",8,60,Y,"Substitute x into the equation","$32 - 24 = 8$"

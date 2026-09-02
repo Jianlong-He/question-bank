@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Factor x^4 - 81 completely over the reals.",(x-3)(x+3)(x^2+9),60,Y,"Use difference of squares twice.;x^4 - 81 = (x^2 - 9)(x^2 + 9).","The complete factorization is (x - 3)(x + 3)(x^2 + 9)."
+2,"Factor x^4 + 8x^2 + 16.",(x^2+4)^2,60,Y,"Recognize a perfect-square trinomial.;Use a^2 + 2ab + b^2.","The expression is (x^2 + 4)^2."
+3,"Factor 9x^4 - 4y^2.",(3x^2-2y)(3x^2+2y)|(3x^2+2y)(3x^2-2y),60,Y,"This is a difference of squares.;The square roots are 3x^2 and 2y.","The factorization is (3x^2 - 2y)(3x^2 + 2y)."
+4,"Factor 2x^4 - 18x^2 completely.",2x^2(x-3)(x+3)|2x^2(x+3)(x-3),60,Y,"Take out the GCF first.;Then factor x^2 - 9.","The complete factorization is 2x^2(x - 3)(x + 3)."
+5,"Using the substitution u = x^2, factor x^4 + 9x^2 + 20.",(x^2+4)(x^2+5)|(x^2+5)(x^2+4),60,Y,"Factor u^2 + 9u + 20.;Find numbers with product 20 and sum 9.","u^2 + 9u + 20 = (u + 4)(u + 5), so the factorization is (x^2 + 4)(x^2 + 5)."

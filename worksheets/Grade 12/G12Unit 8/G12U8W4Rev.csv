@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A distribution has probabilities 0.25, 0.25, 0.25, and 0.25. Is it valid? Enter Yes or No.",Yes|yes|Y|y,60,Y,"All values lie between 0 and 1.;Their sum is 1.","Yes — it is valid."
+2,"Can a probability be -0.2? Enter Yes or No.",No|no|N|n,60,Y,"Probabilities cannot be negative.;They lie between 0 and 1.","No — probabilities must be at least 0."
+3,"For X values 1, 2, 3 with probabilities 0.2, 0.3, and p, find p.",0.5,60,Y,"All probabilities must sum to 1.;Subtract 0.5 from 1.","p = 1 - 0.5 = 0.5."
+4,"For X values 1, 2, 3 with probabilities 0.2, 0.3, 0.5, find P(X <= 2).",0.5,60,Y,"Add the probabilities for X = 1 and X = 2.;0.2 + 0.3.","P(X <= 2) = 0.5."
+5,"For X values 1, 2, 3 with probabilities 0.2, 0.3, 0.5, find P(X > 1).",0.8,60,Y,"Add the probabilities for X = 2 and X = 3.;Or subtract 0.2 from 1.","P(X > 1) = 0.8."

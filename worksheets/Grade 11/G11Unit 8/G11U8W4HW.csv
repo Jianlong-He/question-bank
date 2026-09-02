@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the amplitude of y = sin(x)?,1,60,Y,"Amplitude is half the distance from max to min.;The range is [-1, 1].",The amplitude is 1.
+2,What is the period of y = cos(x)?,2pi|2π,60,Y,Cosine repeats after one full rotation.;A full rotation is 2pi radians.,The period is 2pi.
+3,What is the period of y = tan(x)?,pi|π,60,Y,Tangent repeats twice during a full turn.;Its period is half of 2pi.,The period is pi.
+4,What is the range of y = sin(x)?,"-1<=y<=1|[-1, 1]",60,Y,The unit-circle y-coordinate stays between -1 and 1.;Include both endpoints.,The range is -1 <= y <= 1.
+5,What is the maximum value of y = cos(x)?,1,60,Y,"Cosine outputs stay within [-1, 1].;Read the top of the range.",The maximum value is 1.

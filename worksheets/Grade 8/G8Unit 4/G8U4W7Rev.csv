@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Solve for $x$: $(3x + 2) + (x - 4) = y$ and $y = 5x - 6$.",4,60,Y,"Substitute the expression for y into the first equation","$4x - 2 = 5x - 6$ → $x = 4$"
+2,"Fill: If the system $3x + ky = 9$ and $6x + 8y = 18$ has infinite solutions, find $k$.",4,60,Y,"Multiply the first equation by 2 to match the x-terms","$6x + 2ky = 18$ → $2k = 8$ → $k = 4$"
+3,"Fill: For the system $Ax + 3y = 12$ and $5x + 3y = 12$ to have exactly one solution, $A$ must NOT equal which value?",5,60,Y,"If A = 5 the equations become identical","A must not equal 5"
+4,"Fill: Solve for $x$: $y = 10 - 3x$ and $x + y = 6$.",2,60,Y,"Substitute the expression for y into the second equation","$x + 10 - 3x = 6$ → $-2x = -4$ → $x = 2$"
+5,"Fill: How many solutions does the system $6x - 3y = 9$ and $2x - y = 3$ have? (Type 0, 1, or Infinite)",Infinite|infinite,60,Y,"Divide the first equation by 3","$2x - y = 3$ matches → same line → Infinite"

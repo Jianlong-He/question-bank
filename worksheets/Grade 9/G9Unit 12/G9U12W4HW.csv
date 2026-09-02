@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A savings plan has 40 dollars in week 1 and increases by 10 dollars each week. How much is in week 9?",120|$120,60,Y,"This is arithmetic with a_1 = 40 and d = 10.;Use a_9 = 40 + 8(10).","a_9 = 40 + 80 = $120."
+2,"A bacteria model is B(n) = 100 × 2^n. Find B(5).",3200,60,Y,"Substitute n = 5.;Compute 100 × 32.","B(5) = 100(32) = 3200."
+3,"The first row of a theatre has 10 seats and each new row has 3 more. How many seats are in row 12?",43,60,Y,"Use an arithmetic sequence.;Compute 10 + 11(3).","Row 12 has 10 + 33 = 43 seats."
+4,"Given a_1 = 1, a_2 = 4, and a_n = a_(n-1) + a_(n-2), find a_5.",14,60,Y,"Build the sequence one term at a time.;a_3 = 5 and a_4 = 9.","The terms are 1, 4, 5, 9, 14, so a_5 = 14."
+5,"Given a_1 = 50 and a_n = 0.6a_(n-1), find a_3.",18,60,Y,"Multiply by 0.6 twice.;a_2 = 30.","a_3 = 30(0.6) = 18."

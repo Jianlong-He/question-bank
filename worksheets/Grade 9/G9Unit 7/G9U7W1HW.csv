@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Does (1, 4) satisfy y > 3x? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Substitute x = 1 and y = 4.|Compare 4 with 3.","4 > 3 → Yes."
+2,"Does (-2, 0) satisfy y <= x + 3? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Substitute x = -2.|Check whether 0 <= 1.","Yes."
+3,"Should the boundary line for y < 2x + 3 be solid or dashed?",dashed|Dashed,60,Y,"The inequality is strict.","Dashed."
+4,"Should the boundary line for y >= -2x + 5 be solid or dashed?",solid|Solid,60,Y,"The equality part includes boundary points.","Solid."
+5,"For y > x - 3, do you shade above or below the boundary line?",above|Above,60,Y,"The inequality says y-values are greater.","Above."

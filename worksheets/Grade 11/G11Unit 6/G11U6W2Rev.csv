@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Is f(x) = x^4 + 2x^2 even, odd, or neither?",even,60,Y,"Replace x with -x.;All exponents are even.","f(-x) = f(x), so the function is even."
+2,"Is f(x) = x^5 even, odd, or neither?",odd,60,Y,"Evaluate f(-x).;(-x)^5 = -x^5.","f(-x) = -f(x), so the function is odd."
+3,"Is f(x) = x^3 + 1 even, odd, or neither?",neither,60,Y,"f(-x) = -x^3 + 1.;It matches neither f(x) nor -f(x).","The function is neither even nor odd."
+4,"An even function is symmetric about what?",the y-axis|y-axis,60,Y,"Opposite inputs give equal outputs.;Reflecting across this axis leaves the graph unchanged.","An even function is symmetric about the y-axis."
+5,"An odd function is symmetric about what?",the origin|origin,60,Y,"Opposite inputs give opposite outputs.;A 180-degree rotation leaves the graph unchanged.","An odd function is symmetric about the origin."

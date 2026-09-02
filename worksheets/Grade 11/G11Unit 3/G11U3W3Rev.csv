@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Use the remainder theorem to find the remainder when f(x) = x^2 - 2x + 7 is divided by x - 4.",15,60,Y,"Evaluate f(4).;Compute 16 - 8 + 7.","The remainder is f(4) = 15."
+2,"Find the remainder when f(x) = x^3 + x - 2 is divided by x + 2.",-12,60,Y,"For divisor x + 2, evaluate f(-2).;Compute -8 - 2 - 2.","The remainder is f(-2) = -12."
+3,"Is x - 1 a factor of x^3 - 1? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Evaluate at x = 1.;Compute 1 - 1.","f(1) = 0, so x - 1 is a factor."
+4,"Find k if x + 1 is a factor of x^2 + kx + 4.",5,60,Y,"Set f(-1) = 0.;Solve 1 - k + 4 = 0.","5 - k = 0, so k = 5."
+5,"Find k if the remainder when x^3 + kx + 1 is divided by x - 2 is 15.",3,60,Y,"The remainder is f(2).;Set 8 + 2k + 1 = 15.","2k + 9 = 15, so k = 3."

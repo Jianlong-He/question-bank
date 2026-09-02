@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select the table that represents a Function: ""[ (1,3), (2,4), (3,5) ]"" ""[ (2,5), (2,6), (3,7) ]"" ""[ (4,4), (4,5) ]""","""[ (1,3), (2,4), (3,5) ]""",60,Y,"In a function, each x-value must go to only one y-value","Only the first table has unique inputs"
+2,"Is the equation $y = x^2 - 2$ Linear or Nonlinear? (Linear/Nonlinear)",Nonlinear,60,Y,"Linear equations have x to the power of 1","The $x^2$ makes it curved → Nonlinear"
+3,"Fill: Evaluate $f(x) = 4x - 6$ when $x = 3$.",6,60,Y,"Replace x with 3;$4(3) - 6$","f(3) = 12 - 6 = 6"
+4,"Select the graph that passes the Vertical Line Test: ""Circle"" ""S-curve on its side"" ""Straight Line (diagonal)""","""Straight Line (diagonal)""",60,Y,"If a vertical line touches the graph more than once it is NOT a function","Only the diagonal line passes the test"
+5,"Fill: Find the missing output for linear table: x:0,1,2 y:4,9,__",14,60,Y,"Find the pattern (rate of change);It goes from 4 to 9 (+5)","9 + 5 = 14"

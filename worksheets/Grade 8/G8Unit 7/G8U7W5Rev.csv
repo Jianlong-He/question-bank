@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A dataset has points $(2, 8)$, $(4, 14)$, and $(6, 20)$. If the pattern continues linearly, predict $y$ when $x = 10$.",32,60,Y,"Find the slope and write the equation, then plug in 10","Slope = 3; $y = 3x + 2$; $y = 32$"
+2,"Fill: A scatter plot shows points closely packed around a trend line. Is the correlation strong or weak?",strong|Strong,60,Y,"Look at how tight the cluster of data points is",strong
+3,"Fill: In a table, 0.5 of students prefer action movies, and 0.3 of THOSE also like comedies. What fraction of ALL students like both?",0.15,60,Y,"Multiply the conditional proportion by the total proportion","$0.5 \cdot 0.3 = 0.15$"
+4,"Fill: A best-fit line is $y = -4x + 32$. At what x-value does $y$ become 0?",8,60,Y,"Set y=0 and solve for x","$4x = 32$ → $x = 8$"
+5,"Fill: A class of 40 has 25 who passed math, 20 who passed science, and 12 who passed both. How many passed at least one?",33,60,Y,"Add the two groups and subtract the intersection","$25 + 20 - 12 = 33$"

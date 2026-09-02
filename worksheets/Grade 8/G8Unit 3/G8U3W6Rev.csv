@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Is $y = x^2 - 3x + 2$ a linear or nonlinear function? Linear Nonlinear",Nonlinear|nonlinear,60,Y,"Look at the exponents;The $x^2$ term creates a curve",Nonlinear
+2,"Select the description of a function: ""Every output has one input"" ""Every input has exactly one output"" ""Inputs and outputs are equal""","""Every input has exactly one output""",60,Y,"This is the fundamental definition of a function","Each input maps to exactly one output"
+3,"If f(x) = 3x² - 2x + 1, what is f(2)?",9,60,Y,"Substitute x = 2 into the function","f(2) = 12 - 4 + 1 = 9"
+4,"Fill: If $f(x) = -2x + 9$, find the value of $x$ when $f(x) = 1$.",4,60,Y,"Set the equation equal to 1: $1 = -2x + 9$","$-8 = -2x$ → $x = 4$"
+5,"Does the equation $x = 3$ represent a function? (Yes/No)",No|N|no,60,Y,"$x = 3$ is a vertical line","It fails the vertical line test → not a function"

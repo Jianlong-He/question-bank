@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A shop sells notebooks and folders. One purchase of 2 notebooks and 3 folders costs $\$12$. Another purchase of 2 notebooks and 1 folder costs $\$8$. What is the price of one folder?",2,60,Y,"Subtract the second purchase from the first;The notebooks cancel out","$(2n+3f) - (2n+f) = 12 - 8$ → $2f = 4$ → $f = 2$"
+2,"Fill: Solve $4x + 2y = 16$ and $3x - y = 7$. What is $x$?",3,60,Y,"Multiply the second equation by 2 to eliminate y","$6x - 2y = 14$; add: $10x = 30$ → $x = 3$"
+3,"Fill: Solve by substitution: $y = 6 - x$ and $2x + y = 10$. What is $x$?",4,60,Y,"Substitute the expression for y into the second equation","$2x + 6 - x = 10$ → $x = 4$"
+4,"Fill: Solve the system $y = 5x + 2$ and $3x + y = 10$. What is $x$?",1,60,Y,"Substitute the expression for y into the second equation","$3x + 5x + 2 = 10$ → $8x = 8$ → $x = 1$"
+5,"Fill: On Monday, 1 unit of A and 2 units of B total $\$11$. On Tuesday, 1 unit of A and 4 units of B total $\$19$. What is the price of product B?",4,60,Y,"Subtract Monday's equation from Tuesday's;A cancels out","$2B = 8$ → $B = 4$"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Solve by substitution: $y = 4x + 3$ and $2y - x = 20$. What is $x$?",2,60,Y,"Substitute the expression for y into the second equation","$2(4x+3) - x = 20$ → $7x + 6 = 20$ → $x = 2$"
+2,"Fill: Determine the number of solutions for the system: $3x + 6y = 15$ and $x + 2y = 5$. (Type 0, 1, or Infinite)",Infinite|infinite,60,Y,"Try simplifying the first equation by dividing it by 3","$3x+6y=15$ ÷ 3 = $x+2y=5$ → same line → Infinite"
+3,"Fill: How many solutions does the system $3x + y = 4$ and $6x + 2y = 11$ have? (Type 0, 1, or Infinite)",0|None|none,60,Y,"Multiply the first equation by 2 to compare the left sides","$6x + 2y = 8 \ne 11$ → parallel → 0"
+4,"Fill: How many solutions does the system have: $8x - 2y = 6$ and $4x - y = 3$? (Type 0, 1, or Infinite)",Infinite|infinite,60,Y,"Try multiplying the second equation by 2","$8x - 2y = 6$ matches → same line → Infinite"
+5,"Fill: Solve the system $y = x - 9$ and $3x + y = 7$. What is $x$?",4,60,Y,"Substitute the expression for y into the second equation","$3x + x - 9 = 7$ → $4x = 16$ → $x = 4$"

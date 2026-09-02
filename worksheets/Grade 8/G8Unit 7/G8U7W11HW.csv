@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A line of best fit is $y = 2x + 6$. What is the predicted INCREASE in $y$ when $x$ increases from 5 to 9?",8,60,Y,"Multiply the slope by the change in x","$2 \cdot 4 = 8$"
+2,"Fill: A dataset shows $y$ increases by 12 whenever $x$ increases by 4. What is the slope?",3,60,Y,"Slope = rise / run","$12/4 = 3$"
+3,"Fill: A regression model predicts 58 at $x = 8$. If the residual is $+7$, what was the ACTUAL value?",65,60,Y,"Actual = Predicted + Residual","$58 + 7 = 65$"
+4,"Fill: A regression line is $y = -6x + 54$. At what x-value does $y = 12$?",7,60,Y,"Set y to 12 and solve for x","$12 = -6x + 54$ → $6x = 42$ → $x = 7$"
+5,"Fill: In a two-way table, the total is 40. If 8 people chose 'Yes', what percentage chose 'Yes'?",20,60,Y,"Divide the part by the whole, then multiply by 100","$(8/40) \cdot 100 = 20\%$"

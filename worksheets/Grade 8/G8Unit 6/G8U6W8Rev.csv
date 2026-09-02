@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Identify the transformation mapping $(x,y)$ to $(-x,-y)$. Fill: The transformation is a $\_\_ \_\_^\circ$ (Type: Rotation 180)",Rotation 180,60,Y,"Both signs flipped;This matches the 180 degree rule",Rotation 180
+2,"Select all coordinates that lie on the line of reflection $y=x$: $(3,3)$ $(4,1)$ $(-2,-2)$ $(0,5)$","$(3,3)$,$(-2,-2)$",60,Y,"If the line is $y=x$, the coordinates must be equal","(3,3) and (-2,-2)"
+3,"Fill: Dilations centered at the origin multiply coordinates by the $\_\_ \_\_$. (two words)",scale factor,60,Y,"This is the number usually represented by 'k'",scale factor
+4,"Fill: Point $A$ is at $(-3, -7)$. After translation $\langle 3, 7 \rangle$ where is it?","0,0",60,Y,"Add the vector to the point","$-3+3 = 0$ and $-7+7 = 0$"
+5,"Select the transformation that maps a shoe pattern to its matching footprint (left to right): Reflection Rotation Translation",Reflection,60,Y,"Left and Right shoes are mirror images",Reflection

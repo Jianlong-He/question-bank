@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"The equation (a - 3)x = 10 has x = 2 as a solution. Find a.",8,60,Y,"Substitute x = 2.|Then solve 2(a - 3) = 10.","a - 3 = 5 → a = 8."
+2,"The equation (m - 2)x = 8 has x = 4 as a solution. Find m.",4,60,Y,"Substitute x = 4 before solving for m.","4(m - 2) = 8 → m - 2 = 2 → m = 4."
+3,"For what value of b does 3(x - 2) + b = 3x + 7 have infinitely many solutions?",13,60,Y,"Simplify the left side.|Then make the constant terms equal.","-6 + b = 7 → b = 13."
+4,"Find q so that q(x - 3) = 5x - 15 has infinitely many solutions.",5,60,Y,"Factor the right side as 5(x - 3).","q = 5."
+5,"Classify 5(x + 1) = 5x + 6 as having one solution, no solution, or infinitely many solutions.",no solution|none,60,Y,"Distribute 5 on the left.","5x + 5 = 5x + 6 → 5 = 6 false → no solution."

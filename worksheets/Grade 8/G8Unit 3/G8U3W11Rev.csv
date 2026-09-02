@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Does $\{(3,4), (4,5), (5,6), (3,4)\}$ represent a function? (Yes/No)",Yes|Y|yes,60,Y,"The input 3 repeats, but it goes to the SAME output","The point (3,4) is just listed twice → still a function"
+2,"Does $x = y^2$ represent a function? (Yes/No)",No|N|no,60,Y,"If $x=4$, $y$ could be 2 or -2","One input yields two outputs → not a function"
+3,"Does a vertical line represent a function? (Yes/No)",No|N|no,60,Y,"Apply the Vertical Line Test","A vertical line has infinite y-values for one x → not a function"
+4,"Which is a function? ""Student ID to Student Name"" ""Favorite Color to Student Name""","""Student ID to Student Name""",60,Y,"An ID belongs to exactly one student","One ID → one student is a function; one color can belong to many students"
+5,"Which represents a function? ""Day of the week to Temperature"" ""Temperature to Day of the week""","""Day of the week to Temperature""",60,Y,"A day only has one official high temperature","Each day has one temperature; the reverse can repeat"

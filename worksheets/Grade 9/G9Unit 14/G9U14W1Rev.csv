@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"The y-values 3, 9, 27, 81 have a constant ratio. Is the relationship linear or exponential?",exponential|an exponential relationship,60,Y,"Check multiplication between outputs.;Each output is 3 times the previous one.","The outputs multiply by 3, so the relationship is exponential."
+2,"The y-values 20, 17, 14, 11 have a constant difference. Is the relationship linear or exponential?",linear|a linear relationship,60,Y,"Subtract consecutive outputs.;Each difference is -3.","The outputs decrease by 3, so the relationship is linear."
+3,"Write an exponential rule with initial value 6 and growth factor 2.",y=6*2^x|6*2^x|y=6(2)^x,60,Y,"Use y = ab^x.;Here a = 6 and b = 2.","The rule is y = 6 × 2^x."
+4,"A linear model is y = 45 + 9t. What is its starting value at t = 0?",45,60,Y,"Substitute t = 0.;The variable term vanishes.","The starting value is 45."
+5,"Does y = 200 - 8x change by adding or by multiplying each time x increases by 1?",adding|by adding|addition,60,Y,"Linear change is repeated addition.;Each step adds -8.","The output changes by adding -8 each step."

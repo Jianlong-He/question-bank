@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Eight friends split a 96 dollar bill equally. What does each person pay in dollars?",12,60,Y,"Divide the total by 8.;Compute 96/8.","Each person pays 12 dollars."
+2,"If n people split a 200 dollar cost equally, what expression gives each person's share?",200/n,60,Y,"Total divided by number of people.;The share shrinks as n grows.","Each person's share is 200/n."
+3,"One pipe fills a tank in 10 hours and another in 5 hours. What fraction of the tank do they fill together each hour?",3/10,60,Y,"Add the hourly rates.;1/10 + 1/5 = 1/10 + 2/10.","Together they fill 3/10 of the tank per hour."
+4,"A car travels 180 km at 60 km/h. How many hours does the trip take?",3,60,Y,"Use t = d/v.;Compute 180/60.","The trip takes 3 hours."
+5,"A group's cost per person for a 60 dollar gift is 60/n. What happens to each share as n increases?",it decreases|decreases|gets smaller,60,Y,"The numerator is fixed.;A larger denominator makes a smaller fraction.","Each share decreases as more people join."

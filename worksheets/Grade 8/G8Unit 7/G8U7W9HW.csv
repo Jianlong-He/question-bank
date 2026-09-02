@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A line of best fit is $y = 3x + 5$. What is the predicted value of $y$ when $x = 12$?",41,60,Y,"Substitute x into the equation","$3(12) + 5 = 41$"
+2,"Fill: A trend line passes through $(2, 11)$ and $(8, 35)$. What is its slope?",4,60,Y,"Use slope = $(y_2 - y_1) / (x_2 - x_1)$","$(35-11)/(8-2) = 24/6 = 4$"
+3,"Fill: A regression model predicts 55 when $x = 4$. The actual value is 48. What is the residual?",-7,60,Y,"Residual = Actual - Predicted","$48 - 55 = -7$"
+4,"Fill: For the regression line $y = -2x + 40$, what x-value gives $y = 18$?",11,60,Y,"Set y = 18 and solve for x","$18 = -2x + 40$ → $2x = 22$ → $x = 11$"
+5,"Fill: In a survey of 100 people, 30 like dogs and 70 like cats. What is the relative frequency of liking dogs? (Decimal)",0.3|0.30,60,Y,"Divide the part by the total","$30/100 = 0.3$"

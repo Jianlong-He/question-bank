@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the common difference of 4, 10, 16, 22.",6,60,Y,"Subtract consecutive terms.;10 - 4 = 6.","Each term increases by 6, so the common difference is 6."
+2,"Find the next term of the arithmetic sequence 20, 14, 8, 2.",-4,60,Y,"The common difference is -6.;Subtract 6 from 2.","The next term is 2 - 6 = -4."
+3,"For an arithmetic sequence with first term 5 and common difference 4, find the sixth term.",25,60,Y,"Use a_n = a_1 + (n - 1)d.;There are five increases from term 1 to term 6.","a_6 = 5 + 5(4) = 25."
+4,"A sequence rule gives each term directly from its term number n. Is the rule explicit or recursive?",explicit|an explicit rule,60,Y,"No earlier term is needed.;The term number is used directly.","A direct rule in terms of n is explicit."
+5,"Is the sequence 7, 12, 17, 22 arithmetic? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Check the differences between terms.;Each difference is 5.","Every difference is 5, so the sequence is arithmetic."

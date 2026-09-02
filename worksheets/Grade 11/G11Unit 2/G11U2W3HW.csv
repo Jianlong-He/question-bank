@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Complete the identity: (a + b)^2 = ___.",a^2+2ab+b^2|a^2 + 2ab + b^2,60,Y,"Expand the binomial product.;The two middle products are both ab.","(a + b)^2 = a^2 + 2ab + b^2."
+2,"Complete the identity: (a + b)(a - b) = ___.",a^2-b^2|a^2 - b^2,60,Y,"The middle terms cancel.;This is the difference-of-squares identity.","(a + b)(a - b) = a^2 - b^2."
+3,"Use an identity to compute 102^2.",10404,60,Y,"Write 102 as 100 + 2.;Use (a + b)^2.","102^2 = 10000 + 400 + 4 = 10404."
+4,"Use a difference-of-squares identity to compute 47 × 53.",2491,60,Y,"Write the factors as 50 - 3 and 50 + 3.;Use a^2 - b^2.","47(53) = 2500 - 9 = 2491."
+5,"Which expression is equivalent to x^2 + 14x + 49?",(x+7)^2|(x + 7)^2,60,Y,"Recognize a perfect-square trinomial.;Half of 14 is 7.","x^2 + 14x + 49 = (x + 7)^2."

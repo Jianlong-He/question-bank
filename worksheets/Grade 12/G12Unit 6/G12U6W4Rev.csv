@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A 20 N force acts north and a 12 N force acts south. What is the resultant force in newtons north?",8,60,Y,"Treat north as positive.;Compute 20 - 12.","The resultant is 8 N north."
+2,"A plane flies 5 km/h east while the wind blows 12 km/h north. Find the resultant speed in km/h.",13,60,Y,"The vectors are perpendicular.;Use sqrt(25 + 144).","The resultant speed is 13 km/h."
+3,"A runner goes 8 km north then 6 km east. Find the total displacement magnitude in km.",10,60,Y,"The legs are perpendicular.;Use sqrt(64 + 36).","The displacement is 10 km."
+4,"Two forces of 7 N and 7 N act in the same direction. What is the resultant force in newtons?",14,60,Y,"Same-direction vectors add directly.;Compute 7 + 7.","The resultant is 14 N."
+5,"For the velocity (1, 1), find its direction north of east in degrees.",45|45 degrees,60,Y,"Use arctan(1/1).;The components are equal.","The direction is 45 degrees north of east."

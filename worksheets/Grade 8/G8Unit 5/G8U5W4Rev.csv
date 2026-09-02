@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the distance between $(0,0)$ and $(6,8)$.",10,60,Y,"Draw a right triangle with legs 6 and 8","$\sqrt{36+64} = \sqrt{100} = 10$"
+2,"Fill: Solve for leg $b$: $9^2 + b^2 = 15^2$",12,60,Y,"$81 + b^2 = 225$;Subtract 81, then square root","$b^2 = 144$ → $b = 12$"
+3,"Fill: Do the side lengths 3, 5, and 7 form a right triangle? (Yes/No)",No|N|no,60,Y,"Test the Pythagorean theorem;Does $9 + 25 = 49$?","$34 \ne 49$ → No"
+4,"Fill: Solve for the hypotenuse $c$: $5^2 + 12^2 = c^2$",13,60,Y,"$25 + 144 = 169$;Take the square root",13
+5,"Fill: Find the distance between points $(0,0)$ and $(9,12)$ on a coordinate plane.",15,60,Y,"Draw a right triangle with legs of length 9 and 12","$81 + 144 = 225$ → $d = 15$"

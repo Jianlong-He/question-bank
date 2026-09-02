@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A graph has its lowest point at (1, -9). What is the absolute minimum value?",-9,60,Y,"The minimum value is a y-coordinate.;Read the second coordinate.","The absolute minimum value is -9."
+2,"The greatest output of a function is 20. What is its absolute maximum value?",20,60,Y,"The absolute maximum is the greatest output.;The question asks for the value.","The absolute maximum value is 20."
+3,"A function falls until x = 2 and then rises. What kind of relative extremum occurs at x = 2?",minimum|relative minimum|local minimum,60,Y,"The turning point is lower than its neighbors.;Falling then rising makes a valley.","A relative minimum occurs at x = 2."
+4,"On the interval from x = 1 to x = 8, the graph of f moves upward from left to right. Is f increasing or decreasing there?",increasing|Increasing,60,Y,"Upward from left to right means outputs grow.;Compare outputs at the ends.","The function is increasing on that interval."
+5,"f(x) = 5 for every x. Is f increasing, decreasing, or constant?",constant|Constant,60,Y,"The output never changes.;A flat graph is neither rising nor falling.","The function is constant."

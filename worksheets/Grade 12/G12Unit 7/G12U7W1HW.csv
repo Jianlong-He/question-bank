@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A matrix has 4 rows and 3 columns. What are its dimensions?",4 by 3|4x3|4 rows by 3 columns,60,Y,"Dimensions list rows first.;Then list columns.","Its dimensions are 4 by 3."
+2,"In matrix A, what does the entry a_31 mean?",row 3 column 1|the entry in row 3 column 1,60,Y,"The first subscript is the row.;The second is the column.","a_31 is the entry in row 3, column 1."
+3,"Can a 3x2 matrix be added to a 2x3 matrix? Enter Yes or No.",No|no|N|n,60,Y,"Addition requires matching positions.;The dimensions must be identical.","No — their dimensions differ."
+4,"Add the matrices [[2, 3], [4, 5]] and [[6, 7], [8, 9]]. Enter the first row.","8, 10",60,Y,"Add corresponding entries.;Compute 2 + 6 and 3 + 7.","The first row of the sum is (8, 10)."
+5,"Subtract [[1, 2], [3, 4]] from [[9, 8], [7, 6]]. Enter the second row.","4, 2",60,Y,"Subtract corresponding entries.;Compute 7 - 3 and 6 - 4.","The second row is (4, 2)."

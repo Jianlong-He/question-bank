@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"The y-values 4, 8, 16, 32 have a constant ratio. Is the relationship linear or exponential?",exponential|an exponential relationship,60,Y,"Check multiplication between consecutive outputs.;A constant ratio signals exponential change.","The outputs multiply by 2, so the relationship is exponential."
+2,"The y-values 6, 11, 16, 21 have a constant difference. Is the relationship linear or exponential?",linear|a linear relationship,60,Y,"Subtract consecutive outputs.;A constant difference signals linear change.","The outputs increase by 5, so the relationship is linear."
+3,"Write an exponential rule with initial value 4 and growth factor 3.",y=4*3^x|4*3^x|y=4(3)^x,60,Y,"Use y = ab^x.;Here a = 4 and b = 3.","The rule is y = 4 × 3^x."
+4,"A linear model is y = 80 + 12t. How much does y increase each time t increases by 1?",12,60,Y,"The coefficient of t is the constant rate.;Linear models add the same amount each step.","y increases by 12 each step."
+5,"Does y = 5 × 2^x grow by adding or by multiplying each time x increases by 1?",multiplying|by multiplying|multiplication,60,Y,"Exponential growth is repeated multiplication.;Each step multiplies by the base 2.","The output multiplies by 2 each step."

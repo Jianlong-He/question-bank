@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Simplify (x^2 - 25)/(x - 5).",x+5|x + 5,60,Y,"Factor the numerator.;Cancel the common factor x - 5.","The expression simplifies to x + 5 with x not equal to 5."
+2,"What value is excluded from (x^2 - 25)/(x - 5)?",5,60,Y,"Use the original denominator.;Set x - 5 = 0.","The excluded value is x = 5."
+3,"What discontinuity is created by a canceled denominator factor?",a hole|hole|removable discontinuity,60,Y,"The original input remains excluded.;The simplified graph is missing one point.","A canceled factor creates a hole, a removable discontinuity."
+4,"For f(x) = 1/(x - 7), what is the vertical asymptote?",x=7|x = 7,60,Y,"Set the denominator equal to zero.;The factor does not cancel.","The vertical asymptote is x = 7."
+5,"For f(x) = (5x + 2)/(x - 1), what is the horizontal asymptote?",y=5|y = 5,60,Y,"The degrees are equal.;Use the ratio of leading coefficients.","The horizontal asymptote is y = 5."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Describe the change from y = f(x) to y = 4f(x).",vertical stretch by factor 4|vertical stretch of 4,60,Y,"Every output is multiplied by 4.;The multiplier is outside the function.","The graph is stretched vertically by factor 4."
+2,"Describe the change from y = f(x) to y = 0.5f(x).",vertical compression by factor 0.5|vertical compression by factor 1/2,60,Y,"The multiplier is between 0 and 1.;Outputs become half as large.","The graph is vertically compressed by factor 1/2."
+3,"Describe the change from y = f(x) to y = f(3x).",horizontal compression by factor 1/3|horizontal compression by 1/3,60,Y,"Horizontal scale factors are reciprocal.;Inputs reach the same values three times as fast.","The graph is horizontally compressed by factor 1/3."
+4,"Describe the change from y = f(x) to y = f(x/2).",horizontal stretch by factor 2|horizontal stretch of 2,60,Y,"Dividing the input stretches horizontally.;The factor is the reciprocal of 1/2.","The graph is horizontally stretched by factor 2."
+5,"Describe the change from y = f(x) to y = -f(x).",reflection across the x-axis|reflected over the x-axis|flip over the x-axis,60,Y,"Every output changes sign.;The negative is outside the function.","The graph is reflected across the x-axis."

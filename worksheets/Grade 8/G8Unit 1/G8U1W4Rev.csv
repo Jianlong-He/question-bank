@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Simplify $(3^2 \cdot 3^4) / 3^3$.",27|3^3,60,Y,"Add exponents in the numerator: 2+4=6;Subtract the denominator exponent: 6-3=3","$3^6 / 3^3 = 3^3 = 27$"
+2,"Approximate √30 to the nearest tenth.",5.5,60,Y,"Find two perfect squares near 30 and estimate","√25=5 and √36=6; 5.5² = 30.25, so √30≈5.5"
+3,"Fill: Simplify $2^{-4}$ as a fraction (use / for fraction).",1/16,60,Y,"Negative exponents flip the base to the denominator;$2^4 = 16$","$2^{-4} = 1/2^4 = 1/16$"
+4,"Select all irrational numbers: $\sqrt{36}$ $\pi$ $0.25$ $\sqrt{7}$","$\pi$,$\sqrt{7}$",60,Y,"Irrational numbers cannot be written as simple fractions","$\sqrt{36} = 6$ and $0.25 = 1/4$ are rational; $\pi$ and $\sqrt{7}$ are irrational"
+5,"Convert the fraction 2/3 to a repeating decimal (round to two decimals).",0.67,60,Y,"Divide the numerator by the denominator","2÷3 = 0.666…, which rounds to 0.67"

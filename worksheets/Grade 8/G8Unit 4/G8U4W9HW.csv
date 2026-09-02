@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A father is 4 times as old as his son. In 12 years, the father will be twice as old as the son. How old is the son now?",6,60,Y,"Form two equations: $f = 4s$ and $f + 12 = 2(s + 12)$","$4s + 12 = 2s + 24$ → $2s = 12$ → $s = 6$"
+2,"Fill: A mother is 6 years older than twice her daughter's age. Their total age is 45. How old is the daughter?",13,60,Y,"Set up equations: $m = 2d + 6$ and $m + d = 45$","$3d + 6 = 45$ → $3d = 39$ → $d = 13$"
+3,"Fill: A student walks from home to school at 3 km/h and returns by bike at 6 km/h. Total travel time is 3 hours. What is the one-way distance in km?",6,60,Y,"Use Time = Distance / Rate; $d/3 + d/6 = 3$","$2d/6 + d/6 = 3$ → $3d/6 = 3$ → $d = 6$ km"
+4,"Fill: A system has equations $6x + 4x = 20$ and $6x - 4x = 8$. How many solutions does the system have? (Type 0, 1, or Infinite)",0|None|none,60,Y,"Solve both equations for x and see if they match","First: $10x=20$ → $x=2$. Second: $2x=8$ → $x=4$. Different → 0 solutions"
+5,"Fill: A number is split into two parts. The larger part is 4 more than twice the smaller. Their sum is 34. Find the larger part.",24,60,Y,"Set up equations: $L = 2S + 4$ and $L + S = 34$","$3S + 4 = 34$ → $S = 10$; $L = 24$"

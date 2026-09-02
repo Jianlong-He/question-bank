@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Simplify 1 - cos^2(theta).",sin^2(theta),60,Y,"Rearrange sin^2 + cos^2 = 1.;Subtract cos^2 from both sides.","1 - cos^2(theta) = sin^2(theta)."
+2,"If sin(theta) = 5/13 and theta is acute, find cos(theta).",12/13,60,Y,"Use the Pythagorean identity.;Recognize a 5-12-13 triangle.","cos(theta) = 12/13."
+3,"If cos(theta) = 4/5 and theta is acute, find sin(theta).",3/5,60,Y,"Use sin^2 + cos^2 = 1.;Recognize a 3-4-5 triangle.","sin(theta) = 3/5."
+4,"What identity relates tan(theta) to sin(theta) and cos(theta)?",tan(theta)=sin(theta)/cos(theta)|sin/cos,60,Y,"Tangent is a ratio.;Sine over cosine.","tan(theta) = sin(theta)/cos(theta)."
+5,"Evaluate sin^2(37 degrees) + cos^2(37 degrees).",1,60,Y,"Use the Pythagorean identity.;It holds for every angle.","The value is 1."

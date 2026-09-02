@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A Ferris wheel's height model has maximum 40 m and minimum 4 m. What is its amplitude?",18,60,Y,"Amplitude is half the total range.;Compute (40 - 4)/2.","The amplitude is 18 m."
+2,"A Ferris wheel's height model has maximum 40 m and minimum 4 m. What is its midline?",22|y=22,60,Y,"Average the maximum and minimum.;Compute (40 + 4)/2.","The midline is 22 m."
+3,"The wheel completes a rotation every 8 minutes. What is the period of the height model?",8 minutes|8,60,Y,"The period is the repeat time.;One rotation takes 8 minutes.","The period is 8 minutes."
+4,"A model repeats every 24 hours. What coefficient B is used in sin(Bt) when t is hours?",pi/12|π/12,60,Y,"Use B = 2pi/period.;Compute 2pi/24.","B = pi/12."
+5,"A sound wave model has amplitude 3 and midline y = 0. What are its maximum and minimum values? Enter the maximum then the minimum.","3, -3",60,Y,"Max = midline + amplitude.;Min = midline - amplitude.","The maximum is 3 and the minimum is -3."

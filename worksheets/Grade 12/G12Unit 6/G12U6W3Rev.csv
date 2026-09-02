@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the direction angle of the vector (5, 0) in degrees.",0|0 degrees,60,Y,"The vector points along the positive x-axis.;Measure from that axis.","The direction angle is 0 degrees."
+2,"Find the direction angle of the vector (-1, 0) in degrees.",180|180 degrees,60,Y,"The vector points along the negative x-axis.;Measure counterclockwise.","The direction angle is 180 degrees."
+3,"A vector has magnitude 10 and direction 180 degrees. Enter x then y.","-10, 0",60,Y,"Use (r cos theta, r sin theta).;cos(180) = -1 and sin(180) = 0.","The components are (-10, 0)."
+4,"A vector has magnitude 4 and direction 270 degrees. Enter x then y.","0, -4",60,Y,"cos(270) = 0 and sin(270) = -1.;Multiply each by 4.","The components are (0, -4)."
+5,"Find the direction angle of the vector (-2, 2) in degrees.",135|135 degrees,60,Y,"The point lies in Quadrant II.;The reference angle is 45 degrees.","The direction angle is 135 degrees."

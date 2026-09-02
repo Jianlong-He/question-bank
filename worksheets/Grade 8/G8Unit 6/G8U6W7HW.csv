@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Reflect point $(5, -2)$ across the line $x = 2$. What is the new x-coordinate?",-1,60,Y,"Measure the horizontal distance from the line $x = 2$","5 is 3 right of 2; reflect: $2 - 3 = -1$"
+2,"Fill: Triangle ABC is mapped onto triangle A'B'C' using a rigid transformation. If AB = 9, what is A'B'?",9,60,Y,"Rigid transformations preserve all distances and angles","A'B' remains 9"
+3,"Fill: A shape is moved to a new location without turning or flipping it. What transformation was applied?",translation|Translation,60,Y,"No rotation (turning) or reflection (flipping) occurred",translation
+4,"Fill: Translate $(-3, 6)$ by the vector $(2, -4)$. What is the y-coordinate of the image?",2,60,Y,"Add the y-component of the vector to the y-coordinate","$6 + (-4) = 2$"
+5,"Fill: Rotate $(3, -4)$ by $180^\circ$. What is the new x-coordinate?",-3,60,Y,"A $180^\circ$ rotation negates both coordinates","$(3, -4) \to (-3, 4)$"

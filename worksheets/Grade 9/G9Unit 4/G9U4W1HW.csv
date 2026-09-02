@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Does the ordered pair (3, 7) satisfy y = 2x + 1? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Substitute x = 3 and y = 7.|Compare both sides of the equation.","2(3) + 1 = 7 → Yes."
+2,"Find y so that (2, y) is a solution of 3x + y = 11.",5,60,Y,"Replace x with 2.|Solve 6 + y = 11.","y = 5."
+3,"Find x so that (x, 2) is a solution of 4x - y = 10.",3,60,Y,"Replace y with 2.|Solve 4x - 2 = 10.","4x = 12 → x = 3."
+4,"For y = 8 - x, find y when x = 5.",3,60,Y,"Substitute 5 for x.","8 - 5 = 3."
+5,"A point on 3x - 2y = 12 has y = 0. Find its x-coordinate.",4,60,Y,"Set y equal to zero.|Solve 3x = 12.","x = 4."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Use change of base to write log base 7 of 2 using common logarithms.",log(2)/log(7)|log 2/log 7,60,Y,"Use log_b(a) = log(a)/log(b).;The argument goes in the numerator.","log_7(2) = log(2)/log(7)."
+2,"Solve 3^x = 81.",4,60,Y,"Write 81 as a power of 3.;81 = 3^4.","Equal bases give x = 4."
+3,"Solve 4^x = 9. Give x as an exact logarithmic expression.",ln(9)/ln(4)|log(9)/log(4),60,Y,"Take a logarithm of both sides.;Use change of base.","The exact solution is x = ln(9)/ln(4)."
+4,"Solve e^(2x) = 25. Give x as an exact logarithmic expression.",ln(25)/2|ln(5),60,Y,"Take natural log of both sides.;2x = ln(25), and ln(25)/2 = ln(5).","The solution is x = ln(25)/2 = ln(5)."
+5,"Solve 2^(x+1) = 16.",3,60,Y,"Write 16 as 2^4.;Then x + 1 = 4.","x + 1 = 4 gives x = 3."

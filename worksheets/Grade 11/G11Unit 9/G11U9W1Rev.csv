@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If revenue R(x) = 50x and cost C(x) = 20x + 90, what is profit P(x) = R(x) - C(x)?",30x-90|P(x)=30x-90,60,Y,"Subtract cost from revenue.;Combine 50x - 20x.","P(x) = 50x - (20x + 90) = 30x - 90."
+2,"Is f(x) = x^3 periodic? Enter Yes or No.",No|no|N|n,60,Y,"A periodic function repeats after a fixed interval.;A cubic keeps growing.","A cubic function is not periodic."
+3,"A model repeats its values every 12 units. What is its period?",12,60,Y,"The period is the repeat interval.;One cycle spans 12 units.","The period is 12."
+4,"For P(t) = -2t^4 + 7t^2, what term determines the end behavior?",-2t^4|the leading term|leading term -2t^4,60,Y,"End behavior follows the leading term.;It has the greatest exponent.","The leading term -2t^4 determines the end behavior."
+5,"If f(x) = x + 3 and g(x) = 2x, what is f(x) + g(x)?",3x+3|3x + 3,60,Y,"Add the two expressions.;Combine x and 2x.","f(x) + g(x) = 3x + 3."

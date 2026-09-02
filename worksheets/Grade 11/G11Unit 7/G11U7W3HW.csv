@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve the system y = x + 6 and y = x^2. Enter the smaller x-value then the larger x-value.","-2, 3",60,Y,"Set x^2 = x + 6.;Factor x^2 - x - 6.","(x - 3)(x + 2) = 0, so the x-values are -2 and 3."
+2,"For y = x + 6 and y = x^2, find the y-value corresponding to x = 3.",9,60,Y,"Substitute into either equation.;Use y = x^2.","y = 9."
+3,"Solve y = x^2 - 4 and y = 5. Enter the x-values in increasing order.","-3, 3",60,Y,"Set x^2 - 4 = 5.;Then x^2 = 9.","The x-values are -3 and 3."
+4,"How many real solutions does the system y = x^2 + 3 and y = 0 have?",0|zero,60,Y,"The parabola has minimum y = 3.;It never reaches y = 0.","The system has no real solution."
+5,"Solve y = x^2 and y = 4x. Enter the x-values in increasing order.","0, 4",60,Y,"Set x^2 = 4x.;Factor x(x - 4) = 0.","The x-values are 0 and 4."

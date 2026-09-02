@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Solve the system using substitution: $y = 3x$ and $x + y = 16$. Enter $x, y$","4,12",60,Y,"Replace $y$ in the second equation with $3x$: $x + 3x = 16$","$4x = 16$ → $x = 4$, $y = 12$"
+2,"Select the correct first step to solve by Elimination: $3x + y = 12$ and $3x - y = 6$: Add-equations Subtract-equations",Add-equations,60,Y,"Look at the $y$ terms: $+y$ and $-y$;Adding makes $y$ disappear",Add-equations
+3,"Fill: If two lines intersect at $(3, -4)$, what is the solution to the system?","3,-4",60,Y,"The solution IS the point of intersection","(3, -4)"
+4,"Select the system with Infinite Solutions: $y=x+3, y=x-3$ $3x+y=6, 6x+2y=12$ $y=2x, y=5x$","$3x+y=6, 6x+2y=12$",60,Y,"Infinite solutions mean the lines are identical;Divide the second equation by 2","$6x+2y=12$ ÷ 2 = $3x+y=6$ → same line"
+5,"Fill: Solve for $y$ in the system: $x = 4$ and $3x + y = 18$",6,60,Y,"Plug 4 into the second equation: $3(4) + y = 18$","$12 + y = 18$ → $y = 6$"

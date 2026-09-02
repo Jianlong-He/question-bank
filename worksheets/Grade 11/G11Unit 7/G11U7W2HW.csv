@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve sqrt(x) = 9.",81,60,Y,"Square both sides.;9^2 = 81.","x = 81."
+2,"Solve sqrt(x + 3) = 5.",22,60,Y,"Square both sides.;Then x + 3 = 25.","x = 22."
+3,"Solve sqrt(3x - 2) = 4.",6,60,Y,"Square both sides.;Solve 3x - 2 = 16.","3x = 18, so x = 6."
+4,"Solve sqrt(x) - 2 = 3.",25,60,Y,"Isolate the radical first.;Then sqrt(x) = 5.","Squaring gives x = 25."
+5,"A student squares sqrt(x) = x - 6 and finds x = 4 or x = 9. Which value satisfies the original equation?",9,60,Y,"Check each candidate in the original equation.;sqrt(4) = 2 but 4 - 6 = -2.","Only x = 9 works: sqrt(9) = 3 = 9 - 6."

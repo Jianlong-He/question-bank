@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: An isosceles triangle has equal sides of 13 cm and a base of 24 cm. Find its area in cm squared.",60,60,Y,"Find height using a right triangle with half the base (12)","$h^2 + 144 = 169$ → $h = 5$; Area = $\frac{1}{2}(24)(5) = 60$"
+2,"Fill: A right triangle has hypotenuse 26 cm and one leg 24 cm. Find the length of the other leg.",10,60,Y,"Use $c^2 - a^2 = b^2$","$676 - 576 = 100$ → $b = 10$"
+3,"Fill: A rectangular box has length 2 cm, width 6 cm, and height 9 cm. Find the length of the space diagonal.",11,60,Y,"Use the 3D Pythagorean theorem: $d^2 = l^2 + w^2 + h^2$","$4 + 36 + 81 = 121$ → $d = 11$"
+4,"Fill: Find the distance between the points $(-4, 3)$ and $(8, -6)$.",15,60,Y,"Use the distance formula","$12^2 + (-9)^2 = 144 + 81 = 225$ → $d = 15$"
+5,"Fill: In Garfield's proof, two right triangles with legs $a$ and $b$ form a trapezoid. If $a = 20$ and $b = 21$, find the hypotenuse $c$.",29,60,Y,"Use $c^2 = a^2 + b^2$","$400 + 441 = 841$ → $c = 29$"

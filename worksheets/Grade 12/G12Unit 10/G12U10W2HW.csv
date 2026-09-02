@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If lim f(x) = 4 and lim g(x) = 6, find lim (f(x) + g(x)).",10,60,Y,"Use the sum law.;Add the individual limits.","The limit is 4 + 6 = 10."
+2,"If lim f(x) = 4 and lim g(x) = 6, find lim (f(x)g(x)).",24,60,Y,"Use the product law.;Multiply the individual limits.","The limit is 4 × 6 = 24."
+3,"If lim f(x) = 8 and lim g(x) = 2, find lim f(x)/g(x).",4,60,Y,"Use the quotient law.;The denominator limit is nonzero.","The limit is 8/2 = 4."
+4,"If lim f(x) = 5, find lim 3f(x).",15,60,Y,"Constants factor out of limits.;Multiply 3 by 5.","The limit is 15."
+5,"What condition is required to use the quotient limit law?",denominator limit is not zero|limit of denominator is nonzero|nonzero denominator limit,60,Y,"Division by zero is undefined.;Check the limiting denominator.","The denominator's limit must be nonzero."

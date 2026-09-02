@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A car travels 240 miles in 4 hours. What is its average rate in miles per hour? Enter only the number.",60,60,Y,"Rate equals distance divided by time.","240 ÷ 4 = 60 mph."
+2,"Ten notebooks cost $25. What is the cost per notebook? Enter only the number.",2.5|2.50|5/2,60,Y,"Divide the total cost by the number of notebooks.","$25 ÷ 10 = $2.50."
+3,"Convert 4 feet to inches using 12 inches = 1 foot. Enter only the number.",48,60,Y,"Multiply by 12 inches per foot.","4 × 12 = 48 inches."
+4,"Convert 2.5 hours to minutes. Enter only the number.",150,60,Y,"Multiply by 60 minutes per hour.","2.5 × 60 = 150 minutes."
+5,"A pump moves 36 liters of water in 9 minutes. What is the pumping rate in liters per minute?",4,60,Y,"Divide liters by minutes.","36 ÷ 9 = 4 L/min."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Factor x^2 + 25 over the complex numbers.",(x+5i)(x-5i)|(x-5i)(x+5i),60,Y,"The roots are plus or minus 5i.;Build a linear factor from each root.","x^2 + 25 = (x + 5i)(x - 5i)."
+2,"Solve x^2 + 9 = 0. Enter the roots in increasing imaginary order.","-3i, 3i",60,Y,"Move 9 to the other side.;Take both square roots of -9.","The roots are -3i and 3i."
+3,"Solve x^2 - 4x + 13 = 0. Enter the root with negative imaginary part then the other root.","2-3i, 2+3i",60,Y,"Use the quadratic formula.;The discriminant is 16 - 52 = -36.","x = (4 ± 6i)/2 = 2 ± 3i."
+4,"If a polynomial has real coefficients and 3 + 2i is a root, what other root must it have?",3-2i|3 - 2i,60,Y,"Complex roots of real polynomials come in conjugate pairs.;Flip the imaginary sign.","The conjugate 3 - 2i must also be a root."
+5,"Simplify i^2.",-1,60,Y,"Use the definition of i.;i is a square root of -1.","i^2 = -1."

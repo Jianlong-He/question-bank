@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Point Q$(4, -7)$ is translated by the vector $(-11, 13)$. What is the new x-coordinate?",-7,60,Y,"Add the x-component of the vector to the x-coordinate","$4 + (-11) = -7$"
+2,"Fill: Rotate point $(6, -3)$ by $270^\circ$ counter-clockwise around the origin. What is the new y-coordinate?",-6,60,Y,"The rule for 270 degrees CCW is $(x, y) \to (y, -x)$","$(6, -3) \to (-3, -6)$ → y = -6"
+3,"Fill: A point moves from $(5, -8)$ to $(-5, 8)$. What is the angle of rotation about the origin in degrees?",180,60,Y,"Check the coordinates for sign changes","Both coordinates negated → 180°"
+4,"Fill: Reflect point $(-8, -5)$ across the x-axis. What is the new y-value?",5,60,Y,"Reflecting across the x-axis negates the y-coordinate","$(-8, -5) \to (-8, 5)$"
+5,"Fill: Reflect point $(6, -9)$ across the line $x = -2$. What is the new x-value?",-10,60,Y,"Measure the horizontal distance from the line of reflection","6 is 8 units right of -2; reflect to 8 units left: $-2 - 8 = -10$"

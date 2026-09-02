@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the degree of 5x^6 - 2x^3 + x - 4?",6,60,Y,"Find the greatest exponent of x.;The leading term is 5x^6.","The greatest exponent is 6, so the degree is 6."
+2,"What is the leading coefficient of -7x^4 + 3x^2 - 1?",-7,60,Y,"Write in descending powers.;The leading term has the greatest exponent.","The leading term is -7x^4, so the leading coefficient is -7."
+3,"How many terms are in 3x^4 - x^2 + 2x - 8?",4,60,Y,"Terms are separated by plus or minus signs.;Count each piece.","There are four terms."
+4,"Is 9x^3 - 4x a monomial, binomial, or trinomial?",binomial,60,Y,"Count the terms.;A polynomial with two terms is a binomial.","The expression has two terms, so it is a binomial."
+5,"For f(x) = x^2 + 1, find the average rate of change from x = 2 to x = 5.",7,60,Y,"Use (f(5) - f(2))/(5 - 2).;Compute f(5) = 26 and f(2) = 5.","The average rate is (26 - 5)/3 = 7."

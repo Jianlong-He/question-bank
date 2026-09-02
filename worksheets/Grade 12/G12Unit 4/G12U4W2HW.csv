@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If n people split a 180 dollar cost equally, what is each person's share?",180/n,60,Y,"Divide the fixed total by the number of people.;The share varies inversely with n.","Each person's share is 180/n dollars."
+2,"Two machines work at rates 1/3 and 1/6 job per hour. Find their combined rate.",1/2,60,Y,"Add the rates using denominator 6.;1/3 = 2/6.","2/6 + 1/6 = 3/6 = 1/2 job per hour."
+3,"Solve 1/x = 1/9.",9,60,Y,"Cross multiply.;Both denominators must be nonzero.","x = 9."
+4,"Solve 1/x + 1/4 = 1/2.",4,60,Y,"Subtract 1/4 from both sides.;Then 1/x = 1/4.","x = 4."
+5,"Four liters of 10% solution mix with six liters of 60% solution. What percent is the mixture?",40%|40 percent|40,60,Y,"Find the pure substance in each part.;Divide 0.4 + 3.6 by 10 liters.","The concentration is 4/10 = 0.40 = 40%."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If a model is built by adding f(x) and g(x), how is the combined function written?",h(x)=f(x)+g(x)|f(x)+g(x),60,Y,"Add the outputs for the same input.;Name the new function h if desired.","The combined model is h(x) = f(x) + g(x)."
+2,"If cost C(x) = 30x + 200 and fee F(x) = 10x, what is total cost T(x)?",40x+200|T(x)=40x+200,60,Y,"Add the two cost functions.;Combine 30x and 10x.","T(x) = C(x) + F(x) = 40x + 200."
+3,"A model repeats its values every 8 units. What is its period?",8,60,Y,"The period is the repeat interval.;One full pattern spans 8 input units.","The period is 8."
+4,"Is f(x) = sin(x) periodic? Enter Yes or No.",Yes|yes|Y|y,60,Y,"A periodic function repeats after a fixed interval.;Sine repeats every 2pi.","Yes — sine is periodic with period 2pi."
+5,"For P(t) = 5t^3 - 4t + 2, what term determines the end behavior?",5t^3|the leading term|leading term 5t^3,60,Y,"End behavior follows the leading term.;It has the greatest exponent.","The leading term 5t^3 determines the end behavior."

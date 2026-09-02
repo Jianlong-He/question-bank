@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"In a proof, segment AC is shared by triangles ABC and ACD. Which property lets you write AC = AC?",reflexive property|reflexive,60,Y,"The same segment appears in both triangles.;A quantity equals itself.","The reflexive property justifies AC = AC."
+2,"Two angles are both supplementary to the same angle. What can be concluded about them?",they are congruent|congruent|equal,60,Y,"Each pairs with the same angle to make 180.;Subtract the common angle from 180.","Angles supplementary to the same angle are congruent."
+3,"Point M is the midpoint of AB, and AB = 18. Find AM.",9,60,Y,"A midpoint halves the segment.;Compute 18/2.","AM = 18/2 = 9."
+4,"Ray QS bisects angle PQR, and angle PQR = 84 degrees. Find angle PQS.",42 degrees|42|42°,60,Y,"A bisector splits the angle in half.;Compute 84/2.","Angle PQS = 84/2 = 42 degrees."
+5,"After proving two triangles congruent, which abbreviation justifies that their remaining parts are congruent?",CPCTC,60,Y,"Corresponding parts of congruent triangles are congruent.;Use the initial letters.","CPCTC justifies the congruence of the remaining parts."

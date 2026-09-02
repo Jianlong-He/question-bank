@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Point $(4, 7)$ is dilated from the origin by a scale factor of 3. What is the new x-coordinate?",12,60,Y,"Multiply the x-coordinate by the scale factor","$4 \cdot 3 = 12$"
+2,"Fill: A dilation maps a side of length 16 to a new side of length 8. What is the scale factor? (Enter as a fraction or decimal)",1/2|0.5,60,Y,"Divide the new length by the original length","$8/16 = 1/2$"
+3,"Fill: Does a dilation preserve angle measures? (Yes/No)",Yes|Y|yes,60,Y,"Think about zooming in on a picture","Angles stay the same → Yes"
+4,"Fill: Dilate point $(-2, 5)$ from the origin using scale factor 3. What is the new y-value?",15,60,Y,"Multiply the y-value by the scale factor 3","$5 \cdot 3 = 15$"
+5,"Fill: A dilation sends point $(6, -3)$ to $(12, -6)$. What is the scale factor?",2,60,Y,"Divide the image coordinate by the original coordinate","$12/6 = 2$"

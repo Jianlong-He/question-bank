@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A data set has minimum 1, Q1 = 3, median 5, Q3 = 8, and maximum 10. What is its interquartile range?",5,60,Y,"IQR = Q3 - Q1.;Compute 8 - 3.","The interquartile range is 8 - 3 = 5."
+2,"For the ordered data 3, 5, 6, 9, 12, find the median.",6,60,Y,"There are five values.;Choose the third value.","The middle value is 6."
+3,"A data set has minimum 4 and maximum 25. Find its range.",21,60,Y,"Range = maximum - minimum.;Compute 25 - 4.","The range is 25 - 4 = 21."
+4,"In a box plot, what value does the line inside the box mark?",median|the median,60,Y,"The box runs from Q1 to Q3.;The inner line splits the data in half.","The line inside the box marks the median."
+5,"What percent of the data lies below Q1 in a box plot?",25%|25 percent|25,60,Y,"Q1 is the first quartile.;Each quartile holds one fourth of the data.","25% of the data lies below Q1."

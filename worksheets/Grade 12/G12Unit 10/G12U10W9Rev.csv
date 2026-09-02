@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If f is continuous with f(2) = -5 and f(6) = 3, must f have a zero between 2 and 6? Enter Yes or No.",Yes|yes|Y|y,60,Y,The outputs change sign.;Zero lies between -5 and 3.,"Yes — the IVT guarantees a zero in (2, 6)."
+2,Does the intermediate value theorem tell you where the value occurs? Enter Yes or No.,No|no|N|n,60,Y,It is an existence theorem.;It guarantees a point but does not locate it.,No — it only guarantees existence.
+3,"A function jumps from 1 to 9 at x = 3 and is otherwise continuous on [0, 5]. Does the IVT apply on [0, 5]? Enter Yes or No.",No|no|N|n,60,Y,The theorem requires continuity on the whole closed interval.;A jump breaks it.,No — the function is not continuous on the interval.
+4,"If f is continuous with f(1) = 4 and f(5) = 4, must f take the value 4 somewhere in [1, 5]? Enter Yes or No.",Yes|yes|Y|y,60,Y,The endpoints already equal 4.;Any endpoint counts.,Yes — it takes the value 4 at the endpoints themselves.
+5,A polynomial has f(0) = -1 and f(2) = 7. What can you conclude about a root?,there is a root between 0 and 2|a zero lies in the interval|it has a root in that interval,60,Y,Polynomials are continuous.;The sign changes between the endpoints.,There is at least one root between 0 and 2.

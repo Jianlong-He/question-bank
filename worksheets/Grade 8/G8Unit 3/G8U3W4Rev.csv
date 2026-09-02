@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the slope of the line passing through the points (2, 7) and (5, -2).",-3,60,Y,"Use the slope formula (y₂-y₁)/(x₂-x₁)","(-2-7)/(5-2) = -9/3 = -3"
+2,"If a line passes through (0, -3) and (3, 3), what is the slope of the line?",2,60,Y,"Use the slope formula (y₂-y₁)/(x₂-x₁)","(3-(-3))/(3-0) = 6/3 = 2"
+3,"Fill: A plant is 5cm tall and grows 3cm per week. Write the linear model: $y = \_\_ x + 5$",3,60,Y,"The rate of change is the slope","y = 3x + 5"
+4,"Write the equation of the line with slope 2 that passes through the point (3, 5). What is the y-intercept?",-1,60,Y,"Use y = mx + b and substitute the point to find b","5 = 2(3) + b → b = -1"
+5,"A line passes through the points (3, 5) and (6, 14). What is the slope of the line?",3,60,Y,"Find how much y changes for each change in x","(14-5)/(6-3) = 9/3 = 3"

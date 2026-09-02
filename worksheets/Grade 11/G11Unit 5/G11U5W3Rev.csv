@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Condense log base 3 of x - log base 3 of y.",log base 3 of (x/y)|log_3(x/y),60,Y,"Reverse the quotient property.;A difference of logs becomes a log of a quotient.","The condensed form is log_3(x/y)."
+2,"Expand log base b of (x^2 y).",2 log base b of x+log base b of y|2log_b(x)+log_b(y),60,Y,"Use the product property first.;Then move the exponent in front.","log_b(x^2 y) = 2 log_b(x) + log_b(y)."
+3,"Condense 4 log base 10 of x.",log base 10 of x^4|log(x^4)|log_10(x^4),60,Y,"Reverse the power property.;The coefficient becomes an exponent.","4 log(x) = log(x^4)."
+4,"Evaluate log base 2 of 8 + log base 2 of 4 using the product property.",5,60,Y,"Combine into log base 2 of 32.;2^5 = 32.","log_2(8) + log_2(4) = log_2(32) = 5."
+5,"Evaluate log base 3 of 54 - log base 3 of 2 using the quotient property.",3,60,Y,"Combine into log base 3 of 27.;3^3 = 27.","log_3(54) - log_3(2) = log_3(27) = 3."

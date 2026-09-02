@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A dilation with scale factor 4 maps a side of length 3 to what length?",12,60,Y,"Multiply the original length by the scale factor.;Compute 3 × 4.","The image side length is 12."
+2,"A figure is dilated by scale factor 3. By what factor is its area multiplied?",9,60,Y,"Area depends on two dimensions.;Square the scale factor.","The area factor is 3^2 = 9."
+3,"A 70-degree angle is dilated by scale factor 6. What is its image measure?",70 degrees|70|70°,60,Y,"Dilations preserve angle measure.;The factor affects lengths, not angles.","The image angle measures 70 degrees."
+4,"Under a dilation, what happens to a line that passes through the center of dilation?",it maps to itself|maps to itself|the same line|itself,60,Y,"Every image point stays on a ray from the center.;The original and image rays lie on one line.","The line maps to itself."
+5,"A dilation with scale factor 1/2 maps a side of length 10 to what length?",5,60,Y,"Multiply by 1/2.;Half of 10 is 5.","The image side length is 5."

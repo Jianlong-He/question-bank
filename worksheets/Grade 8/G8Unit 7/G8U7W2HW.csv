@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A student records the hours studied (x) and test scores (y). If one point is $(4, 85)$, what does the x-value 4 represent?",hours|Hours,60,Y,"The x-value is the first coordinate","Hours studied"
+2,"Fill: A scatter plot shows shoe size on the x-axis and height on the y-axis. If a point is $(8, 148)$, what does 148 represent?",height|Height,60,Y,"Interpret the y-axis","The person's height"
+3,"Fill: A scatter plot shows smoking rates dropping from 38 to 15 over several years. Is the trend increasing or decreasing?",decreasing|Decreasing,60,Y,"Look at the direction of the values over time",decreasing
+4,"Fill: A regression line is $y = 3x + 4$. Estimate $y$ when $x = 5$.",19,60,Y,"Substitute x into the equation","$3(5) + 4 = 19$"
+5,"Fill: A class survey counts who prefers cats or dogs. If 14 prefer cats and 21 prefer dogs, how many students were surveyed?",35,60,Y,"Add the frequencies together","$14 + 21 = 35$"

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve for $x$: $x^3 = 8$",2,60,Y,"What number multiplied by itself 3 times equals 8?","$2 \cdot 2 \cdot 2 = 8$"
+2,"Fill: Simplify $\frac{5^8}{5^5} = 5^{\_\_}$",3,60,Y,"When dividing like bases, subtract the exponents","$8 - 5 = 3$"
+3,"Fill: $(3^2)^4 = 3^{\_\_}$",8,60,Y,"Power of a power means multiply the exponents","$2 \cdot 4 = 8$"
+4,"Select the integer closest to $\sqrt{40}$: 5 6 7 8",6,60,Y,"$6^2 = 36$ and $7^2 = 49$;40 is closer to 36","$\sqrt{40}$ is between 6 and 7, closer to 6"
+5,"Convert $\frac{2}{5}$ to a decimal",0.4,60,Y,"Divide 2 by 5","$2 \div 5 = 0.4$"

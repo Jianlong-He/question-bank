@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"How many ways can exactly 1 success be placed among 6 trials?",6,60,Y,"Use the combination 6 choose 1.;There are 6 positions.","C(6, 1) = 6."
+2,"A fair coin is flipped 3 times. What is the probability of exactly 3 heads? Give a fraction.",1/8,60,Y,"Each flip has probability 1/2.;Multiply (1/2)^3.","The probability is 1/8."
+3,"How many ways can exactly 3 successes be placed among 4 trials?",4,60,Y,"Use the combination 4 choose 3.;Choosing 3 of 4 leaves out 1.","C(4, 3) = 4."
+4,"Is rolling a die and recording whether it shows a 6 a two-outcome trial? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Define success as rolling a 6.;Everything else is failure.","Yes — success (a 6) or failure (not a 6)."
+5,"A player makes each free throw with probability 0.5. What is the probability of exactly 1 make in 2 shots? Give a fraction.",1/2,60,Y,"There are 2 arrangements of one make.;Each arrangement has probability 1/4.","2 × (1/4) = 1/2."

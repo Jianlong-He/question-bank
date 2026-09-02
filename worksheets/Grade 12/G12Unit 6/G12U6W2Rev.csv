@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Multiply the vector (-1, 6) by the scalar 3. Enter x then y.","-3, 18",60,Y,"Multiply each component by 3.;Keep both signs.","3(-1, 6) = (-3, 18)."
+2,"Add the vectors (2, -5) and (4, 5). Enter x then y.","6, 0",60,Y,"Add corresponding components.;The y-components cancel.","The sum is (6, 0)."
+3,"Multiply the vector (2, 3) by the scalar -1. Enter x then y.","-2, -3",60,Y,"Multiply each component by -1.;Both signs flip.","The result is (-2, -3)."
+4,"Vector v has magnitude 7. What is the magnitude of 2v?",14,60,Y,"Scalar multiplication scales the magnitude.;Compute 2 × 7.","The magnitude of 2v is 14."
+5,"Subtract (3, 3) from (3, 3). Enter x then y.","0, 0",60,Y,"Subtract corresponding components.;Each difference is zero.","The result is the zero vector (0, 0)."

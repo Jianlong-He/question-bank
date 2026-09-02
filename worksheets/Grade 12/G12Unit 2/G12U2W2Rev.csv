@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Complete the identity: sin(A - B) = ___.",sin(A)cos(B)-cos(A)sin(B),60,Y,"Sine keeps the operation's sign.;Use sine-cosine minus cosine-sine.","sin(A-B) = sin(A)cos(B) - cos(A)sin(B)."
+2,"Complete the identity: cos(A - B) = ___.",cos(A)cos(B)+sin(A)sin(B),60,Y,"Cosine flips the sign.;Use cosine-cosine plus sine-sine.","cos(A-B) = cos(A)cos(B) + sin(A)sin(B)."
+3,"Use sin(2x) = 2sin(x)cos(x) with sin(x) = 3/5 and cos(x) = 4/5 to find sin(2x).",24/25,60,Y,"Multiply 2 × (3/5) × (4/5).;Compute the product.","sin(2x) = 2(3/5)(4/5) = 24/25."
+4,"Write cos(2x) using only cos^2(x).",2cos^2(x)-1,60,Y,"Replace sin^2 with 1 - cos^2.;Simplify cos^2 - (1 - cos^2).","cos(2x) = 2cos^2(x) - 1."
+5,"Write cos(2x) using only sin^2(x).",1-2sin^2(x),60,Y,"Replace cos^2 with 1 - sin^2.;Simplify (1 - sin^2) - sin^2.","cos(2x) = 1 - 2sin^2(x)."

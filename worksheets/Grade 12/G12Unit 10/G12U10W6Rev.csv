@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"How many conditions must hold for f to be continuous at x = a?",3|three,60,Y,"Value, limit, and their agreement.;Count them.","There are three conditions."
+2,"A graph jumps from y = 2 to y = 5 at x = 1. What type of discontinuity is this?",jump discontinuity|jump|a jump,60,Y,"The one-sided limits differ but are finite.;The graph breaks.","It is a jump discontinuity."
+3,"A graph has a vertical asymptote at x = 4. What type of discontinuity is this?",infinite discontinuity|infinite|asymptotic discontinuity,60,Y,"The outputs grow without bound.;A vertical asymptote is present.","It is an infinite discontinuity."
+4,"Is f(x) = 1/x continuous at x = 0? Enter Yes or No.",No|no|N|n,60,Y,"f(0) is undefined.;The first condition fails.","No — f(0) does not exist."
+5,"If lim x->2 f(x) = 5 and f(2) = 5, is f continuous at x = 2? Enter Yes or No.",Yes|yes|Y|y,60,Y,"The value exists, the limit exists, and they agree.;All three conditions hold.","Yes — f is continuous at x = 2."

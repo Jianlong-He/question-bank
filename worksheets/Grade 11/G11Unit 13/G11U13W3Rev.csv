@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"For y = 1/(x + 7), what is the vertical asymptote?",x=-7|x = -7,60,Y,"The parent asymptote x = 0 shifts left 7.;Set the denominator to zero.","The vertical asymptote is x = -7."
+2,"For y = 1/x + 9, what is the horizontal asymptote?",y=9|y = 9,60,Y,"The outside constant shifts the parent asymptote y = 0.;Add 9.","The horizontal asymptote is y = 9."
+3,"For y = 1/(x - 1) - 2, what are the asymptotes? Enter the vertical then the horizontal.","x=1, y=-2|x = 1, y = -2",60,Y,"The inside shift moves x = 0 to x = 1.;The outside shift moves y = 0 to y = -2.","The asymptotes are x = 1 and y = -2."
+4,"How many branches does the graph of y = 1/x have?",2|two,60,Y,"One branch lies in the first quadrant.;The other lies in the third.","The graph has two branches."
+5,"What is the domain of y = 1/(x - 2)?",all real numbers except 2|x not equal to 2|x≠2,60,Y,"The denominator cannot be zero.;Exclude the asymptote value.","The domain is all real numbers except x = 2."

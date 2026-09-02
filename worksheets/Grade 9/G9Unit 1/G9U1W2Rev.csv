@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Combine like terms: (2/3)x + (1/6)x.",(5/6)x|5x/6,60,Y,"Rewrite 2/3 with denominator 6.|Add the coefficients.","4/6 + 1/6 = 5/6 → (5/6)x."
+2,"Simplify -3(2m - 5) + 8m.",2m + 15|2m+15,60,Y,"Distribute -3 carefully.|Then combine -6m and 8m.","-6m + 15 + 8m = 2m + 15."
+3,"Simplify 5x - 3 + 2(6 - x).",3x + 9|3x+9,60,Y,"Distribute 2 across 6 - x.|Combine the x-terms and constants.","5x - 3 + 12 - 2x = 3x + 9."
+4,"Evaluate 3(2x - 1) - 4x + 5 when x = -1.",0,60,Y,"Simplify the expression before substituting.|It simplifies to 2x + 2.","6x - 3 - 4x + 5 = 2x + 2; at x = -1: 0."
+5,"Evaluate (3/4)x - (1/4)x + 5 when x = 8.",9,60,Y,"Combine the fractional coefficients first.|3/4 - 1/4 = 1/2.","(1/2)(8) + 5 = 9."

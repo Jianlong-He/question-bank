@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Evaluate lim x->1 of 4x^3 - x by direct substitution.",3,60,Y,"Polynomials are continuous.;Substitute x = 1.","4(1) - 1 = 3."
+2,"Evaluate lim x->0 of (x + 5)/(x - 5).",-1,60,Y,"The denominator is nonzero at 0.;Substitute directly.","The limit is 5/(-5) = -1."
+3,"Evaluate lim x->pi/2 of sin(x).",1,60,Y,"Sine is continuous.;Substitute pi/2.","The limit is 1."
+4,"Evaluate lim x->4 of sqrt(x).",2,60,Y,"The square root is continuous for x > 0.;Substitute 4.","The limit is 2."
+5,"For which functions does direct substitution always work?",continuous functions|continuous ones|functions continuous at the point,60,Y,"Continuity connects the limit to the value.;Polynomials are an example.","Direct substitution works for functions continuous at that point."

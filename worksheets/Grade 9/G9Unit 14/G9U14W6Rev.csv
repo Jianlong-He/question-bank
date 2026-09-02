@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A rumor reaches 3 people on day 1 and triples each day. Write the count after n days.",R=3*3^(n-1)|3*3^(n-1)|R=3(3)^(n-1),60,Y,"Day 1 has 3 people and each day multiplies by 3.;Use a geometric model with n - 1 steps.","The model is R = 3 × 3^(n-1)."
+2,"A population starts at 500 and triples every cycle. Find the population after 3 cycles.",13500,60,Y,"Use 500 × 3^3.;3^3 = 27.","The population is 500(27) = 13,500."
+3,"The values 8, 16, 32, 64 form a linear or exponential pattern?",exponential,60,Y,"Check consecutive ratios.;Each value doubles.","The ratios are constant at 2, so the pattern is exponential."
+4,"The values 100, 90, 80, 70 form a linear or exponential pattern?",linear,60,Y,"Check consecutive differences.;Each value decreases by 10.","The differences are constant at -10, so the pattern is linear."
+5,"An investment of $1000 grows by 10% per year. Find its value after 2 years.",1210|$1210,60,Y,"Multiply by 1.1 twice.;1000 × 1.1 = 1100.","1100 × 1.1 = $1210."

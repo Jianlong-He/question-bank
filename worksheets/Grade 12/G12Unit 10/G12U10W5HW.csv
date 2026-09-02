@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"State the squeeze theorem in words.",a function trapped between two functions with the same limit has that limit|trapped function shares the common limit,60,Y,"Compare a lower and an upper bound.;Both bounding limits must agree.","If g <= f <= h and g and h approach L, then f approaches L."
+2,"If -x^2 <= f(x) <= x^2 near 0, find lim x->0 f(x).",0,60,Y,"Both bounds approach 0.;Apply the squeeze theorem.","The limit is 0."
+3,"Evaluate lim x->0 of sin(x)/x.",1,60,Y,"This is the fundamental trigonometric limit.;Angles are in radians.","The limit is 1."
+4,"Evaluate lim x->0 of sin(4x)/x.",4,60,Y,"Multiply and divide by 4.;Use sin(4x)/(4x) -> 1.","The limit is 4."
+5,"Evaluate lim x->0 of sin(2x)/(3x).",2/3,60,Y,"Rewrite as (2/3)·sin(2x)/(2x).;The fraction sin(2x)/(2x) approaches 1.","The limit is 2/3."

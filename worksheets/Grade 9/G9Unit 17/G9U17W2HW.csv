@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Two angles of a triangle measure 52 degrees and 71 degrees. Find the third angle.",57 degrees|57|57°,60,Y,"Triangle angles sum to 180 degrees.;Subtract 52 + 71 from 180.","The third angle is 180 - 123 = 57 degrees."
+2,"Triangle ABC is congruent to triangle DEF in that order. Which vertex corresponds to C?",F|vertex F|point F,60,Y,"Match positions in the congruence statement.;C is third and F is third.","Vertex C corresponds to vertex F."
+3,"Triangle ABC is congruent to triangle DEF. If BC = 9, what is EF?",9,60,Y,"BC corresponds to EF.;Corresponding parts of congruent triangles are congruent.","EF = BC = 9."
+4,"Triangle ABC is congruent to triangle DEF. If angle A = 64 degrees, what is angle D?",64 degrees|64|64°,60,Y,"A corresponds to D.;Use CPCTC.","Angle D measures 64 degrees."
+5,"AB = DE, angle A = angle D, and AC = DF. Which criterion proves triangle ABC congruent to triangle DEF?",SAS|side-angle-side,60,Y,"The angle is between the two sides.;Two sides and the included angle match.","The SAS criterion proves the congruence."

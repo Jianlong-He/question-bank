@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"When multiplying complex numbers in polar form, what happens to their moduli?",they are multiplied|multiply the moduli|the moduli multiply,60,Y,"Polar multiplication separates size and angle.;The scale factors combine by multiplication.","The moduli are multiplied."
+2,"When multiplying complex numbers in polar form, what happens to their arguments?",they are added|add the arguments|the arguments add,60,Y,"Rotations combine.;Successive rotations add their angles.","The arguments are added."
+3,"When dividing complex numbers in polar form, what happens to their arguments?",they are subtracted|subtract the arguments|the arguments subtract,60,Y,"Division reverses the divisor's rotation.;Use theta1 - theta2.","The divisor's argument is subtracted."
+4,"Two complex numbers have moduli 3 and 5. What is the modulus of their product?",15,60,Y,"Multiply the moduli.;3 × 5 = 15.","The product's modulus is 15."
+5,"Two complex numbers have arguments pi/6 and pi/3. What is the argument of their product?",pi/2|π/2,60,Y,"Add the arguments.;pi/6 + pi/3 = pi/6 + 2pi/6.","The argument is 3pi/6 = pi/2."

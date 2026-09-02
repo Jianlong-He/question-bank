@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A baker makes cakes c and pies p. At most 15 items can be made. Write the constraint.",c+p<=15|c + p <= 15,60,Y,"Add the two item counts.","c + p <= 15."
+2,"Each cake takes 2 hours and each pie takes 3 hours. At most 36 hours are available. Write the constraint.",2c+3p<=36|2c + 3p <= 36,60,Y,"Multiply each count by its time.","2c + 3p <= 36."
+3,"For c + p <= 15 and 2c + 3p <= 36, is (6, 8) feasible? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Check both constraints.|6 + 8 = 14 and 2(6) + 3(8) = 36.","Both hold → Yes."
+4,"A fruit mix uses apples a and oranges o. At least 25 fruits are needed. Write the constraint.",a+o>=25|a + o >= 25,60,Y,"At least includes equality.","a + o >= 25."
+5,"In a real-world system where x and y count objects, which two basic inequalities usually apply?","x>=0,y>=0|x >= 0, y >= 0",60,Y,"Object counts cannot be negative.","x >= 0 and y >= 0."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the multiplicity of the zero x = -1 in f(x) = (x + 1)^2(x - 6)^3?",2,60,Y,"Read the exponent on the factor x + 1.;Multiplicity equals the exponent.","The zero x = -1 has multiplicity 2."
+2,"In f(x) = (x + 1)^2(x - 6)^3, does the graph cross or touch the x-axis at x = 6?",cross|crosses,60,Y,"The multiplicity at x = 6 is 3, which is odd.;Odd multiplicity means a sign change.","The graph crosses the x-axis at x = 6."
+3,"In f(x) = (x + 1)^2(x - 6)^3, does the graph cross or touch the x-axis at x = -1?",touch|touches|bounce|bounces,60,Y,"The multiplicity at x = -1 is 2, which is even.;Even multiplicity means no sign change.","The graph touches the x-axis at x = -1."
+4,"What is the degree of f(x) = (x + 1)^2(x - 6)^3?",5,60,Y,"Add the multiplicities.;2 + 3 = 5.","The degree is 5."
+5,"Write a polynomial with a double zero at x = 4 and a single zero at x = 0.",x(x-4)^2|f(x)=x(x-4)^2|y=x(x-4)^2,60,Y,"A double zero gives a squared factor.;Include the factor x for the zero at 0.","One such polynomial is f(x) = x(x - 4)^2."

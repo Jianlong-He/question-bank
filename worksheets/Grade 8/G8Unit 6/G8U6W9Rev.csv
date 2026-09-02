@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Are a pre-image and its dilated image congruent or similar?",similar|Similar,60,Y,"Congruent means identical in size. Dilations change the size",similar
+2,"Fill: Under a dilation with scale factor $k$, point $(5, 4)$ becomes $(20, 16)$. What is $k$?",4,60,Y,"Divide the new x-value by the old x-value","$20/5 = 4$"
+3,"Fill: Scale a triangle with vertex $(12, -6)$ by a factor of $1/2$. What is the new x-coordinate?",6,60,Y,"Multiply the x-coordinate by $1/2$","$12 \cdot 1/2 = 6$"
+4,"Select which property is NOT preserved under a dilation where $k \neq 1$: ""Angle measures"" ""Orientation"" ""Side lengths""","""Side lengths""",60,Y,"Dilations enlarge or shrink the size of the shape","Side lengths change"
+5,"Fill: Two figures have the same exact shape but different sizes. What is the geometric term for their relationship?",similar|Similar,60,Y,"Think about the result of a dilation",similar

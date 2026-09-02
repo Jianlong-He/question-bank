@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Does (1, 2) satisfy both y >= x and y <= -x + 4? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Check 2 >= 1.|Then check 2 <= 3.","Yes."
+2,"A solution to a system of inequalities lies in what part of its graph?",overlap|overlapping region|intersection|intersection region,60,Y,"It must satisfy every inequality.","The overlapping region."
+3,"Does (3, 1) satisfy y > 0 and x + y <= 4? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Check each inequality separately.","1 > 0 and 4 <= 4 → Yes."
+4,"Does (2, -3) satisfy y >= -2 and y < 3x? Enter Yes or No.",No|no|N|n,60,Y,"Start with y >= -2.","-3 >= -2 is false → No."
+5,"Is a point on a dashed boundary included in the solution set? Enter Yes or No.",No|no|N|n,60,Y,"A dashed boundary represents < or >.","No."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Complete the addition rule: P(A or B) = P(A) + P(B) - ___.",P(A and B)|P(A intersection B),60,Y,"The overlap is counted twice by addition.;Subtract the intersection once.","The missing term is P(A and B)."
+2,"If A and B are mutually exclusive, what is P(A and B)?",0|zero,60,Y,"Mutually exclusive events cannot occur together.;Their intersection is empty.","P(A and B) = 0."
+3,"If P(A) = 0.5, P(B) = 0.4, and P(A and B) = 0.1, find P(A or B).",0.8,60,Y,"Use the addition rule.;Compute 0.5 + 0.4 - 0.1.","P(A or B) = 0.8."
+4,"For independent events, complete P(A and B) = ___.",P(A)P(B)|P(A)*P(B),60,Y,"Independence allows direct multiplication.;One event does not change the other's probability.","P(A and B) = P(A)P(B)."
+5,"A fair coin is flipped three times. Find the probability of three heads.",1/8|0.125,60,Y,"The flips are independent.;Multiply (1/2)(1/2)(1/2).","The probability is 1/8."

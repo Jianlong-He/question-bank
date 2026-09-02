@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Simplify (4x^2 + x - 2) + (2x^2 - 5x + 9).",6x^2-4x+7|6x^2 - 4x + 7,60,Y,"Combine like terms.;Add coefficients of equal powers.","The sum is 6x^2 - 4x + 7."
+2,"Simplify (9x^3 + 2x^2 - 4) - (5x^3 - x^2 + 3).",4x^3+3x^2-7|4x^3 + 3x^2 - 7,60,Y,"Distribute the minus sign.;Then combine like terms.","The difference is 4x^3 + 3x^2 - 7."
+3,"Find P(x) - Q(x) if P(x) = 6x^2 + 2x - 1 and Q(x) = 2x^2 - 3x + 4.",4x^2+5x-5|4x^2 + 5x - 5,60,Y,"Subtract all terms of Q.;Use 6 - 2, 2 - (-3), and -1 - 4.","P(x) - Q(x) = 4x^2 + 5x - 5."
+4,"What term results from adding 5x^4 and -9x^4?",-4x^4,60,Y,"Both terms have the same power.;Add the coefficients.","5x^4 + (-9x^4) = -4x^4."
+5,"Is the sum of two polynomials always a polynomial? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Adding combines like terms.;No division or negative exponents appear.","Yes — polynomials are closed under addition."

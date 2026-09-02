@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the multiplicity of the zero x = 3 in f(x) = (x - 3)^4(x + 2)?",4,60,Y,"Read the exponent on the factor x - 3.;Multiplicity equals that exponent.","The zero x = 3 has multiplicity 4."
+2,"Does a graph usually cross or touch the x-axis at a zero with odd multiplicity?",cross|crosses,60,Y,"Odd powers change sign.;A sign change produces a crossing.","At an odd-multiplicity zero the graph crosses the x-axis."
+3,"Does a graph usually cross or touch the x-axis at a zero with even multiplicity?",touch|touches|bounce|bounces,60,Y,"Even powers do not change sign.;The graph turns around at the axis.","At an even-multiplicity zero the graph touches the x-axis."
+4,"For f(x) = (x + 5)^2(x - 2), which zero has even multiplicity?",-5,60,Y,"Look for the squared factor.;The factor x + 5 is squared.","The zero -5 has multiplicity 2."
+5,"For f(x) = (x + 5)^2(x - 2), which zero has odd multiplicity?",2,60,Y,"Look for the factor with exponent 1.;The factor x - 2 appears once.","The zero 2 has multiplicity 1."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the determinant of [[a, b], [c, d]].",ad-bc|ad - bc,60,Y,"Multiply the main diagonal entries.;Subtract the other diagonal product.","The determinant is ad - bc."
+2,"Find det([[3, 2], [1, 4]]).",10,60,Y,"Use ad - bc.;Compute 3(4) - 2(1).","The determinant is 12 - 2 = 10."
+3,"A transformation matrix has determinant 5. By what factor are areas scaled?",5,60,Y,"The absolute determinant gives the area scale.;It is already positive.","Areas are multiplied by 5."
+4,"A transformation matrix has determinant -3. By what factor are areas scaled?",3,60,Y,"Area scale uses the absolute value.;The sign indicates orientation.","Areas are multiplied by 3."
+5,"What does a negative determinant indicate about orientation?",orientation is reversed|a reflection|orientation reversal,60,Y,"The transformation flips the plane.;Compare to a mirror image.","A negative determinant means orientation is reversed."

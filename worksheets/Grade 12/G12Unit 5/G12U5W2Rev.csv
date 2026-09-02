@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the center of (y + 1)^2/25 - (x - 2)^2/16 = 1. Enter x then y.","2, -1",60,Y,"Read h from x - h and k from y - k.;The signs flip.","The center is (2, -1)."
+2,"Find the vertex y-values of y^2/9 - x^2/4 = 1. Enter them in increasing order.","-3, 3",60,Y,"The transverse semi-axis is 3 in the y-direction.;Move up and down from the center.","The vertex y-values are -3 and 3."
+3,"Is x^2/9 - y^2/25 = 1 a horizontal or vertical hyperbola?",horizontal|Horizontal,60,Y,"The positive term tells the direction.;Here x^2 is positive.","It is a horizontal hyperbola."
+4,"Is y^2/4 - x^2/16 = 1 a horizontal or vertical hyperbola?",vertical|Vertical,60,Y,"The positive term tells the direction.;Here y^2 is positive.","It is a vertical hyperbola."
+5,"How many branches does a hyperbola have?",2|two,60,Y,"The two vertices lie on separate curves.;Each opens away from the center.","A hyperbola has two branches."

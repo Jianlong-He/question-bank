@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What general shape does a normal distribution have?",bell shaped|bell-shaped|a bell curve|bell curve,60,Y,"The graph has one central peak.;Both tails taper away.","A normal distribution is bell shaped."
+2,"A normal distribution is symmetric about which value?",the mean|mean,60,Y,"The center is also the median and mode.;The halves mirror each other.","It is symmetric about its mean."
+3,"About what percent of normally distributed data lie within 1 standard deviation of the mean?",68%|68 percent|68,60,Y,"Use the empirical rule.;Recall the 68-95-99.7 pattern.","About 68% lie within one standard deviation."
+4,"About what percent of normally distributed data lie within 2 standard deviations of the mean?",95%|95 percent|95,60,Y,"Use the second part of the empirical rule.;Recall 68-95-99.7.","About 95% lie within two standard deviations."
+5,"Heights have mean 170 cm and standard deviation 5 cm. Between which two heights do about 68% of people fall? Enter the lower then upper value.","165, 175",60,Y,"Go one standard deviation each way.;170 - 5 and 170 + 5.","About 68% fall between 165 cm and 175 cm."

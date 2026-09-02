@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Write the 2x2 identity matrix's first row. Enter both entries.","1, 0",60,Y,"Ones lie on the main diagonal.;Zeros fill the rest.","The first row is (1, 0)."
+2,"What size identity matrix multiplies a 2x5 matrix A on the left?",2x2|2 by 2,60,Y,"The left identity uses the row count.;A has 2 rows.","I_2, a 2x2 identity matrix."
+3,"Does A(B + C) = AB + AC when the products are defined? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Matrix multiplication distributes over addition.;Expand each product.","Yes — the distributive property holds."
+4,"What is the result of multiplying any matrix by the zero matrix of compatible size?",the zero matrix|zero matrix|O,60,Y,"Every dot product is a sum of zeros.;The result has all zero entries.","The product is the zero matrix."
+5,"Does A + B = B + A for matrices of the same size? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Addition is entry by entry.;Number addition is commutative.","Yes — matrix addition is commutative."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A regression line predicts 68 when $x = 6$. If the actual data point is 73, what is the residual?",5,60,Y,"Residual = Actual value - Predicted value","$73 - 68 = 5$"
+2,"Fill: A two-way table shows: 20 students like math, 14 like science, and 6 like both. How many like ONLY math?",14,60,Y,"Subtract the intersection (both) from the total who like math","$20 - 6 = 14$"
+3,"Fill: A scatter plot shows the points $(2, 5)$, $(4, 11)$, $(6, 17)$. What is the slope of the line through them?",3,60,Y,"Use the slope formula: rise / run","$(11-5)/(4-2) = 3$"
+4,"Fill: A table has 50 students. 20 play sports, 15 are in band, and 8 do both. How many do neither?",23,60,Y,"Find how many do at least one activity, then subtract from the total","At least one: $20+15-8 = 27$; Neither: $50-27 = 23$"
+5,"Fill: A trend line has slope 3. As x increases, y will \_\_\_\_\_ (increase/decrease).",increase|Increase,60,Y,"A positive slope means the line goes upwards",increase

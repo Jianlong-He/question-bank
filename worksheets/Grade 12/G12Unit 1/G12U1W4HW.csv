@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What should both f(g(x)) and g(f(x)) equal when f and g are inverses?",x|the identity function,60,Y,"Inverse operations undo each other.;Both orders must return the input.","Both compositions equal x."
+2,"Let f(x) = 4x + 1 and g(x) = (x - 1)/4. Are they inverses? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Compose in both orders.;Each composition simplifies to x.","Yes — both compositions equal x."
+3,"For f(x) = 4x + 1 and g(x) = (x - 1)/4, find f(g(9)).",9,60,Y,"Evaluate g(9) first.;Then apply f.","g(9) = 2 and f(2) = 9."
+4,"For f(x) = 4x + 1 and g(x) = (x - 1)/4, find g(f(-3)).",-3,60,Y,"Evaluate f(-3) first.;Then apply g.","f(-3) = -11 and g(-11) = -3."
+5,"Are f(x) = x + 2 and g(x) = x - 3 inverses? Enter Yes or No.",No|no|N|n,60,Y,"Compose the functions.;f(g(x)) = x - 1, not x.","No — the compositions do not return x."

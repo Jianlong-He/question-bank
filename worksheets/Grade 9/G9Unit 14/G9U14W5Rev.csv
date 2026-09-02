@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A table has points (0, 4), (1, 8), and (2, 16). Write its exponential rule.",y=4*2^x|4*2^x|y=4(2)^x,60,Y,"The initial value is 4.;The common ratio is 8/4 = 2.","The rule is y = 4 × 2^x."
+2,"An exponential graph has y-intercept 3 and its output triples when x increases by 1. Write its rule.",y=3*3^x|3*3^x|y=3(3)^x,60,Y,"The y-intercept is the initial value.;Tripling gives a factor of 3.","The rule is y = 3 × 3^x."
+3,"For y = 2(3)^x, find y when x = 3.",54,60,Y,"Substitute x = 3.;Compute 2 × 27.","y = 2(27) = 54."
+4,"A table has y-values 5, 10, 15 for x = 0, 1, 2. Is the pattern exponential? Enter Yes or No.",No|no|N|n,60,Y,"Check the ratios: 10/5 = 2 but 15/10 = 1.5.;They are not constant.","The ratios differ, so the pattern is not exponential — it is linear."
+5,"Is y = 0.5(4)^x increasing or decreasing?",increasing,60,Y,"The base is 4, greater than 1.;The coefficient does not change the direction.","The rule is increasing."

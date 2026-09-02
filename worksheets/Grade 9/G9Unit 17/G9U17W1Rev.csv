@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A reflection maps figure P onto figure Q exactly. Are P and Q congruent? Enter Yes or No.",Yes|yes|Y|y,60,Y,"A reflection is a rigid motion.;Rigid motions preserve size and shape.","Yes — the figures are congruent."
+2,"Two segments have lengths 8 and 8. Are they congruent? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Segments are congruent when lengths match.;Both are 8.","Yes — equal lengths mean congruent segments."
+3,"Two angles measure 30 degrees and 60 degrees. Are they congruent? Enter Yes or No.",No|no|N|n,60,Y,"Congruent angles need equal measures.;30 ≠ 60.","No — the measures differ."
+4,"A dilation with scale factor 1 maps one figure to another. Are they congruent? Enter Yes or No.",Yes|yes|Y|y,60,Y,"A factor of 1 leaves lengths unchanged.;The image equals the original in size.","Yes — scale factor 1 preserves all lengths."
+5,"Which transformations preserve both distance and angle measure: rigid motions or dilations with factor 2?",rigid motions|rigid transformations,60,Y,"One kind changes lengths.;The other preserves everything.","Rigid motions preserve both distance and angle measure."

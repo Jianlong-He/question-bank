@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A rotation maps a segment of length 7 to its image. What is the image length?",7,60,Y,"Rotations are rigid transformations.;Distances are preserved.","The image length is 7."
+2,"A reflection maps a 105-degree angle to its image. What is the image angle measure?",105 degrees|105|105°,60,Y,"Reflections preserve angle measures.;Flipping does not change the opening.","The image angle measures 105 degrees."
+3,"Does a translation preserve the perimeter of a figure? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Translations preserve all lengths.;The perimeter is a sum of lengths.","Yes — the perimeter is unchanged."
+4,"Triangle ABC maps to triangle DEF with A -> D, B -> E, C -> F. Which angle corresponds to angle C?",F|angle F,60,Y,"Match positions in the mapping.;C maps to F.","Angle C corresponds to angle F."
+5,"Which of these is NOT a rigid transformation: translation, rotation, reflection, or dilation?",dilation|a dilation,60,Y,"Rigid transformations preserve lengths.;One of the four changes size.","A dilation changes lengths, so it is not rigid."

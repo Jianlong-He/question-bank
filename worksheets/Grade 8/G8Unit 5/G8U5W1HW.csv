@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: If two supplementary angles are $x$ and $120^\circ$, find $x$.",60,60,Y,"Supplementary angles add up to 180 degrees","180 - 120 = 60"
+2,"Fill: The sum of angles in any triangle is $\_\_^\circ$",180,60,Y,"It is a constant for all triangles",180
+3,"Fill: A triangle has interior angles of $90^\circ$ and $40^\circ$. Find the third angle.",50,60,Y,"The sum of all three angles must be 180 degrees","180 - 130 = 50"
+4,"Lines $m$ and $n$ are parallel. If Angle 1 is $125^\circ$ find its Alternate Interior angle.",125,60,Y,"Alternate interior angles are equal",125
+5,"Fill: The exterior angle of a triangle is $110^\circ$. One remote interior angle is $40^\circ$. Find the other remote interior angle.",70,60,Y,"The exterior angle equals the sum of the two remote interior angles","$40 + x = 110$ → $x = 70$"

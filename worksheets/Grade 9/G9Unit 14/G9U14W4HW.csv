@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A $10,000 car loses 20% of its value each year. Write its value model after t years.",V=10000*0.8^t|10000*0.8^t|V=10000(0.8)^t,60,Y,"The remaining percent is 80%.;Use initial value times decay factor to the t power.","The model is V = 10000(0.8)^t."
+2,"Using V = 10000(0.8)^t, find the car's value after 2 years.",6400|$6400,60,Y,"Substitute t = 2.;Compute 10000 × 0.64.","V = 10000(0.64) = $6400."
+3,"A population decreases by 4% each year. What is its decay factor?",0.96,60,Y,"Subtract the rate from 1.;4% = 0.04.","The decay factor is 1 - 0.04 = 0.96."
+4,"A quantity starts at 60 and halves each step. Write its model.",y=60*0.5^n|60*0.5^n|y=60(0.5)^n,60,Y,"Halving means multiply by 0.5.;Use 60 as the initial value.","The model is y = 60(0.5)^n."
+5,"A table has y-values 200, 100, 50 for x = 0, 1, 2. Write its exponential rule.",y=200*0.5^x|200*0.5^x|y=200(0.5)^x,60,Y,"The initial value is 200.;The common ratio is 100/200 = 0.5.","The rule is y = 200(0.5)^x."

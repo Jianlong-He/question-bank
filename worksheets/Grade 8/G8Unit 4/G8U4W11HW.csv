@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Solve the system: $3x + 2y = 16$ and $3x + y = 11$. Find $y$.",5,60,Y,"Subtract the second equation from the first","$(2y - y) = 16 - 11$ → $y = 5$"
+2,"Fill: The sum of two numbers is 24. Their difference is 6. Find the larger number.",15,60,Y,"Set up system: $x+y=24$ and $x-y=6$;Add equations","$2x = 30$ → $x = 15$"
+3,"How many solutions does this system have? $y = 2x + 3$ and $y = 2x + 7$. Select: One None Infinite",None,60,Y,"Compare slopes ($m$) and intercepts ($b$)","Same slope, different intercepts → None"
+4,"Fill: 2 tacos and 1 drink cost $\$8$. 1 taco and 1 drink cost $\$6$. How much is 1 taco?",2,60,Y,"Subtract equation 2 from equation 1","$(2t+d) - (t+d) = 8 - 6$ → $t = 2$"
+5,"Fill: If $y = 3x$ and $5x - y = 8$, solve for $x$.",4,60,Y,"Substitute $3x$ for $y$ in the second equation","$5x - 3x = 8$ → $2x = 8$ → $x = 4$"

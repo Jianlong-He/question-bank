@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"According to the fundamental theorem of algebra, how many complex roots does a degree n polynomial have, counting multiplicity?",n,60,Y,"The degree controls the total root count.;Repeated roots count repeatedly.","It has exactly n complex roots counting multiplicity."
+2,"How many complex roots does a quartic (degree 4) polynomial have, counting multiplicity?",4|four,60,Y,"Apply the fundamental theorem of algebra.;The degree is 4.","A quartic has four complex roots counting multiplicity."
+3,"How many complex roots does a quadratic have, counting multiplicity?",2|two,60,Y,"The degree is 2.;Apply the fundamental theorem.","A quadratic has two complex roots counting multiplicity."
+4,"Must every real polynomial of odd degree have at least one real root? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Complex roots come in conjugate pairs.;An odd count cannot be all pairs.","Yes — at least one root must be real."
+5,"A degree 5 real polynomial has roots 2i and -2i. At most how many other complex (non-real) roots can it have?",2|two,60,Y,"Non-real roots come in pairs.;Only one more pair fits in degree 5.","At most one more conjugate pair — 2 non-real roots."

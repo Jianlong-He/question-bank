@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A scatter plot shows a positive trend between study time and grades. If study time increases by 1 hour, grades are expected to \_\_\_\_\_ (increase/decrease).",increase|Increase,60,Y,"Positive trend means both variables move in the same direction",increase
+2,"Fill: In 1950, the average number of cigarettes smoked per person was 9 per day, and by 1965 it was 13. What is the difference?",4,60,Y,"Subtract the earlier value from the later value","$13 - 9 = 4$"
+3,"Fill: A trend line has a negative slope. What does this tell you about the relationship? (positive/negative)",negative|Negative,60,Y,"The sign of the slope indicates the direction of the trend",negative
+4,"Fill: In a two-way relative frequency table, 0.35 of students play sports and play an instrument. What percent is this?",35,60,Y,"Convert the decimal to a percentage by multiplying by 100","35%"
+5,"Fill: A two-way table shows that 11 students play both soccer and basketball. How many students play both sports?",11,60,Y,"Read the value directly","11"

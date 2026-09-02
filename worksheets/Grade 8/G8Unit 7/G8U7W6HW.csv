@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A scatter plot shows that as hours of sleep increase, test errors decrease. What type of correlation is this?",negative|Negative,60,Y,"Think about the opposite directions of the variables",negative
+2,"Fill: A best-fit line is $y = 5x - 3$. If a point has $x = 4$, what should $y$ be according to the model?",17,60,Y,"Substitute x into the equation","$5(4) - 3 = 17$"
+3,"Fill: In a scatter plot, points form no clear upward or downward pattern. What is the correlation?",none|None|0,60,Y,"If there is no pattern, the variables do not affect each other",none
+4,"Fill: A class survey shows: 18 students own a pet, 22 do not. How many students were surveyed?",40,60,Y,"Add the totals together","$18 + 22 = 40$"
+5,"Fill: A regression line is $y = 4x + 3$. What is the predicted value of $y$ when $x = 5$?",23,60,Y,"Substitute x into the equation","$4(5) + 3 = 23$"

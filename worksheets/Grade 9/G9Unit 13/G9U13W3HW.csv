@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Simplify √20 completely.",2√5|2*sqrt(5)|2sqrt5,60,Y,"Factor 20 as 4 × 5.;Take √4 outside the radical.","√20 = √(4×5) = 2√5."
+2,"Simplify √32 completely.",4√2|4*sqrt(2)|4sqrt2,60,Y,"Factor 32 as 16 × 2.;Take √16 outside the radical.","√32 = √(16×2) = 4√2."
+3,"Simplify √75 completely.",5√3|5*sqrt(3)|5sqrt3,60,Y,"Factor 75 as 25 × 3.;Take √25 outside the radical.","√75 = √(25×3) = 5√3."
+4,"Simplify 2√18 completely.",6√2|6*sqrt(2)|6sqrt2,60,Y,"First simplify √18 as 3√2.;Then multiply the outside coefficients.","2√18 = 2(3√2) = 6√2."
+5,"Assuming x is nonnegative, simplify √(16x^2).",4x|4*x,60,Y,"Take the square root of each perfect-square factor.;√16 = 4 and √(x^2) = x for x ≥ 0.","√(16x^2) = 4x when x is nonnegative."

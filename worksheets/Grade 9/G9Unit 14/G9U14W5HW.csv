@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A table has points (0, 2), (1, 10), and (2, 50). Write its exponential rule.",y=2*5^x|2*5^x|y=2(5)^x,60,Y,"The initial value is 2.;The common ratio is 10/2 = 5.","The rule is y = 2 × 5^x."
+2,"An exponential graph has y-intercept 6 and its output doubles when x increases by 1. Write its rule.",y=6*2^x|6*2^x|y=6(2)^x,60,Y,"The y-intercept is the initial value.;Doubling gives a factor of 2.","The rule is y = 6 × 2^x."
+3,"To test whether table values are exponential for equally spaced x-values, what should be constant?",ratio|common ratio|ratio of consecutive y-values,60,Y,"Exponential patterns use repeated multiplication.;Divide each output by the previous one.","The ratios of consecutive y-values should be constant."
+4,"For y = 8(0.5)^x, find y when x = 3.",1,60,Y,"Substitute x = 3.;Compute 8 × 1/8.","y = 8(1/8) = 1."
+5,"Is y = 10(0.7)^x increasing or decreasing?",decreasing,60,Y,"The base is between 0 and 1.;Such bases give decay.","The rule is decreasing."

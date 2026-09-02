@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A bakery has fixed cost 150 dollars and a cost of 4 dollars per cake. Write the total cost for x cakes.",C=150+4x|C(x)=150+4x|4x+150,60,Y,"Use fixed cost plus variable cost.;Variable cost is 4 times x.","The total cost is C(x) = 150 + 4x."
+2,"For C(x) = 150 + 4x, what is the average cost per cake?",150/x+4|(150+4x)/x|4+150/x,60,Y,"Divide total cost by the number of cakes.;Separate the fraction.","Average cost is (150 + 4x)/x = 4 + 150/x."
+3,"Using C(x) = 150 + 4x, find the total cost of 25 cakes.",250|$250,60,Y,"Substitute x = 25.;Compute 150 + 100.","C(25) = 150 + 100 = $250."
+4,"As x becomes very large, what value does the average cost 4 + 150/x approach?",4,60,Y,"The term 150/x shrinks toward zero.;Only the constant remains.","The average cost approaches 4 dollars."
+5,"A height h must satisfy h^2 - 7h + 10 <= 0. Solve for the interval of h. Write the answer as an inequality.",2<=h<=5|2 <= h <= 5,60,Y,"Factor (h - 2)(h - 5) <= 0.;The product is nonpositive between the zeros.","The solution is 2 <= h <= 5."

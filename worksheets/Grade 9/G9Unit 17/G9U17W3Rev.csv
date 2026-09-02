@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A triangle has angles 90 degrees and 33 degrees. Find the third angle.",57 degrees|57|57°,60,Y,"Subtract the known angles from 180.;90 + 33 = 123.","The third angle is 180 - 123 = 57 degrees."
+2,"An isosceles triangle has a vertex angle of 100 degrees. Find each base angle.",40 degrees|40|40°,60,Y,"The base angles are congruent.;They share 180 - 100 equally.","Each base angle is 80/2 = 40 degrees."
+3,"An isosceles triangle has a base angle of 45 degrees. Find the vertex angle.",90 degrees|90|90°,60,Y,"Both base angles measure 45.;Subtract 2(45) from 180.","The vertex angle is 180 - 90 = 90 degrees."
+4,"Can a triangle have two 95-degree angles? Enter Yes or No.",No|no|N|n,60,Y,"Two such angles alone exceed 180.;95 + 95 = 190.","No — the sum would exceed 180 degrees."
+5,"An exterior angle of a triangle equals the sum of which angles?",the two remote interior angles|remote interior angles|the two nonadjacent interior angles,60,Y,"Use the exterior angle theorem.;The angles not adjacent to the exterior angle.","An exterior angle equals the sum of the two remote interior angles."

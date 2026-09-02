@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select the line with the steepest slope: $y=6x+2$ $y=3x+9$ $y=0.5x$",$y=6x+2$,60,Y,"Steepness is determined by the magnitude of $m$","6 is the largest slope"
+2,"Fill: Solve for $x$ in the model $18 = 3x + 6$.",4,60,Y,"Subtract 6 from 18 first;Then divide by 3","$12/3 = 4$"
+3,"True or False: A Line of Best Fit must pass through every single data point. (True/False)",False,60,Y,"The line shows the general trend, not exact matches",False
+4,"Fill: As the weight of a car increases, its fuel efficiency (MPG) tends to $\_\_$. (increase/decrease)",decrease,60,Y,"Heavier cars need more gas to move",decrease
+5,"Fill: Of 25 boys, 5 play soccer. What is the row relative frequency of soccer players? (Enter as %)",20,60,Y,"Divide 5 by 25","$0.2 = 20\%$"

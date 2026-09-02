@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select all RIGID transformations (preserve size and shape): Dilation Translation Rotation Reflection","Translation,Rotation,Reflection",60,Y,"Rigid transformations do not change the size;Dilation changes the size","Translation, Rotation, Reflection"
+2,"Fill: Point $P(2,6)$ is translated by vector $\langle -3, 2 \rangle$. The new point $P'$ is at $\dots$","-1,8",60,Y,"Add the translation vector to the original coordinates","$(2-3, 6+2) = (-1, 8)$"
+3,"Fill: A triangle is translated 4 units right and 3 units down. The translation vector is $\langle \_\_, \_\_ \rangle$","4,-3",60,Y,"Right means positive x;Down means negative y","⟨4, -3⟩"
+4,"Point $A(5, -3)$ is reflected over the x-axis. What are the coordinates of $A'$?","5,3",60,Y,"Reflecting over x-axis changes the sign of the y-coordinate","(5, 3)"
+5,"Point $B(3,4)$ is rotated $180^\circ$ about the origin. Find $B'$.","-3,-4",60,Y,"A 180 degree rotation negates both coordinates","(-3, -4)"

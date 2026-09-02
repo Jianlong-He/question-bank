@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A rigid transformation maps a segment of length 12 to its image. What is the image length?",12,60,Y,"Rigid transformations preserve distance.;The segment cannot stretch or shrink.","The image length is 12."
+2,"A rigid transformation maps a 48-degree angle to its image. What is the image angle measure?",48 degrees|48|48°,60,Y,"Rigid transformations preserve angle measures.;Turning or flipping does not change an angle.","The image angle measures 48 degrees."
+3,"Does a rigid transformation preserve area? Enter Yes or No.",Yes|yes|Y|y,60,Y,"The image has the same size and shape.;No scaling occurs.","Yes — rigid transformations preserve area."
+4,"Triangle ABC maps to triangle DEF with A -> D, B -> E, C -> F. Which side corresponds to AB?",DE|ED|side DE,60,Y,"Match each endpoint using the mapping.;A maps to D and B maps to E.","Side AB corresponds to side DE."
+5,"Is a dilation with scale factor 2 a rigid transformation? Enter Yes or No.",No|no|N|n,60,Y,"Rigid transformations preserve lengths.;This dilation doubles lengths.","No — it changes lengths, so it is not rigid."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Given a_1 = 3 and a_n = a_(n-1) + 6, find a_4.",21,60,Y,"Generate terms by adding 6.;The terms begin 3, 9, 15.","The sequence is 3, 9, 15, 21, so a_4 = 21."
+2,"For a_n = 10 + 4(n - 1), find a_25.",106,60,Y,"Substitute n = 25.;Compute 10 + 4(24).","a_25 = 10 + 96 = 106."
+3,"Write only the recursive step for the arithmetic sequence 40, 34, 28, 22.",a_n=a_(n-1)-6|a_n=a(n-1)-6,60,Y,"Each term is 6 less than the previous.;Use the common difference -6.","The recursive step is a_n = a_(n-1) - 6."
+4,"Convert a_1 = 1 and a_n = a_(n-1) + 7 to an explicit rule.",a_n=1+7(n-1)|1+7(n-1),60,Y,"The first term is 1 and the difference is 7.;Use a_n = a_1 + (n - 1)d.","The explicit rule is a_n = 1 + 7(n - 1)."
+5,"An arithmetic sequence has a_6 = 40 and common difference 5. Find a_1.",15,60,Y,"From a_1 to a_6 there are five increases.;Subtract 5(5) from 40.","a_1 = 40 - 25 = 15."

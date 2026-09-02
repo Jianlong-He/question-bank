@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the distance between (2, 1) and (5, 5).",5,60,Y,"The horizontal change is 3 and the vertical change is 4.;Apply the Pythagorean theorem.","The distance is sqrt(3^2 + 4^2) = sqrt(25) = 5."
+2,"Find the distance between (-3, 2) and (-3, -6).",8,60,Y,"The x-coordinates are equal.;Find the absolute difference of the y-coordinates.","The vertical distance is |2 - (-6)| = 8."
+3,"Find the midpoint of (4, -2) and (10, 8). Enter the midpoint x-coordinate then y-coordinate.","7, 3",60,Y,"Average the x-coordinates.;Average the y-coordinates.","The midpoint is ((4+10)/2, (-2+8)/2) = (7, 3)."
+4,"The midpoint of A(2, 9) and B(x, 3) is (6, 6). Find x.",10,60,Y,"Average the endpoint x-coordinates.;Solve (2 + x)/2 = 6.","2 + x = 12, so x = 10."
+5,"Find the distance between (0, 0) and (6, 8).",10,60,Y,"Use the distance formula.;sqrt(36 + 64).","The distance is sqrt(100) = 10."

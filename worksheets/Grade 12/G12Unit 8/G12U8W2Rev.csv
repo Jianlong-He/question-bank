@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Evaluate 4!.",24,60,Y,"Multiply 4×3×2×1.;Factorial counts arrangements.","4! = 24."
+2,"Evaluate 5P2.",20,60,Y,"Use 5 × 4.;Only two descending factors are needed.","5P2 = 20."
+3,"How many three-letter arrangements can be made from 6 distinct letters without repetition?",120,60,Y,"Order matters.;Compute 6 × 5 × 4.","There are 120 arrangements."
+4,"Four different flags are arranged in a row. How many arrangements are possible?",24,60,Y,"Arrange all 4 flags.;Compute 4!.","There are 4! = 24 arrangements."
+5,"Evaluate 7P2.",42,60,Y,"Use 7 × 6.;Two descending factors.","7P2 = 42."

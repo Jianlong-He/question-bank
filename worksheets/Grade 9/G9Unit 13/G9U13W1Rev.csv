@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Simplify y^5 × y^7.",y^12,60,Y,"Add the exponents.;5 + 7 = 12.","y^5 × y^7 = y^12."
+2,"Simplify b^10 / b^6.",b^4,60,Y,"Subtract the exponents.;10 - 6 = 4.","b^10 / b^6 = b^4."
+3,"Simplify (2a^4)^3.",8a^12|8*a^12,60,Y,"Cube the coefficient and multiply exponents.;2^3 = 8 and 4 × 3 = 12.","(2a^4)^3 = 8a^12."
+4,"Simplify (xy)^5.",x^5y^5|x^5*y^5,60,Y,"A power of a product applies to each factor.;Raise both x and y to the fifth power.","(xy)^5 = x^5y^5."
+5,"Rewrite x^-4 using only positive exponents.",1/x^4,60,Y,"A negative exponent means a reciprocal.;Move the power to the denominator.","x^-4 = 1/x^4."

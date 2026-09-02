@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find all zeros of x^3 - 16x by factoring. Enter them in increasing order.","-4, 0, 4",60,Y,"Factor out x.;Then factor x^2 - 16.","x(x - 4)(x + 4) = 0, so the zeros are -4, 0, and 4."
+2,"Find the zeros of 2x^3 - 10x^2. Enter them in increasing order.","0, 5",60,Y,"Factor out 2x^2.;List repeated zeros once.","2x^2(x - 5) = 0, so the zeros are 0 and 5."
+3,"Find all zeros of x^3 + x^2 - 9x - 9 by grouping. Enter them in increasing order.","-3, -1, 3",60,Y,"Group the terms in pairs.;Factor (x + 1)(x^2 - 9).","The zeros are -3, -1, and 3."
+4,"Solve (x - 5)(x + 1) > 0. Write the solution as an inequality.",x<-1 or x>5|x < -1 or x > 5,60,Y,"Mark the critical values -1 and 5.;The product is positive outside the zeros.","The solution is x < -1 or x > 5."
+5,"Solve (x - 3)(x + 6) < 0. Write the solution as an inequality.",-6<x<3|-6 < x < 3,60,Y,"The product is negative between the zeros.;The critical values are -6 and 3.","The solution is -6 < x < 3."

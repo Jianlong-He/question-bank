@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Two angles of a triangle measure 44 degrees and 59 degrees. Find the third angle.",77 degrees|77|77°,60,Y,"Angles sum to 180 degrees.;Subtract 44 + 59 from 180.","The third angle is 180 - 103 = 77 degrees."
+2,"Triangle PQR is congruent to triangle XYZ in that order. Which vertex corresponds to Q?",Y|vertex Y|point Y,60,Y,"Match positions in the statement.;Q is second and Y is second.","Vertex Q corresponds to vertex Y."
+3,"Triangle ABC is congruent to triangle DEF. If AC = 14, what is DF?",14,60,Y,"AC corresponds to DF.;Use CPCTC.","DF = AC = 14."
+4,"All three sides of one triangle equal the three corresponding sides of another. Which congruence criterion applies?",SSS|side-side-side,60,Y,"Only sides are used.;Three pairs of sides match.","The SSS criterion applies."
+5,"Two angles and the included side of one triangle equal the corresponding parts of another. Which criterion applies?",ASA|angle-side-angle,60,Y,"The side lies between the two angles.;Angle, side, angle in order.","The ASA criterion applies."

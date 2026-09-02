@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What is the degree of 2x^5 + x^4 - 3x?",5,60,Y,"Find the greatest exponent.;The leading term is 2x^5.","The degree is 5."
+2,"What is the leading coefficient of 4x^3 - 9x^2 + 6?",4,60,Y,"The leading term has the greatest exponent.;Read its coefficient.","The leading coefficient is 4."
+3,"Is 12x^7 a monomial, binomial, or trinomial?",monomial,60,Y,"Count the terms.;One term makes a monomial.","A single term is a monomial."
+4,"What is the constant term of x^3 - 5x + 11?",11,60,Y,"The constant term has no variable.;Find the term without x.","The constant term is 11."
+5,"For f(x) = x^3, find the average rate of change from x = 0 to x = 2.",4,60,Y,"Use (f(2) - f(0))/(2 - 0).;Compute f(2) = 8.","The average rate is (8 - 0)/2 = 4."

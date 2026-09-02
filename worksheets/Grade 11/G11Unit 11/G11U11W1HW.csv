@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A binomial experiment has how many possible outcomes on each trial?",2|two,60,Y,"Think of success and failure.;The labels can represent any two categories.","Each trial has two possible outcomes."
+2,"How many ways can exactly 2 successes be placed among 5 trials?",10,60,Y,"Use the combination 5 choose 2.;Compute 5!/(2!3!).","C(5, 2) = 10."
+3,"A fair coin is flipped 4 times. What is the probability of exactly 4 heads? Give a fraction.",1/16,60,Y,"Each flip has probability 1/2.;Multiply (1/2)^4.","The probability is (1/2)^4 = 1/16."
+4,"Which condition requires the probability of success to stay unchanged from trial to trial?",constant probability|constant probability of success|same probability of success,60,Y,"The value of p cannot change.;Every trial uses the same chance.","A binomial setting requires a constant probability of success."
+5,"In a binomial experiment, must the trials be independent? Enter Yes or No.",Yes|yes|Y|y,60,Y,"One trial cannot influence another.;Independence is a required condition.","Yes — the trials must be independent."

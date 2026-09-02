@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve cos(x) = 0 on 0 <= x <= 2pi. Enter solutions in increasing order.","pi/2, 3pi/2|π/2, 3π/2",60,Y,"Cosine is the x-coordinate.;It is zero at the top and bottom of the circle.","The solutions are pi/2 and 3pi/2."
+2,"Solve sin(x) = -1 on 0 <= x < 2pi.",3pi/2|3π/2,60,Y,"Sine reaches -1 at the bottom of the circle.;That angle is 3pi/2.","The solution is 3pi/2."
+3,"Write the general solution of cos(x) = 1.",2pi k|2πk|2pik|0+2pi k,60,Y,"Cosine reaches 1 at angle 0 in each cycle.;Add multiples of 2pi.","x = 2pi k for any integer k."
+4,"Solve tan(x) = 0 on 0 <= x < 2pi. Enter solutions in increasing order.","0, pi|0, π",60,Y,"Tangent is zero where sine is zero.;Exclude 2pi since the interval is half-open.","The solutions are 0 and pi."
+5,"Solve cos(x) = -1/2 on 0 <= x < 2pi. Enter solutions in increasing order.","2pi/3, 4pi/3|2π/3, 4π/3",60,Y,"The reference angle is pi/3.;Cosine is negative in Quadrants II and III.","The solutions are 2pi/3 and 4pi/3."

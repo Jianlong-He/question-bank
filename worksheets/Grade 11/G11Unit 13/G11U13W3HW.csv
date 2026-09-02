@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What parent rational function has asymptotes x = 0 and y = 0?",y=1/x|f(x)=1/x|1/x,60,Y,"Think of the reciprocal function.;Its branches approach both axes.","The parent function is y = 1/x."
+2,"For y = 1/(x - 5) + 3, what is the vertical asymptote?",x=5|x = 5,60,Y,"Read the horizontal shift from x - 5.;The parent asymptote x = 0 shifts right 5.","The vertical asymptote is x = 5."
+3,"For y = 1/(x - 5) + 3, what is the horizontal asymptote?",y=3|y = 3,60,Y,"Read the outside vertical shift.;The parent asymptote y = 0 shifts up 3.","The horizontal asymptote is y = 3."
+4,"Which feature divides the left and right branches of y = 1/(x - 5)?",vertical asymptote|the vertical asymptote|x=5,60,Y,"The function is undefined on one vertical line.;The branches approach it from opposite sides.","The vertical asymptote x = 5 separates the branches."
+5,"For y = 1/(x + 2) - 4, what are the asymptotes? Enter the vertical then the horizontal.","x=-2, y=-4|x = -2, y = -4",60,Y,"The inside shift moves x = 0 to x = -2.;The outside shift moves y = 0 to y = -4.","The asymptotes are x = -2 and y = -4."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"For f(x) = 1/(x - 6), what is the vertical asymptote?",x=6|x = 6,60,Y,"Set the denominator equal to zero.;Solve x - 6 = 0.","The vertical asymptote is x = 6."
+2,"For f(x) = 5/(x + 3), what is the vertical asymptote?",x=-3|x = -3,60,Y,"Set x + 3 equal to zero.;A noncanceled denominator zero gives a vertical asymptote.","The vertical asymptote is x = -3."
+3,"For f(x) = 4x/(x + 2), what is the horizontal asymptote?",y=4|y = 4,60,Y,"The numerator and denominator have equal degree.;Use the ratio of leading coefficients.","The horizontal asymptote is y = 4/1 = 4."
+4,"For f(x) = (x + 3)/(x^2 + 1), what is the horizontal asymptote?",y=0|the x-axis|x-axis,60,Y,"The denominator degree is greater.;The fraction approaches zero for large |x|.","The horizontal asymptote is y = 0."
+5,"For f(x) = (x^2 + 2)/(x + 5), is there a horizontal asymptote? Enter Yes or No.",No|no|N|n,60,Y,"Compare the degrees.;The numerator degree is greater.","No — the numerator degree exceeds the denominator degree."

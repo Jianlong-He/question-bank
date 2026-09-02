@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A bus and a taxi follow $t = 3d + 7$ and $t - 7 = 3d$. How many solutions does the system have? (Type 0, 1, or Infinite)",Infinite|infinite,60,Y,Rearrange the second equation to isolate t,$t = 3d + 7$ — identical → Infinite
+2,Fill: A number is split into two parts. One part is 2 more than half the other. Their sum is 32. Find the larger part.,20,60,Y,Equations: $S = 0.5L + 2$ and $S + L = 32$,$1.5L + 2 = 32$ → $L = 20$
+3,"Fill: Two brothers have ages that sum to 26. In 2 years, the older will be twice the younger. How old is the older brother now?",18,60,Y,Equations: $o + y = 26$ and $o + 2 = 2(y + 2)$,$(26-y)+2 = 2y+4$ → $28-y = 2y+4$ → $24 = 3y$ → $y = 8$; older = 18
+4,Fill: Running time is twice stretching time. Total exercise time is 36 minutes. How many minutes are spent running?,24,60,Y,Equations: $r = 2s$ and $r + s = 36$,$3s = 36$ → $s = 12$; running = 24
+5,"Fill: A pet shop has cats and dogs, 14 animals total. There are 4 more dogs than cats. How many dogs are there?",9,60,Y,Equations: $c + d = 14$ and $d = c + 4$,$c + c + 4 = 14$ → $c = 5$; $d = 9$

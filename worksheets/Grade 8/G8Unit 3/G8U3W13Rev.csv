@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Which is nonlinear? $y = 2x + 1$ $y = 2/x$ $y = 5x - 3$",$y = 2/x$,60,Y,"Variables in the denominator create rational functions, which are curved","y = 2/x is nonlinear"
+2,"Which is NOT linear? $y = 0.25x - 1$ $y = x^3$ $y = 8x + 2$",$y = x^3$,60,Y,"Check the highest power of x","The cubic term makes it nonlinear"
+3,"Which statement is true? ""$y=x^2$ is linear"" ""$y=3x+1$ is nonlinear"" ""$y=x^2$ is nonlinear""","""$y=x^2$ is nonlinear""",60,Y,"Squares create curves (parabolas)","y=x^2 is a parabola → nonlinear"
+4,"A function has a constant rate of change. Is it linear or nonlinear? Linear Nonlinear",Linear|linear,60,Y,"Constant rate of change means the slope never changes","A constant slope describes a straight line"
+5,"A car travels 15 km in 1 hr, 30 km in 2 hrs, and 55 km in 3 hrs. Is this relationship linear? (Yes/No)",No|N|no,60,Y,"Check if the rate is constant","Rates: 15, 15, then 25 → the rate changes → nonlinear"

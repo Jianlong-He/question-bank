@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What point on the complex plane represents -2 + 7i? Enter x then y.","-2, 7",60,Y,"The real part is horizontal.;The imaginary coefficient is vertical.","The point is (-2, 7)."
+2,"Find the midpoint of 3 + i and 7 + 5i.",5+3i|5 + 3i,60,Y,"Average the parts separately.;Compute (3+7)/2 and (1+5)/2.","The midpoint is 5 + 3i."
+3,"Find the conjugate of -4 + 9i.",-4-9i|-4 - 9i,60,Y,"Keep the real part.;Flip the imaginary sign.","The conjugate is -4 - 9i."
+4,"Find (3 + 4i)(3 - 4i).",25,60,Y,"Multiply a number by its conjugate.;Use 3^2 + 4^2.","(3 + 4i)(3 - 4i) = 9 + 16 = 25."
+5,"Find the distance between 2 + 3i and 2 + 8i.",5,60,Y,"The real parts are equal.;Subtract the imaginary parts.","The distance is |8 - 3| = 5."

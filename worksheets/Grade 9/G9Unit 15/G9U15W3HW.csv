@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Rotate P(4, -1) 90 degrees counterclockwise about the origin. Enter the image x-coordinate then y-coordinate.","1, 4",60,Y,"Use (x, y) -> (-y, x).;Negate the old y for the new x.","P' = (-(-1), 4) = (1, 4)."
+2,"Rotate Q(-3, 2) 90 degrees clockwise about the origin. Enter the image x-coordinate then y-coordinate.","2, 3",60,Y,"Use (x, y) -> (y, -x).;The new y is the opposite of the old x.","Q' = (2, -(-3)) = (2, 3)."
+3,"Rotate R(6, -4) 180 degrees about the origin. Enter the image x-coordinate then y-coordinate.","-6, 4",60,Y,"A half-turn changes both signs.;Use (x, y) -> (-x, -y).","R' = (-6, 4)."
+4,"Reflect A(5, -3) across the x-axis. Enter the image x-coordinate then y-coordinate.","5, 3",60,Y,"The x-coordinate stays fixed.;Change the sign of y.","A' = (5, 3)."
+5,"Reflect B(-2, 8) across the y-axis. Enter the image x-coordinate then y-coordinate.","2, 8",60,Y,"The y-coordinate stays fixed.;Change the sign of x.","B' = (2, 8)."

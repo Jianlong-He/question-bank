@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve 4x + 9 = 2x + 21.",6,60,Y,"Move the x-terms to one side.|Then isolate x.","2x = 12, so x = 6."
+2,"Solve 3(2x - 4) = 2x + 8.",5,60,Y,"Distribute 3 first.|Collect variable terms on one side.","6x - 12 = 2x + 8 → 4x = 20 → x = 5."
+3,"Solve 0.4x + 5 = 0.1x + 14.",30,60,Y,"Subtract 0.1x and then subtract 5.","0.3x = 9 → x = 30."
+4,"Four times a number plus 6 equals three times the number plus 15. Find the number.",9,60,Y,"Translate as 4x + 6 = 3x + 15.","x = 9."
+5,"The sum of three consecutive integers is 63. What is the smallest integer?",20,60,Y,"Let the integers be n, n + 1, and n + 2.","3n + 3 = 63 → n = 20."

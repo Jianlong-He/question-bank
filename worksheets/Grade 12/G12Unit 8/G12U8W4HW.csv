@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What two conditions must probabilities in a discrete distribution satisfy?",each is between 0 and 1 and the total is 1|probabilities are from 0 to 1 and sum to 1,60,Y,"Check individual values and the total.;Negative probabilities are impossible.","Each probability lies between 0 and 1, and they sum to 1."
+2,"A distribution has probabilities 0.1, 0.4, and 0.5. Is it valid? Enter Yes or No.",Yes|yes|Y|y,60,Y,"All values lie between 0 and 1.;Their sum is 1.","Yes — it is a valid distribution."
+3,"A distribution has probabilities 0.5, 0.5, and 0.3. Is it valid? Enter Yes or No.",No|no|N|n,60,Y,"Add the probabilities.;A total above 1 is impossible.","No — the probabilities sum to 1.3."
+4,"For X values 0, 1, 2 with probabilities 0.3, 0.5, 0.2, find P(X >= 1).",0.7,60,Y,"Add the probabilities for X = 1 and X = 2.;0.5 + 0.2.","P(X >= 1) = 0.7."
+5,"For X values 0, 1, 2 with probabilities 0.3, 0.5, 0.2, find P(X = 0).",0.3,60,Y,"Read the probability at X = 0.;No calculation is needed.","P(X = 0) = 0.3."

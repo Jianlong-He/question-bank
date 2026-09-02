@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Which function has the greater rate of change: y = 2x + 5 or y = 6x - 3? (Enter the greater slope value)",6,60,Y,"Compare the coefficients of x","The slopes are 2 and 6; the greater is 6"
+2,"Function A: $y = 3x + 8$. Function B: $y = 5x + 1$. Which increases faster? Function_A Function_B",Function_B,60,Y,"Compare the slopes (rates of change)","5 > 3, so Function B"
+3,"Function A starts at 0 and grows by 6. Function B starts at 12 and grows by 3. Which has a higher initial value? Function_A Function_B",Function_B,60,Y,"The initial value is the starting point (y-intercept)","12 > 0, so Function B"
+4,"Company A charges $y = 10x + 25$. Company B charges $y = 15x + 5$. Which is cheaper for 3 hours? Company_A Company_B",Company_B,60,Y,"Plug $x=3$ into both","A: 55; B: 50; B is cheaper"
+5,"The equation of a line is y = 4x + 3. What is the y-value when x = 5?",23,60,Y,"Substitute x = 5 into the equation","y = 20 + 3 = 23"

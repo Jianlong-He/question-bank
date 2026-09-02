@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: A system has the solution $x = k$. If substituting into $y = 2x - 9$ gives $y = -3$, what is $k$?",3,60,Y,"Substitute -3 in for y and solve for x (which is k)","$-3 = 2k - 9$ → $6 = 2k$ → $k = 3$"
+2,"Fill: Two numbers satisfy: their sum is 16 and twice the first minus the second is 8. What is the first number?",8,60,Y,"Set up equations: $x + y = 16$ and $2x - y = 8$;Add them","$3x = 24$ → $x = 8$"
+3,"Fill: For the system $6x - 4y = p$ and $3x - 2y = 7$ to have infinite solutions, find $p$.",14,60,Y,"Multiply the second equation by 2","$6x - 4y = 14$, so $p = 14$"
+4,"Fill: How many solutions does the system $8x - 4y = 16$ and $2x - y = 4$ have? (Type 0, 1, or Infinite)",Infinite|infinite,60,Y,"Divide the first equation by 4","$2x - y = 4$ matches → same line → Infinite"
+5,"Fill: A system has $y = 3x + 5$ and also satisfies $4x - y = -3$. What is $x$?",2,60,Y,"Substitute the expression for y into the second equation","$4x - 3x - 5 = -3$ → $x = 2$"

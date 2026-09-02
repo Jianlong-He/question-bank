@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,What is the standard equation of a horizontal ellipse centered at the origin with semi-axes a > b?,x^2/a^2+y^2/b^2=1,60,Y,The larger denominator lies under the horizontal variable.;Both squared terms are added.,The equation is x^2/a^2 + y^2/b^2 = 1.
+2,Find the center of (x - 3)^2/16 + (y + 2)^2/9 = 1. Enter x then y.,"3, -2",60,Y,Use (x - h)^2 and (y - k)^2.;The sign inside each square is opposite the coordinate sign.,"The center is (3, -2)."
+3,Find the horizontal vertices of x^2/36 + y^2/16 = 1 by entering their x-values in increasing order.,"-6, 6",60,Y,The horizontal semi-axis is a = 6.;Move left and right from the center.,The vertex x-values are -6 and 6.
+4,"For the circle x^2 + y^2 = 64, what is the radius?",8,60,Y,The right side equals r^2.;Take the positive square root of 64.,The radius is 8.
+5,Name the four nondegenerate conic sections.,"circle ellipse parabola hyperbola|circle, ellipse, parabola, and hyperbola",60,Y,They arise from different plane cuts through a cone.;Include the closed and open conics.,"They are the circle, ellipse, parabola, and hyperbola."

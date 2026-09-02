@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If f sends 5 to 12, what does f inverse send 12 to?",5,60,Y,"An inverse reverses input and output.;Swap the ordered pair (5, 12).","The inverse sends 12 back to 5."
+2,"Find the inverse rule of f(x) = x + 9.",f^-1(x)=x-9|x-9|x - 9,60,Y,"Undo adding 9.;The inverse operation is subtraction.","The inverse rule is f^-1(x) = x - 9."
+3,"Find the inverse rule of f(x) = 4x.",f^-1(x)=x/4|x/4|x / 4,60,Y,"Undo multiplication by 4.;Divide the input by 4.","The inverse rule is f^-1(x) = x/4."
+4,"If f(x) = 3x - 2, find f inverse of 10.",4,60,Y,"Solve 3x - 2 = 10.;The solution is the original input.","3x = 12, so f inverse of 10 is 4."
+5,"The graph of a function and its inverse are reflections across which line?",y=x|y = x,60,Y,"Swapping coordinates reflects points.;The mirror line has equal coordinates.","The graphs reflect across the line y = x."

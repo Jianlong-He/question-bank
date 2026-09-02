@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the zeros of f(x) = (x - 1)(x + 6). Enter them in increasing order.","-6, 1",60,Y,"Set each factor equal to zero.;Solve x + 6 = 0 and x - 1 = 0.","The zeros are -6 and 1."
+2,"Find the zeros of f(x) = x(x + 4)(x - 9). Enter them in increasing order.","-4, 0, 9",60,Y,"Set every factor to zero.;Include x = 0.","The zeros are -4, 0, and 9."
+3,"Which equation has zeros -2 and 5?",(x+2)(x-5)=0|y=(x+2)(x-5),60,Y,"A zero r gives a factor x - r.;Use factors x + 2 and x - 5.","An equation with those zeros is (x + 2)(x - 5) = 0."
+4,"For f(x) = -2(x - 1)(x - 8), what are the x-intercepts? Enter the x-values in increasing order.","1, 8",60,Y,"The coefficient -2 does not affect the zeros.;Set each factor to zero.","The x-intercepts are at x = 1 and x = 8."
+5,"How many zeros does f(x) = (x - 5)^2 have, counted without multiplicity?",1|one,60,Y,"The only factor is x - 5.;Both copies give the same zero.","The single zero is x = 5."

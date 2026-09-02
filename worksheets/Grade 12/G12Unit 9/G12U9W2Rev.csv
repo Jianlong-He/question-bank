@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Evaluate the sum from k = 1 to 4 of 3k.",30,60,Y,"The terms are 3, 6, 9, 12.;Add them.","The sum is 30."
+2,"Evaluate the sum from k = 1 to 3 of k^2.",14,60,Y,"The terms are 1, 4, 9.;Add them.","The sum is 14."
+3,"How many terms are in the sum from k = 5 to 12 inclusive?",8,60,Y,"Count both endpoints.;Use 12 - 5 + 1.","There are 8 terms."
+4,"Evaluate the sum from k = 1 to 4 of 5.",20,60,Y,"The same constant is added four times.;Compute 4 × 5.","The sum is 20."
+5,"Evaluate the sum from k = 1 to 4 of 2*3^(k-1).",80,60,Y,"The terms are 2, 6, 18, 54.;Add them.","The sum is 80."

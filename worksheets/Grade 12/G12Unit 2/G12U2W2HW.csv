@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Complete the identity: sin(A + B) = ___.",sin(A)cos(B)+cos(A)sin(B),60,Y,"Sine keeps the plus sign.;Use sine-cosine plus cosine-sine.","sin(A+B) = sin(A)cos(B) + cos(A)sin(B)."
+2,"Complete the identity: cos(A + B) = ___.",cos(A)cos(B)-sin(A)sin(B),60,Y,"Cosine changes the plus to a minus.;Use cosine-cosine minus sine-sine.","cos(A+B) = cos(A)cos(B) - sin(A)sin(B)."
+3,"Complete the double-angle identity: sin(2x) = ___.",2sin(x)cos(x),60,Y,"Use sin(A+B) with A = B = x.;The two cross terms are equal.","sin(2x) = 2sin(x)cos(x)."
+4,"Write cos(2x) using cos^2(x) and sin^2(x).",cos^2(x)-sin^2(x),60,Y,"Use the cosine sum identity with A = B = x.;Combine the terms.","cos(2x) = cos^2(x) - sin^2(x)."
+5,"Complete tan(A + B) = (tan(A) + tan(B))/___.",1-tan(A)tan(B),60,Y,"The denominator is one minus a product.;Use the tangent sum identity.","The denominator is 1 - tan(A)tan(B)."

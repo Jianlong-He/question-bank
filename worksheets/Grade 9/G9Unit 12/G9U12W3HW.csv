@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the common ratio of 2, 10, 50, 250.",5,60,Y,"Divide a term by the preceding term.;10/2 = 5.","Each term is multiplied by 5, so the common ratio is 5."
+2,"Find the next term of 64, 32, 16, 8.",4,60,Y,"The common ratio is 1/2.;Multiply 8 by 1/2.","The next term is 8(1/2) = 4."
+3,"For a geometric sequence with a_1 = 3 and r = 2, find a_5.",48,60,Y,"Use a_n = a_1 r^(n-1).;Compute 3 × 2^4.","a_5 = 3(16) = 48."
+4,"For a_n = 5 × 3^(n-1), give the initial term and common ratio in that order.","5, 3",60,Y,"The coefficient is a_1.;The base of the power is r.","The initial term is 5 and the common ratio is 3."
+5,"Is 4, 12, 36, 108 arithmetic or geometric?",geometric|a geometric sequence,60,Y,"Check ratios as well as differences.;Each term is triple the preceding one.","The ratio is constant at 3, so the sequence is geometric."

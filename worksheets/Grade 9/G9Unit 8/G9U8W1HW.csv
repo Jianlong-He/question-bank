@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"The input 4 is paired with both 1 and 9 in a relation. Is the relation a function? Enter Yes or No.",No|no|N|n,60,Y,"A function gives each input exactly one output.;Input 4 has two outputs.","Input 4 is paired with two different outputs, so the relation is not a function."
+2,"If f(x) = 2x + 5, find f(3).",11,60,Y,"Replace x with 3.;Compute 2(3) + 5.","f(3) = 6 + 5 = 11."
+3,"If g(x) = x^2 - 1, find g(-4).",15,60,Y,"Square -4 first.;(-4)^2 = 16.","g(-4) = 16 - 1 = 15."
+4,"A graph of q contains the point (3, -2). What is q(3)?",-2,60,Y,"The x-coordinate is the input.;The y-coordinate is the output.","The point (3, -2) means q(3) = -2."
+5,"A table gives h(1) = 4, h(2) = 7, and h(3) = 10. Find h(3).",10,60,Y,"Find the row with input 3.;Read its output.","The table pairs 3 with 10, so h(3) = 10."

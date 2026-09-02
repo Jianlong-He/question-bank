@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Simplify (x^2 - 4)/(x + 2).",x-2|x - 2,60,Y,"Factor the numerator.;Cancel the factor x + 2.","The expression simplifies to x - 2 with x not equal to -2."
+2,"What value is excluded from (x^2 - 4)/(x + 2)?",-2,60,Y,"Use the original denominator.;Set x + 2 = 0.","The excluded value is x = -2."
+3,"For f(x) = 3/(x + 5), what is the vertical asymptote?",x=-5|x = -5,60,Y,"Set the denominator to zero.;The factor does not cancel.","The vertical asymptote is x = -5."
+4,"For f(x) = (2x - 7)/(x + 3), what is the horizontal asymptote?",y=2|y = 2,60,Y,"The degrees are equal.;Use the ratio of leading coefficients.","The horizontal asymptote is y = 2."
+5,"For f(x) = 6/(x^2 + 1), what is the horizontal asymptote?",y=0|the x-axis|x-axis,60,Y,"The denominator degree is greater.;The fraction shrinks toward zero.","The horizontal asymptote is y = 0."

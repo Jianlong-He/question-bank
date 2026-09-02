@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: How many times larger is $8 \cdot 10^4$ than $4 \cdot 10^4$?",2,60,Y,"Since exponents are the same just divide coefficients","$8 \div 4 = 2$"
+2,"Fill: Simplify $\frac{9^6}{9^6}$",1,60,Y,"Subtract exponents to get $9^0$;Or a number divided by itself is 1",1
+3,"Select all Perfect Cubes: 1 9 27 125 36","1,27,125",60,Y,"$1^3=1$;$3^3=27$;$5^3=125$;9 and 36 are perfect squares not cubes","1, 27 and 125 are perfect cubes"
+4,"Fill: Convert $3.4 \cdot 10^{-3}$ to standard decimal",0.0034,60,Y,"Negative exponent 3 means move the decimal left 3 times",0.0034
+5,"Fill: If $x^2 = \frac{1}{25}$ then $x = \frac{1}{\_\_}$ (positive)",5,60,Y,"Square root of top and bottom separately","$\sqrt{1} = 1$ and $\sqrt{25} = 5$"

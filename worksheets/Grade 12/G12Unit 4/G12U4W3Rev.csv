@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Multiply (3/x)(4/x).",12/x^2,60,Y,"Multiply numerators and denominators.;x times x is x^2.","The product is 12/x^2."
+2,"Multiply (x/5)(15/x).",3,60,Y,"Cancel the factor x.;Reduce 15/5.","The product is 3 for x not equal to 0."
+3,"Divide (x/8) by (3x/4).",1/6,60,Y,"Multiply by 4/(3x).;Cancel x and reduce 4/24.","The quotient is 1/6."
+4,"What operation replaces division by a rational expression?",multiplying by the reciprocal|multiply by the reciprocal,60,Y,"Flip the divisor.;Then multiply.","Division becomes multiplication by the reciprocal."
+5,"Multiply (x^2 - 1)/(x - 1) by 2/x.",2(x+1)/x|(2x+2)/x,60,Y,"Factor x^2 - 1.;Cancel the factor x - 1.","The product simplifies to 2(x + 1)/x."

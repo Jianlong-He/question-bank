@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A two-way table has interior counts 8, 12, 20, and 10. What is the grand total?",50,60,Y,"Add all four cells.;8 + 12 + 20 + 10.","The grand total is 8 + 12 + 20 + 10 = 50."
+2,"In a survey of 50 people, 30 like tea. What is the relative frequency of liking tea?",60%|0.6|60 percent,60,Y,"Divide the count by the grand total.;30/50 = 0.60.","The relative frequency is 30/50 = 0.60 = 60%."
+3,"A row of a two-way table shows 14 juniors chose pizza and 6 chose salad. How many juniors were surveyed?",20,60,Y,"Add the counts across the row.;14 + 6.","The row total is 14 + 6 = 20 juniors."
+4,"Of 20 juniors, 14 chose pizza. What percent of juniors chose pizza?",70%|70 percent|70,60,Y,"Divide 14 by 20.;Convert to a percent.","14/20 = 0.70 = 70%."
+5,"In a survey, 12 students both play chess and play piano. What is the joint frequency for chess and piano?",12,60,Y,"A joint frequency counts the overlap.;It is given directly.","The joint frequency is 12."

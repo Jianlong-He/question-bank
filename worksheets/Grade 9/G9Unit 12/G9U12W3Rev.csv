@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the common ratio of 3, 12, 48, 192.",4,60,Y,Divide a term by the preceding term.;12/3 = 4.,"Each term is multiplied by 4, so the common ratio is 4."
+2,"Find the next term of 100, 50, 25, 12.5.",6.25|25/4,60,Y,The common ratio is 1/2.;Multiply 12.5 by 1/2.,The next term is 12.5(1/2) = 6.25.
+3,"For a geometric sequence with a_1 = 2 and r = 3, find a_4.",54,60,Y,Use a_n = a_1 r^(n-1).;Compute 2 × 3^3.,a_4 = 2(27) = 54.
+4,"Given a_1 = 40 and a_n = 0.5a_(n-1), find a_3.",10,60,Y,Multiply by 0.5 twice.;a_2 = 20.,a_3 = 20(0.5) = 10.
+5,"Is 9, 6, 3, 0 arithmetic or geometric?",arithmetic|an arithmetic sequence,60,Y,Check the differences.;Each difference is -3.,"The difference is constant at -3, so the sequence is arithmetic."

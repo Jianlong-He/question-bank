@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: Point $A(3,3)$ is reflected over the x-axis then dilated by $k=2$. Final coordinates are $\dots$","6,-6",60,Y,"Step 1: Reflect over x to get $(3, -3)$;Step 2: Multiply by 2","(6, -6)"
+2,"Select the vector that translates $A(2,3)$ to $A'(0,0)$: $\langle-2,-3\rangle$ $\langle2,3\rangle$ $\langle0,0\rangle$","$\langle-2,-3\rangle$",60,Y,"Subtract start from end","$0-2 = -2$ and $0-3 = -3$"
+3,"True or False: A $270^\circ$ Clockwise rotation is the same as a $90^\circ$ Counter-Clockwise rotation. (True/False)",True,60,Y,"A full circle is 360","270 one way leaves 90 the other way → True"
+4,"Fill: Two figures are Similar if one can be obtained from the other by a $\_\_$ and rigid motions.",Dilation,60,Y,"Similarity requires resizing",Dilation
+5,"A triangle with perimeter 8 is dilated by $k=4$. What is the new perimeter?",32,60,Y,"Perimeter is a length measurement;Lengths scale directly by $k$","$8 \cdot 4 = 32$"

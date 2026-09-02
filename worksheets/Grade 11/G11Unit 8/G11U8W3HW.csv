@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Complete the Pythagorean identity: sin^2(theta) + cos^2(theta) = ___.",1,60,Y,"It comes from x^2 + y^2 = 1 on the unit circle.;Substitute x = cos and y = sin.","The sum is 1."
+2,"If sin(theta) = 4/5 and theta is acute, find cos(theta).",3/5,60,Y,"Use sin^2 + cos^2 = 1.;Recognize a 3-4-5 triangle.","cos(theta) = 3/5."
+3,"If cos(theta) = 5/13 and theta is acute, find sin(theta).",12/13,60,Y,"Use the Pythagorean identity.;Recognize a 5-12-13 triangle.","sin(theta) = 12/13."
+4,"Simplify 1 - sin^2(theta).",cos^2(theta),60,Y,"Rearrange the Pythagorean identity.;Subtract sin^2 from both sides.","1 - sin^2(theta) = cos^2(theta)."
+5,"If sin(theta) = 0.8 and cos(theta) = 0.6, verify their squared sum.",1,60,Y,"Square both values.;0.64 + 0.36 = 1.","Their squared sum is 1."

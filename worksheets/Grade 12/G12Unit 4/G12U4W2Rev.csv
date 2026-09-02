@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"If n people split a 90 dollar cost equally, what is each person's share?",90/n,60,Y,"Divide the total by the number of people.;The share shrinks as n grows.","Each person's share is 90/n dollars."
+2,"Two pipes fill a tank at rates 1/5 and 1/20 tank per hour. Find their combined rate.",1/4,60,Y,"Add the rates using denominator 20.;1/5 = 4/20.","4/20 + 1/20 = 5/20 = 1/4 tank per hour."
+3,"Solve 1/x = 2/10.",5,60,Y,"Cross multiply 10 = 2x.;Divide by 2.","x = 5."
+4,"Solve 2/x + 3/x = 1.",5,60,Y,"Combine the fractions.;5/x = 1.","x = 5."
+5,"Three liters of 20% solution mix with two liters of 70% solution. What percent is the mixture?",40%|40 percent|40,60,Y,"Find the pure substance in each part.;Divide 0.6 + 1.4 by 5 liters.","The concentration is 2/5 = 0.40 = 40%."

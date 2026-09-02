@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: An isosceles triangle has two equal sides of 10 and a base of 12. Find its area.",48,60,Y,"Split the base in half (6) to form a right triangle. Find the height","$h^2 + 36 = 100$ → $h = 8$; Area = $\frac{1}{2}(12)(8) = 48$"
+2,"Fill: A right triangle has hypotenuse 30 and one leg 24. Find the smaller leg.",18,60,Y,"Use $c^2 - a^2 = b^2$","$900 - 576 = 324$ → $b = 18$"
+3,"Fill: A right triangle has legs 20 and $x$. The hypotenuse is 25. Find $x$.",15,60,Y,"Use $a^2 + b^2 = c^2$","$400 + x^2 = 625$ → $x^2 = 225$ → $x = 15$"
+4,"Fill: A box has length 2, width 3, and height 6. Find the space diagonal.",7,60,Y,"Use the 3D Pythagorean theorem: $d^2 = l^2 + w^2 + h^2$","$4 + 9 + 36 = 49$ → $d = 7$"
+5,"Fill: Garfield's trapezoid proof uses two right triangles with legs $a$ and $b$. If $a = 12$ and $b = 35$, find the hypotenuse $c$.",37,60,Y,"Use $c^2 = a^2 + b^2$","$144 + 1225 = 1369$ → $c = 37$"

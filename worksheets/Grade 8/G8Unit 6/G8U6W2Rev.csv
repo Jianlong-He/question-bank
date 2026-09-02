@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select the transformation that turns a figure upside down but does not flip it left/right: Rotation_180 Reflection_X Reflection_Y",Rotation_180,60,Y,"Think about spinning vs mirroring","A 180° rotation spins the figure without mirroring it"
+2,"Fill: Translate $(6, -2)$ by the vector $(-3, 7)$. What is the y-coordinate of the image?",5,60,Y,"Add the y-components together","$-2 + 7 = 5$"
+3,"Fill: Rotate point $(4, 2)$ by $90^\circ$ counter-clockwise about the origin. What is the new x-coordinate?",-2,60,Y,"Use the rule: $(x, y) \to (-y, x)$","$(4, 2) \to (-2, 4)$"
+4,"Fill: A point moves from $(6, 1)$ to $(-1, 6)$. What is the angle of counter-clockwise rotation about the origin?",90,60,Y,"Check the rule $(x, y) \to (-y, x)$","This matches a 90° CCW rotation"
+5,"Fill: Reflect quadrilateral vertex $(-6, 3)$ over the x-axis. What is the new y-value?",-3,60,Y,"Reflecting across the x-axis negates the y-coordinate","$(-6, 3) \to (-6, -3)$"

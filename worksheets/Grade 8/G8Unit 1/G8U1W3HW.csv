@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Fill: $(3 \cdot 10^2)(2 \cdot 10^5) = \_\_ \cdot 10^7$",6,60,Y,"Multiply the coefficients first;Add exponents for the powers of 10","$3 \cdot 2 = 6$ and $10^2 \cdot 10^5 = 10^7$"
+2,"Fill: Estimate $\sqrt{99}$ to the nearest whole number",10,60,Y,"Find the closest perfect square;$10^2 = 100$","99 is very close to 100, so $\sqrt{99} \approx 10$"
+3,"Fill: $\frac{9 \cdot 10^8}{3 \cdot 10^3} = 3 \cdot 10^{\_\_}$",5,60,Y,"Divide the coefficients ($9/3$);Subtract the exponents ($8-3$)","$9/3 = 3$ and $8 - 3 = 5$"
+4,"Select the larger number: $2.8\cdot10^6$ $9.5\cdot10^5$",$2.8\cdot10^6$,60,Y,"Look at the exponent (power of 10) first","$10^6$ is 10 times bigger than $10^5$"
+5,"Fill: Solve $x^2 = 169$ (positive solution)",13,60,Y,"Square root of 169","$13 \cdot 13 = 169$"

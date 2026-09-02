@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"What does sigma notation represent?",a sum|summation|adding a sequence of terms,60,Y,"The Greek capital sigma is a summation symbol.;The index specifies which terms to add.","Sigma notation represents a sum."
+2,"Evaluate the sum from k = 1 to 5 of k.",15,60,Y,"Add 1 + 2 + 3 + 4 + 5.;The upper limit is included.","The sum is 15."
+3,"Evaluate the sum from k = 0 to 4 of 2^k.",31,60,Y,"List 1, 2, 4, 8, 16.;Add the five terms.","The sum is 31."
+4,"How many terms are in the sum from k = 2 to 10 inclusive?",9,60,Y,"Count both endpoints.;Use 10 - 2 + 1.","There are 9 terms."
+5,"Write 2 + 4 + 8 + 16 in sigma notation using k = 0 to 3.",sum 2*2^k|Σ2*2^k|sum 2^(k+1),60,Y,"The first term is 2.;The ratio is 2.","The sum is sigma from k = 0 to 3 of 2·2^k."

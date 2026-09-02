@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Point P is 3 units to the right of the origin and 5 units below it. Fill in the x-coordinate and then the y-coordinate.","3, -5",60,Y,"Right of the origin means a positive x-coordinate.|Below the origin means a negative y-coordinate.","The ordered pair is (3, -5)."
+2,"In which quadrant is the point (-4, 6)? Enter the quadrant number or Roman numeral.",2|II|Quadrant II|quadrant II,60,Y,"A negative x-coordinate lies left of the y-axis.|A positive y-coordinate lies above the x-axis.","Left of the y-axis and above the x-axis → Quadrant II."
+3,"Evaluate 4x + 3 when x = -2.",-5,60,Y,"Substitute -2 everywhere x appears.|Multiply before adding.","4(-2) + 3 = -8 + 3 = -5."
+4,"Evaluate 3a - 2b when a = 4 and b = -3.",18,60,Y,"Replace a with 4 and b with -3.|Subtracting 2(-3) adds 6.","3(4) - 2(-3) = 12 + 6 = 18."
+5,"A rectangle has length x + 3 and width 4. What is its area when x = 5? Enter only the number.",32,60,Y,"Evaluate the length first.|Area equals length times width.","Length = 8; area = 8 × 4 = 32."

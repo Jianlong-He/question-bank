@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"In the data set 1, 2, 2, 2, 2, 6, what is the frequency of 2?",4,60,Y,"Count how many times 2 appears.;Frequency means number of occurrences.","The value 2 appears four times, so its frequency is 4."
+2,"A frequency table lists frequencies 3, 8, and 9. How many observations are in the data set?",20,60,Y,"Add all frequencies.;The total equals the sample size.","The sample size is 3 + 8 + 9 = 20."
+3,"A histogram bar for the interval 20-30 has height 12. How many data values fall in that interval?",12,60,Y,"Height equals frequency.;Read the bar height.","There are 12 data values in that interval."
+4,"A dot plot shows 4 dots above the value 9. How many observations equal 9?",4,60,Y,"Each dot is one observation.;Count the dots.","There are 4 observations equal to 9."
+5,"Out of 25 observations, 5 fall in the interval 0-5. What fraction of the data is in that interval? Enter the fraction in lowest terms.",1/5,60,Y,"Divide the interval count by the total.;Simplify 5/25.","5/25 = 1/5 of the data is in that interval."

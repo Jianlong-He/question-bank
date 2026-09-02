@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"For y = 9 × 2^x, give the initial value and growth factor in that order.","9, 2",60,Y,"Compare with y = ab^x.;The coefficient is a and the base is b.","The initial value is 9 and the growth factor is 2."
+2,"A table has y-values 3, 12, 48 for x = 0, 1, 2. Write its exponential rule.",y=3*4^x|3*4^x|y=3(4)^x,60,Y,"The initial value is y(0) = 3.;The common ratio is 12/3 = 4.","The rule is y = 3 × 4^x."
+3,"In P = 800(1.07)^t, what percent increase occurs each period?",7%|7 percent|0.07,60,Y,"Subtract 1 from the growth factor.;1.07 - 1 = 0.07.","The quantity increases by 7% each period."
+4,"A factor of 0.75 represents what percent decrease per period?",25%|25 percent|0.25,60,Y,"A decay factor is 1 - r.;Compute 1 - 0.75.","The decrease is 0.25 = 25% per period."
+5,"Write a model with initial value 60 and growth rate 20% per period.",y=60*1.2^t|60*1.2^t|y=60(1.2)^t,60,Y,"Convert 20% to a growth factor of 1.20.;Use y = ab^t.","The model is y = 60(1.2)^t."

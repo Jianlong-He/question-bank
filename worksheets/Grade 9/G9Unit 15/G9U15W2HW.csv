@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Translate P(3, -2) by the vector <2, 5>. Enter the image x-coordinate then y-coordinate.","5, 3",60,Y,"Add 2 to the x-coordinate.;Add 5 to the y-coordinate.","P' = (3 + 2, -2 + 5) = (5, 3)."
+2,"Under the translation (x, y) -> (x - 3, y + 2), point Q(-4, 6) maps to Q'. Enter the image x-coordinate then y-coordinate.","-7, 8",60,Y,"Subtract 3 from x.;Add 2 to y.","Q' = (-4 - 3, 6 + 2) = (-7, 8)."
+3,"Point A(-2, 3) maps to A'(5, 1). Enter the horizontal change then vertical change.","7, -2",60,Y,"Compute image x minus original x.;Compute image y minus original y.","The change is (5 - (-2), 1 - 3) = (7, -2)."
+4,"The translation vector is <-5, 4>. What is the image of B(8, -3)? Enter x-coordinate then y-coordinate.","3, 1",60,Y,"Add -5 to 8.;Add 4 to -3.","B' = (8 - 5, -3 + 4) = (3, 1)."
+5,"A translation maps C(2, 9) to C'(2, -1). What is the vertical change?",-10,60,Y,"Subtract the original y from the image y.;Compute -1 - 9.","The vertical change is -1 - 9 = -10."

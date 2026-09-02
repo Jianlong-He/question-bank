@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Divide x^2 + 7x + 12 by x + 3.",x+4|x + 4,60,Y,"Find a polynomial that multiplies by x + 3.;(x + 3)(x + 4) = x^2 + 7x + 12.","The quotient is x + 4."
+2,"Divide x^2 - 9 by x - 3.",x+3|x + 3,60,Y,"Use the difference-of-squares factorization.;x^2 - 9 = (x - 3)(x + 3).","The quotient is x + 3."
+3,"Divide 3x^2 + 10x + 3 by x + 3.",3x+1|3x + 1,60,Y,"Divide the leading terms first.;Check (x + 3)(3x + 1).","The quotient is 3x + 1."
+4,"Divide x^2 + 6x + 10 by x + 2. Enter the quotient then the remainder.","x+4, 2|x + 4, 2",60,Y,"Use polynomial long division.;(x + 2)(x + 4) = x^2 + 6x + 8.","The quotient is x + 4 and the remainder is 2."
+5,"Divide x^3 - 27 by x - 3.",x^2+3x+9|x^2 + 3x + 9,60,Y,"Use the difference-of-cubes pattern.;x^3 - 3^3 = (x - 3)(x^2 + 3x + 9).","The quotient is x^2 + 3x + 9."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Select all terms that describe a scatter plot with points hugging a straight upward line: Linear Nonlinear Positive Negative","Linear,Positive",60,Y,"Linear means straight line;Positive means going up","Linear, Positive"
+2,"Select the association where points generally follow a curved pattern: Linear Nonlinear None",Nonlinear|Non-linear,60,Y,"Curved patterns are non-linear",Nonlinear
+3,"Select the outlier in this dataset: $(1,2)$ $(2,4)$ $(3,5)$ $(9,1)$","$(9,1)$",60,Y,"Look for the point that does not fit the increasing pattern","$(9,1)$ has high x but low y"
+4,"A plant grows according to $h = 3w + 5$ ($w$=weeks). What does 5 represent? Select: Growth_Rate Initial_Height Final_Height",Initial_Height,60,Y,"The y-intercept is the value when $w=0$",Initial_Height
+5,"Fill: If a scatter plot resembles a random cloud of scattered dots, it has \_\_\_ association.",no|none|No,60,Y,"There is no clear line or pattern",no

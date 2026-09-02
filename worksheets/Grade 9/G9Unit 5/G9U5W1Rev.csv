@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A taxi charges $4 to start and $2 per mile. In C = 2m + 4, what does 4 represent?",starting fee|initial fee|flat fee|base fee,60,Y,"Set the mileage to zero.","The $4 starting fee."
+2,"A tank starts with 80 liters and loses 5 liters each minute. Write its volume V after m minutes.",V=-5m+80|V = -5m + 80|v=-5m+80,60,Y,"The starting amount is the intercept.|Losing liquid gives a negative rate.","V = -5m + 80."
+3,"Rewrite 2y = 8x + 6 in slope-intercept form. What is the slope?",4,60,Y,"Divide every term by 2.","y = 4x + 3 → slope 4."
+4,"A temperature begins at 15°C and rises 2.5°C per hour. Write T as a function of hours h.",T=2.5h+15|T = 2.5h + 15|t=2.5h+15,60,Y,"The beginning temperature is the intercept.","T = 2.5h + 15."
+5,"A line contains (0, 5) and (2, 11). Write its slope-intercept equation.",y=3x+5|y = 3x + 5,60,Y,"Find the slope from the two points.|The point (0, 5) gives the intercept.","Slope 3 → y = 3x + 5."

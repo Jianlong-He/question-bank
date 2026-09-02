@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Find the common difference of 20, 15, 10, 5.",-5,60,Y,"Subtract 20 from 15.;Each term decreases by 5.","The common difference is -5."
+2,"Find 1 + 2 + 3 + ... + 15.",120,60,Y,"Use n(n + 1)/2.;Compute 15 × 16/2.","The sum is 120."
+3,"Find the sum of 2, 6, 10, 14.",32,60,Y,"There are 4 terms.;Average 2 and 14, then multiply by 4.","S = 4(16)/2 = 32."
+4,"Find the 20th term of an arithmetic sequence with a1 = 3 and d = 4.",79,60,Y,"Use a_n = a1 + (n - 1)d.;Compute 3 + 19(4).","a_20 = 3 + 76 = 79."
+5,"Find the sum of the first 10 terms of an arithmetic sequence with a1 = 2 and a10 = 20.",110,60,Y,"Use S_n = n(a1 + an)/2.;Compute 10(22)/2.","The sum is 110."

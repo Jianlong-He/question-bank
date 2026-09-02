@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"In y - 5 = 3(x - 2), what is the slope?",3,60,Y,"Compare with y - y1 = m(x - x1).","3."
+2,"Write point-slope form for slope 4 through (2, -3).",y+3=4(x-2)|y + 3 = 4(x - 2),60,Y,"Use y - y1 = m(x - x1).|Subtracting -3 becomes y + 3.","y + 3 = 4(x - 2)."
+3,"Convert y - 6 = -2(x + 2) to slope-intercept form. What is the y-intercept?",2,60,Y,"Distribute -2.|Then add 6 to both sides.","y = -2x + 2 → b = 2."
+4,"Does (3, 5) satisfy y - 1 = 2(x - 1)? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Substitute x = 3 and y = 5.","Left = 4; right = 2(2) = 4 → Yes."
+5,"A line has point-slope form y - 4 = -2(x - 3). What point is built into the equation? Enter x then y.","3, 4",60,Y,"Compare with y - y1 = m(x - x1).","(3, 4)."

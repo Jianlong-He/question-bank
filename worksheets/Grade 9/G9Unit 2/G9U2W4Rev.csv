@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve 3x - 6 < -9 or 2x + 1 ≥ 9.",x < -1 or x >= 4|x < -1 or x ≥ 4|x<-1 or x>=4|x<-1 or x≥4,60,Y,"Solve each inequality separately.|Join the answers with or.","x < -1 or x ≥ 4."
+2,"Solve 6 ≤ -3x < 12.",-4 < x <= -2|-4 < x ≤ -2|-4<x<=-2|-4<x≤-2,60,Y,"Divide every part by -3.|Reverse both inequality signs.","-2 ≥ x > -4 → -4 < x ≤ -2."
+3,"A temperature t is outside the safe range from 3°C through 9°C. Write the compound inequality.",t < 3 or t > 9|t<3 or t>9,60,Y,"Outside means below the lower endpoint or above the upper endpoint.","t < 3 or t > 9."
+4,"Solve x + 4 ≤ 0 or 2x - 5 > 5.",x <= -4 or x > 5|x ≤ -4 or x > 5|x<=-4 or x>5|x≤-4 or x>5,60,Y,"Solve each branch independently.","x ≤ -4 or x > 5."
+5,"Solve -4 < 2 - 3x ≤ 8.",-2 <= x < 2|-2 ≤ x < 2|-2<=x<2|-2≤x<2,60,Y,"Subtract 2 from all parts.|Divide by -3 and reverse both signs.","-6 < -3x ≤ 6 → 2 > x ≥ -2."

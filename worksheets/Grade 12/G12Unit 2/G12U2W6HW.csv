@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve sin(x) = 0 on 0 <= x <= 2pi. Enter solutions in increasing order.","0, pi, 2pi|0, π, 2π",60,Y,"Sine is the unit-circle y-coordinate.;It is zero on the horizontal axis.","The solutions are 0, pi, and 2pi."
+2,"Solve cos(x) = 1/2 on 0 <= x < 2pi. Enter solutions in increasing order.","pi/3, 5pi/3|π/3, 5π/3",60,Y,"The reference angle is pi/3.;Cosine is positive in Quadrants I and IV.","The solutions are pi/3 and 5pi/3."
+3,"Write the general solution of sin(x) = 1.",pi/2+2pi k|π/2+2πk|pi/2+2pik,60,Y,"Sine reaches 1 once per cycle.;Add integer multiples of 2pi.","x = pi/2 + 2pi k for any integer k."
+4,"Write the general solution of cos(x) = -1.",pi+2pi k|π+2πk|pi+2pik,60,Y,"Cosine reaches -1 at pi in each cycle.;Add multiples of 2pi.","x = pi + 2pi k for any integer k."
+5,"Solve sin(x) = 1/2 on 0 <= x < 2pi. Enter solutions in increasing order.","pi/6, 5pi/6|π/6, 5π/6",60,Y,"The reference angle is pi/6.;Sine is positive in Quadrants I and II.","The solutions are pi/6 and 5pi/6."

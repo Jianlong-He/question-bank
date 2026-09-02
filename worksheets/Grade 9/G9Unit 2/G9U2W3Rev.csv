@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Solve 3(2x - 2) > 2x + 10.",x > 4|x>4,60,Y,"Distribute 3 and collect x-terms.","6x - 6 > 2x + 10 → 4x > 16 → x > 4."
+2,"Solve -2(x + 3) ≥ 8.",x <= -7|x ≤ -7|x<=-7|x≤-7,60,Y,"Divide by -2 and reverse the inequality.|Then subtract 3.","x + 3 ≤ -4 → x ≤ -7."
+3,"Solve (3/4)x + 2 ≥ 8.",x >= 8|x ≥ 8|x>=8|x≥8,60,Y,"Subtract 2.|Multiply by 4/3, which is positive.","(3/4)x ≥ 6 → x ≥ 8."
+4,"An elevator can carry at most 800 kg. Equipment weighs 200 kg, and each person is counted as 100 kg. What is the greatest number of people allowed?",6,60,Y,"Write 200 + 100p ≤ 800.","100p ≤ 600 → p ≤ 6."
+5,"A liquid starts at 20°C and cools 3°C per hour. It must stay above 8°C. For how many hours h does it stay above 8°C? Enter the complete inequality for h.",h < 4|h<4,60,Y,"Write 20 - 3h > 8.|The sign reverses when dividing by -3.","-3h > -12 → h < 4."

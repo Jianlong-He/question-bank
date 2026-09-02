@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"A is 4x3 and B is 3x2. What are the dimensions of AB?",4x2|4 by 2,60,Y,"The inner dimensions cancel.;Keep the outer ones.","AB has dimensions 4x2."
+2,"Multiply the row [1, 6] by the column [4, 2].",16,60,Y,"Use a dot product.;Compute 1(4) + 6(2).","The result is 4 + 12 = 16."
+3,"Find the top-left entry of [[1, 2], [3, 4]][[5, 6], [7, 8]].",19,60,Y,"Dot the first row with the first column.;Compute 1(5) + 2(7).","The entry is 5 + 14 = 19."
+4,"Is matrix multiplication commutative in general? Enter Yes or No.",No|no|N|n,60,Y,"AB and BA can differ.;They may not even both be defined.","No — matrix multiplication is not commutative in general."
+5,"A is 2x3 and B is 3x2. Is BA defined? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Compare 2 columns of B with 2 rows of A.;The inner dimensions match.","Yes — BA is defined and is 3x3."

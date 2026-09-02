@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Does $y = x^3$ represent a function? (Yes/No)",Yes|Y|yes,60,Y,"Every real number cubed gives exactly one unique answer","It passes the vertical line test → yes"
+2,"Rewrite the equation y = 3x - 4 as a function. What is f(6)?",14,60,Y,"Replace y with f(x) and substitute x = 6","f(6) = 18 - 4 = 14"
+3,"If f(x) = 3x + 2 and f(x) = 14, what is the value of x?",4,60,Y,"Set f(x) equal to 14 and solve for x","3x + 2 = 14 → x = 4"
+4,"Which of the following represents a function? $\{(2,5), (2,6)\}$ $\{(3,4), (5,4)\}$ $\{(6,7), (6,8)\}$","$\{(3,4), (5,4)\}$",60,Y,"Check for repeated x-values","Only the middle set has unique inputs"
+5,"A taxi charges a $5 flat fee plus $2 per kilometer. Write a function rule for the total cost C of a ride that is x kilometers long.",C=2x+5,60,Y,"Translate the words into an equation","C = 2x + 5"

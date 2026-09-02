@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"The cost of a van is $y = 40x + 150$. What does 150 represent? ""Deposit fee"" ""Cost per mile"" ""Total cost""","""Deposit fee""",60,Y,"The constant term (y-intercept) is the starting value","150 is the flat fee before any miles are driven"
+2,"The equation y = 4x + 12 represents the total cost y (in dollars) for x hours of car rental. How much will 5 hours cost?",32,60,Y,"Substitute x = 5 into the equation","y = 20 + 12 = 32"
+3,"A water tank is being filled at a rate modeled by y = 5x + 30, where y is the amount of water (in liters) after x minutes. How much water will be in the tank after 6 minutes?",60,60,Y,"Substitute x = 6 into the equation","y = 30 + 30 = 60"
+4,"Machine A makes 60 parts in 3 hours. Machine B makes 48 parts in 2 hours. Which is faster? Machine_A Machine_B",Machine_B,60,Y,"Find the unit rate for each","A: 60/3 = 20; B: 48/2 = 24; B is faster"
+5,"Fill: A gym charges $\$25$/month plus a $\$40$ sign-up fee. Find the total cost for 4 months.",140,60,Y,"Model the cost: $y = 25x + 40$;Substitute $x = 4$","y = 100 + 40 = 140"

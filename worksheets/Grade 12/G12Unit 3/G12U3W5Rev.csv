@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"How many complex roots does a cubic polynomial have, counting multiplicity?",3|three,60,Y,"The degree is 3.;Apply the fundamental theorem of algebra.","A cubic has three complex roots counting multiplicity."
+2,"A degree 6 polynomial has how many complex roots, counting multiplicity?",6|six,60,Y,"The count equals the degree.;Repeated roots count repeatedly.","It has six complex roots."
+3,"Can a real quadratic have exactly one non-real root? Enter Yes or No.",No|no|N|n,60,Y,"Non-real roots of real polynomials come in conjugate pairs.;One alone is impossible.","No — non-real roots come in pairs."
+4,"A real cubic has roots 1 and 2 + i. What is its third root?",2-i|2 - i,60,Y,"Non-real roots pair with conjugates.;Flip the imaginary sign.","The third root is 2 - i."
+5,"The polynomial (x - 2)^3 has how many distinct roots?",1|one,60,Y,"The only root is 2.;Its multiplicity is 3.","There is one distinct root, x = 2."
