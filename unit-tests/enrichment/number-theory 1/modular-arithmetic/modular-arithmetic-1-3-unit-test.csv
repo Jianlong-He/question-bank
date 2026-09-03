@@ -1,0 +1,9 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,"Using the fact that 3, 4 and 2, 6 are pairs of inverses (mod 11), compute 6! (mod 11), where 6! = 6 × 5 × 4 × 3 × 2 × 1.",5,60,N,,6 × 5 × 4 × 3 × 2 × 1 = 5 × (4 × 3) × (6 × 2) ≡ 5 × 1 × 1 = 5 (mod 11).
+2,"Using the fact that 3, 4 and 2, 6 are pairs of inverses (mod 11), compute 6^6 (mod 11). Hint: 6^6 = 6^3 × 2^3 × 3^3.",5,60,N,,"6^6 = 6^3 × 2^3 × 3^3 = (6 × 2)^3 × 3^3 ≡ 1^3 × 27 = 27 ≡ 5 (mod 11). (Check: 6^2 ≡ 3, 6^3 ≡ 18 ≡ 7, 6^6 ≡ 49 ≡ 5.)"
+3,"Find all moduli n such that 7 and 9 are inverses (mod n), i.e. 7 × 9 ≡ 1 (mod n). List them separated by commas.","31,62|31, 62",60,N,,"7 × 9 = 63, so n must divide 62 = 2 × 31 and n > 9. The factors of 62 greater than 9 are 31 and 62."
+4,"Find x such that 5x ≡ 1 (mod 15), or say that no such x exists.",Does not exist|None|No solution,60,N,,"No such x exists: gcd(5, 15) = 5, so 5 and 15 are not coprime and 5 has no inverse mod 15."
+5,Find the smallest positive integer n such that 3n ≡ 1 (mod 17).,6,60,N,,"We need 3n = 17k + 1. For k = 1, 3n = 18, so n = 6."
+6,"What are the possible values of n^2 (mod 4), where n can be any positive integer? Choices: A) {0,1,2,3} | B) {0,2} | C) {0,1} | D) {1,2} Answer with the letter only.",C,60,N,,"Every integer is 0, 1, 2 or 3 mod 4, and squaring gives 0, 1, 0, 1 respectively. So n^2 mod 4 is always 0 (n even) or 1 (n odd): choice C."
+7,"Find a, b ∈ {0, ..., 6} such that a × b ≡ 1 (mod 7) and a + b ≡ 1 (mod 7). Answer as a,b.","3,5|5,3",60,N,,"a = 3, b = 5 (or the reverse): 3 + 5 = 8 ≡ 1 and 3 × 5 = 15 ≡ 1 (mod 7)."
+8,Find the smallest n > 9 such that 6 × 9 (mod n) = 6 + 9 (mod n).,13,60,N,,"We need 54 ≡ 15 (mod n), i.e. n divides 54 - 15 = 39 = 3 × 13. The smallest factor greater than 9 is 13. Check: 54 mod 13 = 2 and 15 mod 13 = 2."

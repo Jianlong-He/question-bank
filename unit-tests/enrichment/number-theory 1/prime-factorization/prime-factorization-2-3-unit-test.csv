@@ -1,0 +1,10 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Reduce 221/323 to lowest terms using prime factorization.,13/19,60,N,,"221 = 13 × 17 and 323 = 17 × 19, so dividing by 17 gives 13/19."
+2,Reduce 136/184 to lowest terms using prime factorization.,17/23,60,N,,"136 = 2^3 × 17 and 184 = 2^3 × 23, so dividing by 8 gives 17/23."
+3,Simplify (512 + 64) / (128 - 32) using prime factorization.,6,60,N,,512 + 64 = 2^9 + 2^6 = 2^6(2^3 + 1) = 2^6 × 9 and 128 - 32 = 2^7 - 2^5 = 2^5(2^2 - 1) = 2^5 × 3. The quotient is 2 × 3 = 6.
+4,"Find integers x, y such that 51x + 17y = 17. Answer as x,y.","0,1",60,N,,"Since 17 divides 51 (51 = 3 × 17), we can write 17 = 51(0) + 17(1). So x = 0, y = 1."
+5,"Find integers x and y such that 15x + 9y = gcd(15, 9). Answer as x,y.","-1,2|2,-3",60,N,,"gcd(15, 9) = 3. From 15 = 9 + 6 and 9 = 6 + 3 we get 3 = 9 - 6 = 9 - (15 - 9) = 2(9) - 15, so 15(-1) + 9(2) = 3: x = -1, y = 2."
+6,"Find integers x and y such that 28x + 12y = gcd(28, 12). Answer as x,y.","1,-2",60,N,,"gcd(28, 12) = 4 and 28(1) + 12(-2) = 28 - 24 = 4. So x = 1, y = -2."
+7,"Find integers x and y such that 35x + 14y = gcd(35, 14). Answer as x,y.","1,-2",60,N,,"gcd(35, 14) = 7 and 35(1) + 14(-2) = 35 - 28 = 7. So x = 1, y = -2."
+8,"Find the GCD and LCM of 120 and 252 using prime factorization. Answer as GCD,LCM.","12,2520",60,N,,120 = 2^3 × 3 × 5 and 252 = 2^2 × 3^2 × 7. GCD = 2^2 × 3 = 12 and LCM = 2^3 × 3^2 × 5 × 7 = 2520.
+9,"Determine the integer solutions to 21x + 14y = 10, or explain why there are none.",No solutions|None|Does not exist,60,N,,"gcd(21, 14) = 7, so by Bézout's identity 21x + 14y is always a multiple of 7. Since 7 does not divide 10, there are no integer solutions."

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find the prime factorization of 84.,2^2*3*7|2^2×3×7|2*2*3*7,60,Y,Start with a factor tree: 84 = 2 × 42,84 = 2 × 42 = 2 × 2 × 21 = 2^2 × 3 × 7.
+2,Find the GCD of 45 and 75.,15,60,Y,Prime factorize each number,"45 = 3^2 × 5 and 75 = 3 × 5^2, so GCD = 3 × 5 = 15."
+3,Find the prime factorization of 2310.,2*3*5*7*11|2×3×5×7×11,60,Y,2310 = 10 × 231,2310 = 10 × 231 = (2 × 5) × (3 × 77) = 2 × 3 × 5 × 7 × 11.
+4,Two ribbons of lengths 126 cm and 162 cm are cut into equal pieces without remainder. What is the greatest possible length (in cm) for each piece?,18,60,Y,The piece length must divide both 126 and 162,"126 = 2 × 3^2 × 7 and 162 = 2 × 3^4, so GCD(126, 162) = 2 × 3^2 = 18 cm."
+5,"If GCD(x, 40) = 8 and x ≤ 40, what are the possible values of x? List them separated by commas.","8,16,24,32|8, 16, 24, 32",60,Y,"x must be a multiple of 8;Check GCD(x, 40) for each candidate","x must be a multiple of 8, so x ∈ {8, 16, 24, 32, 40}. GCD(8,40) = GCD(16,40) = GCD(24,40) = GCD(32,40) = 8 but GCD(40,40) = 40, so x = 8, 16, 24 or 32."
