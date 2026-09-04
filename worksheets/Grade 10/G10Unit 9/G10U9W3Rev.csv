@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","In a right triangle what ratio defines sine of an acute angle?","opposite/hypotenuse|opposite over hypotenuse","60","Y","Recall SOH CAH TOA.;SOH stands for sine opposite hypotenuse.","sin=opposite/hypotenuse."
+"2","For an angle with opposite side 8 adjacent side 15 and hypotenuse 17 find cos(theta).","15/17","60","Y","Cosine is adjacent over hypotenuse.;Use 15 and 17.","cos(theta)=15/17."
+"3","An angle has tangent equal to 1. What is the angle in degrees?","45|45 degrees","60","Y","Opposite equals adjacent.;The triangle is isosceles right.","The angle is 45 degrees."
+"4","A sight line makes a 30-degree angle above level ground. If the horizontal distance is 12 m find the rise to the nearest tenth.","6.9","60","Y","rise=12*tan(30).;tan(30) is about 0.577.","12*0.577 is about 6.9 m."
+"5","Why do right triangles with the same acute angle have equal trig ratios?","they are similar|similar triangles|AA similarity","60","Y","Each has a right angle and the same acute angle.;Similar triangles have proportional sides.","They are similar by AA."

@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Write radian measure theta as a ratio of arc length s to radius r.","s/r|theta=s/r","60","Y","One radian is when the arc equals the radius.;Divide arc length by radius.","theta=s/r."
+"2","Convert 270 degrees to radians.","3pi/2|3pi/2 radians","60","Y","Multiply by pi/180.;270/180=3/2.","270 degrees is 3pi/2 radians."
+"3","Convert 30 degrees to radians.","pi/6|pi/6 radians","60","Y","Multiply by pi/180.;30/180=1/6.","30 degrees is pi/6 radians."
+"4","Convert 5pi/6 radians to degrees.","150|150 degrees","60","Y","Multiply by 180/pi.;5*180/6.","5pi/6 radians is 150 degrees."
+"5","An arc is 1/8 of a circumference. Find its central angle in radians.","pi/4|pi/4 radians","60","Y","A full circle is 2pi radians.;Divide 2pi by 8.","The angle is pi/4 radians."

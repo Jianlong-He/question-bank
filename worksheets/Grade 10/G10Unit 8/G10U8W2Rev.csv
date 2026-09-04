@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Complete the angle bisector theorem: BD/DC=____/AC.","AB","60","Y","The bisector divides the opposite side in the ratio of the adjacent sides.;The numerator is the side adjacent to B.","BD/DC=AB/AC."
+"2","Similar figures have length scale factor k. What is their area scale factor?","k^2|k squared","60","Y","Area is two-dimensional.;Square the length factor.","The area scale factor is k^2."
+"3","Two similar triangles have areas 10 and 90. What is the length scale factor from small to large?","3","60","Y","Area ratio is the square of the length ratio.;90/10=9 so take the square root.","The length scale factor is 3."
+"4","Congruent triangles are similar with what scale factor?","1|one","60","Y","Congruent means same size.;Corresponding sides are equal.","The scale factor is 1."
+"5","In triangle ABC an angle bisector from A meets BC at D. If AB=10 AC=15 and BD=4 find DC.","6","60","Y","Use BD/DC=AB/AC.;4/DC=10/15.","DC=4*15/10=6."

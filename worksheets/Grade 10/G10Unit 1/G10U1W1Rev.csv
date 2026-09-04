@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","What is the vertex of y=-|x+1|+6? Enter the x-coordinate then y-coordinate.","-1,6","60","Y","Write x+1 as x-(-1).;The vertex is (h k) with k=6.","The vertex is (-1 6)."
+"2","Does y=-|x+1|+6 have a maximum or a minimum value?","maximum|a maximum","60","Y","Look at the sign of the coefficient.;A negative coefficient opens the graph downward.","The graph opens downward so the vertex is a maximum."
+"3","What is the maximum value of y=-|x+1|+6?","6","60","Y","The maximum occurs at the vertex.;The y-coordinate of the vertex is the maximum.","The maximum value is 6."
+"4","Write the equation of y=|x| reflected across the x-axis and shifted 3 units left.","y=-|x+3|","60","Y","A reflection across the x-axis puts a negative sign in front.;A left shift adds inside the absolute value.","The equation is y=-|x+3|."
+"5","What is the axis of symmetry of y=2|x-3|-4?","x=3|x = 3","60","Y","The axis passes through the vertex.;The vertex has x-coordinate 3.","The axis of symmetry is x=3."

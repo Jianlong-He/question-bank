@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","An object has mass 150 g and volume 50 cubic centimeters. Find its volume density.","3","60","Y","Density is mass divided by volume.;150/50.","The density is 3 g per cubic centimeter."
+"2","A material has density 8 g per cubic centimeter and volume 5 cubic centimeters. Find its mass.","40","60","Y","Mass is density times volume.;8*5.","The mass is 40 g."
+"3","A solid has mass 90 g and density 6 g per cubic centimeter. Find its volume.","15","60","Y","Volume is mass divided by density.;90/6.","The volume is 15 cubic centimeters."
+"4","A population of 1200 occupies 40 square kilometers. Find the population density.","30","60","Y","Divide population by area.;1200/40.","The density is 30 people per square kilometer."
+"5","A tank is a rectangular prism 5 m by 2 m by 3 m. Find its volume.","30","60","Y","Multiply the three dimensions.;5*2*3.","The volume is 30 cubic meters."

@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Where is the vertex relative to the focus and directrix?","halfway between them|midway between the focus and directrix","60","Y","The vertex is on the parabola.;It is equidistant from focus and directrix.","Halfway between them."
+"2","For (x-h)^2=4p(y-k) what is the directrix?","y=k-p","60","Y","The directrix is p units from the vertex.;It is on the opposite side from the focus.","y=k-p."
+"3","Find p for x^2=-4y.","-1","60","Y","Compare with x^2=4py.;4p=-4.","p=-1."
+"4","Find the focus of x^2=-4y. Enter x then y.","0,-1","60","Y","The focus is (0 p).;p=-1.","The focus is (0 -1)."
+"5","A parabola has vertex (0 0) and focus (0 5). Write its equation.","x^2=20y","60","Y","p is the distance from vertex to focus.;Use x^2=4py with p=5.","x^2=20y."

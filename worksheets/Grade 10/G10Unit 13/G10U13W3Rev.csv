@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","For independent events complete the multiplication rule P(A and B)=____.","P(A)P(B)|P(A)*P(B)","60","Y","Independence means no effect on each other.;Multiply the two probabilities.","P(A and B)=P(A)P(B)."
+"2","A student guesses on two independent true-false questions. Find the probability both are wrong.","1/4|0.25","60","Y","Each guess is wrong with probability 1/2.;Multiply.","1/2*1/2=1/4."
+"3","A bag has 2 red and 3 blue balls. Without replacement find P(blue then blue).","3/10|0.3","60","Y","The first draw has probability 3/5.;The second has probability 2/4.","3/5*2/4=6/20=3/10."
+"4","For dependent events complete the general rule P(A and B)=P(A)____.","P(B given A)|P(B|A)","60","Y","Use a conditional probability.;The second factor assumes A happened.","P(A and B)=P(A)P(B given A)."
+"5","A fair die is rolled twice. Find the probability of a 6 then a 6.","1/36","60","Y","Rolls are independent.;Multiply 1/6 by 1/6.","1/36."

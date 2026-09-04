@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Which form most directly shows the vertex of a quadratic?","vertex form|vertex","60","Y","y=a(x-h)^2+k.;The vertex is (h k).","Vertex form shows the vertex."
+"2","Which form most directly shows the y-intercept?","standard form|standard","60","Y","y=ax^2+bx+c.;Substituting x=0 leaves c.","Standard form shows the y-intercept c."
+"3","Which function is narrower: f(x)=4(x-1)^2 or g(x)=(x+3)^2? Enter f or g.","f|F","60","Y","Compare the absolute values of a.;A larger |a| is narrower.","f with a=4 is narrower."
+"4","A factored model h(t)=-3(t-2)(t-8) is zero at what two times? Enter in increasing order.","2,8","60","Y","Set each factor equal to zero.;t=2 or t=8.","The zeros are 2 and 8."
+"5","For h(t)=-3(t-2)(t-8) at what time does the maximum occur?","5","60","Y","The maximum is at the vertex.;The vertex is midway between the zeros.","(2+8)/2=5."

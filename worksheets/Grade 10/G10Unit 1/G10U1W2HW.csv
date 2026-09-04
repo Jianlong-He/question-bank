@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","For f(x)=x-2 when x<0 and f(x)=3x when x>=0 find f(-3).","-5","60","Y","Decide which rule applies to x=-3.;Since -3<0 use x-2.","f(-3)=-3-2=-5."
+"2","For f(x)=x-2 when x<0 and f(x)=3x when x>=0 find f(0).","0","60","Y","Check the boundary condition.;x=0 satisfies x>=0 so use 3x.","f(0)=3(0)=0."
+"3","For f(x)=4 when x<1 and f(x)=x+1 when x>=1 find f(1).","2","60","Y","x=1 satisfies x>=1.;Use the rule x+1.","f(1)=1+1=2."
+"4","For f(x)=-2 when x<0 and f(x)=3 when x>=0 what is the range?","{-2 3}|-2 and 3","60","Y","The range is the set of output values.;Each piece is a constant.","The only outputs are -2 and 3."
+"5","A taxi charges 4 dollars for the first kilometer and 2 dollars for each additional kilometer. What is the fare for 5 kilometers?","12|12 dollars","60","Y","The first kilometer costs 4 dollars.;There are 4 additional kilometers at 2 dollars each.","4+4(2)=12 dollars."

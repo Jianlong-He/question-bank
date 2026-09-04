@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Evaluate 4^(3/2).","8","60","Y","Take the square root first.;4^(1/2)=2 then cube.","2^3=8."
+"2","Evaluate 25^(-1/2).","1/5|0.2","60","Y","A negative exponent means reciprocal.;25^(1/2)=5.","25^(-1/2)=1/5."
+"3","Evaluate 8^(-2/3).","1/4|0.25","60","Y","Compute 8^(2/3) first.;8^(2/3)=4.","8^(-2/3)=1/4."
+"4","Evaluate (1/9)^(-1/2).","3","60","Y","A negative exponent flips the fraction.;9^(1/2)=3.","(1/9)^(-1/2)=3."
+"5","Simplify x^(-1/2) using only positive exponents.","1/x^(1/2)|1/sqrt(x)|1/√x","60","Y","A negative exponent means reciprocal.;Move x to the denominator.","x^(-1/2)=1/x^(1/2)."

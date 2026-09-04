@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","A 30-60-90 triangle has short leg 4. Find the hypotenuse.","8","60","Y","The hypotenuse is twice the short leg.;2*4.","The hypotenuse is 8."
+"2","A 30-60-90 triangle has short leg 4. Find the long leg.","4sqrt(3)|4 sqrt(3)","60","Y","The long leg is the short leg times sqrt(3).;4*sqrt(3).","The long leg is 4sqrt(3)."
+"3","A 45-45-90 triangle has leg 9. Find the hypotenuse.","9sqrt(2)|9 sqrt(2)","60","Y","The hypotenuse is the leg times sqrt(2).;9*sqrt(2).","The hypotenuse is 9sqrt(2)."
+"4","A 45-45-90 triangle has hypotenuse 14. Find either leg.","7sqrt(2)|7 sqrt(2)","60","Y","Divide the hypotenuse by sqrt(2).;14/sqrt(2)=7sqrt(2).","Each leg is 7sqrt(2)."
+"5","Find the area of a regular hexagon with side length 4.","24sqrt(3)|24 sqrt(3)","60","Y","Split it into 6 equilateral triangles.;Each has area (sqrt(3)/4)*16=4sqrt(3).","6*4sqrt(3)=24sqrt(3)."

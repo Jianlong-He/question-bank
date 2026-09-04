@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","The quotient of two nonzero rational numbers is always rational. Enter True or False.","True|true|T|t","60","Y","Write the numbers as a/b and c/d.;The quotient is (ad)/(bc).","True because the quotient is a ratio of integers."
+"2","If r is rational and x is irrational is r-x rational or irrational?","irrational","60","Y","Suppose r-x were rational.;Then x=r-(r-x) would be rational.","r-x is irrational."
+"3","Is sqrt(5)*sqrt(5) rational or irrational?","rational","60","Y","A square root times itself gives the radicand.;sqrt(5)*sqrt(5)=5.","5 is rational."
+"4","If x and y are irrational must x-y be irrational? Enter Yes or No.","No|no|N|n","60","Y","Try x=y=sqrt(2).;sqrt(2)-sqrt(2)=0.","No the difference can be rational."
+"5","Is 3*sqrt(2) rational or irrational?","irrational","60","Y","sqrt(2) is irrational.;A nonzero rational times an irrational is irrational.","3*sqrt(2) is irrational."

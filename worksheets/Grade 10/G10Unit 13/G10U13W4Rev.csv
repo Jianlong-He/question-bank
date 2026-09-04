@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Write the addition rule for two events A and B.","P(A)+P(B)-P(A and B)|P(A)+P(B)-P(A intersection B)","60","Y","Adding counts the overlap twice.;Subtract the overlap once.","P(A or B)=P(A)+P(B)-P(A and B)."
+"2","If A and B are mutually exclusive what is P(A and B)?","0|zero","60","Y","They cannot both happen.;No overlap.","0."
+"3","A Venn diagram has 10 in A only 6 in B only 4 in both and 20 outside. Find P(A or B).","1/2|0.5|20/40","60","Y","Count outcomes in A or B.;10+6+4=20 out of 40.","20/40=1/2."
+"4","In a Venn diagram what region represents A and B?","intersection|overlap|A intersection B","60","Y","Both events happen.;Where the circles overlap.","The intersection."
+"5","A fair die is rolled. Find the probability of rolling an even number or a number greater than 4.","2/3|4/6","60","Y","Even gives 2 4 6 and greater than 4 gives 5 6.;The union is 2 4 5 6.","4/6=2/3."

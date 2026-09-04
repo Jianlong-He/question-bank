@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","A medication amount halves every 8 hours. What fraction remains after 24 hours?","1/8","60","Y","Count the halvings.;24/8=3.","(1/2)^3=1/8."
+"2","An account starts at 2000 dollars and grows 5% annually. Write its value after t years.","A=2000*1.05^t|2000*1.05^t|A=2000(1.05)^t","60","Y","The growth factor is 1.05.;Use A=a*b^t.","A=2000(1.05)^t."
+"3","A car worth 30000 dollars loses 10% of its value yearly. Find its value after 2 years.","24300","60","Y","The decay factor is 0.9.;Compute 30000*0.9^2.","30000*0.81=24300."
+"4","A bacteria culture increases from 250 to 300 in one hour. What is the hourly growth factor?","1.2|6/5","60","Y","Divide the new amount by the old amount.;300/250.","The growth factor is 1.2."
+"5","The decay factor is 0.74. What is the percent decrease?","26%|26 percent|0.26","60","Y","Subtract the factor from 1.;1-0.74=0.26.","The decrease is 26%."

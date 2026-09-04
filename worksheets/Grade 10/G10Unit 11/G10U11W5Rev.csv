@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","What is a segment from the center of a circle to a point on the circle called?","radius|a radius","60","Y","It is half a diameter.;Every such segment has the same length.","A radius."
+"2","What line intersects a circle at two points?","secant|a secant","60","Y","A tangent touches at one point.;Name the line that cuts through.","A secant."
+"3","Write the area formula for a circle of radius r.","pi*r^2|pi r^2|A=pi*r^2","60","Y","The formula uses r squared.;Multiply by pi.","A=pi*r^2."
+"4","Are all circles similar? Enter Yes or No.","Yes|yes|Y|y","60","Y","Any circle can be dilated to another.;Dilation preserves shape.","Yes."
+"5","A circle has diameter 10. Find its area in terms of pi.","25pi|25*pi","60","Y","Find the radius first.;r=5 so use pi*25.","The area is 25pi."

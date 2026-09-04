@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Write the formula for volume density using mass m and volume V.","m/V|mass/volume|density=m/V","60","Y","Density measures mass per unit volume.;Divide mass by volume.","density=m/V."
+"2","A cylinder has volume 400 cubic centimeters and mass 1000 g. Find its density.","2.5|5/2","60","Y","Divide mass by volume.;1000/400.","The density is 2.5 g per cubic centimeter."
+"3","Two similar solids have length scale factor 2. What is their volume ratio image:original?","8:1|8|8 to 1","60","Y","Cube the length factor.;2^3=8.","The volume ratio is 8:1."
+"4","A tank holds 30 cubic meters and liquid density is 900 kg per cubic meter. Find the liquid mass.","27000","60","Y","Mass is density times volume.;900*30.","The mass is 27000 kg."
+"5","A population of 4500 is spread over 15 square kilometers. Find the population density.","300","60","Y","Divide population by area.;4500/15.","The density is 300 people per square kilometer."

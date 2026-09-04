@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","A parabola has focus (0 3) and directrix y=-3. Find its vertex. Enter x then y.","0,0","60","Y","The vertex is midway between focus and directrix.;Average 3 and -3.","The vertex is (0 0)."
+"2","Find p for x^2=12y.","3","60","Y","Compare with x^2=4py.;4p=12.","p=3."
+"3","Find the focus of x^2=12y. Enter x then y.","0,3","60","Y","The focus is (0 p).;p=3.","The focus is (0 3)."
+"4","Find the directrix of x^2=12y.","y=-3","60","Y","The directrix is y=-p.;p=3.","The directrix is y=-3."
+"5","If p is positive in (x-h)^2=4p(y-k) which direction does the parabola open?","up|upward","60","Y","The focus is above the vertex when p>0.;The parabola opens toward the focus.","It opens upward."

@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Solve x^2+8x+15=0. Enter the smaller root.","-5","60","Y","Factor the left side.;(x+3)(x+5)=0.","The roots are -3 and -5 so the smaller is -5."
+"2","Solve 3x^2-12x=0. Enter the nonzero root.","4","60","Y","Factor out 3x.;3x(x-4)=0.","The roots are 0 and 4."
+"3","Solve x^2-25=0. Enter the positive root.","5","60","Y","Factor as a difference of squares.;(x-5)(x+5)=0.","The positive root is 5."
+"4","Solve x^2-6x+9=0.","3","60","Y","Check for a perfect-square trinomial.;(x-3)^2=0.","The only root is 3."
+"5","Solve (x+4)(x-7)=0. Enter the roots in increasing order.","-4,7","60","Y","Set each factor equal to zero.;x=-4 or x=7.","The roots are -4 and 7."

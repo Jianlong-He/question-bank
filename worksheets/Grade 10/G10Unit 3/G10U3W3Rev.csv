@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Compared with y=x^2 is y=0.5x^2 wider or narrower?","wider","60","Y","Compare the coefficient with 1.;A coefficient between 0 and 1 makes the graph wider.","0.5x^2 is wider."
+"2","A projectile is modeled by h(t)=-5(t-2)^2+45. At what time is maximum height reached?","2|2 seconds","60","Y","The maximum occurs at the vertex.;The vertex time is h=2.","The maximum height is reached at t=2."
+"3","For h(t)=-5(t-2)^2+45 what is the maximum height?","45","60","Y","The maximum is the vertex y-value.;k=45.","The maximum height is 45."
+"4","Write a vertex-form quadratic with vertex (-3 5) that opens downward using a=-1.","y=-(x+3)^2+5|f(x)=-(x+3)^2+5","60","Y","Use y=a(x-h)^2+k.;h=-3 so x-h becomes x+3.","y=-(x+3)^2+5."
+"5","What is the vertex of y=-2(x+1)^2+9? Enter x-coordinate then y-coordinate.","-1,9","60","Y","Write x+1 as x-(-1).;k=9.","The vertex is (-1 9)."

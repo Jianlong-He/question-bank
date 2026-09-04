@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Describe the shift from y=x^2 to y=(x+2)^2-6.","2 units left and 6 units down|left 2 and down 6","60","Y","x+2 shifts horizontally.;-6 shifts vertically.","The graph moves 2 units left and 6 units down."
+"2","Write y=x^2 shifted 7 units right.","y=(x-7)^2","60","Y","A right shift subtracts inside.;Replace x with x-7.","y=(x-7)^2."
+"3","Write y=x^2 shifted 3 units up.","y=x^2+3","60","Y","An upward shift adds outside.;Add 3.","y=x^2+3."
+"4","Write y=x^2 vertically stretched by factor 5.","y=5x^2","60","Y","A vertical stretch multiplies the output.;Multiply by 5.","y=5x^2."
+"5","What is the vertex of y=3(x-2)^2+1? Enter x-coordinate then y-coordinate.","2,1","60","Y","Use a(x-h)^2+k.;h=2 and k=1.","The vertex is (2 1)."

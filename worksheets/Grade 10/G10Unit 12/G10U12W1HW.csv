@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Find the center of (x+1)^2+(y-4)^2=36. Enter h then k.","-1,4","60","Y","Compare with (x-h)^2+(y-k)^2=r^2.;x+1 means h=-1.","The center is (-1 4)."
+"2","Find the radius of (x+1)^2+(y-4)^2=36.","6","60","Y","The right side is r^2.;sqrt(36).","The radius is 6."
+"3","Write the equation of a circle centered at the origin with radius 7.","x^2+y^2=49","60","Y","Use x^2+y^2=r^2.;7^2=49.","x^2+y^2=49."
+"4","Write the equation of a circle with center (3 5) and radius 2.","(x-3)^2+(y-5)^2=4","60","Y","Use (x-h)^2+(y-k)^2=r^2.;r^2=4.","(x-3)^2+(y-5)^2=4."
+"5","Does point (0 5) lie on circle x^2+y^2=25? Enter Yes or No.","Yes|yes|Y|y","60","Y","Substitute the coordinates.;0+25=25.","Yes."

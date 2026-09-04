@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Is sqrt(3) rational or irrational?","irrational","60","Y","3 is prime.;The square root of a prime is irrational.","sqrt(3) is irrational."
+"2","Is sqrt(50) rational or irrational?","irrational","60","Y","Check whether 50 is a perfect square.;50=25*2 so sqrt(50)=5sqrt(2).","sqrt(50) is irrational."
+"3","Simplify sqrt(48).","4sqrt(3)|4√3","60","Y","Find the largest square factor of 48.;48=16*3.","sqrt(48)=4sqrt(3)."
+"4","Give an irrational number between 2 and 3.","sqrt(5)|√5|sqrt(6)|√6|sqrt(7)|√7|sqrt(8)|√8","60","Y","Square roots of non-squares are irrational.;Choose n with 4<n<9.","sqrt(5) is between 2 and 3 and irrational."
+"5","If sqrt(n) is rational for a positive integer n what must be true about n?","n is a perfect square|perfect square","60","Y","sqrt(4) and sqrt(9) are rational.;sqrt(2) and sqrt(3) are not.","n must be a perfect square."

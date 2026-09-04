@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","In triangle ABC an angle bisector from A meets BC at D. If AB=8 AC=12 and DC=9 find BD.","6","60","Y","Use BD/DC=AB/AC.;BD/9=8/12.","BD=9*8/12=6."
+"2","Two similar triangles have length scale factor 4. What is the area scale factor?","16","60","Y","Square the length factor.;4^2.","The area scale factor is 16."
+"3","A small triangle has area 15 and the length scale factor to a larger triangle is 3. Find the larger area.","135","60","Y","Area scales by the square of the length factor.;Multiply 15 by 9.","The larger area is 135."
+"4","A 6-unit altitude corresponds to an 18-unit altitude. What is the similarity scale factor?","3","60","Y","Altitudes scale like sides.;18/6.","The scale factor is 3."
+"5","Similar triangles have corresponding sides 4 and 12. A second pair is 9 and x. Find x.","27","60","Y","Find the scale factor 12/4=3.;Multiply 9 by 3.","x=27."

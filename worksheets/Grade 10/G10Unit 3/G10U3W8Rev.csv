@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","For y=(x-2)(x-6) find the vertex x-coordinate.","4","60","Y","The vertex lies midway between the roots.;Average 2 and 6.","The vertex x-coordinate is 4."
+"2","For y=(x-2)(x-6) find the vertex y-coordinate.","-4","60","Y","Substitute x=4.;Compute (4-2)(4-6).","y=(2)(-2)=-4."
+"3","Rewrite y=x^2+6x+2 in vertex form.","y=(x+3)^2-7","60","Y","Complete the square by adding and subtracting 9.;x^2+6x+9=(x+3)^2.","y=(x+3)^2-7."
+"4","Which method always works for a quadratic equation even when it does not factor nicely?","quadratic formula|the quadratic formula","60","Y","It uses a b and c.;It involves a square root of the discriminant.","The quadratic formula always works."
+"5","Find the x-coordinate of the vertex of y=2x^2-8x+1.","2","60","Y","Use x=-b/(2a).;Compute 8/(2*2).","The vertex x-coordinate is 2."

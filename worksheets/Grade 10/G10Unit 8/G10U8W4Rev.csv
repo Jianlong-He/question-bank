@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","What is the golden ratio rounded to three decimal places?","1.618","60","Y","It equals (1+sqrt(5))/2.;sqrt(5) is about 2.236.","The golden ratio is about 1.618."
+"2","If all lengths in a similar model triple by what factor does its volume change?","27","60","Y","Volume scales by the cube of the length factor.;3^3.","The volume is multiplied by 27."
+"3","A model car is built at scale 1:24. The model is 15 cm long. What is the real length in centimeters?","360","60","Y","Each model centimeter is 24 real centimeters.;Multiply 15 by 24.","The real length is 360 cm."
+"4","A scale drawing uses 2 cm for 3 m. How many centimeters represent 12 m?","8","60","Y","Set up 2/3=x/12.;Cross multiply.","x=24/3=8 cm."
+"5","A 1.8 m post casts a 2.4 m shadow while a building casts a 20 m shadow. Find the building height.","15","60","Y","Set up 1.8/2.4=h/20.;Cross multiply.","h=36/2.4=15 m."

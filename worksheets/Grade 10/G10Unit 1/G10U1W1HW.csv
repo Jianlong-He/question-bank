@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Describe the transformation from y=|x| to y=|x+3|-2.","3 units left and 2 units down|left 3 and down 2","60","Y","Inside the absolute value x+3 shifts horizontally.;Adding -2 outside shifts vertically.","x+3 moves the graph 3 units left and -2 moves it 2 units down."
+"2","What is the vertex of y=|x-5|+1? Enter the x-coordinate then y-coordinate.","5,1","60","Y","The vertex of y=|x-h|+k is (h k).;Here h=5 and k=1.","The vertex is (5 1)."
+"3","Compared with y=|x| is y=0.25|x| wider or narrower?","wider","60","Y","Compare the coefficient with 1.;A coefficient between 0 and 1 compresses vertically.","0.25 is less than 1 so the graph is wider."
+"4","Write the equation of y=|x| shifted 4 units right.","y=|x-4|","60","Y","A right shift subtracts inside the absolute value.;Replace x with x-4.","The equation is y=|x-4|."
+"5","For f(x)=3|x+2|-1 find f(1).","8","60","Y","Substitute x=1.;Compute 3|3|-1.","f(1)=3(3)-1=8."

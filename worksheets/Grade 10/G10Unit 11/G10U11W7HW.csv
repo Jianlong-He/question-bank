@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Convert 360 degrees to radians.","2pi|2*pi|2pi radians","60","Y","180 degrees is pi radians.;Double it.","360 degrees is 2pi radians."
+"2","Convert 45 degrees to radians.","pi/4|pi/4 radians","60","Y","Multiply by pi/180.;45/180=1/4.","45 degrees is pi/4 radians."
+"3","Convert pi/6 radians to degrees.","30|30 degrees","60","Y","Multiply by 180/pi.;180/6.","pi/6 radians is 30 degrees."
+"4","Convert 2pi/3 radians to degrees.","120|120 degrees","60","Y","Multiply by 180/pi.;2*180/3.","2pi/3 radians is 120 degrees."
+"5","Find the arc length when r=10 and theta=pi/5 radians in terms of pi.","2pi|2*pi","60","Y","Use s=r*theta.;10*(pi/5).","The arc length is 2pi."

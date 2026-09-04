@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Write the standard equation of a circle with center (h k) and radius r.","(x-h)^2+(y-k)^2=r^2","60","Y","Use the distance formula from the center.;Square both sides.","(x-h)^2+(y-k)^2=r^2."
+"2","Complete the square: x^2+10x+____=(x+5)^2.","25","60","Y","Take half of 10.;Square it.","5^2=25."
+"3","Rewrite x^2+y^2+6x-2y-6=0 in circle standard form.","(x+3)^2+(y-1)^2=16","60","Y","Complete the square for x and for y.;Add 9 and 1 to both sides.","(x+3)^2+(y-1)^2=6+9+1=16."
+"4","Find the center and radius of x^2+y^2+6x-2y-6=0. Enter h then k then r.","-3,1,4","60","Y","Use the standard form (x+3)^2+(y-1)^2=16.;r=sqrt(16).","Center (-3 1) and radius 4."
+"5","Write the equation of a circle with center (-2 0) and radius 1.","(x+2)^2+y^2=1","60","Y","Use (x-h)^2+(y-k)^2=r^2.;h=-2 so x-h becomes x+2.","(x+2)^2+y^2=1."

@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","For g(x)=x^2 when x<2 and g(x)=x+2 when x>=2 find g(1).","1","60","Y","Since 1<2 use the first rule.;Compute 1^2.","g(1)=1^2=1."
+"2","For g(x)=x^2 when x<2 and g(x)=x+2 when x>=2 find g(2).","4","60","Y","x=2 satisfies x>=2.;Use x+2.","g(2)=2+2=4."
+"3","A piecewise graph has an open circle at (3 1) and a closed circle at (3 5). What is f(3)?","5","60","Y","A closed circle means the point is included.;An open circle means the point is excluded.","f(3)=5 because the closed circle is at y=5."
+"4","For f(x)=|x| when x<0 and f(x)=2x when x>=0 find f(-6).","6","60","Y","Since -6<0 use |x|.;Compute |-6|.","f(-6)=|-6|=6."
+"5","Shipping costs 6 dollars for up to 1 kilogram and 2 dollars for each additional kilogram. What is the cost for 3 kilograms?","10|10 dollars","60","Y","The first kilogram costs 6 dollars.;There are 2 additional kilograms.","6+2(2)=10 dollars."

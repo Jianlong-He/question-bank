@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Solve 7^(x+2)=49.","0","60","Y","Write 49 as 7^2.;Set x+2=2.","x=0."
+"2","Solve 9^x=3.","1/2|0.5","60","Y","Write 9 as 3^2.;3^(2x)=3^1.","2x=1 so x=1/2."
+"3","Solve 2^(3x)=16.","4/3","60","Y","Write 16 as 2^4.;Set 3x=4.","x=4/3."
+"4","Simplify (a^3b^-2)^2 using positive exponents.","a^6/b^4","60","Y","Multiply each exponent by 2.;b^-4 moves to the denominator.","a^6/b^4."
+"5","Solve 27^(x/3)=9.","2","60","Y","Write both sides with base 3.;3^(3*x/3)=3^x and 9=3^2.","x=2."

@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","If p is prime is sqrt(p) rational or irrational?","irrational","60","Y","A prime is not a perfect square.;Use the same contradiction argument as for sqrt(2).","sqrt(p) is irrational."
+"2","Simplify sqrt(98).","7sqrt(2)|7√2","60","Y","Find the largest square factor of 98.;98=49*2.","sqrt(98)=7sqrt(2)."
+"3","In the contradiction proof that sqrt(2) is irrational what is assumed at the start?","sqrt(2) is rational|sqrt(2)=p/q in lowest terms|that sqrt(2) is rational","60","Y","A proof by contradiction assumes the opposite.;Write sqrt(2) as a fraction in lowest terms.","Assume sqrt(2)=p/q in lowest terms."
+"4","Between any two distinct rational numbers is there an irrational number? Enter Yes or No.","Yes|yes|Y|y","60","Y","Irrationals are dense on the number line.;Add a small irrational to the smaller number.","Yes."
+"5","Is 5-sqrt(11) rational or irrational?","irrational","60","Y","sqrt(11) is irrational.;A rational minus an irrational is irrational.","5-sqrt(11) is irrational."

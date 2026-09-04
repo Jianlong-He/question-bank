@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","What angle is formed by a radius and a tangent at the point of tangency?","90|90 degrees|right angle","60","Y","The tangent touches the circle at one point.;The radius to that point is perpendicular.","The angle is 90 degrees."
+"2","Tangents from point P have lengths 4x+2 and 6x-8. Find x.","5","60","Y","Tangent segments from the same point are equal.;4x+2=6x-8.","2x=10 so x=5."
+"3","A tangent segment has length 24 and the radius to its endpoint is 7. Find the distance from the center to the external point.","25","60","Y","The radius and tangent form a right angle.;Use 24^2+7^2.","576+49=625 so the distance is 25."
+"4","A chord is 20 units long and a perpendicular radius bisects it. Find either half of the chord.","10","60","Y","The radius bisects the chord.;20/2.","Each half is 10."
+"5","A circumscribed angle formed by two tangents intercepts a minor arc of 70 degrees. Find the angle.","110|110 degrees","60","Y","The angle and the minor arc are supplementary.;180-70.","The angle is 110 degrees."

@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","What number is represented by i^2?","-1","60","Y","i is defined as the square root of -1.;Square it.","i^2=-1."
+"2","Simplify sqrt(-48).","4i*3^(1/2)|4*3^(1/2)i|4(3^(1/2))i|4isqrt(3)|4i√3","60","Y","Write sqrt(-48)=sqrt(48)*i.;sqrt(48)=4sqrt(3).","sqrt(-48)=4sqrt(3)i."
+"3","Simplify i^3.","-i","60","Y","i^3=i^2*i.;i^2=-1.","i^3=-i."
+"4","Simplify i^21.","i","60","Y","Divide 21 by 4 and use the remainder.;The remainder is 1.","i^21=i^1=i."
+"5","Simplify i^30.","-1","60","Y","Divide 30 by 4 and use the remainder.;The remainder is 2.","i^30=i^2=-1."

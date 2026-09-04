@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","In which direction does y=-x^2 open?","downward|down","60","Y","Look at the sign of the leading coefficient.;A negative coefficient flips the parabola.","The parabola opens downward."
+"2","For h(t)=-5t^2+30t what is h(3)?","45","60","Y","Substitute t=3.;Compute -5(9)+30(3).","h(3)=-45+90=45."
+"3","Solve (x-3)(x+8)=0. Enter the larger solution.","3","60","Y","Set each factor equal to zero.;The solutions are 3 and -8.","The larger solution is 3."
+"4","For y=(x+2)(x-6) enter the smaller x-intercept.","-2","60","Y","Set each factor equal to zero.;The intercepts are -2 and 6.","The smaller x-intercept is -2."
+"5","What is the axis of symmetry of y=(x-2)(x-10)?","x=6|x = 6","60","Y","The axis is midway between the roots.;Average 2 and 10.","The axis of symmetry is x=6."

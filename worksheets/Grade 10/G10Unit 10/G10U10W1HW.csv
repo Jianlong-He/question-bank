@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","A solid is dilated by scale factor 3. What is its volume scale factor?","27","60","Y","Volume is three-dimensional.;Cube the length factor.","3^3=27."
+"2","A solid is dilated by scale factor 3. What is its surface area scale factor?","9","60","Y","Surface area is two-dimensional.;Square the length factor.","3^2=9."
+"3","A plane cuts a cylinder parallel to its base. What shape is the cross section?","circle|a circle","60","Y","The base of a cylinder is a circle.;Parallel slices match the base.","The cross section is a circle."
+"4","Rotating a semicircle around its diameter creates what common solid?","sphere|a sphere","60","Y","Picture the arc sweeping around.;Every point stays the same distance from the center.","A sphere."
+"5","Two solids have equal heights and equal cross-sectional areas at every height. What can be concluded about their volumes?","they are equal|equal|same volume","60","Y","Recall Cavalieri's principle.;Matching slices give matching volumes.","The volumes are equal."

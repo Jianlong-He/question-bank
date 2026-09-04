@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Factor 5x+20 completely.","5(x+4)","60","Y","Find the GCF of 5x and 20.;Divide each term by 5.","5x+20=5(x+4)."
+"2","Factor 9x^2-6x completely.","3x(3x-2)","60","Y","The GCF is 3x.;Divide each term by 3x.","9x^2-6x=3x(3x-2)."
+"3","Factor x^2+9x+14.","(x+2)(x+7)|(x+7)(x+2)","60","Y","Find two numbers with product 14 and sum 9.;The numbers are 2 and 7.","x^2+9x+14=(x+2)(x+7)."
+"4","Factor x^2-2x-15.","(x-5)(x+3)|(x+3)(x-5)","60","Y","Find two numbers with product -15 and sum -2.;The numbers are -5 and 3.","x^2-2x-15=(x-5)(x+3)."
+"5","Factor by grouping 3x^2+6x+2x+4.","(x+2)(3x+2)|(3x+2)(x+2)","60","Y","Group the first two and last two terms.;3x(x+2)+2(x+2).","The common factor gives (x+2)(3x+2)."

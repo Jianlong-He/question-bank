@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","How does the measure of a minor arc compare with its central angle?","they are equal|equal|same measure","60","Y","Arc measure is defined by the central angle.;They are the same number of degrees.","They are equal."
+"2","Find the arc length for theta=120 degrees and r=9 in terms of pi.","6pi|6*pi","60","Y","120 degrees is 1/3 of the circle.;The circumference is 18pi.","18pi/3=6pi."
+"3","An arc has length 4pi in a circle of radius 8. Find its central angle in radians.","pi/2|0.5pi","60","Y","Use theta=s/r.;4pi/8.","The angle is pi/2 radians."
+"4","Write the arc-length formula using central angle theta in degrees and radius r.","theta/360*2*pi*r|theta*2*pi*r/360","60","Y","Find the fraction of the circle.;Multiply by the circumference.","s=theta/360*2*pi*r."
+"5","A 60-degree arc is what fraction of the circumference?","1/6|one sixth","60","Y","Divide by 360.;60/360.","The arc is 1/6 of the circumference."

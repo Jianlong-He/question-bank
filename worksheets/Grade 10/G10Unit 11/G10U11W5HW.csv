@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","What is a chord that passes through the center called?","diameter|a diameter","60","Y","It is the longest chord.;It is twice the radius.","A diameter."
+"2","Find the area of a circle with radius 9 in terms of pi.","81pi|81*pi","60","Y","Use A=pi*r^2.;9^2=81.","The area is 81pi."
+"3","Find the circumference of a circle with radius 7 in terms of pi.","14pi|14*pi","60","Y","Use C=2*pi*r.;2*7=14.","The circumference is 14pi."
+"4","Two circles have radii 2 and 10. Find the scale factor from the smaller to the larger.","5","60","Y","Divide the larger radius by the smaller.;10/2.","The scale factor is 5."
+"5","Two circles have radii in ratio 3:4. What is their area ratio?","9:16|9/16","60","Y","Square the radius ratio.;3^2:4^2.","The area ratio is 9:16."
