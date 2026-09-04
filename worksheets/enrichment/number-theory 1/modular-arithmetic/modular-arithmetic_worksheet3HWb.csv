@@ -2,5 +2,5 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 1,Find the inverse of 1 (mod 555).,1,60,Y,What times 1 gives 1?,"1 × 1 = 1 = 0 × 555 + 1, so the inverse is 1."
 2,Find the inverse of 5 (mod 6).,5,60,Y,"Try 5×1, 5×2, ...","5 × 5 = 25 = 4 × 6 + 1, so the inverse is 5."
 3,Find the smallest positive integer x such that 7x ≡ 1 (mod 17).,5,60,Y,"Try 7×1, 7×2, ... until you get 1 more than a multiple of 17","7 × 5 = 35 = 2 × 17 + 1, so x = 5."
-4,Find all moduli n such that 5 and 6 are inverses (mod n).,29,60,Y,5 × 6 - 1 must be a multiple of n;n must be larger than 6,"5 × 6 = 30, so n must divide 29 and n > 6. Since 29 is prime, n = 29."
+4,Find all moduli n > 6 such that 5 and 6 are inverses (mod n).,29,60,Y,5 × 6 - 1 must be a multiple of n;n must be larger than 6,"5 × 6 = 30, so n must divide 29 and n > 6. Since 29 is prime, n = 29."
 5,"Find the inverse of 3 (mod 51), or say that it does not exist.",Does not exist|None|No inverse,60,Y,An inverse exists only when the number and the modulus are coprime,"Does not exist: 51 = 3 × 17, so 3 and 51 are not coprime and 3 has no inverse mod 51."

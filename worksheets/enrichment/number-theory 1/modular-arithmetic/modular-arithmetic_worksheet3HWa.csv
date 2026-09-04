@@ -2,5 +2,5 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 1,Find the inverse of 123 (mod 245).,2,60,Y,Look for k with 123k = 245m + 1,"2 × 123 = 246 = 245 + 1, so the inverse is 2."
 2,Find the inverse of 3 (mod 8).,3,60,Y,"Try 3×1, 3×2, 3×3, ...","3 × 3 = 9 = 8 + 1, so the inverse is 3."
 3,Find the smallest positive integer x such that 5x ≡ 1 (mod 11).,9,60,Y,"Try 5×1, 5×2, ... until you get 1 more than a multiple of 11","5 × 9 = 45 = 4 × 11 + 1, so x = 9."
-4,"Find all moduli n such that 4 and 7 are inverses (mod n), i.e. 4 × 7 ≡ 1 (mod n). List them separated by commas.","9,27|9, 27",60,Y,4 × 7 - 1 must be a multiple of n;n must be larger than 7,"4 × 7 = 28, so n must divide 28 - 1 = 27 and n > 7. The factors of 27 greater than 7 are 9 and 27."
+4,"Find all moduli n > 7 such that 4 and 7 are inverses (mod n), i.e. 4 × 7 ≡ 1 (mod n). List them separated by commas.","9,27|9, 27",60,Y,4 × 7 - 1 must be a multiple of n;n must be larger than 7,"4 × 7 = 28, so n must divide 28 - 1 = 27 and n > 7. The factors of 27 greater than 7 are 9 and 27."
 5,"Find the inverse of 6 (mod 8), or say that it does not exist.",Does not exist|None|No inverse,60,Y,An inverse exists only when the number and the modulus are coprime,"Does not exist: gcd(6, 8) = 2, so 6 and 8 are not coprime and 6 has no inverse mod 8."
