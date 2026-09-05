@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Find the hypotenuse of a right triangle with legs 9 and 12.","15","60","Y","Use a^2+b^2=c^2.;81+144=225.","c=sqrt(225)=15."
+"2","Find the missing leg of a right triangle with hypotenuse 17 and one leg 8.","15","60","Y","Use c^2-a^2=b^2.;289-64=225.","b=15."
+"3","Find the diagonal of an 8 by 15 rectangle.","17","60","Y","The diagonal is a hypotenuse.;64+225=289.","The diagonal is 17."
+"4","Do side lengths 5 12 and 13 form a right triangle? Enter Yes or No.","Yes|yes|Y|y","60","Y","Check whether 5^2+12^2=13^2.;25+144=169.","Yes."
+"5","A ladder reaches 8 m up a wall and its foot is 6 m from the wall. Find the ladder length.","10","60","Y","The ladder is the hypotenuse.;64+36=100.","The ladder is 10 m."

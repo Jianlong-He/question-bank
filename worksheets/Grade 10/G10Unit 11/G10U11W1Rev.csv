@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Write the arc-length formula for radius r and central angle theta measured in radians.","r*theta|r theta|s=r*theta","60","Y","Arc length is proportional to the angle.;One radian gives an arc equal to the radius.","s=r*theta."
+"2","Find the arc length when r=3 and theta=pi/2 radians.","3pi/2|1.5pi","60","Y","Use s=r*theta.;3*(pi/2).","The arc length is 3pi/2."
+"3","Find the sector area when r=2 and theta=pi.","2pi|2*pi","60","Y","Use A=r^2*theta/2.;4*pi/2.","The area is 2pi."
+"4","If the radius doubles while the angle stays fixed what happens to arc length?","it doubles|doubles|multiplied by 2","60","Y","s=r*theta is linear in r.;Doubling r doubles s.","The arc length doubles."
+"5","Find the area of a 45-degree sector in a circle of radius 8 in terms of pi.","8pi|8*pi","60","Y","A 45-degree sector is 1/8 of the circle.;The circle area is 64pi.","64pi/8=8pi."

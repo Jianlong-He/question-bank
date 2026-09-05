@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Is 3/8 rational or irrational?","rational","60","Y","A rational number is a ratio of integers.;3 and 8 are integers.","3/8 is rational."
+"2","Is sqrt(10) rational or irrational?","irrational","60","Y","Check whether 10 is a perfect square.;10 is not a perfect square.","sqrt(10) is irrational."
+"3","Is 0.4444... rational or irrational?","rational","60","Y","The decimal repeats.;Repeating decimals equal fractions.","0.4444...=4/9 so it is rational."
+"4","Is sqrt(49) rational or irrational?","rational","60","Y","Evaluate the square root.;sqrt(49)=7.","7 is an integer so it is rational."
+"5","Write 0.25 as a fraction in simplest form.","1/4","60","Y","0.25 is 25 hundredths.;Reduce 25/100.","0.25=1/4."

@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","A 30-60-90 triangle has hypotenuse 12. Find the short leg.","6","60","Y","The short leg is half the hypotenuse.;12/2.","The short leg is 6."
+"2","A 30-60-90 triangle has hypotenuse 12. Find the long leg.","6sqrt(3)|6 sqrt(3)","60","Y","Find the short leg first.;Multiply the short leg 6 by sqrt(3).","The long leg is 6sqrt(3)."
+"3","In a 30-60-90 triangle which side is opposite the 60-degree angle?","long leg|the long leg","60","Y","The larger angle is opposite the larger side.;It is not the hypotenuse.","The long leg."
+"4","A 45-45-90 triangle has leg 5. Find the hypotenuse.","5sqrt(2)|5 sqrt(2)","60","Y","Multiply the leg by sqrt(2).;5*sqrt(2).","The hypotenuse is 5sqrt(2)."
+"5","A regular hexagon of side length s can be divided into how many equilateral triangles?","6|six","60","Y","Draw segments from the center to each vertex.;Count the triangles.","Six equilateral triangles."

@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","In the complex number -6-2i what is the imaginary part?","-2","60","Y","The imaginary part is the coefficient of i.;Include the sign.","The imaginary part is -2."
+"2","Is 5i purely imaginary? Enter Yes or No.","Yes|yes|Y|y","60","Y","Purely imaginary means real part 0.;5i=0+5i.","Yes."
+"3","What complex number is represented by the point (2 -9) on the complex plane?","2-9i|2-9*i","60","Y","The horizontal coordinate is the real part.;The vertical coordinate is the imaginary part.","The number is 2-9i."
+"4","On which axis do purely imaginary numbers lie in the complex plane?","imaginary axis|the imaginary axis|vertical axis|y-axis","60","Y","Purely imaginary numbers have real part 0.;Their points have horizontal coordinate 0.","They lie on the imaginary (vertical) axis."
+"5","What is the complex conjugate of 6+i?","6-i","60","Y","Change the sign of the imaginary part.;The imaginary part is 1.","The conjugate is 6-i."

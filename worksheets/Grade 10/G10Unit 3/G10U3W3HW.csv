@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","What is the vertex of y=3(x-2)^2-7? Enter x-coordinate then y-coordinate.","2,-7","60","Y","Vertex form is y=a(x-h)^2+k.;The vertex is (h k).","The vertex is (2 -7)."
+"2","What is the axis of symmetry of y=-(x+5)^2+1?","x=-5|x = -5","60","Y","Write x+5 as x-(-5).;The axis passes through the vertex.","The axis of symmetry is x=-5."
+"3","Does y=2(x-4)^2-3 have a maximum or minimum?","minimum|a minimum","60","Y","Look at the sign of a.;a=2 is positive so it opens upward.","The vertex is a minimum."
+"4","What is the minimum value of y=2(x-4)^2-3?","-3","60","Y","The minimum is the y-coordinate of the vertex.;k=-3.","The minimum value is -3."
+"5","For f(x)=-(x-1)^2+4 find f(3).","0","60","Y","Substitute x=3.;Compute -(2)^2+4.","f(3)=-4+4=0."

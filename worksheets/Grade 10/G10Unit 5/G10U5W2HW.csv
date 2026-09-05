@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","In the complex number 7+4i what is the real part?","7","60","Y","A complex number has the form a+bi.;The real part is a.","The real part is 7."
+"2","In the complex number 7+4i what is the imaginary part?","4","60","Y","The imaginary part is the coefficient of i.;Here b=4.","The imaginary part is 4."
+"3","Write the complex number with real part 3 and imaginary part -5.","3-5i|3-5*i","60","Y","Use the form a+bi.;b=-5.","The number is 3-5i."
+"4","Plot -2+5i on the complex plane. Enter the horizontal coordinate then vertical coordinate.","-2,5","60","Y","The real part is horizontal.;The imaginary part is vertical.","The point is (-2 5)."
+"5","What is the complex conjugate of -3+8i?","-3-8i|-3-8*i","60","Y","Change the sign of the imaginary part.;Keep the real part.","The conjugate is -3-8i."

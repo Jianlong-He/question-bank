@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","A parabola opens upward. Does its vertex give a maximum or a minimum?","minimum|a minimum","60","Y","Picture the U shape.;The lowest point is the vertex.","The vertex is a minimum."
+"2","A quadratic has roots -3 and 4. Write a monic factored equation with these roots.","y=(x+3)(x-4)|f(x)=(x+3)(x-4)","60","Y","A root r gives a factor (x-r).;Root -3 gives (x+3).","y=(x+3)(x-4)."
+"3","For y=3(x-1)(x+5) enter the two roots in increasing order.","-5,1","60","Y","Set each factor equal to zero.;The constant 3 does not affect the roots.","The roots are -5 and 1."
+"4","A quadratic graph crosses the x-axis at -2 and 8. What is the x-coordinate of its axis of symmetry?","3","60","Y","The axis is midway between the roots.;Average -2 and 8.","(-2+8)/2=3."
+"5","For f(x)=(x-4)(x+1) find f(4).","0","60","Y","Substitute x=4.;One factor becomes zero.","f(4)=(0)(5)=0."

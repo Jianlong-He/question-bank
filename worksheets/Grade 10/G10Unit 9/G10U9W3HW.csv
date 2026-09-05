@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","For an angle with opposite side 5 adjacent side 12 and hypotenuse 13 find sin(theta).","5/13","60","Y","Sine is opposite over hypotenuse.;Use 5 and 13.","sin(theta)=5/13."
+"2","For the same 5-12-13 triangle find cos(theta).","12/13","60","Y","Cosine is adjacent over hypotenuse.;Use 12 and 13.","cos(theta)=12/13."
+"3","For the same 5-12-13 triangle find tan(theta).","5/12","60","Y","Tangent is opposite over adjacent.;Use 5 and 12.","tan(theta)=5/12."
+"4","A 20 m ramp rises at 30 degrees. Find its vertical rise.","10","60","Y","The rise is opposite the angle.;rise=20*sin(30).","sin(30)=1/2 so the rise is 10 m."
+"5","In a right triangle what ratio defines tangent of an acute angle?","opposite/adjacent|opposite over adjacent","60","Y","Tangent does not use the hypotenuse.;Recall SOH CAH TOA.","tan=opposite/adjacent."

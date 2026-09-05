@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","What must be true about corresponding sides in similar figures?","they are proportional|proportional","60","Y","Similar figures have the same shape.;All side ratios are equal.","Corresponding sides are proportional."
+"2","Which similarity criterion uses two proportional side pairs and their included angle?","SAS|SAS similarity|side angle side","60","Y","The angle lies between the two sides.;Name the three-letter criterion.","SAS similarity."
+"3","A dilation has scale factor 1/2. Does it preserve angle measures? Enter Yes or No.","Yes|yes|Y|y","60","Y","Dilations change size but not shape.;Angles are unchanged by any dilation.","Yes."
+"4","Similar triangles have side ratio small:large=3:7. A large side is 21. Find the corresponding small side.","9","60","Y","Set up 3/7=x/21.;Cross multiply.","x=63/7=9."
+"5","Solve the proportion 8/12=6/x.","9","60","Y","Cross multiply.;8x=72.","x=9."

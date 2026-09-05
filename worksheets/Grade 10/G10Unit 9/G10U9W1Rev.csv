@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Find the hypotenuse of a right triangle with legs 7 and 24.","25","60","Y","Use a^2+b^2=c^2.;49+576=625.","c=25."
+"2","A rectangular box has side lengths 2 3 and 6. Find its space diagonal.","7","60","Y","Use sqrt(a^2+b^2+c^2).;4+9+36=49.","The diagonal is 7."
+"3","Do side lengths 4 5 and 6 form a right triangle? Enter Yes or No.","No|no|N|n","60","Y","Check whether 4^2+5^2=6^2.;16+25=41 but 36 is not 41.","No."
+"4","A right triangle has legs 10 and 24. Find its area.","120","60","Y","Area is half the product of the legs.;10*24/2.","The area is 120."
+"5","In a similarity proof of the Pythagorean theorem what creates the smaller similar triangles?","an altitude to the hypotenuse|altitude from the right angle","60","Y","A segment is drawn from the right angle.;It meets the hypotenuse at a right angle.","The altitude to the hypotenuse."

@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Factor x^2+8x+15.","(x+3)(x+5)|(x+5)(x+3)","60","Y","Find two numbers with product 15 and sum 8.;The numbers are 3 and 5.","x^2+8x+15=(x+3)(x+5)."
+"2","Factor 3x^2+12x+9 completely.","3(x+1)(x+3)|3(x+3)(x+1)","60","Y","First remove the GCF 3.;Factor x^2+4x+3.","3(x^2+4x+3)=3(x+1)(x+3)."
+"3","Factor x^2-7x+10.","(x-2)(x-5)|(x-5)(x-2)","60","Y","Find two numbers with product 10 and sum -7.;Both numbers are negative.","x^2-7x+10=(x-2)(x-5)."
+"4","Factor by grouping 2x^2-8x+3x-12.","(x-4)(2x+3)|(2x+3)(x-4)","60","Y","Group as (2x^2-8x)+(3x-12).;2x(x-4)+3(x-4).","The result is (x-4)(2x+3)."
+"5","A rectangle has area x^2+7x+12. Give its side expressions separated by a comma.","x+3,x+4|x+4,x+3","60","Y","Factor the area expression.;Find two numbers with product 12 and sum 7.","x^2+7x+12=(x+3)(x+4) so the sides are x+3 and x+4."

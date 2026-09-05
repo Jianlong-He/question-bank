@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","If P(A)=0.5 P(B)=0.3 and P(A and B)=0.1 find P(A or B).","0.7|7/10","60","Y","Use P(A)+P(B)-P(A and B).;0.5+0.3-0.1.","0.7."
+"2","For mutually exclusive events with P(A)=0.2 and P(B)=0.35 find P(A or B).","0.55|11/20","60","Y","Mutually exclusive events have no overlap.;Add the probabilities.","0.2+0.35=0.55."
+"3","If P(A or B)=0.9 P(A)=0.6 and P(B)=0.5 find P(A and B).","0.2|1/5","60","Y","Rearrange the addition rule.;P(A and B)=P(A)+P(B)-P(A or B).","0.6+0.5-0.9=0.2."
+"4","A standard deck has 4 kings and 13 spades with one king of spades. Find P(king or spade).","4/13|16/52","60","Y","Use the addition rule.;4/52+13/52-1/52.","16/52=4/13."
+"5","A Venn diagram has 10 in A only 6 in B only 4 in both and 20 outside. How many outcomes are in the sample space?","40","60","Y","Add all four regions.;10+6+4+20.","40."

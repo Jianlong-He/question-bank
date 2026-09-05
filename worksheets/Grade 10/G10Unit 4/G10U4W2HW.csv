@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","The difference of two rational numbers is always rational. Enter True or False.","True|true|T|t","60","Y","Write the numbers as a/b and c/d.;The difference is (ad-bc)/(bd).","True because the difference is a ratio of integers."
+"2","If r is a nonzero rational number and x is irrational is rx rational or irrational?","irrational","60","Y","Suppose rx were rational.;Then x=(rx)/r would be rational.","rx is irrational."
+"3","Is sqrt(3)*sqrt(12) rational or irrational?","rational","60","Y","Multiply under one root.;sqrt(36)=6.","The product is 6 which is rational."
+"4","Is 4+sqrt(5) rational or irrational?","irrational","60","Y","sqrt(5) is irrational.;Adding a rational to an irrational stays irrational.","4+sqrt(5) is irrational."
+"5","Is sqrt(5)-sqrt(5) rational or irrational?","rational","60","Y","Simplify the expression.;The result is 0.","0 is rational."

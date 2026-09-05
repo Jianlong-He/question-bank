@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","If A=100(1.2)^t models yearly growth write an equivalent model for n decades.","A=100(1.2)^(10n)|100(1.2)^(10n)","60","Y","One decade is 10 years.;Replace t with 10n.","A=100(1.2)^(10n)."
+"2","For A=400(0.5)^t what factor describes change over 3 periods?","0.125|1/8","60","Y","Raise the factor to the third power.;0.5^3.","The 3-period factor is 0.125."
+"3","A model grows by factor 1.01 each month. What factor describes one year?","1.01^12|(1.01)^12","60","Y","There are 12 months in a year.;Raise the monthly factor to the 12th power.","The yearly factor is 1.01^12."
+"4","A population doubles every 5 years. Write the model with initial population 600 after t years.","P=600*2^(t/5)|600*2^(t/5)|P=600(2)^(t/5)","60","Y","The number of doublings is t/5.;Use P=a*2^(t/5).","P=600(2)^(t/5)."
+"5","For P=600(2)^(t/5) find the population after 15 years.","4800","60","Y","Compute 15/5=3.;2^3=8.","600*8=4800."

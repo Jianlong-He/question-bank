@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Select. Is 2 and 5 a factor pair of 10?: Yes, No",Yes,60,N,,
-2,"Select. Is 3 and 5 a factor pair of 20?: Yes, No",No,60,N,,
-3,Complete the factor pairs for 14: 1 times ___ = 14; 2 times ___ = 14,"14, 7",60,N,,
-4,Complete the factor pairs for 18: 1 times ___ = 18; 2 times ___ = 18; 3 times___ = 18,"18, 9, 6",60,N,,
-5,"Select which of the following numbers are factors of 40?: 4, 5, 7, 8, 12","4, 5, 8",60,N,,
+1,"Select. Are 2 and 5 a factor pair of 10?: Yes, No",Yes,60,N,,"2 x 5 = 10, so 2 and 5 are a factor pair of 10. Yes."
+2,"Select. Are 3 and 5 a factor pair of 20?: Yes, No",No,60,N,,"3 x 5 = 15, not 20, so 3 and 5 are not a factor pair of 20. No."
+3,Complete the factor pairs for 14: 1 times ___ = 14; 2 times ___ = 14,"14, 7",60,N,,1 x 14 = 14 and 2 x 7 = 14. The missing numbers are 14 and 7.
+4,Complete the factor pairs for 18: 1 times ___ = 18; 2 times ___ = 18; 3 times___ = 18,"18, 9, 6",60,N,,"1 x 18 = 18, 2 x 9 = 18, 3 x 6 = 18. The missing numbers are 18, 9, 6."
+5,"Select which of the following numbers are factors of 40?: 4, 5, 7, 8, 12","4, 5, 8",60,N,,"40 divided by 4 = 10, 40 divided by 5 = 8, 40 divided by 8 = 5, so 4, 5 and 8 are factors. 40 divided by 7 and 40 divided by 12 leave remainders, so 7 and 12 are not factors. Answer: 4, 5, 8."

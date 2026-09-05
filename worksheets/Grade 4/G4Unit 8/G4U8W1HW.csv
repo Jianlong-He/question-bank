@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Fill: Decompose 5/6 into unit fractions. 5/6 = 1/6 + 1/6 + 1/6 + __/6,2,60,N,,
-2,Select the decomposition of 8/10 that uses two EQUAL fractions: 4/10+4/10 3/10+5/10 2/10+6/10,4/10+4/10,60,N,,
-3,Fill: Decompose the mixed number 2 1/4 into unit fractions (1/4). How many 1/4s do you need in total?,9,60,N,,
-4,Fill: Decompose the mixed number 3 2/5 into unit fractions (1/5). How many 1/5s do you need in total?,17,60,N,,
-5,Select. Decompose 15/25 into two fractions. The first numerator is 5 more than the second numerator. What is the first numerator?: 8 10 12,10,60,N,,
+1,Fill: Decompose 5/6 into unit fractions. 5/6 = 1/6 + 1/6 + 1/6 + __/6,2,60,N,,"5/6 is five copies of 1/6. Three copies are shown (1/6 + 1/6 + 1/6 = 3/6), so 2/6 more is needed. The missing numerator is 2."
+2,Select the decomposition of 8/10 that uses two EQUAL fractions: 4/10+4/10 3/10+5/10 2/10+6/10,4/10+4/10,60,N,,Two equal fractions that add to 8/10 must each be 4/10. 4/10 + 4/10 = 8/10.
+3,Fill: Decompose the mixed number 2 1/4 into unit fractions (1/4). How many 1/4s do you need in total?,9,60,N,,"2 wholes = 4/4 + 4/4 = 8/4. Add the extra 1/4 to get 9/4, so 9 quarters are needed."
+4,Fill: Decompose the mixed number 3 2/5 into unit fractions (1/5). How many 1/5s do you need in total?,17,60,N,,"3 wholes = 5/5 + 5/5 + 5/5 = 15/5. Add the extra 2/5 to get 17/5, so 17 fifths are needed."
+5,Select. Decompose 15/25 into two fractions. The first numerator is 5 more than the second numerator. What is the first numerator?: 8 10 12,10,60,N,,"The two numerators add to 15 and differ by 5. 10 + 5 = 15 and 10 - 5 = 5, so the first numerator is 10 (15/25 = 10/25 + 5/25)."

@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Expand (3x-2)(x+4).","3x^2+10x-8","60","Y","Use FOIL.;Combine 12x and -2x.","3x^2+12x-2x-8=3x^2+10x-8."
+"2","Expand (2x+5)^2.","4x^2+20x+25","60","Y","Use (a+b)^2=a^2+2ab+b^2.;Here a=2x and b=5.","(2x)^2+2(2x)(5)+25=4x^2+20x+25."
+"3","Find the degree of 2x^5-x^2+4.","5","60","Y","The degree is the greatest exponent.;The leading term is 2x^5.","The degree is 5."
+"4","Find the greatest common factor of 12x^4 and 30x^2.","6x^2","60","Y","Find the GCF of 12 and 30.;Use the smaller power of x.","GCF is 6x^2."
+"5","Expand (x-1)(x-8).","x^2-9x+8","60","Y","Use FOIL.;Combine -8x and -x.","(x-1)(x-8)=x^2-9x+8."

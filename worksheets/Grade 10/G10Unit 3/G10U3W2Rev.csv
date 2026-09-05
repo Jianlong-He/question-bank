@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Solve 4(x-1)^2=36. Enter the larger solution.","4","60","Y","Divide both sides by 4.;(x-1)^2=9 gives x-1=3 or x-1=-3.","x=4 or x=-2 so the larger is 4."
+"2","A student solves x^2=25 and reports only x=5. What solution is missing?","-5","60","Y","A square root has a positive and a negative value.;(-5)^2=25.","The missing solution is -5."
+"3","Solve x^2=20. Enter the positive solution in simplest radical form.","2sqrt(5)|2√5","60","Y","Take square roots.;Simplify sqrt(20) using the factor 4.","sqrt(20)=2sqrt(5)."
+"4","Check whether x=-2 solves x^2-4=0. Enter Yes or No.","Yes|yes|Y|y","60","Y","Substitute x=-2.;(-2)^2-4=0.","Yes it is a solution."
+"5","What operation should be performed first to solve 3(x+2)^2=27?","divide by 3|division by 3","60","Y","Isolate the squared expression.;Undo the multiplication by 3.","Divide both sides by 3 to get (x+2)^2=9."

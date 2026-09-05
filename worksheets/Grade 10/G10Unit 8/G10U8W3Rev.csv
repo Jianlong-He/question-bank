@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Is a triangle midsegment parallel to the third side? Enter Yes or No.","Yes|yes|Y|y","60","Y","Recall the midsegment theorem.;It is parallel and half as long.","Yes."
+"2","What relationship do slopes of distinct parallel nonvertical lines have?","they are equal|equal|same slope","60","Y","Parallel lines rise at the same rate.;Compare their rise over run.","The slopes are equal."
+"3","A line has slope -2/5. What is the slope of a perpendicular line?","5/2|2.5","60","Y","Take the negative reciprocal.;Flip -2/5 and change the sign.","The slope is 5/2."
+"4","Find the slope between points (-1 4) and (3 -4).","-2","60","Y","Use rise over run.;(-4-4)/(3-(-1)).","-8/4=-2."
+"5","A line parallel to one side of a triangle intersects the other two sides. What does it create?","proportional segments|proportional side segments|similar triangles","60","Y","Recall the side-splitter theorem.;The smaller triangle is similar to the original.","It creates proportional segments."

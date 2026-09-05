@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","A rectangle has width x and length x+3 with area 40. Write the equation.","x(x+3)=40","60","Y","Area equals width times length.;Set the product equal to 40.","x(x+3)=40."
+"2","Solve x(x+3)=40 for the positive value of x.","5","60","Y","Expand and rearrange to x^2+3x-40=0.;Factor as (x+8)(x-5).","The positive solution is x=5."
+"3","A right triangle has legs x and x+7 and area 30. Write the equation used to find x.","x(x+7)/2=30|1/2*x(x+7)=30","60","Y","Area of a right triangle is half the product of the legs.;Set the area equal to 30.","x(x+7)/2=30."
+"4","Solve x(x+7)/2=30 for the positive value of x.","5","60","Y","Multiply both sides by 2 to get x^2+7x=60.;Factor x^2+7x-60=(x+12)(x-5).","The positive solution is x=5."
+"5","The product x(16-x) is maximized at what value of x?","8","60","Y","The product is a downward parabola.;The maximum is midway between the roots 0 and 16.","x=8."

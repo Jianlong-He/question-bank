@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","A rectangular garden has perimeter 40. If one side is x what is the adjacent side in terms of x?","20-x","60","Y","Half the perimeter is the sum of two adjacent sides.;20=x+adjacent side.","The adjacent side is 20-x."
+"2","For the garden with sides x and 20-x write its area function.","A=x(20-x)|x(20-x)|A(x)=x(20-x)","60","Y","Area is length times width.;Multiply the two sides.","A=x(20-x)."
+"3","A projectile height is h(t)=-5t^2+40t. At what time is maximum height reached?","4|4 seconds","60","Y","The vertex time is -b/(2a).;Compute -40/(2*(-5)).","t=4."
+"4","A model gives mathematical solutions x=-3 and x=9 for a width. Which solution is valid?","9","60","Y","A width must be positive.;Reject negative lengths.","Only x=9 is valid."
+"5","A box has square base side x and height x+2. Write its volume expression.","x^2(x+2)|x^2*(x+2)","60","Y","Volume is base area times height.;The base area is x^2.","V=x^2(x+2)."

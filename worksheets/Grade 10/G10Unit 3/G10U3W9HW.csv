@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Which form most directly shows the roots of a quadratic?","factored form|factored","60","Y","Roots come from factors set to zero.;y=a(x-r)(x-s).","Factored form shows the roots."
+"2","For f(x)=(x+3)(x-5) enter the roots in increasing order.","-3,5","60","Y","Set each factor equal to zero.;x=-3 or x=5.","The roots are -3 and 5."
+"3","For f(x)=2(x-4)^2-1 enter the vertex x-coordinate then y-coordinate.","4,-1","60","Y","Use vertex form a(x-h)^2+k.;h=4 and k=-1.","The vertex is (4 -1)."
+"4","For f(x)=3x^2+2x-9 what is the y-intercept?","-9","60","Y","Substitute x=0.;The constant term remains.","The y-intercept is -9."
+"5","Which function has the larger maximum: f(x)=-(x-2)^2+5 or g(x)=-3(x+1)^2+4? Enter f or g.","f|F","60","Y","The maximum is the k value.;Compare 5 and 4.","f has maximum 5 which is larger."

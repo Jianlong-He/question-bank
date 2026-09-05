@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","An inscribed angle intercepts an 80-degree arc. Find the angle measure.","40|40 degrees","60","Y","An inscribed angle is half its arc.;80/2.","The angle is 40 degrees."
+"2","An inscribed angle measures 55 degrees. Find its intercepted arc measure.","110|110 degrees","60","Y","The arc is twice the inscribed angle.;55*2.","The arc is 110 degrees."
+"3","What is the measure of an angle inscribed in a semicircle?","90|90 degrees|right angle","60","Y","A semicircle is a 180-degree arc.;Halve 180.","The angle is 90 degrees."
+"4","One angle of a cyclic quadrilateral is 95 degrees. Find its opposite angle.","85|85 degrees","60","Y","Opposite angles are supplementary.;180-95.","The opposite angle is 85 degrees."
+"5","Two inscribed angles intercept the same arc. What relationship do they have?","they are equal|equal|congruent","60","Y","Each is half the same arc.;Equal arcs give equal angles.","They are equal."

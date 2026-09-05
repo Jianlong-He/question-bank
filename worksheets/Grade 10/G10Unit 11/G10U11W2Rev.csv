@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","How does an inscribed angle compare with its intercepted arc measure?","it is half the arc measure|half|one half","60","Y","Compare with a central angle.;The central angle equals the arc.","An inscribed angle is half the arc."
+"2","An inscribed angle intercepts a 150-degree arc. Find the angle measure.","75|75 degrees","60","Y","Halve the arc.;150/2.","The angle is 75 degrees."
+"3","What is the sum of opposite angles in a cyclic quadrilateral?","180|180 degrees","60","Y","The two angles intercept arcs that make the whole circle.;Half of 360.","The sum is 180 degrees."
+"4","A triangle is inscribed in a circle with one side as a diameter. What type of triangle is it?","right triangle|a right triangle","60","Y","The angle opposite the diameter intercepts a semicircle.;That angle is 90 degrees.","It is a right triangle."
+"5","An inscribed angle measures 20 degrees. Find its intercepted arc measure.","40|40 degrees","60","Y","Double the inscribed angle.;20*2.","The arc is 40 degrees."

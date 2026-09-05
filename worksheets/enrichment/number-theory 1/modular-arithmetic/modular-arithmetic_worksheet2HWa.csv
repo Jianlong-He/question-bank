@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find 8 × 13 (mod 7).,6,60,Y,"Multiply, then take the remainder mod 7","8 × 13 = 104 and 104 = 14 × 7 + 6, so the answer is 6."
+2,"Supply the correct operator {<, =, >}: ((7×6) mod 4) mod 3 __ ((7×6) mod 3) mod 4",>,60,Y,Evaluate each side step by step,"((7×6) mod 4) mod 3 = (42 mod 4) mod 3 = 2 mod 3 = 2, while ((7×6) mod 3) mod 4 = (42 mod 3) mod 4 = 0 mod 4 = 0. So 2 > 0."
+3,Find -7 × 12 (mod 8).,4,60,Y,"Multiply, then add multiples of 8 until the result is between 0 and 7","-7 × 12 = -84 and -84 + 11 × 8 = 4, so the answer is 4."
+4,A number n satisfies n mod 3 = 1 and n mod 4 = 2. What is the smallest positive number it can be?,10,60,Y,List positive numbers with n mod 3 = 1 and test each against n mod 4 = 2,"The positive numbers with n mod 3 = 1 are 1, 4, 7, 10, 13, ... The first of these with n mod 4 = 2 is n = 10."
+5,What is the remainder when 17 × 26 × 53 is divided by 7? Hint: first reduce each number modulo 7.,4,60,Y,"17 ≡ 3, 26 ≡ 5, 53 ≡ 4 (mod 7)",17 = 7 × 2 + 3 so 17 ≡ 3; 26 = 7 × 3 + 5 so 26 ≡ 5; 53 = 7 × 7 + 4 so 53 ≡ 4 (mod 7). Then 17 × 26 × 53 ≡ 3 × 5 × 4 = 60 ≡ 4 (mod 7).

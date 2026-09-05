@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","What value completes the square in x^2+14x+__?","49","60","Y","Take half of 14.;Square the result.","(14/2)^2=49."
+"2","Rewrite x^2+14x+49 as a square.","(x+7)^2","60","Y","Half of 14 is 7.;Use (x+7)(x+7).","x^2+14x+49=(x+7)^2."
+"3","What value completes the square in x^2-6x+__?","9","60","Y","Take half of -6.;Square the result.","(-3)^2=9."
+"4","Solve x^2+4x-5=0 by completing the square. Enter the larger root.","1","60","Y","Write (x+2)^2=9.;x+2=3 or x+2=-3.","The roots are 1 and -5 so the larger is 1."
+"5","Rewrite x^2+10x+30 in vertex form.","(x+5)^2+5","60","Y","Add and subtract 25.;x^2+10x+25=(x+5)^2.","(x+5)^2+30-25=(x+5)^2+5."

@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Factor x^2-64.","(x-8)(x+8)|(x+8)(x-8)","60","Y","This is a difference of squares.;64=8^2.","x^2-64=(x-8)(x+8)."
+"2","Factor 4x^2-25.","(2x-5)(2x+5)|(2x+5)(2x-5)","60","Y","Write each term as a square.;4x^2=(2x)^2 and 25=5^2.","4x^2-25=(2x-5)(2x+5)."
+"3","Factor x^2+12x+36.","(x+6)^2|(x+6)(x+6)","60","Y","Check whether it is a perfect-square trinomial.;36=6^2 and 12=2(6).","x^2+12x+36=(x+6)^2."
+"4","What value makes x^2-10x+__ a perfect-square trinomial?","25","60","Y","Take half of -10.;Square the result.","(-10/2)^2=25."
+"5","Factor 3x^2-27 completely.","3(x-3)(x+3)|3(x+3)(x-3)","60","Y","Remove the GCF first.;Then factor x^2-9 as a difference of squares.","3(x^2-9)=3(x-3)(x+3)."

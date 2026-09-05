@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","To construct an equilateral triangle inscribed in a circle what central angle separates adjacent vertices?","120|120 degrees","60","Y","Divide 360 by 3.;Each third of the circle is a vertex.","The central angle is 120 degrees."
+"2","For a regular hexagon inscribed in a circle how does each side length compare with the radius?","they are equal|equal|side equals radius","60","Y","Each central triangle is equilateral.;The 60-degree central angle makes all sides equal.","Each side equals the radius."
+"3","Where is the center of a triangle's circumcircle located?","intersection of perpendicular bisectors|circumcenter","60","Y","It is equidistant from all three vertices.;Points equidistant from two vertices lie on a perpendicular bisector.","At the intersection of the perpendicular bisectors."
+"4","A constructed quadrilateral has four equal central angles in a circle. What regular shape is it?","square|a square","60","Y","Four equal central angles are 90 degrees each.;Equal chords give equal sides.","A square."
+"5","How many times is the radius stepped around a circle to construct an inscribed regular hexagon?","6|six","60","Y","Each step marks a 60-degree arc.;360/60.","Six times."

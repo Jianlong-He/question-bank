@@ -1,5 +1,5 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
-1,A rectangle is 2/5m tall and 6/7 m wide. Find the area.,12/35,240,Y,Rectangle area = length x height,,https://i.ibb.co/jNzHmgQ/G5-U6-W5-Q1-Image.png
+1,A rectangle is 2/5m tall and 6/7 m wide. Find the area.,12/35,240,Y,Rectangle area = length x height,Area = height x width = (2/5) x (6/7) = (2 x 6)/(5 x 7) = 12/35 square meters.,https://i.ibb.co/jNzHmgQ/G5-U6-W5-Q1-Image.png
 2,Select. When a rectangle tall and wide are measure in meter (m). What unit should the area be measured in? : A B,B,240,N,,B.   Meters x Meters = Square meters,https://i.ibb.co/Pz9c09bB/G5-U6-W5-Q2-Image.png
 3,"If a rectangle is split into 5 equal rows and 6 equal columns, how many equal small rectangles are there total?",30    ,240,Y,Total parts = number of rows x number of columns,30,
 4,A rectangle is 2 m tall and 5 m wide. It is split into 5 equal rows (tall) and 6 equal columns (wide). What are the tall and wide of each small rectangle? Give your answer as a number or fraction only. Do not write units.,"2/5, 5/6",240,Y,"Divide total height by number of rows, divide total width by number of columns.","2/5, 5/6",https://i.ibb.co/zhqhwXQB/G5-U6-W5-Q4-Image.png

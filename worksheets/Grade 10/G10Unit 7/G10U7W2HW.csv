@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","A substance has initial mass 80 grams and half-life 4 years. Write its mass after t years.","M=80*(1/2)^(t/4)|80*(1/2)^(t/4)|M=80(1/2)^(t/4)","60","Y","Each half-life multiplies by 1/2.;The number of half-lives is t/4.","M=80(1/2)^(t/4)."
+"2","An 80-gram sample has half-life 4 years. What mass remains after 12 years?","10|10 grams","60","Y","Count the half-lives in 12 years.;12/4=3 half-lives.","80*(1/2)^3=10 grams."
+"3","A population grows 3% per year. What is the annual growth factor?","1.03","60","Y","Add the percent to 100%.;1+0.03.","The growth factor is 1.03."
+"4","A price decreases 20% each month. What is the monthly decay factor?","0.8|0.80|80%","60","Y","Subtract the percent from 100%.;1-0.20.","The decay factor is 0.8."
+"5","The growth factor is 1.45. What is the percent increase?","45%|45 percent|0.45","60","Y","Subtract 1.;0.45 as a percent.","The increase is 45%."

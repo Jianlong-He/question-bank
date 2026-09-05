@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","A quantity grows by 44% every 3 years. What is its three-year growth factor?","1.44","60","Y","Add the percent to 100%.;1+0.44.","The three-year factor is 1.44."
+"2","A model uses minutes but time s is measured in seconds. What replaces t in the exponent?","s/60|s divided by 60","60","Y","Convert seconds to minutes.;There are 60 seconds in a minute.","Replace t with s/60."
+"3","A model uses years but time m is measured in months. What replaces t in the exponent?","m/12|m divided by 12","60","Y","Convert months to years.;There are 12 months in a year.","Replace t with m/12."
+"4","If Q=500(0.6)^t what percent of the previous amount remains each period?","60%|60 percent|0.6","60","Y","The base is the fraction that remains.;0.6 as a percent.","60% remains."
+"5","For Q=500(0.6)^t by what percent does the quantity decrease each period?","40%|40 percent|0.4","60","Y","Subtract the base from 1.;1-0.6=0.4.","The decrease is 40%."

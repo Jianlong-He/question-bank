@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
-1,"Identify the pattern and complete the sequence: 12, 16, 20, __, 28, __","24, 32",60,N,,,
-2,"Identify the pattern and complete the sequence: 20, 27, 34, __, 48, __","41, 55",60,N,,,
-3,"Identify the pattern and complete the sequence: 45, 40, 35, __, 25, __","30, 20",60,N,,,
-4,"Identify the pattern and complete the sequence: 150, 135, 120, ___, 90, ___","105, 75",60,N,,,
-5,"Find the missing numbers: 200, 175, 150, ___, 100, ___","125, 75",60,N,,,
+1,"Identify the pattern and complete the sequence: 12, 16, 20, __, 28, __","24, 32",60,N,,"Each number is 4 more than the one before (12, 16, 20). 20 + 4 = 24 and 28 + 4 = 32. Missing numbers: 24, 32.",
+2,"Identify the pattern and complete the sequence: 20, 27, 34, __, 48, __","41, 55",60,N,,"Each number is 7 more than the one before (20, 27, 34). 34 + 7 = 41 and 48 + 7 = 55. Missing numbers: 41, 55.",
+3,"Identify the pattern and complete the sequence: 45, 40, 35, __, 25, __","30, 20",60,N,,"Each number is 5 less than the one before (45, 40, 35). 35 - 5 = 30 and 25 - 5 = 20. Missing numbers: 30, 20.",
+4,"Identify the pattern and complete the sequence: 150, 135, 120, ___, 90, ___","105, 75",60,N,,"Each number is 15 less than the one before (150, 135, 120). 120 - 15 = 105 and 90 - 15 = 75. Missing numbers: 105, 75.",
+5,"Find the missing numbers: 200, 175, 150, ___, 100, ___","125, 75",60,N,,"Each number is 25 less than the one before (200, 175, 150). 150 - 25 = 125 and 100 - 25 = 75. Missing numbers: 125, 75.",

@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","A fair coin is flipped three times. Find the probability of three heads.","1/8|0.125","60","Y","Flips are independent.;Multiply 1/2 three times.","(1/2)^3=1/8."
+"2","A free throw has success probability 0.7. Assuming independence find the probability of making two in a row.","0.49|49/100","60","Y","Multiply the probabilities.;0.7*0.7.","0.49."
+"3","A bag has 4 red and 3 blue balls. Without replacement find P(red then red).","2/7","60","Y","The first draw has probability 4/7.;The second has probability 3/6.","4/7*3/6=12/42=2/7."
+"4","A card is drawn and not replaced before a second draw. Are the draws independent? Enter Yes or No.","No|no|N|n","60","Y","The first draw changes the deck.;The second probability depends on the first.","No."
+"5","If P(B given A)=P(B) what relationship do events A and B have?","independent|they are independent|independent events","60","Y","A does not change the chance of B.;Name the relationship.","They are independent."

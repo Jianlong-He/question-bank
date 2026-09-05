@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find 7 × 12 (mod 5).,4,60,Y,"Multiply, then take the remainder mod 5",7 × 12 = 84 and 84 mod 5 = 4.
+2,What is the remainder when 11 × 12 × 13 × 14 is divided by 5? Hint: first reduce each number modulo 5.,4,60,Y,"The remainders are 1, 2, 3 and 4","The remainders of 11, 12, 13, 14 mod 5 are 1, 2, 3, 4. Multiply: 1 × 2 × 3 × 4 = 24, and 24 mod 5 = 4."
+3,Find -6 × 11 (mod 7).,4,60,Y,"Multiply, then add multiples of 7 until the result is between 0 and 6","-6 × 11 = -66 and -66 + 10 × 7 = 4, so the answer is 4."
+4,"If X ≡ 5 (mod 8) and Y ≡ 4 (mod 8), what is the remainder when X × Y is divided by 8?",4,60,Y,Multiply the remainders and reduce mod 8,"Multiply the remainders: 5 × 4 = 20. 20 = 2 × 8 + 4, so the remainder is 4."
+5,"If n is an integer such that n + 1 is divisible by 3, what is the remainder when n^2 + 2 is divided by 3?",0,60,Y,What is n mod 3?;Substitute that remainder into n^2 + 2,"If n + 1 is a multiple of 3 then n ≡ 2 (mod 3). Substituting: 2^2 + 2 = 6, which is divisible by 3, so the remainder is 0."

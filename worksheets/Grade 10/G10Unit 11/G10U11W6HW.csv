@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","A central angle is 110 degrees. Find its minor arc measure.","110|110 degrees","60","Y","A minor arc equals its central angle.;Copy the angle measure.","The arc is 110 degrees."
+"2","A minor arc measures 95 degrees. Find the corresponding major arc measure.","265|265 degrees","60","Y","The two arcs make the whole circle.;360-95.","The major arc is 265 degrees."
+"3","Two adjacent arcs measure 3x and x+20 and together form a semicircle. Find x.","40","60","Y","A semicircle is 180 degrees.;3x+x+20=180.","4x=160 so x=40."
+"4","Find the arc length for theta=90 degrees and r=6 in terms of pi.","3pi|3*pi","60","Y","Use theta/360*2*pi*r.;1/4*12pi.","The arc length is 3pi."
+"5","An arc is one fifth of a circle. Find its degree measure.","72|72 degrees","60","Y","Divide 360 by 5.;360/5.","The arc is 72 degrees."

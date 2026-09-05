@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Evaluate 10C2.","45","60","Y","Use n!/(r!(n-r)!).;10*9/2.","45."
+"2","How many 3-card hands can be chosen from 8 distinct cards?","56","60","Y","Order does not matter.;Use 8C3.","8*7*6/6=56."
+"3","A class has 5 girls and 4 boys. How many 3-person groups contain exactly 2 girls?","40","60","Y","Choose 2 girls and 1 boy.;5C2*4C1.","10*4=40."
+"4","If exactly one of 36 equally likely combinations wins what is the winning probability?","1/36","60","Y","One favorable outcome.;Divide by 36.","1/36."
+"5","Write the combination formula nCr.","n!/(r!(n-r)!)","60","Y","Use factorials.;Divide by r! and (n-r)!.","nCr=n!/(r!(n-r)!)."

@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","An exponential model starts at 50 and grows by factor 1.2 each period. Write the model after t periods.","A=50*1.2^t|50*1.2^t|A=50(1.2)^t","60","Y","Use A=a*b^t.;a=50 and b=1.2.","A=50(1.2)^t."
+"2","In P=120(1.05)^t what is the initial value?","120","60","Y","The initial value is P when t=0.;b^0=1.","The initial value is 120."
+"3","In P=120(1.05)^t what is the percent increase per period?","5%|5 percent|0.05","60","Y","Subtract 1 from the growth factor.;1.05-1=0.05.","The increase is 5% per period."
+"4","A quantity begins at 800 and decreases by 15% per year. What is the decay factor?","0.85|85%","60","Y","Subtract the percent from 100%.;1-0.15.","The decay factor is 0.85."
+"5","For A=50(3)^t find A when t=3.","1350","60","Y","Compute 3^3.;Multiply by 50.","50*27=1350."

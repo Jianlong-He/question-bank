@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","The perimeter of a triangle is 42. Find the perimeter of its medial triangle.","21","60","Y","Each midsegment is half a side.;Halve the perimeter.","The medial perimeter is 21."
+"2","The area of a triangle is 64. Find the area of its medial triangle.","16","60","Y","The medial triangle has scale factor 1/2.;Area scales by 1/4.","64/4=16."
+"3","A triangle midsegment is parallel to a side of length 18. Find the midsegment length.","9","60","Y","A midsegment is half the parallel side.;18/2.","The midsegment is 9."
+"4","What is the slope of a line perpendicular to a line with slope 5?","-1/5|-0.2","60","Y","Perpendicular slopes are negative reciprocals.;Flip and negate 5.","The slope is -1/5."
+"5","Find the slope between points (2 3) and (6 11).","2","60","Y","Use rise over run.;(11-3)/(6-2).","8/4=2."

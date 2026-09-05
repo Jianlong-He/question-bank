@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Two similar figures have corresponding side lengths 6 and 15. What is the scale factor from the first to the second?","2.5|5/2","60","Y","Divide the second length by the first.;15/6.","The scale factor is 2.5."
+"2","Solve the proportion 4/10=x/25.","10","60","Y","Cross multiply.;4*25=10x.","x=100/10=10."
+"3","Which similarity criterion uses two pairs of congruent angles?","AA|angle angle|AA similarity","60","Y","Two angles determine the third.;Name the two-letter criterion.","AA similarity."
+"4","Triangles have corresponding sides 5 12 13 and 10 24 26. Are they similar? Enter Yes or No.","Yes|yes|Y|y","60","Y","Compare the ratios of corresponding sides.;10/5=24/12=26/13=2.","Yes by SSS similarity."
+"5","A side of length 4 corresponds to a side of length 12. If another original side is 7 what is its image length?","21","60","Y","Find the scale factor 12/4.;Multiply 7 by 3.","The image length is 21."

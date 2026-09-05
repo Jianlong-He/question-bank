@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","A three-dimensional dilation has scale factor k. By what factor do volumes change?","k^3|k cubed","60","Y","Volume is three-dimensional.;Cube the length factor.","Volumes are multiplied by k^3."
+"2","A plane cuts a square pyramid parallel to its base. What shape is the cross section?","square|a square","60","Y","The cross section is similar to the base.;The base is a square.","The cross section is a square."
+"3","Rotating a rectangle around one of its sides creates what common solid?","cylinder|a cylinder","60","Y","The side becomes the axis.;The opposite side traces a circle.","A cylinder."
+"4","A solid is dilated by scale factor 1/2. What is its volume scale factor?","1/8|0.125","60","Y","Cube the length factor.;(1/2)^3.","The volume factor is 1/8."
+"5","A plane cuts through a sphere. What shape is the cross section?","circle|a circle","60","Y","Every slice of a sphere is round.;Think of slicing an orange.","The cross section is a circle."

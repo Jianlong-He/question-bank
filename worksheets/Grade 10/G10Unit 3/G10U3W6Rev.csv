@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Find the discriminant of x^2+4x-5=0.","36","60","Y","Use b^2-4ac.;Compute 16-4(1)(-5).","16+20=36."
+"2","How many real solutions does x^2+x+1=0 have?","0|zero|no real solutions","60","Y","Compute the discriminant 1-4.;A negative discriminant gives no real solutions.","The discriminant is -3 so there are no real solutions."
+"3","Use the quadratic formula to solve 3x^2-5x-2=0. Enter the larger root.","2","60","Y","The discriminant is 25+24=49.;x=(5±7)/6.","The roots are 2 and -1/3 so the larger is 2."
+"4","Use the quadratic formula to solve x^2-6x+5=0. Enter the roots in increasing order.","1,5","60","Y","The discriminant is 36-20=16.;x=(6±4)/2.","The roots are 1 and 5."
+"5","In the quadratic formula what expression appears under the square root?","b^2-4ac|b²-4ac","60","Y","It is called the discriminant.;It uses a b and c.","The expression is b^2-4ac."

@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Simplify sqrt(-36).","6i","60","Y","Write sqrt(-36)=sqrt(36)*sqrt(-1).;sqrt(-1)=i.","sqrt(-36)=6i."
+"2","Simplify i^5.","i","60","Y","Powers of i repeat every 4.;i^5=i^4*i.","i^5=1*i=i."
+"3","Simplify i^10.","-1","60","Y","Divide 10 by 4 and use the remainder.;The remainder is 2 so i^10=i^2.","i^10=-1."
+"4","Simplify i^16.","1","60","Y","16 is a multiple of 4.;i^4=1.","i^16=(i^4)^4=1."
+"5","Solve x^2=-64. Enter one solution with positive imaginary part.","8i","60","Y","Take square roots.;sqrt(-64)=8i.","x=8i or x=-8i."

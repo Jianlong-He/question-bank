@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","A radius is perpendicular to a chord. What does it do to the chord?","bisects it|bisects the chord|divides it in half","60","Y","Draw the two radii to the chord endpoints.;The two right triangles are congruent.","It bisects the chord."
+"2","Two tangent segments are drawn from the same external point. Compare their lengths.","they are equal|equal|congruent","60","Y","Draw radii to the points of tangency.;The two right triangles share the hypotenuse.","They are equal."
+"3","A radius is 9. What is the distance from the center to a tangent line?","9","60","Y","The tangent is perpendicular to the radius.;The shortest distance is along the radius.","The distance is 9."
+"4","A tangent segment has length 15 and the distance from the center to the external point is 17. Find the radius.","8","60","Y","Use the right triangle.;17^2-15^2.","289-225=64 so the radius is 8."
+"5","Tangents from point P have lengths 2x+7 and 5x-2. Find x.","3","60","Y","Tangent segments from the same point are equal.;2x+7=5x-2.","3x=9 so x=3."

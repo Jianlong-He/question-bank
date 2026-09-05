@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","For 2x^2+3x-5=0 identify a b and c separated by commas.","2,3,-5","60","Y","Match with ax^2+bx+c=0.;Include the sign of c.","a=2 b=3 c=-5."
+"2","Find the discriminant of x^2-6x+9=0.","0","60","Y","Use b^2-4ac.;Compute 36-4(1)(9).","36-36=0."
+"3","How many real solutions does x^2-6x+9=0 have?","1|one","60","Y","Use the discriminant.;A discriminant of zero gives one repeated root.","There is one real solution."
+"4","Use the quadratic formula to solve x^2-2x-8=0. Enter the larger root.","4","60","Y","The discriminant is 4+32=36.;x=(2±6)/2.","The roots are 4 and -2 so the larger is 4."
+"5","Find the discriminant of 2x^2+x+3=0.","-23","60","Y","Use b^2-4ac with a=2 b=1 c=3.;Compute 1-24.","The discriminant is -23."

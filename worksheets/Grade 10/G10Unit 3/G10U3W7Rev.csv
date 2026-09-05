@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","Rewrite x^2-12x+36 as a square.","(x-6)^2","60","Y","Half of -12 is -6.;(-6)^2=36 confirms the pattern.","x^2-12x+36=(x-6)^2."
+"2","Solve x^2-2x-15=0 by completing the square. Enter the positive root.","5","60","Y","Write (x-1)^2=16.;x-1=4 or x-1=-4.","The roots are 5 and -3 so the positive root is 5."
+"3","Rewrite x^2-6x+1 in vertex form.","(x-3)^2-8","60","Y","Add and subtract 9.;x^2-6x+9=(x-3)^2.","(x-3)^2+1-9=(x-3)^2-8."
+"4","When completing the square for x^2+bx what value is added?","(b/2)^2|b^2/4","60","Y","Take half the coefficient of x.;Square it.","Add (b/2)^2."
+"5","Solve x^2+4x+1=0 by completing the square. Enter the larger root rounded to three decimal places.","-0.268","60","Y","Write (x+2)^2=3.;x=-2+sqrt(3).","-2+1.732=-0.268."

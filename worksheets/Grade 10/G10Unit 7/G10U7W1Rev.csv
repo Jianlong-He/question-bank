@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","A table has values 20 40 80 160. What is the common ratio?","2","60","Y","Divide consecutive values.;40/20=2.","The common ratio is 2."
+"2","Write a model for 800 decreasing by 15% each year for t years.","A=800*0.85^t|800*0.85^t|A=800(0.85)^t","60","Y","The decay factor is 0.85.;Use A=a*b^t.","A=800(0.85)^t."
+"3","For Q=90(1.3)^t is the model growth or decay?","growth|exponential growth","60","Y","Compare the base with 1.;1.3 is greater than 1.","The model is growth."
+"4","A population triples every 2 years. What is the growth factor for each 2-year period?","3","60","Y","Tripling means multiplying by 3.;Each 2-year period multiplies by 3.","The growth factor is 3."
+"5","A model is exponential if equal input increases produce equal differences or equal ratios?","equal ratios|constant ratios|equal ratio","60","Y","Linear models have equal differences.;Exponential models multiply by a constant.","Equal ratios."

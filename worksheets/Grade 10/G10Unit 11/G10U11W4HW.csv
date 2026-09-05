@@ -1,0 +1,6 @@
+"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
+"1","To construct a regular hexagon inscribed in a circle what central angle separates adjacent vertices?","60|60 degrees","60","Y","Divide 360 by the number of vertices.;360/6.","The central angle is 60 degrees."
+"2","To construct a square inscribed in a circle what central angle separates adjacent vertices?","90|90 degrees","60","Y","Divide 360 by 4.;Each quarter turn is a vertex.","The central angle is 90 degrees."
+"3","What circle is constructed through all three vertices of a triangle?","circumcircle|circumscribed circle","60","Y","It passes through each vertex.;Its center is the circumcenter.","The circumcircle."
+"4","What two classical tools are permitted in a compass-and-straightedge construction?","compass and straightedge|a compass and an unmarked straightedge","60","Y","One draws circles.;One draws lines without measuring.","A compass and a straightedge."
+"5","To construct a tangent at point T on a circle what line should be drawn through T?","a line perpendicular to radius OT|perpendicular to the radius|perpendicular to radius OT","60","Y","A tangent is perpendicular to the radius.;Construct a perpendicular at T.","A line perpendicular to radius OT."
