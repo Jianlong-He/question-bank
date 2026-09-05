@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Select which of the following numbers is a multiple of 7?: 28, 35, 45, 63, 56","28, 35, 56, 63",60,N,,
-2,"Select which of the following numbers is a multiple of 15?: 30, 45, 48, 60, 80","30, 45, 60",60,N,,
-3,List ALL the factors of 48 from smallest to largest.,"1, 2, 3, 4, 6, 8, 12, 16, 24, 48",60,N,,
-4,"Select which numbers is a multiple of both 4 and 6?: 18, 24, 36, 42","24, 36",60,N,,
-5,"Select which numbers has both 3 and 9 as factors?: 12, 18, 27, 45","18, 27, 45",60,N,,
+1,"Select which of the following numbers is a multiple of 7?: 28, 35, 45, 63, 56","28, 35, 56, 63",60,N,,"Multiples of 7: 7 x 4 = 28, 7 x 5 = 35, 7 x 8 = 56, 7 x 9 = 63. 45 is not a multiple of 7 (7 x 6 = 42, 7 x 7 = 49). Answer: 28, 35, 56, 63."
+2,"Select which of the following numbers is a multiple of 15?: 30, 45, 48, 60, 80","30, 45, 60",60,N,,"Multiples of 15: 15 x 2 = 30, 15 x 3 = 45, 15 x 4 = 60. 48 and 80 are not multiples of 15. Answer: 30, 45, 60."
+3,List ALL the factors of 48 from smallest to largest.,"1, 2, 3, 4, 6, 8, 12, 16, 24, 48",60,N,,"Find factor pairs of 48: 1 x 48, 2 x 24, 3 x 16, 4 x 12, 6 x 8. Listing every factor from smallest to largest: 1, 2, 3, 4, 6, 8, 12, 16, 24, 48."
+4,"Select which numbers is a multiple of both 4 and 6?: 18, 24, 36, 42","24, 36",60,N,,"Multiples of 4: 24, 36 (18 and 42 are not). Multiples of 6: 18, 24, 36, 42. Only 24 and 36 are multiples of both 4 and 6."
+5,"Select which numbers has both 3 and 9 as factors?: 12, 18, 27, 45","18, 27, 45",60,N,,"A number has 9 as a factor if it is a multiple of 9: 18 = 9 x 2, 27 = 9 x 3, 45 = 9 x 5. Every multiple of 9 is also a multiple of 3. 12 is not a multiple of 9. Answer: 18, 27, 45."

@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
 1,What number does 8/8 represent?,1,240,Y,"When the numerator and denominator are the same, it means all parts of the whole are taken",1
-2,A cake is cut into 4 equal slices. All slices are eaten. What fraction of the cake was eaten?,4/4|1,240,Y,"Fraction = numerator / denominator. Numerator = Number eaten, Denominator = Number in total",
+2,A cake is cut into 4 equal slices. All slices are eaten. What fraction of the cake was eaten?,4/4|1,240,Y,"Fraction = numerator / denominator. Numerator = Number eaten, Denominator = Number in total","4 slices were eaten out of 4 slices in total, so the fraction eaten is 4/4, which equals 1 whole cake."
 3,Select the one that is exactly one whole: 2/2 3/2 5/7,2/2,240,Y,A fraction equals 1 whole only when the numerator = denominator.,2/2
 4,"On a number line, the space from 0 to 1 is divided into 7 equal parts. How many jumps does it take to go from 0 to 1?",7,240,Y,"If the space is divided into 7 equal parts, each part is one jump.",7
 5,Select all the fractions that are equal to 1: 5/5 4/3 9/9 10/12,"5/5, 9/9",240,Y,A fraction equals 1 when top = bottom (numerator = denominator).,"5/5, 9/9"

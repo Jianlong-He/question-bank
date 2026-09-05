@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
-1,Fill: Find the missing denominator: 15/20 = 3/__,4,60,N,,,
-2,Select the fraction NOT equivalent to 3/4: 6/8 9/12 10/16,10/16,60,N,,,
-3,Select. Lara read 6/10 of a book. Sarah read 3/5. Did they read the same amount?: True False,True,60,N,,,
-4,Select ALL fractions equivalent to 15/30: 10/20 5/15 3/6 2/4,"10/20, 3/6, 2/4",60,N,,,
-5,Fill: Convert 16/20 into an equivalent fraction with a denominator of 100. Write as __/100,80,60,N,,,
+1,Fill: Find the missing denominator: 15/20 = 3/__,4,60,N,,"15 divided by 5 = 3, so divide the denominator by 5 as well: 20 divided by 5 = 4. 15/20 = 3/4. The missing denominator is 4.",
+2,Select the fraction NOT equivalent to 3/4: 6/8 9/12 10/16,10/16,60,N,,"3/4 = 6/8 (multiply by 2) and 3/4 = 9/12 (multiply by 3). 3/4 = 12/16, not 10/16, so 10/16 is NOT equivalent.",
+3,Select. Lara read 6/10 of a book. Sarah read 3/5. Did they read the same amount?: True False,True,60,N,,"3/5 = 6/10 (multiply numerator and denominator by 2), so they read the same amount. True.",
+4,Select ALL fractions equivalent to 15/30: 10/20 5/15 3/6 2/4,"10/20, 3/6, 2/4",60,N,,"15/30 simplifies to 1/2. 10/20 = 1/2, 3/6 = 1/2, 2/4 = 1/2, but 5/15 = 1/3. Equivalent fractions: 10/20, 3/6, 2/4.",
+5,Fill: Convert 16/20 into an equivalent fraction with a denominator of 100. Write as __/100,80,60,N,,"20 x 5 = 100, so multiply the numerator by 5 too: 16 x 5 = 80. 16/20 = 80/100.",
