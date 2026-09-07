@@ -8,4 +8,4 @@ Question ID,Question Choices,Question Answer,Question Time (seconds),Hints Allow
 7,Select about how long is a school bus in meters : 1 10 100,10,60,No,No,A school bus is about 40 feet long,
 8,"If a shelf is 24 inches long and you add a 12-inch shelf beside it, how long is the total shelf in inches?",36,60,No,No,24 + 12 = 36 inches,
 9,Select which tool would you use to measure the length of a book : Ruler Thermometer Stopwatch,Ruler,60,No,No,A ruler is used to measure the length of a book,
-10,A plant grows 5 centimeters in May and 8 centimeters in June. How much did it grow in total in centimers?,13 cm,60,No,No,5 + 8 = 13 centimeters,
+10,A plant grows 5 centimeters in May and 8 centimeters in June. How much did it grow in total in centimeters?,13,60,No,No,5 + 8 = 13 centimeters,
