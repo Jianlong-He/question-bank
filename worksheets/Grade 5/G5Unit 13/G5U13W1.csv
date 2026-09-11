@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
 1,What is (9 - 2) x 4?,28,80,Y,"Order of operation: Parentheses first, then multiply and division, then add and subtract",28
-2,Select True or False. 3 x (5 + 4) equals 3 x 5 + 4 : True False,False,100,Y,"Do they have the same order of operation?; Order of operation: Parentheses first, then multiply and division, then add and subtract",False
+2,Select True or False. 3 x (5 + 4) equals 3 x 5 + 4 : ~~True False~~,False,100,Y,"Do they have the same order of operation?; Order of operation: Parentheses first, then multiply and division, then add and subtract",False
 3,What is 10 - 2 x 4?,2,100,Y,"Order of operation: Parentheses first, then multiply and division, then add and subtract; first 2x4 is 8, then 10-8 = 2",2
 4,What is 17 - 2 x ( 24 - 17)?,3,120,Y,"Order of operation: Parentheses first, then multiply and division, then add and subtract",3
 5,Write the following as expression: 24 minus the sum of 7 + 9,24-(7+9),120,Y,"Add parentheses when necessary; Order of operation: Parentheses first, then multiply and division, then add and subtract",24-(7+9)

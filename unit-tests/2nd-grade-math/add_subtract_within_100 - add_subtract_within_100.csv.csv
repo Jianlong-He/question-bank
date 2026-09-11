@@ -1,7 +1,7 @@
 Question ID,Question Choices,Question Answer,Question Time (seconds),Hints Allowed,Hints,Solution,ImageURL
-1,Select what is 34 + 25? : 50 59 63 68,59,60,No,No,34 + 25 = 59,
-2,Select what is 67 - 23? : 40 44 48 60,44,60,No,No,67 - 23 = 44,
-3,Select what is 48 + 36? : 70 75 84 90,84,60,No,No,48 + 36 = 84,
+1,Select what is 34 + 25? : ~~50 59 63 68~~,59,60,No,No,34 + 25 = 59,
+2,Select what is 67 - 23? : ~~40 44 48 60~~,44,60,No,No,67 - 23 = 44,
+3,Select what is 48 + 36? : ~~70 75 84 90~~,84,60,No,No,48 + 36 = 84,
 4,What is 75 - 48?,27,60,No,No,75 - 48 = 27,
 5,There are 53 students in the gym. 21 leave. How many are left?,32,60,No,No,53 - 21 = 32 students,
 6,What is 60 + 27?,87,60,No,No,60 + 27 = 87,

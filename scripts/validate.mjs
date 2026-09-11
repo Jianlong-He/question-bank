@@ -105,16 +105,32 @@ function answerSets(raw) {
     return parts.map((x) => x.trim()).filter(Boolean);
   }).filter((s) => s.length);
 }
+// The app's three Select separators, tried in order (see RULES.md §2): a bar,
+// a comma followed by whitespace, then whitespace — each outside "…"/$…$ spans.
+function splitSelectOptions(after) {
+  const clean = (parts) => parts.map((p) => p.trim()).filter(Boolean);
+  const byBar = splitOutside(after, /\|/);
+  if (byBar.length > 1) return clean(byBar);
+  const marked = after.replace(/,\s+/g, "\u0000");
+  const byComma = splitOutside(marked, /\u0000/);
+  if (byComma.length > 1) return clean(byComma.map((p) => p.replace(/\u0000/g, ", ")));
+  return clean(splitOutside(after, /\s/).map((v) => v.replace(/,+$/, "")));
+}
+
+// A Select row keeps its options between ~~ and ~~ (RULES.md §1); the prompt
+// is everything else, colons included. No block, or an empty one, is an error.
 function questionShape(prompt) {
   const p = prompt.trim();
-  const colon = p.indexOf(":");
-  if (colon !== -1) {
-    const label = p.slice(0, colon).trim(), after = p.slice(colon + 1).trim();
-    if (/^select\b/i.test(label)) {
-      const opts = splitOutside(after, /\s/).map((v) => v.trim().replace(/,+$/, "")).filter(Boolean);
-      if (opts.length) return { kind: "select", opts };
-    }
+  if (/^select\b/i.test(p)) {
+    const block = p.match(/~~([\s\S]*?)~~/);
+    if (!block) return { kind: "text", problem: "a Select row needs its options between ~~ and ~~" };
+    if ((p.match(/~~/g) || []).length !== 2) return { kind: "text", problem: "a Select row must contain exactly one ~~…~~ block" };
+    const opts = splitSelectOptions(block[1]);
+    if (!opts.length) return { kind: "text", problem: "the ~~…~~ block is empty" };
+    if (opts.length < 2) return { kind: "select", opts, problem: "Select question with only one option" };
+    return { kind: "select", opts };
   }
+  if (p.includes("~~")) return { kind: "text", problem: "~~ is only for Select rows" };
   const m = p.match(/^(.*?)(?:\s+)?Choices:\s*(.+?)(?:\s+Answer with the letter only\.?)?$/is);
   if (m && m[1].trim() && m[2].trim()) {
     const letters = m[2].split(/\s*\|\s*/).map((o) => o.trim().match(/^([A-Za-z])\)\s*(.+)$/)).filter(Boolean).map((o) => o[1].toUpperCase());
@@ -142,6 +158,7 @@ function checkCsv(rel) {
     if (!a) { err(`${rel}:${line} (Q${id}): empty Question Answers`); continue; }
     for (const variant of q.includes("||") ? q.split("||").map((s) => s.trim()).filter(Boolean) : [q]) {
       const shape = questionShape(variant);
+      if (shape.problem) err(`${rel}:${line} (Q${id}): ${shape.problem}`);
       if (shape.kind === "letter") {
         for (const set of answerSets(a)) for (const x of set) if (!shape.opts.includes(x.toUpperCase())) err(`${rel}:${line} (Q${id}): answer "${x}" is not one of the letters ${shape.opts.join("")}`);
       } else if (shape.kind === "select") {
@@ -158,7 +175,6 @@ function checkCsv(rel) {
           if (alts.length && !alts.some((alt) => opts.includes(bare(alt)))) err(`${rel}:${line} (Q${id}): Select answer "${alts.join("|")}" is not among the options [${shape.opts.join(" · ")}]`);
         }
         if (width > shape.opts.length) err(`${rel}:${line} (Q${id}): more answers than options`);
-        if (shape.opts.length < 2) err(`${rel}:${line} (Q${id}): Select question with only one option`);
       }
     }
   }

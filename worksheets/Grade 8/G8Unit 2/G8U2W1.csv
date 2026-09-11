@@ -8,4 +8,4 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 7,Solve for $x$: $\frac{2}{3}x - 1 = 5$||Find $x$: $\frac{2x}{3} = 6$,9,35,Y,Add 1 to both sides first;Multiply by 3 to clear the denominator;Divide by 2,Fraction coefficients
 8,Fill: Solve $3(x - 1) = 2(x + 3)$,9,40,Y,Distribute both sides: $3x - 3 = 2x + 6$;Subtract $2x$ from both sides;Add 3 to both sides,Variables on both sides with parentheses
 9,Fill: The sum of 3 consecutive integers is 33. Enter them (lowest to highest):,"10,11,12",45,Y,"Let the integers be $n$, $n+1$, $n+2$;Set up: $3n + 3 = 33$;Solve for $n$, then find the next two",Consecutive integers word problem
-10,Select all equations where $x=-2$: $x+5=3$ $2x=-4$ $x-2=0$ $-3x=6$,"$x+5=3$,$2x=-4$,$-3x=6$",30,Y,Plug in $-2$ for $x$ in each equation;Check: Does $-2 + 5 = 3$?;Check: Does $2(-2) = -4$?,Testing solutions
+10,Select all equations where $x=-2$: ~~$x+5=3$ $2x=-4$ $x-2=0$ $-3x=6$~~,"$x+5=3$,$2x=-4$,$-3x=6$",30,Y,Plug in $-2$ for $x$ in each equation;Check: Does $-2 + 5 = 3$?;Check: Does $2(-2) = -4$?,Testing solutions

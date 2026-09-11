@@ -7,5 +7,5 @@
 6,Write 'two hundred forty-three' in standard form,243,300,Y,Two hundred = 200. Forty = 40. Three = 3. Put together,243
 7,What number is 600 + 40 + 5?,645,300,Y,"Add hundreds,add ten,add ones",645
 8,What number is 900 + 30 + 8?,938,300,Y,"Add hundreds,add ten,add ones",938
-9,Select which matches 'seven hundred nineteen': 700+10+9 700+19+10 7000+90+10,700+10+9,300,Y,700 + 10 + 9 = 719.,700+10+9
+9,Select which matches 'seven hundred nineteen': ~~700+10+9 700+19+10 7000+90+10~~,700+10+9,300,Y,700 + 10 + 9 = 719.,700+10+9
 10,Write 576 in word form using words,five hundred seventy-six|five hundred seventy six,300,Y,5 hundreds = five hundred. 7 tens = seventy. 6 ones = six,five hundred seventy-six
