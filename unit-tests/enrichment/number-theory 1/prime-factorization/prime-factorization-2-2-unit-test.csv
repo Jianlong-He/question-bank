@@ -1,0 +1,10 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find the prime factorization of 120.,2^3*3*5|2^3×3×5|2*2*2*3*5,60,N,,120 = 2 × 60 = 2 × 2 × 30 = 2 × 2 × 2 × 15 = 2^3 × 3 × 5.
+2,Find the prime factorization of 180.,2^2*3^2*5|2^2×3^2×5|2*2*3*3*5,60,N,,180 = 18 × 10 = (2 × 3^2) × (2 × 5) = 2^2 × 3^2 × 5.
+3,Find the prime factorization of 315.,3^2*5*7|3^2×5×7|3*3*5*7,60,N,,315 = 5 × 63 = 5 × 3^2 × 7 = 3^2 × 5 × 7.
+4,Find the GCD of 100 and 250.,50,60,N,,"100 = 2^2 × 5^2 and 250 = 2 × 5^3, so GCD = 2 × 5^2 = 50."
+5,Are 35 and 48 coprime (relatively prime)? Answer Yes or No.,Yes|yes,60,N,,"35 = 5 × 7 and 48 = 2^4 × 3 share no prime factor, so GCD(35, 48) = 1 and they are coprime: Yes."
+6,Find the GCD of 144 and 216.,72,60,N,,"144 = 2^4 × 3^2 and 216 = 2^3 × 3^3, so GCD = 2^3 × 3^2 = 72."
+7,"Find the GCD of 120, 180, and 240.",60,60,N,,"120 = 2^3 × 3 × 5, 180 = 2^2 × 3^2 × 5, 240 = 2^4 × 3 × 5. Taking the lowest power of each prime: 2^2 × 3 × 5 = 60."
+8,"What is the smallest positive integer N with a prime factorization of the form p^2 × q^3, where p and q are distinct primes?",72,60,N,,"To minimize N give the larger exponent to the smaller prime: q = 2, p = 3. N = 3^2 × 2^3 = 9 × 8 = 72."
+9,"If A = 2^3 × 3^5 × 7^2 and B = 2^4 × 3^2 × 5 × 7, what is GCD(A, B) in prime factorized form?",2^3*3^2*7|2^3×3^2×7,60,N,,"Take the lowest power of each common prime: 2^min(3,4) × 3^min(5,2) × 7^min(2,1) = 2^3 × 3^2 × 7."

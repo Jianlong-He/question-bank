@@ -1,0 +1,9 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,A repeating decimal is written as 0.1234512345... What is the 99th digit to the right of the decimal point?,4,60,N,,"The repeating block has 5 digits. 99 ÷ 5 = 19 remainder 4, so the 99th digit is the 4th digit of the block 12345, which is 4."
+2,How many positive integers less than 50 leave a remainder of 3 when divided by 5?,10,60,N,,"These numbers have the form 5k + 3: 3, 8, 13, 18, 23, 28, 33, 38, 43, 48. There are 10 of them."
+3,"Supply the correct operator {<, =, >}: ((7+6) mod 4) mod 3 __ ((7+6) mod 3) mod 4",=,60,N,,"((7+6) mod 4) mod 3 = (13 mod 4) mod 3 = 1 mod 3 = 1, while ((7+6) mod 3) mod 4 = (13 mod 3) mod 4 = 1 mod 4 = 1. They are equal."
+4,"A frog sits on a circular track with 15 stepping stones numbered 1 to 15. If the frog starts at 2 and jumps 40 times, each time moving backward exactly 2 stones, what number stone will it land on?",12,60,N,,"Total distance moved is -40 × 2 = -80 stones, so the frog ends at 2 - 80 = -78. -78 + 6 × 15 = 12, so it lands on stone 12."
+5,Find the remainder when 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 is divided by 6.,3,60,N,,"Group into multiples of 6: (1 + 2 + 3) + (5 + 7) + (8 + 4) + 6 are all multiples of 6, leaving 9, and 9 mod 6 = 3."
+6,What digit is in the ones place of the sum 9458 + 876 + 13424?,8,60,N,,Reduce each number mod 10: (8 + 6 + 4) mod 10 = 18 mod 10 = 8.
+7,Today is Tuesday. What day of the week will it be 100 days from now?,Thursday,60,N,,"100 mod 7 = 2, so it will be two days ahead of Tuesday: Thursday."
+8,"A sequence of numbers starts 1, 3, 2, 1, 3, 2, 1, 3, 2, ... where the pattern 1, 3, 2 repeats indefinitely. What is the sum of the first 20 terms?",40,60,N,,"The block 1, 3, 2 has length 3 and sum 6. In 20 terms there are 6 complete blocks and 2 leftover terms (1 and 3). Total = 6 × 6 + 1 + 3 = 40."

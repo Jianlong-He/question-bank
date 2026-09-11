@@ -1,0 +1,10 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Find the prime factorization of 56.,2^3*7|2^3×7|2*2*2*7,60,N,,56 = 8 × 7 = 2^3 × 7.
+2,"Find the prime factorization of GCD(56, 84).",2^2*7|2^2×7|2*2*7,60,N,,"56 = 2^3 × 7 and 84 = 2^2 × 3 × 7, so GCD(56, 84) = 2^2 × 7."
+3,"Find the prime factorization of GCD(144, 180).",2^2*3^2|2^2×3^2|2*2*3*3,60,N,,"144 = 2^4 × 3^2 and 180 = 2^2 × 3^2 × 5, so GCD(144, 180) = 2^2 × 3^2."
+4,"If n = 2 × 3 × 5 × 7, what is the prime factorization of 30 × n?",2^2*3^2*5^2*7|2^2×3^2×5^2×7,60,N,,30 × n = (2 × 3 × 5) × (2 × 3 × 5 × 7) = 2^2 × 3^2 × 5^2 × 7.
+5,"Reversing the digits of a two-digit number increases its value by 36. If the two digits are coprime (their gcd is 1), find all possibilities for the original number. List them separated by commas.","15,37,59|15, 37, 59",60,N,,"Let the number be 10a + b. Then (10b + a) - (10a + b) = 36, so 9(b - a) = 36 and b - a = 4. With gcd(a, b) = 1 and 1 ≤ a ≤ 9 the solutions are (a,b) = (1,5), (3,7), (5,9), giving 15, 37 and 59."
+6,7/8 of one positive integer equals 1/6 of another. What is the smallest possible sum of the two integers?,25,60,N,,"Let the integers be x and y with 7x/8 = y/6. Cross-multiplying gives 42x = 8y, i.e. 21x = 4y. Since 21 and 4 are coprime, x is a multiple of 4 and y a multiple of 21. The smallest choice is x = 4, y = 21 with sum 25."
+7,"Find all pairs of positive integers (x, y) such that x^2 - y^2 = 13. Answer as (x,y).","(7,6)|7,6",60,N,,"(x - y)(x + y) = 13. Since 13 is prime, x - y = 1 and x + y = 13. Adding gives 2x = 14, so x = 7 and y = 6."
+8,Find a number strictly between 20 and 30 with exactly 6 positive factors.,28,60,N,,"A number with 6 factors has the form p^5 or p^2 × q. 2^5 = 32 is too large; 2^2 × 5 = 20 and 3^2 × 2 = 18 are too small; 3^2 × 5 = 45 is too large; 2^2 × 7 = 28 works (factors 1, 2, 4, 7, 14, 28)."
+9,How many different rectangle shapes can you make using all 90 unit squares (1 by 1)?,6,60,N,,"90 = 2 × 3^2 × 5 has (1+1)(2+1)(1+1) = 12 factors, which pair up into 12 ÷ 2 = 6 rectangles: 1×90, 2×45, 3×30, 5×18, 6×15, 9×10."
