@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Fill: Find the distance between $(-6, 2)$ and $(3, 2)$. ____ units",9,60,Y,"Count from -6 to 0, then from 0 to 3.",9 -> 6 + 3 = 9.,
+2,"Select. To find the distance between two points that have the same x-coordinate, what do you do? ~~subtract-the-y-coordinates subtract-the-x-coordinates add-all-four-numbers~~",subtract-the-y-coordinates,60,Y,Equal x means one point is straight above the other.,"subtract-the-y-coordinates -> With the same x the segment is vertical, so its length is the difference of the y-coordinates.",
+3,"Fill: A rectangle has vertices $(-1, -1)$, $(5, -1)$, $(5, 4)$ and $(-1, 4)$. Find its area. ____ square units",30,60,Y,Find the width and height by subtracting.,30 -> Width: from -1 to 5 is 6. Height: from -1 to 4 is 5. Area = 6 x 5 = 30.,
+4,"Fill: Find the perimeter of the rectangle with vertices $(-1, -1)$, $(5, -1)$, $(5, 4)$ and $(-1, 4)$. ____ units",22,60,Y,Use 2 x (width + height).,22 -> 2 x (6 + 5) = 22.,
+5,"Fill: Two neighbouring corners of a square are $(-3, 1)$ and $(2, 1)$. Find the area of the square. ____ square units",25,60,Y,The distance between those corners is one side.,"25 -> The side is 2 - (-3) = 5, so the area is 5 x 5 = 25.",

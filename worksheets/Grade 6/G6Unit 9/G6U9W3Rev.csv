@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Fill: Three vertices of a rectangle are $(-5, -2)$, $(1, -2)$ and $(1, 4)$. Write the fourth vertex. (__, __)","-5,4",60,Y,Share an x with one corner and a y with another.,"-5,4 -> Above (-5, -2) and level with (1, 4).",
+2,"Fill: A rectangle has vertices $(3, -4)$, $(11, -4)$, $(11, 1)$ and $(3, 1)$. Find its area. ____ square units",40,60,Y,Width times height.,40 -> Width: 11 - 3 = 8. Height: from -4 to 1 is 5. Area = 8 x 5 = 40.,
+3,"Fill: Find the perimeter of the rectangle with vertices $(3, -4)$, $(11, -4)$, $(11, 1)$ and $(3, 1)$. ____ units",26,60,Y,Use 2 x (width + height).,26 -> 2 x (8 + 5) = 26.,
+4,"Fill: A parallelogram has vertices $(-4, 0)$, $(2, 0)$, $(4, 5)$ and $(-2, 5)$. Find its area. ____ square units",30,60,Y,"Base along the x-axis, height straight up to the top side.",30 -> Base: from -4 to 2 is 6. Height: 5. Area = 6 x 5 = 30.,
+5,"Fill: A rectangle has one side from $(2, 1)$ to $(2, 8)$ and an area of 42 square units. How wide is the rectangle? ____ units",6,60,Y,"Find the length of the given side, then divide the area by it.","6 -> The side is 8 - 1 = 7 long, so the width is 42 / 7 = 6.",

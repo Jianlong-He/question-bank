@@ -4734,12 +4734,48 @@
                     "youtubeIds": ["VhNkWdLGpmA","5ctsUsvIp8w","b9H22F0Qbgw","1op92ojA6q0","Jeh5vudjmLI","PC_FoyewoIs"]
                   },
                   {
+                    "title": "Worksheet 1",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W1.csv"
+                  },
+                  {
+                    "title": "Homework 1",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W1HW.csv"
+                  },
+                  {
+                    "title": "Review 1",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W1Rev.csv"
+                  },
+                  {
                     "title": "Shapes and Area on the Coordinate Plane",
                     "youtubeIds": ["zxy4KAiSPIc","xTcwnhyPN5E","WkiPVButdeg"]
                   },
                   {
+                    "title": "Worksheet 2",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W2.csv"
+                  },
+                  {
+                    "title": "Homework 2",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W2HW.csv"
+                  },
+                  {
+                    "title": "Review 2",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W2Rev.csv"
+                  },
+                  {
                     "title": "Rectangles and Parallelograms on the Coordinate Plane",
                     "youtubeIds": ["8V-PdgS2GKc","fEpINE1fjgc","s2wmcnZi6kE","8ToCxaB7EOE"]
+                  },
+                  {
+                    "title": "Worksheet 3",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W3.csv"
+                  },
+                  {
+                    "title": "Homework 3",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W3HW.csv"
+                  },
+                  {
+                    "title": "Review 3",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W3Rev.csv"
                   }
                 ]
               },
@@ -14405,6 +14441,47 @@
                   {
                     "title": "Review 4",
                     "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 8/G6U8W4Rev.csv"
+                  }
+                ]
+              },
+              {
+                "title": "Unit 9",
+                "submenu": [
+                  {
+                    "title": "Worksheet 1",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W1.csv"
+                  },
+                  {
+                    "title": "Homework 1",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W1HW.csv"
+                  },
+                  {
+                    "title": "Review 1",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W1Rev.csv"
+                  },
+                  {
+                    "title": "Worksheet 2",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W2.csv"
+                  },
+                  {
+                    "title": "Homework 2",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W2HW.csv"
+                  },
+                  {
+                    "title": "Review 2",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W2Rev.csv"
+                  },
+                  {
+                    "title": "Worksheet 3",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W3.csv"
+                  },
+                  {
+                    "title": "Homework 3",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W3HW.csv"
+                  },
+                  {
+                    "title": "Review 3",
+                    "url": "matterofmath/mattermath.html?file=worksheets/Grade 6/G6Unit 9/G6U9W3Rev.csv"
                   }
                 ]
               },

@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Fill: Write the coordinates of the point 2 units right of the origin and 7 units up. (__, __)","2,7",60,Y,"Right is a positive x, up is a positive y.","2,7 -> x = 2 across, y = 7 up.",
+2,"Select. In which quadrant is the point $(-4, 9)$? ~~I II III IV~~",II,60,Y,"Negative x, positive y.",II -> Left of the origin and above it is Quadrant II.,
+3,"Fill: Write the coordinates of the point 3 units left of the origin and 8 units down. (__, __)","-3,-8",60,Y,Left and down are both negative.,"-3,-8 -> 3 left gives x = -3, 8 down gives y = -8.",
+4,"Select. Where is the point $(5, 0)$? ~~on-the-x-axis on-the-y-axis in-Quadrant-I in-Quadrant-IV~~",on-the-x-axis,60,Y,A point with y = 0 has not moved up or down at all.,"on-the-x-axis -> y = 0 means the point sits on the x-axis, 5 units right of the origin.",
+5,"Fill: Reflect the point $(7, -2)$ over the x-axis. Write the new coordinates. (__, __)","7,2",60,Y,Only the y-coordinate changes sign.,"7,2 -> (7, -2) reflected over the x-axis is (7, 2).",

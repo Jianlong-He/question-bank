@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Fill: Three vertices of a rectangle are $(0, 0)$, $(7, 0)$ and $(7, 3)$. Write the fourth vertex. (__, __)","0,3",60,Y,Share an x with one corner and a y with another.,"0,3 -> Above (0, 0) and level with (7, 3).",
+2,"Fill: A rectangle has vertices $(-2, 1)$, $(6, 1)$, $(6, 7)$ and $(-2, 7)$. Find its width and its height. width = __, height = __","8,6",60,Y,Subtract along each side.,"8,6 -> Width: from -2 to 6 is 8. Height: 7 - 1 = 6.",
+3,"Fill: Find the area of the rectangle with vertices $(-2, 1)$, $(6, 1)$, $(6, 7)$ and $(-2, 7)$. ____ square units",48,60,Y,Area = width x height.,48 -> 8 x 6 = 48.,
+4,"Fill: A parallelogram has vertices $(0, 0)$, $(6, 0)$, $(8, 3)$ and $(2, 3)$. Find its area. ____ square units",18,60,Y,"Use the bottom side and the vertical gap, not the slanted side.","18 -> Base 6, height 3, area = 6 x 3 = 18.",
+5,"Fill: Three vertices of a parallelogram are $(2, 2)$, $(8, 2)$ and $(10, 6)$. Write the fourth vertex, the one opposite $(8, 2)$. (__, __)","4,6",60,Y,The top side must be as long as the bottom side.,"4,6 -> The bottom side is 6 across, so from (10, 6) go 6 left to (4, 6).",

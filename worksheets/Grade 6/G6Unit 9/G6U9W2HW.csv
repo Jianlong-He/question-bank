@@ -1,0 +1,6 @@
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
+1,"Fill: Find the distance between $(1, 4)$ and $(9, 4)$. ____ units",8,60,Y,"Same y, so the segment is horizontal.",8 -> 9 - 1 = 8.,
+2,"Fill: Find the distance between $(-2, -5)$ and $(-2, 3)$. ____ units",8,60,Y,"Same x, so the segment is vertical, and it crosses the x-axis.",8 -> From -5 up to 0 is 5 and from 0 up to 3 is 3: 5 + 3 = 8.,
+3,"Fill: A rectangle has vertices $(0, 0)$, $(8, 0)$, $(8, 3)$ and $(0, 3)$. Find its area. ____ square units",24,60,Y,Area = width x height.,"24 -> Width 8, height 3, area = 8 x 3 = 24.",
+4,"Fill: Find the perimeter of the rectangle with vertices $(0, 0)$, $(8, 0)$, $(8, 3)$ and $(0, 3)$. ____ units",22,60,Y,Use 2 x (width + height).,22 -> 2 x (8 + 3) = 22.,
+5,"Fill: A triangle has vertices $(2, 1)$, $(10, 1)$ and $(10, 7)$. Find its area. ____ square units",24,60,Y,The horizontal side is the base and the vertical side is the height.,24 -> Base: 10 - 2 = 8. Height: 7 - 1 = 6. Area = 1/2 x 8 x 6 = 24.,
