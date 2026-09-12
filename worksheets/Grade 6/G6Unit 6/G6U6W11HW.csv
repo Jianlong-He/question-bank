@@ -1,5 +1,5 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Select. Which is correct for 9(15 - 11)? : ~~9x15-11 9x15-9x11 9x15+9x11~~",9x15-9x11,60,Y,"Multiply both terms using distributive property","Distributive property: a*(b-c) = a*b - a*c"
+1,"Select. Which is correct for 9(15 - 11)? ~~9x15-11 9x15-9x11 9x15+9x11~~",9x15-9x11,60,Y,"Multiply both terms using distributive property","Distributive property: a*(b-c) = a*b - a*c"
 2,"Expand 6(12 - 15) using distributive property. Put the answer as axb-cxd",6x12-6x15|6 x 12 - 6 x 15|6*12-6*15|6 * 12 - 6 * 15,60,Y,"Multiply both terms using distributive property","6(12 - 15) = 6x12-6x15"
 3,"What is the value of 3(20 - 14)?",18,60,Y,"Two ways: compute directly, or use distributive property a(b-c) = ab - ac","3*6 = 18, or 60 - 42 = 18"
 4,"What is the expand and simplified form of (1/2)(6a + 10)?",3a+5|3a + 5|5+3a|5 + 3a,60,Y,"Using distributive property to expand and simplify. For example (1/4)*(4z - 4) = z - 1","(1/2)*(6a) + (1/2)*10 = 3a + 5"

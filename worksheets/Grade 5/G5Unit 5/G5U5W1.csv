@@ -7,5 +7,5 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 6,Select your estimate of 31 x 2974: ~~30x3000=9000 30x3000=90000 30x2000=60000 30x2000=6000~~,30x3000=90000,240,Y,"Round to friendly numbers: 31 -> 30, 2974 -> 3000",30x3000=90000
 7,Compute 600 x 8000. What is it?,4800000,240,Y,"Think of 600 as 6 x 100 and 8000 as 8 x 1000. 600 has 2 zeros, 8000 has 3 zeros, there are 5 zeros in total. You can attach 5 zeros to 6 x 8.",4800000. 600 x 8000 = 6 x 8 x 100 x 1000 = 4800000
 8,Compute 40000 x 8000. What is it?,320000000,240,Y,Think of 40000 as 4 x 10000 and 8000 as 8 x 1000. There are 7 zeros in total. You can attach 7 zeros to 4 x 8.,320000000. 40000 x 8000 = 4 x 8 x 10000 x 1000 = 320000000
-9,Select the better estimate for 68 x 323 : ~~70x300 60x320 60x330 70x320~~,70x320,360,Y,We want numbers that are close but also easy.,70x320. 68 is close to 70 than 60. 323 is close to 320 than 300 or 330.
+9,Select the better estimate for 68 x 323 ~~70x300 60x320 60x330 70x320~~,70x320,360,Y,We want numbers that are close but also easy.,70x320. 68 is close to 70 than 60. 323 is close to 320 than 300 or 330.
 10,A bakery sells 138 packs of mini cakes. Each pack has 14 cakes. Estimate how many cakes they sell in total?,2100|1400,360,Y,We want numbers that are close but also easy.,1st way: 138 x 14 -> 140 x 15. 2nd way: 138 x 14 -> 140 x 10

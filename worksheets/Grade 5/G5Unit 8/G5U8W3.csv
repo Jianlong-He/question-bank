@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
-1,Select True or False. 0.5 x 0.8 = 0.04 : ~~TRUE FALSE~~,FALSE,240,N,,"FALSE  -> 2 decimal places, 5 x 8 = 40, move 2 decimal -> 0.4 ≠ 0.04",
-2,Select which decimal is most reasonable for 2.3 x 4.5 (The digit product is 1035) : ~~1035 10.35 1.035 103.5~~ ,10.35,240,N,,10.35 -> 2 decimal places,
+1,Select True or False. 0.5 x 0.8 = 0.04 ~~TRUE FALSE~~,FALSE,240,N,,"FALSE  -> 2 decimal places, 5 x 8 = 40, move 2 decimal -> 0.4 ≠ 0.04",
+2,Select which decimal is most reasonable for 2.3 x 4.5 (The digit product is 1035) ~~1035 10.35 1.035 103.5~~ ,10.35,240,N,,10.35 -> 2 decimal places,
 3,The digit product for 1.2 x 4.87 is 5844. What is the exact value of 1.2 x 4.87?,5.844,240,Y,How many decimal places in total?,5.844  -> 3 decimal places,
 4,The digit product for 473 x 28 is 13244. What is the exact value of 2.8 x 4.73?,13.244,240,Y,How many decimal places in total?,13.244,
 5,Compute: 2.8 x 3.4,9.52,240,Y,"First compute 28 x 34, then move decimal places",9.52,

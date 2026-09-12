@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
 1,Fill: 68 + 5 = 68 + 2 + __ = 70 + __ = __,"3, 3, 73",120,Y,How many do you add to 68 to reach 70? The rest of 5 goes after,"3, 3, 73"
-2,Select. 36 + 4 = ? : ~~39 40 41~~,40,120,Y,36 is how many more to 40?,40
+2,Select. 36 + 4 = ? ~~39 40 41~~,40,120,Y,36 is how many more to 40?,40
 3,How many you need to add to get from 29 to the next ten?,1,150,Y,"Tens: 10, 20, 30, 40, 50, 60, 70, 80, 90. ; 29 add 1 is the next ten which is 30",1
 4,How many you need to add to get from 35 to the next ten?,5,150,Y,"Tens: 10, 20, 30, 40, 50, 60, 70, 80, 90.; 35 add 5 is the next ten which is 40",5
 5,Fill: 45 + 8 = 45 + 5 + __ = 50 + __ = __,"3, 3, 53",150,Y,How many do you add to 68 to reach 70? The rest of 5 goes after,"3, 3, 53"
