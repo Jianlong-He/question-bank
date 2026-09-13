@@ -7,5 +7,5 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 6,"Write fraction 9967/1,000 as a decimal",9.967,240,Y,"Divided by 1,000 = move decimal point 3 places left","9.967  -> Divided by 1,000 = move decimal point 3 places left",
 7,"Write fraction 372/100,000 as a decimal",0.00372,240,Y,"Divided by 100,000 = move decimal point 5 places left","0.00372  -> Divided by 100,000 = move decimal point 5 places left",
 8,A number is multiplied by 10^3 and becomes 3.287. What was the original number?,0.003287,240,Y,Reverse the operation,"0.003287 -> Reverse the operation, 3.287 ÷ 1,000 = 0.003287",https://i.ibb.co/23Y2ZVpy/G5-U10-W3-Q8.png
-9,Select which is greater: ~~7.743x10^2 774.3÷10~~,7.743x10^2,240,N,,7.743x10^2,https://i.ibb.co/ZRbbFtfj/G5-U10-W3-Q9.png
+9,Select which is greater: ~~7.743x10^2 | 774.3÷10~~,7.743x10^2,240,N,,7.743x10^2,https://i.ibb.co/ZRbbFtfj/G5-U10-W3-Q9.png
 10,A number is divided by 10^4 and becomes 0.068. What was the original number?,680,240,Y,Reverse the operation,"680 -> Reverse the operation, 0.068 x 10,000 = 680",https://i.ibb.co/LdSrw6PG/G5-U10-W3-Q10.png
