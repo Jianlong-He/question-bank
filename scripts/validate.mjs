@@ -19,8 +19,12 @@
  *   every CSV under worksheets/ and unit-tests/
  *     - has the seven-column header the app reads
  *     - every row has a Question ID, a question and an answer
- *     - a `Choices: A) … | B) …` question's answer letter exists
- *     - a `Select …:` question's answers all appear among its options
+ *     - a `Choices: A) … | B) …` question's answer letter exists, and every
+ *       piece of the list opens with its own letter
+ *     - a `Select …` question has exactly one `~~…~~` block, holding two or
+ *       more bar-separated options, none of them a stray sentence
+ *     - no `||` inside an option list, where it would split the prompt instead
+ *     - a `Select …` question's answers all appear among its options
  *   warnings
  *     - worksheet CSVs that no curriculum link points at
  *     - unit-test CSVs that the catalog does not list
@@ -105,16 +109,33 @@ function answerSets(raw) {
     return parts.map((x) => x.trim()).filter(Boolean);
   }).filter((s) => s.length);
 }
-// The app's three Select separators, tried in order (see RULES.md §2): a bar,
-// a comma followed by whitespace, then whitespace — each outside "…"/$…$ spans.
+// The app's one Select separator (see RULES.md §2): a bar, outside "…" and $…$
+// spans. Nothing else divides options, so a comma, a space or a period inside
+// an option is just text.
 function splitSelectOptions(after) {
-  const clean = (parts) => parts.map((p) => p.trim()).filter(Boolean);
-  const byBar = splitOutside(after, /\|/);
-  if (byBar.length > 1) return clean(byBar);
-  const marked = after.replace(/,\s+/g, "\u0000");
-  const byComma = splitOutside(marked, /\u0000/);
-  if (byComma.length > 1) return clean(byComma.map((p) => p.replace(/\u0000/g, ", ")));
-  return clean(splitOutside(after, /\s/).map((v) => v.replace(/,+$/, "")));
+  return splitOutside(after, /\|/).map((p) => p.trim()).filter(Boolean);
+}
+
+// `||` separates prompts — but not inside a ~~…~~ block or a Choices: list, where
+// it is a mis-authored option rather than a second prompt.
+function splitVariants(cell) {
+  const block = cell.match(/~~[\s\S]*?~~/);
+  const lo = block?.index ?? -1;
+  const hi = lo >= 0 ? lo + block[0].length : -1;
+  const choicesAt = cell.search(/Choices:/i);
+  const parts = [];
+  let from = 0;
+  for (let i = 0; i < cell.length - 1; i++) {
+    if (cell[i] !== "|" || cell[i + 1] !== "|") continue;
+    if (lo >= 0 && i >= lo && i < hi) continue;
+    if (choicesAt >= 0 && i > choicesAt) continue;
+    parts.push(cell.slice(from, i));
+    from = i + 2;
+    i++;
+  }
+  if (!parts.length) return [cell];
+  parts.push(cell.slice(from));
+  return parts.map((p) => p.trim()).filter(Boolean);
 }
 
 // A Select row keeps its options between ~~ and ~~ (RULES.md §1); the prompt
@@ -125,15 +146,23 @@ function questionShape(prompt) {
     const block = p.match(/~~([\s\S]*?)~~/);
     if (!block) return { kind: "text", problem: "a Select row needs its options between ~~ and ~~" };
     if ((p.match(/~~/g) || []).length !== 2) return { kind: "text", problem: "a Select row must contain exactly one ~~…~~ block" };
+    if (block[1].includes("||")) return { kind: "text", problem: "`||` inside the ~~…~~ block — it separates prompts, so an option cannot contain it" };
     const opts = splitSelectOptions(block[1]);
     if (!opts.length) return { kind: "text", problem: "the ~~…~~ block is empty" };
-    if (opts.length < 2) return { kind: "select", opts, problem: "Select question with only one option" };
+    if (opts.length < 2) return { kind: "select", opts, problem: "the ~~…~~ block holds one option — separate options with ` | `" };
+    const prose = opts.find((o) => o.split(/\s+/).length > 8 || /\.\s/.test(o));
+    if (prose) return { kind: "select", opts, problem: `an option reads as a sentence ("${prose.slice(0, 48)}…") — move it into the prompt` };
     return { kind: "select", opts };
   }
   if (p.includes("~~")) return { kind: "text", problem: "~~ is only for Select rows" };
   const m = p.match(/^(.*?)(?:\s+)?Choices:\s*(.+?)(?:\s+Answer with the letter only\.?)?$/is);
   if (m && m[1].trim() && m[2].trim()) {
-    const letters = m[2].split(/\s*\|\s*/).map((o) => o.trim().match(/^([A-Za-z])\)\s*(.+)$/)).filter(Boolean).map((o) => o[1].toUpperCase());
+    // Split only where a new `X)` marker opens, so an option may hold bars of
+    // its own — `C) |a| > |b| | D) |a| = |b|` is two options, not six.
+    const pieces = m[2].split(/\s*\|\s*(?=[A-Za-z]\)\s)/);
+    const letters = pieces.map((o) => o.trim().match(/^([A-Za-z])\)\s*(.+)$/)).filter(Boolean).map((o) => o[1].toUpperCase());
+    if (letters.length && letters.length !== pieces.length) return { kind: "letter", opts: letters, problem: "a piece of the Choices: list does not open with a letter and a bracket" };
+    if (letters.length && m[2].includes("||")) return { kind: "letter", opts: letters, problem: "`||` inside the Choices: list — it separates prompts, so an option cannot contain it" };
     if (letters.length) return { kind: "letter", opts: letters };
   }
   return { kind: "text" };
@@ -156,7 +185,7 @@ function checkCsv(rel) {
     ids.add(id);
     if (!q) { err(`${rel}:${line} (Q${id}): empty Question Choices`); continue; }
     if (!a) { err(`${rel}:${line} (Q${id}): empty Question Answers`); continue; }
-    for (const variant of q.includes("||") ? q.split("||").map((s) => s.trim()).filter(Boolean) : [q]) {
+    for (const variant of splitVariants(q)) {
       const shape = questionShape(variant);
       if (shape.problem) err(`${rel}:${line} (Q${id}): ${shape.problem}`);
       if (shape.kind === "letter") {
