@@ -1,5 +1,5 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
-1,Select. Which is correct for 12(18 - 13)?: ~~12x18-13 12x18-12x13 12x18+12x13~~,12x18-12x13,100,Y,Multiply both terms using distributive property,12x18-12x13     -> using distributive property: a*b-a*c = a*(b-c),
+1,Select. Which is correct for 12(18 - 13)?: ~~12x18-13 | 12x18-12x13 | 12x18+12x13~~,12x18-12x13,100,Y,Multiply both terms using distributive property,12x18-12x13     -> using distributive property: a*b-a*c = a*(b-c),
 2,Expand 4(11 - 17) using distributive property. Put the answer as axb-cxd,4x11-4x17|4 x 11 - 4 x 17|4*11-4*17|4 * 11 - 4 * 17,100,Y,Multiply both terms using distributive property,4x11-4x17     -> using distributive property: a*b-a*c = a*(b-c),
 3,Expand 8(25 - 17) using distributive property. Put the answer as axb-cxd,8x25-8x17|8 x 25 - 8 x 17|8*25-8*17|8 * 25 - 8 * 17,100,Y,Multiply both terms using distributive property,8x25-8x17     -> using distributive property: a*b-a*c = a*(b-c),
 4,What is the value of 2(25 - 12)? ,26,100,Y,"Two ways: 1st: follow order of operation and compute directly, 2nd: use distributive property a(b-c) = ab - ac","26     -> Two ways: 1st: follow order of operation and compute directly = 2*13 = 26, 2nd: use distributive property a(b-c) = ab - ac = 50 - 24 = 26",

@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
-1,Select. Which coordinate is written first in an ordered pair? ~~x y~~,x,60,Y,Across before up.,"x -> An ordered pair is (x, y): the across value comes first.",
+1,Select. Which coordinate is written first in an ordered pair? ~~x | y~~,x,60,Y,Across before up.,"x -> An ordered pair is (x, y): the across value comes first.",
 2,"Fill: Write the coordinates of the origin. (__, __)","0,0",60,Y,The origin is where the two axes cross.,"0,0 -> The origin has not moved across or up, so both coordinates are 0.",
-3,"Select. In which quadrant is the point $(-6, -2)$? ~~I II III IV~~",III,60,Y,Both coordinates are negative.,III -> Negative x and negative y put the point in Quadrant III.,
+3,"Select. In which quadrant is the point $(-6, -2)$? ~~I | II | III | IV~~",III,60,Y,Both coordinates are negative.,III -> Negative x and negative y put the point in Quadrant III.,
 4,"Fill: Reflect the point $(-5, 4)$ over the y-axis. Write the new coordinates. (__, __)","5,4",60,Y,Only the x-coordinate changes sign.,"5,4 -> (-5, 4) reflected over the y-axis is (5, 4).",
 5,"Fill: Start at $(-3, 2)$ and move 8 units right, staying at the same height. Write the coordinates you land on. (__, __)","5,2",60,Y,Moving right adds to x and leaves y alone.,"5,2 -> x: -3 + 8 = 5. The height y = 2 does not change.",
