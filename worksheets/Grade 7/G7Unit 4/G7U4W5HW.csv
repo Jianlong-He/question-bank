@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Find the distance between -11 and 24 using absolute value. Fill in the blanks: The difference is |-11 - 24| = |___|, so the distance is ___.","-35, 35",60,Y,"Distance = |difference|.","|-11 - 24| = |-35| = 35."
-2,"A diver is at -86 meters and a rock formation is located at -29 meters. How far apart are they? Enter only the number with no units.",57,60,Y,"Distance = |-86 - (-29)|.","|-57| = 57."
-3,"Compute (−11/18) + (5/9).",-1/18,60,Y,"Convert 5/9 to 10/18.","-11/18 + 10/18 = -1/18."
-4,"A statement says “The reading dropped 38 units.” Represent this as an integer.",-38,60,Y,"A drop is negative.","-38."
-5,"A skier starts at -360 meters, descends 140 meters, then climbs 210 meters. What is his final elevation? Enter only the number with no units.",-290,60,Y,"Apply the vertical changes in order.","-360 - 140 + 210 = -290."
+1,"Rewrite the subtraction as an addition, then evaluate: (-6) - (-11). Fill in the blanks: (-6) + ___ = ___.","11, 5",60,Y,Subtracting a number is the same as adding its opposite.,"The opposite of -11 is 11, so (-6) - (-11) = (-6) + 11 = 5."
+2,Select the property shown by (-2/3 + 1/5) + 4/5 = -2/3 + (1/5 + 4/5): ~~Associative property of addition | Commutative property of addition | Additive identity~~,Associative property of addition,60,Y,Look at whether the order or the grouping changed.,"The addends stay in the same order but the parentheses move, which is the associative property of addition."
+3,Use the properties of addition to evaluate: (-4/7) + 5/9 + 4/7.,5/9,60,Y,Reorder so the opposites are next to each other.,"(-4/7) + 4/7 = 0, so the sum is 5/9."
+4,Fill in the blank to make the statement true: (-3.8) + ___ = 0.,3.8,60,Y,A number plus its opposite is zero.,"The additive inverse of -3.8 is 3.8, and (-3.8) + 3.8 = 0."
+5,Select all expressions that are equivalent to (-6) - 7: ~~-6 + (-7) | -(6 + 7) | -6 - (-7) | 6 - 7~~,"-6 + (-7), -(6 + 7)",60,Y,"Rewrite the subtraction as adding the opposite, then check each value.","(-6) - 7 = -13. Both -6 + (-7) and -(6 + 7) equal -13, while -6 - (-7) = 1 and 6 - 7 = -1."

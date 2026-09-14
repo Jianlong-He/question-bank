@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Find the distance between the numbers -13 and 6 using absolute value. Fill in the blanks: The difference is |-13 - 6| = |___|, so the distance is ___.","-19, 19",60,Y,"Distance = absolute value of the difference.","|-13 - 6| = |-19| = 19."
-2,"On a vertical line, one point is at -52 and another point is at -16. How far apart are they? Enter only the number with no units.",36,60,Y,"Subtract and use absolute value.","|-52 - (-16)| = |-36| = 36."
-3,"Compute (2/5) − (−7/10).",11/10|1.1|1 1/10,60,Y,"Subtracting a negative adds.","2/5 + 7/10 = 4/10 + 7/10 = 11/10."
-4,"A statement says “The score decreased by 34 points.” Represent this change as an integer.",-34,60,Y,"A decrease means negative.","-34 shows a drop of 34."
-5,"The temperature changed by −15°, and the final temperature is −6°. What was the initial temperature? Enter only the number with no units.",9,60,Y,"Final = initial + change.","Initial = -6 - (-15) = -6 + 15 = 9."
+1,A checking account holds $36.20 when a debit of $51.45 is posted. Fill in the blanks: the new balance is 36.20 + ___ = ___.,"-51.45, -15.25",60,Y,A debit is a negative change.,"36.20 + (-51.45) = -15.25, so the account is overdrawn by $15.25."
+2,A submarine sits 148.6 meters below sea level and then rises 42.8 meters. What is its new depth as a signed number? Enter only the number with no units.,-105.8,60,Y,Below sea level is negative; rising adds a positive amount.,-148.6 + 42.8 = -105.8.
+3,A stock opened at $31.60 and fell $2.45 during the day. What was its closing price? Enter only the number with no units.,29.15,60,Y,A fall is a negative change.,31.60 - 2.45 = 29.15.
+4,"A hiker starts at an elevation of -12 1/2 feet and climbs 20 1/4 feet. What is his new elevation? Give your answer as a mixed number, fraction, or decimal.",7 3/4|31/4|7.75,60,Y,Climbing adds a positive amount. Use quarters.,-12 1/2 + 20 1/4 = -50/4 + 81/4 = 31/4 = 7 3/4 feet.
+5,A delivery van's fuel gauge reads 7/8 of a tank at the start of a route and 1/3 of a tank at the end. What signed number represents the change? Give your answer as a fraction.,-13/24,60,Y,Change = ending amount - starting amount. Use a denominator of 24.,1/3 - 7/8 = 8/24 - 21/24 = -13/24 of a tank.
