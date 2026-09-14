@@ -10,4 +10,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
       - run: node scripts/validate.mjs
+      # The catalog is derived from the CSVs, and the two fields that go stale
+      # on their own - questionCount and totalTimeSeconds - are invisible in a
+      # CSV diff. Fail here rather than ship a launcher with the wrong timer.
+      - run: python3 scripts/generate_unit_test_catalog.py --check

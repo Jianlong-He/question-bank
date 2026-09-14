@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Compute: (−7/12) + (5/18). Give your answer as a fraction in simplest form.",-11/36,60,Y,"Find a common denominator of 36.","−7/12 = −21/36 and 5/18 = 10/36 → −21/36 + 10/36 = −11/36."
-2,"Compute −6.31 + (−2.24) + 11.6. Round to the nearest hundredth.",3.05,60,Y,"Group the negative terms first.","(-6.31 - 2.24) = -8.55; -8.55 + 11.6 = 3.05."
-3,"A hiker is at -280 meters, climbs 130 meters, then descends 70 meters. What is his final elevation? Enter only the number with no units.",-220,60,Y,"Add the climb, subtract the descent.","-280 + 130 - 70 = -220."
-4,"Which value is equivalent to (−5) − (−14) + (−6) using associative and commutative properties?",3,60,Y,"Rewrite: -5 + 14 - 6.","-5 + 14 = 9; 9 - 6 = 3."
-5,"Compute (−0.8) + (5/4) − 0.15. Give the decimal rounded to the nearest hundredth.",0.30|0.3,60,Y,"Convert all to decimals.","-0.8 + 1.25 - 0.15 = 0.30."
+1,The temperature at 5 a.m. was -6.4 C. By noon it had risen 9.1 C. What is the temperature at noon? Enter only the number with no units.,2.7,60,Y,A rise is a positive change.,-6.4 + 9.1 = 2.7.
+2,A recipe calls for 5/6 cup of oil. Marcus has already poured 1/4 cup. How much more oil does he need? Give your answer as a fraction of a cup.,7/12,60,Y,"Subtract what is poured from what is needed, using a denominator of 12.",5/6 - 1/4 = 10/12 - 3/12 = 7/12 of a cup.
+3,Ren owes a friend $12.75 and then borrows another $8.40. Represent Ren's total debt as a signed number. Enter only the number with no units.,-21.15,60,Y,Debt is represented by a negative number.,-12.75 + (-8.40) = -21.15.
+4,"On Monday a tank's water level dropped 3.6 cm, and on Tuesday it rose 2.15 cm. What was the total change in level over the two days? Enter only the number with no units.",-1.45,60,Y,Add the two signed changes.,-3.6 + 2.15 = -1.45 cm.
+5,"At 10 p.m. the temperature was 2.8 C. Overnight it fell 9.6 C, and by morning it had risen 4.1 C. What is the morning temperature? Enter only the number with no units.",-2.7,60,Y,Apply the two changes in order.,2.8 - 9.6 + 4.1 = -6.8 + 4.1 = -2.7.
