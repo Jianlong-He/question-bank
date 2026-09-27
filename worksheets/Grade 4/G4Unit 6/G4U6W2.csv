@@ -7,5 +7,5 @@
 6,Find the sum of the first 4 composite numbers.,27,600,N,,27
 7,"Fill: Prime numbers between 20 and 30: __ , __ ","23,29",600,Y,Write all numbers between 20 and 30 that are only divisible by 1 and itself,"23,29"
 8,What is the smallest composite number that is greater than 20 and not divisible by 2?,21,600,Y,"Since it is not divisible by 2, the number must be odd. ",21
-9,Select. There is a Class of 37 students. Can they make equal groups of size greater than 1?: ~~Yes | No~~,No,600,Y,"Determine if 37 is a prime number or a composite number. If a number is prime, it cannot be split into equal groups greater than 1.",No
+9,"Select. There is a Class of 37 students. Can they make at least two equal groups, each with more than one student?: ~~Yes | No~~",No,600,Y,"37 is prime, so its only positive factors are 1 and 37. Can it form at least two groups with more than one student in each?",No
 10,"Find the 2-digit number which is less than 60 and greater than 40, which is composite, not divisible by 2 or 3 or 5, but divisible by 7. ",49,600,Y,"Since it is not divisible by 2 or 3, or 5, try testing multiples of 7.",49
