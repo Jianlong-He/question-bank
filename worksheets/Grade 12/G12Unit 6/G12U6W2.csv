@@ -8,4 +8,4 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 7,In the parallelogram rule which diagonal represents u+v?,the diagonal from the common tail|diagonal from the common starting point|resultant diagonal,70,Y,Place both vector tails together.|Complete the parallelogram.,The diagonal from the common tail is u+v.
 8,Rewrite u-v as addition.,u+(-v)|u plus negative v,70,Y,Subtraction adds an opposite.|Reverse v then add.,u-v=u+(-v).
 9,If u=(4 0) and v=(0 3) find |u+v|.,5,70,Y,The sum is (4 3).|Use the Pythagorean theorem.,|u+v|=(4^2+3^2)^(1/2)=5.
-10,Does vector addition satisfy u+v=v+u? Enter Yes or No.,Yes|yes|Y|y,70,Y,Adding components is commutative.|The parallelogram diagonal is the same in either order.,Yes. Vector addition is commutative.
+10,Select. Does vector addition satisfy u+v=v+u? ~~Yes | No~~,Yes,70,Y,Adding components is commutative.|The parallelogram diagonal is the same in either order.,Yes. Vector addition is commutative.

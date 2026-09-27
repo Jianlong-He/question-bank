@@ -8,4 +8,4 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 7,For y=(x-1)(x-7) find the vertex x-coordinate.,4,70,Y,The vertex lies halfway between the roots.|Average 1 and 7.,The x-coordinate is 4.
 8,For y=(x-1)(x-7) find the vertex y-coordinate.,-9,70,Y,Substitute x=4.|Compute (4-1)(4-7).,The y-coordinate is 3(-3)=-9.
 9,Rewrite y=x^2-4x-5 in vertex form.,y=(x-2)^2-9,70,Y,Complete the square using 4.|x^2-4x=(x-2)^2-4.,The vertex form is y=(x-2)^2-9.
-10,A quadratic has vertex (2 -9) and roots -1 and 5. Does this information have the same axis of symmetry? Enter Yes or No.,Yes|yes|Y|y,70,Y,The vertex axis is x=2.|Average the roots -1 and 5.,Yes. The roots average to 2 which matches the vertex x-coordinate.
+10,Select. A quadratic has vertex (2 -9) and roots -1 and 5. Does this information have the same axis of symmetry? ~~Yes | No~~,Yes,70,Y,The vertex axis is x=2.|Average the roots -1 and 5.,Yes. The roots average to 2 which matches the vertex x-coordinate.

@@ -1,5 +1,5 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Is 8 greater than 6? Yes or No,Yes,60,N,,Yes
+1,Select. Is 8 greater than 6? ~~Yes | No~~,Yes,60,N,,Yes
 2,"What number are greater than 8? 10, 7, 15, 5","10, 15",70,N,,"10, 15"
 3,"What number is less than 5? 2, 8, 0, 4","2, 0, 4",80,N,,"2, 0, 4"
 4,"On a number line, which side do numbers get bigger? Right or Left",Right,90,N,,Right

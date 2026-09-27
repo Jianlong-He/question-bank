@@ -7,5 +7,5 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 6,A tangent segment has length 12 and the radius to its endpoint is 5. Find the distance from the center to the external point.,13,70,Y,The radius and tangent are perpendicular.|Use a 5-12-13 right triangle.,The center-to-point distance is 13.
 7,A circumscribed angle formed by two tangents intercepts a minor arc of 80 degrees. Find the angle.,100|100 degrees,70,Y,For two tangents subtract the minor arc from 180 degrees.|Compute 180-80.,The circumscribed angle is 100 degrees.
 8,A radius is 7. What is the distance from the center to a tangent line?,7,70,Y,The perpendicular distance reaches the tangency point.|That segment is a radius.,The distance is 7.
-9,Can a tangent line intersect a circle at two distinct points? Enter Yes or No.,No|no|N|n,70,Y,A tangent touches at exactly one point.|A line through two circle points is a secant.,No. A tangent has exactly one point of contact.
+9,Select. Can a tangent line intersect a circle at two distinct points? ~~Yes | No~~,No,70,Y,A tangent touches at exactly one point.|A line through two circle points is a secant.,No. A tangent has exactly one point of contact.
 10,A chord is 16 units long and a perpendicular radius bisects it. Find either half of the chord.,8,70,Y,Bisect means divide by 2.|Compute 16/2.,Each half is 8 units.

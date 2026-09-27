@@ -3,7 +3,7 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 2,For f(x)=3/(x+2) what is the vertical asymptote?,x=-2,70,Y,Set x+2 equal to zero.|A noncanceled denominator zero gives a vertical asymptote.,The vertical asymptote is x=-2.
 3,For f(x)=2x/(x+1) what is the horizontal asymptote?,y=2,70,Y,The numerator and denominator have equal degree.|Use the ratio of leading coefficients.,The horizontal asymptote is y=2/1=2.
 4,For f(x)=(x+1)/(x^2+4) what is the horizontal asymptote?,y=0|the x-axis|x-axis,70,Y,The denominator degree is greater.|The fraction approaches zero for large absolute x.,The horizontal asymptote is y=0.
-5,For f(x)=(x^2+1)/(x+3) is there a horizontal asymptote? Enter Yes or No.,No|no|N|n,70,Y,Compare the polynomial degrees.|The numerator degree is greater than the denominator degree.,No. This function does not have a horizontal asymptote.
+5,Select. For f(x)=(x^2+1)/(x+3) is there a horizontal asymptote? ~~Yes | No~~,No,70,Y,Compare the polynomial degrees.|The numerator degree is greater than the denominator degree.,No. This function does not have a horizontal asymptote.
 6,For f(x)=(x-5)/(x+2) what is the x-intercept?,x=5|5,70,Y,An x-intercept occurs when the numerator is zero.|Solve x-5=0 and check the denominator.,The x-intercept occurs at x=5.
 7,For f(x)=(x-5)/(x+2) what is the y-intercept?,-5/2|-2.5,70,Y,Substitute x=0.|Evaluate (-5)/(2).,The y-intercept is -5/2.
 8,What type of discontinuity results when a common factor cancels from numerator and denominator?,a hole|hole|removable discontinuity|a removable discontinuity,70,Y,The canceled factor still records an excluded input.|The simplified graph is missing one point.,A canceled common factor creates a hole or removable discontinuity.

@@ -8,4 +8,4 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 7,Solve x^2+9=0 over the real numbers. How many real solutions are there?,0|zero|no real solutions,70,Y,Isolate x^2.|A real square cannot equal -9.,There are no real solutions.
 8,Solve (x+4)^2=0.,-4,70,Y,A square is zero only when its base is zero.|Set x+4=0.,x=-4.
 9,After taking square roots of x^2=81 what complete equation should be written?,9 and -9|x=±9|x=9 or x=-9,70,Y,Include both square roots.|Use the plus-or-minus symbol or list both values.,The complete result is x=±9.
-10,Check whether x=-3 solves x^2-9=0. Enter Yes or No.,Yes|yes|Y|y,70,Y,Substitute -3 for x.|Compute (-3)^2-9.,The expression equals 9-9=0 so yes.
+10,Select. Check whether x=-3 solves x^2-9=0. ~~Yes | No~~,Yes,70,Y,Substitute -3 for x.|Compute (-3)^2-9.,The expression equals 9-9=0 so yes.
