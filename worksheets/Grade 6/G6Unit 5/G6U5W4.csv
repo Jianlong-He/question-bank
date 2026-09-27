@@ -1,7 +1,7 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
 1,"Compare: |-9| __ |-17|. Choose from <, > or =",<,50,Y,Evaluate both absolute values.,"<   -> |-9| = 9, |-17| = 17, 9 < 17",
 2,"Compare: |-28| __ |28|. Choose from <, > or =",=,50,Y,Evaluate both absolute values.,"=   -> |-28| = 28, so they are equal",
-3,"Which values of x make this true? |x| < 9. Choose from -8, 3, 10","-8, 3",50,Y,Absolute value of x must be less than 9,"-8, 3   -> Absolute value of x must be less than 9",
+3,Select all values of x for which |x| < 9. ~~-8 | 3 | 10~~,"-8, 3",50,Y,Absolute value of x must be less than 9,"-8, 3   -> Absolute value of x must be less than 9",
 4,"Which values of x make this true? |x| > 8. Choose from -8, 3, 10",10,50,Y,Absolute value of x must be larger than 10,10   -> Absolute value of x must be larger than 10,
 5,"Jane: -5 lb, Sarah: +3.5 lb, Bill: +6 lb. Who lost weight?",Jane,50,Y,Losing weight means a negative change.,Jane  ->  Losing weight means a negative change.,
 6,"Jane: -5 lb, Sarah: +3.5 lb, Bill: +6 lb. Who had the largest change in weight?",Bill,50,Y,Largest change = biggest absolute value.,Bill  -> Largest change = biggest absolute value.,
