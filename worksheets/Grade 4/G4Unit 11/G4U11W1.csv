@@ -7,5 +7,5 @@
 6,You have three non-collinear points (A B and C). How many unique line segments can be drawn by connecting pairs of these points?,3,300,Y,"Draw the segments: one from A to B, one from A to C, and one from B to C",3,
 7,"Point M is the midpoint of line segment AB. If the length of segment AB is 10 cm, what is the length from A to M?",5|5 cm,300,Y,The midpoint divides the segment into two equal parts.,5,
 8, Select the starting point of this ray: ~~C | D~~ ,C,300,N,,C,https://i.ibb.co/gLF0C4kJ/G4-U11-WS1-I1.jpg
-9,Is ray (a) same as ray (b) ? ( Yes or No?),No,300,Y,Direction and starting point matter for rays,No,https://i.ibb.co/xc3mVZf/G4-U11-WS1-I2.jpg
+9,Select. Is ray (a) same as ray (b) ? ~~Yes | No~~,No,300,Y,Direction and starting point matter for rays,No,https://i.ibb.co/xc3mVZf/G4-U11-WS1-I2.jpg
 10,Select which geometric figure is described as a set of points extending infinitely in both directions?: ~~Ray | Line-segment | Line | Point~~ ,Line,300,Y,It has no endpoints and never stops in either direction,Line,

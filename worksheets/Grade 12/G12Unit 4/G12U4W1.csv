@@ -7,5 +7,5 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 6,For f(x)=(x+1)/(x-2) what is the y-intercept?,-1/2|-0.5,70,Y,Substitute x=0.|Evaluate 1/(-2).,The y-intercept is -1/2.
 7,For f(x)=(x+1)/(x-2) what is the x-intercept?,x=-1|-1,70,Y,Set the numerator equal to zero.|Check that the denominator is not zero there.,The x-intercept occurs at x=-1.
 8,For f(x)=(x+2)/(x^2+1) what is the horizontal asymptote?,y=0|x-axis|the x-axis,70,Y,The denominator degree is greater.|The fraction approaches zero for large absolute x.,The horizontal asymptote is y=0.
-9,Does f(x)=x^2/(x+1) have a horizontal asymptote? Enter Yes or No.,No|no|N|n,70,Y,The numerator degree is larger.|A horizontal asymptote does not occur in this degree case.,No. The function instead has polynomial end behavior.
+9,Select. Does f(x)=x^2/(x+1) have a horizontal asymptote? ~~Yes | No~~,No,70,Y,The numerator degree is larger.|A horizontal asymptote does not occur in this degree case.,No. The function instead has polynomial end behavior.
 10,Find the excluded x-values of 1/(x^2-4). Enter in increasing order.,"-2,2",70,Y,Factor the denominator as (x-2)(x+2).|Set each factor equal to zero.,The excluded values are -2 and 2.

@@ -8,4 +8,4 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 7,Which law is most direct for two sides and their included angle?,law of cosines|cosine law,70,Y,The information pattern is SAS.|The sine law needs an opposite pair.,Use the law of cosines.
 8,Which law is most direct when a known side is paired with its opposite known angle?,law of sines|sine law,70,Y,The ratios pair opposite sides and angles.|A known pair starts the proportion.,Use the law of sines.
 9,A triangle has sides 3 4 and 5. Find the angle opposite side 5.,90|90 degrees,70,Y,Use the converse of the Pythagorean theorem.|3^2+4^2=5^2.,The angle opposite side 5 is 90 degrees.
-10,Can the law of cosines be used to solve an SSS triangle? Enter Yes or No.,Yes|yes|Y|y,70,Y,All three side lengths can be substituted.|Solve the resulting equation for a cosine value.,Yes. The law of cosines can find an angle from three sides.
+10,Select. Can the law of cosines be used to solve an SSS triangle? ~~Yes | No~~,Yes,70,Y,All three side lengths can be substituted.|Solve the resulting equation for a cosine value.,Yes. The law of cosines can find an angle from three sides.

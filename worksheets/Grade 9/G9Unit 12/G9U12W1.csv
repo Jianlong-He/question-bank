@@ -7,5 +7,5 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 6,"Write an explicit rule for the arithmetic sequence 5, 8, 11, 14.",a_n=5+3(n-1)|5+3(n-1),70,Y,The first term is 5 and the common difference is 3.|Use a_n = a_1 + (n - 1)d.,The explicit rule is a_n = 5 + 3(n - 1).
 7,"Write an explicit rule for the arithmetic sequence 12, 9, 6, 3.",a_n=12-3(n-1)|12-3(n-1),70,Y,The first term is 12 and the common difference is -3.|Use a_n = a_1 + (n - 1)d.,The explicit rule is a_n = 12 - 3(n - 1).
 8,An arithmetic sequence has first term 7 and common difference 4. Find the 20th term.,83,70,Y,Use a_20 = 7 + 19(4).|Compute 19 × 4 before adding 7.,a_20 = 7 + 76 = 83.
-9,"Is 2, 5, 10, 17 an arithmetic sequence? Enter Yes or No.",No|no|N|n,70,Y,"Compare successive differences.|The differences are 3, 5, and 7.","No. The differences are not constant, so the sequence is not arithmetic."
+9,"Select. Is 2, 5, 10, 17 an arithmetic sequence? ~~Yes | No~~",No,70,Y,"Compare successive differences.|The differences are 3, 5, and 7.","No. The differences are not constant, so the sequence is not arithmetic."
 10,"For a_n = 4n - 1, find the first term and common difference in that order.","3,4|3, 4",70,Y,Substitute n = 1 for the first term.|The coefficient of n is the common difference.,"a_1 = 4(1) - 1 = 3, and the common difference is 4."

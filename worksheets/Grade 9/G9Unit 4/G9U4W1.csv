@@ -1,8 +1,8 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Does the ordered pair (2, 5) satisfy y = 2x + 1? Enter Yes or No.",Yes|yes|Y|y,70,Y,Substitute x = 2 and y = 5.|Compare both sides of the equation.,"The right side is 2(2) + 1 = 5, which equals y. The ordered pair is a solution."
+1,"Select. Does the ordered pair (2, 5) satisfy y = 2x + 1? ~~Yes | No~~",Yes,70,Y,Substitute x = 2 and y = 5.|Compare both sides of the equation.,"The right side is 2(2) + 1 = 5, which equals y. The ordered pair is a solution."
 2,"Find y so that (3, y) is a solution of 2x + y = 10.",4,70,Y,Replace x with 3.|Solve 6 + y = 10.,"2(3) + y = 10 gives 6 + y = 10, so y = 4."
 3,"Find x so that (x, 1) is a solution of 3x - y = 8.",3,70,Y,Replace y with 1.|Solve 3x - 1 = 8.,"3x - 1 = 8, so 3x = 9 and x = 3."
-4,"Does (0, -4) lie on the graph of y = -3x - 4? Enter Yes or No.",Yes|yes|Y|y,70,Y,Substitute x = 0.|The y-value at x = 0 is the y-intercept.,"When x = 0, y = -3(0) - 4 = -4, so the point lies on the graph."
+4,"Select. Does (0, -4) lie on the graph of y = -3x - 4? ~~Yes | No~~",Yes,70,Y,Substitute x = 0.|The y-value at x = 0 is the y-intercept.,"When x = 0, y = -3(0) - 4 = -4, so the point lies on the graph."
 5,"For y = 5 - x, find y when x = 4.",1,70,Y,Substitute 4 for x.|Subtract 4 from 5.,y = 5 - 4 = 1.
 6,"Complete the solution (-2, y) for y = 4x + 7.",-1,70,Y,Substitute x = -2.|Multiply before adding.,y = 4(-2) + 7 = -8 + 7 = -1.
 7,A point on 2x - 3y = 12 has y = 0. Find its x-coordinate.,6,70,Y,Set y equal to zero.|Solve 2x = 12.,"2x - 3(0) = 12, so x = 6."

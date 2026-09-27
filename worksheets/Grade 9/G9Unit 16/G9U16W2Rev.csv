@@ -3,4 +3,4 @@ Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,
 2,"A figure is dilated by scale factor 1/2. By what factor is its area multiplied?",1/4|0.25,60,Y,"Square the scale factor.;(1/2)^2 = 1/4.","The area factor is 1/4."
 3,"A 36-degree angle is dilated by scale factor 2. What is its image measure?",36 degrees|36|36°,60,Y,"Dilations preserve angle measure.;Only lengths scale.","The image angle measures 36 degrees."
 4,"A figure's perimeter is 20. After a dilation with scale factor 3, what is the image's perimeter?",60,60,Y,"Perimeter scales by the factor.;Compute 20 × 3.","The new perimeter is 60."
-5,"Is the image of a figure under a dilation similar to the original? Enter Yes or No.",Yes|yes|Y|y,60,Y,"Dilations preserve shape.;Angles match and sides are proportional.","Yes — the image is similar to the original."
+5,Select. Is the image of a figure under a dilation similar to the original? ~~Yes | No~~,Yes,60,Y,Dilations preserve shape.;Angles match and sides are proportional.,Yes — the image is similar to the original.

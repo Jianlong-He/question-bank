@@ -1,7 +1,7 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
 1,What property must a function have to possess an inverse function?,one-to-one|one to one|injective,70,Y,Different inputs must not share an output.|Use the horizontal line test on a graph.,The function must be one-to-one.
 2,Which graph test determines whether a function is one-to-one?,horizontal line test|the horizontal line test,70,Y,A horizontal line checks repeated output values.|More than one intersection means no inverse function.,Use the horizontal line test.
-3,Is f(x)=x^2 invertible on all real numbers? Enter Yes or No.,No|no|N|n,70,Y,Positive and negative inputs can have the same square.|The graph fails the horizontal line test.,No. The squaring function is not one-to-one on all real numbers.
+3,Select. Is f(x)=x^2 invertible on all real numbers? ~~Yes | No~~,No,70,Y,Positive and negative inputs can have the same square.|The graph fails the horizontal line test.,No. The squaring function is not one-to-one on all real numbers.
 4,Which common domain restriction makes f(x)=x^2 invertible?,x>=0|nonnegative real numbers|x greater than or equal to 0,70,Y,Keep one half of the parabola.|The right branch is commonly chosen.,Restricting the domain to x>=0 makes the function invertible.
 5,If f(4)=11 what is f^(-1)(11)?,4,70,Y,An inverse reverses the input-output pair.|Swap 4 and 11.,Since f(4)=11 the inverse gives f^(-1)(11)=4.
 6,A table contains the pair x=-2 and f(x)=7. What pair belongs to the inverse table? Enter x then y.,"7,-2",70,Y,Inverse functions swap inputs and outputs.|Reverse the ordered pair (-2 7).,The inverse table contains (7 -2).
