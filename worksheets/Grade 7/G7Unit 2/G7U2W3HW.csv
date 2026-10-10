@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"A machine tiles 2/5 of a floor in 1/2 of an hour. How many floors does it tile per hour?",4/5|0.8,60,Y,"Divide the floor fraction by the hours.","(2/5) ÷ (1/2) = (2/5) × 2 = 4/5."
-2,"Find 60% of 90.",54,60,Y,"Multiply 0.60 by 90.","0.60 × 90 = 54."
-3,"36 is what percent of 48? (Enter only the number)",75,60,Y,"Divide 36 by 48.","36 ÷ 48 = 0.75 = 75%."
-4,"Convert 11/25 to a percent. (Enter only the number)",44,60,Y,"Multiply the numerator and denominator by 4 to get a denominator of 100.","11/25 = 44/100 = 44%."
-5,"A container is 40% full after being filled with 22 liters of water. How many liters is the full capacity? Enter only the number with no units.",55,60,Y,"22 is 40% of the total.","Total = 22/0.40 = 55."
+1,A machine tiles 2/5 of a floor in 1/2 of an hour. How many floors does it tile per hour?,4/5|0.8,60,Y,Divide the amount by the time or other input; multiply by the reciprocal of the divisor.,(2/5) ÷ (1/2) = (2/5) × 2 = 4/5. The quotient is the amount per one unit of the denominator quantity. Check: rate × the original time/input recovers the original amount. Exact calculation: (2 ÷ 5) ÷ (1 ÷ 2) = 0.8.
+2,Find 60% of 90.,54,60,Y,Percent ÷ 100 gives the decimal multiplier; multiply by the whole.,"0.60 × 90 = 54. Convert the percent to a decimal, then multiply by the original whole. .6 × 90 = 54. This is the requested part/change amount."
+3,36 is what percent of 48? (Enter only the number),75,60,Y,"Divide part by whole, then multiply by 100.","36 ÷ 48 = 0.75 = 75%. Percent means per hundred: part ÷ whole × 100. Calculation: 36 ÷ 48 × 100 = 75. Enter 75, the percent number."
+4,Convert 11/25 to a percent. (Enter only the number),44,60,Y,"Divide part by whole, then multiply by 100.","11/25 = 44/100 = 44%. Percent means per hundred: part ÷ whole × 100. Calculation: 11 ÷ 25 × 100 = 44. Enter 44, the percent number."
+5,A container is 40% full after being filled with 22 liters of water. How many liters is the full capacity? Enter only the number with no units.,55,60,Y,Divide the known part by the percent written as a decimal.,The known amount is the stated fraction of the whole: 22 = .4 × whole. Divide: whole = 22/.4 = 55. Check: .4 × 55 = 22.

@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is 34 + 21 + 12 + 42 ?,109,300,Y,Add tens and ones separately (30 + 20 + 10 + 40) + (4 + 1 + 2 + 2),109
-2,What is 25 + 20 + 42 + 21 ?,108,300,Y,Add tens and ones separately,108
-3,What is 5 + 3 + 14 + 42 ?,64,300,Y,Add tens and ones separately,64
-4,What is 54 + 39 + 22 + 25 ?,140,300,Y,Add tens and ones separately,140
-5,What is 42 + 38 + 23 + 28 ?,131,300,Y,Add tens and ones separately,131
+1,What is 34 + 21 + 12 + 42 ?,109,300,Y,Add tens and ones separately (30 + 20 + 10 + 40) + (4 + 1 + 2 + 2),Add tens: 30+20+10+40 = 100. Add ones: 4+1+2+2 = 9. Total: 100+9 = 109.
+2,What is 25 + 20 + 42 + 21 ?,108,300,Y,Add tens and ones separately,Add tens: 20+20+40+20 = 100. Add ones: 5+0+2+1 = 8. Total: 100+8 = 108.
+3,What is 5 + 3 + 14 + 42 ?,64,300,Y,Add tens and ones separately,Add tens: 0+0+10+40 = 50. Add ones: 5+3+4+2 = 14. Total: 50+14 = 64.
+4,What is 54 + 39 + 22 + 25 ?,140,300,Y,Add tens and ones separately,Add tens: 50+30+20+20 = 120. Add ones: 4+9+2+5 = 20. Total: 120+20 = 140.
+5,What is 42 + 38 + 23 + 28 ?,131,300,Y,Add tens and ones separately,Add tens: 40+30+20+20 = 110. Add ones: 2+8+3+8 = 21. Total: 110+21 = 131.

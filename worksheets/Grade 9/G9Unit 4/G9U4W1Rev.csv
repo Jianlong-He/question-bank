@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Select. Does (0, -3) lie on the graph of y = -2x - 3? ~~Yes | No~~",Yes,60,Y,Substitute x = 0.|The y-value at x = 0 is the y-intercept.,y = -3 → Yes.
-2,"Complete the solution (-3, y) for y = 3x + 8.",-1,60,Y,"Substitute x = -3.|Multiply before adding.","y = -9 + 8 = -1."
-3,"Find y so that (-2, y) lies on x + 3y = 10.",4,60,Y,"Substitute x = -2.|Solve -2 + 3y = 10.","3y = 12 → y = 4."
-4,"How many ordered-pair solutions does a nonvertical line have?",infinitely many|Infinite|infinite|infinitely many solutions,60,Y,"Think of every point on the line.","Infinitely many."
-5,"The graph of y = -3x + 8 contains the point with x = 4. What is its y-coordinate?",-4,60,Y,"Substitute x = 4.","-12 + 8 = -4."
+1,"Select. Does (0, -3) lie on the graph of y = -2x - 3? ~~Yes | No~~",Yes,60,Y,Substitute x = 0.|The y-value at x = 0 is the y-intercept.,"Substitute x = 0 and y = -3 into y = -2x - 3. The left side minus the right side is 0, so both sides are equal. Yes, the point lies on the line."
+2,"Complete the solution (-3, y) for y = 3x + 8.",-1,60,Y,Substitute x = -3.|Multiply before adding.,"Substitute x = -3 into y = 3x + 8: y = -1. The completed point is (-3, -1)."
+3,"Find y so that (-2, y) lies on x + 3y = 10.",4,60,Y,Substitute x = -2.|Solve -2 + 3y = 10.,Substitute the known coordinate into x + 3y = 10: 3y - 12 = 0. Solve for the missing coordinate: y = 4. Substitution makes the original left side minus right side zero.
+4,How many ordered-pair solutions does a nonvertical line have?,infinitely many|Infinite|infinite|infinitely many solutions,60,Y,Think of every point on the line.,"A nonvertical line has equation y = mx + b. Every real x determines one y and a distinct ordered pair. Since there are infinitely many real x-values, the line has infinitely many ordered-pair solutions."
+5,The graph of y = -3x + 8 contains the point with x = 4. What is its y-coordinate?,-4,60,Y,Substitute x = 4.,"Substitute x = 4 into y = -3x + 8: y = -4. The completed point is (4, -4)."

@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"For y <= -3x + 4, do you shade above or below the boundary line?",below|Below,60,Y,"Smaller y-values lie below.","Below."
-2,"A graph has a solid boundary y = 3x + 2 and is shaded above it. Write the inequality.",y>=3x+2|y >= 3x + 2,60,Y,"Solid means equality is included.|Above means greater y-values.","y >= 3x + 2."
-3,"A graph has a dashed horizontal boundary y = -2 and is shaded below. Write the inequality.",y<-2|y < -2,60,Y,"Dashed means strict.","y < -2."
-4,"Which test point is often convenient for deciding which side to shade when it is not on the boundary?","(0,0)|0,0|the origin|origin",60,Y,"Choose a point with easy coordinates.","The origin."
-5,"Select. Does (0, 0) satisfy 3x + y > 4? ~~Yes | No~~",No,60,Y,Substitute x = 0 and y = 0.,0 > 4 is false → No.
+1,"For y <= -3x + 4, do you shade above or below the boundary line?",below|Below,60,Y,Smaller y-values lie below.,"The inequality is isolated as y <= 4 - 3 × x. At any fixed x, smaller y-values lie below the boundary line. Include the boundary because equality is allowed."
+2,A graph has a solid boundary y = 3x + 2 and is shaded above it. Write the inequality.,y>=3x+2|y >= 3x + 2,60,Y,Solid means equality is included.|Above means greater y-values.,"A solid boundary includes equality, and above means larger y-values. Therefore y >= 3x + 2."
+3,A graph has a dashed horizontal boundary y = -2 and is shaded below. Write the inequality.,y<-2|y < -2,60,Y,Dashed means strict.,"A dashed boundary excludes equality, and below means smaller y-values. Therefore y < -2."
+4,Name the test point with both coordinates zero that is convenient for choosing a shaded half-plane when it is not on the boundary.,"(0,0)|0,0|the origin|origin",60,Y,Choose a point with easy coordinates.,"The point is the origin, (0, 0). Substitute it into the inequality. If true, shade its side of the boundary; if false, shade the other side. Choose another point if the origin lies on the boundary."
+5,"Select. Does (0, 0) satisfy 3x + y > 4? ~~Yes | No~~",No,60,Y,Substitute x = 0 and y = 0.,"Substitute both coordinates into every condition: 0 > 4 is false. At least one condition fails, so No. A system requires every condition to hold."

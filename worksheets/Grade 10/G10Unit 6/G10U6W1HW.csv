@@ -1,6 +1,6 @@
-"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
-"1","Rewrite x^(1/4) using radical notation.","fourth root of x|4th root of x|x^(1/4) is the fourth root of x","60","Y","x^(1/n) is the nth root of x.;Here n=4.","x^(1/4) is the fourth root of x."
-"2","Rewrite sqrt(x^3) using a rational exponent.","x^(3/2)","60","Y","A square root is a 1/2 power.;(x^3)^(1/2)=x^(3/2).","sqrt(x^3)=x^(3/2)."
-"3","Evaluate 25^(1/2).","5","60","Y","A 1/2 power is a square root.;sqrt(25)=5.","25^(1/2)=5."
-"4","Evaluate 8^(1/3).","2","60","Y","A 1/3 power is a cube root.;2^3=8.","8^(1/3)=2."
-"5","Evaluate 27^(2/3).","9","60","Y","Take the cube root first.;27^(1/3)=3 then square.","3^2=9."
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Rewrite x^(1/4) using radical notation.,fourth root of x|4th root of x|x^(1/4) is the fourth root of x,60,Y,x^(1/n) is the nth root of x.;Here n=4.,The denominator 4 in x^(1/4) is the root index: it denotes the fourth root of x. For real even roots require x>=0 and use the nonnegative root.
+2,Rewrite sqrt(x^3) using a rational exponent.,x^(3/2),60,Y,A square root is a 1/2 power.;(x^3)^(1/2)=x^(3/2).,"The power 3 supplies the numerator and root index 2 supplies the denominator: x^(3/2). For real values here x>=0, and the even root is principal and nonnegative."
+3,Evaluate 25^(1/2).,5,60,Y,A 1/2 power is a square root.;sqrt(25)=5.,The denominator 2 means take the 2th root first: 25^(1/2)=5. The numerator 1 means raise this to power 1: 5^1=5. Use the principal nonnegative root for this positive base.
+4,Evaluate 8^(1/3).,2,60,Y,A 1/3 power is a cube root.;2^3=8.,The denominator 3 means take the 3th root first: 8^(1/3)=2. The numerator 1 means raise this to power 1: 2^1=2. Use the principal nonnegative root for this positive base.
+5,Evaluate 27^(2/3).,9,60,Y,Take the cube root first.;27^(1/3)=3 then square.,The denominator 3 means take the 3th root first: 27^(1/3)=3. The numerator 2 means raise this to power 2: 3^2=9. Use the principal nonnegative root for this positive base.

@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"What number is 30% of 40?",12,60,Y,"Convert percent to a decimal.","30% = 0.30, 0.30 x 40 = 12"
-2,"What number is 50% of 46?",23,60,Y,"Convert percent to a decimal.","50% = 0.50, 0.50 x 46 = 23"
-3,"Select. Which expression is equal to 4% of 300? ~~0.004x300 | 0.04x300 | 0.4x300~~",0.04x300,60,Y,"Convert the percent to a decimal.","4% = 0.04"
-4,"A jacket costs 80 CAD. A store gives a 20% discount. How much money is taken off the price?",16|16 CAD,60,Y,"Taking off = decrease; Find 20% of 80","20% = 0.20, 0.20 x 80 = 16 CAD"
-5,"A school has 600 students. 40% of them walk to school. How many students walk to school?",240,60,Y,"Convert the percent to a decimal and multiply.","40% = 0.4, 0.4 x 600 = 240"
+1,What number is 30% of 40?,12,60,Y,"Divide the percent number by 100, then multiply that decimal by the quantity.",30%=30/100=0.3. Multiply by the quantity: 0.3×40=12. The requested amount is 12.
+2,What number is 50% of 46?,23,60,Y,"Divide the percent number by 100, then multiply that decimal by the quantity.",50%=50/100=0.5. Multiply by the quantity: 0.5×46=23. The requested amount is 23.
+3,Select. Which expression is equal to 4% of 300? ~~0.004x300 | 0.04x300 | 0.4x300~~,0.04x300,60,Y,"Divide the percent number by 100, then multiply that decimal by the quantity.",4%=4/100=0.04. Multiply by the quantity: 0.04×300=12. Select the expression 0.04 x 300.
+4,A jacket costs 80 CAD. A store gives a 20% discount. How much money is taken off the price?,16|16 CAD,60,Y,"Divide the percent number by 100, then multiply that decimal by the quantity.",20%=20/100=0.2. Multiply by the quantity: 0.2×80=16. The requested amount is 16.
+5,A school has 600 students. 40% of them walk to school. How many students walk to school?,240,60,Y,"Divide the percent number by 100, then multiply that decimal by the quantity.",40%=40/100=0.4. Multiply by the quantity: 0.4×600=240. The requested amount is 240.

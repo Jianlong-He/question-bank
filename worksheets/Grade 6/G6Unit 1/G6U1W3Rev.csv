@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Write 24 to 60 as a fraction in simplest form","2/5",60,Y,"24/60 reduces by 12","2/5"
-2,"Compare 5:8 and 4:7. Which is larger? (write 5:8 or 4:7)","5:8",60,Y,"Cross-multiply 5×7=35, 8×4=32","5:8"
-3,"A recipe uses ratio 4:3 (water:juice). If juice is 12 cups, water cups?","16",60,Y,"Find the scale factor from 3 to 12; apply to 4","3→12 is ×4; 4×4 = 16"
-4,"If 60 points are shared 1:2:3, how many for the largest share?","30",60,Y,"1+2+3=6; each part=10; largest=3×10","30"
-5,"Rate: 320 km in 4 hours (km/h)","80",60,Y,"Divide distance by time","320 ÷ 4 = 80"
+1,Write 24 to 60 as a fraction in simplest form,2/5,60,Y,"Write first quantity over second quantity, then divide both by their greatest common factor.","Keep the original order: 24:60, or 24/60. The greatest common factor is 12. Divide both parts: 24÷12=2 and 60÷12=5. The requested simplified fraction is 2/5."
+2,Compare 5:8 and 4:7. Which is larger? (write 5:8 or 4:7),5:8,60,Y,Treat each positive ratio as a fraction. Compare cross-products in the same order.,"Compare 5/8 with 4/7. Cross-products are 5×7=35 and 4×8=32. Since both denominators are positive and 35>32, 5:8 is larger."
+3,"A recipe uses ratio 4:3 (water:juice). If juice is 12 cups, water cups?",16,60,Y,"Match the known amount to its ratio part, find the scale factor, and apply it to the other part.",Ratio parts are 4:3. The known amount 12 matches part 3. Scale factor=12÷3=4. Multiply the other part: 4×4=16 cups of water. The scaled ratio is 16:12.
+4,"If 60 points are shared 1:2:3, how many for the largest share?",30,60,Y,Add all three ratio parts. One part equals total divided by their sum.,"Total ratio parts=1+2+3=6. One part=60÷6=10. The requested share has 3 parts, so 3×10=30 points. All shares are 10, 20, 30, which add to 60."
+5,Rate: 320 km in 4 hours (km/h),80,60,Y,Divide the total quantity by the corresponding number of units. Keep the requested per-unit label.,"Unit rate means per one unit. Divide: 320÷4=80 kilometres per hour. Check: 80×4=320, recovering the total quantity."

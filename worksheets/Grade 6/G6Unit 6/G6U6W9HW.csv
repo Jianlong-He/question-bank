@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Find the Greatest Common Divisor (GCD) of 8 and 24.",8,60,Y,"One divides the other","24 ÷ 8 = 3 -> GCD = 8"
-2,"Find the Greatest Common Divisor (GCD) of 15 and 20.",5,60,Y,"List factors","15: 1, 3, 5, 15 & 20: 1, 2, 4, 5, 10, 20. The greatest common: 5"
-3,"Find the Greatest Common Divisor (GCD) of 12 and 18.",6,60,Y,"List factors","12: 1, 2, 3, 4, 6, 12 & 18: 1, 2, 3, 6, 9, 18. The greatest common: 6"
-4,"Find the Greatest Common Divisor (GCD) of 9 and 16.",1,60,Y,"List factors","9: 1, 3, 9 & 16: 1, 2, 4, 8, 16. The greatest common: 1"
-5,"You have 20 apples and 30 oranges. You want to make equal groups with no leftovers. What is the largest number of groups you can make?",10|10 groups,60,Y,"Use GCD","GCD(20, 30) = 10, so you can make 10 groups"
+1,Find the Greatest Common Divisor (GCD) of 8 and 24.,8,60,Y,List common positive factors; choose the greatest one.,"Factors of 8: 1, 2, 4, 8; Factors of 24: 1, 2, 3, 4, 6, 8, 12, 24. Common factors: 1, 2, 4, 8. The greatest is 8."
+2,Find the Greatest Common Divisor (GCD) of 15 and 20.,5,60,Y,List common positive factors; choose the greatest one.,"Factors of 15: 1, 3, 5, 15; Factors of 20: 1, 2, 4, 5, 10, 20. Common factors: 1, 5. The greatest is 5."
+3,Find the Greatest Common Divisor (GCD) of 12 and 18.,6,60,Y,List common positive factors; choose the greatest one.,"Factors of 12: 1, 2, 3, 4, 6, 12; Factors of 18: 1, 2, 3, 6, 9, 18. Common factors: 1, 2, 3, 6. The greatest is 6."
+4,Find the Greatest Common Divisor (GCD) of 9 and 16.,1,60,Y,List common positive factors; choose the greatest one.,"Factors of 9: 1, 3, 9; Factors of 16: 1, 2, 4, 8, 16. Common factors: 1. The greatest is 1."
+5,"You have 20 apples and 30 oranges. You want to make identical groups, each with the same number of apples and the same number of oranges, with no leftovers. What is the largest number of groups you can make?",10|10 groups,60,Y,List common positive factors; choose the greatest one.,"Factors of 20: 1, 2, 4, 5, 10, 20; Factors of 30: 1, 2, 3, 5, 6, 10, 15, 30. Common factors: 1, 2, 5, 10. The greatest is 10. Make 10 identical groups, each with 2 of the first item and 3 of the second item. Check: 10×2=20 and 10×3=30."

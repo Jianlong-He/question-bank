@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Estimate 3.1 x 6 ≈ ? (rounding 3.1 to whole number),18|18.6,240,Y,What whole number is 3.1 closest to?,"18. 3.1 ≈ 3, 3 x 6 = 18"
-2,Estimate 72 x 24 ≈ ? (rounding both numbers),1750,240,Y,Using friendly tens,"1750. 72 ≈ 70, 24 ≈ 25, 70 x 25 = 1750"
-3,Estimate with larger number and decimals: 99.4 x 14 ≈ ?,1400|1500,240,Y,What whole number is 99.4 closest to?,"99.4 ≈ 100, 100 x 14 = 1400. Or you can also round 14 to 15 -> 100 x 15 = 1500"
-4,What is 6 x 0.2?,1.2,240,Y,6 x 2 tenths = 12 tenths = 1.2,1.2 -> 6 x 2 tenths = 12 tenths = 1.2
-5,"Select True or False of the statement ""8 x 0.3 is less than 2"" ~~TRUE | FALSE~~",FALSE,240,Y,Multiply tenths.,FALSE. -> 8 x 3 tenths = 24 tenths = 2.4 > 2
+1,Estimate 3.1 x 6 ≈ ? (rounding 3.1 to whole number),18,240,Y,"Round only the factors specified, then multiply the rounded values.","Round 3.1 to nearest whole number: 3. 3.1 × 6 ≈ 3 × 6 = 18. The exact product is 93/5, but the question asks for the rounded estimate."
+2,Estimate 72 x 24 using the compatible numbers 70 and 25. What is the estimated product?,1750,240,Y,"Use the specified nearby factors. Multiply 70 by 25, keeping the factor of ten.","Use the stated compatible-number estimate: 72 is replaced by 70 and 24 by 25. Since 7 x 25 = 175, 70 x 25 = 1750. The estimated product is 1750; it is not the exact product."
+3,Estimate 99.4 x 14 by rounding only 99.4 to the nearest ten. Keep 14 unchanged.,1400,240,Y,"Round the decimal factor as instructed, then multiply it by 14 without rounding 14.",99.4 rounds to 100 to the nearest ten. Keep the other factor 14 unchanged. Multiply: 100 x 14 = 1400. The estimated product is 1400.
+4,What is 6 x 0.2?,1.2,240,Y,"Count tenths, hundredths or thousandths, multiply their count, then convert back.",6 = 6/1; 0.2 = 2/10. Multiply: 6 × 2 = 12; denominator 1 × 10 = 10. So 6 × 0.2 = 12/10 = 1.2.
+5,"Select True or False of the statement ""8 x 0.3 is less than 2"" ~~TRUE | FALSE~~",FALSE,240,Y,"Calculate every option, then compare each product with the stated threshold.",8 = 8/1; 0.3 = 3/10. Multiply: 8 × 3 = 24; denominator 1 × 10 = 10. So 8 × 0.3 = 24/10 = 2.4. Therefore the requested answer is FALSE.

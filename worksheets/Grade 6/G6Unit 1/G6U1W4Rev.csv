@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Write 35:56 as a fraction in simplest form","5/8",60,Y,"Divide by 7","5/8"
-2,"Compare 7:10 and 5:8. Which is larger? (write 7:10 or 5:8)","7:10",60,Y,"Use cross-multiplication to compare","7×8=56 > 10×5=50, so 7:10"
-3,"A smoothie uses fruit:water = 3:2. For 20 cups total, fruit cups?","12",60,Y,"3+2=5 parts; 20 ÷ 5 = 4; fruit 3×4","12"
-4,"If a class has 16 boys and 20 girls, write boys:girls in simplest form","4:5",60,Y,"16:20 divide by 4","4:5"
-5,"Rate: 210 miles in 3.5 hours (mph)","60",60,Y,"210 ÷ 3.5","60"
+1,Write 35:56 as a fraction in simplest form,5/8,60,Y,"Write first quantity over second quantity, then divide both by their greatest common factor.","Keep the original order: 35:56, or 35/56. The greatest common factor is 7. Divide both parts: 35÷7=5 and 56÷7=8. The requested simplified fraction is 5/8."
+2,Compare 7:10 and 5:8. Which is larger? (write 7:10 or 5:8),7:10,60,Y,Treat each positive ratio as a fraction. Compare cross-products in the same order.,"Compare 7/10 with 5/8. Cross-products are 7×8=56 and 5×10=50. Since both denominators are positive and 56>50, 7:10 is larger."
+3,"A smoothie uses fruit:water = 3:2. For 20 cups total, fruit cups?",12,60,Y,"Add the ratio parts, divide the total by that sum, then multiply by the requested part.","Total ratio parts=3+2=5. One part=20÷5=4. The requested share has 3 parts, so 3×4=12 cups of fruit. All shares are 12, 8, which add to 20."
+4,"If a class has 16 boys and 20 girls, write boys:girls in simplest form",4:5,60,Y,Divide both ratio parts by their greatest common factor.,"Keep the original order: 16:20, or 16/20. The greatest common factor is 4. Divide both parts: 16÷4=4 and 20÷4=5. The requested simplified ratio is 4:5."
+5,Rate: 210 miles in 3.5 hours (mph),60,60,Y,Divide the total quantity by the corresponding number of units. Keep the requested per-unit label.,"Unit rate means per one unit. Divide: 210÷3.5=60 miles per hour. Check: 60×3.5=210, recovering the total quantity."

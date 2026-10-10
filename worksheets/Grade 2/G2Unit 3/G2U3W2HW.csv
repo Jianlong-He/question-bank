@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is 78 - 4?,74,120,Y,Subtract 4 ones using place value,74
-2,What is 65 - 20?,45,120,Y,Subtract 2 tens using place value,45
-3,What is 97 - 45?,52,120,Y,Subtract 7 ones - 5 ones and 9 tens - 4 tens,52
-4,What is 52 - 7?,45,240,Y,Subtract using regrouping,45
-5,What is 76 - 2 - 3?,71,120,Y,Subtract 5 ones in total,71
+1,What is 78 - 4?,74,120,Y,Subtract 4 ones using place value,"Subtract 4 from the ones: 8 - 4 = 4. Keep 7 tens, so 78 - 4 = 74."
+2,What is 65 - 20?,45,120,Y,Subtract 2 tens using place value,"Subtract 2 tens from 6 tens, keeping 5 ones: 65 - 20 = 45."
+3,What is 97 - 45?,52,120,Y,Subtract 7 ones - 5 ones and 9 tens - 4 tens,Subtract ones: 7 - 5 = 2. Subtract tens: 9 - 4 = 5. Thus 97 - 45 = 52.
+4,What is 52 - 7?,45,240,Y,Subtract using regrouping,Regroup 52 as 4 tens and 12 ones. Subtract 7 ones to get 5 ones; keep 4 tens. The result is 45.
+5,What is 76 - 2 - 3?,71,120,Y,Subtract 5 ones in total,First 76 - 2 = 74; then 74 - 3 = 71. The total removed is 5.

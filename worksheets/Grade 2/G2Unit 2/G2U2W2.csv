@@ -1,11 +1,11 @@
-﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Fill: 54 in expanded form:   __ + __,"50,4",300,Y,"Break into tens and ones.  50 is tens, 4 is ones","50,4"
-2,Fill: 65 in expanded form: __ + __ ,"60,5",300,Y,"Break into tens and ones. 60 is tens, 5 is ones","60,5"
-3,Fill: 847 in expanded form: __ + __ + __,"800,40,7",300,Y,"Break into hundreds, tens, ones;800 is hundreds, 40 is tens, 7 is ones","800,40,7"
-4,Fill: 368 in expanded form: __ + __ + __,"300,60,8",300,Y,"Break into hundreds, tens, ones. 300 is hundreds, 60 is tens, 8 is ones","300,60,8"
-5,What is 'seven hundred twenty-eight' in standard form?,728,300,Y,Seven hundred = 700. Twenty = 20. Eight = 8. Put together,728
-6,Write 'two hundred forty-three' in standard form,243,300,Y,Two hundred = 200. Forty = 40. Three = 3. Put together,243
-7,What number is 600 + 40 + 5?,645,300,Y,"Add hundreds,add ten,add ones",645
-8,What number is 900 + 30 + 8?,938,300,Y,"Add hundreds,add ten,add ones",938
-9,Select which matches 'seven hundred nineteen': ~~700+10+9 | 700+19+10 | 7000+90+10~~,700+10+9,300,Y,700 + 10 + 9 = 719.,700+10+9
-10,Write 576 in word form using words,five hundred seventy-six|five hundred seventy six,300,Y,5 hundreds = five hundred. 7 tens = seventy. 6 ones = six,five hundred seventy-six
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 54 in expanded form:   __ + __,"50,4",300,Y,"Break into tens and ones.  50 is tens, 4 is ones","54 has 5 tens and 4 ones, so 54 = 50 + 4. Enter 50, 4."
+2,Fill: 65 in expanded form: __ + __ ,"60,5",300,Y,"Break into tens and ones. 60 is tens, 5 is ones","65 has 6 tens and 5 ones, so 65 = 60 + 5. Enter 60, 5."
+3,Fill: 847 in expanded form: __ + __ + __,"800,40,7",300,Y,"Break into hundreds, tens, ones;800 is hundreds, 40 is tens, 7 is ones","847 has 8 hundreds, 4 tens, and 7 ones. Thus 847 = 800 + 40 + 7. Enter 800, 40, 7."
+4,Fill: 368 in expanded form: __ + __ + __,"300,60,8",300,Y,"Break into hundreds, tens, ones. 300 is hundreds, 60 is tens, 8 is ones","368 has 3 hundreds, 6 tens, and 8 ones. Thus 368 = 300 + 60 + 8. Enter 300, 60, 8."
+5,What is 'seven hundred twenty-eight' in standard form?,728,300,Y,Seven hundred = 700. Twenty = 20. Eight = 8. Put together,"Seven hundred is 700, twenty is 20, and eight is 8. Add: 700 + 20 + 8 = 728."
+6,Write 'two hundred forty-three' in standard form,243,300,Y,Two hundred = 200. Forty = 40. Three = 3. Put together,"Two hundred is 200, forty is 40, and three is 3. Add: 200 + 40 + 3 = 243."
+7,What number is 600 + 40 + 5?,645,300,Y,"Add hundreds,add ten,add ones","600 + 40 + 5 has 6 hundreds, 4 tens, and 5 ones. The number is 645."
+8,What number is 900 + 30 + 8?,938,300,Y,"Add hundreds,add ten,add ones","900 + 30 + 8 has 9 hundreds, 3 tens, and 8 ones. The number is 938."
+9,Select which matches 'seven hundred nineteen': ~~700+10+9 | 700+19+10 | 7000+90+10~~,700+10+9,300,Y,700 + 10 + 9 = 719.,"Seven hundred nineteen is 719 = 700 + 10 + 9. The other expressions give 729 and 7100, so choose 700+10+9."
+10,Write 576 in word form using words,five hundred seventy-six|five hundred seventy six,300,Y,5 hundreds = five hundred. 7 tens = seventy. 6 ones = six,"576 = 500 + 70 + 6. Read these parts as five hundred, seventy, six: five hundred seventy-six."

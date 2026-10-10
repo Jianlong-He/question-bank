@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Compute: 6/7 ÷ 2/7","3",60,Y,"Multiply by the reciprocal; simplify the fraction","6/7 × 7/2 = 3"
-2,"Compute: 3/4 ÷ 1/4","3",60,Y,"Change division to multiplication by the reciprocal","3/4 × 4 = 3"
-3,"Compute: 5/8 ÷ 5/16","2",60,Y,"Use reciprocal and cancel common factors","5/8 × 16/5 = 2"
-4,"Compute: 1 1/4 ÷ 1/2","2.5|5/2",60,Y,"Convert mixed number to improper fraction; multiply by reciprocal","5/4 × 2 = 5/2 = 2.5"
-5,"Compute: 6 ÷ 2/5","15",60,Y,"Multiply by the reciprocal of 2/5","6 × 5/2 = 15"
+1,Compute: 6/7 ÷ 2/7,3,60,Y,"Keep the dividend and multiply by the reciprocal of the divisor, then simplify."," Keep the dividend and invert only the divisor: 6/7÷(2/7)=6/7×(7/2)=42/14=3. Check: (3)×(2/7)=6/7, the original dividend."
+2,Compute: 3/4 ÷ 1/4,3,60,Y,"Keep the dividend and multiply by the reciprocal of the divisor, then simplify."," Keep the dividend and invert only the divisor: 3/4÷(1/4)=3/4×(4)=12/4=3. Check: (3)×(1/4)=3/4, the original dividend."
+3,Compute: 5/8 ÷ 5/16,2,60,Y,"Keep the dividend and multiply by the reciprocal of the divisor, then simplify."," Keep the dividend and invert only the divisor: 5/8÷(5/16)=5/8×(16/5)=80/40=2. Check: (2)×(5/16)=5/8, the original dividend."
+4,Compute: 1 1/4 ÷ 1/2,2.5|5/2,60,Y,Convert mixed numbers to improper fractions before multiplying by the divisor’s reciprocal.,"1 1/4=(1×4+1)/4=5/4. Keep the dividend and invert only the divisor: 5/4÷(1/2)=5/4×(2)=10/4=5/2. This is 2.5 as a decimal. Check: (5/2)×(1/2)=5/4, the original dividend."
+5,Compute: 6 ÷ 2/5,15,60,Y,"Write the whole-number dividend over 1, then multiply by the reciprocal of the fraction.","Write 6 as 6/1. Keep the dividend and invert only the divisor: 6÷(2/5)=6×(5/2)=30/2=15. Check: (15)×(2/5)=6, the original dividend."

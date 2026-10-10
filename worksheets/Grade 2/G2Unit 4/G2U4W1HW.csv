@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Sam has 32 markers. He buys 15 more markers at the shop. How many markers does Sam have in total?,47,120,Y,32 + 15 = ?,47
-2,A local toy store has 64 puzzles. They sell 28 puzzles in the afternoon. How many puzzles are left?,36,120,Y,64 - 28 = ?,36
-3,A library has 45 mystery books and 36 science books. How many books does the library have altogether?,81,120,Y,45 + 36 = ?,81
-4,A zoo has 58 birds from different regions. They receive 34 new birds as a rescue. How many birds does the zoo have now?,92,120,Y,58 + 34 = ?,92
-5,A garden has 82 flowers. The gardener plants 25 fewer flowers there next season. How many flowers will be planted next season?,57,120,Y,Fewer means subtract 82 - 25 = ?,57
+1,Sam has 32 markers. He buys 15 more markers at the shop. How many markers does Sam have in total?,47,120,Y,32 + 15 = ?,Buying more markers means add: 32+15. Add tens: 30+10 = 40; ones: 2+5 = 7. Sam has 47 markers.
+2,A local toy store has 64 puzzles. They sell 28 puzzles in the afternoon. How many puzzles are left?,36,120,Y,64 - 28 = ?,Subtract the puzzles sold: 64-28. Regroup 64 as 5 tens and 14 ones. Then 14-8 = 6 ones and 5-2 = 3 tens. There are 36 puzzles left.
+3,A library has 45 mystery books and 36 science books. How many books does the library have altogether?,81,120,Y,45 + 36 = ?,"Add the two types of books: 45+36. Five plus six is 11 ones, so regroup one ten. The tens are 4+3+1 = 8. The total is 81 books."
+4,A zoo has 58 birds from different regions. They receive 34 new birds as a rescue. How many birds does the zoo have now?,92,120,Y,58 + 34 = ?,Add the rescued birds: 58+34. Eight plus four gives 12 ones. Regroup one ten: 5+3+1 = 9 tens and 2 ones. The zoo has 92 birds.
+5,A garden has 82 flowers. The gardener plants 25 fewer flowers there next season. How many flowers will be planted next season?,57,120,Y,Fewer means subtract 82 - 25 = ?,Fewer means subtract: 82-25. Regroup 82 as 7 tens and 12 ones. Subtract: 12-5 = 7 ones and 7-2 = 5 tens. The gardener will plant 57 flowers.

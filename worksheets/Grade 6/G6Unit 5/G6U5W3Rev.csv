@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"What is |–23|?",23,60,Y,"Absolute value means distance from zero.","–23 is 23 units away from 0. So |–23| = 23"
-2,"Select, Which pair has the same absolute value? (A) -48 and 84 (B) 36 and -63 (C) -52 and 52 ~~A | B | C~~",C,60,Y,"Get the absolute values of each pair","|-52| = 52 = |52|"
-3,"What is -|-4581|?",-4581,60,Y,"Take the absolute value first, then apply the negative sign.","-|-4581| = -4581"
-4,"Select, Which pair has the same value? (A) -|95| and |95| (B) -62 and -|-62| (C) -(18) and |-18| ~~A | B | C~~",B,60,Y,"Absolute value means distance from zero.","-|-62| = -62, so B"
-5,"The top of a building is at +112 m. The basement is at -25 m. How much total vertical distance is there between them?",137,60,Y,"Think about distance above and below zero.","|112 - (-25)| = 137"
+1,What is |–23|?,23,60,Y,"Absolute value is distance from zero, so it is nonnegative.","-23 is 23 units from zero. Therefore |-23| = 23. In general distance is nonnegative, and the distance of zero from itself is zero."
+2,"Select, Which pair has the same absolute value? (A) -48 and 84 (B) 36 and -63 (C) -52 and 52 ~~A | B | C~~",C,60,Y,Evaluate both distances in every pair; opposite numbers have equal absolute values.,A: |-48| = 48 and |84| = 84; B: |36| = 36 and |-63| = 63; C: |-52| = 52 and |52| = 52. Only C has equal absolute values.
+3,What is -|-4581|?,-4581,60,Y,"Evaluate inside the bars first, then apply the minus outside.",First |- 4581| = 4581. The outside negative remains: -(4581) = -4581.
+4,"Select, Which pair has the same value? (A) -|95| and |95| (B) -62 and -|-62| (C) -(18) and |-18| ~~A | B | C~~",B,60,Y,Evaluate each pair fully. A minus outside absolute-value bars remains after finding the distance.,"A gives -95 and 95, which differ. B gives -62 and -|-62| = -62, which agree. C gives -18 and 18, which differ. Answer: B."
+5,The top of a building is at +112 m. The basement is at -25 m. How much total vertical distance is there between them?,137,60,Y,The positions lie on opposite sides of zero. Add the two distances from zero.,From -25 m up to 0 is 25 m; from 0 to +112 m is 112 m. Total distance = 25 + 112 = 137 m. Check: |112 - (-25)| = 137.

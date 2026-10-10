@@ -1,6 +1,6 @@
-"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
-"1","Add (4+3i)+(2-5i).","6-2i|6-2*i","60","Y","Add the real parts.;Add the imaginary parts.","(4+2)+(3-5)i=6-2i."
-"2","Subtract (7-2i)-(3+4i).","4-6i|4-6*i","60","Y","Subtract the real parts.;Subtract the imaginary parts.","(7-3)+(-2-4)i=4-6i."
-"3","Multiply (3+i)(2-3i).","9-7i|9-7*i","60","Y","Use FOIL.;Replace i^2 with -1.","6-9i+2i-3i^2=6-7i+3=9-7i."
-"4","Multiply (4+3i)(4-3i).","25","60","Y","This is a product of conjugates.;(a+bi)(a-bi)=a^2+b^2.","16+9=25."
-"5","Solve x^2+16=0. Enter the solution with positive imaginary part.","4i","60","Y","Isolate x^2.;x^2=-16.","x=4i or x=-4i."
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Add (4+3i)+(2-5i).,6-2i|6-2*i,60,Y,Add the real parts.;Add the imaginary parts.,"Combine matching parts: (4+(1)(2))+(3+(1)(-5))i=6+(-2)i. Real parts combine with real parts, and imaginary coefficients with imaginary coefficients."
+2,Subtract (7-2i)-(3+4i).,4-6i|4-6*i,60,Y,Subtract the real parts.;Subtract the imaginary parts.,Combine matching parts: (7+(-1)(3))+(-2+(-1)(4))i=4+(-6)i. Subtraction changes the sign of both terms in the second bracket.
+3,Multiply (3+i)(2-3i).,9-7i|9-7*i,60,Y,Use FOIL.;Replace i^2 with -1.,Distribute: 6+(-7)i+(-3)i^2. Replace i^2 by -1 to get 9+(-7)i. A binomial square uses the same distribution with two identical factors.
+4,Multiply (4+3i)(4-3i).,25,60,Y,This is a product of conjugates.;(a+bi)(a-bi)=a^2+b^2.,"The conjugate of 4+3i is 4-3i. The product is 4^2+3^2=25, because the cross terms cancel and i^2=-1."
+5,Solve x^2+16=0. Enter the solution with positive imaginary part.,4i,60,Y,Isolate x^2.;x^2=-16.,"Isolate x^2=-16. Since i^2=-1, both 4i and -4i square to -16. The requested solution with positive imaginary part is 4i."

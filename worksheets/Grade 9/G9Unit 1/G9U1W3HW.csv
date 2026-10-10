@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Evaluate 8/0. Enter undefined if the expression has no defined value.",undefined|Undefined,60,Y,"No number multiplied by 0 can equal 8.","Division by zero is undefined."
-2,"Evaluate 0/8.",0,60,Y,"Ask what number times 8 equals 0.","0/8 = 0."
-3,"Classify 0/0 as undefined or indeterminate.",indeterminate|Indeterminate,60,Y,"Every number multiplied by 0 gives 0, so there is no unique quotient.","0/0 is indeterminate."
-4,"For the expression 5/(x - 3), what value of x must be excluded from the domain?",3,60,Y,"Set the denominator equal to 0.","x = 3 makes the denominator zero."
-5,"A fraction has a nonzero numerator and a denominator equal to zero. Is its value zero or undefined?",undefined|Undefined,60,Y,"A zero denominator is the key issue.","It is undefined."
+1,Evaluate 8/0. Enter undefined if the expression has no defined value.,undefined|Undefined,60,Y,No number multiplied by 0 can equal 8.,"Division by zero is undefined: multiplying any real number by zero gives zero, so it cannot give a nonzero numerator."
+2,Evaluate 0/8.,0,60,Y,Ask what number times 8 equals 0.,"Since 8 × 0 = 0 and 8 is nonzero, 0/8 = 0."
+3,"In real-number arithmetic, evaluate 0/0. Enter undefined if the expression has no defined value.",undefined|Undefined,60,Y,"Every number multiplied by 0 gives 0, so there is no unique quotient.","A quotient must have one defined value. The equation 0 × q = 0 holds for every real q, so it selects no unique quotient. Therefore 0/0 is undefined in real-number arithmetic. In limits, 0/0 is called an indeterminate form; that does not give this arithmetic expression a value."
+4,"For the expression 5/(x - 3), what value of x must be excluded from the domain?",3,60,Y,Set the denominator equal to 0.,The denominator must be nonzero. Solve x - 3 = 0: x = 3. Exclude x = 3; all other real inputs are allowed.
+5,A fraction has a nonzero numerator and a denominator equal to zero. Is its value zero or undefined?,undefined|Undefined,60,Y,A zero denominator is the key issue.,"Division by zero is undefined: multiplying any real number by zero gives zero, so it cannot give a nonzero numerator."

@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Select the most reasonable unit to measure the width of a pencil: ~~1-centimeter | 1-meter | 1-kilometer~~,1-centimeter,60,N,,1-centimeter
-2,Select the most reasonable unit to measure the length of a cell phone: ~~Feet | Inches | Yards~~,Inches,60,N,,Inches
-3,Select the most reasonable unit to measure the distance from New York to Los Angeles: ~~Feet | Yards | Miles~~,Miles,60,N,,Miles
-4,Select which is the closest to the height of a giraffe: ~~16-feet | 16-inches | 16-yards~~,16-feet,60,N,,16-feet
-5,Select the most reasonable unit to measure the height of a skyscraper: ~~Inches | Yards | Miles~~,Yards,60,N,,Yards
+1,Select the most reasonable unit to measure the width of a pencil: ~~1-centimeter | 1-meter | 1-kilometer~~,1-centimeter,60,N,"Compare the size or duration with familiar benchmarks, and choose the most reasonable of the offered options.","A pencil is narrow, around a centimetre across Therefore choose 1 centimeter."
+2,Select the most reasonable unit to measure the length of a cell phone: ~~Feet | Inches | Yards~~,Inches,60,N,"Compare the size or duration with familiar benchmarks, and choose the most reasonable of the offered options.",A cell phone is a handheld object a few inches long Therefore choose Inches.
+3,Select the most reasonable unit to measure the distance from New York to Los Angeles: ~~Feet | Yards | Miles~~,Miles,60,N,"Compare the size or duration with familiar benchmarks, and choose the most reasonable of the offered options.",A long intercity distance is conveniently measured in miles Therefore choose Miles.
+4,Select which is the closest to the height of a giraffe: ~~16-feet | 16-inches | 16-yards~~,16-feet,60,N,"Compare the size or duration with familiar benchmarks, and choose the most reasonable of the offered options.","A giraffe is tall, on the scale of several feet, not 16 inches or 16 yards Therefore choose 16 feet."
+5,Select the most reasonable unit to measure the height of a skyscraper: ~~Inches | Yards | Miles~~,Yards,60,N,"Compare the size or duration with familiar benchmarks, and choose the most reasonable of the offered options.",Yards are the most practical offered unit for a tall building Therefore choose Yards.

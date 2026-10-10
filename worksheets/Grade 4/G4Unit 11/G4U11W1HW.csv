@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
-1,"You have four non-collinear points (A, B, C, and D). How many unique line segments can be drawn by connecting pairs of these points?",6,60,N,,6,
-2,"Point M is the midpoint of line segment AB. If the length of segment AB is 14 cm, what is the length from A to M?",7|7 cm,60,N,,7|7 cm,
-3, Select the starting point of this ray: ~~C | D~~ ,C,60,N,,C,https://i.ibb.co/gLF0C4kJ/G4-U11-WS1-I1.jpg
-4,Select. Is ray (a) same as ray (b) ? ~~Yes | No~~,No,60,N,,No,https://i.ibb.co/xc3mVZf/G4-U11-WS1-I2.jpg
-5,Select which geometric figure is described as a set of points extending infinitely in both directions?: ~~Ray | Line-segment | Line | Point~~ ,Line,60,N,,Line,
+1,"You have four non-collinear points (A, B, C, and D). How many unique line segments can be drawn by connecting pairs of these points?",6,60,N,Choose every unordered pair of distinct points once. Avoid counting AB and BA twice.,Choose each pair once: 4 x 3 / 2 = 6 segments. Reversing the two endpoint names does not create a new segment.,
+2,"Point M is the midpoint of line segment AB. If the length of segment AB is 14 cm, what is the length from A to M?",7|7 cm,60,N,A midpoint divides the segment into two equal lengths.,The midpoint splits 14 cm into two equal parts: 14 / 2 = 7 cm. Check: 7 + 7 = 14.,
+3, Select the starting point of this ray: ~~C | D~~ ,C,60,N,"In a ray name, the first letter is the endpoint. Order matters.",The ray is named CD. The first letter C is its endpoint; the ray continues through D.,https://i.ibb.co/gLF0C4kJ/G4-U11-WS1-I1.jpg
+4,Select. Is ray (a) same as ray (b) ? ~~Yes | No~~,No,60,N,"In a ray name, the first letter is the endpoint. Order matters.",Ray AB begins at A and goes through B. Ray BA begins at B and goes through A. They have different endpoints and are not the same ray.,https://i.ibb.co/xc3mVZf/G4-U11-WS1-I2.jpg
+5,Select which geometric figure is described as a set of points extending infinitely in both directions?: ~~Ray | Line-segment | Line | Point~~ ,Line,60,N,"Use dimensions, endpoints and arrowheads to distinguish a point, line, segment, ray and plane.",A line continues forever in both directions and has no endpoints. A ray continues only one way; a segment has two endpoints.,

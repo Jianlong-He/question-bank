@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"How many faces does a triangular prism have?",5,60,Y,"Count all flat surfaces: 2 triangles and 3 rectangles.","2 triangle faces + 3 rectangle faces = 5"
-2,"How many edges does a triangular prism have?",9,60,Y,"Edges are lines where two faces meet.","3 + 3 + 3 = 9 edges"
-3,"Which shape has: No edges, no vertices and only a curved surface?",Sphere|sphere,60,Y,"Think of a ball.","A sphere has only a curved surface"
-4,"How many faces does a square pyramid have?",5,60,Y,"Count the base and the triangle faces.","1 square base + 4 triangle faces = 5"
-5,"Select. Which shape is a polyhedron?: ~~Sphere | Cone | Rectangular-prism | Cylinder~~",Rectangular-prism,60,Y,"A polyhedron must have flat faces and straight edges.","Only the rectangular prism has all flat faces and straight edges"
+1,How many faces does a triangular prism have?,5,60,Y,"Include hidden faces or edges, counting each once.",The prism has two 3-sided bases and 3 side faces: 2+3=5 faces.
+2,How many edges does a triangular prism have?,9,60,Y,"Include hidden faces or edges, counting each once.","Two 3-sided ends contribute 3+3 edges, and 3 joining edges give 9 in total."
+3,"Which shape has: No edges, no vertices and only a curved surface?",Sphere|sphere,60,Y,"Think of a ball, not a can.","A sphere is ball-shaped, with one continuous curved surface, no edges and no vertices. A can is cylinder-shaped, not sphere-shaped."
+4,How many faces does a square pyramid have?,5,60,Y,"Include hidden faces or edges, counting each once.",The pyramid has one 4-sided base and 4 triangular side faces: 1+4=5 faces.
+5,Select. Which shape is a polyhedron?: ~~Sphere | Cone | Rectangular-prism | Cylinder~~,Rectangular-prism,60,Y,A polyhedron has only flat polygonal faces.,"Rectangular prism is bounded entirely by flat polygon faces and is a polyhedron. Spheres, cylinders and cones have curved surfaces, so they are not polyhedra."

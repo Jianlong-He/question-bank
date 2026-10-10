@@ -1,11 +1,11 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Add (3+2i)+(5-7i).,8-5i|8-5*i,70,Y,Combine real parts and imaginary parts separately.|2i-7i=-5i.,The sum is 8-5i.
-2,Subtract (6+4i)-(2-3i).,4+7i|4+7*i,70,Y,Distribute the subtraction sign.|Subtract real parts and imaginary coefficients.,The result is 6+4i-2+3i=4+7i.
-3,Multiply (2+i)(3-4i).,10-5i|10-5*i,70,Y,Distribute all four products.|Replace i^2 with -1.,6-8i+3i-4i^2=10-5i.
-4,Multiply (1+2i)^2.,-3+4i|-3+4*i,70,Y,Expand as a binomial square.|Use i^2=-1.,1+4i+4i^2=1+4i-4=-3+4i.
-5,Multiply (5+2i)(5-2i).,29,70,Y,The factors are conjugates.|Use a^2+b^2 because i^2=-1.,25-(2i)^2=25+4=29.
-6,Simplify 3i(2-5i).,15+6i|6i+15,70,Y,Distribute 3i.|Use i^2=-1.,6i-15i^2=15+6i.
-7,Solve x^2+9=0. Enter the solution with positive imaginary part.,3i,70,Y,Rewrite as x^2=-9.|Take square roots using i.,The solutions are ±3i so the requested one is 3i.
-8,Find the roots of x^2+4x+13=0. Enter the root with positive imaginary part.,-2+3i|-2+3*i,70,Y,Use the quadratic formula.|The discriminant is -36.,x=(-4±6i)/2=-2±3i so the requested root is -2+3i.
-9,What is the sum of a complex number a+bi and its conjugate a-bi?,2a,70,Y,Add corresponding parts.|The imaginary terms cancel.,The sum is 2a.
-10,What is the product of a+bi and its conjugate a-bi?,a^2+b^2,70,Y,Use the difference of squares.|Replace i^2 with -1.,(a+bi)(a-bi)=a^2-b^2i^2=a^2+b^2.
+1,Add (3+2i)+(5-7i).,8-5i|8-5*i,70,Y,Combine real parts and imaginary parts separately.|2i-7i=-5i.,"Combine matching parts: (3+(1)(5))+(2+(1)(-7))i=8+(-5)i. Real parts combine with real parts, and imaginary coefficients with imaginary coefficients."
+2,Subtract (6+4i)-(2-3i).,4+7i|4+7*i,70,Y,Distribute the subtraction sign.|Subtract real parts and imaginary coefficients.,Combine matching parts: (6+(-1)(2))+(4+(-1)(-3))i=4+(7)i. Subtraction changes the sign of both terms in the second bracket.
+3,Multiply (2+i)(3-4i).,10-5i|10-5*i,70,Y,Distribute all four products.|Replace i^2 with -1.,Distribute: 6+(-5)i+(-4)i^2. Replace i^2 by -1 to get 10+(-5)i. A binomial square uses the same distribution with two identical factors.
+4,Multiply (1+2i)^2.,-3+4i|-3+4*i,70,Y,Expand as a binomial square.|Use i^2=-1.,Distribute: 1+(4)i+(4)i^2. Replace i^2 by -1 to get -3+(4)i. A binomial square uses the same distribution with two identical factors.
+5,Multiply (5+2i)(5-2i).,29,70,Y,The factors are conjugates.|Use a^2+b^2 because i^2=-1.,"The conjugate of 5+2i is 5-2i. The product is 5^2+2^2=29, because the cross terms cancel and i^2=-1."
+6,Simplify 3i(2-5i).,15+6i|6i+15,70,Y,Distribute 3i.|Use i^2=-1.,Distribute: 0+(6)i+(-15)i^2. Replace i^2 by -1 to get 15+(6)i. A binomial square uses the same distribution with two identical factors.
+7,Solve x^2+9=0. Enter the solution with positive imaginary part.,3i,70,Y,Rewrite as x^2=-9.|Take square roots using i.,"Isolate x^2=-9. Since i^2=-1, both 3i and -3i square to -9. The requested solution with positive imaginary part is 3i."
+8,Find the roots of x^2+4x+13=0. Enter the root with positive imaginary part.,-2+3i|-2+3*i,70,Y,Use the quadratic formula.|The discriminant is -36.,Complete the square: (x+2)^2=-9. Therefore x+2=±3i and x=-2±3i. Choose the plus-imaginary branch -2+3i. The two roots are conjugates.
+9,What is the sum of a complex number a+bi and its conjugate a-bi?,2a,70,Y,Add corresponding parts.|The imaginary terms cancel.,"(a+bi)+(a-bi)=a+a+bi-bi=2a. The imaginary terms cancel, leaving a real sum when a and b are real."
+10,What is the product of a+bi and its conjugate a-bi?,a^2+b^2,70,Y,Use the difference of squares.|Replace i^2 with -1.,"(a+bi)(a-bi)=a^2-(bi)^2=a^2-b^2(-1)=a^2+b^2. For real a,b the result is real and nonnegative."

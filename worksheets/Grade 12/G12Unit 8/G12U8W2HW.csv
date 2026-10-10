@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Evaluate 6!.",720,60,Y,"Multiply 6×5×4×3×2×1.;Factorial counts arrangements.","6! = 720."
-2,"Evaluate 0!.",1|one,60,Y,"Use the factorial convention.;It makes permutation formulas work at the endpoint.","0! = 1."
-3,"How many ways can 5 distinct people sit in a row?",120,60,Y,"Arrange all 5 people.;Compute 5!.","There are 5! = 120 arrangements."
-4,"Write the permutation formula for choosing and ordering r objects from n.",n!/(n-r)!,60,Y,"Order matters.;Cancel the unused tail of n!.","nPr = n!/(n - r)!."
-5,"Evaluate 6P2.",30,60,Y,"Use 6 × 5.;Only two descending factors are needed.","6P2 = 30."
+1,Evaluate 6!.,720,60,Y,Multiply 6×5×4×3×2×1.|Factorial counts arrangements.,"For positive integer n, n! multiplies the integers from n down to 1. The empty product is 0!=1, representing the single empty arrangement. Here factorial(6) = 720."
+2,Evaluate 0!.,1|one,60,Y,Use the factorial convention.|It makes permutation formulas work at the endpoint.,"For positive integer n, n! multiplies the integers from n down to 1. The empty product is 0!=1, representing the single empty arrangement. Here factorial(0) = 1."
+3,How many ways can 5 distinct people sit in a row?,120,60,Y,Arrange all 5 people.|Compute 5!.,"Arrange n distinct objects in n positions: there are n choices first, n-1 next, down to 1 last. Their product is n!. Here factorial(5) = 120."
+4,"Write the permutation formula for choosing and ordering r objects from n distinct objects without replacement, for integers 0<=r<=n.",n!/(n-r)!,60,Y,Order matters.|Cancel the unused tail of n!.,"For n distinct objects and integer 0<=r<=n, ordered selection without replacement has n(n-1)...(n-r+1)=n!/(n-r)! outcomes. Distinct roles or positions make the assignments different. nPr = n!/(n - r)!."
+5,Evaluate 6P2.,30,60,Y,Use 6 × 5.|Only two descending factors are needed.,"For n distinct objects and integer 0<=r<=n, ordered selection without replacement has n(n-1)...(n-r+1)=n!/(n-r)! outcomes. Distinct roles or positions make the assignments different. Here factorial(6)/factorial(4) = 30."

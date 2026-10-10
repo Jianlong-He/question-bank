@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Fill Write a multiplication sentence for 7 + 7 + 7 + 7 + 7 = __ x __,"5, 7",240,Y,number of groups x group size; Count how many 7s there are. That number is the group count.,"5, 7"
-2,"Fill 0 x 4 = __ , 0 x 9 = __ , 0 x 12 = __","0, 0, 0",240,Y,"Anything multiplied by 0 is always 0, because you have zero groups.","0, 0, 0"
-3,"Fill 1 x 5 = __ , 1 x 8 = __ , 1 x 4 = __","5, 8, 2004",240,Y,Anything multiplied by 1 stays the same number. That means you only have one group.,"5, 8, 2004"
-4,"Fill 2 x 2 = __ , 3 x 3 = __ , 4 x 4 = __ , 5 x 5 = __ , 6 x 6 = __","4, 9, 16, 25, 36",360,Y,Think as number of groups x size of each group. We has equal number of groups and size.,"4, 9, 16, 25, 36"
-5,"Fill 1 x 3 = __ , 2 x 3 = __ , 3 x 3 = __ , 4 x 3 = __ , 5 x 3 = __ , 6 x 3 = __","3, 6, 9, 12, 15, 18",360,Y,Think as number of groups x size of each group. Each time has 1 more group of 3.,"3, 6, 9, 12, 15, 18"
+1,Fill Write a multiplication sentence for 7 + 7 + 7 + 7 + 7 = __ x __ Write the number of groups or jumps first.,"5, 7",240,Y,number of groups x group size; Count how many 7s there are. That number is the group count.,"Five addends of 7 mean 5 groups of 7. With the group count first, write 5 x 7; fill 5, 7."
+2,"Fill 0 x 4 = __ , 0 x 9 = __ , 0 x 12 = __","0, 0, 0",240,Y,"Anything multiplied by 0 is always 0, because you have zero groups.","Zero groups contain no objects. Each product is zero: fill 0, 0, 0."
+3,"Fill 1 x 5 = __ , 1 x 8 = __ , 1 x 4 = __","5, 8, 4",240,Y,Anything multiplied by 1 stays the same number. That means you only have one group.,"One group keeps its size: 1 x 5 = 5, 1 x 8 = 8 and 1 x 4 = 4. Fill 5, 8, 4."
+4,"Fill 2 x 2 = __ , 3 x 3 = __ , 4 x 4 = __ , 5 x 5 = __ , 6 x 6 = __","4, 9, 16, 25, 36",360,Y,Think as number of groups x size of each group. We has equal number of groups and size.,"Multiply each number by itself: 2 x 2 = 4; 3 x 3 = 9; 4 x 4 = 16; 5 x 5 = 25; 6 x 6 = 36. Fill 4, 9, 16, 25, 36."
+5,"Fill 1 x 3 = __ , 2 x 3 = __ , 3 x 3 = __ , 4 x 3 = __ , 5 x 3 = __ , 6 x 3 = __","3, 6, 9, 12, 15, 18",360,Y,Think as number of groups x size of each group. Each time has 1 more group of 3.,"Start with one group of 3 and add 3 each time. The six products are 3, 6, 9, 12, 15, 18."

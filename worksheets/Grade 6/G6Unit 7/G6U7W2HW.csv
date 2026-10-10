@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"A mystery number plus 9 equals 41. What is the number?",32,60,Y,"Write an equation first.","Let the mystery number be x. x + 9 = 41, x = 41 - 9 = 32"
-2,"Solve 64 + m = 121 and find the value of m",57,60,Y,"Remove 64 on both sides","m = 121 - 64 = 57"
-3,"Solve 4y = 32 and find the value of y",8,60,Y,"Divide both sides by 4.","y = 32/4 = 8"
-4,"Write y + y + y + y in a shorter way.",4y,60,Y,"For example m + m = 2m: there are 2 copies of m","y + y + y + y means 4 groups of y, so 4y"
-5,"Five equal boxes weigh 35 kg in total. What is the weight of each box?",7|7 kg|7kg,60,Y,"Let each box be x. Then divide.","5x = 35, x = 35/5 = 7 kg"
+1,A mystery number plus 9 equals 41. What is the number?,32,60,Y,"Write an addition equation, then subtract the known addend from both sides.",Let x be the mystery number. x+9=41. Subtract 9 from both sides: x=41-9=32. Check: 32+9=41.
+2,Solve 64 + m = 121 and find the value of m,57,60,Y,Use the same inverse operation on both sides; combine like terms first when needed.,Subtract 64 on both sides to undo the constant: m=121-(64)=57. Check: left side 64 + (57)=121; right side 121=121. The two sides agree.
+3,Solve 4y = 32 and find the value of y,8,60,Y,Use the same inverse operation on both sides; combine like terms first when needed.,Divide both sides by 4: y=(32)/(4)=8. Check: left side 4(8)=32; right side 32=32. The two sides agree.
+4,Write y + y + y + y in a shorter way.,4y,60,Y,Count the identical terms; write that count as the coefficient.,"There are 4 identical terms y. Adding them means 4 times y, written 4y."
+5,Five equal boxes weigh 35 kg in total. What is the weight of each box?,7|7 kg|7kg,60,Y,Equal items have the same mass; divide total mass by their count.,Let w be the mass of one box in kilograms. 5w=35. Divide both sides by 5: w=35/5=7 kg. Check: 5×7=35 kg.

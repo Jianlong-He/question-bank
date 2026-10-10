@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Fill: 4 hours = ___ seconds,14400,60,N,,14400
-2,Fill: 420 minutes = ___ hours,7,60,N,,7
-3,A movie is 150 minutes long. How many hours is the movie?,2.5,60,N,,2.5
-4,Fill: Emma has a dance class that lasts 90 minutes. The class starts at 4:00 PM. What time will the dance class end? ____ : ____ PM,"5,30",60,N,,"5,30"
-5,Fill: Harry has 120 minutes to complete a science project at school. The project begins at 3:45 PM. Harry has soccer practice at 6:00 PM. How much time will Harry have between the end of the project and the beginning of soccer practice? ___ minutes.,15,60,N,,15
+1,Fill: 4 hours = ___ seconds,14400,60,N,"Write the conversion factor, convert to the requested unit, then add, compare, multiply or divide as needed.",Multiply by the conversion factor: 4 x 3600 = 14400 seconds. Check by dividing by 3600.
+2,Fill: 420 minutes = ___ hours,7,60,N,"Write the conversion factor, convert to the requested unit, then add, compare, multiply or divide as needed.",Divide by 60: 420 / 60 = 7 hours. Check: 7 x 60 = 420.
+3,A movie is 150 minutes long. How many hours is the movie?,2.5,60,N,"Write the conversion factor, convert to the requested unit, then add, compare, multiply or divide as needed.",Divide by 60: 150 / 60 = 2.5 hours. Check: 2.5 x 60 = 150.
+4,Fill: Emma has a dance class that lasts 90 minutes. The class starts at 4:00 PM. What time will the dance class end? ____ : ____ PM,"5,30",60,N,Use 60 minutes per hour. Follow the time forward or backward and check the final clock reading.,90 minutes = 60 + 30 minutes = 1 hour 30 minutes. 4:00 PM + 1 hour = 5:00 PM; add 30 minutes to finish at 5:30 PM.
+5,Fill: Harry takes the full 120 minutes to complete a science project at school. The project begins at 3:45 PM. Harry has soccer practice at 6:00 PM. How much time will Harry have between the end of the project and the beginning of soccer practice? ___ minutes.,15,60,N,Use 60 minutes per hour. Follow the time forward or backward and check the final clock reading.,The full project lasts 120 minutes = 2 hours. Starting at 3:45 PM gives an end time of 5:45 PM. From then to 6:00 PM is 15 minutes.

@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,A rectangle has length 8 units and width 4 units. What is its area?,32|32 square units,100,Y,Area = length x width,32 square units
-2,Why can we multiply length x width to find area of a rectangle? (A) It counts rows and columns (B) It measures height (C) It counts corners : A B C,A,100,Y,Think about rows of squares.,A -> Multiplying counts all the squares in the rows and columns.
-3,A rectangle has area 24 square units. One side is 6 units long. What is the other side?,4|4 units,100,Y,Area = length x width. Divide,4 units
-4,A rectangle has area 30 square units. One side is 5 units long. What is the other side?,6|6 units,100,Y,Area = length x width. Divide,6 units
-5,A square has area 36 square units. What is the length of each side?,6|6 units,100,Y,Area = length x width. Square has equal sides,6 units
+1,A rectangle has length 8 units and width 4 units. What is its area?,32|32 square units,100,Y,Multiply the number of unit squares in each row by the number of rows.,Area counts the unit squares covering the surface. Multiply length by width: 8 x 4 = 32 square units.
+2,Why can we multiply length x width to find area of a rectangle? (A) It counts rows and columns (B) It measures height (C) It counts corners : A B C,A,100,Y,Multiply the number of unit squares in each row by the number of rows.,"Choose A. Length times width counts the unit squares in every row, with no gaps or overlaps."
+3,A rectangle has area 24 square units. One side is 6 units long. What is the other side?,4|4 units,100,Y,Divide area by the known side length. The result is a length.,Divide area by the known side: 24 divided by 6 = 4 units. Check: 6 x 4 = 24. A side length uses linear units.
+4,A rectangle has area 30 square units. One side is 5 units long. What is the other side?,6|6 units,100,Y,Divide area by the known side length. The result is a length.,Divide area by the known side: 30 divided by 5 = 6 units. Check: 5 x 6 = 30. A side length uses linear units.
+5,A square has area 36 square units. What is the length of each side?,6|6 units,100,Y,"Find the number that gives the area when multiplied by itself. If perimeter is asked, multiply that side length by four.","6 x 6 = 36, so each side is 6 units."

@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,We want to turn 238 into 240. What number do we add to both numbers in 452 - 238?,2,240,Y,238 + __ = 240 to make 238 nicer,2
-2,Fill To make number nicer to solve 346 - 197 = __ - 200 = __,"349, 149",240,Y,Do the same to both number,"349, 149"
-3,Fill To make number nicer to solve 227 + 306 = __ + 300 = __,"233, 533",240,Y,Do the same to both number,"233, 533"
-4,Fill To make number nicer to solve 514 - 412 = __ - 400 = __,"502, 102",240,Y,Do the same to both number,"502, 102"
-5,"Select. Are these expressions the same? 42 + 258, 40 + 260, 45 + 255, 50 + 250 ~~Yes | No~~",Yes,240,Y,Write all in nicer expression,Yes
+1,We want to turn 238 into 240. What number do we add to both numbers in 452 - 238?,2,240,Y,"For subtraction, add the same amount to both numbers, or subtract the same amount from both, to preserve the difference.",240-238 = 2. Add 2 to both numbers: 452-238 = 454-240 = 214. The required number is 2.
+2,Fill To make number nicer to solve 346 - 197 = __ - 200 = __,"349, 149",240,Y,"For subtraction, add the same amount to both numbers, or subtract the same amount from both, to preserve the difference.","197 needs 3 to reach 200. Add 3 to both numbers: 346-197 = 349-200 = 149. Fill 349, 149."
+3,Fill To make number nicer to solve 227 + 306 = __ + 300 = __,"233, 533",240,Y,"For addition, add an amount to one addend and subtract the same amount from the other to preserve the sum.","Move 6 from 306 to 227, keeping the sum unchanged: 227+306 = 233+300 = 533. Fill 233, 533."
+4,Fill To make number nicer to solve 514 - 412 = __ - 400 = __,"502, 102",240,Y,"For subtraction, add the same amount to both numbers, or subtract the same amount from both, to preserve the difference.","Subtract 12 from both numbers: 514-412 = 502-400 = 102. Fill 502, 102."
+5,"Select. Are these expressions the same? 42 + 258, 40 + 260, 45 + 255, 50 + 250 ~~Yes | No~~",Yes,240,Y,"For addition, add an amount to one addend and subtract the same amount from the other to preserve the sum.",Yes. Every expression totals 300. Transferring the same amount from one addend to the other preserves the sum.

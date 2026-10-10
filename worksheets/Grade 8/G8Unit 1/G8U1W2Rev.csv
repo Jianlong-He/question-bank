@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Fill: Solve for $x$: $x^3 = 125$",5,60,Y,"What number times itself three times equals 125?","$5 \cdot 5 \cdot 5 = 125$"
-2,"Fill: Simplify $4^5 \cdot 4^{-3} = 4^{\_\_}$",2,60,Y,"Product rule: add the exponents","$5 + (-3) = 2$"
-3,"Select the greater value: ~~$\sqrt{65}$ | 8~~",$\sqrt{65}$,60,Y,"Square 8 to compare;$8^2 = 64$","$\sqrt{65}$ is slightly more than $\sqrt{64} = 8$"
-4,"Fill: Write $0.0045$ in Scientific Notation: $4.5 \cdot 10^{\_\_}$",-3,60,Y,"Moving the decimal right creates a negative exponent","The decimal moves 3 places right: $4.5 \cdot 10^{-3}$"
-5,"Select the equivalent of $x^{-3}$: ~~$-3x$ | $\frac{1}{x^3}$ | $-x^3$~~",$\frac{1}{x^3}$,60,Y,"Negative exponents move the base to the denominator","$x^{-3} = 1/x^3$"
+1,Fill: Solve for $x$: $x^3 = 125$,5,60,Y,What number times itself three times equals 125?,A cube root is the real number whose cube equals the input. 5^3 = 125. Requested answer: 5.
+2,Fill: Simplify $4^5 \cdot 4^{-3} = 4^{\_\_}$,2,60,Y,Product rule: add the exponents,"For the same nonzero base, add exponents when multiplying and subtract when dividing. 5+(-3) = 2. Requested answer: 2."
+3,Select the greater value: ~~$\sqrt{65}$ | 8~~,$\sqrt{65}$,60,Y,Square 8 to compare;$8^2 = 64$,"8²=64<65. Since both values are nonnegative, √65>8. Select √65. Requested answer: $\sqrt{65}$."
+4,Fill: Write $0.0045$ in Scientific Notation: $4.5 \cdot 10^{\_\_}$,-3,60,Y,Moving the decimal right creates a negative exponent,Write one nonzero digit before the decimal: 1≤coefficient<10. Choose the exponent that exactly recovers the given number. 4.5 × 10^(-3) = 0.0045. Requested answer: -3.
+5,"Select the equivalent, for $x\ne0$, of $x^{-3}$: ~~$-3x$ | $\frac{1}{x^3}$ | $-x^3$~~",$\frac{1}{x^3}$,60,Y,Negative exponents move the base to the denominator,"For x≠0, x⁻³=1/x³. The base must be nonzero because division by zero is undefined. Requested answer: $\frac{1}{x^3}$."

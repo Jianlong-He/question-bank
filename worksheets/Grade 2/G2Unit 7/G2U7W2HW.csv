@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"A bar graph of favorite fruits shows: Apples 8, Bananas 12, Grapes 5, Oranges 7. How many children chose bananas?",12,120,Y,Find the bananas bar.,12
-2,"A bar graph of favorite fruits shows: Apples 8, Bananas 12, Grapes 5, Oranges 7. How many MORE children chose bananas than grapes?",7,120,Y,Subtract 12 - 5,7
-3,"A bar graph of favorite fruits shows: Apples 8, Bananas 12, Grapes 5, Oranges 7. Select Which fruit is the MOST popular: Apples Bananas Grapes Oranges",Bananas,120,Y,Look for the biggest number (longest bar),Bananas
-4,"A bar graph of favorite fruits shows: Apples 8, Bananas 12, Grapes 5, Oranges 7. How many children in total chose apples and oranges?",15,120,Y,Add 8 + 7,15
-5,"Apples 8, Bananas 12, Grapes 5, Oranges 7. Select all fruits with MORE than 6 votes: Apples, Bananas, Grapes, Oranges","Apples,Bananas,Oranges",240,Y,Check each fruit: is it more than 6?,"Apples,Bananas,Oranges"
+1,"A bar graph of favorite fruits shows: Apples 8, Bananas 12, Grapes 5, Oranges 7. How many children chose bananas?",12,120,Y,Find the bananas bar.,The given banana count is 12. Therefore 12 children chose bananas.
+2,"A bar graph of favorite fruits shows: Apples 8, Bananas 12, Grapes 5, Oranges 7. How many MORE children chose bananas than grapes?",7,120,Y,Subtract 12 - 5,Bananas have 12 votes and grapes have 5. Subtract: 12-5 = 7 more banana votes.
+3,"Select the most popular fruit. Votes: Apples 8, Bananas 12, Grapes 5, Oranges 7. ~~Apples | Bananas | Grapes | Oranges~~",Bananas,120,Y,Look for the biggest number (longest bar),"Compare the four counts 8, 12, 5 and 7. The greatest is 12 for Bananas, so select Bananas."
+4,"A bar graph of favorite fruits shows: Apples 8, Bananas 12, Grapes 5, Oranges 7. How many children in total chose apples and oranges?",15,120,Y,Add 8 + 7,Apples have 8 votes and oranges have 7. Add: 8+7 = 15 children.
+5,"Select all fruits with MORE than 6 votes. Votes: Apples 8, Bananas 12, Grapes 5, Oranges 7. ~~Apples | Bananas | Grapes | Oranges~~","Apples,Bananas,Oranges",240,Y,Check each fruit: is it more than 6?,"Compare each count with 6: apples 8, bananas 12 and oranges 7 are greater than 6, but grapes 5 is not. Select Apples, Bananas and Oranges."

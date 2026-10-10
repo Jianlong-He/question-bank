@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
-1,Fill: 4 Tons equal to ___ pounds.,8000,60,N,,8000,https://i.ibb.co/svcTM239/Screenshot-2026-05-10-at-12-55-10-PM.png
-2,Fill: 5 pounds = ___ ounces.,80,60,N,,80,https://i.ibb.co/svcTM239/Screenshot-2026-05-10-at-12-55-10-PM.png
-3,Fill: 4 Tons equal to ___ ounces.,128000,60,N,,128000,https://i.ibb.co/svcTM239/Screenshot-2026-05-10-at-12-55-10-PM.png
-4,"Compare using <, > or =: 7000 pounds ___ 3 tons.",>,60,N,,>,https://i.ibb.co/svcTM239/Screenshot-2026-05-10-at-12-55-10-PM.png
-5,Fill: 6 pounds + 6 ounces = ___ ounces.,102,60,N,,102,https://i.ibb.co/svcTM239/Screenshot-2026-05-10-at-12-55-10-PM.png
+1,Fill: 4 Tons equal to ___ pounds. Use US short tons: 1 ton = 2000 pounds.,8000,60,N,"Write the conversion factor, convert to the requested unit, then add, compare, multiply or divide as needed.",Multiply by the conversion factor: 4 x 2000 = 8000 lb (US short tons). Check by dividing by 2000.,https://i.ibb.co/svcTM239/Screenshot-2026-05-10-at-12-55-10-PM.png
+2,Fill: 5 pounds = ___ ounces.,80,60,N,"Write the conversion factor, convert to the requested unit, then add, compare, multiply or divide as needed.",Multiply by the conversion factor: 5 x 16 = 80 oz. Check by dividing by 16.,https://i.ibb.co/svcTM239/Screenshot-2026-05-10-at-12-55-10-PM.png
+3,Fill: 4 Tons equal to ___ ounces. Use US short tons: 1 ton = 2000 pounds.,128000,60,N,"Write the conversion factor, convert to the requested unit, then add, compare, multiply or divide as needed.",Multiply by the conversion factor: 4 x 32000 = 128000 oz. Check by dividing by 32000.,https://i.ibb.co/svcTM239/Screenshot-2026-05-10-at-12-55-10-PM.png
+4,"Compare using <, > or =: 7000 pounds ___ 3 tons. Use US short tons: 1 ton = 2000 pounds.",>,60,N,"Write the conversion factor, convert to the requested unit, then add, compare, multiply or divide as needed.","3 US short tons = 6000 lb. In the same unit, 7000 > 6000.",https://i.ibb.co/svcTM239/Screenshot-2026-05-10-at-12-55-10-PM.png
+5,Fill: 6 pounds + 6 ounces = ___ ounces.,102,60,N,"Write the conversion factor, convert to the requested unit, then add, compare, multiply or divide as needed.",Convert first: 6 x 16 = 96 oz. Add the remaining 6: 96 + 6 = 102 oz.,https://i.ibb.co/svcTM239/Screenshot-2026-05-10-at-12-55-10-PM.png

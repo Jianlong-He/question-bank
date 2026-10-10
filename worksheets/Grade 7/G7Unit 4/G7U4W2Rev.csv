@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Compute (-3/7) + (5/7). Give your answer as a fraction in simplest form.,2/7,60,Y,The denominators are already the same.,-3/7 + 5/7 = 2/7.
-2,Compute (3/4) - (-5/8). Give your answer as a fraction or mixed number.,11/8|1 3/8,60,Y,Subtracting a negative is adding a positive. Use a denominator of 8.,3/4 + 5/8 = 6/8 + 5/8 = 11/8 = 1 3/8.
-3,Compute 3.4 - (-6.25).,9.65,60,Y,Subtracting a negative is adding a positive.,3.4 + 6.25 = 9.65.
-4,Compute (-2 1/2) + 3 1/4. Give your answer as a fraction or a decimal.,3/4|0.75,60,Y,Write both as quarters first.,"-2 1/2 = -10/4 and 3 1/4 = 13/4, so -10/4 + 13/4 = 3/4 = 0.75."
-5,Compute (-3 3/8) - (-1.25) + 0.5. Enter the answer as a decimal.,-1.625|-1 5/8|-13/8,60,Y,Convert the mixed number to a decimal and add the opposite of -1.25.,"-3 3/8 = -3.375, so -3.375 + 1.25 + 0.5 = -2.125 + 0.5 = -1.625."
+1,Compute (-3/7) + (5/7). Give your answer as a fraction in simplest form.,2/7,60,Y,Keep signs with the numerators. Use a common denominator; subtraction adds the opposite.,"-3/7 + 5/7 = 2/7. Keep the common denominator, combine signed numerators, then simplify. Never add denominators. Exact check: -3/7+5/7 = 2/7."
+2,Compute (3/4) - (-5/8). Give your answer as a fraction or mixed number.,11/8|1 3/8,60,Y,Subtracting a negative is adding a positive. Use a denominator of 8.,3/4 + 5/8 = 6/8 + 5/8 = 11/8 = 1 3/8. Exact check: 3/4-(-5/8) = 1.375.
+3,Compute 3.4 - (-6.25).,9.65,60,Y,Subtracting a negative is adding a positive.,3.4 + 6.25 = 9.65. Exact check: 3.4-(-6.25) = 9.65.
+4,Compute (-2 1/2) + 3 1/4. Give your answer as a fraction or a decimal.,3/4|0.75,60,Y,Write both as quarters first.,"-2 1/2 = -10/4 and 3 1/4 = 13/4, so -10/4 + 13/4 = 3/4 = 0.75. Exact check: -(2+1/2)+(3+1/4) = 0.75."
+5,Compute (-3 3/8) - (-1.25) + 0.5. Enter the answer as a decimal.,-1.625,60,Y,Convert the mixed number to a decimal and add the opposite of -1.25.,"-3 3/8 = -3.375, so -3.375 + 1.25 + 0.5 = -2.125 + 0.5 = -1.625. Exact check: -(3+3/8)-(-1.25)+.5 = -1.625."

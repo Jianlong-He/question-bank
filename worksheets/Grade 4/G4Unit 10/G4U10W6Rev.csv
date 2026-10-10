@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Convert 72/100 into a decimal,0.72,60,N,,0.72
-2,Convert 48/100 into a decimal,0.48,60,N,,0.48
-3,Convert 9/10 into a decimal,0.9,60,N,,0.9
-4,Convert 7/100 into a decimal,0.07,60,N,,0.07
-5,Convert the mixed number 8 3/10 to a decimal.,8.3,60,N,,8.3
+1,Convert 72/100 into a decimal,0.72,60,N,Tenths use one decimal place and hundredths use two. Preserve zeros in empty places and regroup any whole parts.,0 + 72/100 = 0 + 72/100. Each 1/100 has value 0.01. The decimal is 0.72. Keep zero placeholders where a place has no units. Check: (0.72 - 0) x 100 = 72.
+2,Convert 48/100 into a decimal,0.48,60,N,Tenths use one decimal place and hundredths use two. Preserve zeros in empty places and regroup any whole parts.,0 + 48/100 = 0 + 48/100. Each 1/100 has value 0.01. The decimal is 0.48. Keep zero placeholders where a place has no units. Check: (0.48 - 0) x 100 = 48.
+3,Convert 9/10 into a decimal,0.9,60,N,Tenths use one decimal place and hundredths use two. Preserve zeros in empty places and regroup any whole parts.,0 + 9/10 = 0 + 90/100. Each 1/100 has value 0.01. The decimal is 0.9. Keep zero placeholders where a place has no units. Check: (0.9 - 0) x 10 = 9.
+4,Convert 7/100 into a decimal,0.07,60,N,Tenths use one decimal place and hundredths use two. Preserve zeros in empty places and regroup any whole parts.,0 + 7/100 = 0 + 7/100. Each 1/100 has value 0.01. The decimal is 0.07. Keep zero placeholders where a place has no units. Check: (0.07 - 0) x 100 = 7.
+5,Convert the mixed number 8 3/10 to a decimal.,8.3,60,N,Tenths use one decimal place and hundredths use two. Preserve zeros in empty places and regroup any whole parts.,8 + 3/10 = 8 + 30/100. Each 1/100 has value 0.01. The decimal is 8.3. Keep zero placeholders where a place has no units. Check: (8.3 - 8) x 10 = 3.

@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Select which you would measure in meters: ~~spoon | swimming-pool | crayon | sticker~~,swimming-pool,120,Y,Meters are for long things.,swimming-pool
-2,Select which unit would probably be used to measure how long a hallway is?: ~~Centimeters | Meters~~,Meters,120,Y,A hallway is very long.,Meters
-3,Select which you would measure in centimeters: ~~eraser | school-bus | soccer-field | house~~,eraser,120,Y,Centimeters are for small things.,eraser
-4,Select which is closest to how long a shoe is: ~~25-centimeters | 25-meters~~,25-centimeters,120,Y,Think about how big a meter is.,25-centimeters
-5,Select which is closest to how tall a flagpole is?: ~~20-feet | 20-inches~~,20-feet,120,Y,A flagpole is much taller than a ruler.,20-feet
+1,Select which you would measure in meters: ~~spoon | swimming-pool | crayon | sticker~~,swimming-pool,120,Y,Meters are for long things.,"A swimming pool is large, so meters are convenient. Spoons, crayons and stickers are small and are usually measured in centimeters."
+2,Select which unit would probably be used to measure how long a hallway is?: ~~Centimeters | Meters~~,Meters,120,Y,A hallway is very long.,A hallway is a long space. Meters give a convenient count compared with centimeters.
+3,Select which you would measure in centimeters: ~~eraser | school-bus | soccer-field | house~~,eraser,120,Y,Centimeters are for small things.,"An eraser is small, so centimeters are convenient. The bus, field and house are much larger."
+4,Select which is closest to how long a shoe is: ~~25-centimeters | 25-meters~~,25-centimeters,120,Y,Think about how big a meter is.,A shoe can be about 25 centimeters long. Twenty-five meters would be far too long.
+5,Select which is closest to how tall a flagpole is?: ~~20-feet | 20-inches~~,20-feet,120,Y,A flagpole is much taller than a ruler.,A flagpole is much taller than a ruler. Twenty feet is reasonable; twenty inches is too short.

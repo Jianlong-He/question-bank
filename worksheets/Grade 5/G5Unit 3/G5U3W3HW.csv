@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Compute: 10.44 - 2.9","7.54",60,Y,"Write 2.9 as 2.90 and subtract.","7.54"
-2,"Find: 6.04 - 1.25","4.79",60,Y,"Regroup to subtract the hundredths.","4.79"
-3,"Subtract: 8.06 - 3.4","4.66",60,Y,"Write 3.4 as 3.40 before subtracting.","4.66"
-4,"Complete: 9.03 - __ = 8.5","0.53",60,Y,"Write 8.5 as 8.50 and find the difference.","0.53"
-5,"Find: 13.2 - 5.95","7.25",60,Y,"Write 13.2 as 13.20 and regroup.","7.25"
+1,Compute: 10.44 - 2.9,7.54,60,Y,"Align decimal points and subtract corresponding places, regrouping when needed.","Align decimal places: 10.44 - 2.90. In units of 1/100, subtract 1044 - 290 = 754. Divide by 100: 7.54. Check: 7.54 + 2.9 = 10.44."
+2,Find: 6.04 - 1.25,4.79,60,Y,"Align decimal points and subtract corresponding places, regrouping when needed.","Align decimal places: 6.04 - 1.25. In units of 1/100, subtract 604 - 125 = 479. Divide by 100: 4.79. Check: 4.79 + 1.25 = 6.04."
+3,Subtract: 8.06 - 3.4,4.66,60,Y,"Align decimal points and subtract corresponding places, regrouping when needed.","Align decimal places: 8.06 - 3.40. In units of 1/100, subtract 806 - 340 = 466. Divide by 100: 4.66. Check: 4.66 + 3.4 = 8.06."
+4,Complete: 9.03 - __ = 8.5,0.53,60,Y,Subtract the final result from the starting number; check in the original equation.,"Missing subtrahend = starting amount - result. Align decimal places: 9.03 - 8.50. In units of 1/100, subtract 903 - 850 = 53. Divide by 100: 0.53. Check: 0.53 + 8.5 = 9.03. Original equation check: 9.03 - 0.53 = 8.5."
+5,Find: 13.2 - 5.95,7.25,60,Y,"Align decimal points and subtract corresponding places, regrouping when needed.","Align decimal places: 13.20 - 5.95. In units of 1/100, subtract 1320 - 595 = 725. Divide by 100: 7.25. Check: 7.25 + 5.95 = 13.2."

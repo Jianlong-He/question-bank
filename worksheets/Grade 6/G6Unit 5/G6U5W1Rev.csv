@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Select, Which temperature is colder? -12 or 18 ~~-12 | 18~~",-12,60,Y,"Temperatures below zero are colder than temperatures above zero.","-12"
-2,"Order these numbers from smallest to greatest: -76, 105, 0, 21, -13, 5, -4 Enter in increasing order: ___, ___, ___, ___, ___, ___, ___.","-76, -13, -4, 0, 5, 21, 105",60,Y,Put smaller to larger numbers from left to right,"-76, -13, -4, 0, 5, 21, 105"
-3,"If you move 40 units left from 18, what number do you reach?",-22,60,Y,"Left means negative direction.","18 - 40 = -22"
-4,"What is -(-(-183))?",-183,60,Y,"Each negative flips the number.","-183"
-5,"A submarine is 20 meters below sea level. Then it rises 12 meters. What is its new position?",-8,60,Y,"Start at –20 and move toward zero.","Below sea level is negative. -20 + 12 = -8"
+1,"Select, Which temperature is colder? -12 or 18 ~~-12 | 18~~",-12,60,Y,A lower temperature is colder. Compare the signed values.,"-12 < 18, so -12 is the colder temperature. A negative temperature is below a positive one."
+2,"Order these numbers from smallest to greatest: -76, 105, 0, 21, -13, 5, -4 Enter in increasing order: ___, ___, ___, ___, ___, ___, ___.","-76, -13, -4, 0, 5, 21, 105",60,Y,"Sort negatives first, then zero, then positives. Among negatives, farther left means smaller.","Negatives precede zero, and positives follow zero. Among negatives the greater magnitude is smaller. Thus -76 < -13 < -4 < 0 < 5 < 21 < 105."
+3,"If you move 40 units left from 18, what number do you reach?",-22,60,Y,A move left subtracts the number of units from the starting position.,"Start at 18 and subtract 40: 18 - 40 = -22. Reach zero after 18 units, then move 22 more units left."
+4,What is -(-(-183))?,-183,60,Y,Evaluate from the innermost parentheses outward; each outer minus takes the opposite.,The innermost value is -183. Taking its opposite gives -(-183) = 183. The last outer minus gives -(183) = -183.
+5,A submarine is 20 meters below sea level. Then it rises 12 meters. What is its new position?,-8,60,Y,Use a negative starting position below sea level and add the rise.,Initial position = -20 m. Rising adds 12 m: -20 + 12 = -8 m. The submarine remains 8 m below sea level.

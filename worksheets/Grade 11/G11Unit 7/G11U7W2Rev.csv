@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Solve sqrt(x) = 6.",36,60,Y,"Square both sides.;6^2 = 36.","x = 36."
-2,"Solve sqrt(x - 4) = 3.",13,60,Y,"Square both sides.;Then x - 4 = 9.","x = 13."
-3,"Solve sqrt(2x + 5) = 5.",10,60,Y,"Square both sides.;Solve 2x + 5 = 25.","2x = 20, so x = 10."
-4,"Solve sqrt(x) + 1 = 4.",9,60,Y,"Isolate the radical first.;Then sqrt(x) = 3.","Squaring gives x = 9."
-5,Select. Does x = -2 solve sqrt(x + 6) = x + 4? ~~Yes | No~~,Yes,60,Y,Substitute into both sides.;The left side is 2 and the right side is 2.,"At x = -2 both sides equal 2, so yes."
+1,Solve sqrt(x) = 6.,36,60,Y,Square both sides.;6^2 = 36.,"Isolate the principal square root: sqrt(1x+(0))=6. The right side is nonnegative. Square to get 1x+(0)=36; hence 1x=36 and x=36. Check: radicand=36>=0 and sqrt(36)+(0)=6, matching the original equation."
+2,Solve sqrt(x - 4) = 3.,13,60,Y,Square both sides.;Then x - 4 = 9.,"Isolate the principal square root: sqrt(1x+(-4))=3. The right side is nonnegative. Square to get 1x+(-4)=9; hence 1x=13 and x=13. Check: radicand=9>=0 and sqrt(9)+(0)=3, matching the original equation."
+3,Solve sqrt(2x + 5) = 5.,10,60,Y,Square both sides.;Solve 2x + 5 = 25.,"Isolate the principal square root: sqrt(2x+(5))=5. The right side is nonnegative. Square to get 2x+(5)=25; hence 2x=20 and x=10. Check: radicand=25>=0 and sqrt(25)+(0)=5, matching the original equation."
+4,Solve sqrt(x) + 1 = 4.,9,60,Y,Isolate the radical first.;Then sqrt(x) = 3.,"Isolate the principal square root: sqrt(1x+(0))=3. The right side is nonnegative. Square to get 1x+(0)=9; hence 1x=9 and x=9. Check: radicand=9>=0 and sqrt(9)+(1)=4, matching the original equation."
+5,Select. Does x = -2 solve sqrt(x + 6) = x + 4? ~~Yes | No~~,Yes,60,Y,Substitute into both sides.;The left side is 2 and the right side is 2.,"At x=-2, the radicand is 4>=0 and its principal root is 2. The right side is -2+4=2. Both original sides agree, so yes, this is a solution."

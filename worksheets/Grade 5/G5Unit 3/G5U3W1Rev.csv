@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Find: 4.8 - 1.5,3.3,60,Y,Line up decimals and subtract tenths,3.3
-2,Find: 6.05 - 0.4,5.65,60,Y,Pad 0.4 as 0.40,5.65
-3,Complete: 8.5 - __ = 7.1,1.4,60,Y,Subtract 7.1 from 8.5 to find the gap,1.4
-4,Subtract: 9.2 - 3.45,5.75,60,Y,Align decimals and pad 9.2 as 9.20,5.75
-5,Find: 15.0 - 6.25,8.75,60,Y,Pad with zeros; subtract by place value,8.75
+1,Find: 4.8 - 1.5,3.3,60,Y,"Align decimal points and subtract corresponding places, regrouping when needed.","Align decimal places: 4.8 - 1.5. In units of 1/10, subtract 48 - 15 = 33. Divide by 10: 3.3. Check: 3.3 + 1.5 = 4.8."
+2,Find: 6.05 - 0.4,5.65,60,Y,"Align decimal points and subtract corresponding places, regrouping when needed.","Align decimal places: 6.05 - 0.40. In units of 1/100, subtract 605 - 40 = 565. Divide by 100: 5.65. Check: 5.65 + 0.4 = 6.05."
+3,Complete: 8.5 - __ = 7.1,1.4,60,Y,Subtract the final result from the starting number; check in the original equation.,"Missing subtrahend = starting amount - result. Align decimal places: 8.5 - 7.1. In units of 1/10, subtract 85 - 71 = 14. Divide by 10: 1.4. Check: 1.4 + 7.1 = 8.5. Original equation check: 8.5 - 1.4 = 7.1."
+4,Subtract: 9.2 - 3.45,5.75,60,Y,"Align decimal points and subtract corresponding places, regrouping when needed.","Align decimal places: 9.20 - 3.45. In units of 1/100, subtract 920 - 345 = 575. Divide by 100: 5.75. Check: 5.75 + 3.45 = 9.2."
+5,Find: 15.0 - 6.25,8.75,60,Y,"Align decimal points and subtract corresponding places, regrouping when needed.","Align decimal places: 15.00 - 6.25. In units of 1/100, subtract 1500 - 625 = 875. Divide by 100: 8.75. Check: 8.75 + 6.25 = 15."

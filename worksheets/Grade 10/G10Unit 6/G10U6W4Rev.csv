@@ -1,6 +1,6 @@
-"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
-"1","Solve 7^(x+2)=49.","0","60","Y","Write 49 as 7^2.;Set x+2=2.","x=0."
-"2","Solve 9^x=3.","1/2|0.5","60","Y","Write 9 as 3^2.;3^(2x)=3^1.","2x=1 so x=1/2."
-"3","Solve 2^(3x)=16.","4/3","60","Y","Write 16 as 2^4.;Set 3x=4.","x=4/3."
-"4","Simplify (a^3b^-2)^2 using positive exponents.","a^6/b^4","60","Y","Multiply each exponent by 2.;b^-4 moves to the denominator.","a^6/b^4."
-"5","Solve 27^(x/3)=9.","2","60","Y","Write both sides with base 3.;3^(3*x/3)=3^x and 9=3^2.","x=2."
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Solve 7^(x+2)=49.,0,60,Y,Write 49 as 7^2.;Set x+2=2.,"Rewrite both sides using base 7: 7^(1x+(2))=7^2. Since the base is positive and not 1, equal powers have equal exponents: 1x+(2)=2. Solve to get x=0. Substituting makes both exponents 2."
+2,Solve 9^x=3.,1/2|0.5,60,Y,Write 9 as 3^2.;3^(2x)=3^1.,"Rewrite both sides using base 3: 3^(2x+(0))=3^1. Since the base is positive and not 1, equal powers have equal exponents: 2x+(0)=1. Solve to get x=1/2. Substituting makes both exponents 1."
+3,Solve 2^(3x)=16.,4/3,60,Y,Write 16 as 2^4.;Set 3x=4.,"Rewrite both sides using base 2: 2^(3x+(0))=2^4. Since the base is positive and not 1, equal powers have equal exponents: 3x+(0)=4. Solve to get x=4/3. Substituting makes both exponents 4."
+4,Simplify (a^3b^-2)^2 using positive exponents.,a^6/b^4,60,Y,Multiply each exponent by 2.;b^-4 moves to the denominator.,"Apply the outside square to each factor: a^(3*2)b^(-2*2)=a^6b^-4. Rewrite the negative power as a reciprocal, giving a^6/b^4. Preserve b!=0 from the original negative exponent; a may be any real number."
+5,Solve 27^(x/3)=9.,2,60,Y,Write both sides with base 3.;3^(3*x/3)=3^x and 9=3^2.,"Rewrite both sides using base 3: 3^(1x+(0))=3^2. Since the base is positive and not 1, equal powers have equal exponents: 1x+(0)=2. Solve to get x=2. Substituting makes both exponents 2."

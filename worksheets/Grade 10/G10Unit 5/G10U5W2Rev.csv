@@ -1,6 +1,6 @@
-"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
-"1","In the complex number -6-2i what is the imaginary part?","-2","60","Y","The imaginary part is the coefficient of i.;Include the sign.","The imaginary part is -2."
-2,Select. Is 5i purely imaginary? ~~Yes | No~~,Yes,60,Y,Purely imaginary means real part 0.;5i=0+5i.,Yes.
-"3","What complex number is represented by the point (2 -9) on the complex plane?","2-9i|2-9*i","60","Y","The horizontal coordinate is the real part.;The vertical coordinate is the imaginary part.","The number is 2-9i."
-"4","On which axis do purely imaginary numbers lie in the complex plane?","imaginary axis|the imaginary axis|vertical axis|y-axis","60","Y","Purely imaginary numbers have real part 0.;Their points have horizontal coordinate 0.","They lie on the imaginary (vertical) axis."
-"5","What is the complex conjugate of 6+i?","6-i","60","Y","Change the sign of the imaginary part.;The imaginary part is 1.","The conjugate is 6-i."
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,In the complex number -6-2i what is the imaginary part?,-2,60,Y,The imaginary part is the coefficient of i.;Include the sign.,"Write z=a+bi with real a,b. Here a=-6 and b=-2. The imaginary part is -2. The imaginary part is the real coefficient b, not bi."
+2,Select. Is 5i purely imaginary? ~~Yes | No~~,Yes,60,Y,Purely imaginary means real part 0.;5i=0+5i.,"Yes. 5i=0+(5)i has zero real part and nonzero imaginary part, so it is purely imaginary."
+3,"What complex number is represented by the point (2, -9) on the complex plane?",2-9i|2-9*i,60,Y,The horizontal coordinate is the real part.;The vertical coordinate is the imaginary part.,The horizontal coordinate/real part is a=2; the vertical coordinate/imaginary part is b=-9. Insert them in a+bi to get 2+(-9)i.
+4,On which axis do purely imaginary numbers lie in the complex plane?,imaginary axis|the imaginary axis|vertical axis|y-axis,60,Y,Purely imaginary numbers have real part 0.;Their points have horizontal coordinate 0.,"A purely imaginary number has form 0+bi with b nonzero. Its horizontal coordinate is zero, so its point (0,b) lies on the vertical imaginary axis."
+5,What is the complex conjugate of 6+i?,6-i,60,Y,Change the sign of the imaginary part.;The imaginary part is 1.,"The conjugate keeps real part 6 and reverses imaginary coefficient 1, giving 6-(1)i. On the plane this reflects across the real axis."
