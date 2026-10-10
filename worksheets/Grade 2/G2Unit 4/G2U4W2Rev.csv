@@ -1,6 +1,6 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is 887 - 10?,877,120,Y,8 hundreds + 8 tens + 7 ones - 1 tens = ?,Subtract one ten from 887: eight tens become seven tens. The result is 877.
-2,What is 641 - 200?,441,120,Y,6 hundreds + 4 tens + 1 ones - 2 hundreds = ?,Subtract two hundreds from 641: six hundreds become four hundreds. The result is 441.
-3,What is 578 - 34?,544,120,Y,"Subtract using place value. First subtract ones, then tens.",Subtract ones: 8-4 = 4; tens: 7-3 = 4. Keep five hundreds. The result is 544.
-4,What is 685 - 243?,442,240,Y,"Subtract using place value. First subtract ones, then tens, then hundreds.",Subtract ones: 5-3 = 2; tens: 8-4 = 4; hundreds: 6-2 = 4. The result is 442.
-5,What is 624 - 261?,363,240,Y,Subtract with regrouping. Regroup 1 hundreds as 10 tens.,Subtract ones: 4-1 = 3. Regroup one hundred to get 5 hundreds and 12 tens. Subtract tens: 12-6 = 6; hundreds: 5-2 = 3. The result is 363.
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,video
+1,What is 887 - 10?,877,120,Y,8 hundreds + 8 tens + 7 ones - 1 tens = ?,Subtract one ten from 887: eight tens become seven tens. The result is 877.,videos/Grade 3/Unit 3/place-three-digit-arithmetic.mp4
+2,What is 641 - 200?,441,120,Y,6 hundreds + 4 tens + 1 ones - 2 hundreds = ?,Subtract two hundreds from 641: six hundreds become four hundreds. The result is 441.,videos/Grade 3/Unit 3/place-three-digit-arithmetic.mp4
+3,What is 578 - 34?,544,120,Y,"Subtract using place value. First subtract ones, then tens.",Subtract ones: 8-4 = 4; tens: 7-3 = 4. Keep five hundreds. The result is 544.,videos/Grade 3/Unit 3/place-three-digit-arithmetic.mp4
+4,What is 685 - 243?,442,240,Y,"Subtract using place value. First subtract ones, then tens, then hundreds.",Subtract ones: 5-3 = 2; tens: 8-4 = 4; hundreds: 6-2 = 4. The result is 442.,videos/Grade 3/Unit 3/place-three-digit-arithmetic.mp4
+5,What is 624 - 261?,363,240,Y,Subtract with regrouping. Regroup 1 hundreds as 10 tens.,Subtract ones: 4-1 = 3. Regroup one hundred to get 5 hundreds and 12 tens. Subtract tens: 12-6 = 6; hundreds: 5-2 = 3. The result is 363.,videos/Grade 1/Unit 2/arithmetic-subtract-whole-numbers-column-method.mp4

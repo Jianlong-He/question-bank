@@ -1,6 +1,6 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Compute (−12) × (−8).,96,60,Y,Negative times negative is positive.,12 × 8 = 96. An even number of negative factors gives a positive product; an odd number gives a negative product. Multiply magnitudes and then attach the sign.
-2,Compute |−6| × (-11).,-66,60,Y,Positive × negative is negative.,|-6| × (-11) = 6 × (-11) = -66.
-3,Compute (−81) ÷ 9. Simplify your answer before entering it.,-9,60,Y,Negative ÷ positive is negative.,-81 ÷ 9 = -9. Different signs give a negative quotient. Multiply the quotient by the divisor to recover the dividend.
-4,Compute (−2/5) ÷ 8. Simplify your answer before entering it.,-1/20,60,Y,Rewrite division as multiply by the reciprocal.,(-2/5) × 1/8 = -2/40 = -1/20.
-5,Compute (−3/4) × (−8/9). Simplify your answer before entering it.,2/3,60,Y,Negative × negative is positive.,"24/36 = 2/3. Determine the sign from the factors, multiply numerators and denominators, then divide both by their common factor."
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,video
+1,Compute (−12) × (−8).,96,60,Y,Negative times negative is positive.,12 × 8 = 96. An even number of negative factors gives a positive product; an odd number gives a negative product. Multiply magnitudes and then attach the sign.,videos/Grade 7/Unit 5/integer-product-parity.mp4
+2,Compute |−6| × (-11).,-66,60,Y,Positive × negative is negative.,|-6| × (-11) = 6 × (-11) = -66.,videos/Grade 7/Unit 5/absolute-value-multiply-divide.mp4
+3,Compute (−81) ÷ 9. Simplify your answer before entering it.,-9,60,Y,Negative ÷ positive is negative.,-81 ÷ 9 = -9. Different signs give a negative quotient. Multiply the quotient by the divisor to recover the dividend.,videos/Grade 7/Unit 5/integer-divide-opposite-signs.mp4
+4,Compute (−2/5) ÷ 8. Simplify your answer before entering it.,-1/20,60,Y,Rewrite division as multiply by the reciprocal.,(-2/5) × 1/8 = -2/40 = -1/20.,videos/Grade 7/Unit 5/fraction-signed-whole-division.mp4
+5,Compute (−3/4) × (−8/9). Simplify your answer before entering it.,2/3,60,Y,Negative × negative is positive.,"24/36 = 2/3. Determine the sign from the factors, multiply numerators and denominators, then divide both by their common factor.",videos/Grade 7/Unit 5/fraction-signed-product.mp4

@@ -1,6 +1,6 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is 63 + 26 + 9 + 22 ?,120,300,Y,Add tens and ones separately,Add tens: 60+20+0+20 = 100. Add ones: 3+6+9+2 = 20. Combine: 100+20 = 120.
-2,"Tom has 22 blue marbles, 23 yellow marbles, 32 green marbles and 4 red marbles. How many total marbles does Tom have?",81,600,Y,Add all marbles,"Add each colour once: 22+23 = 45, then 45+32 = 77, and 77+4 = 81 marbles."
-3,Select the sum equal to 35 + 41 + 26 + 65: ~~167 | 177 | 187 | 267~~,167,600,Y,Add tens and ones separately,Add tens: 30+40+20+60 = 150. Add ones: 5+1+6+5 = 17. Total: 150+17 = 167. Select 167.
-4,"Amy read 63 pages on Monday, 81 pages on Tuesday, 61 pages on Wednesday and 59 pages on Thursday. How many pages did she read in total?",264,600,Y,Add 63 + 81 + 61 + 59,Pair the page counts: 63+81 = 144 and 61+59 = 120. Add: 144+120 = 264 pages.
-5,A school buys 78 pencils for each of four classes. How many pencils do they have in total?,312,600,Y,Add 78 four times,Four classes need 78+78+78+78 pencils. Each pair of classes needs 156. Add both pairs: 156+156 = 312 pencils.
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,video
+1,What is 63 + 26 + 9 + 22 ?,120,300,Y,Add tens and ones separately,Add tens: 60+20+0+20 = 100. Add ones: 3+6+9+2 = 20. Combine: 100+20 = 120.,videos/Grade 2/Unit 4/add-four-numbers-place.mp4
+2,"Tom has 22 blue marbles, 23 yellow marbles, 32 green marbles and 4 red marbles. How many total marbles does Tom have?",81,600,Y,Add all marbles,"Add each colour once: 22+23 = 45, then 45+32 = 77, and 77+4 = 81 marbles.",videos/Grade 2/Unit 4/add-four-numbers-place.mp4
+3,Select the sum equal to 35 + 41 + 26 + 65: ~~167 | 177 | 187 | 267~~,167,600,Y,Add tens and ones separately,Add tens: 30+40+20+60 = 150. Add ones: 5+1+6+5 = 17. Total: 150+17 = 167. Select 167.,videos/Grade 2/Unit 4/add-four-numbers-place.mp4
+4,"Amy read 63 pages on Monday, 81 pages on Tuesday, 61 pages on Wednesday and 59 pages on Thursday. How many pages did she read in total?",264,600,Y,Add 63 + 81 + 61 + 59,Pair the page counts: 63+81 = 144 and 61+59 = 120. Add: 144+120 = 264 pages.,videos/Grade 2/Unit 4/add-four-numbers-place.mp4
+5,A school buys 78 pencils for each of four classes. How many pencils do they have in total?,312,600,Y,Add 78 four times,Four classes need 78+78+78+78 pencils. Each pair of classes needs 156. Add both pairs: 156+156 = 312 pencils.,videos/Grade 2/Unit 4/add-four-numbers-place.mp4

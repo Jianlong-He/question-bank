@@ -1,6 +1,6 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Find the common ratio of 3, 12, 48, 192.",4,60,Y,Divide a term by the preceding term.|12/3 = 4.,"Divide each term by its predecessor: 4, 4, 4. They are equal, so r = 4."
-2,"Find the next term of the geometric sequence 100, 50, 25, 12.5.",6.25|25/4,60,Y,The common ratio is 1/2.|Multiply 12.5 by 1/2.,"Under the stated geometric pattern, r = 1/2. Multiply the last term: 25/2 × (1/2) = 25/4."
-3,"For a geometric sequence with a_1 = 2 and r = 3, find a_4.",54,60,Y,Use a_n = a_1 r^(n-1).|Compute 2 × 3^3.,a_4 = a_1 r^(4-1) = 2 × 3^3 = 2 × 27 = 54.
-4,"Given a_1 = 40 and a_n = 0.5a_(n-1), find a_3.",10,60,Y,Multiply by 0.5 twice.|a_2 = 20.,"Apply the recursive step for n >= 2, keeping the given first term: 40, 20, 10. The requested term a_3 = 10."
-5,"Is 9, 6, 3, 0 arithmetic or geometric?",arithmetic|an arithmetic sequence,60,Y,Check the differences.|Each difference is -3.,"Consecutive differences: -3, -3, -3. Consecutive ratios where defined: 2/3, 1/2, 0. The constant difference makes this arithmetic."
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,video
+1,"Find the common ratio of 3, 12, 48, 192.",4,60,Y,Divide a term by the preceding term.|12/3 = 4.,"Divide each term by its predecessor: 4, 4, 4. They are equal, so r = 4.",videos/Grade 9/Unit 12/sequence-geometric-ratio-next.mp4
+2,"Find the next term of the geometric sequence 100, 50, 25, 12.5.",6.25|25/4,60,Y,The common ratio is 1/2.|Multiply 12.5 by 1/2.,"Under the stated geometric pattern, r = 1/2. Multiply the last term: 25/2 × (1/2) = 25/4.",videos/Grade 9/Unit 12/sequence-geometric-ratio-next.mp4
+3,"For a geometric sequence with a_1 = 2 and r = 3, find a_4.",54,60,Y,Use a_n = a_1 r^(n-1).|Compute 2 × 3^3.,a_4 = a_1 r^(4-1) = 2 × 3^3 = 2 × 27 = 54.,videos/Grade 9/Unit 12/sequence-geometric-explicit-term.mp4
+4,"Given a_1 = 40 and a_n = 0.5a_(n-1), find a_3.",10,60,Y,Multiply by 0.5 twice.|a_2 = 20.,"Apply the recursive step for n >= 2, keeping the given first term: 40, 20, 10. The requested term a_3 = 10.",videos/Grade 9/Unit 12/sequence-geometric-recursive.mp4
+5,"Is 9, 6, 3, 0 arithmetic or geometric?",arithmetic|an arithmetic sequence,60,Y,Check the differences.|Each difference is -3.,"Consecutive differences: -3, -3, -3. Consecutive ratios where defined: 2/3, 1/2, 0. The constant difference makes this arithmetic.",videos/Grade 9/Unit 12/sequence-classify-difference-ratio.mp4

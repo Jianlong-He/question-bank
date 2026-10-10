@@ -1,6 +1,6 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Find √169.,13,60,Y,169 is a perfect square.|13 × 13 = 169.,The requested real principal root is 13 because (13)^2 = 169. Choose the nonnegative root for an even index.
-2,Find √1.44.,1.2,60,Y,Write 1.44 as 144/100.|√144 = 12 and √100 = 10.,The requested real principal root is 6/5 because (6/5)^2 = 36/25. Choose the nonnegative root for an even index.
-3,Find the cube root of 125.,5,60,Y,Find the number whose cube is 125.|5^3 = 125.,The requested real root is 5 because (5)^3 = 125. An odd root has the same sign as its radicand.
-4,Find the principal fourth root of 81.,3,60,Y,"Find the nonnegative fourth root.|3^4 = 81, and the principal even root is nonnegative.",The requested real principal root is 3 because (3)^4 = 81. Choose the nonnegative root for an even index.
-5,Between which two consecutive integers does √70 lie? Enter the lower and then upper integer.,"8, 9",60,Y,Compare 70 with nearby perfect squares.|8^2 = 64 and 9^2 = 81.,"8^2 = 64 < 70 < 81 = 9^2. Square root preserves order for nonnegative numbers, so 8 < √70 < 9."
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,video
+1,Find √169.,13,60,Y,169 is a perfect square.|13 × 13 = 169.,The requested real principal root is 13 because (13)^2 = 169. Choose the nonnegative root for an even index.,videos/Grade 8/Unit 1/square-cube-roots.mp4
+2,Find √1.44.,1.2,60,Y,Write 1.44 as 144/100.|√144 = 12 and √100 = 10.,The requested real principal root is 6/5 because (6/5)^2 = 36/25. Choose the nonnegative root for an even index.,videos/Grade 9/Unit 13/root-decimal-perfect-square.mp4
+3,Find the cube root of 125.,5,60,Y,Find the number whose cube is 125.|5^3 = 125.,The requested real root is 5 because (5)^3 = 125. An odd root has the same sign as its radicand.,videos/Grade 8/Unit 1/root-cube-positive-negative.mp4
+4,Find the principal fourth root of 81.,3,60,Y,"Find the nonnegative fourth root.|3^4 = 81, and the principal even root is nonnegative.",The requested real principal root is 3 because (3)^4 = 81. Choose the nonnegative root for an even index.,videos/Grade 9/Unit 13/root-higher-index-principal.mp4
+5,Between which two consecutive integers does √70 lie? Enter the lower and then upper integer.,"8, 9",60,Y,Compare 70 with nearby perfect squares.|8^2 = 64 and 9^2 = 81.,"8^2 = 64 < 70 < 81 = 9^2. Square root preserves order for nonnegative numbers, so 8 < √70 < 9.",videos/Grade 8/Unit 1/root-bound-compare.mp4

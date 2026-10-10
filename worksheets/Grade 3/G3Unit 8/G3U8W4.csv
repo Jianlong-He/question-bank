@@ -1,12 +1,12 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
-1,Is 2 even or odd?,even|Even|EVEN,50,Y,"Even numbers are integers exactly divisible by 2, leaving no remainder. They always end in 0, 2, 4, 6, or 8","Two objects make one complete pair: 2 = 2 x 1, with no leftover. Therefore 2 is even.",
-2,Is 7 even or odd?,odd|Odd|ODD,50,Y,"Odd numbers are integers not divisible by 2, leaving a remainder of 1 when divided. They always end in 1, 3, 5, 7, or 9 in the ones place",Seven objects make 3 pairs with 1 left over: 7 = 2 x 3+1. Therefore 7 is odd.,
-3,Is 22 even or odd?,even|Even|EVEN,50,Y,Look at the ones place.,"The ones digit is 2, an even ending. Also 22 = 2 x 11, so 22 is even.",
-4,Is 34 even or odd?,even|Even|EVEN,50,Y,Look at the ones place.,"The ones digit is 4, an even ending. Also 34 = 2 x 17, so 34 is even.",
-5,Is 43 even or odd?,odd|Odd|ODD,50,Y,Look at the ones place.,"The ones digit is 3, an odd ending. Also 43 = 2 x 21+1, so 43 is odd.",
-6,What is the sum of 16 + 24? Is it even or odd?,"40, even",50,Y,Even + Even = ?,"16+24 = 40. The sum ends in 0 and equals 2 x 20, so it is even. Fill 40, even.",
-7,What is the sum of 15 + 23? Is it even or odd?,"38, even",50,Y,odd + odd = ?,"15+23 = 38. The sum ends in 8 and equals 2 x 19, so it is even. Two odd addends have leftovers that pair together.",
-8,Is the product of 9 x 7 even or odd?,odd|Odd|ODD,50,Y,Odd × Odd = ?,"9 x 7 = 63, which is odd. A product of two odd whole numbers is odd.",
-9,Is 12 × 15 even or odd?,even|Even|EVEN,50,Y,Check if one number is even.,"12 x 15 = 180, which is even. Because 12 is even, it can supply a factor of 2 to the product.",
-10,"Is 5,231 even or odd?",odd|Odd|ODD,50,Y,Look at the ones place.,"The ones digit of 5231 is 1. Full tens pair evenly and one single is left, so 5231 is odd.",
-11,Select the option that would make an odd product A) Even x odd  B) Even x Even  C) odd x odd ~~A | B | C~~,C,50,Y,Remember: If at least one number is even...,"A and B both have an even factor, so both give even products. C multiplies two odd factors, giving an odd product. Select C.",
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL,video
+1,Is 2 even or odd?,even|Even|EVEN,50,Y,"Even numbers are integers exactly divisible by 2, leaving no remainder. They always end in 0, 2, 4, 6, or 8","Two objects make one complete pair: 2 = 2 x 1, with no leftover. Therefore 2 is even.",,videos/Grade 2/Unit 2/parity-pair-object-groups.mp4
+2,Is 7 even or odd?,odd|Odd|ODD,50,Y,"Odd numbers are integers not divisible by 2, leaving a remainder of 1 when divided. They always end in 1, 3, 5, 7, or 9 in the ones place",Seven objects make 3 pairs with 1 left over: 7 = 2 x 3+1. Therefore 7 is odd.,,videos/Grade 2/Unit 2/parity-pair-object-groups.mp4
+3,Is 22 even or odd?,even|Even|EVEN,50,Y,Look at the ones place.,"The ones digit is 2, an even ending. Also 22 = 2 x 11, so 22 is even.",,videos/Grade 2/Unit 2/parity-last-digit-small.mp4
+4,Is 34 even or odd?,even|Even|EVEN,50,Y,Look at the ones place.,"The ones digit is 4, an even ending. Also 34 = 2 x 17, so 34 is even.",,videos/Grade 2/Unit 2/parity-last-digit-small.mp4
+5,Is 43 even or odd?,odd|Odd|ODD,50,Y,Look at the ones place.,"The ones digit is 3, an odd ending. Also 43 = 2 x 21+1, so 43 is odd.",,videos/Grade 2/Unit 2/parity-last-digit-small.mp4
+6,What is the sum of 16 + 24? Is it even or odd?,"40, even",50,Y,Even + Even = ?,"16+24 = 40. The sum ends in 0 and equals 2 x 20, so it is even. Fill 40, even.",,videos/Grade 2/Unit 2/parity-total-after-addition.mp4
+7,What is the sum of 15 + 23? Is it even or odd?,"38, even",50,Y,odd + odd = ?,"15+23 = 38. The sum ends in 8 and equals 2 x 19, so it is even. Two odd addends have leftovers that pair together.",,videos/Grade 2/Unit 2/parity-total-after-addition.mp4
+8,Is the product of 9 x 7 even or odd?,odd|Odd|ODD,50,Y,Odd × Odd = ?,"9 x 7 = 63, which is odd. A product of two odd whole numbers is odd.",,videos/Grade 3/Unit 8/parity-products-early.mp4
+9,Is 12 × 15 even or odd?,even|Even|EVEN,50,Y,Check if one number is even.,"12 x 15 = 180, which is even. Because 12 is even, it can supply a factor of 2 to the product.",,videos/Grade 3/Unit 8/parity-products-early.mp4
+10,"Is 5,231 even or odd?",odd|Odd|ODD,50,Y,Look at the ones place.,"The ones digit of 5231 is 1. Full tens pair evenly and one single is left, so 5231 is odd.",,videos/Grade 2/Unit 2/parity-last-digit-small.mp4
+11,Select the option that would make an odd product A) Even x odd  B) Even x Even  C) odd x odd ~~A | B | C~~,C,50,Y,Remember: If at least one number is even...,"A and B both have an even factor, so both give even products. C multiplies two odd factors, giving an odd product. Select C.",,videos/Grade 3/Unit 8/parity-products-early.mp4

@@ -1,11 +1,11 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL
-1,What is 123 + 10?,133,300,Y,1 hundreds + 2 tens + 3 ones + 1 tens?,10 is one ten. Increase the tens count in 123 from 2 to 3: 123+10 = 133.,
-2,What is 457 + 100?,557,300,Y,4 hundreds + 5 tens + 7 ones + 1 hundreds?,100 is one hundred. Increase the hundreds count in 457 from 4 to 5: 457+100 = 557.,
-3,What is 145 + 30?,175,300,Y,1 hundreds + 4 tens + 5 ones + 3 tens = ?,30 is three tens. Four tens plus three tens make seven tens; keep 1 hundred and 5 ones. The answer is 175.,
-4,What is 632 + 200?,832,300,Y,6 hundreds + 3 tens + 2 ones + 2 hundreds = ?,200 is two hundreds. Six hundreds plus two hundreds make eight hundreds; keep 3 tens and 2 ones. The answer is 832.,
-5,What is 245 + 13 ?,258,300,Y,"Add using place value. First add ones, then tens",Add ones: 5+3 = 8. Add tens: 4+1 = 5. Keep 2 hundreds. Thus 245+13 = 258.,
-6,What is 123 + 456 ?,579,300,Y,"Add using place value. First add ones, then tens, then hundreds",Add ones: 3+6 = 9; tens: 2+5 = 7; hundreds: 1+4 = 5. The sum is 579.,
-7,What is 156 + 14?,170,600,Y,Break 156 as 100 + 50 + 6. Then add 6 ones to 14 ones = 20. Now add 100 + 50 + 20 = 170,"Break 156 into 100+50+6. Combine 6+14 = 20, then add 100+50+20 = 170.",https://i.ibb.co/TMWRgSKX/i7.jpg
-8,What is 466 + 323,789,600,Y,"Add using place value. First add ones, then tens, then hundreds",Add ones: 6+3 = 9; tens: 6+2 = 8; hundreds: 4+3 = 7. The sum is 789.,
-9,What is 375 + 115?,490,600,Y,Break 375 as 300 + 70 + 5. Add 5 ones to 115 = 120. Now add 300 + 70 + 120 = ?,"Add ones: 5+5 = 10, so regroup one ten and write zero ones. Add tens: 7+1+1 = 9. Add hundreds: 3+1 = 4. The sum is 490.",
-10,What is 128 + 52?,180,600,Y,Break 128 as 100 + 20 + 8.Add 52 + 8 = 60. Now add 100 + 20 + 60 = 180,"Add ones: 8+2 = 10, so regroup one ten. The tens total is 2+5+1 = 8. Keep the 1 hundred. The sum is 180.",
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,Image URL,video
+1,What is 123 + 10?,133,300,Y,1 hundreds + 2 tens + 3 ones + 1 tens?,10 is one ten. Increase the tens count in 123 from 2 to 3: 123+10 = 133.,,videos/Grade 2/Unit 4/add-tens-hundreds-place.mp4
+2,What is 457 + 100?,557,300,Y,4 hundreds + 5 tens + 7 ones + 1 hundreds?,100 is one hundred. Increase the hundreds count in 457 from 4 to 5: 457+100 = 557.,,videos/Grade 2/Unit 4/add-tens-hundreds-place.mp4
+3,What is 145 + 30?,175,300,Y,1 hundreds + 4 tens + 5 ones + 3 tens = ?,30 is three tens. Four tens plus three tens make seven tens; keep 1 hundred and 5 ones. The answer is 175.,,videos/Grade 2/Unit 4/add-tens-hundreds-place.mp4
+4,What is 632 + 200?,832,300,Y,6 hundreds + 3 tens + 2 ones + 2 hundreds = ?,200 is two hundreds. Six hundreds plus two hundreds make eight hundreds; keep 3 tens and 2 ones. The answer is 832.,,videos/Grade 2/Unit 4/add-tens-hundreds-place.mp4
+5,What is 245 + 13 ?,258,300,Y,"Add using place value. First add ones, then tens",Add ones: 5+3 = 8. Add tens: 4+1 = 5. Keep 2 hundreds. Thus 245+13 = 258.,,videos/Grade 2/Unit 4/add-three-digit-no-regroup.mp4
+6,What is 123 + 456 ?,579,300,Y,"Add using place value. First add ones, then tens, then hundreds",Add ones: 3+6 = 9; tens: 2+5 = 7; hundreds: 1+4 = 5. The sum is 579.,,videos/Grade 2/Unit 4/add-three-digit-no-regroup.mp4
+7,What is 156 + 14?,170,600,Y,Break 156 as 100 + 50 + 6. Then add 6 ones to 14 ones = 20. Now add 100 + 50 + 20 = 170,"Break 156 into 100+50+6. Combine 6+14 = 20, then add 100+50+20 = 170.",https://i.ibb.co/TMWRgSKX/i7.jpg,videos/Grade 1/Unit 2/arithmetic-add-whole-numbers-column-method.mp4
+8,What is 466 + 323,789,600,Y,"Add using place value. First add ones, then tens, then hundreds",Add ones: 6+3 = 9; tens: 6+2 = 8; hundreds: 4+3 = 7. The sum is 789.,,videos/Grade 2/Unit 4/add-three-digit-no-regroup.mp4
+9,What is 375 + 115?,490,600,Y,Break 375 as 300 + 70 + 5. Add 5 ones to 115 = 120. Now add 300 + 70 + 120 = ?,"Add ones: 5+5 = 10, so regroup one ten and write zero ones. Add tens: 7+1+1 = 9. Add hundreds: 3+1 = 4. The sum is 490.",,videos/Grade 1/Unit 2/arithmetic-add-whole-numbers-column-method.mp4
+10,What is 128 + 52?,180,600,Y,Break 128 as 100 + 20 + 8.Add 52 + 8 = 60. Now add 100 + 20 + 60 = 180,"Add ones: 8+2 = 10, so regroup one ten. The tens total is 2+5+1 = 8. Keep the 1 hundred. The sum is 180.",,videos/Grade 1/Unit 2/arithmetic-add-whole-numbers-column-method.mp4

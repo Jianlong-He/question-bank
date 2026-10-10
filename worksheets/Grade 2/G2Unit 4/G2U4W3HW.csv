@@ -1,6 +1,6 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is 234 + 352 ?,586,300,Y,"Add using place value. First add ones, then tens, then hundreds",Add ones: 4+2 = 6; tens: 3+5 = 8; hundreds: 2+3 = 5. The sum is 586.
-2,What is 267 + 13?,280,600,Y,Break 267 as 200 + 60 + 7. Then add 7 ones to 13 ones = 20. Now add 200 + 60 + 20 = 280,"Add ones: 7+3 = 10, so regroup one ten. Tens: 6+1+1 = 8. Keep two hundreds. The sum is 280."
-3,What is 578 + 211,789,600,Y,"Add using place value. First add ones, then tens, then hundreds",Add ones: 8+1 = 9; tens: 7+1 = 8; hundreds: 5+2 = 7. The sum is 789.
-4,What is 485 + 115?,600,600,Y,Break 485 as 400 + 80 + 5. Add 5 ones to 115 = 120. Now add 400 + 80 + 120 = ?,"Add ones: 5+5 = 10, so regroup one ten. Tens: 8+1+1 = 10 tens, so regroup one hundred. Hundreds: 4+1+1 = 6. The sum is 600."
-5,What is 246 + 54?,300,600,Y,Break 246 as 200 + 40 + 6. Add 54 + 6 = 60. Now add 200 + 40 + 60 = 300,"Add ones: 6+4 = 10, so regroup one ten. Tens: 4+5+1 = 10 tens, so regroup one hundred. Hundreds: 2+1 = 3. The sum is 300."
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,video
+1,What is 234 + 352 ?,586,300,Y,"Add using place value. First add ones, then tens, then hundreds",Add ones: 4+2 = 6; tens: 3+5 = 8; hundreds: 2+3 = 5. The sum is 586.,videos/Grade 2/Unit 4/add-three-digit-no-regroup.mp4
+2,What is 267 + 13?,280,600,Y,Break 267 as 200 + 60 + 7. Then add 7 ones to 13 ones = 20. Now add 200 + 60 + 20 = 280,"Add ones: 7+3 = 10, so regroup one ten. Tens: 6+1+1 = 8. Keep two hundreds. The sum is 280.",videos/Grade 1/Unit 2/arithmetic-add-whole-numbers-column-method.mp4
+3,What is 578 + 211,789,600,Y,"Add using place value. First add ones, then tens, then hundreds",Add ones: 8+1 = 9; tens: 7+1 = 8; hundreds: 5+2 = 7. The sum is 789.,videos/Grade 2/Unit 4/add-three-digit-no-regroup.mp4
+4,What is 485 + 115?,600,600,Y,Break 485 as 400 + 80 + 5. Add 5 ones to 115 = 120. Now add 400 + 80 + 120 = ?,"Add ones: 5+5 = 10, so regroup one ten. Tens: 8+1+1 = 10 tens, so regroup one hundred. Hundreds: 4+1+1 = 6. The sum is 600.",videos/Grade 1/Unit 2/arithmetic-add-whole-numbers-column-method.mp4
+5,What is 246 + 54?,300,600,Y,Break 246 as 200 + 40 + 6. Add 54 + 6 = 60. Now add 200 + 40 + 60 = 300,"Add ones: 6+4 = 10, so regroup one ten. Tens: 4+5+1 = 10 tens, so regroup one hundred. Hundreds: 2+1 = 3. The sum is 300.",videos/Grade 1/Unit 2/arithmetic-add-whole-numbers-column-method.mp4

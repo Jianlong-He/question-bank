@@ -1,6 +1,6 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is 12 - 4 + 3?,11,50,Y,Only addition and subtraction -> go left to right.,"Addition and subtraction have equal priority. Work left to right: 12-4 = 8, then 8+3 = 11."
-2,What is 4 x 8 / 2?,16,50,Y,Only multiplication and division -> go left to right.,"Multiplication and division have equal priority. Work left to right: 4 x 8 = 32, then 32 divided by 2 = 16."
-3,What is 5 + 3 x 2?,11,50,Y,Order of expressions: Brackets -> Multiply/Divide -> Add/Subtract,Multiply first: 3 x 2 = 6. Then 5+6 = 11.
-4,What is 20 - 2 x 4?,12,50,Y,Order of expressions: Brackets -> Multiply/Divide -> Add/Subtract,Multiply first: 2 x 4 = 8. Then 20-8 = 12.
-5,A baker wants to fill 22 trays with 6 cookies on each. He already has 5 cookies. Estimate how many more cookies he needs to bake. Round only the tray count to the nearest ten.,115,50,Y,Use 20 trays. Keep 6 cookies per tray and the 5 cookies already baked unchanged.,"Round 22 trays to 20, keeping 6 cookies per tray and 5 cookies already baked. Estimate 20 x 6-5 = 120-5 = 115 more cookies."
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,video
+1,What is 12 - 4 + 3?,11,50,Y,Only addition and subtraction -> go left to right.,"Addition and subtraction have equal priority. Work left to right: 12-4 = 8, then 8+3 = 11.",videos/Grade 3/Unit 8/operations-equal-priority-early.mp4
+2,What is 4 x 8 / 2?,16,50,Y,Only multiplication and division -> go left to right.,"Multiplication and division have equal priority. Work left to right: 4 x 8 = 32, then 32 divided by 2 = 16.",videos/Grade 3/Unit 8/operations-equal-priority-early.mp4
+3,What is 5 + 3 x 2?,11,50,Y,Order of expressions: Brackets -> Multiply/Divide -> Add/Subtract,Multiply first: 3 x 2 = 6. Then 5+6 = 11.,videos/Grade 3/Unit 8/operations-multiply-divide-before-add.mp4
+4,What is 20 - 2 x 4?,12,50,Y,Order of expressions: Brackets -> Multiply/Divide -> Add/Subtract,Multiply first: 2 x 4 = 8. Then 20-8 = 12.,videos/Grade 3/Unit 8/operations-multiply-divide-before-add.mp4
+5,A baker wants to fill 22 trays with 6 cookies on each. He already has 5 cookies. Estimate how many more cookies he needs to bake. Round only the tray count to the nearest ten.,115,50,Y,Use 20 trays. Keep 6 cookies per tray and the 5 cookies already baked unchanged.,"Round 22 trays to 20, keeping 6 cookies per tray and 5 cookies already baked. Estimate 20 x 6-5 = 120-5 = 115 more cookies.",videos/Grade 3/Unit 8/estimate-groups-plus-minus-early.mp4

@@ -1,6 +1,6 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
-1,Choose the correct option. : A B C,C,240,Y,Division and multiplication undo each other: divisor times quotient gives dividend.,"12 ÷3=4 is checked by 4 ×3=12, choice C. A and B are division statements.",https://i.ibb.co/3yTL3yz9/image.png
-2,A whole is divided into 13 equal parts. What fraction is 2 parts?,2/13,240,Y,Count selected equal parts over all equal parts.,Two selected equal parts out of 13 make 2/13.,
-3,"Which expression means ""divide by 1/2""?",B,240,Y,"Count the fractional pieces in each whole, then multiply by the whole count.",Dividing by 1/2 multiplies by its reciprocal 2. Choose B.,https://i.ibb.co/hxfMQ0tL/image.png
-4,Calculate the expression. 16 ÷ 2,8,240,Y,Use the related multiplication fact to count equal groups.,"16 ÷ 2: 2 × 8 = 16, remainder 0. Thus 8 + 0/2 = 8. Check: 8 × 2 = 16.",
-5,Fill the blanks using a fraction. 31 ÷ 17 = 31 × __,1/17,240,Y,A fraction bar means numerator divided by denominator. Dividing by a nonzero number multiplies by its reciprocal.,31 ÷17 =31 ×1/17; the reciprocal of 17 is 1/17.,
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL,video
+1,Choose the correct option. : A B C,C,240,Y,Division and multiplication undo each other: divisor times quotient gives dividend.,"12 ÷3=4 is checked by 4 ×3=12, choice C. A and B are division statements.",https://i.ibb.co/3yTL3yz9/image.png,videos/Grade 3/Unit 4/divide-fact-family-small.mp4
+2,A whole is divided into 13 equal parts. What fraction is 2 parts?,2/13,240,Y,Count selected equal parts over all equal parts.,Two selected equal parts out of 13 make 2/13.,,videos/Grade 3/Unit 5/fraction-read-parts-early.mp4
+3,"Which expression means ""divide by 1/2""?",B,240,Y,"Count the fractional pieces in each whole, then multiply by the whole count.",Dividing by 1/2 multiplies by its reciprocal 2. Choose B.,https://i.ibb.co/hxfMQ0tL/image.png,videos/Grade 5/Unit 7/fraction-whole-divide-unit-model.mp4
+4,Calculate the expression. 16 ÷ 2,8,240,Y,Use the related multiplication fact to count equal groups.,"16 ÷ 2: 2 × 8 = 16, remainder 0. Thus 8 + 0/2 = 8. Check: 8 × 2 = 16.",,videos/Grade 2/Unit 1/divide-count-equal-groups.mp4
+5,Fill the blanks using a fraction. 31 ÷ 17 = 31 × __,1/17,240,Y,A fraction bar means numerator divided by denominator. Dividing by a nonzero number multiplies by its reciprocal.,31 ÷17 =31 ×1/17; the reciprocal of 17 is 1/17.,,videos/Grade 5/Unit 7/fraction-division-notation.mp4

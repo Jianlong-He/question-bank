@@ -1,6 +1,6 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Select. Is 4/8 equal to 1/2? ~~Yes | No~~,Yes,240,Y,Split 1/2 into eighths.,"Yes. Four is half of eight, so 4/8 = 1/2."
-2,Select. Is 3/5 equal to 1/2? ~~Yes | No~~,No,240,Y,Is 3 pieces out of 5 more or less than half?,"No. Twice 3 is 6, greater than 5, so 3/5 is greater than half."
-3,"Select, which of the following is equal to 1/2? ~~3/6 | 1/4 | 3/7~~",3/6,240,Y,Half of 6 is what?,"Three is half of six, so 3/6 = 1/2. But 1/4 is less than half, and 3/7 is less than half since 2 x 3 = 6 < 7. Select 3/6."
-4,"Select True or False of the statement ""4/8 represents the same amount as 1/2"" ~~True | False~~",True,240,Y,Split each half into four equal pieces. Count how many pieces make the whole and how many make one half.,True. Split each half into 4 equal pieces: the whole then has 8 pieces and one half has 4. Thus 1/2 = 4/8.
-5,There are 9 pieces. Four are green and the rest are uncolored. What fraction of the pieces are green?,4/9,240,N,Count green pieces over all pieces.,"Four of the 9 pieces are green, giving 4/9 of the pieces."
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,video
+1,Select. Is 4/8 equal to 1/2? ~~Yes | No~~,Yes,240,Y,Split 1/2 into eighths.,"Yes. Four is half of eight, so 4/8 = 1/2.",videos/Grade 3/Unit 5/fraction-half-benchmark-early.mp4
+2,Select. Is 3/5 equal to 1/2? ~~Yes | No~~,No,240,Y,Is 3 pieces out of 5 more or less than half?,"No. Twice 3 is 6, greater than 5, so 3/5 is greater than half.",videos/Grade 3/Unit 5/fraction-half-benchmark-early.mp4
+3,"Select, which of the following is equal to 1/2? ~~3/6 | 1/4 | 3/7~~",3/6,240,Y,Half of 6 is what?,"Three is half of six, so 3/6 = 1/2. But 1/4 is less than half, and 3/7 is less than half since 2 x 3 = 6 < 7. Select 3/6.",videos/Grade 3/Unit 5/fraction-half-benchmark-early.mp4
+4,"Select True or False of the statement ""4/8 represents the same amount as 1/2"" ~~True | False~~",True,240,Y,Split each half into four equal pieces. Count how many pieces make the whole and how many make one half.,True. Split each half into 4 equal pieces: the whole then has 8 pieces and one half has 4. Thus 1/2 = 4/8.,videos/Grade 3/Unit 6/fraction-equivalent-bars-early.mp4
+5,There are 9 pieces. Four are green and the rest are uncolored. What fraction of the pieces are green?,4/9,240,N,Count green pieces over all pieces.,"Four of the 9 pieces are green, giving 4/9 of the pieces.",videos/Grade 3/Unit 5/fraction-read-parts-early.mp4

@@ -1,6 +1,6 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Round 47 to the nearest 10. What number do you get?,50,240,Y,Is the ones digit 5 or more?,47 is 3 from 50 and 7 from 40. Round to 50.
-2,Round 83 to the nearest 10. What number do you get?,80,240,Y,Is the ones digit 5 or more?,83 is 3 from 80 and 7 from 90. Round to 80.
-3,Round 462 to the nearest 100. What number do you get?,500,240,Y,Tens digit 5 or more?,462 is above the midpoint 450 between 400 and 500. Round to 500.
-4,Fill: Round 640 to the nearest 100 is __. Round 645 to the nearest 10 is __,"600, 650",360,Y,Use neighboring hundreds for the first number and neighboring tens for the second. Round halfway up.,"640 is below 650, so to hundreds it rounds to 600. 645 is halfway between 640 and 650, so to tens it rounds up to 650. Fill 600, 650."
-5,Select. Place 214 on a number line between 210 and 220. Which is it closer to? ~~210 | 220~~,210,240,Y,Think of is it the same as round to the nearest 100 or 10?,214 is 4 from 210 and 6 from 220. It is closer to 210.
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,video
+1,Round 47 to the nearest 10. What number do you get?,50,240,Y,Is the ones digit 5 or more?,47 is 3 from 50 and 7 from 40. Round to 50.,videos/Grade 3/Unit 3/number-rounding-whole.mp4
+2,Round 83 to the nearest 10. What number do you get?,80,240,Y,Is the ones digit 5 or more?,83 is 3 from 80 and 7 from 90. Round to 80.,videos/Grade 3/Unit 3/number-rounding-whole.mp4
+3,Round 462 to the nearest 100. What number do you get?,500,240,Y,Tens digit 5 or more?,462 is above the midpoint 450 between 400 and 500. Round to 500.,videos/Grade 3/Unit 3/round-hundreds-thousands.mp4
+4,Fill: Round 640 to the nearest 100 is __. Round 645 to the nearest 10 is __,"600, 650",360,Y,Use neighboring hundreds for the first number and neighboring tens for the second. Round halfway up.,"640 is below 650, so to hundreds it rounds to 600. 645 is halfway between 640 and 650, so to tens it rounds up to 650. Fill 600, 650.",videos/Grade 3/Unit 3/round-hundreds-thousands.mp4
+5,Select. Place 214 on a number line between 210 and 220. Which is it closer to? ~~210 | 220~~,210,240,Y,Think of is it the same as round to the nearest 100 or 10?,214 is 4 from 210 and 6 from 220. It is closer to 210.,videos/Grade 3/Unit 3/number-rounding-whole.mp4

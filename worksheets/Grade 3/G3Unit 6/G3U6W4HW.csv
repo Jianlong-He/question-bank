@@ -1,6 +1,6 @@
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,There are 12 pieces. Five are yellow and the rest are uncolored. What fraction of the pieces are yellow?,5/12,240,N,Use the yellow-piece count as numerator and total-piece count as denominator.,Five of the 12 pieces are yellow. The fraction of the pieces that are yellow is 5/12.
-2,Select. Are 1/4 and 2/8 equal? ~~Yes | No~~,Yes,240,Y,4 x 2 = 8,Yes. Multiplying numerator and denominator of 1/4 by 2 gives 2/8.
-3,Fill in the missing number 1/2 = ?/10,5,240,Y,2 x 5 = 10,The denominator changes from 2 to 10 by multiplying by 5. Multiply 1 by 5 too: 1/2 = 5/10. The missing number is 5.
-4,Fill in the missing number 3/4 = 9/?,12,240,Y,3 x 3 = 9,The numerator changes from 3 to 9 by multiplying by 3. Multiply 4 by 3 too: 3/4 = 9/12. The missing denominator is 12.
-5,Select. The interval from 0 to 1 on a number line is divided into 8 equal parts. Where is 5/8? ~~3-jumps-from-0 | 5-jumps-from-0 | 8-jumps-from-0~~,5-jumps-from-0,240,Y,Count the equal spaces.,Each interval from 0 to 1 is 1/8. Five jumps from 0 reach 5/8. Select 5-jumps-from-0.
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,video
+1,There are 12 pieces. Five are yellow and the rest are uncolored. What fraction of the pieces are yellow?,5/12,240,N,Use the yellow-piece count as numerator and total-piece count as denominator.,Five of the 12 pieces are yellow. The fraction of the pieces that are yellow is 5/12.,videos/Grade 3/Unit 5/fraction-read-parts-early.mp4
+2,Select. Are 1/4 and 2/8 equal? ~~Yes | No~~,Yes,240,Y,4 x 2 = 8,Yes. Multiplying numerator and denominator of 1/4 by 2 gives 2/8.,videos/Grade 3/Unit 6/fraction-equivalent-bars-early.mp4
+3,Fill in the missing number 1/2 = ?/10,5,240,Y,2 x 5 = 10,The denominator changes from 2 to 10 by multiplying by 5. Multiply 1 by 5 too: 1/2 = 5/10. The missing number is 5.,videos/Grade 3/Unit 6/fraction-equivalent-bars-early.mp4
+4,Fill in the missing number 3/4 = 9/?,12,240,Y,3 x 3 = 9,The numerator changes from 3 to 9 by multiplying by 3. Multiply 4 by 3 too: 3/4 = 9/12. The missing denominator is 12.,videos/Grade 3/Unit 6/fraction-equivalent-bars-early.mp4
+5,Select. The interval from 0 to 1 on a number line is divided into 8 equal parts. Where is 5/8? ~~3-jumps-from-0 | 5-jumps-from-0 | 8-jumps-from-0~~,5-jumps-from-0,240,Y,Count the equal spaces.,Each interval from 0 to 1 is 1/8. Five jumps from 0 reach 5/8. Select 5-jumps-from-0.,videos/Grade 3/Unit 5/fraction-line-to-one-early.mp4
