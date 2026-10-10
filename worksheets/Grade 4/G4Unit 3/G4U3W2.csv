@@ -1,11 +1,11 @@
-﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Fill: 6 × 10 = __ .,60,120,Y,"Since you multiply by 10, add one zero to 6",60
-2,Fill: 3 × 100 = __ ,300,120,Y," When you multiply by 100, add two zeros at the end",300
-3,Fill: 8 × 1000 = __ ,8000,120,Y," When you multiply by 1000, add three zeros at the end",8000
-4,Fill: 3 × 40 = __ .,120,240,Y,"For 3 ×40: Break 40 into 4×10, so 3 × 4=12, then add one zero",120
-5,Fill: 8 × 200 = __ .,1600,240,Y,"For 8 × 200: Break 200 into 2×100, so 8 × 2=16, then add two zeros",1600
-6,Fill: 7 × 3000 = __ .,21000,240,Y,"For 7 × 3000: Break 3000 into 3×1000, so 7 × 3=21, then add three zeros",21000
-7,Select all expressions equal to 300: ~~30×10 | 3×100 | 3×10 | 6×50 | 300×1~~,"30×10,3×100,6×50,300×1",300,Y,Try each one: Does 30×10 make 300?,"30×10,3×100,6×50,300×1"
-8,Select all expressions equal to 4800: ~~48×100 | 8×600 | 4×1000 | 12×400 | 6×800~~,"48×100,8×600, 12×400,6×800",600,Y,"First find 48 × 100: that is 4800; For 8 × 600: break 600 into 6 × 100, so 8 × 6=48, then add two zeros = 4800","48×100,8×600, 12×400,6×800"
-9,A toy costs 45 dollars. How much do 100 toys cost?,4500,120,Y,This means 45 × 100,4500
-10,"Fill: 7 × 60 = __ , 8 × 200 = __ , and the difference between them is ____ (difference is  8 × 200 - 7 × 60 )","420, 1600,1180",600,Y,"For 7 × 60: Break 60 into 6 × 10, so 7 × 6=42, then add one zero = 420; For 8 ×200: Break 200 into 2× 100, so 8 × 2 = 16, then add two zeros = 1600; For the difference: find 1600-420.","420, 1600,1180"
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 6 × 10 = __ .,60,120,Y,"Multiplying a whole number by 10, 100 or 1000 moves its digits one, two or three places left on a place-value chart.",Split 6 into 6. Multiply each part: 6 x 10 = 60. Add: 60 = 60.
+2,Fill: 3 × 100 = __ ,300,120,Y,"Multiplying a whole number by 10, 100 or 1000 moves its digits one, two or three places left on a place-value chart.",Split 3 into 3. Multiply each part: 3 x 100 = 300. Add: 300 = 300.
+3,Fill: 8 × 1000 = __ ,8000,120,Y,"Multiplying a whole number by 10, 100 or 1000 moves its digits one, two or three places left on a place-value chart.",Split 8 into 8. Multiply each part: 8 x 1000 = 8000. Add: 8000 = 8000.
+4,Fill: 3 × 40 = __ .,120,240,Y,"Multiply the small counts, then multiply by their place-value unit.",Split 40 into 40. Multiply each part: 40 x 3 = 120. Add: 120 = 120.
+5,Fill: 8 × 200 = __ .,1600,240,Y,"Multiply the small counts, then multiply by their place-value unit.",Split 200 into 200. Multiply each part: 200 x 8 = 1600. Add: 1600 = 1600.
+6,Fill: 7 × 3000 = __ .,21000,240,Y,"Multiply the small counts, then multiply by their place-value unit.",Split 3000 into 3000. Multiply each part: 3000 x 7 = 21000. Add: 21000 = 21000.
+7,Select all expressions equal to 300: ~~30×10 | 3×100 | 3×10 | 6×50 | 300×1~~,"30×10,3×100,6×50,300×1",300,Y,"Multiply the small counts, then multiply by their place-value unit.","Check every option: 30×10 = 300 (true); 3×100 = 300 (true); 3×10 = 30 (does not match); 6×50 = 300 (true); 300×1 = 300 (true). Select 30×10, 3×100, 6×50, 300×1."
+8,Select all expressions equal to 4800: ~~48×100 | 8×600 | 4×1000 | 12×400 | 6×800~~,"48×100,8×600, 12×400,6×800",600,Y,"Multiply the small counts, then multiply by their place-value unit.","Check every option: 48×100 = 4800 (true); 8×600 = 4800 (true); 4×1000 = 4000 (does not match); 12×400 = 4800 (true); 6×800 = 4800 (true). Select 48×100, 8×600, 12×400, 6×800."
+9,A toy costs 45 dollars. How much do 100 toys cost?,4500,120,Y,"Multiplying a whole number by 10, 100 or 1000 moves its digits one, two or three places left on a place-value chart.",Split 45 into 40 + 5. Multiply each part: 40 x 100 = 4000; 5 x 100 = 500. Add: 4000 + 500 = 4500. The total is 4500 dollars.
+10,"Fill: 7 × 60 = __ , 8 × 200 = __ , and the difference between them is ____ (difference is  8 × 200 - 7 × 60 )","420, 1600,1180",600,Y,Find both products separately. Add for a combined total; subtract smaller from larger for a difference.,"7 x 60 = 420; 8 x 200 = 1600. The specified difference is 1600 - 420 = 1180. Fill 420,1600,1180."

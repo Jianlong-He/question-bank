@@ -1,6 +1,6 @@
-"Question ID","Question Choices","Question Answers","Question Time","Hints Allowed","Hints","Solution"
-"1","Evaluate 10C2.","45","60","Y","Use n!/(r!(n-r)!).;10*9/2.","45."
-"2","How many 3-card hands can be chosen from 8 distinct cards?","56","60","Y","Order does not matter.;Use 8C3.","8*7*6/6=56."
-"3","A class has 5 girls and 4 boys. How many 3-person groups contain exactly 2 girls?","40","60","Y","Choose 2 girls and 1 boy.;5C2*4C1.","10*4=40."
-"4","If exactly one of 36 equally likely combinations wins what is the winning probability?","1/36","60","Y","One favorable outcome.;Divide by 36.","1/36."
-"5","Write the combination formula nCr.","n!/(r!(n-r)!)","60","Y","Use factorials.;Divide by r! and (n-r)!.","nCr=n!/(r!(n-r)!)."
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Evaluate 10C2.,45,60,Y,Use n!/(r!(n-r)!).;10*9/2.,"Choose 2 distinct members from 10; order does not matter, so use C(10,2)=10!/[2!(8)!]=45. Dividing by the number of orders of each selected group avoids duplicate counts."
+2,How many 3-card hands can be chosen from 8 distinct cards?,56,60,Y,Order does not matter.;Use 8C3.,"Choose 3 distinct members from 8; order does not matter, so use C(8,3)=8!/[3!(5)!]=56. Dividing by the number of orders of each selected group avoids duplicate counts."
+3,A class has 5 girls and 4 boys. How many 3-person groups contain exactly 2 girls?,40,60,Y,Choose 2 girls and 1 boy.;5C2*4C1.,"Choose exactly 2 of the 5 girls in C(5,2)=10 ways and 1 of the 4 boys in C(4,1)=4 ways. Each first choice pairs with every second choice, so multiply to get 40 groups. Choosing from the whole class without restrictions would include wrong compositions."
+4,If exactly one of 36 equally likely combinations wins what is the winning probability?,1/36,60,Y,One favorable outcome.;Divide by 36.,Exactly one of 36 equally likely outcomes wins. Thus P(win)=1/36=1/36. Count combinations as outcomes because their equal probabilities are stated.
+5,Write the combination formula nCr.,n!/(r!(n-r)!),60,Y,Use factorials.;Divide by r! and (n-r)!.,"For integers 0<=r<=n, choose r distinct objects without replacement and without order: C(n,r)=n!/[r!(n-r)!]. Ordered selections count each group r! times; divide by r! to count each group once, using 0!=1 at the endpoints."

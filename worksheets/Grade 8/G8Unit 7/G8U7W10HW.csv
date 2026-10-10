@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Fill: A line of best fit is $y = 4x - 2$. What is the predicted value of $y$ when $x = 7$?",26,60,Y,"Substitute x into the equation","$28 - 2 = 26$"
-2,"Fill: A dataset shows points rising 15 units in y for every 5 units in x. What is the slope?",3,60,Y,"Slope = rise / run","$15/5 = 3$"
-3,"Fill: A regression line predicts 95 at $x = 10$. The actual value is 101. What is the residual?",6,60,Y,"Residual = Actual - Predicted","$101 - 95 = 6$"
-4,"Fill: A regression equation is $y = -3x + 39$. What is the x-value when $y = 12$?",9,60,Y,"Set y to 12 and solve for x","$12 = -3x + 39$ → $3x = 27$ → $x = 9$"
-5,"Fill: A best-fit line is $y = 7x + 4$. What is the predicted value of $y$ when $x = 0$?",4,60,Y,"Substitute x = 0, or look at the y-intercept",4
+1,Fill: A line of best fit is $y = 4x - 2$. What is the predicted value of $y$ when $x = 7$?,26,60,Y,Substitute x into the equation,Substitute x=7 into the fitted model: predicted y=4(7)+(-2)=28+(-2)=26. This is a model prediction; an actual observation may differ.
+2,Fill: A dataset shows points rising 15 units in y for every 5 units in x. What is the slope?,3,60,Y,Slope = rise / run,Slope=change in y/change in x=(15−0)/(5−0)=15/5=3. Keep the subtraction order the same in numerator and denominator.
+3,Fill: A regression line predicts 95 at $x = 10$. The actual value is 101. What is the residual?,6,60,Y,Residual = Actual - Predicted,Residual=actual−predicted=101−95=6. Positive means the observation is above the fitted line.
+4,Fill: A regression equation is $y = -3x + 39$. What is the x-value when $y = 12$?,9,60,Y,Set y to 12 and solve for x,Substitute the known output:12=-3x+(39). Subtract39:-27=-3x. Divide by-3:x=9. Check:-3(9)+(39)=12.
+5,Fill: A best-fit line is $y = 7x + 4$. What is the predicted value of $y$ when $x = 0$?,4,60,Y,"Substitute x = 0, or look at the y-intercept",Substitute x=0 into the fitted model: predicted y=7(0)+(4)=0+(4)=4. This is a model prediction; an actual observation may differ.

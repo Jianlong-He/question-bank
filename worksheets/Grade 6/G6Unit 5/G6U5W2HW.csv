@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Select, Where would 2/3 be placed on a number line? (A) Between 0 and 1 (B) Between 1 and 2 (C) Between -1 and 0 ~~A | B | C~~",A,60,Y,"2/3 is a positive number less than 1.","2/3 is between 0 and 1"
-2,"Compare -0.28 __ 0.14. Choose from <, > or =",<,60,Y,"Any negative number is less than any positive number.","<"
-3,"Compare 9/16 __ 5/8. Choose from <, > or =",<,60,Y,"Make denominators the same.","5/8 = 10/16, and 9/16 < 10/16"
-4,"Compare -3/25 __ -9/25. Choose from <, > or =",>,60,Y,"Which is farther left?","-9/25 is more negative than -3/25"
-5,"The temperature in Winnipeg is -18°C. In Regina it is -11°C. Which city is warmer?",Regina|regina,60,Y,"Which number is greater?","-11 is greater than -18 (closer to zero)"
+1,"Select, Where would 2/3 be placed on a number line? (A) Between 0 and 1 (B) Between 1 and 2 (C) Between -1 and 0 ~~A | B | C~~",A,60,Y,"For a positive fraction, compare numerator with denominator to locate it relative to one.","Both parts of 2/3 are positive, and its numerator is smaller than its denominator. Therefore 0 < 2/3 < 1. It lies between 0 and 1: choice A."
+2,"Compare -0.28 __ 0.14. Choose from <, > or =",<,60,Y,"Use a common form; negatives are below positives, and the negative closer to zero is greater.",-0.28 = -14/50; 0.14 = 7/50. Comparing the numerators gives -0.28 < 0.14. Answer: <.
+3,"Compare 9/16 __ 5/8. Choose from <, > or =",<,60,Y,"Rewrite both fractions with the same denominator, then compare numerators.",9/16 = 9/16; 5/8 = 10/16. Comparing the numerators gives 9/16 < 5/8. Answer: <.
+4,"Compare -3/25 __ -9/25. Choose from <, > or =",>,60,Y,"Use a common form; negatives are below positives, and the negative closer to zero is greater.",-3/25 = -3/25; -9/25 = -9/25. Comparing the numerators gives -3/25 > -9/25. Answer: >.
+5,The temperature in Winnipeg is -18°C. In Regina it is -11°C. Which city is warmer?,Regina|regina,60,Y,"Warmer means a greater signed temperature, farther right on the number line.","-11 > -18, so Regina is warmer. With two negative temperatures, the one closer to zero is warmer."

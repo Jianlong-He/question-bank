@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Write 382.7 in expanded form.","300 + 80 + 2 + 0.7",60,Y,"Separate the hundreds, tens, ones, and tenths.","300 + 80 + 2 + 0.7"
-2,"Write 20 + 0.005 in standard decimal form.","20.005",60,Y,"Use zeros as placeholders for tenths and hundredths.","20.005"
-3,"Write 0.625 in words.","six hundred twenty-five thousandths|six hundred and twenty-five thousandths",60,Y,"Read 625 using the thousandths place name.","six hundred twenty-five thousandths"
-4,"Write eight and one hundred nine thousandths as a decimal.","8.109",60,Y,"One hundred nine thousandths is 0.109.","8.109"
-5,"Write 7.031 in expanded form.","7 + 0.03 + 0.001",60,Y,"The nonzero decimal digits are hundredths and thousandths.","7 + 0.03 + 0.001"
+1,Write 382.7 in expanded form.,300 + 80 + 2 + 0.7,60,Y,Expand each digit as digit times its place value. Keep zeros as placeholders in standard form.,Use each nonzero digit times its place value. 382.7 = 300 + 80 + 2 + 0.7. Zero-valued terms may be included or omitted without changing the sum.
+2,Write 20 + 0.005 in standard decimal form.,20.005,60,Y,"Line up ones, tenths, hundredths and thousandths; fill empty places with zero.",20+.005 = 20.005. Align place values and keep the zero placeholders.
+3,Write 0.625 in words.,six hundred twenty-five thousandths|six hundred and twenty-five thousandths,60,Y,"Name the whole part, then read the fractional digits using the final decimal place name.",0.625 has whole part 0 and fractional part 625 over 1000. Read that fractional part with the matching place name: six hundred twenty-five thousandths.
+4,Write eight and one hundred nine thousandths as a decimal.,8.109,60,Y,"Name the whole part, then read the fractional digits using the final decimal place name.",Eight wholes plus 109/1000:0.109 is the fractional part. Combine whole and fractional parts to write 8.109; keep zero placeholders.
+5,Write 7.031 in expanded form.,7 + 0.03 + 0.001,60,Y,Expand each digit as digit times its place value. Keep zeros as placeholders in standard form.,Use each nonzero digit times its place value. 7.031 = 7 + 0.03 + 0.001. Zero-valued terms may be included or omitted without changing the sum.

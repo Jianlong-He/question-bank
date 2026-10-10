@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Solve sqrt(x) = 9.",81,60,Y,"Square both sides.;9^2 = 81.","x = 81."
-2,"Solve sqrt(x + 3) = 5.",22,60,Y,"Square both sides.;Then x + 3 = 25.","x = 22."
-3,"Solve sqrt(3x - 2) = 4.",6,60,Y,"Square both sides.;Solve 3x - 2 = 16.","3x = 18, so x = 6."
-4,"Solve sqrt(x) - 2 = 3.",25,60,Y,"Isolate the radical first.;Then sqrt(x) = 5.","Squaring gives x = 25."
-5,"A student squares sqrt(x) = x - 6 and finds x = 4 or x = 9. Which value satisfies the original equation?",9,60,Y,"Check each candidate in the original equation.;sqrt(4) = 2 but 4 - 6 = -2.","Only x = 9 works: sqrt(9) = 3 = 9 - 6."
+1,Solve sqrt(x) = 9.,81,60,Y,Square both sides.;9^2 = 81.,"Isolate the principal square root: sqrt(1x+(0))=9. The right side is nonnegative. Square to get 1x+(0)=81; hence 1x=81 and x=81. Check: radicand=81>=0 and sqrt(81)+(0)=9, matching the original equation."
+2,Solve sqrt(x + 3) = 5.,22,60,Y,Square both sides.;Then x + 3 = 25.,"Isolate the principal square root: sqrt(1x+(3))=5. The right side is nonnegative. Square to get 1x+(3)=25; hence 1x=22 and x=22. Check: radicand=25>=0 and sqrt(25)+(0)=5, matching the original equation."
+3,Solve sqrt(3x - 2) = 4.,6,60,Y,Square both sides.;Solve 3x - 2 = 16.,"Isolate the principal square root: sqrt(3x+(-2))=4. The right side is nonnegative. Square to get 3x+(-2)=16; hence 3x=18 and x=6. Check: radicand=16>=0 and sqrt(16)+(0)=4, matching the original equation."
+4,Solve sqrt(x) - 2 = 3.,25,60,Y,Isolate the radical first.;Then sqrt(x) = 5.,"Isolate the principal square root: sqrt(1x+(0))=5. The right side is nonnegative. Square to get 1x+(0)=25; hence 1x=25 and x=25. Check: radicand=25>=0 and sqrt(25)+(-2)=3, matching the original equation."
+5,A student squares sqrt(x) = x - 6 and finds x = 4 or x = 9. Which value satisfies the original equation?,9,60,Y,Check each candidate in the original equation.;sqrt(4) = 2 but 4 - 6 = -2.,"The real equation needs x+(0)>=0 and x+(-6)>=0. Squaring gives x^2 - 13*x + 36=0, factored as (x - 9)*(x - 4)=0. Candidates: 4, 9. x=4: sqrt(4)=2 while x+(-6)=-2; x=9: sqrt(9)=3 while x+(-6)=3. Only x=9 makes the original sides equal. Reject the other candidate."

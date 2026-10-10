@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is 4 ÷ 0.08?,50,240,Y,Convert both to whole numbers and use long division,50 -> 4 ÷ 0.08 = 400 ÷ 8 = 50
-2,What is 2.48 ÷ 4? Give your answer as a decimal.,0.62,240,Y,Convert both to whole numbers and use long division,0.62 -> 2.48 ÷ 4 = (248 ÷ 4) ÷ 100 = 62 ÷ 100 = 0.62
-3,What is 3 ÷ 0.12?,25,240,Y,Convert both to whole numbers and use long division.,25 -> 3 ÷ 0.12 = 300 ÷ 12 = 25
-4,What is 6 ÷ 0.75?,8,240,Y,Convert both to whole numbers and use long division.,8 -> 6 ÷ 0.75 = 600 ÷ 75 = 8
-5,A car travels 141 km at 70.5 km per hour. How many hours does the trip take?,2|2 hours|2hours,360,Y,Time = distance ÷ speed,2|2 hours|2hours -> Time = distance ÷ speed = 141 ÷ 70.5 = 2
+1,What is 4 ÷ 0.08?,50,240,Y,Scale both numbers by the same power of ten; their quotient stays unchanged.,Multiply both dividend and divisor by 100: 4 ÷ 0.08 = 400 ÷ 8 = 50. The quotient is unchanged. Check: 50 × 0.08 = 4.
+2,What is 2.48 ÷ 4? Give your answer as a decimal.,0.62,240,Y,Keep track of the decimal unit being divided; divide the count of those units.,2.48 = 248/100. Divide the count: 248 ÷ 4 = 62. Convert back: (62)/100 = 0.62. Check: 0.62 × 4 = 2.48.
+3,What is 3 ÷ 0.12?,25,240,Y,Scale both numbers by the same power of ten; their quotient stays unchanged.,Multiply both dividend and divisor by 100: 3 ÷ 0.12 = 300 ÷ 12 = 25. The quotient is unchanged. Check: 25 × 0.12 = 3.
+4,What is 6 ÷ 0.75?,8,240,Y,Scale both numbers by the same power of ten; their quotient stays unchanged.,Multiply both dividend and divisor by 100: 6 ÷ 0.75 = 600 ÷ 75 = 8. The quotient is unchanged. Check: 8 × 0.75 = 6.
+5,A car travels 141 km at 70.5 km per hour. How many hours does the trip take?,2|2 hours|2hours,360,Y,Multiply dividend and divisor by the same power of ten so the divisor becomes a whole number.,Multiply both dividend and divisor by 10: 141 ÷ 70.5 = 1410 ÷ 705 = 2. The quotient is unchanged. Check: 2 × 70.5 = 141. Answer: 2 hours.

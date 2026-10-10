@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is 59 - 4 - 3?,52,120,Y,Subtract 7 ones using place value,52
-2,What is 82 - 7 - 4?,71,120,Y,Use regrouping,71
-3,What is 68 - 20 - 10?,38,120,Y,Subtract 30 using place value,38
-4,What is 95 - 42 - 13?,40,120,Y,Subtract without regrouping,40
-5,What is 93 - 48 - 25?,20,120,Y,Use regrouping,20
+1,What is 59 - 4 - 3?,52,120,Y,Subtract 7 ones using place value,"59-4 = 55; then 55-3 = 52. Equivalently, 59-7 = 52."
+2,What is 82 - 7 - 4?,71,120,Y,Use regrouping,82-7 = 75; then 75-4 = 71. The first subtraction regroups 82 as 7 tens and 12 ones.
+3,What is 68 - 20 - 10?,38,120,Y,Subtract 30 using place value,"68-20 = 48; then 48-10 = 38. Altogether, subtract 3 tens."
+4,What is 95 - 42 - 13?,40,120,Y,Subtract without regrouping,95-42 = 53; then 53-13 = 40. Check: 42+13+40 = 95.
+5,What is 93 - 48 - 25?,20,120,Y,Use regrouping,"93-48 = 45; then 45-25 = 20. In the first step, regroup 93 as 8 tens and 13 ones."

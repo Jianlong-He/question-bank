@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Which values of x make this true? |x| > 7. Choose from -9, 4, 6",-9,60,Y,"Absolute value of x must be larger than 7","|-9| = 9 > 7; |4| and |6| are not"
-2,"Jane: -6 lb, Sarah: +3 lb, Bill: +7 lb. Who had the largest change in weight?",Bill,60,Y,"Largest change = biggest absolute value.","|7| = 7 is the biggest change"
-3,"Select True or False of the statement ""|x| > -14 is true for every number x."" ~~True | False~~",True,60,Y,"Is |x| ever negative?","Absolute value is always 0 or positive, so it is always greater than -14."
-4,"Compare: -|-58| __ -|24|. Choose from <, > or =",<,60,Y,"Evaluate both absolute values.","-|-58| = -58, -|24| = -24, -58 < -24"
-5,"What is -18 + |-35| - |12|?",5,60,Y,"Absolute value means distance from zero.","-18 + 35 - 12 = 5"
+1,"Which values of x make this true? |x| > 7. Choose from -9, 4, 6",-9,60,Y,Absolute value is nonnegative. Test each offered value and respect the strict inequality.,|-9| = 9 passes; |4| = 4 fails; |6| = 6 fails. A value equal to 7 fails the strict inequality. Select -9.
+2,"Jane: -6 lb, Sarah: +3 lb, Bill: +7 lb. Who had the largest change in weight?",Bill,60,Y,The sign gives gain or loss; absolute value gives the size of the change.,"Jane, Sarah and Bill have changes -6 lb, 3 lb, 7 lb. Their change sizes are 6 lb, 3 lb, 7 lb. Bill has the greatest magnitude, 7 lb."
+3,"Select True or False of the statement ""|x| > -14 is true for every number x."" ~~True | False~~",True,60,Y,Absolute value is nonnegative. Test each offered value and respect the strict inequality.,"For every real number x, |x| ≥ 0. Since 0 > -14, every possible absolute value is greater than -14. This includes x = 0. Answer: True."
+4,"Compare: -|-58| __ -|24|. Choose from <, > or =",<,60,Y,Find each absolute value first; preserve any minus signs outside the bars.,"After evaluating the bars and applying both outside minus signs, the values are -58 and -24. Thus -58 < -24. Answer: <."
+5,What is -18 + |-35| - |12|?,5,60,Y,"Evaluate the absolute values, then add and subtract from left to right.",|-35| = 35 and |12| = 12. Then -18 + 35 - 12 = 17 - 12 = 5.

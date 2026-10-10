@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Using integer rules, evaluate |-15| − |-8| + (-4).",3,60,Y,"Take the absolute values first.","|-15| = 15 and |-8| = 8. 15 - 8 - 4 = 3."
-2,"A diver is at -22 meters and moves another -(-10) meters vertically. Find his new depth. Enter only the number with no units.",-12,60,Y,"Subtracting a negative adds a positive.","-22 + 10 = -12."
-3,"Fill in the blank to make the equation true: ___ + (-16) = -5.",11,60,Y,"Add 16 to -5 to find the missing number.","-5 + 16 = 11."
-4,"Fill in the blank to make the equation true: (-7) + ___ = -20.",-13,60,Y,"Subtract -7 from -20 (which is adding 7).","-20 + 7 = -13."
-5,"Evaluate the expression: |-6| − (-9).",15,60,Y,"Find the absolute value first, then subtract the negative.","|-6| = 6. 6 - (-9) = 6 + 9 = 15."
+1,"Using integer rules, evaluate |-15| − |-8| + (-4).",3,60,Y,Evaluate each absolute value first. Keep every outside minus and original operation.,|-15| = 15 and |-8| = 8. 15 - 8 - 4 = 3. Absolute values are nonnegative distances; an outside minus still takes an opposite. Exact check: abs(-15)-abs(-8)-4 = 3.
+2,A diver is at -22 meters and moves another -(-10) meters vertically. Find his new depth. Enter only the number with no units.,-12,60,Y,Start at the given signed position; add a right/up move and subtract a left/down move.,-22 + 10 = -12. Use the initial position plus the signed change; reverse the movement to check. Exact check: -22+(-(-10)) = -12.
+3,Fill in the blank to make the equation true: ___ + (-16) = -5.,11,60,Y,Use inverse operations on both sides and substitute the answer into the original equation.,-5 + 16 = 11. Let the blank be x: x-16 = -5. Solving gives x = 11. Substitute: (11)-16 = -5. Exact check: -5-(-16) = 11.
+4,Fill in the blank to make the equation true: (-7) + ___ = -20.,-13,60,Y,Use inverse operations on both sides and substitute the answer into the original equation.,-20 + 7 = -13. Let the blank be x: -7+x = -20. Solving gives x = -13. Substitute: -7+(-13) = -20. Exact check: -20-(-7) = -13.
+5,Evaluate the expression: |-6| − (-9).,15,60,Y,Evaluate each absolute value first. Keep every outside minus and original operation.,|-6| = 6. 6 - (-9) = 6 + 9 = 15. Absolute values are nonnegative distances; an outside minus still takes an opposite. Exact check: abs(-6)-(-9) = 15.

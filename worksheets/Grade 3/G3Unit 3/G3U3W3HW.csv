@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Fill. Round the numbers to the nearest 100 and subtract: 821 -> __, 294 -> __. Estimated total = __","800, 300, 500",240,Y,"When tens digit > / = 5, round up","800, 300, 500"
-2,"Fill. Round the numbers to the nearest 10 and subtract: 643 -> __, 217 -> __. Estimated total = __","640, 220, 420",240,Y,"When ones digit > / = 5, round up","640, 220, 420"
-3,Estimate to the nearest 10: 764 - 312 -> __,450,240,Y,"Round each number first, then subtract",450
-4,Select. Which estimate is better for 512 + 389? A) 500 + 400 B) 500 + 300 C) 510 + 380 D) 500 + 390 ~~A | B | C | D~~,A,240,Y,"Which rounded numbers are closer, 100 or 10? Round up or round down?",A
-5,Select. Which is larger? A) Estimate of 789 + 112 B) Estimate of 950 - 240 ~~A | B | C | D~~,A,360,Y,Estimate each option first; A) = 800 + 100 = ? B) = 1000 - 200 = ?,A
+1,"Fill. Round the numbers to the nearest 100 and subtract: 821 -> __, 294 -> __. Estimated total = __","800, 300, 500",240,Y,"When tens digit > / = 5, round up","Round 821 to 800 and 294 to 300. Then 800-300 = 500. Fill 800, 300, 500."
+2,"Fill. Round the numbers to the nearest 10 and subtract: 643 -> __, 217 -> __. Estimated total = __","640, 220, 420",240,Y,"When ones digit > / = 5, round up","Round 643 to 640 and 217 to 220. Then 640-220 = 420. Fill 640, 220, 420."
+3,Estimate to the nearest 10: 764 - 312 -> __,450,240,Y,"Round each number first, then subtract",Round each number to tens: 764 becomes 760 and 312 becomes 310. Then 760-310 = 450.
+4,Select. Which listed estimate is closest to the exact value of 512 + 389? A) 500 + 400 B) 500 + 300 C) 510 + 380 D) 500 + 390 ~~A | B | C | D~~,A,240,Y,Calculate each proposed estimate and compare its distance from the exact sum.,"The exact sum is 512+389 = 901. Estimates A, B, C, D are 900, 800, 890, 890. Their errors are 1, 101, 11, 11. A is closest."
+5,Select. Round each number to the nearest hundred. Which estimate is larger? A) Estimate of 789 + 112 B) Estimate of 950 - 240 ~~A | B~~,A,360,Y,Estimate each option first; A) = 800 + 100 = ? B) = 1000 - 200 = ?,"Round each number to hundreds. A is 800+100 = 900; B is 1000-200 = 800. Since 900 is greater than 800, select A."

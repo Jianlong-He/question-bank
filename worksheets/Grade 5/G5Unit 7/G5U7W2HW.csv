@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
-1,What is (1/2) / 11,1/22,240,Y,Rewrite the division as multiplying reciprocal,1/22,
-2,What is (1/8) / 3,1/24,240,Y,Rewrite the division as multiplying reciprocal,1/24,
-3,What is (12/7) / 4 in simplest form,3/7,240,Y,Rewrite the division as multiplying reciprocal then cross cancel.,3/7,
-4,Fill in the blanks above.,"12, 36, 9",240,Y,"Multiply numerator and denominator separately, then simplify.","12, 36, 9",https://i.ibb.co/272kB2Rf/image.png
-5,Which of the above expressions is larger? : A B,A,240,Y,"Left term is always the same, compare what the second term does.",A,https://i.ibb.co/G45BzHM4/image.png
+1,What is (1/2) / 11,1/22,240,Y,Split the selected fraction into equal shares; multiply its denominator by the share count.,1/2 ÷ 11 = (1/2) × (1/11) = 1/22 = 1/22. Check: 1/22 × 11 = 1/2.,
+2,What is (1/8) / 3,1/24,240,Y,Split the selected fraction into equal shares; multiply its denominator by the share count.,1/8 ÷ 3 = (1/8) × (1/3) = 1/24 = 1/24. Check: 1/24 × 3 = 1/8.,
+3,What is (12/7) / 4 in simplest form,3/7,240,Y,"Rewrite division by the whole number as multiplication by its reciprocal, then simplify.",12/7 ÷ 4 = (12/7) × (1/4) = 12/28 = 3/7. Check: 3/7 × 4 = 12/7.,
+4,Fill in the blanks above.,"12, 36, 9",240,Y,"Rewrite division by the whole number as multiplication by its reciprocal, then simplify.","4/3 ÷12=4/3 ×1/12=4/36=1/9. Missing denominators 12,36,9.",https://i.ibb.co/272kB2Rf/image.png
+5,Which of the above expressions is larger? : A B,A,240,Y,"With the same positive dividend, a smaller positive divisor gives a larger quotient.",Both expressions divide the same positive 1/23 by positive divisors. The smaller divisor gives the larger quotient. A = 3/23; B = 2/23; A > B.,https://i.ibb.co/G45BzHM4/image.png

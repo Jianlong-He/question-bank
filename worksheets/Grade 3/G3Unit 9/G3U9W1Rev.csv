@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,How many sides does a pentagon have?,5|5 sides|5sides,100,N,,5|5 sides|5sides
-2,Which shape is a quadrilateral? (A) Triangle (B) Square (C) Pentagon : A B C,B,100,Y,Count the sides,B -> Square
-3,Select. Is a rectangle a quadrilateral? ~~Yes | No~~,Yes,100,Y,Count the sides of a rectangle.,Yes
-4,What is special about a rhombus? (A) All sides are equal (B) All sides are curved (C) It has 3 sides : A B C,A,100,Y,Think about side lengths.,A
-5,"If lines would never cross even if extended, what do we call them?",Parallel,100,Y,Same direction,Parallel
+1,How many sides does a pentagon have?,5|5 sides|5sides,100,N,Use the polygon name to identify its number of straight sides.,A pentagon has five straight sides. The prefix penta means five.
+2,Which shape is a quadrilateral? (A) Triangle (B) Square (C) Pentagon : A B C,B,100,Y,Count the straight sides of the closed shape.,Choose B. A square has four straight sides; a triangle has three and a pentagon has five.
+3,Select. Is a rectangle a quadrilateral? ~~Yes | No~~,Yes,100,Y,Count the straight sides of the closed shape.,Yes. A rectangle has four straight sides and is therefore a quadrilateral.
+4,What is special about a rhombus? (A) All sides are equal (B) All sides are curved (C) It has 3 sides : A B C,A,100,Y,"Check pairs of parallel sides, equal sides and right angles. A shape can belong to more than one family.",Choose A. All four sides of a rhombus are equal.
+5,"If lines would never cross even if extended, what do we call them?",Parallel|parallel,100,Y,Think about whether the complete lines could ever meet.,"Lines in the same plane that never meet, even when extended, are parallel."

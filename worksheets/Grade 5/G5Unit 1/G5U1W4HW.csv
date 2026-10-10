@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Which is greater: 5.201 or 5.21?","5.21",60,Y,"Write 5.21 as 5.210 before comparing.","5.21"
-2,"Fill: 0.60 __ 0.600 with <, >, or =.","=",60,Y,"Trailing zeros do not change the value.","="
-3,"Which is smaller: 8.9 or 8.09?","8.09",60,Y,"Write 8.9 as 8.90 before comparing.","8.09"
-4,"Order from least to greatest: 0.2, 0.12, 0.012.","0.012, 0.12, 0.2",60,Y,"Write all three numbers to the thousandths place.","0.012, 0.12, 0.2"
-5,"Fill: 0.405 __ 0.45 with <, >, or =.","<",60,Y,"Write 0.45 as 0.450 before comparing.","<"
+1,Which is greater: 5.201 or 5.21?,5.21,60,Y,Append trailing zeros if helpful. Compare the first unequal corresponding place.,Write matching places: 5.201 and 5.210. Compare from the greatest place: 5.201 < 5.21. The first unequal digit determines the order.
+2,"Fill: 0.60 __ 0.600 with <, >, or =.",=,60,Y,Append trailing zeros if helpful. Compare the first unequal corresponding place.,Write matching places: 0.600 and 0.600. Compare from the greatest place: 0.60 = 0.600. Trailing zeros leave the value unchanged.
+3,Which is smaller: 8.9 or 8.09?,8.09,60,Y,Append trailing zeros if helpful. Compare the first unequal corresponding place.,Write matching places: 8.90 and 8.09. Compare from the greatest place: 8.9 > 8.09. The first unequal digit determines the order.
+4,"Order from least to greatest: 0.2, 0.12, 0.012.","0.012, 0.12, 0.2",60,Y,Align decimal places and compare from left to right. Follow the requested ordering direction.,"Align all decimals to 3 places: 0.200, 0.120, 0.012. Compare from left to right at the first unequal digit. Least to greatest: 0.012, 0.12, 0.2."
+5,"Fill: 0.405 __ 0.45 with <, >, or =.",<,60,Y,Append trailing zeros if helpful. Compare the first unequal corresponding place.,Write matching places: 0.405 and 0.450. Compare from the greatest place: 0.405 < 0.45. The first unequal digit determines the order.

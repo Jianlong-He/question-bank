@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Find: 0.9 - 0.25,0.65,60,Y,Pad 0.9 as 0.90,0.65
-2,Find: 12.5 - 4.8,7.7,60,Y,Align decimals and borrow from ones,7.7
-3,Complete: 20.0 - __ = 18.2,1.8,60,Y,Find the difference between 20.0 and 18.2,1.8
-4,Find: 50.0 - 27.45,22.55,60,Y,Pad to two decimals and borrow across zeros,22.55
-5,A stick is 9.05 m long. Cut off 2.38 m. Length left?,6.67,60,Y,Align decimals; subtract with borrowing,6.67
+1,Find: 0.9 - 0.25,0.65,60,Y,"Align decimal points and subtract corresponding places, regrouping when needed.","Align decimal places: 0.90 - 0.25. In units of 1/100, subtract 90 - 25 = 65. Divide by 100: 0.65. Check: 0.65 + 0.25 = 0.9."
+2,Find: 12.5 - 4.8,7.7,60,Y,"Align decimal points and subtract corresponding places, regrouping when needed.","Align decimal places: 12.5 - 4.8. In units of 1/10, subtract 125 - 48 = 77. Divide by 10: 7.7. Check: 7.7 + 4.8 = 12.5."
+3,Complete: 20.0 - __ = 18.2,1.8,60,Y,Subtract the final result from the starting number; check in the original equation.,"Missing subtrahend = starting amount - result. Align decimal places: 20.0 - 18.2. In units of 1/10, subtract 200 - 182 = 18. Divide by 10: 1.8. Check: 1.8 + 18.2 = 20. Original equation check: 20 - 1.8 = 18.2."
+4,Find: 50.0 - 27.45,22.55,60,Y,"Align decimal points and subtract corresponding places, regrouping when needed.","Align decimal places: 50.00 - 27.45. In units of 1/100, subtract 5000 - 2745 = 2255. Divide by 100: 22.55. Check: 22.55 + 27.45 = 50."
+5,A stick is 9.05 m long. Cut off 2.38 m. Length left?,6.67,60,Y,"Align decimal points and subtract corresponding places, regrouping when needed.","Align decimal places: 9.05 - 2.38. In units of 1/100, subtract 905 - 238 = 667. Divide by 100: 6.67. Check: 6.67 + 2.38 = 9.05. Answer: 6.67 m."

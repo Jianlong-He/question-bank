@@ -1,11 +1,11 @@
-﻿Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Fill: 12 - 4 = __,8,300,Y,Use the number line. Start at 12 and count back,8
-2,Fill: 15 - 6 = __,9,300,Y,Use the number line. Start at 15 and count back,9
-3,Fill: 17 - 3 = __,14,300,Y,Use the number line. Start at 17 and count back,14
-4,Fill:20 - 5 - 3 = __,12,300,Y,"Subtract 20 - 5, then take the answer and subtract 3 more",12
-5,Fill: 18 - 2 - 3 = ___,13,600,Y,"Subtract 18 - 2, then take the answer and subtract 3 more",13
-6,Fill: 18 - 3 - 2 - 5 = __ ?,8,600,Y,"Subtract 18 - 3, then take the answer and subtract 2, then take the answer and subtract 5",8
-7,Lizzy has 16 cookies. She gives away 7 cookies to her friends.How many cookies does she have left?,9,900,Y,Subtract 16-7,9
-8,Fill: 19 - 11 = __,8,900,Y,Use the number line. Start at 19 and count back,8
-9,Select which subtraction sentence has the same answer as 15 - 7: ~~12-4 | 16-7 | 20-12 | 17-7~~,"12-4,20-12",900,Y,"Find 15 - 7, then check each answer choice","12-4,20-12"
-10,Select which subtraction sentence has the same answer as 18 - 6: ~~16-4 | 14-7 | 15-3 | 17-7~~,"16-4,15-3",900,Y,"Find 18 - 6, then check each answer choice","16-4,15-3"
+Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
+1,Fill: 12 - 4 = __,8,300,Y,Use the number line. Start at 12 and count back,"Remove 2 from 12 to reach 10, then remove the other 2. Thus 12 - 4 = 8."
+2,Fill: 15 - 6 = __,9,300,Y,Use the number line. Start at 15 and count back,"Remove 5 from 15 to reach 10, then remove 1 more. Thus 15 - 6 = 9."
+3,Fill: 17 - 3 = __,14,300,Y,Use the number line. Start at 17 and count back,"Count back three from 17: 16, 15, 14. Therefore 17 - 3 = 14."
+4,Fill:20 - 5 - 3 = __,12,300,Y,"Subtract 20 - 5, then take the answer and subtract 3 more","Work from left to right: 20 - 5 = 15, then 15 - 3 = 12."
+5,Fill: 18 - 2 - 3 = ___,13,600,Y,"Subtract 18 - 2, then take the answer and subtract 3 more",First 18 - 2 = 16. Then 16 - 3 = 13.
+6,Fill: 18 - 3 - 2 - 5 = __ ?,8,600,Y,"Subtract 18 - 3, then take the answer and subtract 2, then take the answer and subtract 5","First 18 - 3 = 15, then 15 - 2 = 13, and finally 13 - 5 = 8."
+7,Lizzy has 16 cookies. She gives away 7 cookies to her friends.How many cookies does she have left?,9,900,Y,Subtract 16-7,Subtract the cookies taken away: 16 - 7 = 9 cookies remain.
+8,Fill: 19 - 11 = __,8,900,Y,Use the number line. Start at 19 and count back,Remove a ten first: 19 - 10 = 9. Remove one more: 9 - 1 = 8.
+9,Select all subtraction sentences that have the same answer as 15 - 7: ~~12-4 | 16-7 | 20-12 | 17-7~~,"12-4,20-12",900,Y,"Find 15 - 7, then check each answer choice",The target is 15 - 7 = 8. Check each choice: 12 - 4 = 8; 16 - 7 = 9; 20 - 12 = 8; 17 - 7 = 10. Select 12-4 and 20-12.
+10,Select all subtraction sentences that have the same answer as 18 - 6: ~~16-4 | 14-7 | 15-3 | 17-7~~,"16-4,15-3",900,Y,"Find 18 - 6, then check each answer choice",The target is 18 - 6 = 12. Check each choice: 16 - 4 = 12; 14 - 7 = 7; 15 - 3 = 12; 17 - 7 = 10. Select 16-4 and 15-3.

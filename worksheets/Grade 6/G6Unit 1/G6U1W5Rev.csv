@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Write 30 to 48 as a fraction in simplest form","5/8",60,Y,"Divide by 6","5/8"
-2,"Compare 3:8 and 4:10. Which is larger? (write 3:8 or 4:10)","4:10",60,Y,"Cross-multiply 3×10 vs 8×4","3×10=30 < 8×4=32, so 4:10"
-3,"A juice mix is 3:4 (syrup:water). If syrup is 9 L, water L?","12",60,Y,"3→9 is ×3; 4×3","12"
-4,"If 66 points are split 4:7, larger share?","42",60,Y,"4+7=11; each part=6; larger 7×6","42"
-5,"Rate: 75 km in 2.5 hours (km/h)","30",60,Y,"75 ÷ 2.5","30"
+1,Write 30 to 48 as a fraction in simplest form,5/8,60,Y,"Write first quantity over second quantity, then divide both by their greatest common factor.","Keep the original order: 30:48, or 30/48. The greatest common factor is 6. Divide both parts: 30÷6=5 and 48÷6=8. The requested simplified fraction is 5/8."
+2,Compare 3:8 and 4:10. Which is larger? (write 3:8 or 4:10),4:10,60,Y,Treat each positive ratio as a fraction. Compare cross-products in the same order.,"Compare 3/8 with 4/10. Cross-products are 3×10=30 and 4×8=32. Since both denominators are positive and 30<32, 4:10 is larger."
+3,"A juice mix is 3:4 (syrup:water). If syrup is 9 L, water L?",12,60,Y,"Match the known amount to its ratio part, find the scale factor, and apply it to the other part.",Ratio parts are 3:4. The known amount 9 matches part 3. Scale factor=9÷3=3. Multiply the other part: 4×3=12 litres of water. The scaled ratio is 9:12.
+4,"If 66 points are split 4:7, larger share?",42,60,Y,"Add the ratio parts, divide the total by that sum, then multiply by the requested part.","Total ratio parts=4+7=11. One part=66÷11=6. The requested share has 7 parts, so 7×6=42 points. All shares are 24, 42, which add to 66."
+5,Rate: 75 km in 2.5 hours (km/h),30,60,Y,Divide the total quantity by the corresponding number of units. Keep the requested per-unit label.,"Unit rate means per one unit. Divide: 75÷2.5=30 kilometres per hour. Check: 30×2.5=75, recovering the total quantity."

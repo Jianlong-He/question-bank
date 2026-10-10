@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Add using expanded form of 214 + 342: (200 + 10 + 4) + (300 + 40 + 2) = __ + 50 + __ = __ + 50 + __ = __,"500, 6, 500, 6, 556",240,N,,"500, 6, 500, 6, 556"
-2,Select. What does the carried 1 in the hundreds place represent? A) 10 hundreds B) 10 ones C) 10 tens D) 1 thousand ~~A | B | C | D~~,A,240,N,,A
-3,"Fill. 9 + 4 = __, carry __ to tens","13, 1",240,Y,"13 = 1 ten + 3 ones, 1 ten goes to ten place","13, 1"
-4,"Select. When adding 426 + 185, what number should we write in tens column place? A) 11 B) 1 C) 0 D) 10 ~~A | B | C | D~~",B,240,Y,"2 + 8 = 10, carry 1 to the hundreds place",B
-5,"Select. When adding 275 + 148, what number should we write in ones column place? A) 13 B) 1 C) 3 D) 0 ~~A | B | C | D~~",C,240,Y,"5 + 8 = 13, carry 1 to the tens place, leave 3 to the ones place",C
+1,Add using expanded form of 214 + 342: (200 + 10 + 4) + (300 + 40 + 2) = __ + 50 + __ = __ + 50 + __ = __,"500, 6, 500, 6, 556",240,N,,"Combine matching places: 200+300 = 500, 10+40 = 50, 4+2 = 6. No regrouping is needed, so both displayed forms are 500+50+6 = 556. Fill 500, 6, 500, 6, 556."
+2,Select. What does the carried 1 in the hundreds place represent? A) 10 hundreds B) 10 ones C) 10 tens D) 1 thousand ~~A | B | C | D~~,C,240,N,,"A carried 1 in the hundreds column represents 1 hundred, equal to 10 tens. Select C. Ten hundreds would be 1000, not 100."
+3,"Fill. 9 + 4 = __, carry __ to tens","13, 1",240,Y,"13 = 1 ten + 3 ones, 1 ten goes to ten place","9+4 = 13 = 1 ten+3 ones. Carry 1 ten and leave 3 ones. Fill 13, 1."
+4,"Select. When adding 426 + 185, what number should we write in tens column place? A) 11 B) 1 C) 0 D) 10 ~~A | B | C | D~~",B,240,Y,"Carry 1 ten from 6+5, then add 2+8+1 in the tens column.","Ones: 6+5 = 11, carry 1 ten. Tens: 2+8+1 = 11, so write 1 and carry 1 hundred. The tens digit is 1, choice B. Total 611."
+5,"Select. When adding 275 + 148, what number should we write in ones column place? A) 13 B) 1 C) 3 D) 0 ~~A | B | C | D~~",C,240,Y,"5 + 8 = 13, carry 1 to the tens place, leave 3 to the ones place","Ones: 5+8 = 13. Write 3 ones and carry 1 ten. The ones digit is 3, choice C. Total 423."

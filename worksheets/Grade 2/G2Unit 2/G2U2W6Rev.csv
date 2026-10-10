@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Select all choices that have an even number of stars ~~🐦🐦🐦🐦🐦🐦 | 🐦🐦🐦🐦🐦🐦🐦~~",🐦🐦🐦🐦🐦🐦,120,Y,Even numbers can be split into 2 equal groups,6 birds
-2,"Select all choices that have an odd number of apples: ~~🍍🍍🍍🍍 | 🍍🍍🍍🍍🍍🍍🍍~~",🍍🍍🍍🍍🍍🍍🍍,120,Y,Odd numbers have 1 left over when split into two groups,7 pineapples
-3,"Fill all the even numbers between 30 and 40. __, __, __, __","32,34,36,38",120,Y,Even numbers can be split into 2 equal groups,"32,34,36,38"
-4,Select. A classroom has 22 kids. Can the teacher split the kids into two groups with no leftover? ~~Yes | No~~,Yes,120,Y,22 split into 2 = 11 in each group,yes
-5,"Fill all the odd numbers between 40 and 50. __, __, __, __, __","41,43,45,47,49",120,Y,Odd numbers have 1 left over when split into 2,"41,43,45,47,49"
+1,Select all choices that have an even number of birds: ~~🐦🐦🐦🐦🐦🐦 | 🐦🐦🐦🐦🐦🐦🐦~~,🐦🐦🐦🐦🐦🐦,120,Y,Even numbers can be split into 2 equal groups,"The two groups contain 6 and 7 birds. Six forms 3 complete pairs, while 7 leaves one unpaired. Choose the group of 6 birds."
+2,Select all choices that have an odd number of pineapples: ~~🍍🍍🍍🍍 | 🍍🍍🍍🍍🍍🍍🍍~~,🍍🍍🍍🍍🍍🍍🍍,120,Y,Odd numbers have 1 left over when split into two groups,"The two groups contain 4 and 7 pineapples. Four is even; 7 forms 3 pairs and one leftover, so choose the group of 7 pineapples."
+3,"Fill all the even numbers between 30 and 40. __, __, __, __","32,34,36,38",120,Y,Even numbers can be split into 2 equal groups,"Between 30 and 40 means greater than 30 and less than 40. The even numbers are 32, 34, 36, 38."
+4,Select. A classroom has 22 kids. Can the teacher split the kids into two equal groups with no leftover? ~~Yes | No~~,Yes,120,Y,22 split into 2 = 11 in each group,22 ÷ 2 = 11. Make two equal groups of 11 kids with no leftover. Choose Yes.
+5,"Fill all the odd numbers between 40 and 50. __, __, __, __, __","41,43,45,47,49",120,Y,Odd numbers have 1 left over when split into 2,"The odd numbers greater than 40 and less than 50 are 41, 43, 45, 47, 49."

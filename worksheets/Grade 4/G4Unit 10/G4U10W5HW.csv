@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,If you have 8.5 and regroup it entirely as hundredths how many hundredths do you have?,850,60,N,,850
-2,Fill: The number 7.14 can be written as 5 ones + _____ tenths + 4 hundredths.,21,60,N,,21
-3,How many tenths are in 9.2,92,60,N,,92
-4,Fill: Calculate: (5 ones + 18 tenths) - (3 ones + 7 tenths) = _____. (Write your answer as a decimal number),3.1,60,N,,6.8 - 3.7 = 3.1
-5,A recipe needs 4.6 cups of flour. You already added 2 ones and 16 tenths. How many more tenths do you need to add?,10,60,N,,10
+1,If you have 8.5 and regroup it entirely as hundredths how many hundredths do you have?,850,60,N,One whole has ten tenths or one hundred hundredths. Multiply or divide by the chosen unit count.,One whole contains 100 hundredths. Multiply: 8.5 x 100 = 850. Check: 850/100 = 8.5.
+2,Fill: The number 7.14 can be written as 5 ones + _____ tenths + 4 hundredths.,21,60,N,Convert the target and known parts to the same fractional unit. Subtract the known count to find the missing count.,Known parts: 5 ones + 4 hundredths = 5.04. Remaining value = 7.14 - 5.04 = 2.1. Convert to tenths by multiplying by 10: 21 tenths. Check: 5 + 21/10 + 4/100 = 7.14.
+3,How many tenths are in 9.2,92,60,N,One whole has ten tenths or one hundred hundredths. Multiply or divide by the chosen unit count.,One whole contains 10 tenths. Multiply: 9.2 x 10 = 92. Check: 92/10 = 9.2.
+4,Fill: Calculate: (5 ones + 18 tenths) - (3 ones + 7 tenths) = _____. (Write your answer as a decimal number),3.1,60,N,"Convert each parenthesized group to a decimal, then subtract and check by adding back.",First group: 5 + 18/10 = 6.8. Second group: 3 + 7/10 = 3.7. Subtract: 6.8 - 3.7 = 3.1. Check: 3.1 + 3.7 = 6.8.
+5,A recipe needs 4.6 cups of flour. You already added 2 ones and 16 tenths. How many more tenths do you need to add?,10,60,N,"Express both the recipe target and the amount already added in tenths, then subtract.","Target 4.6 cups = 46 tenths of a cup. Already added: 2 ones = 20 tenths, plus 16 tenths, giving 36 tenths. Shortfall: 46 - 36 = 10 tenths."

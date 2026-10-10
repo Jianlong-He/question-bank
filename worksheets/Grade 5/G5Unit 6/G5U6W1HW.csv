@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,ImageURL
-1,"Select. Without calculating, which is smaller? ~~A | B~~",B,240,Y,A number becomes smaller when multiplied by a fraction less than 1,B,https://i.ibb.co/DHvzS7mb/image.png
-2,"Select. Without calculating, which is bigger? ~~A | B~~",A,240,Y,A number becomes smaller when multiplied by a fraction less than 1,A,https://i.ibb.co/XZxqn97L/image.png
-3,"Without calculating, order from largest to smallest","B, C, A",240,Y,A number becomes smaller when multiplied by a fraction less than 1,"B, C, A",https://i.ibb.co/7dwVq899/image.png
-4,"Compare using <, >, =.",=,240,Y,Simplify and solve,=,https://i.ibb.co/rGBDY64Q/image.png
-5,"Compare using <, >, =.",=,240,Y,Simplify and solve,=,https://i.ibb.co/zTwJ00Mh/image.png
+1,"Select. Without calculating, which is smaller? ~~A | B~~",B,240,Y,"For a shared positive factor, compare the other factors, using one as a benchmark.","Both share positive 987/654. A multiplier 3/2>1, B 23/32<1. B is smaller.",https://i.ibb.co/DHvzS7mb/image.png
+2,"Select. Without calculating, which is bigger? ~~A | B~~",A,240,Y,"For a shared positive factor, compare the other factors, using one as a benchmark.","Both share positive 6202/2026. A multiplier 10/7>1, B 7/10<1. A is greater.",https://i.ibb.co/XZxqn97L/image.png
+3,"Without calculating, order from largest to smallest","B, C, A",240,Y,"For a shared positive factor, compare the other factors, using one as a benchmark.","Shared positive 6202/2026. Compare multipliers 11/7>7/7>3/7. DescendingB,C,A.",https://i.ibb.co/7dwVq899/image.png
+4,"Compare using <, >, =.",=,240,Y,Reorder the factors and look for equivalent fractional factors or cancelling scale changes.,(45/123)x 246=45 x(246/123)=45 x 2=90; equal.,https://i.ibb.co/rGBDY64Q/image.png
+5,"Compare using <, >, =.",=,240,Y,Reorder the factors and look for equivalent fractional factors or cancelling scale changes.,(40/202)x 101=40 x(101/202)=40 x 1/2=20; equal.,https://i.ibb.co/zTwJ00Mh/image.png

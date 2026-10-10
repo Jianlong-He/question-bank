@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"What is the arithmetic mean?   (A) The middle number in a data set.   (B) The number that appears most often.   (C) The sum of all numbers divided by the number of values",C|c,60,Y,"How do you compute an average?","The arithmetic mean is found by adding all values and dividing by how many values there are."
-2,"Find the mean. Data: 3, 5, 7",5,60,Y,"Add all numbers, then divide by 3","(3 + 5 + 7) ÷ 3 = 5"
-3,"Find the median. Data: 4, 4, 5, 6, 9",5,60,Y,"The middle of 5 ordered numbers is the 3rd one","Middle value = 5"
-4,"Find the MODE. Data: 6, 30, 6, 50, 90, 30, 30, 8",30,60,Y,"Which number appears most?","30 appears 3 times -> mode is 30"
-5,"Find the mean. Data: 2, 10, 40, 8, 90, 20, 6, 40",27,60,Y,"Add all numbers, then divide by 8","Sum = 216. Mean = 216 ÷ 8 = 27"
+1,What is the arithmetic mean?   (A) The middle number in a data set.   (B) The number that appears most often.   (C) The sum of all numbers divided by the number of values,C|c,60,Y,How do you compute an average?,The arithmetic mean is found by adding all values and dividing by how many values there are.
+2,"Find the mean. Data: 3, 5, 7",5,60,Y,Divide the sum by the number of observations.,Total=3+5+7=15. There are 3 values. Mean=15/3=5. Check: 5×3=15.
+3,"Find the median. Data: 4, 4, 5, 6, 9",5,60,Y,"Order every value first, including repeats.","Order: 4, 4, 5, 6, 9. There are 5 values, so position 3 gives the median 5."
+4,"Find the MODE. Data: 6, 30, 6, 50, 90, 30, 30, 8",30,60,Y,Choose every value tied for greatest frequency.,"Frequencies: 6 occurs 2 time(s), 8 occurs 1 time(s), 30 occurs 3 time(s), 50 occurs 1 time(s), 90 occurs 1 time(s). The greatest frequency is 3, so the mode(s) are 30."
+5,"Find the mean. Data: 2, 10, 40, 8, 90, 20, 6, 40",27,60,Y,Divide the sum by the number of observations.,Total=2+10+40+8+90+20+6+40=216. There are 8 values. Mean=216/8=27. Check: 27×8=216.

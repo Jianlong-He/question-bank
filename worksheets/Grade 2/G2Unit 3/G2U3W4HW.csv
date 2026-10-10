@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What is 48 - 5?,43,120,Y,Subtract 5 ones using place value,43
-2,What is 52 - 8?,44,120,Y,Subtract 8 ones using regrouping,44
-3,What is 64 - 20?,44,120,Y,Subtract 2 tens using place value,44
-4,What is 79 - 35?,44,120,Y,Subtract without regrouping,44
-5,What is 74 - 26?,48,120,Y,Subtract with regrouping,48
+1,What is 48 - 5?,43,120,Y,Subtract 5 ones using place value,"Subtract ones: 8-5 = 3. Keep 4 tens, so 48-5 = 43."
+2,What is 52 - 8?,44,120,Y,Subtract 8 ones using regrouping,Regroup 52 as 4 tens and 12 ones. Subtract 8 ones to leave 4 ones. The result is 44.
+3,What is 64 - 20?,44,120,Y,Subtract 2 tens using place value,Subtract 2 tens from 6 tens and keep 4 ones: 64-20 = 44.
+4,What is 79 - 35?,44,120,Y,Subtract without regrouping,Subtract ones: 9-5 = 4. Subtract tens: 7-3 = 4. Thus 79-35 = 44.
+5,What is 74 - 26?,48,120,Y,Subtract with regrouping,Regroup 74 as 6 tens and 14 ones. Subtract ones: 14-6 = 8; subtract tens: 6-2 = 4. The result is 48.

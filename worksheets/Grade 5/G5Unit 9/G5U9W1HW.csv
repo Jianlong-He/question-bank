@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Estimate 150 ÷ 4.9 by rounding divisor to a whole number,30,240,Y,Round the divisor to a friendly whole number. What nearby division can I do in my head?,"30. 4.9 rounds to 5, so 150 ÷ 5 = 30"
-2,Dividing whole numbers to get a decimal: What is 11 ÷ 4 ?,2.75,240,Y,Method 1: Long division. Method 2: Rewrite as a mixed fraction then change to hundredths,2.75 -> 11 ÷ 4 = 2 3/4 = 2.75
-3,What is 70 ÷ 20? Write your answer as a decimal.,3.5,240,Y,Method 1: Long division. Method 2: Rewrite as a mixed fraction then change to tenths,3.5 -> 70 ÷ 20 = 7 ÷ 2 = 3.5
-4,Dividing whole numbers to get a decimal: What is 11 ÷ 8 ?,1.375,240,Y,Method 1: Long division. Method 2: Rewrite as a mixed fraction then change to thousandths,1.375 -> 11 ÷ 8 = 1 3/8 = 1.375
-5,A wooden plank is 6 meters long and cut into pieces of 0.75 m. How many pieces are there? Write your answer as a decimal,8,360,Y,Number of pieces = full plank length ÷ length per piece,8 -> 6 ÷ 0.75 = 600 ÷ 75 = 8
+1,Estimate 150 ÷ 4.9 by rounding divisor to a whole number,30,240,Y,"Round the divisor to the nearest whole number, then divide by that estimate.",Round 4.9 to nearest whole number: 5. 150 ÷ 4.9 ≈ 150 ÷ 5 = 30.
+2,Dividing whole numbers to get a decimal: What is 11 ÷ 4 ?,2.75,240,Y,"Divide into whole units and a remainder, then convert the fractional remainder to a decimal.","11 ÷ 4: 4 × 2 = 8, remainder 3. Thus 2 + 3/4 = 2.75. Check: 2.75 × 4 = 11."
+3,What is 70 ÷ 20? Write your answer as a decimal.,3.5,240,Y,"Divide into whole units and a remainder, then convert the fractional remainder to a decimal.","70 ÷ 20: 20 × 3 = 60, remainder 10. Thus 3 + 10/20 = 3.5. Check: 3.5 × 20 = 70."
+4,Dividing whole numbers to get a decimal: What is 11 ÷ 8 ?,1.375,240,Y,"Divide into whole units and a remainder, then convert the fractional remainder to a decimal.","11 ÷ 8: 8 × 1 = 8, remainder 3. Thus 1 + 3/8 = 1.375. Check: 1.375 × 8 = 11."
+5,A wooden plank is 6 meters long and cut into pieces of 0.75 m. How many pieces are there? Write your answer as a decimal,8,360,Y,Scale both numbers by the same power of ten; their quotient stays unchanged.,Multiply both dividend and divisor by 100: 6 ÷ 0.75 = 600 ÷ 75 = 8. The quotient is unchanged. Check: 8 × 0.75 = 6. Answer: 8 pieces.

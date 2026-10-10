@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"What is the square root of 144?",12,60,Y,"Find the number that multiplies by itself to give 144","12×12=144, so √144=12"
-2,"Simplify (2² × 5²).",100,60,Y,"Multiply the bases first if exponents are the same","(2×5)² = 10² = 100"
-3,"Fill: Calculate $(6 \cdot 10^7) / (3 \cdot 10^4)$ in scientific notation. Enter the coefficient only ($x \cdot 10^3$).",2,60,Y,"Divide the coefficients: 6 / 3;Subtract the exponents: 7 - 4","$6/3 = 2$ and $7-4 = 3$, so $2 \cdot 10^3$"
-4,"Fill: Write $5.6 \cdot 10^4$ in standard decimal form.",56000,60,Y,"Move the decimal point 4 places to the right","$5.6 \to 56 \to 560 \to 5600 \to 56000$"
-5,"Fill: Simplify $(x^5)^2$. Enter the new exponent.",10,60,Y,"Power of a power rule: multiply the exponents","$5 \cdot 2 = 10$"
+1,What is the square root of 144?,12,60,Y,Find the number that multiplies by itself to give 144,Use the nonnegative principal square root; the requested positive value squares back to the radicand. 12^2 = 144. Requested answer: 12.
+2,Simplify (2² × 5²).,100,60,Y,Multiply the bases first if exponents are the same,"When the exponent is the same, multiply the bases and keep that exponent. (2 × 5)^2 = 100. Requested answer: 100."
+3,Fill: Calculate $(6 \cdot 10^7) / (3 \cdot 10^4)$ in scientific notation. Enter the coefficient only ($x \cdot 10^3$).,2,60,Y,Divide the coefficients: 6 / 3;Subtract the exponents: 7 - 4,"Divide the coefficients and subtract exponents of ten. Normalize if needed; enter the requested exponent, coefficient, or ratio. 6/3 = 2; 7-4 = 3. Requested answer: 2."
+4,Fill: Write $5.6 \cdot 10^4$ in standard decimal form.,56000,60,Y,Move the decimal point 4 places to the right,Multiply by the indicated power of ten; positive exponents move the decimal right. 5.6 × 10^4 = 56000. Requested answer: 56000.
+5,Fill: Simplify $(x^5)^2$. Enter the new exponent.,10,60,Y,Power of a power rule: multiply the exponents,A power raised to a power multiplies the exponents: (a^m)^n=a^(mn). 5 × 2 = 10. Requested answer: 10.

@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,What digit is in the ones place of 456.78?,6,60,Y,The ones place is the first digit to the left of the decimal,6
-2,What digit is in the hundredths place of 456.78?,8,60,Y,The second place to the right of the decimal is hundredths,8
-3,What is 100 × 0.045?,4.5,60,Y,Move the decimal two places to the right for $\times 100$,4.5
-4,What is 8.9 ÷ 10?,0.89,60,Y,Move the decimal one place to the left when dividing by 10,0.89
-5,"Order from least to greatest: 3.102, 3.12, 3.012.","3.012, 3.102, 3.12",60,Y,"Compare tenths first, then hundredths, then thousandths","3.012, 3.102, 3.12"
+1,What digit is in the ones place of 456.78?,6,60,Y,Expand each digit as digit times its place value. Keep zeros as placeholders in standard form.,"The ones place is worth 1 per unit. In 456.78, its digit is 6, so that digit contributes 6 x 1 = 6. The requested digit is 6."
+2,What digit is in the hundredths place of 456.78?,8,60,Y,"Locate the decimal point, name the places, then distinguish the digit from its value.","The hundredths place is worth 0.01 per unit. In 456.78, its digit is 8, so that digit contributes 8 x 0.01 = 0.08. The requested digit is 8."
+3,What is 100 × 0.045?,4.5,60,Y,Multiplying by 10 or 100 makes each digit worth 10 or 100 times as much.,0.045 x 100 = 4.5. Every digit becomes 100 times its old value; keep zeros where needed. Check by reversing the operation.
+4,What is 8.9 ÷ 10?,0.89,60,Y,Dividing by 10 or 100 makes each digit worth one tenth or one hundredth as much.,8.9 / 10 = 0.89. Every digit becomes 1/10 times its old value; keep zeros where needed. Check by reversing the operation.
+5,"Order from least to greatest: 3.102, 3.12, 3.012.","3.012, 3.102, 3.12",60,Y,Align decimal places and compare from left to right. Follow the requested ordering direction.,"Align all decimals to 3 places: 3.102, 3.120, 3.012. Compare from left to right at the first unequal digit. Least to greatest: 3.012, 3.102, 3.12."

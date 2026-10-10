@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,Round 8921 to the nearest 10. What number do you get?,8920,240,Y,Is the ones digit 5 or more?,8920
-2,Round 2486 to the nearest 100. What number do you get?,2500,240,Y,Tens digit 5 or more?,2500
-3,Round 888 to the nearest 100. What number do you get?,900,240,Y,Tens digit 5 or more?,900
-4,Fill: Round 129 to the nearest 10 is __ and to the nearest 100 is __,"130, 100",240,Y,Two answers. Is the ones digit 5 or more? Is the tens digit 5 or more?,"130, 100"
-5,Fill: Round 7215 to the nearest 1000 is __. Round 6930 to the nearest 1000 is __,"7000, 7000",360,Y,Hundreds digit 5 or more?,"7000, 7000"
+1,Round 8921 to the nearest 10. What number do you get?,8920,240,Y,Is the ones digit 5 or more?,8921 is between 8920 and 8930 and is only 1 from 8920. Round to 8920.
+2,Round 2486 to the nearest 100. What number do you get?,2500,240,Y,Tens digit 5 or more?,2486 is above the midpoint 2450 between 2400 and 2500. Round to 2500.
+3,Round 888 to the nearest 100. What number do you get?,900,240,Y,Tens digit 5 or more?,888 is above the midpoint 850 between 800 and 900. Round to 900.
+4,Fill: Round 129 to the nearest 10 is __ and to the nearest 100 is __,"130, 100",240,Y,Two answers. Is the ones digit 5 or more? Is the tens digit 5 or more?,"129 is 1 below 130, so to tens it rounds to 130. It is below the midpoint 150, so to hundreds it rounds to 100. Fill 130, 100."
+5,Fill: Round 7215 to the nearest 1000 is __. Round 6930 to the nearest 1000 is __,"7000, 7000",360,Y,Hundreds digit 5 or more?,"7215 is below 7500, so it rounds to 7000. 6930 is above 6500, so it also rounds to 7000. Fill 7000, 7000."

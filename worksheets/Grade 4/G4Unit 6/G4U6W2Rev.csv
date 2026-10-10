@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution
-1,"Select. Is 13 a prime number?: ~~Yes | No~~",Yes,60,N,,Yes
-2,Select the prime numbers: ~~2 | 5 | 8 | 9~~,"2, 5",60,N,,"2, 5"
-3,Select the composite numbers: ~~6 | 9 | 11 | 12~~,"6, 9, 12",60,N,,"6, 9, 12"
-4,Find the sum of the first 5 prime numbers.,28,60,N,,28
-5,Select the composite numbers: ~~14 | 17 | 21 | 23~~,"14, 21",60,N,,"14, 21"
+1,Select. Is 13 a prime number?: ~~Yes | No~~,Yes,60,N,A prime is greater than 1 with exactly 2 positive factors. Composite numbers have more than 2;1 is neither.,"The positive factors of 13 are 1,13. Exactly 2 positive factors means prime, so Yes."
+2,Select the prime numbers: ~~2 | 5 | 8 | 9~~,"2, 5",60,N,A prime is greater than 1 with exactly 2 positive factors. Composite numbers have more than 2;1 is neither.,"Classify each option: 2 has factors 1,2 and is prime; 5 has factors 1,5 and is prime; 8 has factors 1,2,4,8 and is composite; 9 has factors 1,3,9 and is composite. Select 2,5."
+3,Select the composite numbers: ~~6 | 9 | 11 | 12~~,"6, 9, 12",60,N,A prime is greater than 1 with exactly 2 positive factors. Composite numbers have more than 2;1 is neither.,"Classify each option: 6 has factors 1,2,3,6 and is composite; 9 has factors 1,3,9 and is composite; 11 has factors 1,11 and is prime; 12 has factors 1,2,3,4,6,12 and is composite. Select 6,9,12."
+4,Find the sum of the first 5 prime numbers.,28,60,N,Start at 2. A prime has exactly 2 positive factors; a composite has more than 2. One is neither. List in order before adding.,"One is neither prime nor composite. Starting at 2, the first 5 primes are 2,3,5,7,11. Add: 2 + 3 + 5 + 7 + 11 = 28."
+5,Select the composite numbers: ~~14 | 17 | 21 | 23~~,"14, 21",60,N,A prime is greater than 1 with exactly 2 positive factors. Composite numbers have more than 2;1 is neither.,"Classify each option: 14 has factors 1,2,7,14 and is composite; 17 has factors 1,17 and is prime; 21 has factors 1,3,7,21 and is composite; 23 has factors 1,23 and is prime. Select 14,21."
