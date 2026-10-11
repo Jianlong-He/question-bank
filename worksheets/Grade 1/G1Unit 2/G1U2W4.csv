@@ -1,11 +1,11 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,video
-1,How many dots are in a full ten frame? How many ones are in one ten?,"10, 10",100,N,,A full ten frame has two rows of five dots: 5 + 5 = 10. Ten ones also make one ten. Both answers are 10.,videos/Grade 1/Unit 1/count-ten-frames.mp4
-2,Fill: 8 + 6 is the same as 10 + __,4,100,Y,"Use tens frame| After making a 10, what is leftover?","Split 6 into 2 and 4. Then 8 + 2 = 10, with 4 left over. Thus 8 + 6 = 10 + 4.",videos/Grade 1/Unit 2/add-bridge-ten-early.mp4
-3,Fill: 13 = __ ten + __ ones.,"1, 3",120,Y,Teen numbers start with 1 ten,"13 = 10 + 3, so it has 1 ten and 3 ones.",videos/Grade 1/Unit 1/number-place-value-whole-numbers.mp4
-4,Select. Which makes a full 10?  A) 7 + 2    B) 7 + 3    C) 7 + 4 ~~A | B | C~~,B,150,N,,"7 + 2 = 9, 7 + 3 = 10, and 7 + 4 = 11. Only B makes a full ten.",videos/Grade 1/Unit 2/order-complete-ten.mp4
-5,Fill: 7 + 6 is the same as 10 + __ = __,"3, 13",160,Y,"Make a 10 first|  Use tens frame| 7 + 3 makes 10, than what is 3 more?","Split 6 into 3 and 3. First 7 + 3 = 10, then 10 + 3 = 13. The blanks are 3 and 13.",videos/Grade 1/Unit 2/add-bridge-ten-early.mp4
-6,Fill: 5 + 6 + 3 is the same as 10 + __,4,170,Y,"Use tens frame| After making a 10, what is leftover?","5 + 6 = 11 and 11 + 3 = 14. Since 14 = 10 + 4, the blank is 4.",videos/Grade 1/Unit 2/add-three-using-ten.mp4
-7,Fill: 9 + 9  is  __ ten + __ ones,"1, 8",180,Y,Make a 10 first,9 + 9 = 18. Eighteen has 1 ten and 8 ones.,videos/Grade 1/Unit 2/add-regroup-ones-early.mp4
-8,Select. True or False. 8 + 8 = 9 + 5 ~~True | False~~,FALSE,200,Y,"8 + 8 = ?, 9 + 5 = ?","8 + 8 = 16 but 9 + 5 = 14. The values differ, so the equality is false.",videos/Grade 1/Unit 1/order-compute-both-sides.mp4
-9,"7 + 8 = 15, what is 8 + 7?",15,200,Y,Swapping the two addends keeps the sum the same.,"The same two addends give the same total in either order. Since 7 + 8 = 15, then 8 + 7 = 15 too.",videos/Grade 1/Unit 2/add-swap-parts.mp4
-10,What is 7 + 8 + 6?,21,240,Y,Make a 10 first to get 7 + 8. Then make another 10s to make 20. What is leftover?,First 7 + 8 = 15. Then split 6 into 5 and 1: 15 + 5 = 20 and 20 + 1 = 21.,videos/Grade 1/Unit 2/add-three-using-ten.mp4
+1,How many dots are in a full ten frame? How many ones are in one ten?,"10, 10",100,N,,A full ten frame has two rows of five dots: 5 + 5 = 10. Ten ones also make one ten. Both answers are 10.,Grade 1/Unit 1/count-ten-frames.mp4
+2,Fill: 8 + 6 is the same as 10 + __,4,100,Y,"Use tens frame| After making a 10, what is leftover?","Split 6 into 2 and 4. Then 8 + 2 = 10, with 4 left over. Thus 8 + 6 = 10 + 4.",Grade 1/Unit 2/add-bridge-ten-early.mp4
+3,Fill: 13 = __ ten + __ ones.,"1, 3",120,Y,Teen numbers start with 1 ten,"13 = 10 + 3, so it has 1 ten and 3 ones.",Grade 1/Unit 1/number-place-value-whole-numbers.mp4
+4,Select. Which makes a full 10?  A) 7 + 2    B) 7 + 3    C) 7 + 4 ~~A | B | C~~,B,150,N,,"7 + 2 = 9, 7 + 3 = 10, and 7 + 4 = 11. Only B makes a full ten.",Grade 1/Unit 2/order-complete-ten.mp4
+5,Fill: 7 + 6 is the same as 10 + __ = __,"3, 13",160,Y,"Make a 10 first|  Use tens frame| 7 + 3 makes 10, than what is 3 more?","Split 6 into 3 and 3. First 7 + 3 = 10, then 10 + 3 = 13. The blanks are 3 and 13.",Grade 1/Unit 2/add-bridge-ten-early.mp4
+6,Fill: 5 + 6 + 3 is the same as 10 + __,4,170,Y,"Use tens frame| After making a 10, what is leftover?","5 + 6 = 11 and 11 + 3 = 14. Since 14 = 10 + 4, the blank is 4.",Grade 1/Unit 2/add-three-using-ten.mp4
+7,Fill: 9 + 9  is  __ ten + __ ones,"1, 8",180,Y,Make a 10 first,9 + 9 = 18. Eighteen has 1 ten and 8 ones.,Grade 1/Unit 2/add-regroup-ones-early.mp4
+8,Select. True or False. 8 + 8 = 9 + 5 ~~True | False~~,FALSE,200,Y,"8 + 8 = ?, 9 + 5 = ?","8 + 8 = 16 but 9 + 5 = 14. The values differ, so the equality is false.",Grade 1/Unit 1/order-compute-both-sides.mp4
+9,"7 + 8 = 15, what is 8 + 7?",15,200,Y,Swapping the two addends keeps the sum the same.,"The same two addends give the same total in either order. Since 7 + 8 = 15, then 8 + 7 = 15 too.",Grade 1/Unit 2/add-swap-parts.mp4
+10,What is 7 + 8 + 6?,21,240,Y,Make a 10 first to get 7 + 8. Then make another 10s to make 20. What is leftover?,First 7 + 8 = 15. Then split 6 into 5 and 1: 15 + 5 = 20 and 20 + 1 = 21.,Grade 1/Unit 2/add-three-using-ten.mp4

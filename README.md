@@ -1,224 +1,140 @@
-# Question Bank
+# Math Question Bank
 
-A repository of K–12 and enrichment math practice content stored as plain CSV files, with corresponding teaching videos:
+Math practice and unit-test questions for Grades 1–12 and enrichment, stored as CSV files with local images and teaching videos. This repository contains content and maintenance scripts; the learning application lives elsewhere.
 
-- **`worksheets/`** — per-unit practice, revision, and homework worksheets for Grades 1–12, plus enrichment tracks.
-- **`unit-tests/`** — timed unit tests for Grades 1–12 and enrichment, indexed by a JSON catalog.
-- **`videos/`** — MP4 teaching videos and a JSON correspondence file linking worksheet questions to videos.
-
-Everything is data — there is no application code in this repo. The CSVs are meant to be consumed by a worksheet/quiz renderer.
-
----
+Read [RULES.md](RULES.md) before adding or changing questions, filenames, folders, or media references.
 
 ## Repository layout
 
-```
-question-bank/
-├── worksheets/
-│   ├── Grade 1/ … Grade 12/
-│   │   ├── G<N>Unit <U>/          # e.g. G4Unit 14
-│   │   │   ├── G4U14W1.csv        # practice worksheet
-│   │   │   ├── G4U14W8_Revision.csv
-│   │   │   └── G4U14W10_HW.csv
-│   └── enrichment/
-│       ├── counting-and-probability 1/
-│       │   └── <subtopic>/…       # PCF, PeCo, conditional-probability, …
-│       └── number-theory 1/
-│           └── <subtopic>/…       # CRT, RSA, modular-arithmetic, …
-├── unit-tests/
-│   ├── 1st-grade-math/ … 12th-grade-math/
-│   │   └── <unit name>.csv
-│   ├── enrichment/
-│   └── catalog/
-│       └── catalog.json           # index of all unit tests
-└── videos/
-    ├── Grade 1/ … Grade 12/
-    │   └── Unit <U>/<video-id>.mp4
-    ├── enrichment/
-    │   └── <track>/<topic>/<video-id>.mp4
-    └── worksheet-video-correspondence.json
+```text
+worksheets/
+  Grade 7/G7Unit 6/G7U6W1.csv
+  Grade 7/G7Unit 6/G7U6W1HW.csv
+  Grade 7/G7Unit 6/G7U6W1Rev.csv
+  enrichment/number-theory 1/U3Euclidean-division/E-NT1U3W4.csv
+unit-tests/
+  Grade 7/G7Unit6.csv
+  enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1T1.csv
+  catalog/catalog.json
+images/
+  worksheet-images/<CSV parent folders>/<CSV stem>/WS-<code>Q<id>I<index>.<ext>
+  unit-test-images/<CSV parent folders>/<CSV stem>/UT-<code>Q<id>I<index>.<ext>
+  image-question-correspondence.json
+  grade-units.json
+videos/
+  Grade 7/Unit 6/<lesson-slug>.mp4
+  enrichment/number-theory 1/U3Euclidean-division/<lesson-slug>.mp4
+  worksheet-video-correspondence.json
+data/curriculum.json
+scripts/
+reports/
 ```
 
-### Content at a glance
+The layout illustrates naming; media and tests exist only where content has been created. Image parent folders mirror the path below `worksheets/` or `unit-tests/`. There are no separate half-year folders in the current collection.
 
-| Grade | Unit folders | Worksheet CSVs |
-|---:|---:|---:|
-| 1 | 3 | 30 |
-| 2 | 8 | 90 |
-| 3 | 14 | 135 |
-| 4 | 14 | 186 |
-| 5 | 16 | 177 |
-| 6 | 11 | 201 |
-| 7 | 9 | 135 |
-| 8 | 7 | 198 |
-| 9 | 18 | 207 |
-| 10 | 13 | 153 |
-| 11 | 13 | 129 |
-| 12 | 10 | 144 |
-| enrichment | 2 tracks | 124 |
+### Current inventory
 
-As of the October 2026 video update:
+Counts as of 2026-10-11:
 
-- 1,909 worksheet CSVs containing 12,921 question rows.
-- 138 unit-test CSVs, all listed in `unit-tests/catalog/catalog.json`.
-- 1,770 MP4 videos, including enrichment videos.
-- 12,879 worksheet rows have video paths; 42 have blank video cells.
+| Collection | Worksheet unit folders | Worksheet CSVs |
+|---|---:|---:|
+| Grade 1 | 3 | 30 |
+| Grade 2 | 8 | 90 |
+| Grade 3 | 14 | 135 |
+| Grade 4 | 14 | 186 |
+| Grade 5 | 16 | 177 |
+| Grade 6 | 11 | 201 |
+| Grade 7 | 9 | 135 |
+| Grade 8 | 7 | 198 |
+| Grade 9 | 18 | 207 |
+| Grade 10 | 13 | 153 |
+| Grade 11 | 13 | 129 |
+| Grade 12 | 10 | 144 |
+| Enrichment: 2 courses | 11 | 124 |
+| **Total** | **147** | **1,909** |
 
----
+There are also **138 unit-test CSVs containing 1,587 questions**, indexed by `unit-tests/catalog/catalog.json`. Enrichment tests currently cover Number Theory 1 units 1 and 2.
 
-## File naming
+## File and folder naming
 
-**Worksheets** follow `G<grade>U<unit>W<worksheet>[suffix].csv`:
+| Content | Convention | Example |
+|---|---|---|
+| Grade worksheet folder | `worksheets/Grade <G>/G<G>Unit <U>/` | `worksheets/Grade 7/G7Unit 6/` |
+| Grade worksheet | `G<G>U<U>W<W>[variant].csv` | `G7U6W1.csv` |
+| Grade unit test | `unit-tests/Grade <G>/G<G>Unit<U>.csv` | `unit-tests/Grade 7/G7Unit6.csv` |
+| Enrichment worksheet | `E-<course>U<U>W<W>[variant].csv` | `E-NT1U3W4.csv` |
+| Enrichment unit test | `E-<course>U<U>T<T>.csv` | `E-NT1U1T2.csv` |
 
-| Example | Meaning |
-|---|---|
-| `G10U3W1.csv` | Grade 10, Unit 3, Worksheet 1 — standard practice |
-| `G4U14W8_Revision.csv` / `G9U2W3Rev.csv` | Revision worksheet |
-| `G4U14W10_HW.csv` / `G8U6W4HW.csv` | Homework worksheet |
+Use `HW` for homework and `Rev` for revision in new grade worksheets. Existing `_HW`, `_Revision`, `HWa`, `HWb`, and compound worksheet numbers such as `W1-1` are supported; preserve them during unrelated edits. Question IDs belong to their CSV and stay stable when it moves.
 
-Both the underscored (`_Revision`, `_HW`) and bare (`Rev`, `HW`) suffix styles appear in the repo; treat them as equivalent.
+Enrichment folders use `U<number><topic>`, with no separator between the number and topic. Numbers follow curriculum order within the course; enrichment courses are not school grades. Use the same course/unit folder names under worksheets, unit tests where present, worksheet images, and videos:
 
-**Enrichment** files use `<subtopic>_worksheet<N>[Rev].csv`, e.g. `prime-factorization_worksheet4.csv`.
+| Course directory | Code | Unit directories, in order |
+|---|---|---|
+| `counting-and-probability 1` | `CP1` | `U1counting-and-classification`, `U2PCF`, `U3PeCo`, `U4conditional-probability`, `U5PMF` |
+| `number-theory 1` | `NT1` | `U1modular-arithmetic`, `U2prime-factorization`, `U3Euclidean-division`, `U4number-theory1_review`, `U5CRT`, `U6RSA` |
 
-**Unit tests** are named after the unit itself, e.g. `unit-tests/5th-grade-math/volume.csv`.
-
----
+Preserve capitalization and spaces exactly. School-grade unit names and numbers are recorded in `images/grade-units.json`.
 
 ## CSV schema
 
-Every CSV starts with these seven columns. Worksheet CSVs append an eighth column, `video`; unit-test CSVs keep the seven-column format.
+Use these seven core columns for new files, followed by media columns as needed:
 
-| Column | Description |
+| Column | Content |
 |---|---|
-| `Question ID` | Sequential number within the file, starting at 1 |
-| `Question Choices` | The question text. For multiple choice, options are appended inline as `Choices: A) … \| B) … \| C) … \| D) …` |
-| `Question Answers` | The correct answer — a letter (`A`–`D`) for multiple choice, or the literal value for fill-in questions |
-| `Question Time` | Seconds allotted for the question (typically `60`) |
+| `Question ID` | Unique numeric ID within the file; start new files at 1 |
+| `Question Choices` | Prompt, with inline options when applicable |
+| `Question Answers` | Answer letter, literal answer, or supported answer alternatives |
+| `Question Time` | Time in seconds |
 | `Hints Allowed` | `Y` or `N` |
-| `Hints` | Semicolon-separated hint steps; empty when `Hints Allowed` is `N` |
-| `Solution` | Worked solution or answer explanation |
-| `video` (worksheets only) | Repository-relative MP4 path; multiple paths separated by ` \| `; blank when no usable match is available |
+| `Hints` | Hint steps; blank when disabled |
+| `Solution` | Correct explanation consistent with the prompt and answer |
+| `image` | Optional local image path, JSON array of paths, or blank |
+| `video` | Local video path, JSON array of paths, or blank; present in every worksheet CSV |
 
-### Examples
+Existing unit tests may use `Question Answer`, `Question Time (seconds)`, and `Yes`/`No`. Some legacy worksheets retain unnamed empty columns. Preserve existing headers during unrelated edits and read columns by name; `image` and `video` do not have a fixed position. Do not reintroduce `imageURL` or `imagesURL` as the canonical media column.
 
-Fill-in-the-blank (worksheet):
+Use a proper CSV reader/writer. Quote fields containing commas, quotes, or line breaks; double embedded quotes. Every row must have the same field count as its header. Read with `utf-8-sig` to support files with or without a UTF-8 BOM. See [question and answer syntax](RULES.md#question-and-answer-syntax).
 
-```csv
-Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,video
-1,Fill: 5 minutes = ___ seconds,300,60,N,,300,
-```
+## Images and videos
 
-With hints:
+CSV `image` paths resolve under **`images/`**, with no leading `images/` in the cell. CSV `video` paths resolve under **`videos/`**, with no leading `videos/` in the cell. Correspondence JSON media paths are repository-relative and retain those prefixes. Blank cells mean no linked asset. Multiple assets use a JSON array of strings inside one properly quoted CSV cell.
 
-```csv
-1,Calculate 124 × 16 by breaking 16 into 10 + 6.,1984,60,Y,Compute 124 × 10 and 124 × 6;Add them,124 × 16 = 1240 + 744 = 1984.,
-```
-
-Multiple choice (unit test, fields quoted):
-
-```csv
-"1","A solid is built using unit cubes. The figure has 2 identical layers, and each layer contains 16 cubes. What is the total volume of the figure in cubic units Choices: A) 16 | B) 24 | C) 32 | D) 48 Answer with the letter only.","C","60","N","","Correct answer: C (32)."
-```
-
-Note that some files quote all fields and some quote none — parse with a proper CSV reader rather than splitting on commas, since question text frequently contains commas.
-
----
-
-## Worksheet videos
-
-The `video` column contains file paths relative to the **repository root**, not the CSV's folder. For example, Question 1 in `worksheets/Grade 1/G1Unit 1/G1U1W1.csv` links to:
+For example, a decoded `image` cell may contain:
 
 ```text
-videos/Grade 1/Unit 1/count-objects-one-to-one.mp4
+worksheet-images/Grade 7/G7Unit 6/G7U6W1/WS-G7U6W1Q1I2.png
 ```
 
-Some questions have more than one video. Question 6 in `worksheets/enrichment/counting-and-probability 1/PMF/PMF_worksheet4.csv` contains:
+| Image filename example | Meaning |
+|---|---|
+| `WS-G7U6W1Q1I2.png` | Grade 7, Unit 6, Worksheet 1, question 1, image 2 |
+| `WS-G7U6W1HWQ1I1.png` | Homework counterpart, question 1, image 1 |
+| `WS-G7U6W1RevQ1I1.png` | Revision counterpart, question 1, image 1 |
+| `WS-E-NT1U3W4Q1I1.png` | Number Theory 1, Unit 3, Worksheet 4, question 1, image 1 |
+| `UT-G7U6Q1I1.png` | Grade 7, Unit 6 test, question 1, image 1 |
+| `UT-E-NT1U1T2Q1I1.png` | Number Theory 1, Unit 1, Test 2, question 1, image 1 |
 
-```text
-videos/enrichment/counting-and-probability 1/PMF/probability-geometric-ratio.mp4 | videos/enrichment/counting-and-probability 1/PMF/pattern-pmf-4be2809cd266.mp4
+Every worksheet with images gets a subfolder named exactly after its CSV stem. Regular, homework, and revision worksheets therefore have separate folders. For legacy suffixes, the folder keeps the exact CSV stem while the image code normalizes `_HW` to `HW` and `_Revision` to `Rev`. Unit-test image folders also use their CSV stem. Keep the actual image extension.
+
+Find images by `(source_csv, question_id)` in `images/image-question-correspondence.json`. Only entries with `use_for_question: true` populate image cells; superseded assets remain documented. Image indexes start at 1.
+
+Find worksheet video links in `videos/worksheet-video-correspondence.json`, then resolve each `video_id` through `videos[video_id].assets.mp4`. Video filenames are lesson slugs. A video may be shared across worksheets, grades, and courses. Preserve stable video IDs and reviewed mappings when paths change. Do not invent a path for a missing asset or a `not_needed` mapping.
+
+## Catalogs, generators, and validation
+
+`data/curriculum.json` contains worksheet links. The test catalog records each test's repository-relative `file`, question count, and total timer derived from the CSV.
+
+```sh
+node scripts/validate.mjs
+python3 scripts/generate_unit_test_catalog.py --check
+python3 scripts/build_video_correspondence.py --check
 ```
 
-Parse the CSV first, then split only the `video` cell on ` | ` and remove empty entries. Preserve the path's spelling and case. The separator represents multiple available videos; it does not align videos with question variants.
+The first command checks question syntax, naming, row widths, media paths, and correspondence source paths. It does not prove mathematical correctness. The other commands check the generated test catalog and worksheet/video mappings without generating videos.
 
-Blank cells mean no usable match was assigned. In this update, 31 question rows have no MP4 path in the correspondence file, and 11 have question text that differs from the recorded mapping. A blank cell should produce no video button.
+After adding or changing tests, run `python3 scripts/generate_unit_test_catalog.py`. After changing image assets or source paths, update their source manifests and run `python3 scripts/build_image_question_correspondence.py`. Synchronize affected CSV media cells separately, removing the media-root prefix. Rebuilding a correspondence JSON does not update CSV cells.
 
-### Correspondence JSON
+Image download scripts ingest legacy URL columns; current `image` cells hold local paths. Their download manifests retain original URLs. Empty URL scans must preserve existing manifests. Video generators must use numbered enrichment folders.
 
-[`videos/worksheet-video-correspondence.json`](videos/worksheet-video-correspondence.json) records the detailed mappings:
-
-1. Find the worksheet by its exact repository-relative path in `worksheets`.
-2. Find the question by its exact CSV `Question ID` in that worksheet's `problems` object.
-3. Check `question_sha256` against the SHA-256 of the UTF-8 decoded `Question Choices` cell, without normalization, to detect changed question text.
-4. Follow each `video_links[].video_id` into the top-level `videos` object, then read `assets.mp4`.
-5. Add distinct paths whose MP4 files exist. Leave the cell blank if no valid path remains.
-
-The JSON also records mapping review status, coverage, question variant indexes, and playback start/end times. Use it when a player needs those details; the CSV column stores paths only. A `needs_review` mapping is a draft assignment, and a rendered video does not by itself establish that the mapping has been reviewed. The JSON includes planned and retired video records as well as rendered assets, so its number of video records exceeds the number of MP4 files.
-
-### Loading videos on a website
-
-Reading a CSV or the correspondence JSON does not download the videos. Render video controls for the current question and create a player when the student selects a video. Use `preload="none"` and assign the selected video's source on demand; avoid creating a player for every video in the repository.
-
-Resolve paths against the base URL where the repository's files are served, and URL-encode each path segment because folder names contain spaces. The resulting URL must serve MP4 data, rather than a repository file-view HTML page. For multiple paths, let the student choose which video to play.
-
----
-
-## Unit test catalog
-
-`unit-tests/catalog/catalog.json` is an array of entries describing each test:
-
-```json
-{
-  "gradeOrder": 5,
-  "grade": "5th grade math",
-  "unit": "Volume",
-  "title": "Grade 5 Volume Unit Test",
-  "description": "Grade 5 unit test for Volume with a single full-worksheet timer.",
-  "file": "unit-tests/5th-grade-math/volume.csv",
-  "questionCount": 12,
-  "totalTimeSeconds": 720
-}
-```
-
-`file` paths are relative to the repository root. `totalTimeSeconds` is a single timer for the whole test, not per question.
-
----
-
-## Working with the data
-
-Read a worksheet in Python:
-
-```python
-import csv
-
-with open("unit-tests/5th-grade-math/volume.csv", newline="", encoding="utf-8") as f:
-    for row in csv.DictReader(f):
-        print(row["Question ID"], row["Question Answers"])
-```
-
-Load the catalog and resolve each test:
-
-```python
-import json, pathlib
-
-catalog = json.loads(pathlib.Path("unit-tests/catalog/catalog.json").read_text())
-for entry in catalog:
-    assert pathlib.Path(entry["file"]).exists(), entry["file"]
-```
-
----
-
-## Adding content
-
-1. Place the file in the matching grade/unit folder, creating `G<N>Unit <U>/` if it doesn't exist.
-2. Follow the naming convention above.
-3. Preserve the first seven column names and their order. For worksheets, append the lowercase `video` column; for unit tests, use only the seven-column header.
-4. Number `Question ID` from 1, with no gaps.
-5. For a new unit test, add a corresponding entry to `unit-tests/catalog/catalog.json` and make sure `questionCount` matches the row count.
-6. For a worksheet video, add the MP4 under `videos/`, update the correspondence JSON, and populate the worksheet's `video` cell with its repository-relative path. Recheck the question text and hash when editing an existing mapped question.
-7. Run `node scripts/validate.mjs` for CSV and curriculum checks. Separately verify that every nonblank `video` path resolves to an existing MP4; the validator does not check video mappings.
-
-## Conventions and caveats
-
-- Some legacy Grade 2 filenames carry a doubled extension (`… - place_value.csv.csv`); the catalog references them as-is, so don't rename without updating `catalog.json`.
-- Folder and file names contain spaces. Quote paths in shell commands.
-- `worksheets/Grade 4/G4Unit 8/` includes a reference-material PDF alongside the CSVs.
+When renaming content, update active curriculum links, catalogs, media mappings, source manifests, CSV media cells, and generator paths together. Historical audit and migration reports may contain old paths as evidence. See the [rename checklist](RULES.md#rename-and-validation-checklist).

@@ -1,11 +1,11 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,video
-1,What comes after 10?,11,80,N,,One more than 10 is 11: 10 + 1 = 11.,videos/Grade 1/Unit 1/g1-u1-counting-forward.mp4
-2,"Fill: 10 + 8 = 18, so __ + 6 = 16, 10 + __ = 14","10, 4",100,N,,16 is one ten and six ones: 10 + 6 = 16. Also 10 + 4 = 14. The blanks are 10 and 4.,videos/Grade 1/Unit 1/place-teen-ten-frame.mp4
-3,"Select. Which shows ""1 ten and 5 ones"" ? A)18   B) 10   C)5    D) 15 ~~A | B | C | D~~",D,100,Y,15 means one ten plus five ones.,"One ten is 10 and five ones is 5. Their total is 10 + 5 = 15, choice D.",videos/Grade 1/Unit 1/place-teen-ten-frame.mp4
-4, What does the 1 in 17 mean?,1 ten,120,Y,tens or ones? How many?,"The 1 is in the tens place. It means one group of ten, with value 10.",videos/Grade 1/Unit 1/number-place-value-whole-numbers.mp4
-5, What does the 7 in 17 mean?,7 ones,130,Y,tens or ones? How many?,"The 7 is in the ones place. It means seven individual ones, with value 7.",videos/Grade 1/Unit 1/number-place-value-whole-numbers.mp4
-6,You have 10 apples and get 3 more. How many apples now?,13,130,Y,10 + 3 = __,Join the 10 apples and 3 more: 10 + 3 = 13 apples.,videos/Grade 1/Unit 1/place-teen-ten-frame.mp4
-7,Select. Which is greater? A) 1 ten + 9 ones B) 2 tens + 0 ones ~~A | B~~,B,140,Y,"1 tens + 9 ones = __  and 2 tens + 0 ones  = __,  which number is greater?","A is 10 + 9 = 19. B is 20 + 0 = 20. Since 20 is greater than 19, choose B.",videos/Grade 1/Unit 1/place-compare-two-digit.mp4
-8,"Fill: Write each number as 10 + ?   11 = 10 + __, 13 = 10 + __, 15 = 10 + __, 17 = 10 + __, 19 = 10 + __","1,3,5,7,9",150,Y,Each teen number is ten plus some ones.,"Take away the ten from each number: 11 - 10 = 1, 13 - 10 = 3, 15 - 10 = 5, 17 - 10 = 7, 19 - 10 = 9.",videos/Grade 1/Unit 1/place-teen-ten-frame.mp4
-9,Fill: Write 21 as __ tens + __ ones,"2, 1",160,Y,The 2 means two groups of 10,"21 = 20 + 1. Twenty is two tens, so 21 has 2 tens and 1 one.",videos/Grade 1/Unit 1/number-place-value-whole-numbers.mp4
-10,Fill: 3 tens + 2 ones =__,32,180,Y,"Count by tens first (10, 20, 30) then add 2.",Three tens is 30. Add the two ones: 30 + 2 = 32.,videos/Grade 1/Unit 1/number-place-value-whole-numbers.mp4
+1,What comes after 10?,11,80,N,,One more than 10 is 11: 10 + 1 = 11.,Grade 1/Unit 1/g1-u1-counting-forward.mp4
+2,"Fill: 10 + 8 = 18, so __ + 6 = 16, 10 + __ = 14","10, 4",100,N,,16 is one ten and six ones: 10 + 6 = 16. Also 10 + 4 = 14. The blanks are 10 and 4.,Grade 1/Unit 1/place-teen-ten-frame.mp4
+3,"Select. Which shows ""1 ten and 5 ones"" ? A)18   B) 10   C)5    D) 15 ~~A | B | C | D~~",D,100,Y,15 means one ten plus five ones.,"One ten is 10 and five ones is 5. Their total is 10 + 5 = 15, choice D.",Grade 1/Unit 1/place-teen-ten-frame.mp4
+4, What does the 1 in 17 mean?,1 ten,120,Y,tens or ones? How many?,"The 1 is in the tens place. It means one group of ten, with value 10.",Grade 1/Unit 1/number-place-value-whole-numbers.mp4
+5, What does the 7 in 17 mean?,7 ones,130,Y,tens or ones? How many?,"The 7 is in the ones place. It means seven individual ones, with value 7.",Grade 1/Unit 1/number-place-value-whole-numbers.mp4
+6,You have 10 apples and get 3 more. How many apples now?,13,130,Y,10 + 3 = __,Join the 10 apples and 3 more: 10 + 3 = 13 apples.,Grade 1/Unit 1/place-teen-ten-frame.mp4
+7,Select. Which is greater? A) 1 ten + 9 ones B) 2 tens + 0 ones ~~A | B~~,B,140,Y,"1 tens + 9 ones = __  and 2 tens + 0 ones  = __,  which number is greater?","A is 10 + 9 = 19. B is 20 + 0 = 20. Since 20 is greater than 19, choose B.",Grade 1/Unit 1/place-compare-two-digit.mp4
+8,"Fill: Write each number as 10 + ?   11 = 10 + __, 13 = 10 + __, 15 = 10 + __, 17 = 10 + __, 19 = 10 + __","1,3,5,7,9",150,Y,Each teen number is ten plus some ones.,"Take away the ten from each number: 11 - 10 = 1, 13 - 10 = 3, 15 - 10 = 5, 17 - 10 = 7, 19 - 10 = 9.",Grade 1/Unit 1/place-teen-ten-frame.mp4
+9,Fill: Write 21 as __ tens + __ ones,"2, 1",160,Y,The 2 means two groups of 10,"21 = 20 + 1. Twenty is two tens, so 21 has 2 tens and 1 one.",Grade 1/Unit 1/number-place-value-whole-numbers.mp4
+10,Fill: 3 tens + 2 ones =__,32,180,Y,"Count by tens first (10, 20, 30) then add 2.",Three tens is 30. Add the two ones: 30 + 2 = 32.,Grade 1/Unit 1/number-place-value-whole-numbers.mp4

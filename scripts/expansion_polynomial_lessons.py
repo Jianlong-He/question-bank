@@ -1,0 +1,67 @@
+"""Distinct polynomial expansion methods, verified by symbolic identities."""
+from algebra_lessons import authored
+from number_sense_lessons import source as g
+from card_lessons import make_lessons
+SPECS=[
+authored('expand-monomial-polynomial','Distribute a variable factor across a polynomial',
+ 'Expand 4x(3x² − 5x + 2).', '12x³ − 20x² + 8x',
+ 'Expand four x times the quantity three x squared minus five x plus two.',[
+ ('DISTRIBUTE','Multiply the outside factor by every term','4x(3x²) + 4x(−5x) + 4x(2)',
+ 'Multiply four x by every term inside the brackets, including the negative five x.'),
+ ('FIRST PRODUCT','Multiply coefficients and add exponents','4x × 3x² = 12x³',
+ 'Four times three is twelve. One factor of x times x squared gives x cubed.'),
+ ('REMAINING PRODUCTS','Keep the sign of each term','4x × (−5x) = −20x²\n4x × 2 = 8x',
+ 'Four x times negative five x is negative twenty x squared. Four x times two is eight x.'),
+ ('COLLECT THE RESULT','Different powers are not like terms','12x³ − 20x² + 8x',
+ 'The expansion is twelve x cubed minus twenty x squared plus eight x. The powers differ, so these terms cannot be combined. The same rule works for two terms in brackets.')],
+ g(11,1,3,2),identities=[('4*x*(3*x**2-5*x+2)','12*x**3-20*x**2+8*x')]),
+authored('expand-two-binomials','Multiply every term in two binomials',
+ 'Expand (3x − 5)(2x − 7).', '6x² − 31x + 35',
+ 'Expand three x minus five times two x minus seven.',[
+ ('FIRST TERM','Multiply three x by both terms in the second bracket','3x(2x − 7) = 6x² − 21x',
+ 'Multiply three x by two x and by negative seven. That gives six x squared minus twenty-one x.'),
+ ('SECOND TERM','Multiply negative five by both terms','−5(2x − 7) = −10x + 35',
+ 'Multiply negative five by two x to get negative ten x. Negative five times negative seven is positive thirty-five.'),
+ ('COMBINE LIKE TERMS','Add the two x terms','6x² − 21x − 10x + 35\n= 6x² − 31x + 35',
+ 'Combine negative twenty-one x and negative ten x to get negative thirty-one x.'),
+ ('CHECK ALL PAIRS','Two terms times two terms produce four products','6x² − 31x + 35',
+ 'The result is six x squared minus thirty-one x plus thirty-five. Check that each term in the first bracket multiplied each term in the second, giving four products before combining.')],
+ g(10,2,1,4),identities=[('(3*x-5)*(2*x-7)','6*x**2-31*x+35')]),
+authored('expand-binomial-trinomial','Distribute two terms across a three-term polynomial',
+ 'Expand (2x − 3)(x² + 5x − 4).', '2x³ + 7x² − 23x + 12',
+ 'Expand two x minus three times x squared plus five x minus four.',[
+ ('DISTRIBUTE TWO X','Multiply two x by each of the three terms','2x(x² + 5x − 4) = 2x³ + 10x² − 8x',
+ 'Two x times the three terms gives two x cubed, ten x squared, and negative eight x.'),
+ ('DISTRIBUTE NEGATIVE THREE','Keep the signs when multiplying','−3(x² + 5x − 4) = −3x² − 15x + 12',
+ 'Negative three times the same three terms gives negative three x squared, negative fifteen x, and positive twelve.'),
+ ('GROUP LIKE POWERS','Combine only terms with the same power of x','2x³ + (10 − 3)x² + (−8 − 15)x + 12',
+ 'Group the x squared terms and the x terms. Ten minus three is seven, and negative eight minus fifteen is negative twenty-three.'),
+ ('WRITE IN DESCENDING POWERS','Six products simplify to four terms','2x³ + 7x² − 23x + 12',
+ 'The result is two x cubed plus seven x squared minus twenty-three x plus twelve. Two terms times three terms required six products before collecting like powers.')],
+ g(11,1,3,3),identities=[('(2*x-3)*(x**2+5*x-4)','2*x**3+7*x**2-23*x+12')]),
+authored('expand-conjugate-real-factors','Expand matching sum and difference factors',
+ 'Expand (5x + 2)(5x − 2).', '25x² − 4',
+ 'Expand five x plus two times five x minus two.',[
+ ('DISTRIBUTE','Multiply each term by both terms in the other bracket','25x² − 10x + 10x − 4',
+ 'The four products are twenty-five x squared, negative ten x, positive ten x, and negative four.'),
+ ('CANCEL MIDDLE TERMS','Opposite x terms add to zero','−10x + 10x = 0',
+ 'The middle terms are opposites, so they cancel.'),
+ ('WRITE THE DIFFERENCE','The remaining terms are the difference of two squares','(5x)² − 2² = 25x² − 4',
+ 'What remains is five x squared as a whole, minus two squared. That is twenty-five x squared minus four.'),
+ ('RECOGNIZE THE PATTERN','A sum times its matching difference has no middle term','(A + B)(A − B) = A² − B²',
+ 'In general, A plus B times A minus B equals A squared minus B squared. The cancellation explains why this identity works.')],
+ g(11,1,3,5),identities=[('(5*x+2)*(5*x-2)','25*x**2-4'),('(A+B)*(A-B)','A**2-B**2')]),
+authored('expand-squared-binomial-signs','Expand a binomial square and keep the middle term',
+ 'Expand (4x + 5)² and (4x − 5)².', '16x² + 40x + 25; 16x² − 40x + 25',
+ 'Expand four x plus five squared, and four x minus five squared.',[
+ ('SQUARE MEANS TWO FACTORS','Multiply the entire bracket by itself','(4x + 5)² = (4x + 5)(4x + 5)',
+ 'Squaring a bracket means multiplying the whole bracket by itself. It does not mean squaring each term separately.'),
+ ('PLUS CASE','Two identical cross products create the middle term','16x² + 20x + 20x + 25\n= 16x² + 40x + 25',
+ 'The plus case gives sixteen x squared, two copies of twenty x, and twenty-five. Combine the middle terms to get forty x.'),
+ ('MINUS CASE','The cross products are negative; the last square is positive','16x² − 20x − 20x + 25\n= 16x² − 40x + 25',
+ 'For the minus case, both cross products are negative twenty x. The last product is positive twenty-five because negative five times negative five is positive.'),
+ ('COMPARE','Only the sign of the middle term changes','(4x + 5)² = 16x² + 40x + 25\n(4x − 5)² = 16x² − 40x + 25',
+ 'Keep the middle term. Both expansions have positive square terms; the sign in the original bracket determines the middle sign.')],
+ g(10,2,1,5),identities=[('(4*x+5)**2','16*x**2+40*x+25'),('(4*x-5)**2','16*x**2-40*x+25')]),
+]
+def lessons(doc):return make_lessons(SPECS,doc)

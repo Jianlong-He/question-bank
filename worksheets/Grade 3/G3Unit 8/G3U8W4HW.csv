@@ -1,6 +1,6 @@
 Question ID,Question Choices,Question Answers,Question Time,Hints Allowed,Hints,Solution,video
-1,What is the sum of 11 + 27? Is it even or odd?,"38, even",240,Y,odd + odd = ?,"11+27 = 38. The sum ends in 8 and equals 2 x 19, so it is even. Fill 38, even.",videos/Grade 2/Unit 2/parity-total-after-addition.mp4
-2,Is the product of 3 x 5 even or odd?,odd|Odd|ODD,240,Y,Odd x Odd = ?,"3 x 5 = 15, which is odd. Both factors are odd, so their product is odd.",videos/Grade 3/Unit 8/parity-products-early.mp4
-3,Is 14 x 16 even or odd?,even|Even|EVEN,240,Y,Check if one number is even.,"14 x 16 = 224, which is even. A product with an even factor is even.",videos/Grade 3/Unit 8/parity-products-early.mp4
-4,"Is 8,462 even or odd?",even|Even|EVEN,240,Y,Look at the ones place.,"8462 ends in 2, so it is even. Its earlier digits do not change this test.",videos/Grade 2/Unit 2/parity-last-digit-small.mp4
-5,"Is 7,935 even or odd?",odd|Odd|ODD,240,Y,Look at the ones place.,"7935 ends in 5, so it is odd. Its earlier digits do not change this test.",videos/Grade 2/Unit 2/parity-last-digit-small.mp4
+1,What is the sum of 11 + 27? Is it even or odd?,"38, even",240,Y,odd + odd = ?,"11+27 = 38. The sum ends in 8 and equals 2 x 19, so it is even. Fill 38, even.",Grade 2/Unit 2/parity-total-after-addition.mp4
+2,Is the product of 3 x 5 even or odd?,odd|Odd|ODD,240,Y,Odd x Odd = ?,"3 x 5 = 15, which is odd. Both factors are odd, so their product is odd.",Grade 3/Unit 8/parity-products-early.mp4
+3,Is 14 x 16 even or odd?,even|Even|EVEN,240,Y,Check if one number is even.,"14 x 16 = 224, which is even. A product with an even factor is even.",Grade 3/Unit 8/parity-products-early.mp4
+4,"Is 8,462 even or odd?",even|Even|EVEN,240,Y,Look at the ones place.,"8462 ends in 2, so it is even. Its earlier digits do not change this test.",Grade 2/Unit 2/parity-last-digit-small.mp4
+5,"Is 7,935 even or odd?",odd|Odd|ODD,240,Y,Look at the ones place.,"7935 ends in 5, so it is odd. Its earlier digits do not change this test.",Grade 2/Unit 2/parity-last-digit-small.mp4

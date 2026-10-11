@@ -2,8 +2,8 @@
 """
 Rebuild `unit-tests/catalog/catalog.json`, the index the site's launcher reads.
 
-Every field in the catalog is derived from the CSVs themselves — the grade from
-the folder, the unit name from the filename, the question count and the timer
+Every field in the catalog is derived from the CSVs and images/grade-units.json
+— the grade from the folder, the unit name from the numbered JSON mapping, the question count and the timer
 from the rows — so the catalog is a *build product*, not a document. It used to
 live in the site repository and be generated from whatever unit tests happened
 to be checked out there, which is exactly how it came to list 62 of these 138
@@ -29,6 +29,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 UNIT_TESTS_DIR = ROOT / "unit-tests"
 CATALOG_PATH = UNIT_TESTS_DIR / "catalog" / "catalog.json"
+GRADE_UNITS_PATH = ROOT / "images" / "grade-units.json"
 SKIP_DIRS = {"catalog", "__pycache__"}
 ENRICHMENT_DIR = "enrichment"
 SMALL_WORDS = {"and", "or", "of", "the", "a", "an", "to", "by", "in", "on", "for", "with"}
@@ -38,7 +39,13 @@ LAST_SCHOOL_GRADE = 12
 
 
 def folder_to_grade(folder_name: str) -> tuple[int, str, str]:
-    """`4th-grade-math` -> (4, "4th grade math", "Grade 4")."""
+    """`Grade 4` -> (4, "4th grade math", "Grade 4")."""
+    match = re.fullmatch(r"Grade (\d+)", folder_name)
+    if match:
+        grade_number = int(match.group(1))
+        suffix = "th" if 10 <= grade_number % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}.get(grade_number % 10, "th")
+        return (grade_number, f"{grade_number}{suffix} grade math", f"Grade {grade_number}")
+
     if folder_name == "grade-9":
         return (9, "9th grade math", "Grade 9")
 
@@ -116,9 +123,21 @@ def entry(
 
 def school_entries(folder: Path) -> list[dict[str, object]]:
     grade_order, grade_label, grade_title = folder_to_grade(folder.name)
+    grades = json.loads(GRADE_UNITS_PATH.read_text(encoding="utf-8"))["grades"]
+    units = {
+        unit["unit_number"]: unit["unit_name"]
+        for grade in grades if grade["grade"] == grade_order
+        for unit in grade["units"]
+    }
     entries = []
     for csv_path in sorted(folder.glob("*.csv")):
-        unit = titleize(csv_path.stem)
+        if folder.name.startswith("Grade "):
+            match = re.fullmatch(rf"G{grade_order}Unit(\d+)", csv_path.stem)
+            if not match or int(match.group(1)) not in units:
+                raise ValueError(f"Unknown grade/unit filename: {csv_path}")
+            unit = titleize(units[int(match.group(1))])
+        else:
+            unit = titleize(csv_path.stem)
         entries.append(
             entry(
                 csv_path,
@@ -133,7 +152,7 @@ def school_entries(folder: Path) -> list[dict[str, object]]:
 
 
 def enrichment_entries(folder: Path) -> list[dict[str, object]]:
-    """`enrichment/<track>/<topic>/<topic>-<lesson>-unit-test.csv`.
+    """`enrichment/<track>/U<unit><topic>/E-<course>U<unit>T<test>.csv`.
 
     A track is a course, not a grade, so it gets its own grade label and sorts
     after Grade 12. The tests sit one level deeper than a school grade's do,
@@ -147,10 +166,12 @@ def enrichment_entries(folder: Path) -> list[dict[str, object]]:
         grade_order = LAST_SCHOOL_GRADE + index
 
         for csv_path in sorted(track.rglob("*.csv")):
-            stem = re.sub(r"-unit-test$", "", csv_path.stem, flags=re.IGNORECASE)
-            lesson_match = re.fullmatch(r"(.*?)-(\d+-\d+)", stem)
-            topic = titleize(lesson_match.group(1) if lesson_match else stem)
-            lesson = lesson_match.group(2) if lesson_match else ""
+            match = re.fullmatch(r"E-([A-Z]+\d+)U(\d+)T(\d+)", csv_path.stem)
+            folder_match = re.fullmatch(r"U(\d+)(.+)", csv_path.parent.name)
+            if not match or not folder_match or match.group(2) != folder_match.group(1):
+                raise ValueError(f"Unknown enrichment test filename: {csv_path}")
+            topic = titleize(folder_match.group(2))
+            lesson = f"{match.group(2)}-{match.group(3)}"
             unit = f"{topic} {lesson}".strip()
 
             entries.append(

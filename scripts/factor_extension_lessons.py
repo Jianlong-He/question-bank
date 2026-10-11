@@ -1,0 +1,67 @@
+"""Complete multistep factorizations and factor-then-evaluate problems."""
+from algebra_lessons import authored
+from number_sense_lessons import source as g
+from card_lessons import make_lessons
+SPECS=[
+authored('factor-monomial-then-squares','Factor out a monomial and then a difference of squares',
+ 'Factor 6x⁴ − 150x² completely.', '6x²(x − 5)(x + 5)',
+ 'Factor six x to the fourth minus one hundred fifty x squared completely.',[
+ ('COMMON MONOMIAL','Both terms share six x squared','6x⁴ − 150x² = 6x²(x² − 25)',
+ 'Take out six x squared. The remaining terms are x squared and negative twenty-five.'),
+ ('INSPECT THE BRACKET','The remaining polynomial is a difference of squares','x² − 25 = x² − 5²',
+ 'The bracket is a difference of squares, so the first factoring step is not the last.'),
+ ('FACTOR AGAIN','Keep the monomial factor outside','6x²(x² − 25) = 6x²(x − 5)(x + 5)',
+ 'Factor the bracket as x minus five times x plus five, keeping six x squared outside.'),
+ ('CHECK','Multiply the factors back together','6x²(x − 5)(x + 5)\n= 6x²(x² − 25) = 6x⁴ − 150x²',
+ 'Multiply back to recover the original polynomial. The complete factorization includes both the common monomial and the two linear factors.')],
+ g(11,2,2,5),identities=[('6*x**4-150*x**2','6*x**2*(x-5)*(x+5)')]),
+authored('factor-quadratic-in-a-power','Use a repeated power as the variable in a quadratic',
+ 'Use substitution to factor x⁴ + 11x² + 30\nand x⁶ − x³ − 20.', '(x² + 5)(x² + 6); (x³ − 5)(x³ + 4)',
+ 'Use substitution to factor x to the fourth plus eleven x squared plus thirty, and x to the sixth minus x cubed minus twenty.',[
+ ('FIRST SUBSTITUTION','Let u equal x squared','u² + 11u + 30 = (u + 5)(u + 6)',
+ 'For the first expression, let u equal x squared. Five and six have product thirty and sum eleven, so the quadratic factors as u plus five times u plus six.'),
+ ('FIRST RESULT','Replace u with x squared in both factors','x⁴ + 11x² + 30 = (x² + 5)(x² + 6)',
+ 'Replace both occurrences of u with x squared. The factors are x squared plus five and x squared plus six.'),
+ ('SECOND SUBSTITUTION','Let v equal x cubed','v² − v − 20 = (v − 5)(v + 4)',
+ 'For the second expression, let v equal x cubed. Negative five and four have product negative twenty and sum negative one.'),
+ ('SECOND RESULT','Replace v with x cubed and check by expansion','x⁶ − x³ − 20 = (x³ − 5)(x³ + 4)',
+ 'Substitute x cubed back to obtain x cubed minus five times x cubed plus four. Expand each answer to check. Recognizing the repeated power turns these into quadratic problems.')],
+ g(11,2,2,6),identities=[('x**4+11*x**2+30','(x**2+5)*(x**2+6)'),('x**6-x**3-20','(x**3-5)*(x**3+4)')]),
+authored('factor-monomial-then-perfect-square','Recognize a perfect square after taking out a common factor',
+ 'Factor 5x⁵ + 30x³ + 45x completely over the reals.', '5x(x² + 3)²',
+ 'Factor five x to the fifth plus thirty x cubed plus forty-five x completely over the real numbers.',[
+ ('COMMON FACTOR','All three terms share five x','5x⁵ + 30x³ + 45x = 5x(x⁴ + 6x² + 9)',
+ 'Take out five x from all three terms. The remaining polynomial is x to the fourth plus six x squared plus nine.'),
+ ('CHECK THE SQUARE PATTERN','Treat x squared and three as the two terms','x⁴ = (x²)²; 9 = 3²\n2(x²)(3) = 6x²',
+ 'The first and last terms are squares. Twice x squared times three matches the middle term, six x squared.'),
+ ('WRITE THE SQUARE','Keep the common factor outside','5x(x⁴ + 6x² + 9) = 5x(x² + 3)²',
+ 'The bracket is x squared plus three, squared. Keep the common factor five x outside.'),
+ ('CHECK COMPLETENESS','The quadratic has no real roots','x² + 3 > 0 for every real x\nAnswer: 5x(x² + 3)²',
+ 'X squared plus three is positive for every real x, so it cannot split into real linear factors. The complete real factorization is five x times x squared plus three, squared.')],
+ g(11,2,2,10),identities=[('5*x**5+30*x**3+45*x','5*x*(x**2+3)**2')]),
+authored('factor-cubic-grouping-complete','Group a cubic and then factor the remaining square difference',
+ 'Factor x³ − 6x² − 9x + 54 completely.', '(x − 6)(x − 3)(x + 3)',
+ 'Factor x cubed minus six x squared minus nine x plus fifty-four completely.',[
+ ('GROUP THE TERMS','Pair the first two terms and the last two terms','(x³ − 6x²) + (−9x + 54)',
+ 'Group the first two terms and the last two terms. Look for a common factor in each group.'),
+ ('FACTOR EACH GROUP','Take negative nine from the second group','x²(x − 6) − 9(x − 6)',
+ 'Take x squared from the first group and negative nine from the second. Both groups now contain x minus six.'),
+ ('COMMON BINOMIAL','Factor out the shared bracket','(x − 6)(x² − 9)',
+ 'Factor out the shared x minus six. The other factor is x squared minus nine.'),
+ ('FINISH FACTORING','The quadratic is still a difference of squares','(x − 6)(x − 3)(x + 3)',
+ 'Factor x squared minus nine as x minus three times x plus three. All polynomial factors are linear now, and multiplying them back checks the complete factorization.')],
+ g(11,3,2,9),identities=[('x**3-6*x**2-9*x+54','(x-6)*(x-3)*(x+3)')]),
+authored('factor-then-evaluate','Factor a linear expression before substituting a value',
+ 'Factor 10z − 35, then evaluate it when z = −1.', '5(2z − 7); value −45',
+ 'Factor ten z minus thirty-five, then evaluate it when z equals negative one.',[
+ ('FIND THE GCF','Ten and thirty-five have common factor five','10z − 35 = 5(2z − 7)',
+ 'The greatest common factor of ten and thirty-five is five. Divide both terms by five to get five times two z minus seven.'),
+ ('SUBSTITUTE','Put the negative input in parentheses','5(2(−1) − 7)',
+ 'Now substitute negative one for z in the factored expression. Use parentheses around the negative input.'),
+ ('EVALUATE IN ORDER','Finish the bracket before the outside multiplication','5(−2 − 7) = 5(−9) = −45',
+ 'Two times negative one is negative two. Subtract seven to get negative nine, then multiply by five to get negative forty-five.'),
+ ('CHECK THE ORIGINAL','Substitute into the original unfactored expression','10(−1) − 35 = −10 − 35 = −45',
+ 'Check the original expression with the same input. It also gives negative forty-five. Factoring changes the form, but not the value.')],
+ g(7,6,1,5),identities=[('10*z-35','5*(2*z-7)')],equalities=[('5*(2*(-1)-7)','-45'),('10*(-1)-35','-45')]),
+]
+def lessons(doc):return make_lessons(SPECS,doc)

@@ -1,0 +1,15 @@
+Question ID,Question Choices,Question Answer,Question Time (seconds),Hints Allowed,Hints,Solution,image
+1,How many sides does a rectangle have?,4,60,No,,A rectangle has 4 sides,unit-test-images/Grade 2/G2Unit8/UT-G2U8Q1I1.png
+2,Fill: A _____ (shape) has 3 sides and 3 corners,Triangle,60,No,,A triangle has 3 sides and 3 corners,unit-test-images/Grade 2/G2Unit8/UT-G2U8Q2I1.png
+3,How many faces does a cube have?,6,60,No,,A cube has 6 faces,unit-test-images/Grade 2/G2Unit8/UT-G2U8Q3I1.png
+4,Select which 3D shape looks like a can of soup ~~Cone | Cylinder | Rectangle | Cube~~,Cylinder,60,No,,A cylinder looks like a can,unit-test-images/Grade 2/G2Unit8/UT-G2U8Q4I1.png
+5,"A square has all 4 sides equal. If one side is 5 cm, what is the total distance around it?",20,60,No,,4 x 5 = 20 cm (perimeter),unit-test-images/Grade 2/G2Unit8/UT-G2U8Q5I1.png
+6,Select which shape has 5 sides ~~Circle | Triangle | Square | Pentagon~~,Pentagon,60,No,,A pentagon has 5 sides,unit-test-images/Grade 2/G2Unit8/UT-G2U8Q6I1.png
+7,Select. Fold a rectangle in half along the straight line joining the midpoints of two opposite sides. The crease divides the rectangle into two ___ ~~triangles | rectangles | pentagons | circles~~,rectangles,60,No,,A crease joining the midpoints of two opposite sides is parallel to the other two sides. It divides the rectangle into two smaller rectangles.,
+8,How many corners does a hexagon have?,6,60,No,,A hexagon has 6 corners,
+9,"Select which 3D shape has 1 flat face, 1 curved surface, and comes to a point ~~cone | cube | sphere~~",cone,60,No,,A cone has 1 flat face and comes to a point,unit-test-images/Grade 2/G2Unit8/UT-G2U8Q9I1.png
+10,Select. Maria draws a shape with 4 equal sides and 4 square corners. What is the most specific name for her shape? ~~square | rectangle | rhombus | cube~~,square,60,No,,"A square has 4 equal sides and 4 right angles. It is also a rectangle and a rhombus, but square is the most specific name.",
+11,Select how many edges a rectangular prism (box) has ~~4 | 6 | 10 | 12~~,12,60,No,,A rectangular prism has 12 edges,unit-test-images/Grade 2/G2Unit8/UT-G2U8Q11I1.png
+12,Select which shape can be divided into 2 triangles by drawing one straight line ~~circle | oval | rectangle~~,rectangle,60,No,,"A diagonal divides a rectangle into 2 triangles. A circle or oval has a curved boundary, so one straight cut cannot make 2 triangles.",
+13,How many angles does this shape have,3,60,No,,3 Angles,unit-test-images/Grade 2/G2Unit8/UT-G2U8Q13I1.png
+14,Select which shape this is ~~Circle | Triangle | Square | None~~,Triangle,60,No,,,unit-test-images/Grade 2/G2Unit8/UT-G2U8Q14I1.png

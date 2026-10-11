@@ -5,39 +5,39 @@
         "unit": "Place Value",
         "title": "Grade 1 Place Value Unit Test",
         "description": "Grade 1 unit test for Place Value with a single full-worksheet timer.",
-        "file": "unit-tests/1st-grade-math/place-value.csv",
+        "file": "unit-tests/Grade 1/G1Unit1.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
     {
         "gradeOrder": 2,
         "grade": "2nd grade math",
-        "unit": "Add Subtract Within 100",
-        "title": "Grade 2 Add Subtract Within 100 Unit Test",
-        "description": "Grade 2 unit test for Add Subtract Within 100 with a single full-worksheet timer.",
-        "file": "unit-tests/2nd-grade-math/add_subtract_within_100 - add_subtract_within_100.csv.csv",
+        "unit": "Add and Subtract Within 100",
+        "title": "Grade 2 Add and Subtract Within 100 Unit Test",
+        "description": "Grade 2 unit test for Add and Subtract Within 100 with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 2/G2Unit3.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
     {
         "gradeOrder": 2,
         "grade": "2nd grade math",
-        "unit": "Add Subtract Within 1000",
-        "title": "Grade 2 Add Subtract Within 1000 Unit Test",
-        "description": "Grade 2 unit test for Add Subtract Within 1000 with a single full-worksheet timer.",
-        "file": "unit-tests/2nd-grade-math/add_subtract_within_1000 - add_subtract_within_1000.csv.csv",
-        "questionCount": 12,
-        "totalTimeSeconds": 720
-    },
-    {
-        "gradeOrder": 2,
-        "grade": "2nd grade math",
-        "unit": "Add Subtract Within 20",
-        "title": "Grade 2 Add Subtract Within 20 Unit Test",
-        "description": "Grade 2 unit test for Add Subtract Within 20 with a single full-worksheet timer.",
-        "file": "unit-tests/2nd-grade-math/add_subtract_within_20 - add_subtract_within_20.csv.csv",
+        "unit": "Add and Subtract Within 20",
+        "title": "Grade 2 Add and Subtract Within 20 Unit Test",
+        "description": "Grade 2 unit test for Add and Subtract Within 20 with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 2/G2Unit1.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
+    },
+    {
+        "gradeOrder": 2,
+        "grade": "2nd grade math",
+        "unit": "Addition and Subtraction Within 1000",
+        "title": "Grade 2 Addition and Subtraction Within 1000 Unit Test",
+        "description": "Grade 2 unit test for Addition and Subtraction Within 1000 with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 2/G2Unit4.csv",
+        "questionCount": 12,
+        "totalTimeSeconds": 720
     },
     {
         "gradeOrder": 2,
@@ -45,7 +45,7 @@
         "unit": "Data",
         "title": "Grade 2 Data Unit Test",
         "description": "Grade 2 unit test for Data with a single full-worksheet timer.",
-        "file": "unit-tests/2nd-grade-math/data - data.csv.csv",
+        "file": "unit-tests/Grade 2/G2Unit7.csv",
         "questionCount": 9,
         "totalTimeSeconds": 540
     },
@@ -55,7 +55,7 @@
         "unit": "Geometry",
         "title": "Grade 2 Geometry Unit Test",
         "description": "Grade 2 unit test for Geometry with a single full-worksheet timer.",
-        "file": "unit-tests/2nd-grade-math/geometry - geometry.csv.csv",
+        "file": "unit-tests/Grade 2/G2Unit8.csv",
         "questionCount": 14,
         "totalTimeSeconds": 840
     },
@@ -65,7 +65,7 @@
         "unit": "Measurement",
         "title": "Grade 2 Measurement Unit Test",
         "description": "Grade 2 unit test for Measurement with a single full-worksheet timer.",
-        "file": "unit-tests/2nd-grade-math/measurement - measurement.csv.csv",
+        "file": "unit-tests/Grade 2/G2Unit6.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -75,7 +75,7 @@
         "unit": "Money and Time",
         "title": "Grade 2 Money and Time Unit Test",
         "description": "Grade 2 unit test for Money and Time with a single full-worksheet timer.",
-        "file": "unit-tests/2nd-grade-math/money_and_time - money_and_time.csv.csv",
+        "file": "unit-tests/Grade 2/G2Unit5.csv",
         "questionCount": 8,
         "totalTimeSeconds": 480
     },
@@ -85,7 +85,17 @@
         "unit": "Place Value",
         "title": "Grade 2 Place Value Unit Test",
         "description": "Grade 2 unit test for Place Value with a single full-worksheet timer.",
-        "file": "unit-tests/2nd-grade-math/place_value - place_value.csv.csv",
+        "file": "unit-tests/Grade 2/G2Unit2.csv",
+        "questionCount": 10,
+        "totalTimeSeconds": 600
+    },
+    {
+        "gradeOrder": 3,
+        "grade": "3rd grade math",
+        "unit": "1 Digit Multiplication",
+        "title": "Grade 3 1 Digit Multiplication Unit Test",
+        "description": "Grade 3 unit test for 1 Digit Multiplication with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 3/G3Unit2.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -95,7 +105,7 @@
         "unit": "Addition, Subtraction, and Estimation",
         "title": "Grade 3 Addition, Subtraction, and Estimation Unit Test",
         "description": "Grade 3 unit test for Addition, Subtraction, and Estimation with a single full-worksheet timer.",
-        "file": "unit-tests/3rd-grade-math/Addition, Subtraction, and Estimation.csv",
+        "file": "unit-tests/Grade 3/G3Unit3.csv",
         "questionCount": 11,
         "totalTimeSeconds": 660
     },
@@ -105,7 +115,7 @@
         "unit": "Area",
         "title": "Grade 3 Area Unit Test",
         "description": "Grade 3 unit test for Area with a single full-worksheet timer.",
-        "file": "unit-tests/3rd-grade-math/Area.csv",
+        "file": "unit-tests/Grade 3/G3Unit10.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -115,7 +125,7 @@
         "unit": "Arithmetic Patterns and Problem Solving",
         "title": "Grade 3 Arithmetic Patterns and Problem Solving Unit Test",
         "description": "Grade 3 unit test for Arithmetic Patterns and Problem Solving with a single full-worksheet timer.",
-        "file": "unit-tests/3rd-grade-math/Arithmetic Patterns and Problem Solving.csv",
+        "file": "unit-tests/Grade 3/G3Unit8.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -125,7 +135,7 @@
         "unit": "Equivalent Fractions and Comparing Fractions",
         "title": "Grade 3 Equivalent Fractions and Comparing Fractions Unit Test",
         "description": "Grade 3 unit test for Equivalent Fractions and Comparing Fractions with a single full-worksheet timer.",
-        "file": "unit-tests/3rd-grade-math/Equivalent Fractions and Comparing Fractions.csv",
+        "file": "unit-tests/Grade 3/G3Unit6.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -135,7 +145,7 @@
         "unit": "Intro to Division",
         "title": "Grade 3 Intro to Division Unit Test",
         "description": "Grade 3 unit test for Intro to Division with a single full-worksheet timer.",
-        "file": "unit-tests/3rd-grade-math/Intro to Division.csv",
+        "file": "unit-tests/Grade 3/G3Unit4.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -145,7 +155,7 @@
         "unit": "Measurement",
         "title": "Grade 3 Measurement Unit Test",
         "description": "Grade 3 unit test for Measurement with a single full-worksheet timer.",
-        "file": "unit-tests/3rd-grade-math/Measurement.csv",
+        "file": "unit-tests/Grade 3/G3Unit13.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -155,17 +165,7 @@
         "unit": "More with Multiplication and Division",
         "title": "Grade 3 More with Multiplication and Division Unit Test",
         "description": "Grade 3 unit test for More with Multiplication and Division with a single full-worksheet timer.",
-        "file": "unit-tests/3rd-grade-math/More with Multiplication and Division.csv",
-        "questionCount": 10,
-        "totalTimeSeconds": 600
-    },
-    {
-        "gradeOrder": 3,
-        "grade": "3rd grade math",
-        "unit": "Multiply by 1 Digit Numbers",
-        "title": "Grade 3 Multiply by 1 Digit Numbers Unit Test",
-        "description": "Grade 3 unit test for Multiply by 1 Digit Numbers with a single full-worksheet timer.",
-        "file": "unit-tests/3rd-grade-math/multiply by 1-digit numbers.csv",
+        "file": "unit-tests/Grade 3/G3Unit7.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -175,7 +175,7 @@
         "unit": "Perimeter",
         "title": "Grade 3 Perimeter Unit Test",
         "description": "Grade 3 unit test for Perimeter with a single full-worksheet timer.",
-        "file": "unit-tests/3rd-grade-math/Perimeter.csv",
+        "file": "unit-tests/Grade 3/G3Unit11.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -185,7 +185,7 @@
         "unit": "Quadrilaterals",
         "title": "Grade 3 Quadrilaterals Unit Test",
         "description": "Grade 3 unit test for Quadrilaterals with a single full-worksheet timer.",
-        "file": "unit-tests/3rd-grade-math/Quadrilaterals.csv",
+        "file": "unit-tests/Grade 3/G3Unit9.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -195,7 +195,7 @@
         "unit": "Time",
         "title": "Grade 3 Time Unit Test",
         "description": "Grade 3 unit test for Time with a single full-worksheet timer.",
-        "file": "unit-tests/3rd-grade-math/Time.csv",
+        "file": "unit-tests/Grade 3/G3Unit12.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -205,7 +205,7 @@
         "unit": "Understand Fractions",
         "title": "Grade 3 Understand Fractions Unit Test",
         "description": "Grade 3 unit test for Understand Fractions with a single full-worksheet timer.",
-        "file": "unit-tests/3rd-grade-math/Understand Fractions.csv",
+        "file": "unit-tests/Grade 3/G3Unit5.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -215,17 +215,17 @@
         "unit": "Add and Subtract Fractions",
         "title": "Grade 4 Add and Subtract Fractions Unit Test",
         "description": "Grade 4 unit test for Add and Subtract Fractions with a single full-worksheet timer.",
-        "file": "unit-tests/4th-grade-math/add and subtract fractions.csv",
+        "file": "unit-tests/Grade 4/G4Unit8.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
     {
         "gradeOrder": 4,
         "grade": "4th grade math",
-        "unit": "Addition Substraction and Estimation",
-        "title": "Grade 4 Addition Substraction and Estimation Unit Test",
-        "description": "Grade 4 unit test for Addition Substraction and Estimation with a single full-worksheet timer.",
-        "file": "unit-tests/4th-grade-math/addition substraction and estimation.csv",
+        "unit": "Addition, Subtraction, and Estimation",
+        "title": "Grade 4 Addition, Subtraction, and Estimation Unit Test",
+        "description": "Grade 4 unit test for Addition, Subtraction, and Estimation with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 4/G4Unit2.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -235,7 +235,7 @@
         "unit": "Area and Perimeter",
         "title": "Grade 4 Area and Perimeter Unit Test",
         "description": "Grade 4 unit test for Area and Perimeter with a single full-worksheet timer.",
-        "file": "unit-tests/4th-grade-math/area and perimeter.csv",
+        "file": "unit-tests/Grade 4/G4Unit13.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -245,7 +245,7 @@
         "unit": "Division",
         "title": "Grade 4 Division Unit Test",
         "description": "Grade 4 unit test for Division with a single full-worksheet timer.",
-        "file": "unit-tests/4th-grade-math/division.csv",
+        "file": "unit-tests/Grade 4/G4Unit5.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -255,17 +255,17 @@
         "unit": "Equivalent Fractions and Comparing Fractions",
         "title": "Grade 4 Equivalent Fractions and Comparing Fractions Unit Test",
         "description": "Grade 4 unit test for Equivalent Fractions and Comparing Fractions with a single full-worksheet timer.",
-        "file": "unit-tests/4th-grade-math/equivalent fractions and comparing fractions.csv",
+        "file": "unit-tests/Grade 4/G4Unit7.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
     {
         "gradeOrder": 4,
         "grade": "4th grade math",
-        "unit": "Factors Multiples and Patterns",
-        "title": "Grade 4 Factors Multiples and Patterns Unit Test",
-        "description": "Grade 4 unit test for Factors Multiples and Patterns with a single full-worksheet timer.",
-        "file": "unit-tests/4th-grade-math/factors multiples and patterns.csv",
+        "unit": "Factors, Multiples and Patterns",
+        "title": "Grade 4 Factors, Multiples and Patterns Unit Test",
+        "description": "Grade 4 unit test for Factors, Multiples and Patterns with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 4/G4Unit6.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -275,7 +275,7 @@
         "unit": "Measuring Angles",
         "title": "Grade 4 Measuring Angles Unit Test",
         "description": "Grade 4 unit test for Measuring Angles with a single full-worksheet timer.",
-        "file": "unit-tests/4th-grade-math/measuring angles.csv",
+        "file": "unit-tests/Grade 4/G4Unit12.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -285,7 +285,7 @@
         "unit": "Multiply Fractions",
         "title": "Grade 4 Multiply Fractions Unit Test",
         "description": "Grade 4 unit test for Multiply Fractions with a single full-worksheet timer.",
-        "file": "unit-tests/4th-grade-math/multiply fractions.csv",
+        "file": "unit-tests/Grade 4/G4Unit9.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -295,7 +295,7 @@
         "unit": "Multiply by 1 Digit Numbers",
         "title": "Grade 4 Multiply by 1 Digit Numbers Unit Test",
         "description": "Grade 4 unit test for Multiply by 1 Digit Numbers with a single full-worksheet timer.",
-        "file": "unit-tests/4th-grade-math/multiply by 1-digit numbers.csv",
+        "file": "unit-tests/Grade 4/G4Unit3.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -305,7 +305,7 @@
         "unit": "Multiply by 2 Digit Numbers",
         "title": "Grade 4 Multiply by 2 Digit Numbers Unit Test",
         "description": "Grade 4 unit test for Multiply by 2 Digit Numbers with a single full-worksheet timer.",
-        "file": "unit-tests/4th-grade-math/multiply by 2-digit numbers.csv",
+        "file": "unit-tests/Grade 4/G4Unit4.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -315,7 +315,7 @@
         "unit": "Place Value",
         "title": "Grade 4 Place Value Unit Test",
         "description": "Grade 4 unit test for Place Value with a single full-worksheet timer.",
-        "file": "unit-tests/4th-grade-math/place value.csv",
+        "file": "unit-tests/Grade 4/G4Unit1.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -325,7 +325,7 @@
         "unit": "Plane Figures",
         "title": "Grade 4 Plane Figures Unit Test",
         "description": "Grade 4 unit test for Plane Figures with a single full-worksheet timer.",
-        "file": "unit-tests/4th-grade-math/plane figures.csv",
+        "file": "unit-tests/Grade 4/G4Unit11.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -335,7 +335,7 @@
         "unit": "Understand Decimals",
         "title": "Grade 4 Understand Decimals Unit Test",
         "description": "Grade 4 unit test for Understand Decimals with a single full-worksheet timer.",
-        "file": "unit-tests/4th-grade-math/understand decimals.csv",
+        "file": "unit-tests/Grade 4/G4Unit10.csv",
         "questionCount": 14,
         "totalTimeSeconds": 840
     },
@@ -345,7 +345,7 @@
         "unit": "Units of Measurement",
         "title": "Grade 4 Units of Measurement Unit Test",
         "description": "Grade 4 unit test for Units of Measurement with a single full-worksheet timer.",
-        "file": "unit-tests/4th-grade-math/units of measurement.csv",
+        "file": "unit-tests/Grade 4/G4Unit14.csv",
         "questionCount": 20,
         "totalTimeSeconds": 1200
     },
@@ -355,7 +355,7 @@
         "unit": "Add Decimals",
         "title": "Grade 5 Add Decimals Unit Test",
         "description": "Grade 5 unit test for Add Decimals with a single full-worksheet timer.",
-        "file": "unit-tests/5th-grade-math/add decimals.csv",
+        "file": "unit-tests/Grade 5/G5Unit2.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -365,7 +365,7 @@
         "unit": "Add and Subtract Fractions",
         "title": "Grade 5 Add and Subtract Fractions Unit Test",
         "description": "Grade 5 unit test for Add and Subtract Fractions with a single full-worksheet timer.",
-        "file": "unit-tests/5th-grade-math/add and subtract fractions.csv",
+        "file": "unit-tests/Grade 5/G5Unit4.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -375,7 +375,7 @@
         "unit": "Algebraic Thinking",
         "title": "Grade 5 Algebraic Thinking Unit Test",
         "description": "Grade 5 unit test for Algebraic Thinking with a single full-worksheet timer.",
-        "file": "unit-tests/5th-grade-math/algebraic thinking.csv",
+        "file": "unit-tests/Grade 5/G5Unit13.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -385,7 +385,7 @@
         "unit": "Converting Units of Measure",
         "title": "Grade 5 Converting Units of Measure Unit Test",
         "description": "Grade 5 unit test for Converting Units of Measure with a single full-worksheet timer.",
-        "file": "unit-tests/5th-grade-math/converting units of measure.csv",
+        "file": "unit-tests/Grade 5/G5Unit14.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -395,7 +395,7 @@
         "unit": "Coordinate Plane",
         "title": "Grade 5 Coordinate Plane Unit Test",
         "description": "Grade 5 unit test for Coordinate Plane with a single full-worksheet timer.",
-        "file": "unit-tests/5th-grade-math/coordinate plane.csv",
+        "file": "unit-tests/Grade 5/G5Unit12.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -405,7 +405,7 @@
         "unit": "Decimal Place Value",
         "title": "Grade 5 Decimal Place Value Unit Test",
         "description": "Grade 5 unit test for Decimal Place Value with a single full-worksheet timer.",
-        "file": "unit-tests/5th-grade-math/decimal place value.csv",
+        "file": "unit-tests/Grade 5/G5Unit1.csv",
         "questionCount": 13,
         "totalTimeSeconds": 780
     },
@@ -415,7 +415,7 @@
         "unit": "Divide Decimals",
         "title": "Grade 5 Divide Decimals Unit Test",
         "description": "Grade 5 unit test for Divide Decimals with a single full-worksheet timer.",
-        "file": "unit-tests/5th-grade-math/divide decimals.csv",
+        "file": "unit-tests/Grade 5/G5Unit9.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -425,7 +425,7 @@
         "unit": "Divide Fractions",
         "title": "Grade 5 Divide Fractions Unit Test",
         "description": "Grade 5 unit test for Divide Fractions with a single full-worksheet timer.",
-        "file": "unit-tests/5th-grade-math/divide fractions.csv",
+        "file": "unit-tests/Grade 5/G5Unit7.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -435,7 +435,7 @@
         "unit": "Line Plots",
         "title": "Grade 5 Line Plots Unit Test",
         "description": "Grade 5 unit test for Line Plots with a single full-worksheet timer.",
-        "file": "unit-tests/5th-grade-math/line plots.csv",
+        "file": "unit-tests/Grade 5/G5Unit15.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -445,7 +445,7 @@
         "unit": "Multi Digit Multiplication and Division",
         "title": "Grade 5 Multi Digit Multiplication and Division Unit Test",
         "description": "Grade 5 unit test for Multi Digit Multiplication and Division with a single full-worksheet timer.",
-        "file": "unit-tests/5th-grade-math/multi-digit multiplication and division.csv",
+        "file": "unit-tests/Grade 5/G5Unit5.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -455,7 +455,7 @@
         "unit": "Multiply Decimals",
         "title": "Grade 5 Multiply Decimals Unit Test",
         "description": "Grade 5 unit test for Multiply Decimals with a single full-worksheet timer.",
-        "file": "unit-tests/5th-grade-math/multiply decimals.csv",
+        "file": "unit-tests/Grade 5/G5Unit8.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -465,7 +465,7 @@
         "unit": "Multiply Fractions",
         "title": "Grade 5 Multiply Fractions Unit Test",
         "description": "Grade 5 unit test for Multiply Fractions with a single full-worksheet timer.",
-        "file": "unit-tests/5th-grade-math/multiply fractions.csv",
+        "file": "unit-tests/Grade 5/G5Unit6.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -475,7 +475,7 @@
         "unit": "Powers of Ten",
         "title": "Grade 5 Powers of Ten Unit Test",
         "description": "Grade 5 unit test for Powers of Ten with a single full-worksheet timer.",
-        "file": "unit-tests/5th-grade-math/powers of ten.csv",
+        "file": "unit-tests/Grade 5/G5Unit10.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -485,7 +485,7 @@
         "unit": "Properties of Shapes",
         "title": "Grade 5 Properties of Shapes Unit Test",
         "description": "Grade 5 unit test for Properties of Shapes with a single full-worksheet timer.",
-        "file": "unit-tests/5th-grade-math/properties of shapes.csv",
+        "file": "unit-tests/Grade 5/G5Unit16.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -495,7 +495,7 @@
         "unit": "Subtract Decimals",
         "title": "Grade 5 Subtract Decimals Unit Test",
         "description": "Grade 5 unit test for Subtract Decimals with a single full-worksheet timer.",
-        "file": "unit-tests/5th-grade-math/subtract decimals.csv",
+        "file": "unit-tests/Grade 5/G5Unit3.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -505,7 +505,7 @@
         "unit": "Volume",
         "title": "Grade 5 Volume Unit Test",
         "description": "Grade 5 unit test for Volume with a single full-worksheet timer.",
-        "file": "unit-tests/5th-grade-math/volume.csv",
+        "file": "unit-tests/Grade 5/G5Unit11.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -515,7 +515,7 @@
         "unit": "3D Figures",
         "title": "Grade 6 3D Figures Unit Test",
         "description": "Grade 6 unit test for 3D Figures with a single full-worksheet timer.",
-        "file": "unit-tests/6th-grade-math/3d figures.csv",
+        "file": "unit-tests/Grade 6/G6Unit10.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -525,7 +525,7 @@
         "unit": "Arithmetic with Rational Numbers",
         "title": "Grade 6 Arithmetic with Rational Numbers Unit Test",
         "description": "Grade 6 unit test for Arithmetic with Rational Numbers with a single full-worksheet timer.",
-        "file": "unit-tests/6th-grade-math/arithmetic with rational numbers.csv",
+        "file": "unit-tests/Grade 6/G6Unit2.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -535,7 +535,7 @@
         "unit": "Coordinate Plane",
         "title": "Grade 6 Coordinate Plane Unit Test",
         "description": "Grade 6 unit test for Coordinate Plane with a single full-worksheet timer.",
-        "file": "unit-tests/6th-grade-math/coordinate plane.csv",
+        "file": "unit-tests/Grade 6/G6Unit9.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -545,17 +545,17 @@
         "unit": "Data and Statistics",
         "title": "Grade 6 Data and Statistics Unit Test",
         "description": "Grade 6 unit test for Data and Statistics with a single full-worksheet timer.",
-        "file": "unit-tests/6th-grade-math/data and statistics.csv",
+        "file": "unit-tests/Grade 6/G6Unit11.csv",
         "questionCount": 18,
         "totalTimeSeconds": 1080
     },
     {
         "gradeOrder": 6,
         "grade": "6th grade math",
-        "unit": "Equations and Inequalities",
-        "title": "Grade 6 Equations and Inequalities Unit Test",
-        "description": "Grade 6 unit test for Equations and Inequalities with a single full-worksheet timer.",
-        "file": "unit-tests/6th-grade-math/equations and inequalities.csv",
+        "unit": "Equations & Inequalities",
+        "title": "Grade 6 Equations & Inequalities Unit Test",
+        "description": "Grade 6 unit test for Equations & Inequalities with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 6/G6Unit7.csv",
         "questionCount": 21,
         "totalTimeSeconds": 1260
     },
@@ -565,7 +565,7 @@
         "unit": "Negative Numbers",
         "title": "Grade 6 Negative Numbers Unit Test",
         "description": "Grade 6 unit test for Negative Numbers with a single full-worksheet timer.",
-        "file": "unit-tests/6th-grade-math/negative numbers.csv",
+        "file": "unit-tests/Grade 6/G6Unit5.csv",
         "questionCount": 14,
         "totalTimeSeconds": 840
     },
@@ -575,7 +575,7 @@
         "unit": "Plane Figures",
         "title": "Grade 6 Plane Figures Unit Test",
         "description": "Grade 6 unit test for Plane Figures with a single full-worksheet timer.",
-        "file": "unit-tests/6th-grade-math/plane figures.csv",
+        "file": "unit-tests/Grade 6/G6Unit8.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -585,7 +585,7 @@
         "unit": "Rates and Percentages",
         "title": "Grade 6 Rates and Percentages Unit Test",
         "description": "Grade 6 unit test for Rates and Percentages with a single full-worksheet timer.",
-        "file": "unit-tests/6th-grade-math/rates and percentages.csv",
+        "file": "unit-tests/Grade 6/G6Unit3.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -595,27 +595,27 @@
         "unit": "Ratios",
         "title": "Grade 6 Ratios Unit Test",
         "description": "Grade 6 unit test for Ratios with a single full-worksheet timer.",
-        "file": "unit-tests/6th-grade-math/ratios.csv",
+        "file": "unit-tests/Grade 6/G6Unit1.csv",
         "questionCount": 11,
         "totalTimeSeconds": 660
     },
     {
         "gradeOrder": 6,
         "grade": "6th grade math",
-        "unit": "Variables and Expressions",
-        "title": "Grade 6 Variables and Expressions Unit Test",
-        "description": "Grade 6 unit test for Variables and Expressions with a single full-worksheet timer.",
-        "file": "unit-tests/6th-grade-math/variables and expressions.csv",
+        "unit": "Variables & Expressions",
+        "title": "Grade 6 Variables & Expressions Unit Test",
+        "description": "Grade 6 unit test for Variables & Expressions with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 6/G6Unit6.csv",
         "questionCount": 14,
         "totalTimeSeconds": 840
     },
     {
         "gradeOrder": 7,
         "grade": "7th grade math",
-        "unit": "Expressions Equations and Inequalities",
-        "title": "Grade 7 Expressions Equations and Inequalities Unit Test",
-        "description": "Grade 7 unit test for Expressions Equations and Inequalities with a single full-worksheet timer.",
-        "file": "unit-tests/7th-grade-math/expressions equations and inequalities.csv",
+        "unit": "Expressions, Equations, & Inequalities",
+        "title": "Grade 7 Expressions, Equations, & Inequalities Unit Test",
+        "description": "Grade 7 unit test for Expressions, Equations, & Inequalities with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 7/G7Unit6.csv",
         "questionCount": 13,
         "totalTimeSeconds": 780
     },
@@ -625,27 +625,27 @@
         "unit": "Geometry",
         "title": "Grade 7 Geometry Unit Test",
         "description": "Grade 7 unit test for Geometry with a single full-worksheet timer.",
-        "file": "unit-tests/7th-grade-math/geometry.csv",
+        "file": "unit-tests/Grade 7/G7Unit9.csv",
         "questionCount": 13,
         "totalTimeSeconds": 780
     },
     {
         "gradeOrder": 7,
         "grade": "7th grade math",
-        "unit": "Integers Addition and Subtraction",
-        "title": "Grade 7 Integers Addition and Subtraction Unit Test",
-        "description": "Grade 7 unit test for Integers Addition and Subtraction with a single full-worksheet timer.",
-        "file": "unit-tests/7th-grade-math/integers addition and subtraction.csv",
+        "unit": "Integers: Addition and Subtraction",
+        "title": "Grade 7 Integers: Addition and Subtraction Unit Test",
+        "description": "Grade 7 unit test for Integers: Addition and Subtraction with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 7/G7Unit3.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
     {
         "gradeOrder": 7,
         "grade": "7th grade math",
-        "unit": "Negative Numbers Multiplication and Division",
-        "title": "Grade 7 Negative Numbers Multiplication and Division Unit Test",
-        "description": "Grade 7 unit test for Negative Numbers Multiplication and Division with a single full-worksheet timer.",
-        "file": "unit-tests/7th-grade-math/negative numbers multiplication and division.csv",
+        "unit": "Negative Numbers: Multiplication and Division",
+        "title": "Grade 7 Negative Numbers: Multiplication and Division Unit Test",
+        "description": "Grade 7 unit test for Negative Numbers: Multiplication and Division with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 7/G7Unit5.csv",
         "questionCount": 13,
         "totalTimeSeconds": 780
     },
@@ -655,7 +655,7 @@
         "unit": "Proportional Relationships",
         "title": "Grade 7 Proportional Relationships Unit Test",
         "description": "Grade 7 unit test for Proportional Relationships with a single full-worksheet timer.",
-        "file": "unit-tests/7th-grade-math/proportional relationships.csv",
+        "file": "unit-tests/Grade 7/G7Unit1.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -665,17 +665,17 @@
         "unit": "Rates and Percentages",
         "title": "Grade 7 Rates and Percentages Unit Test",
         "description": "Grade 7 unit test for Rates and Percentages with a single full-worksheet timer.",
-        "file": "unit-tests/7th-grade-math/rates and percentages.csv",
+        "file": "unit-tests/Grade 7/G7Unit2.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
     {
         "gradeOrder": 7,
         "grade": "7th grade math",
-        "unit": "Rational Numbers Addition and Subtraction",
-        "title": "Grade 7 Rational Numbers Addition and Subtraction Unit Test",
-        "description": "Grade 7 unit test for Rational Numbers Addition and Subtraction with a single full-worksheet timer.",
-        "file": "unit-tests/7th-grade-math/rational numbers addition and subtraction.csv",
+        "unit": "Rational Numbers: Addition and Subtraction",
+        "title": "Grade 7 Rational Numbers: Addition and Subtraction Unit Test",
+        "description": "Grade 7 unit test for Rational Numbers: Addition and Subtraction with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 7/G7Unit4.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -685,7 +685,7 @@
         "unit": "Scale Copies",
         "title": "Grade 7 Scale Copies Unit Test",
         "description": "Grade 7 unit test for Scale Copies with a single full-worksheet timer.",
-        "file": "unit-tests/7th-grade-math/scale copies.csv",
+        "file": "unit-tests/Grade 7/G7Unit8.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -695,7 +695,7 @@
         "unit": "Statistics and Probability",
         "title": "Grade 7 Statistics and Probability Unit Test",
         "description": "Grade 7 unit test for Statistics and Probability with a single full-worksheet timer.",
-        "file": "unit-tests/7th-grade-math/statistics and probability.csv",
+        "file": "unit-tests/Grade 7/G7Unit7.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -705,7 +705,7 @@
         "unit": "Data and Modeling",
         "title": "Grade 8 Data and Modeling Unit Test",
         "description": "Grade 8 unit test for Data and Modeling with a single full-worksheet timer.",
-        "file": "unit-tests/8th-grade-math/data and modeling.csv",
+        "file": "unit-tests/Grade 8/G8Unit7.csv",
         "questionCount": 14,
         "totalTimeSeconds": 840
     },
@@ -715,7 +715,7 @@
         "unit": "Geometric Transformations",
         "title": "Grade 8 Geometric Transformations Unit Test",
         "description": "Grade 8 unit test for Geometric Transformations with a single full-worksheet timer.",
-        "file": "unit-tests/8th-grade-math/geometric transformations.csv",
+        "file": "unit-tests/Grade 8/G8Unit6.csv",
         "questionCount": 13,
         "totalTimeSeconds": 780
     },
@@ -725,7 +725,7 @@
         "unit": "Geometry",
         "title": "Grade 8 Geometry Unit Test",
         "description": "Grade 8 unit test for Geometry with a single full-worksheet timer.",
-        "file": "unit-tests/8th-grade-math/geometry.csv",
+        "file": "unit-tests/Grade 8/G8Unit5.csv",
         "questionCount": 14,
         "totalTimeSeconds": 840
     },
@@ -735,7 +735,7 @@
         "unit": "Linear Equations and Functions",
         "title": "Grade 8 Linear Equations and Functions Unit Test",
         "description": "Grade 8 unit test for Linear Equations and Functions with a single full-worksheet timer.",
-        "file": "unit-tests/8th-grade-math/linear equations and functions.csv",
+        "file": "unit-tests/Grade 8/G8Unit3.csv",
         "questionCount": 14,
         "totalTimeSeconds": 840
     },
@@ -745,7 +745,7 @@
         "unit": "Numbers and Operations",
         "title": "Grade 8 Numbers and Operations Unit Test",
         "description": "Grade 8 unit test for Numbers and Operations with a single full-worksheet timer.",
-        "file": "unit-tests/8th-grade-math/numbers and operations.csv",
+        "file": "unit-tests/Grade 8/G8Unit1.csv",
         "questionCount": 14,
         "totalTimeSeconds": 840
     },
@@ -755,7 +755,7 @@
         "unit": "Solving Equations with One Unknown",
         "title": "Grade 8 Solving Equations with One Unknown Unit Test",
         "description": "Grade 8 unit test for Solving Equations with One Unknown with a single full-worksheet timer.",
-        "file": "unit-tests/8th-grade-math/solving equations with one unknown.csv",
+        "file": "unit-tests/Grade 8/G8Unit2.csv",
         "questionCount": 13,
         "totalTimeSeconds": 780
     },
@@ -765,7 +765,7 @@
         "unit": "Systems of Equations",
         "title": "Grade 8 Systems of Equations Unit Test",
         "description": "Grade 8 unit test for Systems of Equations with a single full-worksheet timer.",
-        "file": "unit-tests/8th-grade-math/systems of equations.csv",
+        "file": "unit-tests/Grade 8/G8Unit4.csv",
         "questionCount": 13,
         "totalTimeSeconds": 780
     },
@@ -775,7 +775,7 @@
         "unit": "Algebra Foundations",
         "title": "Grade 9 Algebra Foundations Unit Test",
         "description": "Grade 9 unit test for Algebra Foundations with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/algebra-foundations-unit-test.csv",
+        "file": "unit-tests/Grade 9/G9Unit1.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -785,7 +785,7 @@
         "unit": "Analytic Geometry",
         "title": "Grade 9 Analytic Geometry Unit Test",
         "description": "Grade 9 unit test for Analytic Geometry with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/analytic-geometry.csv",
+        "file": "unit-tests/Grade 9/G9Unit18.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -795,7 +795,7 @@
         "unit": "Congruence",
         "title": "Grade 9 Congruence Unit Test",
         "description": "Grade 9 unit test for Congruence with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/congruence.csv",
+        "file": "unit-tests/Grade 9/G9Unit17.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -805,27 +805,27 @@
         "unit": "Data Distributions",
         "title": "Grade 9 Data Distributions Unit Test",
         "description": "Grade 9 unit test for Data Distributions with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/data-distributions.csv",
+        "file": "unit-tests/Grade 9/G9Unit10.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
     {
         "gradeOrder": 9,
         "grade": "9th grade math",
-        "unit": "Exponential Growth and Decay",
-        "title": "Grade 9 Exponential Growth and Decay Unit Test",
-        "description": "Grade 9 unit test for Exponential Growth and Decay with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/exponential-growth-and-decay.csv",
+        "unit": "Exponential Growth & Decay",
+        "title": "Grade 9 Exponential Growth & Decay Unit Test",
+        "description": "Grade 9 unit test for Exponential Growth & Decay with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 9/G9Unit14.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
     {
         "gradeOrder": 9,
         "grade": "9th grade math",
-        "unit": "Exponents and Radicals",
-        "title": "Grade 9 Exponents and Radicals Unit Test",
-        "description": "Grade 9 unit test for Exponents and Radicals with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/exponents-and-radicals.csv",
+        "unit": "Exponents & Radicals",
+        "title": "Grade 9 Exponents & Radicals Unit Test",
+        "description": "Grade 9 unit test for Exponents & Radicals with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 9/G9Unit13.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -835,7 +835,7 @@
         "unit": "Forms of Linear Equations",
         "title": "Grade 9 Forms of Linear Equations Unit Test",
         "description": "Grade 9 unit test for Forms of Linear Equations with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/forms-of-linear-equations.csv",
+        "file": "unit-tests/Grade 9/G9Unit5.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -845,27 +845,27 @@
         "unit": "Functions",
         "title": "Grade 9 Functions Unit Test",
         "description": "Grade 9 unit test for Functions with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/functions.csv",
+        "file": "unit-tests/Grade 9/G9Unit8.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
     {
         "gradeOrder": 9,
         "grade": "9th grade math",
-        "unit": "Inequalities Systems and Graphs",
-        "title": "Grade 9 Inequalities Systems and Graphs Unit Test",
-        "description": "Grade 9 unit test for Inequalities Systems and Graphs with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/inequalities-systems-and-graphs.csv",
+        "unit": "Inequalities (systems & Graphs)",
+        "title": "Grade 9 Inequalities (systems & Graphs) Unit Test",
+        "description": "Grade 9 unit test for Inequalities (systems & Graphs) with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 9/G9Unit7.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
     {
         "gradeOrder": 9,
         "grade": "9th grade math",
-        "unit": "Linear Equations and Graphs",
-        "title": "Grade 9 Linear Equations and Graphs Unit Test",
-        "description": "Grade 9 unit test for Linear Equations and Graphs with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/linear-equations-and-graphs.csv",
+        "unit": "Linear Equations & Graphs",
+        "title": "Grade 9 Linear Equations & Graphs Unit Test",
+        "description": "Grade 9 unit test for Linear Equations & Graphs with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 9/G9Unit4.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -875,7 +875,7 @@
         "unit": "Performing Transformations",
         "title": "Grade 9 Performing Transformations Unit Test",
         "description": "Grade 9 unit test for Performing Transformations with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/performing-transformations.csv",
+        "file": "unit-tests/Grade 9/G9Unit15.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -885,7 +885,7 @@
         "unit": "Scatterplots",
         "title": "Grade 9 Scatterplots Unit Test",
         "description": "Grade 9 unit test for Scatterplots with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/scatterplots.csv",
+        "file": "unit-tests/Grade 9/G9Unit9.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -895,17 +895,17 @@
         "unit": "Sequences",
         "title": "Grade 9 Sequences Unit Test",
         "description": "Grade 9 unit test for Sequences with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/sequences.csv",
+        "file": "unit-tests/Grade 9/G9Unit12.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
     {
         "gradeOrder": 9,
         "grade": "9th grade math",
-        "unit": "Solving Equations and Inequalities",
-        "title": "Grade 9 Solving Equations and Inequalities Unit Test",
-        "description": "Grade 9 unit test for Solving Equations and Inequalities with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/solving-equations-and-inequalities.csv",
+        "unit": "Solving Equations & Inequalities",
+        "title": "Grade 9 Solving Equations & Inequalities Unit Test",
+        "description": "Grade 9 unit test for Solving Equations & Inequalities with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 9/G9Unit2.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -915,7 +915,7 @@
         "unit": "Systems of Equations",
         "title": "Grade 9 Systems of Equations Unit Test",
         "description": "Grade 9 unit test for Systems of Equations with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/systems-of-equations.csv",
+        "file": "unit-tests/Grade 9/G9Unit6.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -925,7 +925,7 @@
         "unit": "Transformation Properties and Proofs",
         "title": "Grade 9 Transformation Properties and Proofs Unit Test",
         "description": "Grade 9 unit test for Transformation Properties and Proofs with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/transformation-properties-and-proofs.csv",
+        "file": "unit-tests/Grade 9/G9Unit16.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -935,7 +935,7 @@
         "unit": "Two Way Tables",
         "title": "Grade 9 Two Way Tables Unit Test",
         "description": "Grade 9 unit test for Two Way Tables with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/two-way-tables.csv",
+        "file": "unit-tests/Grade 9/G9Unit11.csv",
         "questionCount": 10,
         "totalTimeSeconds": 600
     },
@@ -945,17 +945,17 @@
         "unit": "Working with Units",
         "title": "Grade 9 Working with Units Unit Test",
         "description": "Grade 9 unit test for Working with Units with a single full-worksheet timer.",
-        "file": "unit-tests/9th-grade-math/working-with-units.csv",
+        "file": "unit-tests/Grade 9/G9Unit3.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
     {
         "gradeOrder": 10,
         "grade": "10th grade math",
-        "unit": "Absolute Value and Piecewise Functions",
-        "title": "Grade 10 Absolute Value and Piecewise Functions Unit Test",
-        "description": "Grade 10 unit test for Absolute Value and Piecewise Functions with a single full-worksheet timer.",
-        "file": "unit-tests/10th-grade-math/absolute value and piecewise functions.csv",
+        "unit": "Absolute Value & Piecewise Functions",
+        "title": "Grade 10 Absolute Value & Piecewise Functions Unit Test",
+        "description": "Grade 10 unit test for Absolute Value & Piecewise Functions with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 10/G10Unit1.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -965,7 +965,7 @@
         "unit": "Circles",
         "title": "Grade 10 Circles Unit Test",
         "description": "Grade 10 unit test for Circles with a single full-worksheet timer.",
-        "file": "unit-tests/10th-grade-math/circles.csv",
+        "file": "unit-tests/Grade 10/G10Unit11.csv",
         "questionCount": 13,
         "totalTimeSeconds": 780
     },
@@ -975,7 +975,7 @@
         "unit": "Complex Numbers",
         "title": "Grade 10 Complex Numbers Unit Test",
         "description": "Grade 10 unit test for Complex Numbers with a single full-worksheet timer.",
-        "file": "unit-tests/10th-grade-math/complex numbers.csv",
+        "file": "unit-tests/Grade 10/G10Unit5.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -985,7 +985,7 @@
         "unit": "Conic Sections",
         "title": "Grade 10 Conic Sections Unit Test",
         "description": "Grade 10 unit test for Conic Sections with a single full-worksheet timer.",
-        "file": "unit-tests/10th-grade-math/conic sections.csv",
+        "file": "unit-tests/Grade 10/G10Unit12.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -995,7 +995,7 @@
         "unit": "Exponential Models",
         "title": "Grade 10 Exponential Models Unit Test",
         "description": "Grade 10 unit test for Exponential Models with a single full-worksheet timer.",
-        "file": "unit-tests/10th-grade-math/exponential models.csv",
+        "file": "unit-tests/Grade 10/G10Unit7.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1005,7 +1005,7 @@
         "unit": "Irrational Numbers",
         "title": "Grade 10 Irrational Numbers Unit Test",
         "description": "Grade 10 unit test for Irrational Numbers with a single full-worksheet timer.",
-        "file": "unit-tests/10th-grade-math/irrational numbers.csv",
+        "file": "unit-tests/Grade 10/G10Unit4.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1015,27 +1015,27 @@
         "unit": "Probability",
         "title": "Grade 10 Probability Unit Test",
         "description": "Grade 10 unit test for Probability with a single full-worksheet timer.",
-        "file": "unit-tests/10th-grade-math/probability.csv",
+        "file": "unit-tests/Grade 10/G10Unit13.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
     {
         "gradeOrder": 10,
         "grade": "10th grade math",
-        "unit": "Quadratic Functions and Equations",
-        "title": "Grade 10 Quadratic Functions and Equations Unit Test",
-        "description": "Grade 10 unit test for Quadratic Functions and Equations with a single full-worksheet timer.",
-        "file": "unit-tests/10th-grade-math/quadratic functions and equations.csv",
+        "unit": "Quadratic Functions & Equations",
+        "title": "Grade 10 Quadratic Functions & Equations Unit Test",
+        "description": "Grade 10 unit test for Quadratic Functions & Equations with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 10/G10Unit3.csv",
         "questionCount": 13,
         "totalTimeSeconds": 780
     },
     {
         "gradeOrder": 10,
         "grade": "10th grade math",
-        "unit": "Quadratics Multiplying and Factoring",
-        "title": "Grade 10 Quadratics Multiplying and Factoring Unit Test",
-        "description": "Grade 10 unit test for Quadratics Multiplying and Factoring with a single full-worksheet timer.",
-        "file": "unit-tests/10th-grade-math/quadratics multiplying and factoring.csv",
+        "unit": "Quadratics: Multiplying & Factoring",
+        "title": "Grade 10 Quadratics: Multiplying & Factoring Unit Test",
+        "description": "Grade 10 unit test for Quadratics: Multiplying & Factoring with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 10/G10Unit2.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1045,17 +1045,17 @@
         "unit": "Rational Exponents and Radicals",
         "title": "Grade 10 Rational Exponents and Radicals Unit Test",
         "description": "Grade 10 unit test for Rational Exponents and Radicals with a single full-worksheet timer.",
-        "file": "unit-tests/10th-grade-math/rational exponents and radicals.csv",
+        "file": "unit-tests/Grade 10/G10Unit6.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
     {
         "gradeOrder": 10,
         "grade": "10th grade math",
-        "unit": "Right Triangles and Trigonometry",
-        "title": "Grade 10 Right Triangles and Trigonometry Unit Test",
-        "description": "Grade 10 unit test for Right Triangles and Trigonometry with a single full-worksheet timer.",
-        "file": "unit-tests/10th-grade-math/right triangles and trigonometry.csv",
+        "unit": "Right Triangles & Trigonometry",
+        "title": "Grade 10 Right Triangles & Trigonometry Unit Test",
+        "description": "Grade 10 unit test for Right Triangles & Trigonometry with a single full-worksheet timer.",
+        "file": "unit-tests/Grade 10/G10Unit9.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1065,7 +1065,7 @@
         "unit": "Similarity",
         "title": "Grade 10 Similarity Unit Test",
         "description": "Grade 10 unit test for Similarity with a single full-worksheet timer.",
-        "file": "unit-tests/10th-grade-math/similarity.csv",
+        "file": "unit-tests/Grade 10/G10Unit8.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1075,7 +1075,7 @@
         "unit": "Solid Geometry",
         "title": "Grade 10 Solid Geometry Unit Test",
         "description": "Grade 10 unit test for Solid Geometry with a single full-worksheet timer.",
-        "file": "unit-tests/10th-grade-math/solid geometry.csv",
+        "file": "unit-tests/Grade 10/G10Unit10.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1085,7 +1085,7 @@
         "unit": "Binomial Probability",
         "title": "Grade 11 Binomial Probability Unit Test",
         "description": "Grade 11 unit test for Binomial Probability with a single full-worksheet timer.",
-        "file": "unit-tests/11th-grade-math/binomial probability.csv",
+        "file": "unit-tests/Grade 11/G11Unit11.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1095,7 +1095,7 @@
         "unit": "Equations",
         "title": "Grade 11 Equations Unit Test",
         "description": "Grade 11 unit test for Equations with a single full-worksheet timer.",
-        "file": "unit-tests/11th-grade-math/equations.csv",
+        "file": "unit-tests/Grade 11/G11Unit7.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1105,7 +1105,7 @@
         "unit": "Logarithms",
         "title": "Grade 11 Logarithms Unit Test",
         "description": "Grade 11 unit test for Logarithms with a single full-worksheet timer.",
-        "file": "unit-tests/11th-grade-math/logarithms.csv",
+        "file": "unit-tests/Grade 11/G11Unit5.csv",
         "questionCount": 13,
         "totalTimeSeconds": 780
     },
@@ -1115,7 +1115,7 @@
         "unit": "Modeling",
         "title": "Grade 11 Modeling Unit Test",
         "description": "Grade 11 unit test for Modeling with a single full-worksheet timer.",
-        "file": "unit-tests/11th-grade-math/modeling.csv",
+        "file": "unit-tests/Grade 11/G11Unit9.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1125,7 +1125,7 @@
         "unit": "Normal Distributions",
         "title": "Grade 11 Normal Distributions Unit Test",
         "description": "Grade 11 unit test for Normal Distributions with a single full-worksheet timer.",
-        "file": "unit-tests/11th-grade-math/normal distributions.csv",
+        "file": "unit-tests/Grade 11/G11Unit12.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1135,7 +1135,7 @@
         "unit": "Polynomial Arithmetic",
         "title": "Grade 11 Polynomial Arithmetic Unit Test",
         "description": "Grade 11 unit test for Polynomial Arithmetic with a single full-worksheet timer.",
-        "file": "unit-tests/11th-grade-math/polynomial arithmetic.csv",
+        "file": "unit-tests/Grade 11/G11Unit1.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1145,7 +1145,7 @@
         "unit": "Polynomial Division",
         "title": "Grade 11 Polynomial Division Unit Test",
         "description": "Grade 11 unit test for Polynomial Division with a single full-worksheet timer.",
-        "file": "unit-tests/11th-grade-math/polynomial division.csv",
+        "file": "unit-tests/Grade 11/G11Unit3.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1155,7 +1155,7 @@
         "unit": "Polynomial Factorization",
         "title": "Grade 11 Polynomial Factorization Unit Test",
         "description": "Grade 11 unit test for Polynomial Factorization with a single full-worksheet timer.",
-        "file": "unit-tests/11th-grade-math/polynomial factorization.csv",
+        "file": "unit-tests/Grade 11/G11Unit2.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1165,7 +1165,7 @@
         "unit": "Polynomial Graphs",
         "title": "Grade 11 Polynomial Graphs Unit Test",
         "description": "Grade 11 unit test for Polynomial Graphs with a single full-worksheet timer.",
-        "file": "unit-tests/11th-grade-math/polynomial graphs.csv",
+        "file": "unit-tests/Grade 11/G11Unit4.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1175,7 +1175,7 @@
         "unit": "Rational Functions",
         "title": "Grade 11 Rational Functions Unit Test",
         "description": "Grade 11 unit test for Rational Functions with a single full-worksheet timer.",
-        "file": "unit-tests/11th-grade-math/rational functions.csv",
+        "file": "unit-tests/Grade 11/G11Unit13.csv",
         "questionCount": 13,
         "totalTimeSeconds": 780
     },
@@ -1185,7 +1185,7 @@
         "unit": "Study Design",
         "title": "Grade 11 Study Design Unit Test",
         "description": "Grade 11 unit test for Study Design with a single full-worksheet timer.",
-        "file": "unit-tests/11th-grade-math/study design.csv",
+        "file": "unit-tests/Grade 11/G11Unit10.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1195,7 +1195,7 @@
         "unit": "Transformations of Functions",
         "title": "Grade 11 Transformations of Functions Unit Test",
         "description": "Grade 11 unit test for Transformations of Functions with a single full-worksheet timer.",
-        "file": "unit-tests/11th-grade-math/transformations of functions.csv",
+        "file": "unit-tests/Grade 11/G11Unit6.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1205,7 +1205,7 @@
         "unit": "Trigonometry",
         "title": "Grade 11 Trigonometry Unit Test",
         "description": "Grade 11 unit test for Trigonometry with a single full-worksheet timer.",
-        "file": "unit-tests/11th-grade-math/trigonometry.csv",
+        "file": "unit-tests/Grade 11/G11Unit8.csv",
         "questionCount": 14,
         "totalTimeSeconds": 840
     },
@@ -1215,7 +1215,7 @@
         "unit": "Complex Numbers",
         "title": "Grade 12 Complex Numbers Unit Test",
         "description": "Grade 12 unit test for Complex Numbers with a single full-worksheet timer.",
-        "file": "unit-tests/12th-grade-math/complex numbers.csv",
+        "file": "unit-tests/Grade 12/G12Unit3.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1225,7 +1225,7 @@
         "unit": "Composite and Inverse Functions",
         "title": "Grade 12 Composite and Inverse Functions Unit Test",
         "description": "Grade 12 unit test for Composite and Inverse Functions with a single full-worksheet timer.",
-        "file": "unit-tests/12th-grade-math/composite and inverse functions.csv",
+        "file": "unit-tests/Grade 12/G12Unit1.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1235,7 +1235,7 @@
         "unit": "Conic Sections",
         "title": "Grade 12 Conic Sections Unit Test",
         "description": "Grade 12 unit test for Conic Sections with a single full-worksheet timer.",
-        "file": "unit-tests/12th-grade-math/conic sections.csv",
+        "file": "unit-tests/Grade 12/G12Unit5.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1245,7 +1245,7 @@
         "unit": "Limits and Continuity",
         "title": "Grade 12 Limits and Continuity Unit Test",
         "description": "Grade 12 unit test for Limits and Continuity with a single full-worksheet timer.",
-        "file": "unit-tests/12th-grade-math/limits and continuity.csv",
+        "file": "unit-tests/Grade 12/G12Unit10.csv",
         "questionCount": 14,
         "totalTimeSeconds": 840
     },
@@ -1255,7 +1255,7 @@
         "unit": "Matrices",
         "title": "Grade 12 Matrices Unit Test",
         "description": "Grade 12 unit test for Matrices with a single full-worksheet timer.",
-        "file": "unit-tests/12th-grade-math/matrices.csv",
+        "file": "unit-tests/Grade 12/G12Unit7.csv",
         "questionCount": 13,
         "totalTimeSeconds": 780
     },
@@ -1265,7 +1265,7 @@
         "unit": "Probability and Combinatorics",
         "title": "Grade 12 Probability and Combinatorics Unit Test",
         "description": "Grade 12 unit test for Probability and Combinatorics with a single full-worksheet timer.",
-        "file": "unit-tests/12th-grade-math/probability and combinatorics.csv",
+        "file": "unit-tests/Grade 12/G12Unit8.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1275,7 +1275,7 @@
         "unit": "Rational Functions",
         "title": "Grade 12 Rational Functions Unit Test",
         "description": "Grade 12 unit test for Rational Functions with a single full-worksheet timer.",
-        "file": "unit-tests/12th-grade-math/rational functions.csv",
+        "file": "unit-tests/Grade 12/G12Unit4.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1285,7 +1285,7 @@
         "unit": "Series",
         "title": "Grade 12 Series Unit Test",
         "description": "Grade 12 unit test for Series with a single full-worksheet timer.",
-        "file": "unit-tests/12th-grade-math/series.csv",
+        "file": "unit-tests/Grade 12/G12Unit9.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1295,7 +1295,7 @@
         "unit": "Trigonometry",
         "title": "Grade 12 Trigonometry Unit Test",
         "description": "Grade 12 unit test for Trigonometry with a single full-worksheet timer.",
-        "file": "unit-tests/12th-grade-math/trigonometry.csv",
+        "file": "unit-tests/Grade 12/G12Unit2.csv",
         "questionCount": 14,
         "totalTimeSeconds": 840
     },
@@ -1305,7 +1305,7 @@
         "unit": "Vectors",
         "title": "Grade 12 Vectors Unit Test",
         "description": "Grade 12 unit test for Vectors with a single full-worksheet timer.",
-        "file": "unit-tests/12th-grade-math/vectors.csv",
+        "file": "unit-tests/Grade 12/G12Unit6.csv",
         "questionCount": 12,
         "totalTimeSeconds": 720
     },
@@ -1315,7 +1315,7 @@
         "unit": "Modular Arithmetic 1-1",
         "title": "Number Theory 1 Modular Arithmetic 1-1 Unit Test",
         "description": "Enrichment Number Theory 1 unit test for Modular Arithmetic lesson 1-1 with a single full-worksheet timer.",
-        "file": "unit-tests/enrichment/number-theory 1/modular-arithmetic/modular-arithmetic-1-1-unit-test.csv",
+        "file": "unit-tests/enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1T1.csv",
         "questionCount": 8,
         "totalTimeSeconds": 480
     },
@@ -1325,7 +1325,7 @@
         "unit": "Modular Arithmetic 1-2",
         "title": "Number Theory 1 Modular Arithmetic 1-2 Unit Test",
         "description": "Enrichment Number Theory 1 unit test for Modular Arithmetic lesson 1-2 with a single full-worksheet timer.",
-        "file": "unit-tests/enrichment/number-theory 1/modular-arithmetic/modular-arithmetic-1-2-unit-test.csv",
+        "file": "unit-tests/enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1T2.csv",
         "questionCount": 8,
         "totalTimeSeconds": 480
     },
@@ -1335,7 +1335,7 @@
         "unit": "Modular Arithmetic 1-3",
         "title": "Number Theory 1 Modular Arithmetic 1-3 Unit Test",
         "description": "Enrichment Number Theory 1 unit test for Modular Arithmetic lesson 1-3 with a single full-worksheet timer.",
-        "file": "unit-tests/enrichment/number-theory 1/modular-arithmetic/modular-arithmetic-1-3-unit-test.csv",
+        "file": "unit-tests/enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1T3.csv",
         "questionCount": 8,
         "totalTimeSeconds": 480
     },
@@ -1345,7 +1345,7 @@
         "unit": "Modular Arithmetic 1-4",
         "title": "Number Theory 1 Modular Arithmetic 1-4 Unit Test",
         "description": "Enrichment Number Theory 1 unit test for Modular Arithmetic lesson 1-4 with a single full-worksheet timer.",
-        "file": "unit-tests/enrichment/number-theory 1/modular-arithmetic/modular-arithmetic-1-4-unit-test.csv",
+        "file": "unit-tests/enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1T4.csv",
         "questionCount": 8,
         "totalTimeSeconds": 480
     },
@@ -1355,7 +1355,7 @@
         "unit": "Prime Factorization 2-1",
         "title": "Number Theory 1 Prime Factorization 2-1 Unit Test",
         "description": "Enrichment Number Theory 1 unit test for Prime Factorization lesson 2-1 with a single full-worksheet timer.",
-        "file": "unit-tests/enrichment/number-theory 1/prime-factorization/prime-factorization-2-1-unit-test.csv",
+        "file": "unit-tests/enrichment/number-theory 1/U2prime-factorization/E-NT1U2T1.csv",
         "questionCount": 9,
         "totalTimeSeconds": 540
     },
@@ -1365,7 +1365,7 @@
         "unit": "Prime Factorization 2-2",
         "title": "Number Theory 1 Prime Factorization 2-2 Unit Test",
         "description": "Enrichment Number Theory 1 unit test for Prime Factorization lesson 2-2 with a single full-worksheet timer.",
-        "file": "unit-tests/enrichment/number-theory 1/prime-factorization/prime-factorization-2-2-unit-test.csv",
+        "file": "unit-tests/enrichment/number-theory 1/U2prime-factorization/E-NT1U2T2.csv",
         "questionCount": 9,
         "totalTimeSeconds": 540
     },
@@ -1375,7 +1375,7 @@
         "unit": "Prime Factorization 2-3",
         "title": "Number Theory 1 Prime Factorization 2-3 Unit Test",
         "description": "Enrichment Number Theory 1 unit test for Prime Factorization lesson 2-3 with a single full-worksheet timer.",
-        "file": "unit-tests/enrichment/number-theory 1/prime-factorization/prime-factorization-2-3-unit-test.csv",
+        "file": "unit-tests/enrichment/number-theory 1/U2prime-factorization/E-NT1U2T3.csv",
         "questionCount": 9,
         "totalTimeSeconds": 540
     }

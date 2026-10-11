@@ -1,0 +1,108 @@
+"""Root equations, domains and a related irrationality proof."""
+from algebra_lessons import authored
+from number_sense_lessons import source as g
+from card_lessons import make_lessons
+from math import sqrt
+SPECS=[
+authored('root-square-domain-start','Find a square-root domain and starting point',
+ 'Find the real domain and starting point of y = √(x + 7) − 4.', 'x ≥ −7; (−7, −4)',
+ 'Find the real domain and starting point of y equals square root of x plus seven, minus four.',[
+ ('RESTRICT THE RADICAND','A real square root needs a nonnegative input','x + 7 ≥ 0',
+ 'The expression inside the square root must be nonnegative. Set x plus seven greater than or equal to zero.'),
+ ('SOLVE THE INEQUALITY','Subtract seven','x ≥ −7',
+ 'Subtract seven to get x at least negative seven. This is the domain, including its endpoint.'),
+ ('FIND THE ENDPOINT HEIGHT','Use the smallest allowed input','x = −7 → y = √0 − 4 = −4',
+ 'At the smallest input, negative seven, the radicand is zero. The output is negative four.'),
+ ('STATE BOTH RESULTS','The graph starts where the radicand is zero','Domain: x ≥ −7\nStarting point: (−7, −4)',
+ 'The domain is x at least negative seven, and the graph starts at negative seven, negative four. The outside shift changes the height, not this domain.')],
+ g(11,6,4,3),equalities=[('-7+7','0'),('0-4','-4')]),
+authored('root-cube-domain','Find the real domain of a cube-root function',
+ 'Find the real domain of y = cube root of (x − 2) + 5.', 'All real numbers',
+ 'Find the real domain of y equals the cube root of x minus two, plus five.',[
+ ('CHECK ALLOWED INPUTS','A cube root accepts negative, zero and positive numbers','(−2)³ = −8; 0³ = 0; 2³ = 8',
+ 'Cube roots can take negative, zero, or positive inputs. Negative two cubed is negative eight, and positive two cubed is eight.'),
+ ('EXAMINE THE RADICAND','The expression x minus two may have any real value','x − 2: no sign restriction',
+ 'There is no requirement that x minus two be nonnegative. Every real x gives a real cube root.'),
+ ('CHECK SAMPLE INPUTS','Try values on both sides of two','x = −6 → y = 3\nx = 2 → y = 5\nx = 10 → y = 7',
+ 'For x equal to negative six, two, and ten, the outputs are three, five, and seven. The function works on both sides of the shift.'),
+ ('STATE THE DOMAIN','Shifting the graph introduces no restriction','Domain: all real numbers',
+ 'The domain is all real numbers. The inside and outside shifts do not create a boundary for this cube-root function.')],
+ g(11,6,4,2),equalities=[('(-2)**3','-8'),('2**3','8'),('-6-2','-8'),('-2+5','3')]),
+authored('root-equation-basic','Solve an equation with an isolated square root',
+ 'Solve √x = 8.', 'x = 64',
+ 'Solve square root of x equals eight.',[
+ ('CHECK THE SIGN','A principal square root must be nonnegative','8 ≥ 0',
+ 'The right side is nonnegative, so a real solution is possible.'),
+ ('SQUARE BOTH SIDES','Squaring undoes this square root','(√x)² = 8²\nx = 64',
+ 'Square both sides. The square of the square root of x is x, and eight squared is sixty-four.'),
+ ('CHECK THE ORIGINAL','Substitute the candidate back','√64 = 8',
+ 'Put sixty-four into the original equation. Its principal square root is eight, so the equation holds.'),
+ ('STATE THE SOLUTION','The unknown is the number under the root','x = 64',
+ 'The solution is x equals sixty-four. We do not attach a plus or minus sign to x, because the original equation specifies its principal square root.')],
+ g(11,7,2,1),equalities=[('8**2','64')]),
+authored('root-equation-linear-radicand','Solve a root equation with a linear radicand',
+ 'Solve √(3x + 7) = 8.', 'x = 19',
+ 'Solve square root of three x plus seven equals eight.',[
+ ('SQUARE BOTH SIDES','The isolated root equals a nonnegative number','3x + 7 = 8² = 64',
+ 'The root is isolated and equals positive eight. Square both sides to get three x plus seven equals sixty-four.'),
+ ('UNDO ADDITION','Subtract seven from both sides','3x = 57',
+ 'Subtract seven from both sides. Three x equals fifty-seven.'),
+ ('UNDO MULTIPLICATION','Divide both sides by three','x = 19',
+ 'Divide by three. The candidate solution is nineteen.'),
+ ('CHECK THE ORIGINAL','Verify the radicand and the root','√(3 × 19 + 7) = √64 = 8',
+ 'Substitute nineteen into the original equation. The radicand is sixty-four, whose principal square root is eight. Nineteen is valid.')],
+ g(11,7,2,3),equalities=[('3*19+7','64'),('8**2','64'),('(64-7)/3','19')]),
+authored('root-equation-isolate-first','Isolate a square root before squaring',
+ 'Solve √(x + 8) − 2 = 4.', 'x = 28',
+ 'Solve square root of x plus eight, minus two, equals four.',[
+ ('ISOLATE THE ROOT','Add two to both sides','√(x + 8) = 6',
+ 'Add two to both sides first. The square root now equals six. Isolating it avoids squaring a whole sum.'),
+ ('SQUARE','Square the two equal sides','x + 8 = 36',
+ 'Square both sides to get x plus eight equals thirty-six.'),
+ ('SOLVE','Subtract eight','x = 28',
+ 'Subtract eight from both sides. The candidate is twenty-eight.'),
+ ('CHECK THE ORIGINAL','Include the outside subtraction in the check','√(28 + 8) − 2 = 6 − 2 = 4',
+ 'Check in the original equation, including the minus two. Six minus two is four, so twenty-eight is the solution.')],
+ g(11,7,2,8),equalities=[('6**2','36'),('36-8','28'),('6-2','4')]),
+authored('root-equation-extraneous','Reject an extraneous root after squaring',
+ 'Solve √(x + 12) = x.', 'x = 4',
+ 'Solve square root of x plus twelve equals x. Squaring may introduce an invalid candidate.',[
+ ('CHECK SIGNS AND SQUARE','The right side must be nonnegative','x ≥ 0\nx + 12 = x²',
+ 'The left side is a nonnegative square root, so x must be nonnegative. Square both sides to form a quadratic equation.'),
+ ('FACTOR','Bring all terms to one side','x² − x − 12 = 0\n(x − 4)(x + 3) = 0',
+ 'Rearrange and factor. X minus four times x plus three equals zero. The candidates are four and negative three.'),
+ ('TEST THE CANDIDATES','Substitute into the original equation','x = 4: √16 = 4, valid\nx = −3: √9 = 3 ≠ −3, invalid',
+ 'Four works in the original equation. Negative three does not: the principal square root of nine is positive three.'),
+ ('KEEP ONLY VALID VALUES','Squaring lost a sign distinction','Solution: x = 4',
+ 'Keep only x equals four. A candidate from the squared equation must also satisfy the original equation.')],
+ g(11,7,2,5),identities=[('x*x-x-12','(x-4)*(x+3)')],equalities=[('4+12','16'),('4**2','16'),('-3+12','9')]),
+authored('root-equation-test-candidate','Check a proposed solution of a root equation',
+ 'Does x = −1 satisfy √(x + 10) = x + 4?', 'Yes',
+ 'Does x equal negative one satisfy square root of x plus ten equals x plus four?',[
+ ('SUBSTITUTE ON THE LEFT','Compute the radicand first','√(−1 + 10) = √9',
+ 'Substitute negative one on the left. Negative one plus ten is nine, so the root is real.'),
+ ('EVALUATE THE ROOT','Use the principal square root','√9 = 3',
+ 'The principal square root of nine is three.'),
+ ('EVALUATE THE RIGHT','Use the same candidate','−1 + 4 = 3',
+ 'Now substitute negative one on the right. Negative one plus four is also three.'),
+ ('COMPARE','Both original sides must match','Left side = right side = 3\nYes, x = −1 is a solution.',
+ 'The original sides match, so the candidate is a solution. Testing the original equation also catches any sign error introduced by squaring.')],
+ g(11,7,2,6),equalities=[('-1+10','9'),('3**2','9'),('-1+4','3')]),
+authored('root-irrationality-lowest-terms','Explain a lowest-terms contradiction',
+ 'Suppose √3 = a/b in lowest terms.\nWhy is it a contradiction if 3 divides both a and b?', 'Both would share a factor of 3, contrary to lowest terms',
+ 'Suppose square root of three equals a over b in lowest terms. Why would both integers being divisible by three be a contradiction?',[
+ ('STATE THE ASSUMPTION','Lowest terms means no common factor greater than one','a and b are integers; b ≠ 0\ngcd(a, b) = 1',
+ 'A fraction in lowest terms has no common factor greater than one between numerator and denominator.'),
+ ('SQUARE THE EQUATION','A prime dividing a square divides its base','a² = 3b² → 3 divides a\nWrite a = 3k.',
+ 'Squaring gives a squared equals three b squared. Since three is prime, a is divisible by three. Write a as three k.'),
+ ('SUBSTITUTE','The denominator must also be divisible by three','9k² = 3b² → b² = 3k²\nSo 3 divides b.',
+ 'Substitute three k and divide by three. Now b squared is divisible by three, so b is also divisible by three.'),
+ ('IDENTIFY THE CONTRADICTION','The assumed lowest-terms fraction can be reduced','a/b = (a/3)/(b/3)\nCommon factor 3 contradicts gcd(a, b) = 1.',
+ 'Both integers share a factor of three, contradicting lowest terms. The contradiction shows the assumed rational representation cannot exist.')],
+ g(10,4,3,2),identities=[('(3*k)**2','9*k*k')]),
+]
+def lessons(doc):
+ assert sqrt(3*19+7)==8 and sqrt(28+8)-2==4
+ assert sqrt(4+12)==4 and sqrt(-3+12)!=-3
+ assert sqrt(-1+10)==-1+4
+ return make_lessons(SPECS,doc)

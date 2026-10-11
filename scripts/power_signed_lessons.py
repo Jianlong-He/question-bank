@@ -1,0 +1,67 @@
+"""Signed powers with explicit operation order and exact arithmetic."""
+from algebra_lessons import authored
+from number_sense_lessons import source as g
+from card_lessons import make_lessons
+SPECS=[
+authored('power-signed-product','Multiply signed powers after evaluating each base',
+ 'Find (−4)³ × (−5)².', '−1600',
+ 'Find negative four cubed times negative five squared. Each negative sign is inside its parentheses.',[
+ ('ODD POWER','Three negative factors give a negative result','(−4)³ = (−4)(−4)(−4) = −64',
+ 'Negative four cubed means three factors of negative four. Two negatives multiply to a positive; the third makes negative sixty-four.'),
+ ('EVEN POWER','Two negative factors give a positive result','(−5)² = (−5)(−5) = 25',
+ 'Negative five squared means two negative factors. Their product is positive twenty-five.'),
+ ('MULTIPLY','Different signs give a negative product','(−64) × 25 = −1600',
+ 'Multiply negative sixty-four by positive twenty-five. The magnitude is sixteen hundred, and the signs differ, so the result is negative.'),
+ ('ANSWER','Evaluate powers before the final multiplication','(−4)³ × (−5)² = −1600',
+ 'The answer is negative sixteen hundred. Determine each power first, then apply the multiplication sign rule.')],
+ g(7,5,4,7),equalities=[('(-4)**3','-64'),('(-5)**2','25'),('(-4)**3*(-5)**2','-1600')]),
+authored('power-signed-subtraction','Subtract signed products after evaluating powers',
+ 'Find (−3)³ − 7 × (−5).', '8',
+ 'Find negative three cubed minus seven times negative five.',[
+ ('POWER FIRST','An odd power keeps the negative sign here','(−3)³ = (−3)(−3)(−3) = −27',
+ 'Evaluate the power first. Three negative factors give negative twenty-seven.'),
+ ('MULTIPLY NEXT','A positive times a negative is negative','7 × (−5) = −35\n−27 − (−35)',
+ 'Seven times negative five is negative thirty-five. The original subtraction now becomes negative twenty-seven minus negative thirty-five.'),
+ ('SUBTRACT A NEGATIVE','Subtracting a negative means adding its opposite','−27 − (−35) = −27 + 35 = 8',
+ 'Subtracting negative thirty-five means adding positive thirty-five. This gives eight.'),
+ ('CHECK','Undo the final subtraction','8 + (−35) = −27',
+ 'Check by adding the subtracted value, negative thirty-five, back to eight. We recover negative twenty-seven. Keep the subtraction sign separate from the sign of the product.')],
+ g(7,5,5,5),equalities=[('(-3)**3','-27'),('7*(-5)','-35'),('(-3)**3-7*(-5)','8'),('8+(-35)','-27')]),
+authored('power-signed-bracket-division','Square a signed bracket before dividing',
+ 'Find (−9 + 3)² ÷ (−4).', '−9',
+ 'Find the square of negative nine plus three, divided by negative four.',[
+ ('BRACKETS FIRST','Combine the signed numbers inside','−9 + 3 = −6\n(−6)² ÷ (−4)',
+ 'Inside the brackets, negative nine plus three is negative six. Keep parentheses around that negative base.'),
+ ('SQUARE THE WHOLE BASE','Two negative factors produce a positive','(−6)² = (−6)(−6) = 36',
+ 'Square negative six by multiplying it by itself. The result is positive thirty-six.'),
+ ('DIVIDE','Different signs give a negative quotient','36 ÷ (−4) = −9',
+ 'Divide positive thirty-six by negative four. The magnitude is nine, and different signs make the quotient negative.'),
+ ('CHECK','Multiply by the original divisor','(−9)(−4) = 36',
+ 'Negative nine times negative four is positive thirty-six, checking the division. Brackets came first, then the power, then division.')],
+ g(7,5,5,7),equalities=[('(-9+3)**2/(-4)','-9'),('(-6)**2','36'),('(-9)*(-4)','36')]),
+authored('power-signed-fraction-bar','Treat a fraction numerator as a group before subtracting a power',
+ 'Find (−7 + 19)/(−3) − (−5)².', '−29',
+ 'Find the fraction with numerator negative seven plus nineteen and denominator negative three, minus negative five squared.',[
+ ('GROUPED NUMERATOR','Finish all operations above the fraction bar','−7 + 19 = 12\n12/(−3) − (−5)²',
+ 'The fraction bar groups the whole numerator. Negative seven plus nineteen is twelve.'),
+ ('POWER','Square the negative base','(−5)² = 25\n12/(−3) − 25',
+ 'Negative five squared is positive twenty-five because both factors are negative.'),
+ ('DIVIDE','Find the signed value of the fraction','12/(−3) = −4\n−4 − 25',
+ 'Twelve divided by negative three is negative four. Keep the subtraction of twenty-five.'),
+ ('SUBTRACT','Move twenty-five more units in the negative direction','−4 − 25 = −29',
+ 'Negative four minus twenty-five is negative twenty-nine. The fraction bar grouped only its numerator and denominator; the final subtraction stayed outside.')],
+ g(7,5,5,9),equalities=[('(-7+19)/(-3)-(-5)**2','-29'),('12/(-3)','-4'),('(-5)**2','25')]),
+authored('power-signed-multistep-chain','Evaluate signed powers, multiplication, division and addition',
+ 'Find (−3)³ × (7 − 11) ÷ (−6) + 5.', '−13',
+ 'Find negative three cubed times seven minus eleven in parentheses, divided by negative six, plus five.',[
+ ('BRACKETS AND POWER','Evaluate these before the remaining operations','7 − 11 = −4; (−3)³ = −27\n(−27) × (−4) ÷ (−6) + 5',
+ 'The brackets give negative four. Negative three cubed is negative twenty-seven. Replace both with their values.'),
+ ('LEFT TO RIGHT','Multiplication and division have equal priority','(−27) × (−4) = 108\n108 ÷ (−6) + 5',
+ 'Multiplication and division have equal priority, so work from left to right. Negative twenty-seven times negative four is positive one hundred eight.'),
+ ('DIVIDE','Finish division before addition','108 ÷ (−6) = −18\n−18 + 5',
+ 'Divide one hundred eight by negative six to get negative eighteen.'),
+ ('ADD LAST','Combine the final signed numbers','−18 + 5 = −13',
+ 'Add five to negative eighteen to get negative thirteen. The order was brackets and powers, multiplication and division from left to right, then addition.')],
+ g(7,5,5,10),equalities=[('(-3)**3*(7-11)/(-6)+5','-13'),('(-27)*(-4)','108'),('108/(-6)','-18')]),
+]
+def lessons(doc):return make_lessons(SPECS,doc)

@@ -1,0 +1,67 @@
+"""Arithmetic equivalence questions recovered from an equation keyword bucket."""
+from algebra_lessons import authored
+from number_sense_lessons import source as g
+from card_lessons import make_lessons
+SPECS=[
+authored('arithmetic-add-split-tens-ones','Add by splitting tens and ones',
+ 'Break apart and add 63 + 28.\nName the tens digits and the ones digits.', 'Tens digits: 6 and 2; ones digits: 3 and 8; total: 91',
+ 'Break apart and add sixty-three plus twenty-eight. Name the tens digits and the ones digits.',[
+ ('BREAK APART','Separate tens from ones','63 = 60 + 3\n28 = 20 + 8',
+ 'Sixty-three has six tens and three ones. Twenty-eight has two tens and eight ones.'),
+ ('ADD TENS','Six tens plus two tens makes eight tens','Tens digits: 6 + 2 = 8\nTens value: 60 + 20 = 80',
+ 'The tens digits are six and two. Their tens values, sixty and twenty, add to eighty.'),
+ ('ADD ONES','Three ones plus eight ones makes eleven ones','3 + 8 = 11 = 10 + 1',
+ 'The ones digits are three and eight. Eleven ones can be regrouped as one ten and one one.'),
+ ('COMBINE','Add the tens and ones totals','80 + 11 = 91\n63 + 28 = 91',
+ 'Eighty plus eleven is ninety-one. If a blank asks for tens digits, use six and two. If it asks for tens values, use sixty and twenty.')],
+ g(1,2,11,10),equalities=[('63+28','91'),('60+20+3+8','91')]),
+authored('arithmetic-compensation-addition','Keep a sum unchanged while making friendly numbers',
+ 'Fill the blanks, then add:\n48 + 67 = 50 + __ = __\n268 + 390 = __ + 400 = __', '65, 115; 258, 658',
+ 'Fill the blanks in two addition shortcuts. Forty-eight plus sixty-seven becomes fifty plus a missing number. Two hundred sixty-eight plus three hundred ninety becomes a missing number plus four hundred.',[
+ ('FIRST PAIR','Add two to one addend and subtract two from the other','48 + 67 = (48 + 2) + (67 − 2)\n= 50 + 65',
+ 'Make forty-eight into fifty by adding two. Subtract two from sixty-seven to keep the sum unchanged.'),
+ ('FIRST SUM','Add the friendlier numbers','50 + 65 = 115',
+ 'Fifty plus sixty-five is one hundred fifteen.'),
+ ('SECOND PAIR','Move ten from the first addend to the second','268 + 390 = (268 − 10) + (390 + 10)\n= 258 + 400 = 658',
+ 'Move ten from two hundred sixty-eight to three hundred ninety. Two hundred fifty-eight plus four hundred is six hundred fifty-eight.'),
+ ('THE RULE','Opposite changes keep a sum unchanged','One addend +k, the other −k\nThe total stays the same.',
+ 'One addend increases by exactly what the other loses. Fill in both the adjusted addend and the total when the question asks for both.')],
+ g(3,3,5,2),equalities=[('48+67','50+65'),('50+65','115'),('268+390','258+400'),('258+400','658')]),
+authored('arithmetic-compensation-subtraction','Keep a difference unchanged while shifting both numbers',
+ 'Fill the blanks, then subtract:\n351 − 198 = __ − 200 = __\n624 − 417 = __ − 410 = __', '353, 153; 617, 207',
+ 'Fill two subtraction shortcuts. Three hundred fifty-one minus one hundred ninety-eight becomes a missing number minus two hundred. Six hundred twenty-four minus four hundred seventeen becomes a missing number minus four hundred ten.',[
+ ('SHIFT BOTH UP','Add two to both numbers','351 − 198 = (351 + 2) − (198 + 2)\n= 353 − 200',
+ 'To make one hundred ninety-eight into two hundred, add two. Add two to three hundred fifty-one as well.'),
+ ('FIRST DIFFERENCE','Subtract the round number','353 − 200 = 153',
+ 'Three hundred fifty-three minus two hundred is one hundred fifty-three.'),
+ ('SHIFT BOTH DOWN','Subtract seven from both numbers','624 − 417 = (624 − 7) − (417 − 7)\n= 617 − 410 = 207',
+ 'In the second example, subtract seven from both numbers. Six hundred seventeen minus four hundred ten is two hundred seven.'),
+ ('THE RULE','The same change to both numbers preserves their difference','Both numbers +k, or both numbers −k\nThe difference stays the same.',
+ 'For subtraction, move both numbers by the same amount in the same direction. Their distance apart, and therefore their difference, stays unchanged.')],
+ g(3,3,5,7),equalities=[('351-198','353-200'),('353-200','153'),('624-417','617-410'),('617-410','207')]),
+authored('arithmetic-fraction-chains-common-denominator','Add and subtract several like-denominator fractions',
+ 'Calculate and simplify:\n19/24 − 5/24 − 6/24\n7/18 + 11/18 − 5/18', '1/3; 13/18',
+ 'Calculate and simplify nineteen twenty-fourths minus five twenty-fourths minus six twenty-fourths, and seven eighteenths plus eleven eighteenths minus five eighteenths.',[
+ ('KEEP THE DENOMINATOR','Combine the first set of numerators in order','(19 − 5 − 6)/24 = 8/24',
+ 'Each fraction has denominator twenty-four. Subtract five and then six from nineteen, leaving eight twenty-fourths.'),
+ ('SIMPLIFY','Divide the numerator and denominator by eight','8/24 = 1/3',
+ 'Eight twenty-fourths simplifies to one third. If a blank keeps denominator twenty-four, its numerator is eight.'),
+ ('SECOND CHAIN','Keep each operation sign','(7 + 11 − 5)/18 = 13/18',
+ 'For the second chain, add seven and eleven, then subtract five. Keep the denominator eighteen.'),
+ ('CHECK THE FORM','Simplify only as the question requests','13 and 18 share no factor greater than 1.\n13/18 is already simplified.',
+ 'Thirteen eighteenths is already simplified. Keep the common denominator while calculating, then give the form the question requests.')],
+ g(4,8,2,7),equalities=[('19/24-5/24-6/24','1/3'),('7/18+11/18-5/18','13/18')]),
+authored('arithmetic-fraction-specified-denominator','Add fractions and use the requested denominator',
+ 'Write 8/10 + 50/100 with denominator 10.\nWrite 9/10 + 35/100 with denominator 100.', '13/10; 125/100',
+ 'Write eight tenths plus fifty hundredths with denominator ten. Then write nine tenths plus thirty-five hundredths with denominator one hundred.',[
+ ('FIRST SUM','Change fifty hundredths to five tenths','50/100 = 5/10\n8/10 + 5/10 = 13/10',
+ 'Fifty hundredths is five tenths. Add eight tenths and five tenths to get thirteen tenths.'),
+ ('FOLLOW THE REQUEST','Keep the requested denominator of ten','First answer: 13/10',
+ 'The first question requests denominator ten, so leave the answer as thirteen tenths.'),
+ ('SECOND SUM','Change nine tenths to ninety hundredths','9/10 = 90/100\n90/100 + 35/100 = 125/100',
+ 'For the second sum, nine tenths equals ninety hundredths. Add thirty-five hundredths to get one hundred twenty-five hundredths.'),
+ ('ANSWER FORMAT','An equivalent simplified fraction may use a different denominator','125/100 = 5/4\nRequested answer: 125/100',
+ 'Although one hundred twenty-five hundredths simplifies to five fourths, this question requires denominator one hundred. Keep the requested form.')],
+ g(4,8,5,7),equalities=[('8/10+50/100','13/10'),('9/10+35/100','125/100'),('125/100','5/4')]),
+]
+def lessons(doc):return make_lessons(SPECS,doc)

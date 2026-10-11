@@ -1,9 +1,35 @@
-# Writing Select questions
+# Content, naming, and media rules
+
+## File and folder names
+
+- Grade worksheets live at `worksheets/Grade <G>/G<G>Unit <U>/G<G>U<U>W<W>[variant].csv`.
+- Grade tests live at `unit-tests/Grade <G>/G<G>Unit<U>.csv`. The test filename has no space after `Unit`; worksheet unit folders do.
+- Enrichment is a course, not a grade. Use `E-NT1` for Number Theory 1 and `E-CP1` for Counting and Probability 1. Worksheets use `E-<course>U<U>W<W>[variant].csv`; tests use `E-<course>U<U>T<T>.csv`.
+- Enrichment unit folders are `U<number><topic>`, numbered in curriculum order, for example `U4conditional-probability`. Use the exact [course/unit directory list in README.md](README.md#file-and-folder-naming) across worksheets, tests, images, and videos. Do not invent a grade number for enrichment.
+- New grade worksheet variants use `HW` and `Rev`. Preserve existing suffixes such as `_HW`, `_Revision`, `HWa`, and `HWb`, and existing compound numbers such as `W1-1`.
+- Keep regular, homework, and revision images in separate folders named after their full CSV stems. Do not combine `G7U6W1`, `G7U6W1HW`, and `G7U6W1Rev`.
+- A question is identified by its source CSV path and its local `Question ID`. Renames must preserve question IDs and update references to the source path.
+
+## CSV and media fields
+
+- New files use the seven core headers documented in [README.md](README.md#csv-schema). Every worksheet also has a `video` column; use `image` where image links are present. Existing header aliases and column order must survive unrelated edits.
+- Read and write CSV with a CSV library, using UTF-8 with optional BOM. Quote commas, line breaks, and embedded quotes correctly. Every record must match its header's field count.
+- The canonical image column is `image`, not `imageURL` or `imagesURL`. Local paths do not belong in URL columns.
+- `image` values are relative to `images/`, and `video` values are relative to `videos/`. Omit those leading directory names in CSV cells. Never store absolute filesystem paths.
+- A cell contains one path, a JSON array of paths for multiple assets, or an empty string. Preserve spaces and capitalization. Do not use commas or bars as ad hoc path separators.
+- Correspondence JSON uses repository-relative source and media paths. Keep `images/` and `videos/` there; strip one leading prefix only when writing the corresponding CSV media cell.
+- Worksheet images live under `images/worksheet-images/<CSV parent folders>/<CSV stem>/`. Filenames use `WS-<worksheet-code>Q<question-id>I<image-index>.<ext>`, for example `WS-G7U6W1HWQ1I2.png` or `WS-E-NT1U3W4Q1I1.png`.
+- Unit-test images live under `images/unit-test-images/<CSV parent folders>/<CSV stem>/`. Use `UT-G7U6Q1I1.png` for grade tests and `UT-E-NT1U1T2Q1I1.png` for enrichment tests. Here, parent folders mean the path below `worksheets/` or `unit-tests/`, respectively.
+- Image indexes start at 1. Keep the actual extension. Normalize legacy `_HW` and `_Revision` to `HW` and `Rev` in image codes only; the containing folder retains the exact CSV stem.
+- Image correspondence entries with `use_for_question: false` are superseded and must not be copied into CSV cells.
+- Grade videos live under `videos/Grade <G>/Unit <U>/`; enrichment videos use the numbered enrichment course/unit folders. Keep lesson slugs and stable video IDs. Reused videos may live outside the consuming worksheet's unit.
+
+## Question and answer syntax
 
 How to write a `Select …` question in a worksheet or unit-test CSV so the app
 renders one button per option and marks the answer correctly. The rules here
-are exactly what the parser does; `node scripts/validate.mjs` checks every row
-against them.
+describe the syntax mirrored by `node scripts/validate.mjs`. Fill-in questions
+remain valid without `Select` or `Choices:` markers.
 
 ## 1. The options go between `~~` and `~~`
 
@@ -55,9 +81,8 @@ Rules that follow from this:
 - **A `||` never appears inside the block.** `||` separates two whole prompts,
   so an option cannot hold one; write `Triangle and quadrilateral`, not
   `Triangle||Quadrilateral`.
-- The old forms — options after a colon with no markers, and the
-  whitespace-or-comma separated block — are no longer read. All 1,343 Select
-  rows in the bank were converted on 2026-09-13.
+- Do not use the old forms: options after a colon without markers, or a
+  whitespace/comma-separated option block.
 
 ## 3. The answer must be an option, written the same way
 
@@ -94,13 +119,24 @@ What is P(A and B) Choices: A) 0.9 | B) 0.2 | C) 0.1 | D) 0.45 Answer with the l
   accepted, for a question with two equally correct options (`A|B`).
 - A `||` cannot appear in the list, for the same reason as in §2.
 
-## 5. Checklist before committing
+## Question quality checklist
 
-1. The cell starts with `Select` and has **exactly one `~~…~~` block** holding
-   the options — or it is a lettered `Choices:` row.
-2. Options are separated by ` | `, and nothing inside the markers is a sentence.
-3. Every answer appears among the options, spelled the same way.
-4. `node scripts/validate.mjs` reports no error for the file.
+1. For optioned questions, use either `Select` with exactly one `~~…~~` block per prompt variant, or a lettered `Choices:` list. Plain fill-in questions do not need either form.
+2. Separate options with ` | ` and keep the scenario outside the option block. Every keyed choice must appear among the options.
+3. Check the mathematics independently. Avoid multiple true options in a single-answer question. Specify domains, approximations, distributions, and units when they affect the answer.
+4. Ensure the question, key, hints, solution, and linked image agree. Distinguish a limit from a function value, and an excluded upper bound from an attainable value.
+5. For questions with many valid answers, provide an unambiguous constraint that selects the stored answer or use a grader that validates all valid solutions. Do not assume a finite list covers infinitely many integer pairs.
 
 Order questions from easiest to hardest — for enrichment sheets the app samples
 unit tests from the middle of the sheet, so the order matters there.
+
+## Rename and validation checklist
+
+1. Match the directory and filename patterns above, keeping enrichment units in curriculum order.
+2. Update `data/curriculum.json` links and regenerate `unit-tests/catalog/catalog.json` when affected. Check school-grade unit labels against `images/grade-units.json`.
+3. Update source paths, worksheet keys, and curriculum metadata in `videos/worksheet-video-correspondence.json`, preserving video IDs, problem mappings, review status, and media records. Match renamed sources by their complete question IDs and text, not by a guessed filename.
+4. Update the image source manifests and rebuild `images/image-question-correspondence.json` where affected. Keep current question text in the correspondence record.
+5. Update every affected `image` and `video` CSV cell using its media-folder-relative path. Check references from other units too: videos can be shared.
+6. Update generator output directories and hard-coded source references so a later run does not recreate old folders. Download scripts must preserve their existing URL manifests when current CSVs have no URL columns.
+7. Keep historical migration and audit evidence intact; add an outcome or follow-up instead of globally replacing old paths in reports.
+8. Run `node scripts/validate.mjs`, `python3 scripts/generate_unit_test_catalog.py --check`, and `python3 scripts/build_video_correspondence.py --check`. Confirm that media files exist and unrelated questions and assets remain unchanged. Syntax validation does not replace mathematical review.

@@ -17,7 +17,10 @@
  *     - every entry has grade, unit, file; the file exists
  *     - questionCount matches the CSV's question count
  *   every CSV under worksheets/ and unit-tests/
- *     - has the seven-column header the app reads
+ *     - has the core question headers, with optional image/video columns
+ *     - follows current grade/enrichment CSV naming conventions
+ *     - has consistent row widths and unique question IDs
+ *     - image/video cells are media-folder-relative paths to existing files
  *     - every row has a Question ID, a question and an answer
  *     - a `Choices: A) … | B) …` question's answer letter exists, and every
  *       piece of the list opens with its own letter
@@ -168,11 +171,31 @@ function questionShape(prompt) {
   return { kind: "text" };
 }
 function checkCsv(rel) {
+  const parts = rel.split('/');
+  const grade = parts[1]?.match(/^Grade (\d+)$/);
+  if (grade) {
+    const g = grade[1];
+    if (parts[0] === 'worksheets') {
+      const unit = parts[2]?.match(new RegExp(`^G${g}Unit (\\d+)$`));
+      if (!unit || parts.length !== 4 || !new RegExp(`^G${g}U${unit?.[1]}W\\d+(?:_?[A-Za-z]+)?\\.csv$`).test(parts[3]))
+        err(`${rel}: worksheet filename/folder does not match its grade and unit`);
+    } else if (parts.length !== 3 || !new RegExp(`^G${g}Unit\\d+\\.csv$`).test(parts[2]))
+      err(`${rel}: expected G${g}Unit<unit>.csv`);
+  } else if (parts[1] === 'enrichment') {
+    const course = {'number-theory 1': 'NT1', 'counting-and-probability 1': 'CP1'}[parts[2]];
+    const unit = parts[3]?.match(/^U(\d+)(.+)$/);
+    const kind = parts[0] === 'worksheets' ? 'W' : 'T';
+    if (!course || !unit || parts.length !== 5 || !new RegExp(`^E-${course}U${unit?.[1]}${kind}\\d+(?:-\\d+)?[A-Za-z]*\\.csv$`).test(parts[4]))
+      err(`${rel}: enrichment filename/folder does not match its course and unit`);
+  }
   let rows;
   try { rows = parseCsv(readFileSync(join(root, rel), "utf8").replace(/^\uFEFF/, "")); }
   catch (e) { err(`${rel}: cannot read (${e.message})`); return 0; }
   if (!rows.length) { err(`${rel}: empty file`); return 0; }
   const header = rows[0].map((h) => h.trim());
+  for (const name of header) if (/^images?urls?$/i.test(name.replace(/[^a-z]/gi, '')))
+    err(`${rel}: legacy URL column ${name}; canonical local image column is image`);
+  if (rel.startsWith('worksheets/') && !header.includes('video')) err(`${rel}: worksheet lacks video column`);
   const col = {};
   for (const [k, names] of Object.entries(HEADER)) { const i = header.findIndex((h) => names.includes(h)); if (i >= 0) col[k] = i; }
   for (const k of ["id", "choices", "answers"]) if (!(k in col)) err(`${rel}: header lacks "${HEADER[k][0]}" (found: ${header.join(" | ")})`);
@@ -180,9 +203,24 @@ function checkCsv(rel) {
   const ids = new Set();
   for (let n = 1; n < rows.length; n++) {
     const r = rows[n], line = n + 1;
+    if (r.length !== header.length) err(`${rel}:${line}: ${r.length} fields; header has ${header.length}`);
     const id = (r[col.id] ?? "").trim(), q = (r[col.choices] ?? "").trim(), a = (r[col.answers] ?? "").trim();
     if (!id) warn(`${rel}:${line}: no Question ID (the app falls back to row order)`);
+    if (ids.has(id)) err(`${rel}:${line}: duplicate Question ID ${id}`);
     ids.add(id);
+    for (const [column, folder] of [['image', 'images'], ['video', 'videos']]) {
+      const value = (r[header.indexOf(column)] ?? '').trim();
+      if (!value) continue;
+      let paths;
+      try { paths = value.startsWith('[') ? JSON.parse(value) : [value]; }
+      catch { err(`${rel}:${line}: invalid JSON in ${column}`); continue; }
+      if (!Array.isArray(paths) || !paths.length) { err(`${rel}:${line}: ${column} must be a path or nonempty path array`); continue; }
+      for (const media of paths) {
+        if (typeof media !== 'string' || !media.trim() || media.startsWith(`${folder}/`) || media.startsWith('/') || media.includes('\\') || /^[a-z]+:/i.test(media) || media.split('/').includes('..')) {
+          err(`${rel}:${line}: ${column} must be relative to ${folder}/ without that prefix: ${media}`);
+        } else if (!existsSync(join(root, folder, media))) err(`${rel}:${line}: missing ${column} file ${folder}/${media}`);
+      }
+    }
     if (!q) { err(`${rel}:${line} (Q${id}): empty Question Choices`); continue; }
     if (!a) { err(`${rel}:${line} (Q${id}): empty Question Answers`); continue; }
     for (const variant of splitVariants(q)) {
@@ -280,6 +318,16 @@ for (const rel of allFiles) {
 }
 for (const rel of worksheetFiles) if (rel.toLowerCase().endsWith(".csv") && !referenced.has(rel)) warn(`no curriculum link points at ${rel}`);
 for (const rel of unitTestFiles) if (rel.toLowerCase().endsWith(".csv") && !catalogued.has(rel)) warn(`catalog does not list ${rel}`);
+
+// ---------------------------------------------------------------- active correspondence paths
+for (const [file, type] of [['images/image-question-correspondence.json', 'image'], ['videos/worksheet-video-correspondence.json', 'video']]) {
+  try {
+    const doc = JSON.parse(readFileSync(join(root, file), 'utf8'));
+    const refs = type === 'image' ? (doc.images ?? []).flatMap(e => [e.source_csv, e.image_file])
+      : [...Object.keys(doc.worksheets ?? {}), ...Object.values(doc.videos ?? {}).flatMap(v => Object.values(v.assets ?? {}).filter(v => v !== null))];
+    for (const ref of new Set(refs)) if (typeof ref !== 'string' || !existsSync(join(root, ref))) err(`${file}: missing referenced path ${ref}`);
+  } catch (e) { err(`${file}: ${e.message}`); }
+}
 
 // ---------------------------------------------------------------- report
 for (const w of warnings) console.log(`warning: ${w}`);

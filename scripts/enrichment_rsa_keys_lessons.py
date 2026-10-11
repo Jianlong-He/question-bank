@@ -1,0 +1,86 @@
+"""Fresh toy RSA key, encryption, and decryption computations."""
+from algebra_lessons import authored
+from number_theory_lessons import source
+from card_lessons import make_lessons
+
+def e(w,q):return source('RSA',w,q)
+SPECS=[
+authored('rsa-build-key-pair','Compute a toy RSA key pair with Euclidean inversion',
+ 'For a toy RSA example, p=11, q=17, e=7.\nFind n, ϕ(n), d,\nand the public and private key pairs.','n=187; phi=160; d=23; (7,187) and (23,187)',
+ 'For a toy R S A example, p is eleven, q is seventeen, and e is seven. Find n, phi, d, and the public and private key pairs.',[
+ ('COMPUTE THE MODULUS AND TOTIENT','The two prime factors are distinct','n=11×17=187\nϕ(n)=(11−1)(17−1)=10×16=160',
+ 'Multiply the primes to get modulus one hundred eighty-seven. Multiply one less than each prime to get totient one hundred sixty.'),
+ ('FIND THE GCD','The public exponent needs an inverse modulo the totient','160 = 22 × 7 + 6\n7 = 6 + 1, so gcd(7,160)=1.',
+ 'Euclidean division gives remainders six and one. The exponent is coprime to the totient, so its inverse exists.'),
+ ('SUBSTITUTE BACK TO FIND d','The coefficient of seven is its inverse modulo one hundred sixty','1 = 7 − 6 = 7 − (160 − 22×7)\n= 23×7 − 160, so d=23.',
+ 'Substitute backward. One equals twenty-three times seven minus one hundred sixty. Therefore the private exponent is twenty-three.'),
+ ('FORM AND CHECK THE KEYS','Both key pairs use the same modulus','Public (e,n)=(7,187); private (d,n)=(23,187)\ned=7×23=161 ≡ 1 (mod 160)',
+ 'The public pair is seven and one hundred eighty-seven. The private pair is twenty-three and the same modulus. Their exponents multiply to one modulo the totient.')],e(5,6),equalities=[('11*17','187'),('10*16','160'),('7*23%160','1')]),
+authored('rsa-select-public-exponent','Select an exponent coprime to the totient and find its inverse',
+ 'Let p=5, q=19. Choose e from {3,5,9}.\nIs your choice also the smallest odd e > 1?\nFind the corresponding private exponent d.','e=5; yes; d=29',
+ 'Let p be five and q nineteen. Choose a public exponent from three, five, and nine. Is it also the smallest odd exponent above one? Find the private exponent.',[
+ ('CALCULATE THE TOTIENT','Select against phi, not against the modulus alone','n=5×19=95\nϕ(n)=4×18=72',
+ 'The modulus is ninety-five and the totient is seventy-two. Test possible exponents against that totient.'),
+ ('TEST THE CANDIDATES','A valid choice must have greatest common divisor one with phi','gcd(3,72)=3; gcd(5,72)=1; gcd(9,72)=9\nChoose e=5.',
+ 'Three and nine share factors with seventy-two. Five is coprime, so five is the allowed choice.'),
+ ('JUSTIFY THE SMALLEST ODD CHOICE','Check smaller odd integers above one','The only smaller odd candidate is 3, which fails.\nThus 5 is the smallest valid odd e > 1.',
+ 'The only smaller odd integer above one is three, and it fails. Therefore five is also the smallest valid odd choice.'),
+ ('FIND AND CHECK THE INVERSE','Choose d so that ed is one more than a multiple of phi','5×29 = 145 = 2×72 + 1\nd = 29',
+ 'Five times twenty-nine is one hundred forty-five, which is one more than twice seventy-two. The private exponent is twenty-nine.')],e(5,4),equalities=[('5*19','95'),('4*18','72'),('5*29%72','1')]),
+authored('rsa-factor-key-and-decrypt','Factor a small toy modulus, recover the key, and decrypt',
+ 'Toy public key: e=5, n=65. Ciphertext C=2.\nFind p<q, ϕ(n), d, and the message M.','p=5,q=13; phi=48; d=29; M=32',
+ 'A toy public key has exponent five and modulus sixty-five. The ciphertext is two. Find the prime factors, totient, private exponent, and original message.',[
+ ('FACTOR THE SMALL MODULUS','Recover the two distinct primes and the totient','65=5×13, so p=5, q=13\nϕ(65)=4×12=48',
+ 'Sixty-five factors as five times thirteen. Its totient is four times twelve, which equals forty-eight.'),
+ ('FIND THE PRIVATE EXPONENT','Invert the public exponent modulo phi','5×29=145=3×48+1\nd=29',
+ 'Five times twenty-nine leaves remainder one modulo forty-eight. Therefore the private exponent is twenty-nine.'),
+ ('DECRYPT WITH REPEATED SQUARING','Use M = C raised to d, modulo n','M=2²⁹ mod 65; 29=16+8+4+1\n2⁴≡16; 2⁸≡−4; 2¹⁶≡16 (mod 65)',
+ 'Decrypt by raising two to the twenty-ninth power modulo sixty-five. Repeated squaring gives sixteen, negative four, and sixteen for powers four, eight, and sixteen.'),
+ ('COMBINE AND VERIFY','Re-encryption should recover the ciphertext','M ≡ 16×(−4)×16×2 ≡ 32 (mod 65)\nCheck: 32⁵ mod 65 = 2.',
+ 'Multiply the selected residues and reduce to get message thirty-two. Raising thirty-two to the public exponent returns ciphertext two.')],e(6,7),equalities=[('5*29%48','1'),('2**29%65','32'),('32**5%65','2')]),
+authored('rsa-decrypt-with-private-exponent','Decrypt a toy ciphertext using the private exponent',
+ 'Decrypt C=9 using private exponent d=27\nand modulus n=55.','M=4',
+ 'Decrypt ciphertext nine using private exponent twenty-seven and modulus fifty-five.',[
+ ('WRITE THE DECRYPTION RULE','Use the private exponent with the ciphertext','M = Cᵈ mod n = 9²⁷ mod 55',
+ 'The message is the ciphertext raised to the private exponent, reduced modulo the modulus.'),
+ ('SQUARE AND REDUCE','Build only powers with exponents one, two, four, eight, sixteen','9²≡26; 9⁴≡16 (mod 55)\n9⁸≡36; 9¹⁶≡31 (mod 55)',
+ 'Repeated squaring gives residues twenty-six, sixteen, thirty-six, and thirty-one for exponents two, four, eight, and sixteen.'),
+ ('SELECT AND MULTIPLY','Twenty-seven is sixteen plus eight plus two plus one','9²⁷ ≡ 31×36×26×9 (mod 55)\n31×36≡16; 16×26≡31; 31×9≡4',
+ 'Select exponents sixteen, eight, two, and one. Multiply their residues, reducing after each product, to obtain four.'),
+ ('CHECK WITH THE PUBLIC EXPONENT','For this toy key, the public exponent is three','M=4 and 0≤4<55\n4³=64≡9 (mod 55), recovering C.',
+ 'The message is four. As a check, encrypt it with the matching public exponent three. Four cubed leaves nine, the original ciphertext.')],e(6,4),expression='9**27%55',value='4',equalities=[('4**3%55','9'),('3*27%40','1')]),
+authored('rsa-message-range','Explain why a toy RSA message must fit below the modulus',
+ 'Toy key: e=5, d=5, n=35.\nCan encrypting the integer M=39\nand decrypting recover the original integer?','No; it recovers 4',
+ 'A toy key has public and private exponents five, with modulus thirty-five. Can encrypting message thirty-nine and decrypting recover that original integer?',[
+ ('CHECK THE MESSAGE RANGE','The message representative must lie from zero to n minus one','Required: 0≤M<35\n39 is outside the allowed range.',
+ 'The message representative must lie from zero through thirty-four. Thirty-nine is outside that range.'),
+ ('IDENTIFY THE INFORMATION LOST','Numbers separated by the modulus have the same residue','39 ≡ 4 (mod 35)\n39 and 4 produce the same ciphertext.',
+ 'Thirty-nine is congruent to four modulo thirty-five. Modular encryption cannot distinguish those two integers.'),
+ ('COMPUTE THE ROUND TRIP','Encryption and decryption recover the reduced representative','C=39⁵ mod 35=9\nM recovered=9⁵ mod 35=4',
+ 'Encryption gives ciphertext nine. Decrypting nine returns four, the reduced message representative.'),
+ ('CONCLUDE','Reducing modulo n does not preserve an arbitrary larger integer','Recovered 4 ≠ original 39\nEncode each message representative within 0≤M<n.',
+ 'The recovered integer is four, not thirty-nine. Each message representative must fit in the prescribed range before applying the toy rule.')],e(6,3),equalities=[('39**5%35','9'),('9**5%35','4')]),
+authored('rsa-noncoprime-message-power','Compute a toy encryption power when the message is not coprime',
+ 'Using the toy rule C=Mᵉ mod n,\ncompute C for M=5, e=65, n=85.','C=5',
+ 'Using the toy encryption rule, compute the ciphertext for message five, exponent sixty-five, and modulus eighty-five.',[
+ ('CHECK BEFORE USING EULER','The message and full modulus are not coprime','85=5×17; gcd(5,85)=5\nEuler cannot be applied directly modulo 85.',
+ 'Five and eighty-five share a factor, so Euler’s theorem cannot be applied directly with the full modulus.'),
+ ('WORK MODULO EACH PRIME','The first factor divides every positive power of five','5⁶⁵ ≡ 0 (mod 5)\nModulo 17, gcd(5,17)=1.',
+ 'Modulo five, the power is zero. Modulo seventeen, the base is coprime, so Fermat’s theorem is available.'),
+ ('REDUCE THE OTHER PRIME CONDITION','Fermat gives a sixteen-power block equal to one','65=4×16+1; 5¹⁶≡1 (mod 17)\n5⁶⁵≡5 (mod 17)',
+ 'Sixty-five is four sixteens plus one. Fermat reduces the power to five modulo seventeen.'),
+ ('COMBINE THE TWO RESIDUES','Coprime prime factors determine one residue modulo their product','C≡0 (mod 5), C≡5 (mod 17)\nC=5 satisfies both, with 0≤5<85.',
+ 'Five satisfies both residue conditions and is in the allowed range. Since the prime factors are coprime, that is the unique ciphertext modulo eighty-five.')],e(6,6),expression='5**65%85',value='5'),
+authored('rsa-fixed-message-residues','Recognize zero, one, and minus one under toy RSA powers',
+ 'A toy RSA key uses n=77, e=13, d=37.\nDecrypt C=76. What happens to residues 0 and 1?','M=76; zero and one also remain unchanged',
+ 'A toy R S A key uses modulus seventy-seven, public exponent thirteen, and private exponent thirty-seven. Decrypt ciphertext seventy-six. What happens to residues zero and one?',[
+ ('USE A SIMPLE REPRESENTATIVE','Seventy-six is negative one modulo seventy-seven','76 ≡ −1 (mod 77)\nM=76³⁷ mod 77',
+ 'Seventy-six is congruent to negative one. Decrypt by raising that residue to exponent thirty-seven.'),
+ ('USE THE ODD EXPONENT','An odd power preserves negative one','(−1)³⁷ = −1 ≡ 76 (mod 77)',
+ 'Thirty-seven is odd, so the result stays negative one, whose nonnegative representative is seventy-six.'),
+ ('CHECK THE OTHER TWO SPECIAL RESIDUES','Any positive exponent preserves zero and one','0³⁷=0; 1³⁷=1\nEncryption with positive exponent 13 also preserves 0 and 1.',
+ 'Zero and one stay unchanged under any positive power, including both the public and private exponents here.'),
+ ('STATE THE CONDITIONS','Negative one stays unchanged when the exponent is odd','C=76 decrypts to M=76.\nResidues 0 and 1 also map to themselves.',
+ 'Thus ciphertext seventy-six decrypts to message seventy-six. Zero and one also map to themselves. For negative one, the odd exponent is the essential condition.')],e(6,8),equalities=[('76**37%77','76'),('13*37%60','1')]),
+]
+def lessons(doc):return make_lessons(SPECS,doc)
