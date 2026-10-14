@@ -38,6 +38,12 @@ const errors = [];
 const warnings = [];
 const err = (m) => errors.push(m);
 const warn = (m) => warnings.push(m);
+const mediaFolder = { image: "images", video: "videos" };
+const mediaRootExists = {
+  image: existsSync(join(root, mediaFolder.image)),
+  video: existsSync(join(root, mediaFolder.video)),
+};
+const warnedMissingMediaRoot = { image: false, video: false };
 
 // ---------------------------------------------------------------- files
 function walk(dir, out = []) {
@@ -173,6 +179,10 @@ function checkCsv(rel) {
   catch (e) { err(`${rel}: cannot read (${e.message})`); return 0; }
   if (!rows.length) { err(`${rel}: empty file`); return 0; }
   const header = rows[0].map((h) => h.trim());
+  const mediaCols = {
+    image: header.findIndex((h) => h.toLowerCase() === "image"),
+    video: header.findIndex((h) => h.toLowerCase() === "video"),
+  };
   const col = {};
   for (const [k, names] of Object.entries(HEADER)) { const i = header.findIndex((h) => names.includes(h)); if (i >= 0) col[k] = i; }
   for (const k of ["id", "choices", "answers"]) if (!(k in col)) err(`${rel}: header lacks "${HEADER[k][0]}" (found: ${header.join(" | ")})`);
@@ -181,6 +191,33 @@ function checkCsv(rel) {
   for (let n = 1; n < rows.length; n++) {
     const r = rows[n], line = n + 1;
     const id = (r[col.id] ?? "").trim(), q = (r[col.choices] ?? "").trim(), a = (r[col.answers] ?? "").trim();
+    for (const kind of ["image", "video"]) {
+      const i = mediaCols[kind];
+      if (i < 0) continue;
+      const value = (r[i] ?? "").trim();
+      if (!value) continue;
+      let paths;
+      try { paths = value.startsWith("[") ? JSON.parse(value) : [value]; }
+      catch { err(`${rel}:${line}: invalid JSON in ${kind}`); continue; }
+      if (!Array.isArray(paths) || !paths.length) { err(`${rel}:${line}: ${kind} must be a path or non-empty path array`); continue; }
+      for (const media of paths) {
+        if (typeof media !== "string" || !media.trim()) { err(`${rel}:${line}: ${kind} must be a non-empty path`); continue; }
+        if (/^https?:\/\//i.test(media)) continue;
+        const folder = mediaFolder[kind];
+        if (media.startsWith(`${folder}/`) || media.startsWith("/") || media.includes("\\") || media.split("/").includes("..")) {
+          err(`${rel}:${line}: ${kind} must be relative to ${folder}/ without that prefix: ${media}`);
+          continue;
+        }
+        if (!mediaRootExists[kind]) {
+          if (!warnedMissingMediaRoot[kind]) {
+            warn(`${folder}/ is missing in this repo; skipping local ${kind} file checks`);
+            warnedMissingMediaRoot[kind] = true;
+          }
+          continue;
+        }
+        if (!existsSync(join(root, folder, media))) err(`${rel}:${line}: missing ${kind} file ${folder}/${media}`);
+      }
+    }
     if (!id) warn(`${rel}:${line}: no Question ID (the app falls back to row order)`);
     ids.add(id);
     if (!q) { err(`${rel}:${line} (Q${id}): empty Question Choices`); continue; }
