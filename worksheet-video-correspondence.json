@@ -137830,6 +137830,36 @@
         "rule": "measurement-closest-stated-mass",
         "review_status": "reviewed"
       }
+    },
+    "gcd-fixed-sum-count-coprime-pairs": {
+      "title": "Count pairs with a given GCD and sum",
+      "curriculum": {
+        "kind": "enrichment",
+        "track": "number-theory 1",
+        "topic": "U2prime-factorization"
+      },
+      "question_type": "Count positive integer pairs with a specified GCD and fixed sum",
+      "production_status": "rendered",
+      "target_duration_seconds": 60,
+      "duration_seconds": 50.27,
+      "example": {
+        "question": "How many pairs of positive integers (a,b) satisfy a < b, gcd(a,b) = 5, and a+b = 55?",
+        "answer": "5 pairs: (5,50), (10,45), (15,40), (20,35), (25,30)."
+      },
+      "assets": {
+        "mp4": "videos/enrichment/number-theory 1/U2prime-factorization/gcd-fixed-sum-count-coprime-pairs.mp4",
+        "captions": null
+      },
+      "youtube": {
+        "video_id": null,
+        "visibility": null
+      },
+      "notes": "Created 2026-10-13 for E-NT1U2W2Rev Q10. Analogous example uses GCD 5 and sum 55. Five positive pairs verified by exhaustive enumeration. Local Kokoro af_heart narration; 1080p H.264/AAC; no subtitles.",
+      "planning": {
+        "basis": "rule",
+        "rule": "gcd-fixed-sum-count-coprime-pairs",
+        "review_status": "reviewed"
+      }
     }
   },
   "worksheets": {
@@ -406388,6 +406418,37 @@
           "notes": "Inspected duplicate teaching method: uses the verified analogous example gcf-three-identical-baskets. Original draft video ID pattern-prime-factorization-c59546a975b0 is retained as a reuse record.",
           "mapping_method": "manual",
           "mapping_rule": "verified-video-reuse-1",
+          "requires_source_visual": false
+        }
+      }
+    },
+    "worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W2Rev.csv": {
+      "curriculum": {
+        "kind": "enrichment",
+        "track": "number-theory 1",
+        "topic": "U2prime-factorization"
+      },
+      "worksheet_number": "2",
+      "worksheet_variant": "revision",
+      "unit_topic": "U2prime-factorization",
+      "problems": {
+        "10": {
+          "question_text": "How many pairs of positive integers (a,b) satisfy a < b, gcd(a,b) = 7, and a+b = 91?",
+          "question_sha256": "28ca9d11dfd62b7a3a82e49eed964fb8f9aca0f9959963acd36921f04a9b8336",
+          "mapping_status": "reviewed",
+          "video_links": [
+            {
+              "video_id": "gcd-fixed-sum-count-coprime-pairs",
+              "coverage": "full",
+              "example_mode": "similar_question",
+              "variant_index": null,
+              "start_seconds": 0,
+              "end_seconds": null
+            }
+          ],
+          "notes": "Reviewed actual Q10, answer 6, hints and solution. Divide both integers and their sum by the required GCD; count coprime positive pairs with u<v. Video uses different numbers (GCD 5, sum 55), with normalized prime sum 11 rather than 13. Other questions on this new revision worksheet are outside this targeted mapping update.",
+          "mapping_method": "manual",
+          "mapping_rule": "e-nt1-u2-w2rev-q10-review-20261013",
           "requires_source_visual": false
         }
       }
