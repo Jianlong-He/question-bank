@@ -10907,8 +10907,20 @@
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1W1HWb.csv"
                       },
                       {
+                        "title": "Review 1",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1W1Rev.csv"
+                      },
+                      {
                         "title": "Worksheet 1-1",
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1W1-1.csv"
+                      },
+                      {
+                        "title": "Homework 1-1",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1W1-1HW.csv"
+                      },
+                      {
+                        "title": "Review 1-1",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1W1-1Rev.csv"
                       },
                       {
                         "title": "Modular Multiplication and Inverse",
@@ -10927,6 +10939,10 @@
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1W2HWb.csv"
                       },
                       {
+                        "title": "Review 2",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1W2Rev.csv"
+                      },
+                      {
                         "title": "Worksheet 3",
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1W3.csv"
                       },
@@ -10937,6 +10953,10 @@
                       {
                         "title": "Homework 3b",
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1W3HWb.csv"
+                      },
+                      {
+                        "title": "Review 3",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1W3Rev.csv"
                       },
                       {
                         "title": "Summary and Problems",
@@ -10953,6 +10973,10 @@
                       {
                         "title": "Homework 4b",
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1W4HWb.csv"
+                      },
+                      {
+                        "title": "Review 4",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1W4Rev.csv"
                       }
                     ]
                   },
@@ -10976,6 +11000,10 @@
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W1HWb.csv"
                       },
                       {
+                        "title": "Review 1",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W1Rev.csv"
+                      },
+                      {
                         "title": "Worksheet 2",
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W2.csv"
                       },
@@ -10986,6 +11014,10 @@
                       {
                         "title": "Homework 2b",
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W2HWb.csv"
+                      },
+                      {
+                        "title": "Review 2",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W2Rev.csv"
                       },
                       {
                         "title": "Simplifying Fractions",
@@ -11004,12 +11036,24 @@
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W3HWb.csv"
                       },
                       {
+                        "title": "Review 3",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W3Rev.csv"
+                      },
+                      {
                         "title": "Least Common Multiple",
                         "youtubeIds": ["3jjMLoLW0fY","38qpDx-unuQ"]
                       },
                       {
                         "title": "Worksheet 4",
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W4.csv"
+                      },
+                      {
+                        "title": "Homework 4",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W4HW.csv"
+                      },
+                      {
+                        "title": "Review 4",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W4Rev.csv"
                       },
                       {
                         "title": "Further Examples",
@@ -11020,8 +11064,24 @@
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W5.csv"
                       },
                       {
+                        "title": "Homework 5",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W5HW.csv"
+                      },
+                      {
+                        "title": "Review 5",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W5Rev.csv"
+                      },
+                      {
                         "title": "Worksheet 6",
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W6.csv"
+                      },
+                      {
+                        "title": "Homework 6",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W6HW.csv"
+                      },
+                      {
+                        "title": "Review 6",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U2prime-factorization/E-NT1U2W6Rev.csv"
                       }
                     ]
                   },
@@ -11045,12 +11105,28 @@
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U3Euclidean-division/E-NT1U3W1.csv"
                       },
                       {
+                        "title": "Homework 1",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U3Euclidean-division/E-NT1U3W1HW.csv"
+                      },
+                      {
+                        "title": "Review 1",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U3Euclidean-division/E-NT1U3W1Rev.csv"
+                      },
+                      {
                         "title": "The Euclidean Algorithm Continued",
                         "youtubeIds": ["xhNJdy2nCpI","WfnxHRWjj3I","Supu3Wzodwc"]
                       },
                       {
                         "title": "Worksheet 2",
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U3Euclidean-division/E-NT1U3W2.csv"
+                      },
+                      {
+                        "title": "Homework 2",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U3Euclidean-division/E-NT1U3W2HW.csv"
+                      },
+                      {
+                        "title": "Review 2",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U3Euclidean-division/E-NT1U3W2Rev.csv"
                       },
                       {
                         "title": "Extended Euclidean Algorithm",
@@ -11061,12 +11137,28 @@
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U3Euclidean-division/E-NT1U3W3.csv"
                       },
                       {
+                        "title": "Homework 3",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U3Euclidean-division/E-NT1U3W3HW.csv"
+                      },
+                      {
+                        "title": "Review 3",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U3Euclidean-division/E-NT1U3W3Rev.csv"
+                      },
+                      {
                         "title": "Computing Modular Inverse",
                         "youtubeIds": ["IRlNS6g_oQk"]
                       },
                       {
                         "title": "Worksheet 4",
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U3Euclidean-division/E-NT1U3W4.csv"
+                      },
+                      {
+                        "title": "Homework 4",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U3Euclidean-division/E-NT1U3W4HW.csv"
+                      },
+                      {
+                        "title": "Review 4",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U3Euclidean-division/E-NT1U3W4Rev.csv"
                       }
                     ]
                   },
@@ -11103,6 +11195,14 @@
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U5CRT/E-NT1U5W1.csv"
                       },
                       {
+                        "title": "Homework 1",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U5CRT/E-NT1U5W1HW.csv"
+                      },
+                      {
+                        "title": "Review 1",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U5CRT/E-NT1U5W1Rev.csv"
+                      },
+                      {
                         "title": "Solving Modulo Equations",
                         "youtubeIds": ["UeXcHgEYjfg","WzY4MYsiHn8","7_CfSDs3UuY"]
                       },
@@ -11113,6 +11213,14 @@
                       {
                         "title": "Worksheet 2",
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U5CRT/E-NT1U5W2.csv"
+                      },
+                      {
+                        "title": "Homework 2",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U5CRT/E-NT1U5W2HW.csv"
+                      },
+                      {
+                        "title": "Review 2",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U5CRT/E-NT1U5W2Rev.csv"
                       },
                       {
                         "title": "Chinese Remainder Theorem",
@@ -11127,8 +11235,24 @@
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U5CRT/E-NT1U5W3.csv"
                       },
                       {
+                        "title": "Homework 3",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U5CRT/E-NT1U5W3HW.csv"
+                      },
+                      {
+                        "title": "Review 3",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U5CRT/E-NT1U5W3Rev.csv"
+                      },
+                      {
                         "title": "Worksheet 4",
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U5CRT/E-NT1U5W4.csv"
+                      },
+                      {
+                        "title": "Homework 4",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U5CRT/E-NT1U5W4HW.csv"
+                      },
+                      {
+                        "title": "Review 4",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U5CRT/E-NT1U5W4Rev.csv"
                       }
                     ]
                   },
@@ -11144,6 +11268,14 @@
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W1.csv"
                       },
                       {
+                        "title": "Homework 1",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W1HW.csv"
+                      },
+                      {
+                        "title": "Review 1",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W1Rev.csv"
+                      },
+                      {
                         "title": "Totient Function",
                         "youtubeIds": ["VIDXg0y9sQg","XEYsxz7tnGE","NZ7U4Y1HBuY","5-Pcsq22rZI"]
                       },
@@ -11152,12 +11284,28 @@
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W2.csv"
                       },
                       {
+                        "title": "Homework 2",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W2HW.csv"
+                      },
+                      {
+                        "title": "Review 2",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W2Rev.csv"
+                      },
+                      {
                         "title": "Factorial and Totient",
                         "youtubeIds": ["B4oKgAtrG60"]
                       },
                       {
                         "title": "Worksheet 3",
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W3.csv"
+                      },
+                      {
+                        "title": "Homework 3",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W3HW.csv"
+                      },
+                      {
+                        "title": "Review 3",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W3Rev.csv"
                       },
                       {
                         "title": "Fermat's Little Theorem",
@@ -11172,6 +11320,14 @@
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W4.csv"
                       },
                       {
+                        "title": "Homework 4",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W4HW.csv"
+                      },
+                      {
+                        "title": "Review 4",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W4Rev.csv"
+                      },
+                      {
                         "title": "RSA and Key Generation",
                         "youtubeIds": ["qX9CUQYX02c","-2MMpkMKLTg"]
                       },
@@ -11180,12 +11336,28 @@
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W5.csv"
                       },
                       {
+                        "title": "Homework 5",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W5HW.csv"
+                      },
+                      {
+                        "title": "Review 5",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W5Rev.csv"
+                      },
+                      {
                         "title": "RSA Encryption",
                         "youtubeIds": ["EtBWDjJI1PY","WKrAUqEqTJY"]
                       },
                       {
                         "title": "Worksheet 6",
                         "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W6.csv"
+                      },
+                      {
+                        "title": "Homework 6",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W6HW.csv"
+                      },
+                      {
+                        "title": "Review 6",
+                        "url": "matterofmath/mattermath.html?file=worksheets/enrichment/number-theory 1/U6RSA/E-NT1U6W6Rev.csv"
                       }
                     ]
                   }

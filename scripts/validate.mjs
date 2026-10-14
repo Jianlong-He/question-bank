@@ -20,7 +20,7 @@
  *     - has the core question headers, with optional image/video columns
  *     - follows current grade/enrichment CSV naming conventions
  *     - has consistent row widths and unique question IDs
- *     - image/video cells are media-folder-relative paths to existing files
+ *     - image/video cells contain valid relative paths for externally hosted media
  *     - every row has a Question ID, a question and an answer
  *     - a `Choices: A) … | B) …` question's answer letter exists, and every
  *       piece of the list opens with its own letter
@@ -78,6 +78,20 @@ const HEADER = {
   choices: ["Question Choices", "QuestionChoices"],
   answers: ["Question Answers", "Question Answer", "QuestionAnswers", "QuestionAnswer"],
 };
+
+// Media lives outside this checkout. Validate object paths without requiring
+// local copies or making thousands of network requests during content CI.
+function checkMediaPath(media, folder, where, prefixed = false) {
+  const path = typeof media === 'string' && prefixed && media.startsWith(`${folder}/`)
+    ? media.slice(folder.length + 1) : media;
+  if (typeof path !== 'string' || !path.trim() || path !== path.trim()
+      || (prefixed && !media.startsWith(`${folder}/`))
+      || path.startsWith(`${folder}/`) || path.includes('\\')
+      || /^[a-z][a-z0-9+.-]*:/i.test(path) || /[\x00-\x1f\x7f|]/.test(path)
+      || path.split('/').some(part => ['', '.', '..'].includes(part))) {
+    err(`${where}: invalid media path (${prefixed ? `expected ${folder}/ prefix` : `must be relative to ${folder}/ without that prefix`}): ${media}`);
+  }
+}
 
 // Mirrors frontend/src/learning: Select options split on whitespace outside
 // "…" and $…$ spans; answers split on ';' (if present) else ',' outside spans.
@@ -212,13 +226,11 @@ function checkCsv(rel) {
       const value = (r[header.indexOf(column)] ?? '').trim();
       if (!value) continue;
       let paths;
-      try { paths = value.startsWith('[') ? JSON.parse(value) : [value]; }
+      try { paths = value.startsWith('[') ? JSON.parse(value) : column === 'video' ? value.split('|').map(p => p.trim()) : [value]; }
       catch { err(`${rel}:${line}: invalid JSON in ${column}`); continue; }
       if (!Array.isArray(paths) || !paths.length) { err(`${rel}:${line}: ${column} must be a path or nonempty path array`); continue; }
       for (const media of paths) {
-        if (typeof media !== 'string' || !media.trim() || media.startsWith(`${folder}/`) || media.startsWith('/') || media.includes('\\') || /^[a-z]+:/i.test(media) || media.split('/').includes('..')) {
-          err(`${rel}:${line}: ${column} must be relative to ${folder}/ without that prefix: ${media}`);
-        } else if (!existsSync(join(root, folder, media))) err(`${rel}:${line}: missing ${column} file ${folder}/${media}`);
+        checkMediaPath(media, folder, `${rel}:${line}: ${column}`);
       }
     }
     if (!q) { err(`${rel}:${line} (Q${id}): empty Question Choices`); continue; }
@@ -320,12 +332,14 @@ for (const rel of worksheetFiles) if (rel.toLowerCase().endsWith(".csv") && !ref
 for (const rel of unitTestFiles) if (rel.toLowerCase().endsWith(".csv") && !catalogued.has(rel)) warn(`catalog does not list ${rel}`);
 
 // ---------------------------------------------------------------- active correspondence paths
-for (const [file, type] of [['images/image-question-correspondence.json', 'image'], ['videos/worksheet-video-correspondence.json', 'video']]) {
+for (const [file, type] of [['image-question-correspondence.json', 'image'], ['worksheet-video-correspondence.json', 'video']]) {
   try {
     const doc = JSON.parse(readFileSync(join(root, file), 'utf8'));
-    const refs = type === 'image' ? (doc.images ?? []).flatMap(e => [e.source_csv, e.image_file])
-      : [...Object.keys(doc.worksheets ?? {}), ...Object.values(doc.videos ?? {}).flatMap(v => Object.values(v.assets ?? {}).filter(v => v !== null))];
-    for (const ref of new Set(refs)) if (typeof ref !== 'string' || !existsSync(join(root, ref))) err(`${file}: missing referenced path ${ref}`);
+    const sources = type === 'image' ? (doc.images ?? []).map(e => e.source_csv) : Object.keys(doc.worksheets ?? {});
+    for (const ref of new Set(sources)) if (typeof ref !== 'string' || !allFiles.has(ref)) err(`${file}: missing referenced source CSV ${ref}`);
+    const media = type === 'image' ? (doc.images ?? []).map(e => e.image_file)
+      : Object.values(doc.videos ?? {}).flatMap(v => Object.values(v.assets ?? {}).filter(v => v !== null));
+    for (const ref of new Set(media)) checkMediaPath(ref, type === 'image' ? 'images' : 'videos', file, true);
   } catch (e) { err(`${file}: ${e.message}`); }
 }
 

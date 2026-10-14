@@ -2,7 +2,7 @@
 """
 Rebuild `unit-tests/catalog/catalog.json`, the index the site's launcher reads.
 
-Every field in the catalog is derived from the CSVs and images/grade-units.json
+Every field in the catalog is derived from the CSVs and data/grade-units.json
 — the grade from the folder, the unit name from the numbered JSON mapping, the question count and the timer
 from the rows — so the catalog is a *build product*, not a document. It used to
 live in the site repository and be generated from whatever unit tests happened
@@ -29,7 +29,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 UNIT_TESTS_DIR = ROOT / "unit-tests"
 CATALOG_PATH = UNIT_TESTS_DIR / "catalog" / "catalog.json"
-GRADE_UNITS_PATH = ROOT / "images" / "grade-units.json"
+GRADE_UNITS_PATH = ROOT / "data" / "grade-units.json"
 SKIP_DIRS = {"catalog", "__pycache__"}
 ENRICHMENT_DIR = "enrichment"
 SMALL_WORDS = {"and", "or", "of", "the", "a", "an", "to", "by", "in", "on", "for", "with"}

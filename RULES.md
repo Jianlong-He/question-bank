@@ -15,9 +15,9 @@
 - New files use the seven core headers documented in [README.md](README.md#csv-schema). Every worksheet also has a `video` column; use `image` where image links are present. Existing header aliases and column order must survive unrelated edits.
 - Read and write CSV with a CSV library, using UTF-8 with optional BOM. Quote commas, line breaks, and embedded quotes correctly. Every record must match its header's field count.
 - The canonical image column is `image`, not `imageURL` or `imagesURL`. Local paths do not belong in URL columns.
-- `image` values are relative to `images/`, and `video` values are relative to `videos/`. Omit those leading directory names in CSV cells. Never store absolute filesystem paths.
-- A cell contains one path, a JSON array of paths for multiple assets, or an empty string. Preserve spaces and capitalization. Do not use commas or bars as ad hoc path separators.
-- Correspondence JSON uses repository-relative source and media paths. Keep `images/` and `videos/` there; strip one leading prefix only when writing the corresponding CSV media cell.
+- `image` values are relative to the external image root. `video` values are relative to `https://media.ktoinfinity.com/videos/sample-solution-videos/`. Omit `images/`, `videos/`, and `sample-solution-videos/` prefixes in the corresponding CSV cells. Never store absolute filesystem paths.
+- A cell contains one path, a JSON array of paths for multiple assets, or an empty string. Video cells also support ` | ` between paths. Preserve spaces and capitalization; URL-encode segments only when building a URL. Do not use commas as path separators.
+- Correspondence JSON files live at the repository root and use repository-relative source CSV paths and historical media paths. Keep `images/` and `videos/` there; strip one leading prefix only when writing the corresponding CSV media cell.
 - Worksheet images live under `images/worksheet-images/<CSV parent folders>/<CSV stem>/`. Filenames use `WS-<worksheet-code>Q<question-id>I<image-index>.<ext>`, for example `WS-G7U6W1HWQ1I2.png` or `WS-E-NT1U3W4Q1I1.png`.
 - Unit-test images live under `images/unit-test-images/<CSV parent folders>/<CSV stem>/`. Use `UT-G7U6Q1I1.png` for grade tests and `UT-E-NT1U1T2Q1I1.png` for enrichment tests. Here, parent folders mean the path below `worksheets/` or `unit-tests/`, respectively.
 - Image indexes start at 1. Keep the actual extension. Normalize legacy `_HW` and `_Revision` to `HW` and `Rev` in image codes only; the containing folder retains the exact CSV stem.
@@ -133,10 +133,10 @@ unit tests from the middle of the sheet, so the order matters there.
 ## Rename and validation checklist
 
 1. Match the directory and filename patterns above, keeping enrichment units in curriculum order.
-2. Update `data/curriculum.json` links and regenerate `unit-tests/catalog/catalog.json` when affected. Check school-grade unit labels against `images/grade-units.json`.
-3. Update source paths, worksheet keys, and curriculum metadata in `videos/worksheet-video-correspondence.json`, preserving video IDs, problem mappings, review status, and media records. Match renamed sources by their complete question IDs and text, not by a guessed filename.
-4. Update the image source manifests and rebuild `images/image-question-correspondence.json` where affected. Keep current question text in the correspondence record.
+2. Update `data/curriculum.json` links and regenerate `unit-tests/catalog/catalog.json` when affected. Check school-grade unit labels against `data/grade-units.json`.
+3. Update source paths, worksheet keys, and curriculum metadata in `worksheet-video-correspondence.json`, preserving video IDs, problem mappings, review status, and media records. Match renamed sources by their complete question IDs and text, not by a guessed filename.
+4. Update the image source manifests and rebuild `image-question-correspondence.json` where affected. Keep current question text in the correspondence record.
 5. Update every affected `image` and `video` CSV cell using its media-folder-relative path. Check references from other units too: videos can be shared.
 6. Update generator output directories and hard-coded source references so a later run does not recreate old folders. Download scripts must preserve their existing URL manifests when current CSVs have no URL columns.
 7. Keep historical migration and audit evidence intact; add an outcome or follow-up instead of globally replacing old paths in reports.
-8. Run `node scripts/validate.mjs`, `python3 scripts/generate_unit_test_catalog.py --check`, and `python3 scripts/build_video_correspondence.py --check`. Confirm that media files exist and unrelated questions and assets remain unchanged. Syntax validation does not replace mathematical review.
+8. Run `node --test scripts/validate.test.mjs`, `node scripts/validate.mjs`, and `python3 scripts/generate_unit_test_catalog.py --check`. Validation checks media path formatting and source CSV existence, without requiring local media or checking remote availability. Check hosted asset availability separately when changing media links. Syntax validation does not replace mathematical review.

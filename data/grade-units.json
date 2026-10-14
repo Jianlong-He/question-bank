@@ -1,0 +1,609 @@
+{
+  "description": "School-grade unit names recovered from worksheet-video-correspondence.json and verified against the committed unit-test catalog. Maintained here independently of media binaries.",
+  "grades": [
+    {
+      "grade": 1,
+      "units": [
+        {
+          "unit_number": 1,
+          "unit_name": "Place value"
+        },
+        {
+          "unit_number": 2,
+          "unit_name": "Addition and subtraction"
+        },
+        {
+          "unit_number": 3,
+          "unit_name": "Measurement, data, and geometry"
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "unit_name": "Add and subtract within 20"
+        },
+        {
+          "unit_number": 2,
+          "unit_name": "Place Value"
+        },
+        {
+          "unit_number": 3,
+          "unit_name": "Add and subtract within 100"
+        },
+        {
+          "unit_number": 4,
+          "unit_name": "Addition and subtraction within 1000"
+        },
+        {
+          "unit_number": 5,
+          "unit_name": "Money and Time"
+        },
+        {
+          "unit_number": 6,
+          "unit_name": "Measurement"
+        },
+        {
+          "unit_number": 7,
+          "unit_name": "Data"
+        },
+        {
+          "unit_number": 8,
+          "unit_name": "Geometry"
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "unit_name": "Intro to multiplication"
+        },
+        {
+          "unit_number": 2,
+          "unit_name": "1-digit multiplication"
+        },
+        {
+          "unit_number": 3,
+          "unit_name": "Addition, subtraction, and estimation"
+        },
+        {
+          "unit_number": 4,
+          "unit_name": "Intro to division"
+        },
+        {
+          "unit_number": 5,
+          "unit_name": "Understand fractions"
+        },
+        {
+          "unit_number": 6,
+          "unit_name": "Equivalent fractions and comparing fractions"
+        },
+        {
+          "unit_number": 7,
+          "unit_name": "More with multiplication and division"
+        },
+        {
+          "unit_number": 8,
+          "unit_name": "Arithmetic patterns and problem solving"
+        },
+        {
+          "unit_number": 9,
+          "unit_name": "Quadrilaterals"
+        },
+        {
+          "unit_number": 10,
+          "unit_name": "Area"
+        },
+        {
+          "unit_number": 11,
+          "unit_name": "Perimeter"
+        },
+        {
+          "unit_number": 12,
+          "unit_name": "Time"
+        },
+        {
+          "unit_number": 13,
+          "unit_name": "Measurement"
+        },
+        {
+          "unit_number": 14,
+          "unit_name": "Represent and interpret data"
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "units": [
+        {
+          "unit_number": 1,
+          "unit_name": "Place value"
+        },
+        {
+          "unit_number": 2,
+          "unit_name": "Addition, subtraction, and estimation"
+        },
+        {
+          "unit_number": 3,
+          "unit_name": "Multiply by 1-digit numbers"
+        },
+        {
+          "unit_number": 4,
+          "unit_name": "Multiply by 2-digit numbers"
+        },
+        {
+          "unit_number": 5,
+          "unit_name": "Division"
+        },
+        {
+          "unit_number": 6,
+          "unit_name": "Factors, multiples and patterns"
+        },
+        {
+          "unit_number": 7,
+          "unit_name": "Equivalent fractions and comparing fractions"
+        },
+        {
+          "unit_number": 8,
+          "unit_name": "Add and subtract fractions"
+        },
+        {
+          "unit_number": 9,
+          "unit_name": "Multiply fractions"
+        },
+        {
+          "unit_number": 10,
+          "unit_name": "Understand decimals"
+        },
+        {
+          "unit_number": 11,
+          "unit_name": "Plane figures"
+        },
+        {
+          "unit_number": 12,
+          "unit_name": "Measuring angles"
+        },
+        {
+          "unit_number": 13,
+          "unit_name": "Area and perimeter"
+        },
+        {
+          "unit_number": 14,
+          "unit_name": "Units of measurement"
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "units": [
+        {
+          "unit_number": 1,
+          "unit_name": "Decimal place value"
+        },
+        {
+          "unit_number": 2,
+          "unit_name": "Add decimals"
+        },
+        {
+          "unit_number": 3,
+          "unit_name": "Subtract decimals"
+        },
+        {
+          "unit_number": 4,
+          "unit_name": "Add and subtract fractions"
+        },
+        {
+          "unit_number": 5,
+          "unit_name": "Multi-digit multiplication and division"
+        },
+        {
+          "unit_number": 6,
+          "unit_name": "Multiply fractions"
+        },
+        {
+          "unit_number": 7,
+          "unit_name": "Divide fractions"
+        },
+        {
+          "unit_number": 8,
+          "unit_name": "Multiply decimals"
+        },
+        {
+          "unit_number": 9,
+          "unit_name": "Divide decimals"
+        },
+        {
+          "unit_number": 10,
+          "unit_name": "Powers of ten"
+        },
+        {
+          "unit_number": 11,
+          "unit_name": "Volume"
+        },
+        {
+          "unit_number": 12,
+          "unit_name": "Coordinate plane"
+        },
+        {
+          "unit_number": 13,
+          "unit_name": "Algebraic thinking"
+        },
+        {
+          "unit_number": 14,
+          "unit_name": "Converting units of measure"
+        },
+        {
+          "unit_number": 15,
+          "unit_name": "Line plots"
+        },
+        {
+          "unit_number": 16,
+          "unit_name": "Properties of shapes"
+        }
+      ]
+    },
+    {
+      "grade": 6,
+      "units": [
+        {
+          "unit_number": 1,
+          "unit_name": "Ratios"
+        },
+        {
+          "unit_number": 2,
+          "unit_name": "Arithmetic with rational numbers"
+        },
+        {
+          "unit_number": 3,
+          "unit_name": "Rates and percentages"
+        },
+        {
+          "unit_number": 4,
+          "unit_name": "Exponents and order of operations"
+        },
+        {
+          "unit_number": 5,
+          "unit_name": "Negative numbers"
+        },
+        {
+          "unit_number": 6,
+          "unit_name": "Variables & expressions"
+        },
+        {
+          "unit_number": 7,
+          "unit_name": "Equations & inequalities"
+        },
+        {
+          "unit_number": 8,
+          "unit_name": "Plane figures"
+        },
+        {
+          "unit_number": 9,
+          "unit_name": "Coordinate plane"
+        },
+        {
+          "unit_number": 10,
+          "unit_name": "3D figures"
+        },
+        {
+          "unit_number": 11,
+          "unit_name": "Data and statistics"
+        }
+      ]
+    },
+    {
+      "grade": 7,
+      "units": [
+        {
+          "unit_number": 1,
+          "unit_name": "Proportional relationships"
+        },
+        {
+          "unit_number": 2,
+          "unit_name": "Rates and percentages"
+        },
+        {
+          "unit_number": 3,
+          "unit_name": "Integers: addition and subtraction"
+        },
+        {
+          "unit_number": 4,
+          "unit_name": "Rational numbers: addition and subtraction"
+        },
+        {
+          "unit_number": 5,
+          "unit_name": "Negative numbers: multiplication and division"
+        },
+        {
+          "unit_number": 6,
+          "unit_name": "Expressions, equations, & inequalities"
+        },
+        {
+          "unit_number": 7,
+          "unit_name": "Statistics and probability"
+        },
+        {
+          "unit_number": 8,
+          "unit_name": "Scale copies"
+        },
+        {
+          "unit_number": 9,
+          "unit_name": "Geometry"
+        }
+      ]
+    },
+    {
+      "grade": 8,
+      "units": [
+        {
+          "unit_number": 1,
+          "unit_name": "Numbers and operations"
+        },
+        {
+          "unit_number": 2,
+          "unit_name": "Solving equations with one unknown"
+        },
+        {
+          "unit_number": 3,
+          "unit_name": "Linear equations and functions"
+        },
+        {
+          "unit_number": 4,
+          "unit_name": "Systems of equations"
+        },
+        {
+          "unit_number": 5,
+          "unit_name": "Geometry"
+        },
+        {
+          "unit_number": 6,
+          "unit_name": "Geometric transformations"
+        },
+        {
+          "unit_number": 7,
+          "unit_name": "Data and modeling"
+        }
+      ]
+    },
+    {
+      "grade": 9,
+      "units": [
+        {
+          "unit_number": 1,
+          "unit_name": "Algebra foundations"
+        },
+        {
+          "unit_number": 2,
+          "unit_name": "Solving equations & inequalities"
+        },
+        {
+          "unit_number": 3,
+          "unit_name": "Working with units"
+        },
+        {
+          "unit_number": 4,
+          "unit_name": "Linear equations & graphs"
+        },
+        {
+          "unit_number": 5,
+          "unit_name": "Forms of linear equations"
+        },
+        {
+          "unit_number": 6,
+          "unit_name": "Systems of equations"
+        },
+        {
+          "unit_number": 7,
+          "unit_name": "Inequalities (systems & graphs)"
+        },
+        {
+          "unit_number": 8,
+          "unit_name": "Functions"
+        },
+        {
+          "unit_number": 9,
+          "unit_name": "Scatterplots"
+        },
+        {
+          "unit_number": 10,
+          "unit_name": "Data distributions"
+        },
+        {
+          "unit_number": 11,
+          "unit_name": "Two-way tables"
+        },
+        {
+          "unit_number": 12,
+          "unit_name": "Sequences"
+        },
+        {
+          "unit_number": 13,
+          "unit_name": "Exponents & radicals"
+        },
+        {
+          "unit_number": 14,
+          "unit_name": "Exponential growth & decay"
+        },
+        {
+          "unit_number": 15,
+          "unit_name": "Performing transformations"
+        },
+        {
+          "unit_number": 16,
+          "unit_name": "Transformation properties and proofs"
+        },
+        {
+          "unit_number": 17,
+          "unit_name": "Congruence"
+        },
+        {
+          "unit_number": 18,
+          "unit_name": "Analytic geometry"
+        }
+      ]
+    },
+    {
+      "grade": 10,
+      "units": [
+        {
+          "unit_number": 1,
+          "unit_name": "Absolute value & piecewise functions"
+        },
+        {
+          "unit_number": 2,
+          "unit_name": "Quadratics: Multiplying & factoring"
+        },
+        {
+          "unit_number": 3,
+          "unit_name": "Quadratic functions & equations"
+        },
+        {
+          "unit_number": 4,
+          "unit_name": "Irrational numbers"
+        },
+        {
+          "unit_number": 5,
+          "unit_name": "Complex numbers"
+        },
+        {
+          "unit_number": 6,
+          "unit_name": "Rational exponents and radicals"
+        },
+        {
+          "unit_number": 7,
+          "unit_name": "Exponential models"
+        },
+        {
+          "unit_number": 8,
+          "unit_name": "Similarity"
+        },
+        {
+          "unit_number": 9,
+          "unit_name": "Right triangles & trigonometry"
+        },
+        {
+          "unit_number": 10,
+          "unit_name": "Solid geometry"
+        },
+        {
+          "unit_number": 11,
+          "unit_name": "Circles"
+        },
+        {
+          "unit_number": 12,
+          "unit_name": "Conic sections"
+        },
+        {
+          "unit_number": 13,
+          "unit_name": "Probability"
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "units": [
+        {
+          "unit_number": 1,
+          "unit_name": "Polynomial arithmetic"
+        },
+        {
+          "unit_number": 2,
+          "unit_name": "Polynomial factorization"
+        },
+        {
+          "unit_number": 3,
+          "unit_name": "Polynomial division"
+        },
+        {
+          "unit_number": 4,
+          "unit_name": "Polynomial graphs"
+        },
+        {
+          "unit_number": 5,
+          "unit_name": "Logarithms"
+        },
+        {
+          "unit_number": 6,
+          "unit_name": "Transformations of functions"
+        },
+        {
+          "unit_number": 7,
+          "unit_name": "Equations"
+        },
+        {
+          "unit_number": 8,
+          "unit_name": "Trigonometry"
+        },
+        {
+          "unit_number": 9,
+          "unit_name": "Modeling"
+        },
+        {
+          "unit_number": 10,
+          "unit_name": "Study Design"
+        },
+        {
+          "unit_number": 11,
+          "unit_name": "Binomial probability"
+        },
+        {
+          "unit_number": 12,
+          "unit_name": "Normal distributions"
+        },
+        {
+          "unit_number": 13,
+          "unit_name": "Rational functions"
+        }
+      ]
+    },
+    {
+      "grade": 12,
+      "units": [
+        {
+          "unit_number": 1,
+          "unit_name": "Composite and inverse functions"
+        },
+        {
+          "unit_number": 2,
+          "unit_name": "Trigonometry"
+        },
+        {
+          "unit_number": 3,
+          "unit_name": "Complex numbers"
+        },
+        {
+          "unit_number": 4,
+          "unit_name": "Rational functions"
+        },
+        {
+          "unit_number": 5,
+          "unit_name": "Conic sections"
+        },
+        {
+          "unit_number": 6,
+          "unit_name": "Vectors"
+        },
+        {
+          "unit_number": 7,
+          "unit_name": "Matrices"
+        },
+        {
+          "unit_number": 8,
+          "unit_name": "Probability and combinatorics"
+        },
+        {
+          "unit_number": 9,
+          "unit_name": "Series"
+        },
+        {
+          "unit_number": 10,
+          "unit_name": "Limits and continuity"
+        }
+      ]
+    }
+  ]
+}

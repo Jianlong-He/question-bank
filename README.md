@@ -1,6 +1,6 @@
 # Math Question Bank
 
-Math practice and unit-test questions for Grades 1–12 and enrichment, stored as CSV files with local images and teaching videos. This repository contains content and maintenance scripts; the learning application lives elsewhere.
+Math practice and unit-test questions for Grades 1–12 and enrichment, stored as CSV files with references to externally hosted images and teaching videos. This repository contains content and maintenance scripts; the learning application lives elsewhere.
 
 Read [RULES.md](RULES.md) before adding or changing questions, filenames, folders, or media references.
 
@@ -16,21 +16,14 @@ unit-tests/
   Grade 7/G7Unit6.csv
   enrichment/number-theory 1/U1modular-arithmetic/E-NT1U1T1.csv
   catalog/catalog.json
-images/
-  worksheet-images/<CSV parent folders>/<CSV stem>/WS-<code>Q<id>I<index>.<ext>
-  unit-test-images/<CSV parent folders>/<CSV stem>/UT-<code>Q<id>I<index>.<ext>
-  image-question-correspondence.json
-  grade-units.json
-videos/
-  Grade 7/Unit 6/<lesson-slug>.mp4
-  enrichment/number-theory 1/U3Euclidean-division/<lesson-slug>.mp4
-  worksheet-video-correspondence.json
+image-question-correspondence.json
+worksheet-video-correspondence.json
 data/curriculum.json
 scripts/
 reports/
 ```
 
-The layout illustrates naming; media and tests exist only where content has been created. Image parent folders mirror the path below `worksheets/` or `unit-tests/`. There are no separate half-year folders in the current collection.
+Media binaries are stored outside this repository; local `images/` and `videos/` folders are not required for validation. Image parent folders mirror the path below `worksheets/` or `unit-tests/`. There are no separate half-year folders in the current collection.
 
 ### Current inventory
 
@@ -74,7 +67,7 @@ Enrichment folders use `U<number><topic>`, with no separator between the number 
 | `counting-and-probability 1` | `CP1` | `U1counting-and-classification`, `U2PCF`, `U3PeCo`, `U4conditional-probability`, `U5PMF` |
 | `number-theory 1` | `NT1` | `U1modular-arithmetic`, `U2prime-factorization`, `U3Euclidean-division`, `U4number-theory1_review`, `U5CRT`, `U6RSA` |
 
-Preserve capitalization and spaces exactly. School-grade unit names and numbers are recorded in `images/grade-units.json`.
+Preserve capitalization and spaces exactly. School-grade unit names and numbers are recorded in `data/grade-units.json`.
 
 ## CSV schema
 
@@ -89,8 +82,8 @@ Use these seven core columns for new files, followed by media columns as needed:
 | `Hints Allowed` | `Y` or `N` |
 | `Hints` | Hint steps; blank when disabled |
 | `Solution` | Correct explanation consistent with the prompt and answer |
-| `image` | Optional local image path, JSON array of paths, or blank |
-| `video` | Local video path, JSON array of paths, or blank; present in every worksheet CSV |
+| `image` | Optional relative image path, JSON array of paths, or blank |
+| `video` | Relative video path, ` | `-separated paths, JSON array of paths, or blank; present in every worksheet CSV |
 
 Existing unit tests may use `Question Answer`, `Question Time (seconds)`, and `Yes`/`No`. Some legacy worksheets retain unnamed empty columns. Preserve existing headers during unrelated edits and read columns by name; `image` and `video` do not have a fixed position. Do not reintroduce `imageURL` or `imagesURL` as the canonical media column.
 
@@ -98,7 +91,7 @@ Use a proper CSV reader/writer. Quote fields containing commas, quotes, or line 
 
 ## Images and videos
 
-CSV `image` paths resolve under **`images/`**, with no leading `images/` in the cell. CSV `video` paths resolve under **`videos/`**, with no leading `videos/` in the cell. Correspondence JSON media paths are repository-relative and retain those prefixes. Blank cells mean no linked asset. Multiple assets use a JSON array of strings inside one properly quoted CSV cell.
+CSV `image` paths are relative to the external image root, without a leading `images/`. CSV `video` paths are relative to **`https://media.ktoinfinity.com/videos/sample-solution-videos/`**, without a leading `videos/` or `sample-solution-videos/`. Preserve spaces in stored paths and URL-encode each path segment when building a playback URL. Correspondence JSON media paths retain their historical `images/` and `videos/` prefixes; they do not require files in this checkout. Blank cells mean no linked asset. Multiple videos may use ` | `; both media columns also support a JSON array of strings inside one properly quoted CSV cell.
 
 For example, a decoded `image` cell may contain:
 
@@ -117,24 +110,24 @@ worksheet-images/Grade 7/G7Unit 6/G7U6W1/WS-G7U6W1Q1I2.png
 
 Every worksheet with images gets a subfolder named exactly after its CSV stem. Regular, homework, and revision worksheets therefore have separate folders. For legacy suffixes, the folder keeps the exact CSV stem while the image code normalizes `_HW` to `HW` and `_Revision` to `Rev`. Unit-test image folders also use their CSV stem. Keep the actual image extension.
 
-Find images by `(source_csv, question_id)` in `images/image-question-correspondence.json`. Only entries with `use_for_question: true` populate image cells; superseded assets remain documented. Image indexes start at 1.
+Find images by `(source_csv, question_id)` in `image-question-correspondence.json`. Only entries with `use_for_question: true` populate image cells; superseded assets remain documented. Image indexes start at 1.
 
-Find worksheet video links in `videos/worksheet-video-correspondence.json`, then resolve each `video_id` through `videos[video_id].assets.mp4`. Video filenames are lesson slugs. A video may be shared across worksheets, grades, and courses. Preserve stable video IDs and reviewed mappings when paths change. Do not invent a path for a missing asset or a `not_needed` mapping.
+Find worksheet video links in `worksheet-video-correspondence.json`, then resolve each `video_id` through `videos[video_id].assets.mp4`. Video filenames are lesson slugs. A video may be shared across worksheets, grades, and courses. Preserve stable video IDs and reviewed mappings when paths change. Do not invent a path for a missing asset or a `not_needed` mapping.
 
 ## Catalogs, generators, and validation
 
 `data/curriculum.json` contains worksheet links. The test catalog records each test's repository-relative `file`, question count, and total timer derived from the CSV.
 
 ```sh
+node --test scripts/validate.test.mjs
 node scripts/validate.mjs
 python3 scripts/generate_unit_test_catalog.py --check
-python3 scripts/build_video_correspondence.py --check
 ```
 
-The first command checks question syntax, naming, row widths, media paths, and correspondence source paths. It does not prove mathematical correctness. The other commands check the generated test catalog and worksheet/video mappings without generating videos.
+These commands run validator regression tests, validate the content, and check the generated test catalog. Content validation checks question syntax, naming, row widths, media path formatting, and correspondence source CSVs. It reads correspondence JSON files from the repository root. It does not require local media copies, contact the media host, verify remote asset availability, or prove mathematical correctness. The legacy media generators require their local production assets and manifests; they are not part of this hosted-media CI check.
 
 After adding or changing tests, run `python3 scripts/generate_unit_test_catalog.py`. After changing image assets or source paths, update their source manifests and run `python3 scripts/build_image_question_correspondence.py`. Synchronize affected CSV media cells separately, removing the media-root prefix. Rebuilding a correspondence JSON does not update CSV cells.
 
-Image download scripts ingest legacy URL columns; current `image` cells hold local paths. Their download manifests retain original URLs. Empty URL scans must preserve existing manifests. Video generators must use numbered enrichment folders.
+Image download scripts ingest legacy URL columns; current `image` cells hold relative paths. Their download manifests retain original URLs. Empty URL scans must preserve existing manifests. Video generators must use numbered enrichment folders.
 
 When renaming content, update active curriculum links, catalogs, media mappings, source manifests, CSV media cells, and generator paths together. Historical audit and migration reports may contain old paths as evidence. See the [rename checklist](RULES.md#rename-and-validation-checklist).
