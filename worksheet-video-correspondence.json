@@ -360403,8 +360403,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "In a dot plot, what does one dot usually represent?",
-          "question_sha256": "73c8567df61c09ec6b0f21fe10e60cdaa0e2de6968bef204e7158119c0f2a995",
+          "question_text": "Select. In a dot plot, what does one dot usually represent? ~~One observation | The mean of the data | One interval of values~~",
+          "question_sha256": "7f2998ab84b0771614eee9a2f2d5894ebfcd7c739ffcc9aaad78c5749fd4b952",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -360441,8 +360441,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "A frequency histogram has frequency 3 for 0–5 and frequency 7 for 5–10. Which interval contains more data?",
-          "question_sha256": "fc8a1f8d128180dcea6c9cc989e0a032ef3454ed99a09bf39d62031f351f3813",
+          "question_text": "Select. A frequency histogram has frequency 3 for 0–5 and frequency 7 for 5–10. Which interval contains more data? ~~0–5 | 5–10 | Both intervals contain the same number~~",
+          "question_sha256": "43a1443674089e9559a4111a0869f1c09d145198f504573b7c007d45fcf9ef13",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -360460,8 +360460,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "What does the height of a bar in a frequency histogram show?",
-          "question_sha256": "7a95da9069cb81fe1ad443be671a28cb1bb0ca1075fa5ed2dcb1f26361711e57",
+          "question_text": "Select. What does the height of a bar in a frequency histogram show? ~~The width of the interval | The frequency in the interval | The mean of the observations~~",
+          "question_sha256": "9ee1dd265bd637cd221d0f2a091e067b253739f7b50e0805c5269859f85e97b3",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -360479,8 +360479,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "A distribution has about the same shape on both sides of its center. What shape is it?",
-          "question_sha256": "2fc98de7bb212637ee8567dcc6a3db7999a3179a7219f7c338d1d80ed1b5a374",
+          "question_text": "Select. A distribution has about the same shape on both sides of its center. What shape is it? ~~Symmetric | Skewed left | Skewed right~~",
+          "question_sha256": "36aba87b03de0321a7b1a4cc4368ee8b3e4f8cb93f169c01e7190481e2b0cc4a",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -360498,8 +360498,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "A distribution has most values on the left and a long tail extending right. Is it skewed left or skewed right?",
-          "question_sha256": "75c5b57ee44d19eb4d7a19907aa988cab449dbb84d089fb69d79f86d1879aad3",
+          "question_text": "Select. A distribution has most values on the left and a long tail extending right. Is it skewed left or skewed right? ~~Skewed left | Skewed right~~",
+          "question_sha256": "45cd41a24d46c2a53263db9295b5a1ee886d6ffdf4fe374de85d96e623b5e5ec",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -360517,8 +360517,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "A histogram with equal-width bins has bars of roughly equal height across its range. What shape best describes it?",
-          "question_sha256": "b60aa4aa8aa618ecf4b09946e7a90a1aed50e86be1bbb48cafbec9c4a596e3ff",
+          "question_text": "Select. A histogram with equal-width bins has bars of roughly equal height across its range. What shape best describes it? ~~Approximately uniform | Skewed left | Skewed right~~",
+          "question_sha256": "b75600da1140a3c58333e4d86a4091d6e6da595bede551b872aa1142ceeaee2f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -360536,8 +360536,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "What does a gap in a histogram usually indicate?",
-          "question_sha256": "858e12ae367566b51eab2615b1a037c5a4983ec1d76f2946824878b4e21b2b68",
+          "question_text": "Select. What does a gap in a histogram usually indicate? ~~No observations in that interval | Every observation is in that interval | The observations in that interval all equal zero~~",
+          "question_sha256": "9c3f77ab955d26ee24daa668cdef80159f00af046452f5c3d7d1451e3b26eb72",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -360555,8 +360555,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "Data set A is 4, 4, 5, 5, 6, 6. Data set B is 1, 3, 5, 7, 9. Which set has the greater spread by range?",
-          "question_sha256": "ba2b129177788f955774c30aece4b8664a1b13533b973c58e2f8bc83bfc42955",
+          "question_text": "Select. Data set A is 4, 4, 5, 5, 6, 6. Data set B is 1, 3, 5, 7, 9. Which set has the greater spread by range? ~~A | B~~",
+          "question_sha256": "e7deb9132950e820436d8a8ce93d3d32a754e8218aa799c756747aa315e398d3",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -360605,8 +360605,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "In a dot plot, what does one dot usually represent?",
-          "question_sha256": "73c8567df61c09ec6b0f21fe10e60cdaa0e2de6968bef204e7158119c0f2a995",
+          "question_text": "Select. In a dot plot, what does one dot usually represent? ~~One observation | The mean of the data | One interval of values~~",
+          "question_sha256": "7f2998ab84b0771614eee9a2f2d5894ebfcd7c739ffcc9aaad78c5749fd4b952",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -360643,8 +360643,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "A frequency histogram has frequency 6 for 0-10 and frequency 9 for 10-20. Which interval contains more data?",
-          "question_sha256": "e81809920fabbf99a3ef8f9f961631467f49c7e8cf2612dba79d07fd4eade7f1",
+          "question_text": "Select. A frequency histogram has frequency 6 for 0-10 and frequency 9 for 10-20. Which interval contains more data? ~~0–10 | 10–20 | Both intervals contain the same number~~",
+          "question_sha256": "927bb05a3a504bfdab6beefb1e271dd37712169f6a51211a85f92274ebea86f9",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -360662,8 +360662,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "What does the height of a bar in a frequency histogram show?",
-          "question_sha256": "7a95da9069cb81fe1ad443be671a28cb1bb0ca1075fa5ed2dcb1f26361711e57",
+          "question_text": "Select. What does the height of a bar in a frequency histogram show? ~~The width of the interval | The frequency in the interval | The mean of the observations~~",
+          "question_sha256": "9ee1dd265bd637cd221d0f2a091e067b253739f7b50e0805c5269859f85e97b3",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -360876,8 +360876,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "A data set has at least two distinct values. Remove one occurrence of its lowest value and keep all other observations. What happens to the mean?",
-          "question_sha256": "a4fd0d1f26f813711a0bfe20635afdb531a4b07c4861564221c4d6b6e6836853",
+          "question_text": "Select. A data set has at least two distinct values. Remove one occurrence of its lowest value and keep all other observations. What happens to the mean? ~~It decreases | It stays the same | It increases~~",
+          "question_sha256": "95852131bc7733cd4b7f5144cf9a0735f342325a3791f6432981f52dada280f6",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -360895,8 +360895,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "If only the highest value in a data set is increased, what happens to the mean?",
-          "question_sha256": "4f9b7271435db64e6dca3cb44555ec3d9e28067432010b9b5ff66e96db5b9f2b",
+          "question_text": "Select. If only the highest value in a data set is increased, what happens to the mean? ~~It decreases | It stays the same | It increases~~",
+          "question_sha256": "3dabe15b51484cb8a788096b1dbf50cc982634f3ee40290eee7bf4424fb75679",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -360952,8 +360952,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "Which measure of center is usually affected more by an extreme outlier: mean or median?",
-          "question_sha256": "e38528a05df6c630e3400a55e4baa5c726aab534b6feabb6b91206077385adbb",
+          "question_text": "Select. Which measure of center is usually affected more by an extreme outlier: mean or median? ~~Mean | Median~~",
+          "question_sha256": "5c9cd2ba83dfe852eac5a40b63ebe7ad1d9649ce96268a8842aee5e40d0ed292",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -360971,8 +360971,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "How many modes does the data set 1, 2, 3, 4 have? Use the convention that a data set with all values equally frequent has no mode.",
-          "question_sha256": "8d7fad18040ddf8388fadc4aa5ddb126bbe7fafd9f67bd23cd4085acd4e2983b",
+          "question_text": "How many modes does the data set 1, 2, 3, 4 have? Use the convention that a data set with all values equally frequent has no mode. Enter only the number of modes.",
+          "question_sha256": "202013f46891eeca991c6cba6689f63b3be73402c06edc2801ad2178c1b3fa41",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361185,8 +361185,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "A data set has at least two distinct values. Remove one occurrence of its lowest value and keep all other observations. What happens to the mean?",
-          "question_sha256": "a4fd0d1f26f813711a0bfe20635afdb531a4b07c4861564221c4d6b6e6836853",
+          "question_text": "Select. A data set has at least two distinct values. Remove one occurrence of its lowest value and keep all other observations. What happens to the mean? ~~It decreases | It stays the same | It increases~~",
+          "question_sha256": "95852131bc7733cd4b7f5144cf9a0735f342325a3791f6432981f52dada280f6",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361273,8 +361273,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Q1 marks the 25th percentile and Q3 the 75th. What percentage of the percentile scale does the box from Q1 to Q3 span?",
-          "question_sha256": "753714e15a9aae5c20eeeade4a6d57d0af2bc0901aeb9917c8361301579822ff",
+          "question_text": "Q1 marks the 25th percentile and Q3 the 75th. What percentage of the percentile scale does the box from Q1 to Q3 span? Enter only the number, without the percent sign.",
+          "question_sha256": "4d1b6af08b5f265100fef78327bad4a3b62445aa30b4a81d6edd24edb8c01926",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361292,8 +361292,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Box plot A has median 12 and box plot B has median 15. Which distribution has the greater median?",
-          "question_sha256": "5aa603e3d36c61f70f7824dd89642aa0bd3728e42eb4695c1ced74aa640992cd",
+          "question_text": "Select. Box plot A has median 12 and box plot B has median 15. Which distribution has the greater median? ~~A | B~~",
+          "question_sha256": "0145a41ee9692cbeb9eaea55e042fec215bc2cd854db90d3e3316ec051c8258f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361311,8 +361311,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "Box plot A has IQR 4 and box plot B has IQR 9. Which distribution has greater middle spread?",
-          "question_sha256": "33396a7f31d88d9554cdf1ca325b7fd806a6885c7220bc0b62668b1f6126fd2d",
+          "question_text": "Select. Box plot A has IQR 4 and box plot B has IQR 9. Which distribution has greater middle spread? ~~A | B~~",
+          "question_sha256": "dfec5f7f669b9f2b8951510eb528a28574e17c2ff2986f954fae1ca178512361",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361330,8 +361330,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "In a minimum-to-maximum box plot, what values do the ends of the whiskers represent?",
-          "question_sha256": "f5108d4c34a929508baba4a9473e4908bb6722258548a85dec04a2c1fe6a2b14",
+          "question_text": "Select. In a minimum-to-maximum box plot, what values do the ends of the whiskers represent? ~~First and third quartiles | Minimum and maximum | Mean and median~~",
+          "question_sha256": "1e232fd77fde88bb661a922af9cfef2e54fff56976be6167de0ed5634917bbff",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361368,8 +361368,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "A box plot has a much longer right whisker than left whisker. Which direction does the distribution likely skew?",
-          "question_sha256": "b8211cf395a7f6afa5e560b147b23c167c50d75e3a079aef01972d21962da9ab",
+          "question_text": "Select. A box plot has a much longer right whisker than left whisker. Which direction does the distribution likely skew? ~~Left | Right~~",
+          "question_sha256": "24bd5785c4a28bcb047ff3dae6f5e1d2144c64bb628c40cacbc083b0973fbef8",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361387,8 +361387,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "Two dot plots have the same median, but plot A has range 6 and plot B has range 14. Which plot is more variable by range?",
-          "question_sha256": "27112f4ed3f5f4379ef97bdf6b81f6c54fb6c3f73325e55eed9ab7f514e86214",
+          "question_text": "Select. Two dot plots have the same median, but plot A has range 6 and plot B has range 14. Which plot is more variable by range? ~~A | B~~",
+          "question_sha256": "070826774f674f4656b5e72162ff48c3993a2bb4f9feb7f08d9ac25983f1da07",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361456,8 +361456,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "Q1 marks the 25th percentile and Q3 the 75th. What percentage of the percentile scale does the box from Q1 to Q3 span?",
-          "question_sha256": "753714e15a9aae5c20eeeade4a6d57d0af2bc0901aeb9917c8361301579822ff",
+          "question_text": "Q1 marks the 25th percentile and Q3 the 75th. What percentage of the percentile scale does the box from Q1 to Q3 span? Enter only the number, without the percent sign.",
+          "question_sha256": "4d1b6af08b5f265100fef78327bad4a3b62445aa30b4a81d6edd24edb8c01926",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361494,8 +361494,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Box plot A has median 20 and box plot B has median 14. Which distribution has the greater median?",
-          "question_sha256": "5e48ac1e8efaaccdb84b52e8897473e67749312d1c6da73d110bfed304ba1484",
+          "question_text": "Select. Box plot A has median 20 and box plot B has median 14. Which distribution has the greater median? ~~A | B~~",
+          "question_sha256": "7fd6fc4152b06fe8b88a0d61fb0ecf9c7772098f583a4c4b78ed1c3edb19892f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361582,8 +361582,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "In a box plot, what value does the line inside the box mark?",
-          "question_sha256": "a6f3d200aab810f638b75ef02e31e5879b0e934c4a44f5b9d505398b9cc07b11",
+          "question_text": "Select. In a box plot, what value does the line inside the box mark? ~~Mean | Mode | Median~~",
+          "question_sha256": "65254783a4977eb1bc052f3487d412bf95036e1d2080d6d133582d384f96e261",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361601,8 +361601,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Q1 marks the 25th percentile. What percentage of the percentile scale runs from the bottom up to Q1?",
-          "question_sha256": "efc00d2a78fb2c1a2059b6c006627814630c26d84d528c0fb76e560f96f6714b",
+          "question_text": "Q1 marks the 25th percentile. What percentage of the percentile scale runs from the bottom up to Q1? Enter only the number, without the percent sign.",
+          "question_sha256": "a07baea25498bdcaaf30be58d77c5582abcb398bea739a9e0c59cee610461746",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387008,8 +387008,8 @@
       "unit_topic": "Scatterplots",
       "problems": {
         "1": {
-          "question_text": "In a scatter plot, which variable is usually placed on the horizontal axis?",
-          "question_sha256": "f070561213117b2603e1637cc370bcaf8efb55689e635822c180ecd7adb6d6b8",
+          "question_text": "Select. In a scatter plot, which variable is usually placed on the horizontal axis? ~~Response variable | Explanatory variable | Correlation coefficient~~",
+          "question_sha256": "d332d7c660c145e7499062f296c81b28db580c3ffe6331ea13964068d4090283",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387027,8 +387027,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "A scatter plot rises from left to right. Is the association positive or negative?",
-          "question_sha256": "3e154d71ed65661aaa6db42e2d77ca08eb72029de47705fcfa1a5327f78f3cde",
+          "question_text": "Select. A scatter plot rises from left to right. Is the association positive or negative? ~~Positive | Negative~~",
+          "question_sha256": "2d77b818a7b227c902cf4945cdbb5ea22907bb67cd53225b4c331b274f7edfaf",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387046,8 +387046,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "A scatter plot falls from left to right. Is the association positive or negative?",
-          "question_sha256": "55605193364baa92ea6b65821298e7e1d256a2dab22a82391acdec3efc9fdc80",
+          "question_text": "Select. A scatter plot falls from left to right. Is the association positive or negative? ~~Positive | Negative~~",
+          "question_sha256": "398cb7950f15a70a4ce8c7c61215d581346fbc0c1a045a600e1de76db6864ea4",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387065,8 +387065,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "A scatter plot is a random-looking cloud with no clear straight or curved pattern. What type of visible association is present?",
-          "question_sha256": "ace4bd2a871dce0f59148d3aa1f7384cff23e695388b2c1c71683cee89c9a584",
+          "question_text": "Select. A scatter plot is a random-looking cloud with no clear straight or curved pattern. What type of visible association is present? ~~Positive association | Negative association | No clear association~~",
+          "question_sha256": "9d44e6cd71e6e82d91ced64ff999a43f72a4913b7d08db1bbb15068057ba9ebc",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387084,8 +387084,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "A correlation coefficient close to 1 indicates a strong positive or strong negative linear association?",
-          "question_sha256": "1cf1fbbb2f50f632ef1fcafb86a03108551c2099dad2767dc9179d810f369d2b",
+          "question_text": "Select. A correlation coefficient close to 1 indicates a strong positive or strong negative linear association? ~~Strong positive | Strong negative | Weak positive~~",
+          "question_sha256": "2cfe1cf45438c141806ab84391075ab0dc790f0c61ecff596496ca25b24c1dbe",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387103,8 +387103,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "A correlation coefficient close to -1 indicates a strong positive or strong negative linear association?",
-          "question_sha256": "a878cde5bdb55e349efe5b02107b2b5461edbe85b3b9430c54445dbc5337ae68",
+          "question_text": "Select. A correlation coefficient close to -1 indicates a strong positive or strong negative linear association? ~~Strong positive | Strong negative | Weak negative~~",
+          "question_sha256": "6fc67d96d6ebed00d359136ce68cea1f5cba4587bf7da3203f4ac28460821b85",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387122,8 +387122,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "Which shows the stronger linear association: r = 0.82 or r = -0.95?",
-          "question_sha256": "4e4eb07470c3dc5b8b04d5758e5623d183b271f21e2cb2fe3789b91745d1cc11",
+          "question_text": "Which correlation coefficient shows the stronger linear association: 0.82 or -0.95? Enter only the coefficient.",
+          "question_sha256": "08f51448d082180cc60bfca1f2f65cc5c5d35fe3471c283cc6625962803ed131",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387160,8 +387160,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "Ice cream sales and sunburn cases both increase in summer. What likely lurking variable affects both?",
-          "question_sha256": "ee71c07eee4949fa35a3ebc2cf710547f3e35d59b05c3de3efb62973825db2f8",
+          "question_text": "Select. Ice cream sales and sunburn cases both increase in summer. What likely lurking variable affects both? ~~The flavor of ice cream | The price of ice cream | Hot weather~~",
+          "question_sha256": "3578518ba628c06a158ea152321f58e6601916ade27ea525e0b575c2c94da6f9",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387179,8 +387179,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "A point far from the main pattern of a scatter plot is called what?",
-          "question_sha256": "d1467282f2790168b82cef5800205ee13309bd1a8039014ac65d4c8f8ade3b46",
+          "question_text": "Select. A point far from the main pattern of a scatter plot is called what? ~~Outlier | Cluster | Trend line~~",
+          "question_sha256": "a35ef18340d3644d5ca3a41408f791c2d63d4dee47cf4211e92c1bf1555055ec",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387210,8 +387210,8 @@
       "unit_topic": "Scatterplots",
       "problems": {
         "1": {
-          "question_text": "A scatter plot rises from left to right. Is the association positive or negative?",
-          "question_sha256": "3e154d71ed65661aaa6db42e2d77ca08eb72029de47705fcfa1a5327f78f3cde",
+          "question_text": "Select. A scatter plot rises from left to right. Is the association positive or negative? ~~Positive | Negative~~",
+          "question_sha256": "2d77b818a7b227c902cf4945cdbb5ea22907bb67cd53225b4c331b274f7edfaf",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387229,8 +387229,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "A scatter plot falls from left to right. Is the association positive or negative?",
-          "question_sha256": "55605193364baa92ea6b65821298e7e1d256a2dab22a82391acdec3efc9fdc80",
+          "question_text": "Select. A scatter plot falls from left to right. Is the association positive or negative? ~~Positive | Negative~~",
+          "question_sha256": "398cb7950f15a70a4ce8c7c61215d581346fbc0c1a045a600e1de76db6864ea4",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387248,8 +387248,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "A scatter plot is a random-looking cloud with no clear straight or curved pattern. What type of visible association is present?",
-          "question_sha256": "ace4bd2a871dce0f59148d3aa1f7384cff23e695388b2c1c71683cee89c9a584",
+          "question_text": "Select. A scatter plot is a random-looking cloud with no clear straight or curved pattern. What type of visible association is present? ~~Positive association | Negative association | No clear association~~",
+          "question_sha256": "9d44e6cd71e6e82d91ced64ff999a43f72a4913b7d08db1bbb15068057ba9ebc",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387267,8 +387267,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "To use study hours to predict test scores in a scatter plot, which variable goes on the horizontal axis?",
-          "question_sha256": "1ea2abad75933144aab8164a132d7c176659d189b4f020e1a5d8ce73d1c67481",
+          "question_text": "Select. To use study hours to predict test scores in a scatter plot, which variable goes on the horizontal axis? ~~Test scores | Study hours | The number of students~~",
+          "question_sha256": "bfcc25e4be7625b31549c36306d25e25b2117464e72f6cb96233c68eff71f392",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387286,8 +387286,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "One point in a scatter plot lies far away from the overall pattern. What is this point called?",
-          "question_sha256": "4dbe67a1a16b87dce104087da22a01f03a3c6ef33036eb7bcba624d5e479a368",
+          "question_text": "Select. One point in a scatter plot lies far away from the overall pattern. What is this point called? ~~Outlier | Cluster | Trend line~~",
+          "question_sha256": "7ed96d697164c5e3f75eb895e635dbc7b4fd5c757c6c4d8432a78bbc4fbd6397",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387317,8 +387317,8 @@
       "unit_topic": "Scatterplots",
       "problems": {
         "1": {
-          "question_text": "As temperature rises, ice cream sales rise. Is this association positive or negative?",
-          "question_sha256": "68946ed5a3889352443e5278c2e46aae19169bede37684bf4a28c1bc81919902",
+          "question_text": "Select. As temperature rises, ice cream sales rise. Is this association positive or negative? ~~Positive | Negative~~",
+          "question_sha256": "e8139089f2a7d1ab57d5fca81fb66f05c449fe50d2a5980fe40d21d65efa2839",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387336,8 +387336,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "As a car's age increases, its resale value decreases. Is this association positive or negative?",
-          "question_sha256": "bf504eb5e071db42b24a7652cf12e03dbbd6e36902d7d669098abe5615a5f25f",
+          "question_text": "Select. As a car's age increases, its resale value decreases. Is this association positive or negative? ~~Positive | Negative~~",
+          "question_sha256": "2a2fe69b0bfb038b9932c6991d5b966a06b53ecbb482a1e2b4493fc012e7053c",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387355,8 +387355,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "In a scatter plot, which variable is placed on the vertical axis?",
-          "question_sha256": "bb55b5313c408c90a430565f5108d5bd7a05528c5ab1282a91e19c563736e644",
+          "question_text": "Select. In a scatter plot, which variable is placed on the vertical axis? ~~Explanatory variable | Correlation coefficient | Response variable~~",
+          "question_sha256": "db06c39e70ab148fec61e16a87bca2d4d3c408f879c8bbc796e2114404c3ae67",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387374,8 +387374,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Points in a scatter plot cluster tightly along a nonhorizontal straight path. Is the linear association strong or weak?",
-          "question_sha256": "115797bce6a1819a668fe8ee38ce13b1232191f2e839274ff107b9ba676938c8",
+          "question_text": "Select. Points in a scatter plot cluster tightly along a nonhorizontal straight path. Is the linear association strong or weak? ~~Strong | Weak~~",
+          "question_sha256": "bfc9fe2b125ac136c640485870583036533c08cb9362e7ec56bd607da0adddc0",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387393,8 +387393,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "A scatter plot is a random-looking cloud with no clear straight or curved pattern. What type of visible association is present?",
-          "question_sha256": "ace4bd2a871dce0f59148d3aa1f7384cff23e695388b2c1c71683cee89c9a584",
+          "question_text": "Select. A scatter plot is a random-looking cloud with no clear straight or curved pattern. What type of visible association is present? ~~Positive association | Negative association | No clear association~~",
+          "question_sha256": "9d44e6cd71e6e82d91ced64ff999a43f72a4913b7d08db1bbb15068057ba9ebc",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387424,8 +387424,8 @@
       "unit_topic": "Scatterplots",
       "problems": {
         "1": {
-          "question_text": "What is the purpose of a line of best fit?",
-          "question_sha256": "42bdfab7297879a0ed7254a0815ea7aba5d23aa163f510027b6d6ef80e14f836",
+          "question_text": "Select. What is the purpose of a line of best fit? ~~Pass through every data point | Model the overall linear trend and estimate values | Prove that one variable causes the other~~",
+          "question_sha256": "c79f5727eacb266e04d1d6883aa9f1c726e41b8a113b908a7572f6e673500e64",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387481,8 +387481,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "A trend line has slope 4. What does this say about predicted y when x increases by 1?",
-          "question_sha256": "29037a036adb3eaaea995bf6ddca47e19d4def0a4112ba1bce04499f7657eb99",
+          "question_text": "A trend line has slope 4. Find the change in predicted y when x increases by 1. Enter a signed number: positive for an increase and negative for a decrease.",
+          "question_sha256": "40636253c20db65b733ac3a856ea7a56eb6fc171bd6da53dc1f57d157a7808b0",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387519,8 +387519,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "Using a trend line to predict inside the observed x-range is called interpolation or extrapolation?",
-          "question_sha256": "171fe1da912e9f1c512476e0af8d36d765812aa3b8ccddbb9d464122e2635dd0",
+          "question_text": "Select. Using a trend line to predict inside the observed x-range is called interpolation or extrapolation? ~~Interpolation | Extrapolation~~",
+          "question_sha256": "d1666bc92ee94718a2f84c7c822d6641a0b08276f605e9a724ae394573e6d2ba",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387538,8 +387538,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "Using a trend line to predict far beyond the observed x-range is called interpolation or extrapolation?",
-          "question_sha256": "cec0a40ab4a38af4a25a5f367dc78afcd5e18e8da53adb7acc149d504c7aba4f",
+          "question_text": "Select. Using a trend line to predict far beyond the observed x-range is called interpolation or extrapolation? ~~Interpolation | Extrapolation~~",
+          "question_sha256": "97c28cea665609bf95050dd9d7a329fbb0daea65b5b9662d0e109a19834895e0",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387595,8 +387595,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "When drawing an informal trend line by eye, a common guideline aims for roughly how many points above and below it? This is not a requirement for a least-squares line.",
-          "question_sha256": "f07f433a48749ba57364a83f5f6b90fa53628c95f916fd160d221023dced3242",
+          "question_text": "Select. When drawing an informal trend line by eye, which guideline describes the number of points above and below it? This is not a requirement for a least-squares line. ~~All points above the line | Roughly equal numbers above and below | All points below the line~~",
+          "question_sha256": "5bb5d815146e61f50ec18dc437c218ce9e65cc1adb58092b7436e9d3643c6e23",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387664,8 +387664,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "A trend line has slope 5. By how much does predicted y change when x increases by 1?",
-          "question_sha256": "0785f15eef5f78a0edb42b61bd692bd2857400fb44886fc376c23e3d5b36a04e",
+          "question_text": "A trend line has slope 5. Find the change in predicted y when x increases by 1. Enter a signed number: positive for an increase and negative for a decrease.",
+          "question_sha256": "42a15fa6f77eead3b3b88fada77715a34a988470d1ac378f1e4efe806cded55d",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387733,8 +387733,8 @@
       "unit_topic": "Scatterplots",
       "problems": {
         "1": {
-          "question_text": "What is the purpose of a line of best fit?",
-          "question_sha256": "42bdfab7297879a0ed7254a0815ea7aba5d23aa163f510027b6d6ef80e14f836",
+          "question_text": "Select. What is the purpose of a line of best fit? ~~Pass through every data point | Model the overall linear trend and estimate values | Prove that one variable causes the other~~",
+          "question_sha256": "c79f5727eacb266e04d1d6883aa9f1c726e41b8a113b908a7572f6e673500e64",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -387790,8 +387790,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "A trend line has slope -3. By how much does predicted y change when x increases by 1?",
-          "question_sha256": "fb3aed8fbb1c9ab76f747b4e2f588b289c03bca4f691ebe2dee0e7522bfb4be6",
+          "question_text": "A trend line has slope -3. Find the change in predicted y when x increases by 1. Enter a signed number: positive for an increase and negative for a decrease.",
+          "question_sha256": "941bb51509429e8fbd662bcc80cbf6f53e0021c7e318d5426c5ecb6b5c63b1bb",
           "mapping_status": "reviewed",
           "video_links": [
             {

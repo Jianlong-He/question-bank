@@ -11788,7 +11788,7 @@
       "source_csv": "worksheets/Grade 9/G9Unit 10/G9U10W1.csv",
       "source_name": "G9U10W1",
       "question_id": "4",
-      "question_text": "A frequency histogram has frequency 3 for 0–5 and frequency 7 for 5–10. Which interval contains more data?",
+      "question_text": "Select. A frequency histogram has frequency 3 for 0–5 and frequency 7 for 5–10. Which interval contains more data? ~~0–5 | 5–10 | Both intervals contain the same number~~",
       "image_index": 1,
       "image_origin": "generated",
       "use_for_question": true
@@ -11799,7 +11799,7 @@
       "source_csv": "worksheets/Grade 9/G9Unit 10/G9U10W3.csv",
       "source_name": "G9U10W3",
       "question_id": "5",
-      "question_text": "Box plot A has median 12 and box plot B has median 15. Which distribution has the greater median?",
+      "question_text": "Select. Box plot A has median 12 and box plot B has median 15. Which distribution has the greater median? ~~A | B~~",
       "image_index": 1,
       "image_origin": "generated",
       "use_for_question": true
@@ -11810,7 +11810,7 @@
       "source_csv": "worksheets/Grade 9/G9Unit 10/G9U10W3.csv",
       "source_name": "G9U10W3",
       "question_id": "6",
-      "question_text": "Box plot A has IQR 4 and box plot B has IQR 9. Which distribution has greater middle spread?",
+      "question_text": "Select. Box plot A has IQR 4 and box plot B has IQR 9. Which distribution has greater middle spread? ~~A | B~~",
       "image_index": 1,
       "image_origin": "generated",
       "use_for_question": true
@@ -11821,7 +11821,7 @@
       "source_csv": "worksheets/Grade 9/G9Unit 10/G9U10W3.csv",
       "source_name": "G9U10W3",
       "question_id": "9",
-      "question_text": "A box plot has a much longer right whisker than left whisker. Which direction does the distribution likely skew?",
+      "question_text": "Select. A box plot has a much longer right whisker than left whisker. Which direction does the distribution likely skew? ~~Left | Right~~",
       "image_index": 1,
       "image_origin": "generated",
       "use_for_question": true
@@ -11832,7 +11832,7 @@
       "source_csv": "worksheets/Grade 9/G9Unit 10/G9U10W3.csv",
       "source_name": "G9U10W3",
       "question_id": "10",
-      "question_text": "Two dot plots have the same median, but plot A has range 6 and plot B has range 14. Which plot is more variable by range?",
+      "question_text": "Select. Two dot plots have the same median, but plot A has range 6 and plot B has range 14. Which plot is more variable by range? ~~A | B~~",
       "image_index": 1,
       "image_origin": "generated",
       "use_for_question": true
@@ -12129,7 +12129,7 @@
       "source_csv": "worksheets/Grade 9/G9Unit 9/G9U9W1.csv",
       "source_name": "G9U9W1",
       "question_id": "10",
-      "question_text": "A point far from the main pattern of a scatter plot is called what?",
+      "question_text": "Select. A point far from the main pattern of a scatter plot is called what? ~~Outlier | Cluster | Trend line~~",
       "image_index": 1,
       "image_origin": "generated",
       "use_for_question": true
