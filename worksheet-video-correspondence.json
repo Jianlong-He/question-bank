@@ -361689,8 +361689,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "In a survey of 100 students, 40 play a sport. What is the relative frequency of playing a sport?",
-          "question_sha256": "11dec2fb48616a2dbbd1b40801ea98e44fc3cfc169422fc0d3982d746647b3e5",
+          "question_text": "In a survey of 100 students, 40 play a sport. What is the relative frequency of playing a sport? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "dbd38c14a32b312a32198728870571c6538225eeaee3846f318d5cada24d9d4b",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361708,8 +361708,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Of 30 students who take music lessons, 18 play a sport. What percent of the music students play a sport?",
-          "question_sha256": "d76f4fa2c92363534c4c8327028b9bc788c1d8f451a50c862a26883d00abc255",
+          "question_text": "Of 30 students who take music lessons, 18 play a sport. What percent of the music students play a sport? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "773dae02c3d9f4ededb5103eabb31f2d54205f0cdf01bbf953f19dfae7ec65c4",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361746,8 +361746,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "In a nonempty row, divide every interior count by that row’s total. What do these conditional relative frequencies across the complete row sum to?",
-          "question_sha256": "79cf4e37fb84b8f71fe034cd7d7988d6d1de19f05d31b1ab3ba41ae12e8016bb",
+          "question_text": "In a nonempty row, divide every interior count by that row’s total. What do these conditional relative frequencies across the complete row sum to? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "20d2ee39931c5da44e1705e491a6caf8292c6058e363b0db974579d60dfc794d",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361784,8 +361784,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "In a survey of 100 students, 18 are in both the music and sport categories. What is their joint relative frequency?",
-          "question_sha256": "3e4789566ea3f1b16356c23360673c20e32d1bca49c979ecc24a1891c55308e3",
+          "question_text": "In a survey of 100 students, 18 are in both the music and sport categories. What is their joint relative frequency? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "ce44f1847ba2f4e1fe423762fad20e17056a84867e3a0270003a1808023fd0ad",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361803,8 +361803,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "To convert a count in a two-way frequency table to an overall relative frequency, what do you divide by?",
-          "question_sha256": "c4d07b50b4b7418e3897507dda325930d8f60ee15a1291f9d5275e2c18d7481c",
+          "question_text": "Select. To convert a count in a two-way frequency table to an overall relative frequency, what do you divide by? ~~Row total | Column total | Grand total~~",
+          "question_sha256": "b53f3eda004abf2286f87d2804cbc75a24042c1adc9504f2c507dbc3edd85806",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361891,8 +361891,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "In a survey of 100 students, 60 own a bike. What is the relative frequency of owning a bike?",
-          "question_sha256": "4261eb59d5c56cbf8f51d91d1f36be66af68c9f5ec96310c8c6573612be8a575",
+          "question_text": "In a survey of 100 students, 60 own a bike. What is the relative frequency of owning a bike? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "d2f214bff47445b99527a6e736a2c7dfec38668eb87217a59544bbdb3b14760b",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361910,8 +361910,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Of 40 students who own a bike, 22 own a skateboard. What percent of bike owners own a skateboard?",
-          "question_sha256": "32e28453673f6249d39f57e10d1b4e5adb08284407db478154a3582de674fcbf",
+          "question_text": "Of 40 students who own a bike, 22 own a skateboard. What percent of bike owners own a skateboard? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "19b44a36f2748322af0c6286592e9ec5e4fa8a283c1c3644360ae6f59f63767f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361960,8 +361960,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "In a survey of 50 people, 30 like tea. What is the relative frequency of liking tea?",
-          "question_sha256": "922b3165f8352aae39c23208917b5748dad1cb5cd01bbd5c1eb3a1a7370a26e0",
+          "question_text": "In a survey of 50 people, 30 like tea. What is the relative frequency of liking tea? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "57e22405fdd3302bda17fec1e6d5d06430e31f871612e3ee7f050f9e38477e91",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -361998,8 +361998,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Of 20 juniors, 14 chose pizza. What percent of juniors chose pizza?",
-          "question_sha256": "0fc945a81b33a711c3ae1f1b1c14e9d35c29f900266a9090410377262808c60b",
+          "question_text": "Of 20 juniors, 14 chose pizza. What percent of juniors chose pizza? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "9edcd6b957bbdf076b1d9ef9f0240dd5fd68ea96cc2d3ff59cb7d6c79f9d3be7",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -362048,8 +362048,8 @@
       "unit_topic": "Sequences",
       "problems": {
         "1": {
-          "question_text": "A sequence rule gives each term directly from its term number. Is the rule explicit or recursive?",
-          "question_sha256": "86e5f80f87f9507476b0408f19fafbfccbe97899fe60ba6e404900d74969e9c3",
+          "question_text": "Select. A sequence rule gives each term directly from its term number. Is the rule explicit or recursive? ~~Recursive | Explicit~~",
+          "question_sha256": "ee787846fb71fe3fe841f36d6a93a96937d2adcc72dfdb486ee7360035c465e9",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -362067,8 +362067,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "A sequence rule defines each term using the preceding term. Is the rule explicit or recursive?",
-          "question_sha256": "f30eedbbbef40c65e7889e15f4ae7ca14a5cc339617b90e1a5d7865160f80ab7",
+          "question_text": "Select. A sequence rule defines each term using the preceding term. Is the rule explicit or recursive? ~~Recursive | Explicit~~",
+          "question_sha256": "49ad84dd7353fecf018834363cddc88a3bdcab3ef4e468fb1a3a7f33df9f0b2e",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -362307,8 +362307,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "A sequence rule gives each term directly from its term number n. Is the rule explicit or recursive?",
-          "question_sha256": "65829d2c9345a557faa08e40ccc3766ce1e70a5704dfcf9f0149de941616eaad",
+          "question_text": "Select. A sequence rule gives each term directly from its term number n. Is the rule explicit or recursive? ~~Recursive | Explicit~~",
+          "question_sha256": "ee83607a19eb65ba32f356b29ad599956cf10ddd3100f994bd7dcf4b1f11cbf5",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -362414,8 +362414,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "A sequence rule defines each term using the preceding term. Is the rule explicit or recursive?",
-          "question_sha256": "f30eedbbbef40c65e7889e15f4ae7ca14a5cc339617b90e1a5d7865160f80ab7",
+          "question_text": "Select. A sequence rule defines each term using the preceding term. Is the rule explicit or recursive? ~~Explicit | Recursive~~",
+          "question_sha256": "21571184a23fabc8d604add3387f761e81c3815d07b6654045d17d85cbd700f6",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -362635,8 +362635,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "Which type of rule lets you find the 200th term directly without listing earlier terms: explicit or recursive?",
-          "question_sha256": "12922b3d86f455202ace9274632d435f244bf80d9d337daa299ad9f4a1169001",
+          "question_text": "Select. Which type of rule lets you find the 200th term directly without listing earlier terms: explicit or recursive? ~~Recursive | Explicit~~",
+          "question_sha256": "623161796de15acd38bcfae0a48c56ff4a59fa7b1306dadc8303861d80340469",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -362975,8 +362975,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "Is 5, 10, 20, 40 arithmetic or geometric?",
-          "question_sha256": "bb4981b17edee47ae35e2985b51c55cd6f11f29f38d2959650ea90ac051f7f3b",
+          "question_text": "Select. Is 5, 10, 20, 40 arithmetic or geometric? ~~Arithmetic | Geometric~~",
+          "question_sha256": "786a669953018e2e019c53aa8a1aae2708fc3e23c361972525d5eacf51298a2f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -363051,8 +363051,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "For a sequence of nonzero terms, what constant feature identifies a geometric sequence?",
-          "question_sha256": "98b2a6cd6dca21daf89ead51a70e4935b2a62e4e3530603067df3ad4615d4124",
+          "question_text": "Select. For a sequence of nonzero terms, what constant feature identifies a geometric sequence? ~~Common sum | Common ratio | Common difference~~",
+          "question_sha256": "071494a405c480cbfec36ee77993d268340671627f100d8002a2d375738f8e74",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -363158,8 +363158,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Is 4, 12, 36, 108 arithmetic or geometric?",
-          "question_sha256": "d6e664ed873b98360461a76a335f2dafe3669750621abdefddd81553d0c1d38d",
+          "question_text": "Select. Is 4, 12, 36, 108 arithmetic or geometric? ~~Arithmetic | Geometric~~",
+          "question_sha256": "e3064dfdf5d790495c8901c6aef6eed5e246e506a386acdee736136b785f9f29",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -363265,8 +363265,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Is 9, 6, 3, 0 arithmetic or geometric?",
-          "question_sha256": "cd55efde21893a1c8ac57d5f73cd5ac218113e5f11583cc2f00edd84755bc38f",
+          "question_text": "Select. Is 9, 6, 3, 0 arithmetic or geometric? ~~Arithmetic | Geometric~~",
+          "question_sha256": "97cab84348acc73ecd52cf45e30fd6f5310385883a116db77739206b2a5beef2",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -363296,8 +363296,8 @@
       "unit_topic": "Sequences",
       "problems": {
         "1": {
-          "question_text": "A savings plan has 50 dollars in week 1 and increases by 15 dollars each week. How much is in week 8?",
-          "question_sha256": "74de06f29ae19c4b8f83abfa3f7caaf2662677bdfc3519a14152eb06246655c3",
+          "question_text": "A savings plan has 50 dollars in week 1 and increases by 15 dollars each week. How much is in week 8? Enter only the number, without a currency symbol.",
+          "question_sha256": "980211488aa9e8cdc15d95a2740a949f3ab07e128dd43157895e38871322919b",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -363391,8 +363391,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "What is the usual domain of a sequence indexed by n = 1, 2, 3, ...?",
-          "question_sha256": "37f4114f299fe144653cb0f6c023c7025d6199a44686fa567ab7aea5948c2b23",
+          "question_text": "Select. What is the usual domain of a sequence indexed by n = 1, 2, 3, ...? ~~Positive integers | All real numbers | Negative integers~~",
+          "question_sha256": "315b1f5a6e6545372111baa47c9d3692028b0dd16ebcbc3685ad85e69b0ee71b",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -363410,8 +363410,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "A phone loses exactly $120 of value each year while the modeled value remains nonnegative. Is its value pattern arithmetic or geometric?",
-          "question_sha256": "adb11c24c9bd615f954b3a87223bcdf488eacbcfcba8379793528bf36a5b7dcf",
+          "question_text": "Select. A phone loses exactly $120 of value each year while the modeled value remains nonnegative. Is its value pattern arithmetic or geometric? ~~Arithmetic | Geometric~~",
+          "question_sha256": "c244b546f02e652e43cc6b2b47843bfb113b6962d16e4a52a2421b029485b5c9",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -363429,8 +363429,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "A phone loses 15% of its current value each year. Is its current value pattern arithmetic or geometric?",
-          "question_sha256": "892e1be612cd62ffd2b91ce479838e9a6bf0afb7704dc42ce4f9b552f4f1b71c",
+          "question_text": "Select. A phone loses 15% of its current value each year. Is its current value pattern arithmetic or geometric? ~~Arithmetic | Geometric~~",
+          "question_sha256": "a7df61f36b37e2cb15065aaa4c7958ce6d2266d73329243e2df6fa9967bf61ff",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -363467,8 +363467,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "Why is a sequence graphed as separate points rather than a continuous curve?",
-          "question_sha256": "ab7ace372881c44dccdd96adceadd2b1c194643b803f2369c095047b928a6ea4",
+          "question_text": "Select. Why is a sequence graphed as separate points rather than a continuous curve? ~~The values between terms are always zero | Only integer term numbers are allowed | Every real number is a term number~~",
+          "question_sha256": "987f0362f05984c8213ab8af63211f7f1b7da3abd92bd6bac97a4ee2a92d98cf",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -363498,8 +363498,8 @@
       "unit_topic": "Sequences",
       "problems": {
         "1": {
-          "question_text": "A savings plan has 40 dollars in week 1 and increases by 10 dollars each week. How much is in week 9?",
-          "question_sha256": "8eb939abb883dcb42d8e1d38a94e60ec8c96943652005822b0c09308757de98a",
+          "question_text": "A savings plan has 40 dollars in week 1 and increases by 10 dollars each week. How much is in week 9? Enter only the number, without a currency symbol.",
+          "question_sha256": "9bd4f1995c724b7e3ad18061f8a0f643a1d25f5babd9c505ba1e78ec5db8b0d5",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -363681,8 +363681,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "What is the usual domain of a sequence indexed by n = 1, 2, 3, ...?",
-          "question_sha256": "37f4114f299fe144653cb0f6c023c7025d6199a44686fa567ab7aea5948c2b23",
+          "question_text": "Select. What is the usual domain of a sequence indexed by n = 1, 2, 3, ...? ~~All real numbers | Negative integers | Positive integers~~",
+          "question_sha256": "23187143fe32f8819cb1aaa4c940e9771c60888f3af02c47e206f421ca3743a8",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -364299,8 +364299,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "Is the principal square root of 36 positive or negative?",
-          "question_sha256": "1357b478b2d6bd4f39c4b750ec10b6d02bfca621470d2018d64dc6850107f8df",
+          "question_text": "Select. Is the principal square root of 36 positive or negative? ~~Positive | Negative~~",
+          "question_sha256": "a950739fdeb8ca364ba575c8ad251f5a38caf957d3d9c20cc95e38041f71def7",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -364960,8 +364960,8 @@
       "unit_topic": "Exponential growth & decay",
       "problems": {
         "1": {
-          "question_text": "The y-values 3, 6, 12, 24 have a constant ratio. Is the relationship linear or exponential? Assume these are outputs at x = 0, 1, 2, 3.",
-          "question_sha256": "66fe43f4ad64b03058b0ad893083bb6a599c3542ed377b1ce340fc78dd7f7eb2",
+          "question_text": "Select. The y-values 3, 6, 12, 24 have a constant ratio. Is the relationship linear or exponential? Assume these are outputs at x = 0, 1, 2, 3. ~~Linear | Exponential~~",
+          "question_sha256": "59ba41306c6bf0970db7483698a0a38e3b9b63d9affc3f070f0e20bf923ad45b",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -364979,8 +364979,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "The y-values 5, 9, 13, 17 have a constant difference. Is the relationship linear or exponential? Assume these are outputs at x = 0, 1, 2, 3.",
-          "question_sha256": "17f9bae652fa15eddb895c44cb336f5cbd6e643edcda49f8d648b40fae4b1020",
+          "question_text": "Select. The y-values 5, 9, 13, 17 have a constant difference. Is the relationship linear or exponential? Assume these are outputs at x = 0, 1, 2, 3. ~~Linear | Exponential~~",
+          "question_sha256": "2583e59e67ade51b3f2e36adaeacc294b955f91a194f1d4ac7fd2be76465fb4a",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365036,8 +365036,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "An account starts at $2000 and grows by 5% in one year. What is its value after that year?",
-          "question_sha256": "79654f0df47bc19afd5e1c7b7e97c0c500f6cb81ba01404b07776582b76782de",
+          "question_text": "An account starts at $2000 and grows by 5% in one year. What is its value after that year? Enter only the number, without a currency symbol.",
+          "question_sha256": "25082097515273079c18d61c2df4e74da2b644c1842c2c693f641b4ba14435ab",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365074,8 +365074,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "In A(t) = 500(1.08)^t, what is the initial value?",
-          "question_sha256": "b8edbdbd9f4e9b9a33be7fe1ac6e86193eb91867fcdf67b8bc5aba640da2d2c4",
+          "question_text": "In A(t) = 500(1.08)^t, what is the initial value? Enter only the number, without a currency symbol.",
+          "question_sha256": "0f694e323baa00a6fd4519f32a048caa5b2cd0f6892e2e158b7e3c189fb1cf04",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365093,8 +365093,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "In A(t) = 500(1.08)^t, what is the percent growth rate?",
-          "question_sha256": "9032190a777ba9c4d461d81a44fb30a83cc5a09bf630e244e8e7ad55ed19cbeb",
+          "question_text": "In A(t) = 500(1.08)^t, what is the percent growth rate? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "13ee47240b54cfdaa85f0bd692db5c8f0a7109ae539ff1331bd9ddee2dbd3654",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365112,8 +365112,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "Is y = 3x + 2 linear or exponential?",
-          "question_sha256": "a12460e4a38df6b9ef566c596db13f5c12a2487b45e6892b2ce9b4a221bf46ff",
+          "question_text": "Select. Is y = 3x + 2 linear or exponential? ~~Linear | Exponential~~",
+          "question_sha256": "e27ae60942167a90af52b2968a540691bd944f0143f0e302963efb4536856b8c",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365162,8 +365162,8 @@
       "unit_topic": "Exponential growth & decay",
       "problems": {
         "1": {
-          "question_text": "The y-values 4, 8, 16, 32 have a constant ratio. Is the relationship linear or exponential? Assume these are outputs at x = 0, 1, 2, 3.",
-          "question_sha256": "9928073557850ecce33cdc451b32101ea83209e05e3cf0b94a6e3096c91215f7",
+          "question_text": "Select. The y-values 4, 8, 16, 32 have a constant ratio. Is the relationship linear or exponential? Assume these are outputs at x = 0, 1, 2, 3. ~~Linear | Exponential~~",
+          "question_sha256": "f69f945c0e52fb4767506fc8094a7fdacece2f839a46e07fd227a7d7e05bcd0f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365181,8 +365181,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "The y-values 6, 11, 16, 21 have a constant difference. Is the relationship linear or exponential? Assume these are outputs at x = 0, 1, 2, 3.",
-          "question_sha256": "c4ca163c0a1e2f2e77a38edfa5aca1b68bb011b357b54e3d66983bc2cfda6808",
+          "question_text": "Select. The y-values 6, 11, 16, 21 have a constant difference. Is the relationship linear or exponential? Assume these are outputs at x = 0, 1, 2, 3. ~~Linear | Exponential~~",
+          "question_sha256": "aca1d89cd233cbe8e4650131808d6a4608918a4e0ef5e02d8b55c49ed408ed92",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365238,8 +365238,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Does y = 5 × 2^x grow by adding or by multiplying each time x increases by 1?",
-          "question_sha256": "1461013ae1ec64fe4b0120a7855446f91b329104a8b2f0618f2c27eeca5b4001",
+          "question_text": "Select. Does y = 5 × 2^x grow by adding or by multiplying each time x increases by 1? ~~Multiplying | Adding~~",
+          "question_sha256": "bd317d936a4844489f9f23197377569cb88e7f49975ada98d01ab326ab61e66e",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365269,8 +365269,8 @@
       "unit_topic": "Exponential growth & decay",
       "problems": {
         "1": {
-          "question_text": "The y-values 3, 9, 27, 81 have a constant ratio. Is the relationship linear or exponential? Assume these are outputs at x = 0, 1, 2, 3.",
-          "question_sha256": "ab79ca8972e02ad00bb41d06d92f68b24ccf4545267eb2ab8f260f5a25cae53a",
+          "question_text": "Select. The y-values 3, 9, 27, 81 have a constant ratio. Is the relationship linear or exponential? Assume these are outputs at x = 0, 1, 2, 3. ~~Linear | Exponential~~",
+          "question_sha256": "7126c84b37df57e9e47bfa8fad65229e665e56e68d1376f74ff25da330d69fd5",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365288,8 +365288,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "The y-values 20, 17, 14, 11 have a constant difference. Is the relationship linear or exponential? Assume these are outputs at x = 0, 1, 2, 3.",
-          "question_sha256": "52727511be929e0a465886adb272077142cede3ef0710fb5945063c02ca6a688",
+          "question_text": "Select. The y-values 20, 17, 14, 11 have a constant difference. Is the relationship linear or exponential? Assume these are outputs at x = 0, 1, 2, 3. ~~Exponential | Linear~~",
+          "question_sha256": "6d9757438206da64050b52cded0bf8ee5006af512710fa2015891c060320d205",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365345,8 +365345,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Does y = 200 - 8x change by adding or by multiplying each time x increases by 1?",
-          "question_sha256": "11af0085681b21bd765a1345d963c1b2a33f3a8cc3840fc3c685c0a891f19258",
+          "question_text": "Select. Does y = 200 - 8x change by adding or by multiplying each time x increases by 1? ~~Adding | Multiplying~~",
+          "question_sha256": "ad9aded3b92b00c73ef18135b0089e7949dcd7d9f0d54f95d77772393fcf01b3",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365414,8 +365414,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "In P = 1200(1.05)^t, what percent increase occurs each period?",
-          "question_sha256": "5a6ae7f67065647baf27fef4bd59a4eb51a056371cf927afe96e596aedef500e",
+          "question_text": "In P = 1200(1.05)^t, what percent increase occurs each period? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "f1374b2775b43537b44cfb0fd19709ac7690c413a765b2e40d941e99bc896189",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365433,8 +365433,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "A factor of 0.80 represents what percent decrease per period?",
-          "question_sha256": "334b56442632aa236b235a6fe3affa66412fac96bfbf64444b6a81409a53d3b6",
+          "question_text": "A factor of 0.80 represents what percent decrease per period? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "e56789f6913d5db0d46a57cc431b66195087c5c51c037c67838d92d7a6f67a04",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365490,8 +365490,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "For y = 200(1.03)^t, find y when t = 2.",
-          "question_sha256": "3de607d9f2d2dd5c6148287f74f2fe8f6656e05c746dfa9b3497d5920a0f38dc",
+          "question_text": "For y = 200(1.03)^t, find y when t = 2. Enter only the number, without a currency symbol.",
+          "question_sha256": "99650d7158e955768f9380c906f98c76a6422de066c5e5657313b147a4e9734b",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365509,8 +365509,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "In a repeated-factor model a(b)^t, where t is the number of completed periods since the initial value, what does exponent t count?",
-          "question_sha256": "15b1f6682543ec634db9b282bea73b04eaf19329ab992415b6c21598a19a6de1",
+          "question_text": "Select. In a repeated-factor model a(b)^t, where t is the number of completed periods since the initial value, what does exponent t count? ~~Growth or decay factor | Number of completed periods | Initial value~~",
+          "question_sha256": "0d4ee284eff397c1ec63cdd245e92ccfd4ac0a5052932fa3c8a6e3420fee871b",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365616,8 +365616,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "In P = 800(1.07)^t, what percent increase occurs each period?",
-          "question_sha256": "a1e8f6a1fa64a946a33bfa20235b12c74a2034937691270c259090ed52830f5c",
+          "question_text": "In P = 800(1.07)^t, what percent increase occurs each period? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "71643cfe97b58a66184e501dad6bcc6908bedcdf5af518e2ac3acd8a49236289",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365635,8 +365635,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "A factor of 0.75 represents what percent decrease per period?",
-          "question_sha256": "51b641fde09d7e5c8909e0acae9c15ffe35f85a3a49ccae741139d5e9a4aea6f",
+          "question_text": "A factor of 0.75 represents what percent decrease per period? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "f9180119d902779a343e06267aa6939a56567bd9761d713c669470bc18f6d974",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365723,8 +365723,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "In P = 1500(1.03)^t, what percent increase occurs each period?",
-          "question_sha256": "397307d356d98f432163cdb16e6a9ed269e16d17550c9d788a2ea743f12a76e1",
+          "question_text": "In P = 1500(1.03)^t, what percent increase occurs each period? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "0ad81e84720c9896df21c2dc694a096b0f99e722180fcef6ddf0fd1a2e136b8b",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365742,8 +365742,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "A factor of 0.90 represents what percent decrease per period?",
-          "question_sha256": "1708905cf1e7931f69928471c08b9f6b521bbe081d7ea830b79bcbb6c188b961",
+          "question_text": "A factor of 0.90 represents what percent decrease per period? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "022c4bcb3d72ac37187c1d8c080a458c46b4fb08e4df1ba456c63b7187632bee",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365811,8 +365811,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "If b > 1 in y = b^x, is the graph increasing or decreasing?",
-          "question_sha256": "d96e87badc4b1aa235b337bb49d2320e5e0a6c8fbe65cc20374dd67aa25b83b4",
+          "question_text": "Select. If b > 1 in y = b^x, is the graph increasing or decreasing? ~~Decreasing | Increasing~~",
+          "question_sha256": "3040aa093056472b20ee7192ba3df6ef5e65c5c06b6d29e9a5cc290fab79544b",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365830,8 +365830,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "If 0 < b < 1 in y = b^x, is the graph increasing or decreasing?",
-          "question_sha256": "d4d66d31455f53e5f8ce705d3b86c1ad657f2c5f1449950edb38e3629665003c",
+          "question_text": "Select. If 0 < b < 1 in y = b^x, is the graph increasing or decreasing? ~~Decreasing | Increasing~~",
+          "question_sha256": "ec138385a902cca875ffb4af8ce65fbce7024990fe93b5b703102082b2f5e635",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365849,8 +365849,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "What horizontal line does y = 3^x approach as x becomes very negative?",
-          "question_sha256": "e476827a7e209c2cd3a4e57a1de0699554d6585b6fae9738fd2d64c2ebbec8ce",
+          "question_text": "What horizontal line does y = 3^x approach as x becomes very negative? Write the line as y = c and enter only the value of c.",
+          "question_sha256": "739f248e96d6822d8c897d64017e8ed6d2e614802f740d8dff1a036ae4c9a137",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365868,8 +365868,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "At x = 3, which is larger: y = 2^x or y = 3x + 1?",
-          "question_sha256": "8dbd15378e129dab20481b56494904ad74eff088ca4788dcc06123f3c9b4c191",
+          "question_text": "Select. At x = 3, which is larger: y = 2^x or y = 3x + 1? ~~y = 3x + 1 | y = 2^x~~",
+          "question_sha256": "e816023938501657cdaef95f14e3144d70288768fb374210846048027d529538",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365925,8 +365925,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "For y = -2 × 3^x, are the y-values positive or negative?",
-          "question_sha256": "8f39618a8c6b7f33552a014a806ead65866ce8135755d7a6ad6847e3766803b7",
+          "question_text": "Select. For y = -2 × 3^x, are the y-values positive or negative? ~~Positive | Negative~~",
+          "question_sha256": "f6f1e13016d99a31da478353e714b86c7651bc0ebead5472a6ce85202bf074e3",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -365963,8 +365963,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "Which eventually grows faster as x tends to positive infinity: a nonconstant linear function or y = ab^x with a > 0 and b > 1?",
-          "question_sha256": "f4f6e07da8b4b0fbc9a4c51c967777d8ec16242a64882671182e8336adf5f3da",
+          "question_text": "Select. Which eventually grows faster as x tends to positive infinity: a nonconstant linear function or y = ab^x with a > 0 and b > 1? ~~They always grow at the same rate | The exponential function | The linear function~~",
+          "question_sha256": "196f04dfaefb2928e20326119687f9fd30512d56a668bfc8b6aaf97cbdecf552",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366013,8 +366013,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "If b > 1 in y = b^x, is the graph increasing or decreasing?",
-          "question_sha256": "d96e87badc4b1aa235b337bb49d2320e5e0a6c8fbe65cc20374dd67aa25b83b4",
+          "question_text": "Select. If b > 1 in y = b^x, is the graph increasing or decreasing? ~~Increasing | Decreasing~~",
+          "question_sha256": "49a086577a95449c81e2a1517c1037c0b6c32c95258b1a64096483128d653084",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366032,8 +366032,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "If 0 < b < 1 in y = b^x, is the graph increasing or decreasing?",
-          "question_sha256": "d4d66d31455f53e5f8ce705d3b86c1ad657f2c5f1449950edb38e3629665003c",
+          "question_text": "Select. If 0 < b < 1 in y = b^x, is the graph increasing or decreasing? ~~Increasing | Decreasing~~",
+          "question_sha256": "8d83e1c22071b05800fe48fa2f863423260591799b11910fa614014c86c4794d",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366051,8 +366051,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "What horizontal line does y = 2^x approach as x becomes very negative?",
-          "question_sha256": "57a021a94f1f2dcf5f52e93e127c541e34648ce429c4b1383c1b2c5ef0a2fa69",
+          "question_text": "What horizontal line does y = 2^x approach as x becomes very negative? Write the line as y = c and enter only the value of c.",
+          "question_sha256": "c66142db5de1f4bca5baaa3f320a5ac843b8e8fac39b8ec7345093af87924fa7",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366070,8 +366070,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "At x = 2, which is larger: y = 2^x or y = 5x?",
-          "question_sha256": "6ecb16e54824ea476387337ed76407735ee6a1ec5447383c4b95f2c03eec4730",
+          "question_text": "Select. At x = 2, which is larger: y = 2^x or y = 5x? ~~y = 5x | y = 2^x~~",
+          "question_sha256": "430960eadc8fb1c7cc72e5e001d53e098f2d5ea7c71b26facd0263715c24dca7",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366120,8 +366120,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "Is the graph of y = (1/3)^x increasing or decreasing?",
-          "question_sha256": "2ffbca9d83203a890f7868aa87cca6c59201ecd9ec1ec8dca61a5c3dd173940a",
+          "question_text": "Select. Is the graph of y = (1/3)^x increasing or decreasing? ~~Increasing | Decreasing~~",
+          "question_sha256": "07d3e2badd17116ecd1d143a38df3c316704d30b03aad54bfa32e3f740e6786b",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366139,8 +366139,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "Is the graph of y = 6^x increasing or decreasing?",
-          "question_sha256": "c9853a9074b38311487272facbb4aba643051cf45d65f5f8ecc08a90015b5783",
+          "question_text": "Select. Is the graph of y = 6^x increasing or decreasing? ~~Decreasing | Increasing~~",
+          "question_sha256": "0af972304f2c58915f5cac89be8a1a557ce0d90cf05c3ef799b8ced73a04356c",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366177,8 +366177,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "For very large x, which grows faster: y = 2^x or y = 100x?",
-          "question_sha256": "4207f74006603c55fcc1e3e41e89e1f6eb6f8e82a27af91b79c28f2cc56a6a33",
+          "question_text": "Select. For very large x, which grows faster: y = 2^x or y = 100x? ~~y = 2^x | y = 100x~~",
+          "question_sha256": "6c371c74eeac068a883dbbe23236f9c23a52bcd6e2e352224897aedc247c8ee5",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366227,8 +366227,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "Using V = 20000(0.85)^t, find the car's value after 2 years.",
-          "question_sha256": "d3f6a9c70c4875c6c2f7248fe60f720708c5e560dce5ad028d7e94b23163bd60",
+          "question_text": "Using V = 20000(0.85)^t, find the car's value after 2 years. Enter only the number, without a currency symbol.",
+          "question_sha256": "fdecc177c4a0215f5c23d4245a02318d1c72869f0b78dd68093ed6ee1c06d405",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366341,8 +366341,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "Is an exponential function with positive initial value and factor 0.7 increasing or decreasing?",
-          "question_sha256": "044c24c1da38b11c6fdf6c6ce7a210b134a8beaf7c7479a4592df57e36352492",
+          "question_text": "Select. Is an exponential function with positive initial value and factor 0.7 increasing or decreasing? ~~Increasing | Decreasing~~",
+          "question_sha256": "222d896e98d66849849ab11111820042d70fa767191601b0bba76af1e762832f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366360,8 +366360,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "If a model y = a b^t has factor b = 1, does it show growth, decay, or neither?",
-          "question_sha256": "b853e49dc517f711c828e5f13f0b351c6c2af17b18e59735b0f65f69a61435db",
+          "question_text": "Select. If a model y = a b^t has factor b = 1, does it show growth, decay, or neither? ~~Decay | Neither | Growth~~",
+          "question_sha256": "131280f57e276c3c6b645252067e7736e1b5d8bbfab90b32a8a099c47bea7c11",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366379,8 +366379,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "A decay factor is 0.72. What percent decrease does it represent?",
-          "question_sha256": "9cdad3c2b02a6056215a370fb66e94ad248b486fb674885cd8c59f8464ac0df9",
+          "question_text": "A decay factor is 0.72. What percent decrease does it represent? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "886927b502c9be74d5a0952561f245b4e44f4a6ef1af70aa8852fb9f6925ef7f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366429,8 +366429,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "Using V = 10000(0.8)^t, find the car's value after 2 years.",
-          "question_sha256": "cfe7b795767cc56ac1878c8c137dd60216d23727b4242d7f1d47bd3a8dcd6f37",
+          "question_text": "Using V = 10000(0.8)^t, find the car's value after 2 years. Enter only the number, without a currency symbol.",
+          "question_sha256": "44ce15cb987a27d1abc9dee498e10e8516d0da1f42f1d637a23494fb1fbf4802",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366536,8 +366536,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "Using V = 5000(0.9)^t, find the value after 2 years.",
-          "question_sha256": "69c69371e53cdb79013a16cab461899cd27ae179c8527d94105f83fbfbad403d",
+          "question_text": "Using V = 5000(0.9)^t, find the value after 2 years. Enter only the number, without a currency symbol.",
+          "question_sha256": "18d64e23bf7c400a3d9ff6e236ad0316e65ab34428f66dd4b80cfd3998878c8f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366662,8 +366662,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "To test whether positive table values are exponential for equally spaced x-values, what should be constant?",
-          "question_sha256": "31caf7d0859ab064dc536b6343bdfe81024b6ee814a3a82e0e7ee331b619865d",
+          "question_text": "Select. To test whether positive table values are exponential for equally spaced x-values, what should be constant? ~~Common ratio | Common difference | Common sum~~",
+          "question_sha256": "d3f355f528c1611e489dc5aa823eb5cc6197ba699f07b87ce4393bd44f473c08",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366700,8 +366700,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Is y = 4(0.5)^x increasing or decreasing?",
-          "question_sha256": "22152ef129f27ef6edac2e4191c2f3af82f06a6141584c5cac41ead5cbf1fdf2",
+          "question_text": "Select. Is y = 4(0.5)^x increasing or decreasing? ~~Increasing | Decreasing~~",
+          "question_sha256": "6343a367107a0eb1ea1f624966540f9979c0f83f4675a31cd7443a0ce99c9d78",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366719,8 +366719,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "For y = -3 × 2^x, does y increase or decrease numerically as x increases?",
-          "question_sha256": "669551f503674df72ffcf3010367f12799e9bc1fd97f421b78c6652dc8259129",
+          "question_text": "Select. For y = -3 × 2^x, does y increase or decrease numerically as x increases? ~~Decrease | Increase | Stay constant~~",
+          "question_sha256": "ae71c511740b58f9b53d41af7124e578a927207916072c88530647dcae5d8b1c",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366738,8 +366738,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "For y = 6 × 2^x, are all outputs positive or negative?",
-          "question_sha256": "1289d39fb351e2fc132abd02d128db419666a728cbc3016880f32975233e2a39",
+          "question_text": "Select. For y = 6 × 2^x, are all outputs positive or negative? ~~Positive | Negative~~",
+          "question_sha256": "358d9b348404857fbaedfbe6fd727eed11a6a9843d78d5d2deceee5c3fc2ddc1",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366757,8 +366757,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "In y = 250(1.04)^t, what is the growth rate?",
-          "question_sha256": "b179ead7c96c54c10408cdbcbbd798698c5ecc8ce63d5464ff0dd1ed21d8982f",
+          "question_text": "In y = 250(1.04)^t, what is the growth rate? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "438eb35389e878ce08fd366b5fd996c0c2d68f5653bd2ee49d2575aa762e879c",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366795,8 +366795,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "Which y-value list is exponential: A = 4, 7, 10, 13 or B = 4, 8, 16, 32? Treat the entries in each list as outputs at x = 0, 1, 2, 3.",
-          "question_sha256": "8a84b9f1da4f02e25387f8664db9dacdad42213df5fe778af19dbc8f62b9fd76",
+          "question_text": "Select. Which y-value list is exponential: A = 4, 7, 10, 13 or B = 4, 8, 16, 32? Treat the entries in each list as outputs at x = 0, 1, 2, 3. ~~B | A~~",
+          "question_sha256": "a84fe41ef27a9c2882d0b1fb5465c21e9c8e1d9ff950d83401fffe9be0a61d61",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366864,8 +366864,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "To test whether positive table values are exponential for equally spaced x-values, what should be constant?",
-          "question_sha256": "31caf7d0859ab064dc536b6343bdfe81024b6ee814a3a82e0e7ee331b619865d",
+          "question_text": "Select. To test whether positive table values are exponential for equally spaced x-values, what should be constant? ~~Common ratio | Common difference | Common sum~~",
+          "question_sha256": "d3f355f528c1611e489dc5aa823eb5cc6197ba699f07b87ce4393bd44f473c08",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -366902,8 +366902,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Is y = 10(0.7)^x increasing or decreasing?",
-          "question_sha256": "cb26374b2ce06fdac377b2a603b7d3fea100767ea441158a6fdb9877da7bf2f5",
+          "question_text": "Select. Is y = 10(0.7)^x increasing or decreasing? ~~Decreasing | Increasing~~",
+          "question_sha256": "80fc4c67d580d23d7d7bdb6e50c319fa9f31324c94aa9fdd17365fa924f59c16",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367009,8 +367009,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Is y = 0.5(4)^x increasing or decreasing?",
-          "question_sha256": "ec8723b7dab9b9e7197cbf121aea75c1c782d5471e21db8273a01bc03a2d76a4",
+          "question_text": "Select. Is y = 0.5(4)^x increasing or decreasing? ~~Increasing | Decreasing~~",
+          "question_sha256": "c22a03f8d32a00cee4dbbd4adf83b65b2ba4f1cc629512c453808a11479a966a",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367059,8 +367059,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "Using F = 50 × 2^n, find the fine after 3 unpaid periods.",
-          "question_sha256": "a9d5f5af6fa749ec1e480143d9fd367af8493e5a6a4fcc0db1a7a90308a8df46",
+          "question_text": "Using F = 50 × 2^n, find the fine after 3 unpaid periods. Enter only the number, without a currency symbol.",
+          "question_sha256": "34e426f758c62f75375657c1f2725875b6780ec0c5f33b4522a23b7540eb37c6",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367078,8 +367078,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "The values 10, 20, 30, 40 form a linear or exponential pattern? Assume these are outputs at x = 0, 1, 2, 3.",
-          "question_sha256": "6166dda2a4117afe6725642d574f20da34575a412a36ca1d1afb53ccc75495a3",
+          "question_text": "Select. The values 10, 20, 30, 40 form a linear or exponential pattern? Assume these are outputs at x = 0, 1, 2, 3. ~~Exponential | Linear~~",
+          "question_sha256": "d75dea6631f05d94d2b3bc826a3068157ffad4359f661b4540d4aa1f620122ab",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367097,8 +367097,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "The values 10, 20, 40, 80 form a linear or exponential pattern? Assume these are outputs at x = 0, 1, 2, 3.",
-          "question_sha256": "705e46fca0a54028ec39c9068e86934fdc10e47330a24b6274b220a9db3a41cc",
+          "question_text": "Select. The values 10, 20, 40, 80 form a linear or exponential pattern? Assume these are outputs at x = 0, 1, 2, 3. ~~Linear | Exponential~~",
+          "question_sha256": "39e489a653c3a1d4b5fdde13909d88868fdb9293e009f47d6de2407dfa0fd71d",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367192,8 +367192,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "A quantity rises from 80 to 100 in one period. What is the percent increase?",
-          "question_sha256": "2a36df9c244a4acca183dcf628bf7e24e89ab50bca19f6a621a6d57f2992d853",
+          "question_text": "A quantity rises from 80 to 100 in one period. What is the percent increase? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_sha256": "966ac2720960722521055d5a27f287b1e2d5f335c35fc04028898aa7ce0fd0df",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367211,8 +367211,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "For large positive x, which model eventually becomes larger: y = 100x or y = 2^x?",
-          "question_sha256": "1ab082a690d86b31aaa3c7319810aa84d1c21b0ea2f28debc9da0d2886cce928",
+          "question_text": "Select. For large positive x, which model eventually becomes larger: y = 100x or y = 2^x? ~~y = 2^x | y = 100x~~",
+          "question_sha256": "a595c3dff8d29ad20c3a6fa92215c27414066e905723e675e3b4701dc66545cc",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367261,8 +367261,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "Using F = 40 × 2^n, find the fee after 3 missed deadlines.",
-          "question_sha256": "09b514380106758c49078b98338891b486ec0d37de4ec15efb6f03bffbce257a",
+          "question_text": "Using F = 40 × 2^n, find the fee after 3 missed deadlines. Enter only the number, without a currency symbol.",
+          "question_sha256": "7a2c3af9749a9953fd0814529c09c7e916c124e3f0f48f40b66308f48705abbb",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367280,8 +367280,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "The values 15, 30, 45, 60 form a linear or exponential pattern? Assume these are outputs at x = 0, 1, 2, 3.",
-          "question_sha256": "5664e0d7560e908802672ba68b34361d1b0b954a06ca0922ab5e79fd3cd40430",
+          "question_text": "Select. The values 15, 30, 45, 60 form a linear or exponential pattern? Assume these are outputs at x = 0, 1, 2, 3. ~~Exponential | Linear~~",
+          "question_sha256": "622f9e9999b62d5574e699678c8553517c973d382aedbfa97157d3e2143f2c53",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367299,8 +367299,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "The values 5, 15, 45, 135 form a linear or exponential pattern? Assume these are outputs at x = 0, 1, 2, 3.",
-          "question_sha256": "672f24b033c920243f6f56c9e35abb96fc1558987a50009c5e520b476e16bdb1",
+          "question_text": "Select. The values 5, 15, 45, 135 form a linear or exponential pattern? Assume these are outputs at x = 0, 1, 2, 3. ~~Exponential | Linear~~",
+          "question_sha256": "caed4254ea38cab4672aa234171bd3c920628b4df17b39b68ea69168f9aeb75e",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367387,8 +367387,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "The values 8, 16, 32, 64 form a linear or exponential pattern? Assume these are outputs at x = 0, 1, 2, 3.",
-          "question_sha256": "09b0ead3914418d2132af215dcffc5a8f92d7ef25544bf35564d40812c082d5c",
+          "question_text": "Select. The values 8, 16, 32, 64 form a linear or exponential pattern? Assume these are outputs at x = 0, 1, 2, 3. ~~Exponential | Linear~~",
+          "question_sha256": "15da79a55e2087f782876936fc0297d7b9d15b8585fb3e37ca5970cad446d539",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367406,8 +367406,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "The values 100, 90, 80, 70 form a linear or exponential pattern? Assume these are outputs at x = 0, 1, 2, 3.",
-          "question_sha256": "b8821a871e6329b29fe85e089ae3d0fbf64e7900679689a71fac9c391b2cb07b",
+          "question_text": "Select. The values 100, 90, 80, 70 form a linear or exponential pattern? Assume these are outputs at x = 0, 1, 2, 3. ~~Exponential | Linear~~",
+          "question_sha256": "b85fe6f6dcae85662b2303105a0f852cacd55b89d465dd1841d0c51bec3c27a2",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367425,8 +367425,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "An investment of $1000 grows by 10% of its current balance per year. Find its value after 2 years.",
-          "question_sha256": "dfc68c5836a9ffad5951e0bca61ca1708ee5b56dde2bba35c83ad54119798085",
+          "question_text": "An investment of $1000 grows by 10% of its current balance per year. Find its value after 2 years. Enter only the number, without a currency symbol.",
+          "question_sha256": "56425c6d3b3f9984f3eae2e9827dcdb0fb23477a3f0baae235075807bff0dcb0",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367456,8 +367456,8 @@
       "unit_topic": "Performing transformations",
       "problems": {
         "1": {
-          "question_text": "Which transformation slides every point the same distance in the same direction?",
-          "question_sha256": "9342971df86da6014eb3053241294e875840a34165ee5bb5b67d946b0c074a29",
+          "question_text": "Select. Which transformation slides every point the same distance in the same direction? ~~Dilation | Translation | Rotation | Reflection~~",
+          "question_sha256": "553a396362eedd80056c49902c8e015c2929af39ea6d89479c5f57adc939670c",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367475,8 +367475,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "Which transformation turns a figure around a fixed point?",
-          "question_sha256": "bfdd30dc2962d36efba1e4bd49f408d854c32856e6d8fa699d9dcec85c3a282c",
+          "question_text": "Select. Which transformation turns a figure around a fixed point? ~~Reflection | Dilation | Translation | Rotation~~",
+          "question_sha256": "cb903da6f6be11ac139537f9fad2b030bd130cf948147f13a727c4f44e3c5b92",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367494,8 +367494,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "Which transformation flips a figure across a line?",
-          "question_sha256": "fb34d4902417f17cf965b0f70fcdcea6931fa061701fc3c677af49c783378b20",
+          "question_text": "Select. Which transformation flips a figure across a line? ~~Reflection | Dilation | Translation | Rotation~~",
+          "question_sha256": "6f794548edd5a38115a8d31d8fa6c3eb2f279c8683d3a2d4d6e77fc136158f23",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367513,8 +367513,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Which transformation changes a figure's size using a scale factor?",
-          "question_sha256": "4e1fc7ee8d85dc7390846929ee84f42fe90aaee32c8a8796afeaefcfa4679d34",
+          "question_text": "Select. Which transformation changes a figure's size using a scale factor? ~~Rotation | Reflection | Dilation | Translation~~",
+          "question_sha256": "85dc895b326a39c8c4e9829a4038f03cd0b06aee442d832f4c389682a730f209",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367570,8 +367570,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "Among a single translation, rotation, or reflection, which preserves size and shape but reverses clockwise/counterclockwise vertex order?",
-          "question_sha256": "0fced5e96d5c28dec4e9844fa5292b4d7784412a924bd7737d31379ffd8e4303",
+          "question_text": "Select. Among a single translation, rotation, or reflection, which preserves size and shape but reverses clockwise/counterclockwise vertex order? ~~Rotation | Reflection | Dilation | Translation~~",
+          "question_sha256": "94388a692e1c4d65615e8b9c7483c30fafff5803dbb98a7cbacc6b9168cf2119",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367589,8 +367589,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "A plane rotation through an angle strictly between 0 and 360 degrees has one fixed point. What is that point called?",
-          "question_sha256": "6bc3536cd3a3ae957049befb9b2ab063eb0151ad497c167873621738fdceb7b1",
+          "question_text": "Select. A plane rotation through an angle strictly between 0 and 360 degrees has one fixed point. What is that point called? ~~Translation vector | Center of rotation | Line of reflection~~",
+          "question_sha256": "89643abecf4351a552cfad2ef674adacc21a8f20b9900e66d0615b7b5c16c1c4",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367608,8 +367608,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "A dilation produces an image smaller than the original. Is its positive scale factor less than 1 or greater than 1?",
-          "question_sha256": "539f04478e52cd8d458a42c3642e7541b8b1582a8d78db273ba52381d26a3729",
+          "question_text": "Select. A dilation produces an image smaller than the original. Is its positive scale factor less than 1 or greater than 1? ~~Between 0 and 1 | Equal to 1 | Greater than 1~~",
+          "question_sha256": "3e72d38ad52204a94b62c511199c40e2519ec606b451df04a69860237e37b4b8",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367627,8 +367627,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "If one figure can be mapped exactly onto another by rigid transformations then the figures are what?",
-          "question_sha256": "064b4a715edea71f7ca7611c64999af21ae77ee76b3de12326f4c416184152a1",
+          "question_text": "Select. If one figure can be mapped exactly onto another by rigid transformations then the figures are what? ~~Equal in area but different in shape | Different in both size and shape | Congruent~~",
+          "question_sha256": "28be132f35ac78c85840167430a2ed60ee766041252aebc7c42f2af56cabdccd",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367658,8 +367658,8 @@
       "unit_topic": "Performing transformations",
       "problems": {
         "1": {
-          "question_text": "Which transformation slides every point the same distance in the same direction?",
-          "question_sha256": "9342971df86da6014eb3053241294e875840a34165ee5bb5b67d946b0c074a29",
+          "question_text": "Select. Which transformation slides every point the same distance in the same direction? ~~Rotation | Reflection | Dilation | Translation~~",
+          "question_sha256": "5cc55a2e0767ecc02ea00c21202aa25766401edb855517e9b902b782a375f647",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367677,8 +367677,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "Which transformation turns a figure around a fixed point?",
-          "question_sha256": "bfdd30dc2962d36efba1e4bd49f408d854c32856e6d8fa699d9dcec85c3a282c",
+          "question_text": "Select. Which transformation turns a figure around a fixed point? ~~Rotation | Reflection | Dilation | Translation~~",
+          "question_sha256": "189e306794ab90b0dd5d04512e9c829fc959602633dcf076c8eb90af95164c21",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367696,8 +367696,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "Which transformation flips a figure across a line?",
-          "question_sha256": "fb34d4902417f17cf965b0f70fcdcea6931fa061701fc3c677af49c783378b20",
+          "question_text": "Select. Which transformation flips a figure across a line? ~~Reflection | Dilation | Translation | Rotation~~",
+          "question_sha256": "6f794548edd5a38115a8d31d8fa6c3eb2f279c8683d3a2d4d6e77fc136158f23",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367715,8 +367715,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Which transformation changes a figure's size using a scale factor?",
-          "question_sha256": "4e1fc7ee8d85dc7390846929ee84f42fe90aaee32c8a8796afeaefcfa4679d34",
+          "question_text": "Select. Which transformation changes a figure's size using a scale factor? ~~Translation | Rotation | Reflection | Dilation~~",
+          "question_sha256": "0aa41c39199b97836caad00219e831c001c6b8360c3fff4dc4c4e874e714ba38",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367765,8 +367765,8 @@
       "unit_topic": "Performing transformations",
       "problems": {
         "1": {
-          "question_text": "A figure is moved 5 units right without turning or flipping. What transformation is this?",
-          "question_sha256": "a810aa8a94ba37941562d4395c83e2c72bffc55ff115c0d36b7c35ebf9c2563d",
+          "question_text": "Select. A figure is moved 5 units right without turning or flipping. What transformation is this? ~~Reflection | Dilation | Translation | Rotation~~",
+          "question_sha256": "3b8ea2933beacba8cc86c5786681729390050b032d898ff416c7df9a0e7c2bea",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367784,8 +367784,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "A figure is turned 90 degrees about the origin. What transformation is this?",
-          "question_sha256": "3dd3e954b7544407923fefbb819aa03e64bd10b3ec1888b49abbfd87f94f5095",
+          "question_text": "Select. A figure is turned 90 degrees about the origin. What transformation is this? ~~Translation | Rotation | Reflection | Dilation~~",
+          "question_sha256": "9f2a327bf82b8ebc59750432823e9649b3be5df0af5e140b51da85e498dba62f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367803,8 +367803,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "A figure is flipped across the y-axis. What transformation is this?",
-          "question_sha256": "c72dc31fd675763624dfe24b25ea2493c1759aa344ddbd00fcaa6b2648b70ae1",
+          "question_text": "Select. A figure is flipped across the y-axis. What transformation is this? ~~Dilation | Translation | Rotation | Reflection~~",
+          "question_sha256": "30984d3d6e1add2db0bcb6bb52b73453ebc9d860da0644da4786b4ff1fb0f8fb",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -367822,8 +367822,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Every point of a figure moves along its ray from the origin to twice its original distance. What transformation is this?",
-          "question_sha256": "f9d2562e8d92026f53acf964935cd078f05dae02c18642962fdea84bb920a04d",
+          "question_text": "Select. Every point of a figure moves along its ray from the origin to twice its original distance. What transformation is this? ~~Rotation | Reflection | Dilation | Translation~~",
+          "question_sha256": "0630e8f041baef179ae2480a3e4bfd424472eb3b260f547d8470e8a1971fed2b",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -368402,8 +368402,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "Point D lies on the line of reflection. Where does D map?",
-          "question_sha256": "ee6d52f38102dde760e870364f9c7ca9b3122afa34761fdd65f72667e7b603fc",
+          "question_text": "Select. Point D lies on the line of reflection. Where does D map? ~~To D itself | To a different point on the reflection line | To a point off the reflection line~~",
+          "question_sha256": "ea5ab2c010644c6857676495b53540eb53d349295111c213eb817beb7e8dbf42",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -368421,8 +368421,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "A rotation takes a point along the smaller counterclockwise arc about its center. The angle swept out is 70 degrees. What is the rotation angle in degrees?",
-          "question_sha256": "45f714fc6f460b563d58cf3d2e45254607e20694346989e8024bf62314b478ef",
+          "question_text": "A rotation takes a point along the smaller counterclockwise arc about its center. The angle swept out is 70 degrees. What is the rotation angle in degrees? Enter only the angle measure in degrees.",
+          "question_sha256": "99cf4538229d17d10267da76b90862561b5747c4f09ad2fec3b96b3be55df88a",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -368459,8 +368459,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "A 90-degree counterclockwise rotation followed by another 90-degree counterclockwise rotation about the same center is equivalent to what rotation?",
-          "question_sha256": "6024a2d2cd77215eb15a319659d7befa43c1ebc057193b157ed09f087e947abe",
+          "question_text": "A 90-degree counterclockwise rotation followed by another 90-degree counterclockwise rotation about the same center is equivalent to what rotation? Enter only the angle measure in degrees.",
+          "question_sha256": "21feeb17a883c656b47f5d214577ee82fc5f508b43e4967461dbb25b1037f699",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -368761,8 +368761,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "A dilation has scale factor 0.4. Is it an enlargement or a reduction?",
-          "question_sha256": "9e48d33960b65cb4d5b2ef2f4897a19ef07380f80a605c982e277f71d1dadff5",
+          "question_text": "Select. A dilation has scale factor 0.4. Is it an enlargement or a reduction? ~~Reduction | Enlargement~~",
+          "question_sha256": "0f5a076150fb93a4e0df4c9a908a7e4b884874bb1ef283bb621a27ab65e83fd5",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -368780,8 +368780,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "A dilation has scale factor 1.6. Is it an enlargement or a reduction?",
-          "question_sha256": "6f19338b232388dc1ea9f849f4821629b2de959cfdb5019f7fa960a242559d58",
+          "question_text": "Select. A dilation has scale factor 1.6. Is it an enlargement or a reduction? ~~Enlargement | Reduction~~",
+          "question_sha256": "706f15c806c03445439064fd62146ad6e6d08211f2277e300d9136e5fdfc72a8",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -368799,8 +368799,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "What happens to the center of a dilation?",
-          "question_sha256": "a88784499ecb2f89c24fdcc3d4ffb8c53a46c6535d2ba2f15ae425f595fa6810",
+          "question_text": "Select. What happens to the center of a dilation? ~~It moves twice as far from the origin | It moves along every ray | It stays fixed~~",
+          "question_sha256": "193f77bf35d4c7258fb46a81cc6cedc72ebf59b165e5d695d46397d1576cf43b",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -368837,8 +368837,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "A 48-degree angle is dilated by scale factor 2. What is the image angle measure?",
-          "question_sha256": "04ef9d5a0e46471b081ee5eee9d10118a7b3a676add60e7957f532a9db3c18ab",
+          "question_text": "A 48-degree angle is dilated by scale factor 2. What is the image angle measure? Enter only the angle measure in degrees.",
+          "question_sha256": "64117f729e39b8c636c27a25fdc8333817489f22c60ec7e06dbd54c6213f6757",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -368963,8 +368963,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "A dilation has scale factor 0.3. Is it an enlargement or a reduction?",
-          "question_sha256": "f3f61469c24b3e4ad8212041371b950cade448ef9aad69290f98a67ee5c31685",
+          "question_text": "Select. A dilation has scale factor 0.3. Is it an enlargement or a reduction? ~~Enlargement | Reduction~~",
+          "question_sha256": "5ddde7700a5295eafce339ed4c9864bca005a690f352cea81c5328a18f002e45",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -368982,8 +368982,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "A dilation has scale factor 2.4. Is it an enlargement or a reduction?",
-          "question_sha256": "e7a44893910120b1f73811b7b4b714181ded21ff8d3054f16d70d0e3c6b51c60",
+          "question_text": "Select. A dilation has scale factor 2.4. Is it an enlargement or a reduction? ~~Enlargement | Reduction~~",
+          "question_sha256": "d61aca7893931aead856eb9c02979ce04c93267449d343803d00905878bbb36d",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369139,8 +369139,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "A rigid transformation maps a 62-degree angle to its image. What is the image angle measure?",
-          "question_sha256": "0f38af70f8d34fdb96fc32225027b63f0b506333c7898b0d87ce10688aaa684d",
+          "question_text": "A rigid transformation maps a 62-degree angle to its image. What is the image angle measure? Enter only the angle measure in degrees.",
+          "question_sha256": "cdc7518e97d56ded5be7ffdfff9ff06894ff7fbc31b40e670cfc6674e08bf18f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369177,8 +369177,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Triangle ABC maps to triangle DEF with A -> D, B -> E, and C -> F. Which side corresponds to BC?",
-          "question_sha256": "924ae457c182c457664d227f53309e1d06229b36665f9d46557a2e9f686c8388",
+          "question_text": "Select. Triangle ABC maps to triangle DEF with A -> D, B -> E, and C -> F. Which side corresponds to BC? ~~DF | EF | DE~~",
+          "question_sha256": "29abe78fa19252c60d638cff1feb4b6d577119a64962b94b819be43af9641262",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369196,8 +369196,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Triangle ABC maps to triangle DEF with A -> D, B -> E, and C -> F. Which angle corresponds to angle A?",
-          "question_sha256": "b2f67b88ece6d15574f138059b26907f0e1e4eebac66a138a8792fc07c2291fa",
+          "question_text": "Select. Triangle ABC maps to triangle DEF with A -> D, B -> E, and C -> F. Which angle corresponds to angle A? ~~Angle D | Angle E | Angle F~~",
+          "question_sha256": "6bc3774323dd27b653fb2018a605314e18dc74b1a3997f9b3eb002e88ffa3c09",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369253,8 +369253,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "A reflection maps point P to P'. What can you conclude about the distance from P to the reflection line and from P' to the line?",
-          "question_sha256": "08b67a4b2f05166beb6be5ff58452af501d73a4a9c65aa7601b50ee3282ff82b",
+          "question_text": "Select. A reflection maps point P to P'. What can you conclude about the distance from P to the reflection line and from P' to the line? ~~They are unequal | Their relationship cannot be determined | They are equal~~",
+          "question_sha256": "dcbb6854476f288fcd7e78cecb06693278e19a6f000d1dbab262b7c18352a6a4",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369341,8 +369341,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "A rigid transformation maps a 48-degree angle to its image. What is the image angle measure?",
-          "question_sha256": "8c68ac63363941a85de8a293f1c10fbf561952dafeb2ce4688af77be628c3946",
+          "question_text": "A rigid transformation maps a 48-degree angle to its image. What is the image angle measure? Enter only the angle measure in degrees.",
+          "question_sha256": "9bce746fc71aa5f4b7c8c832eae7436cf3652c49fe0a48466dfe11baee5c7bdc",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369379,8 +369379,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Triangle ABC maps to triangle DEF with A -> D, B -> E, C -> F. Which side corresponds to AB?",
-          "question_sha256": "0552e46a76e50c7ec7438ade9f037201e811a1871c0df21022a99c3af36f37a2",
+          "question_text": "Select. Triangle ABC maps to triangle DEF with A -> D, B -> E, C -> F. Which side corresponds to AB? ~~EF | DF | DE~~",
+          "question_sha256": "052acba544975058c738f360f9d4446ebb7add7275b7292b96538687fae8da51",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369448,8 +369448,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "A reflection maps a 105-degree angle to its image. What is the image angle measure?",
-          "question_sha256": "445504a195a5e0a51456fd053a6d6241aff1695c8fe03ea983d48de3e3b12a85",
+          "question_text": "A reflection maps a 105-degree angle to its image. What is the image angle measure? Enter only the angle measure in degrees.",
+          "question_sha256": "013d3e0d5bdf9fce52969f347fe065247eb6e2fbc04dd58859de7483dc2efee9",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369486,8 +369486,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Triangle ABC maps to triangle DEF with A -> D, B -> E, C -> F. Which angle corresponds to angle C?",
-          "question_sha256": "bf84a0a1fb0f1a1fa348e1d3f9454495f9b2f9fa2df65df36b23fc6addd6af56",
+          "question_text": "Select. Triangle ABC maps to triangle DEF with A -> D, B -> E, C -> F. Which angle corresponds to angle C? ~~F | D | E~~",
+          "question_sha256": "c840468e4f4c76071e42ac20e88b1ae6b8a4d0eb5459ae4de43a8daf19cc0023",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369505,8 +369505,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Which of these is NOT a rigid transformation: translation, rotation, reflection, or dilation with scale factor 2?",
-          "question_sha256": "2254bd2f1b5edcb4a691efa2a55fd1f977ed162a6035dc74978e6a07d13c388c",
+          "question_text": "Select. Which of these is NOT a rigid transformation: translation, rotation, reflection, or dilation with scale factor 2? ~~Translation | Rotation | Reflection | Dilation with scale factor 2~~",
+          "question_sha256": "621e33ea8c9f702c5ee6938234b16c45bc0476f4ad392d945ed3e4880008c8a9",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369574,8 +369574,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "A 55-degree angle is dilated by scale factor 5. What is its image measure?",
-          "question_sha256": "0905f1d89e810ac8e31bb2c5716b53169d8cd6c115088b7b81ab037b8fe26ee7",
+          "question_text": "A 55-degree angle is dilated by scale factor 5. What is its image measure? Enter only the angle measure in degrees.",
+          "question_sha256": "9cbbed5876dc88fc864de9222fdda0e3f2b2a1050acacd38b25c97942e1693e3",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369593,8 +369593,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Under a dilation with positive scale factor, what happens to a line that passes through the center of dilation?",
-          "question_sha256": "7cfbcba6d1bf441c04d6f9f35ec18e2741b413bbcb8f24e08806b16e8d14c15c",
+          "question_text": "Select. Under a dilation with positive scale factor, what happens to a line that passes through the center of dilation? ~~It maps to a distinct parallel line | It maps to a perpendicular line | It maps to itself~~",
+          "question_sha256": "42e40476cf201cd188553e864f1e8a41209068dc4a4422c76afb1fc47e46a8ea",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369631,8 +369631,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "Two reflections across distinct parallel lines are equivalent to which type of transformation?",
-          "question_sha256": "cbd329c9f472a536cf6057b2cf2aeec750321462f4d5e940795ae59ab1a1c97b",
+          "question_text": "Select. Two reflections across distinct parallel lines are equivalent to which type of transformation? ~~Rotation | Reflection | Dilation | Translation~~",
+          "question_sha256": "8f119d7f799585157cfde04a79719067526c362cb60b34e2ee14e606a7eebf43",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369650,8 +369650,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "Two reflections across intersecting lines are equivalent to which type of transformation?",
-          "question_sha256": "bcd99a51e7e067d05b804740d8d56cad657b46627285e5f3fe61a0a5e8856625",
+          "question_text": "Select. Two reflections across intersecting lines are equivalent to which type of transformation? ~~Reflection | Dilation | Translation | Rotation~~",
+          "question_sha256": "74ba01dc0ae454df4cf4f34a15c7a9dab493b67d7fcc5aabab502bece0aaa281",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369669,8 +369669,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "A 90-degree rotation followed by a 270-degree rotation about the same center and in the same direction is equivalent to what transformation?",
-          "question_sha256": "2a3e9f48d7ce69ec4182e7a4f4ef1f61bd47316c3441c4e22b2f331ea2fb8278",
+          "question_text": "Select. A 90-degree rotation followed by a 270-degree rotation about the same center and in the same direction is equivalent to what transformation? ~~Identity transformation | Reflection across a line | Rotation through 180 degrees~~",
+          "question_sha256": "ba78c5200187d17363aa2d5d48b1e97888e80c90e9d8f75e6273bf87bcbc74bf",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369688,8 +369688,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "A dilation has scale factor 1. What transformation does it produce?",
-          "question_sha256": "d148cf188c2fbe8b74879d5ca2cb03eb00d000f139456d137103b19c1af4d4d9",
+          "question_text": "Select. A dilation has scale factor 1. What transformation does it produce? ~~Rotation through 180 degrees | Identity transformation | Reflection across a line~~",
+          "question_sha256": "2cc7925c3d4dd2b05bf74e5f676949016907ac21c1108b2335af828b959c141c",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369776,8 +369776,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "A 70-degree angle is dilated by scale factor 6. What is its image measure?",
-          "question_sha256": "a587bc4e3ed98b6356ebb5e2c8b5ec0ca32d107d66aa0e6c01153d523b304fcf",
+          "question_text": "A 70-degree angle is dilated by scale factor 6. What is its image measure? Enter only the angle measure in degrees.",
+          "question_sha256": "22ef3c0bb158e3dbf008baa18ec449bb8841d2381e683328b6765a5255863701",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369795,8 +369795,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Under a dilation with positive scale factor, what happens to a line that passes through the center of dilation?",
-          "question_sha256": "7cfbcba6d1bf441c04d6f9f35ec18e2741b413bbcb8f24e08806b16e8d14c15c",
+          "question_text": "Select. Under a dilation with positive scale factor, what happens to a line that passes through the center of dilation? ~~It maps to a distinct parallel line | It maps to a perpendicular line | It maps to itself~~",
+          "question_sha256": "42e40476cf201cd188553e864f1e8a41209068dc4a4422c76afb1fc47e46a8ea",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369883,8 +369883,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "A 36-degree angle is dilated by scale factor 2. What is its image measure?",
-          "question_sha256": "40f1d243c631d2edfad8a696ebe2634cad8a1b69f545c786ef62b068998b82d6",
+          "question_text": "A 36-degree angle is dilated by scale factor 2. What is its image measure? Enter only the angle measure in degrees.",
+          "question_sha256": "e5a90ba080350e1342a3dd33007b6d7b9769c7d727f9f6782f2daf2d0a2a27c5",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369952,8 +369952,8 @@
       "unit_topic": "Transformation properties and proofs",
       "problems": {
         "1": {
-          "question_text": "A line that divides a figure into two matching reflected halves is called what?",
-          "question_sha256": "907678acf804bece98249d7a6411732e7801e73437448db44f87750d2e2a2e9b",
+          "question_text": "Select. A line that divides a figure into two matching reflected halves is called what? ~~Line of symmetry | Center of rotation | Scale factor~~",
+          "question_sha256": "60e2d2ceb08a3fe920536acc0fd62bbf25ff299fb577e158a6f5dff0bf833ff2",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369971,8 +369971,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "How many lines of symmetry does a nonsquare rectangle have?",
-          "question_sha256": "ddb8953f2a2f150cb9e2198e3a732304eb1906f99c498d36dc3dddd410f3242f",
+          "question_text": "How many lines of symmetry does a nonsquare rectangle have? Enter only the number.",
+          "question_sha256": "afc3fb5b1f339626df5623ff1ee4f88f8bb72c3737226cd83321e4b845e64206",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -369990,8 +369990,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "How many lines of symmetry does a square have?",
-          "question_sha256": "12be328616f8bf41262827921027ef21a1403b0392b6a2395341cedeeb3396a0",
+          "question_text": "How many lines of symmetry does a square have? Enter only the number.",
+          "question_sha256": "53a63c3369292aaaa384a5963318f192e69b3f4562046fe52bff0ea2b5b12de5",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370009,8 +370009,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "What is the smallest positive rotation that maps a square onto itself about its center?",
-          "question_sha256": "52d032b9d6984ec37d3851351251048e65bd57ea5145d1a4636e45973299e868",
+          "question_text": "What is the smallest positive rotation that maps a square onto itself about its center? Enter only the angle measure in degrees.",
+          "question_sha256": "f84b21d9cc38b17687b49d400e3b27b750ce35bfaef7c1a9608d00cd6fb89963",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370047,8 +370047,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "Reflecting a figure over one line and then over a perpendicular intersecting line is equivalent to a rotation of how many degrees?",
-          "question_sha256": "fd4b390d664a0679a452cc2ace4372a2d218a1aa14af62acdb2e5a2fac6c13bf",
+          "question_text": "Reflecting a figure over one line and then over a perpendicular intersecting line is equivalent to a rotation of how many degrees? Enter only the angle measure in degrees.",
+          "question_sha256": "3fd1350ff681542d99d1c9df5c59acddc2a5e48f7a5f6065a88498a29a3a1d36",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370085,8 +370085,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "Perpendicular lines form angles of what measure?",
-          "question_sha256": "9885a38a81dd12bfc31fcd326e9c6b04231ce6d5faffd08f7784a2d5fd984cf6",
+          "question_text": "Perpendicular lines form angles of what measure? Enter only the angle measure in degrees.",
+          "question_sha256": "f048986506ab78bbfd5457d8ce7548b5fe9a51a44eda58477e9b5b97728416e2",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370104,8 +370104,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "Two adjacent angles form a straight line. Their measures sum to how many degrees?",
-          "question_sha256": "afb4d9c9767254474080fda90161d85b41d30086fda78583ee3c6a4cd1cc595d",
+          "question_text": "Two adjacent angles form a straight line. Their measures sum to how many degrees? Enter only the angle measure in degrees.",
+          "question_sha256": "e29cb28d8e944ebf950446a4e9037ee5316973ee4d4d440d4bebdb903f7e90cc",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370154,8 +370154,8 @@
       "unit_topic": "Transformation properties and proofs",
       "problems": {
         "1": {
-          "question_text": "A line that divides a figure into two matching reflected halves is called what?",
-          "question_sha256": "907678acf804bece98249d7a6411732e7801e73437448db44f87750d2e2a2e9b",
+          "question_text": "Select. A line that divides a figure into two matching reflected halves is called what? ~~Line of symmetry | Center of rotation | Scale factor~~",
+          "question_sha256": "60e2d2ceb08a3fe920536acc0fd62bbf25ff299fb577e158a6f5dff0bf833ff2",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370173,8 +370173,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "How many lines of symmetry does a nonsquare rectangle have?",
-          "question_sha256": "ddb8953f2a2f150cb9e2198e3a732304eb1906f99c498d36dc3dddd410f3242f",
+          "question_text": "How many lines of symmetry does a nonsquare rectangle have? Enter only the number.",
+          "question_sha256": "afc3fb5b1f339626df5623ff1ee4f88f8bb72c3737226cd83321e4b845e64206",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370192,8 +370192,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "How many lines of symmetry does an equilateral triangle have?",
-          "question_sha256": "6b0b150e39e22b830d03567016202da28259463b593f46bb4f7129e61963897d",
+          "question_text": "How many lines of symmetry does an equilateral triangle have? Enter only the number.",
+          "question_sha256": "5c4a98ee967cc51d641070e9f2ef9f9243ac99502f69caf5fdb27d500e550832",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370211,8 +370211,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "What is the smallest positive rotation that maps a square onto itself about its center?",
-          "question_sha256": "52d032b9d6984ec37d3851351251048e65bd57ea5145d1a4636e45973299e868",
+          "question_text": "What is the smallest positive rotation that maps a square onto itself about its center? Enter only the angle measure in degrees.",
+          "question_sha256": "f84b21d9cc38b17687b49d400e3b27b750ce35bfaef7c1a9608d00cd6fb89963",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370230,8 +370230,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "What is the smallest positive rotation that maps an equilateral triangle onto itself about its center?",
-          "question_sha256": "82497fdc570af2e9fbe017c93dbdc0ae0a14239cd799e4f4e7519faa56cea75d",
+          "question_text": "What is the smallest positive rotation that maps an equilateral triangle onto itself about its center? Enter only the angle measure in degrees.",
+          "question_sha256": "011db677b4b50e2f154c7304017ca0af15c9073a3bcc32a79dd58115de684936",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370261,8 +370261,8 @@
       "unit_topic": "Transformation properties and proofs",
       "problems": {
         "1": {
-          "question_text": "How many lines of symmetry does a square have?",
-          "question_sha256": "12be328616f8bf41262827921027ef21a1403b0392b6a2395341cedeeb3396a0",
+          "question_text": "How many lines of symmetry does a square have? Enter only the number.",
+          "question_sha256": "53a63c3369292aaaa384a5963318f192e69b3f4562046fe52bff0ea2b5b12de5",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370280,8 +370280,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "How many lines of symmetry does a circle have?",
-          "question_sha256": "0e96e6998dcec6ffccbb191e758cbfc9771ec5e1c2b23f54ecdbb4cc804af8d8",
+          "question_text": "Select. How many lines of symmetry does a circle have? ~~Infinitely many | 0 | 2~~",
+          "question_sha256": "80a0abab0c7a7ebf9afa52f65606f0ec6ada829188eb2f332c8d95017eff51fa",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370299,8 +370299,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "How many lines of symmetry does a scalene triangle have?",
-          "question_sha256": "000b4e8806545c4b52fa490a026e52a4ae0de0f19ad6aded3fa71dfcb55acd06",
+          "question_text": "How many lines of symmetry does a scalene triangle have? Enter only the number.",
+          "question_sha256": "7cb059f55827e82e32a384b0e384bd4099f8201b86c06286ce5eac3f4d6c60d4",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370318,8 +370318,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "What is the smallest positive rotation that maps a regular hexagon onto itself about its center?",
-          "question_sha256": "c40b52d4223e214bafe52f327f37bdeba197e05926a4f6a2a4f6241accc29762",
+          "question_text": "What is the smallest positive rotation that maps a regular hexagon onto itself about its center? Enter only the angle measure in degrees.",
+          "question_sha256": "3b87fac796df4231ef194b63a0c0709ab50febcba41eeb0cbd242ef37ece5801",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370368,8 +370368,8 @@
       "unit_topic": "Congruence",
       "problems": {
         "1": {
-          "question_text": "Two figures are congruent if one can be mapped onto the other using what kind of transformations?",
-          "question_sha256": "70eb830d04704731788bf6c12ee2e6151d24120fdcc8229afe2178f88202fb0d",
+          "question_text": "Select. Two figures are congruent if one can be mapped onto the other using what kind of transformations? ~~Dilations with scale factor 2 | Dilations with scale factor 0.5 | Rigid transformations~~",
+          "question_sha256": "029f75688afb2bd9d8dd8920f0293b94990e0cef9d745eb46e63cb095fe2b98d",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370406,8 +370406,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "Two angles are congruent exactly when they have the same what?",
-          "question_sha256": "887a9cdb99ea614286c633b149399fd10895bdd3581c7acdbcd3297ee7bcf979",
+          "question_text": "Select. Two angles are congruent exactly when they have the same what? ~~Length of the drawn rays | Position on the page | Angle measure~~",
+          "question_sha256": "f20bfe81b999da8ef553b292e71597a36a6d04e104b2bc9d0e7e9f8030d7d4d8",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370425,8 +370425,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Two segments are congruent exactly when they have the same what?",
-          "question_sha256": "e2c5a19452466144fb15146d8ba5c0b595e1e58ff56265ab3919c176606bd2f8",
+          "question_text": "Select. Two segments are congruent exactly when they have the same what? ~~Position on the page | Direction | Length~~",
+          "question_sha256": "efea00173b481623453b4515c02ad41e966852fbcf2de88f5e2f5930fbea50bc",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370444,8 +370444,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Which triangle congruence criterion uses three pairs of corresponding sides?",
-          "question_sha256": "96a421ee6f9d436dc2ab867df060041240bf6f95dd5ff1992d1524243f043c67",
+          "question_text": "Select. Which triangle congruence criterion uses three pairs of corresponding sides? ~~AAS | HL | SSS | SAS | ASA~~",
+          "question_sha256": "484e81aaf0eda6fe3bd72882129a3b747d9075bfa9e13242f56eac32bbc31bf4",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370463,8 +370463,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "Which triangle congruence criterion uses two sides and their included angle?",
-          "question_sha256": "dbd63364c548d8e49f99ec35da05c9586930223ff0146328b3e4ecd882b98e40",
+          "question_text": "Select. Which triangle congruence criterion uses two sides and their included angle? ~~AAS | HL | SSS | SAS | ASA~~",
+          "question_sha256": "f621b714d68f0b85d21f8293e3c256de1342d057bb22eee1cb4337557b59aaa7",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370482,8 +370482,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "Which triangle congruence criterion uses two angles and their included side?",
-          "question_sha256": "e890abd81d5a29b25a25f554374c58185553d4349eb28a265195ad720d1fdc05",
+          "question_text": "Select. Which triangle congruence criterion uses two angles and their included side? ~~SAS | ASA | AAS | HL | SSS~~",
+          "question_sha256": "4b0cb8fab8e08893ead64e93559425742c9b5d7ada84510d20aefb3131364740",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370501,8 +370501,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "Which triangle congruence criterion uses two angles and a nonincluded side?",
-          "question_sha256": "e1650c5c0d9415c0f247a7cbcf1b6c6aa5e21a59689690db4bb6a7b96d0167a1",
+          "question_text": "Select. Which triangle congruence criterion uses two angles and a nonincluded side? ~~AAS | HL | SSS | SAS | ASA~~",
+          "question_sha256": "beb58958b5404668cc42ec46d3137769b18baf8e32b2c422a0eee448fbf7781e",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370520,8 +370520,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "Why is SSA generally not a triangle congruence criterion?",
-          "question_sha256": "1ac6c3109d28449db3750420a72cbfab216ab5f1d73e3b19f2db1d1adec148d6",
+          "question_text": "Select. Why is SSA generally not a triangle congruence criterion? ~~Two noncongruent triangles can fit the same data | SSA never produces a triangle | SSA always forces a right angle~~",
+          "question_sha256": "ed4580e743398f5866f9b646e75cb99a3a760ecc3f1be11750cec996fa8930b2",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370539,8 +370539,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "For right triangles which criterion uses a congruent hypotenuse and one congruent leg?",
-          "question_sha256": "9df8bc5c4be88604e223fcded7c69294f9c824666a385c3d60bc6142d842e79c",
+          "question_text": "Select. For right triangles which criterion uses a congruent hypotenuse and one congruent leg? ~~SAS | ASA | AAS | HL | SSS~~",
+          "question_sha256": "83eeacd4d9f4c7f466a2a7f932961a262b0a2c5722c7c8fa1d7206db5f512133",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370570,8 +370570,8 @@
       "unit_topic": "Congruence",
       "problems": {
         "1": {
-          "question_text": "Two figures are congruent if one can be mapped onto the other using what kind of transformations?",
-          "question_sha256": "70eb830d04704731788bf6c12ee2e6151d24120fdcc8229afe2178f88202fb0d",
+          "question_text": "Select. Two figures are congruent if one can be mapped onto the other using what kind of transformations? ~~Dilations with scale factor 0.5 | Rigid transformations | Dilations with scale factor 2~~",
+          "question_sha256": "9bfa6c7bf4145fd107d9d04463572382493ef2af96e9f60fe261189829a7602f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370608,8 +370608,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "Two angles are congruent exactly when they have the same what?",
-          "question_sha256": "887a9cdb99ea614286c633b149399fd10895bdd3581c7acdbcd3297ee7bcf979",
+          "question_text": "Select. Two angles are congruent exactly when they have the same what? ~~Angle measure | Length of the drawn rays | Position on the page~~",
+          "question_sha256": "2cfd8efba3dab8a1217eb2ef195abcdb6ebe3bacc67781cc459e3beae0fdbef1",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370627,8 +370627,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Two segments are congruent exactly when they have the same what?",
-          "question_sha256": "e2c5a19452466144fb15146d8ba5c0b595e1e58ff56265ab3919c176606bd2f8",
+          "question_text": "Select. Two segments are congruent exactly when they have the same what? ~~Position on the page | Direction | Length~~",
+          "question_sha256": "efea00173b481623453b4515c02ad41e966852fbcf2de88f5e2f5930fbea50bc",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370753,8 +370753,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Which transformations preserve both distance and angle measure: rigid motions or dilations with factor 2?",
-          "question_sha256": "bb47dc2451ece22f5e6574874667259c1da1d7eb3cdf13334b1d020d9468625c",
+          "question_text": "Select. Which transformations preserve both distance and angle measure: rigid motions or dilations with factor 2? ~~Rigid transformations | Dilations with scale factor 2 | Dilations with scale factor 0.5~~",
+          "question_sha256": "4f8577f7bfaba7cc2de2fef7e751b1f9ddf67e29a84ba55ff67cdd45a20e2db6",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370784,8 +370784,8 @@
       "unit_topic": "Congruence",
       "problems": {
         "1": {
-          "question_text": "Two angles of a triangle measure 48 degrees and 67 degrees. Find the third angle.",
-          "question_sha256": "cb06e8b0699ac6512514606a324113bfdedee4d5bc0f4aee3bef78c1aedb94e1",
+          "question_text": "Two angles of a triangle measure 48 degrees and 67 degrees. Find the third angle. Enter only the angle measure in degrees.",
+          "question_sha256": "5576699e959a1a4e7f9b545aebf326bd00d9556188f5652e69963a0266e094b4",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370803,8 +370803,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "Triangle ABC is congruent to triangle DEF in that order. Which vertex corresponds to B?",
-          "question_sha256": "4fdf86c6fec71c565c43578d26286b96d7f4581b8ab91eef38d6b8c7089787c0",
+          "question_text": "Select. Triangle ABC is congruent to triangle DEF in that order. Which vertex corresponds to B? ~~D | F | E~~",
+          "question_sha256": "97c66f71e4a2fc5c6d45feeb76f6d9442c2bb9241ad9d1764c2c53459f256c56",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370841,8 +370841,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Triangle ABC is congruent to triangle DEF in that order. If angle C = 72 degrees what is angle F?",
-          "question_sha256": "8abd31ff90e1be6fa79792609d0ee4091af430f4b536d2b769d85143c35cc2a8",
+          "question_text": "Triangle ABC is congruent to triangle DEF in that order. If angle C = 72 degrees what is angle F? Enter only the angle measure in degrees.",
+          "question_sha256": "8ba1d1de3f27261bb392a1c34f1b9406adb26616c7f0f94ffecb15573a151bbe",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370860,8 +370860,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "For triangles ABC and DEF, AB = DE, BC = EF, and angle B = angle E. Which criterion proves congruence?",
-          "question_sha256": "874965eea888f6c3c6024b273a5456ef3d26755054070e1de62f0ef2bef3e5d1",
+          "question_text": "Select. For triangles ABC and DEF, AB = DE, BC = EF, and angle B = angle E. Which criterion proves congruence? ~~HL | SSS | SAS | ASA | AAS~~",
+          "question_sha256": "1f6212d2777960e747be36703123c9c6560c8ea7b698e1e81a1d48e25a21e59f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370879,8 +370879,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "For triangles ABC and DEF, angle A = angle D, angle B = angle E, and AB = DE. Which criterion proves congruence?",
-          "question_sha256": "3c17c604959b086b77d02a5d44be1f7a130d3c13d2a35be70c3135f28123ce13",
+          "question_text": "Select. For triangles ABC and DEF, angle A = angle D, angle B = angle E, and AB = DE. Which criterion proves congruence? ~~SAS | ASA | AAS | HL | SSS~~",
+          "question_sha256": "3195f8ede557f1895f5fb721d548c9c24e52b66bcfa7fcdcc6926f0a93f5fd2e",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370898,8 +370898,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "If three corresponding side pairs of two triangles have equal lengths, which criterion proves congruence?",
-          "question_sha256": "c1765ee50f39eae761131fe290f802f09e899b7436a1f338c5d5a41480be2634",
+          "question_text": "Select. If three corresponding side pairs of two triangles have equal lengths, which criterion proves congruence? ~~SAS | ASA | AAS | HL | SSS~~",
+          "question_sha256": "fa2a09c781eedc316a48f6978321b1e0663528cfbd0a213517c23be389edfb90",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370955,8 +370955,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "Two right triangles have congruent hypotenuses and one pair of congruent legs. Which criterion proves them congruent?",
-          "question_sha256": "e8451684b7636952adbdcb3da4b76d155154c1292b500c8bcd32f0992854082b",
+          "question_text": "Select. Two right triangles have congruent hypotenuses and one pair of congruent legs. Which criterion proves them congruent? ~~HL | SSS | SAS | ASA | AAS~~",
+          "question_sha256": "8106cbca1cda34844eb557661dd31352cf204f98042b539bc1293d48233bc92b",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -370986,8 +370986,8 @@
       "unit_topic": "Congruence",
       "problems": {
         "1": {
-          "question_text": "Two angles of a triangle measure 52 degrees and 71 degrees. Find the third angle.",
-          "question_sha256": "f50b8db61a2a8a1e8f67be573a3e2a054c625eb6fddf3b48eb8bfc3426aeb8d1",
+          "question_text": "Two angles of a triangle measure 52 degrees and 71 degrees. Find the third angle. Enter only the angle measure in degrees.",
+          "question_sha256": "c0e2ac2c518fde79d109dfef997a692b5cabc5b795477a6c59926370b7e4e9dc",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371005,8 +371005,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "Triangle ABC is congruent to triangle DEF in that order. Which vertex corresponds to C?",
-          "question_sha256": "47e8c36f9fe5f0a7cbb0b8652d33104c6f09e705c09b28d804a5fcfc89a4e32d",
+          "question_text": "Select. Triangle ABC is congruent to triangle DEF in that order. Which vertex corresponds to C? ~~F | D | E~~",
+          "question_sha256": "e9fe47c02daea9866f34afbecec0fc18a7db1828e0092eea6cf9738465fab5bf",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371043,8 +371043,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Triangle ABC is congruent to triangle DEF in that order. If angle A = 64 degrees, what is angle D?",
-          "question_sha256": "6dfff6dc5fe4c10859e82618319e4566e3705b13197b4fb3ac7fc4f1d71deee9",
+          "question_text": "Triangle ABC is congruent to triangle DEF in that order. If angle A = 64 degrees, what is angle D? Enter only the angle measure in degrees.",
+          "question_sha256": "9ccba761062c4a2bdf1fe509851b6e002e10b02f92d65f82a5367cf4dfff6246",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371062,8 +371062,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "AB = DE, angle A = angle D, and AC = DF. Which criterion proves triangle ABC congruent to triangle DEF?",
-          "question_sha256": "d4b25c4bb500bd5db47caa31308ebb15e14370991d8c45396727f419392229d8",
+          "question_text": "Select. AB = DE, angle A = angle D, and AC = DF. Which criterion proves triangle ABC congruent to triangle DEF? ~~SSS | SAS | ASA | AAS | HL~~",
+          "question_sha256": "edb8288b84238314c87101895c871f8176828836ea4a0931abe4aea3038395bd",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371093,8 +371093,8 @@
       "unit_topic": "Congruence",
       "problems": {
         "1": {
-          "question_text": "Two angles of a triangle measure 44 degrees and 59 degrees. Find the third angle.",
-          "question_sha256": "300354703b0ea61b2c1fd137fafd8cf2539097d43299d66629418afc74077d34",
+          "question_text": "Two angles of a triangle measure 44 degrees and 59 degrees. Find the third angle. Enter only the angle measure in degrees.",
+          "question_sha256": "9bb31d4d45eae38e85bd3831a53461f0d092da18db11816ee339d85b32ea7715",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371112,8 +371112,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "Triangle PQR is congruent to triangle XYZ in that order. Which vertex corresponds to Q?",
-          "question_sha256": "70f19b8ed22147ef297c053de07c969a0fef2bfc43ed0aec14f34c9d2ea3e85d",
+          "question_text": "Select. Triangle PQR is congruent to triangle XYZ in that order. Which vertex corresponds to Q? ~~X | Z | Y~~",
+          "question_sha256": "6ba7e5d19e540a697e649d99560bfd5fa5f24a8bca043ddc66fd2781c12c48d5",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371150,8 +371150,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "All three sides of one triangle equal the three corresponding sides of another. Which congruence criterion applies?",
-          "question_sha256": "808c3bfd689582c8699a682d51c08dcfe510bc13f8b056b560e087875812d0ab",
+          "question_text": "Select. All three sides of one triangle equal the three corresponding sides of another. Which congruence criterion applies? ~~AAS | HL | SSS | SAS | ASA~~",
+          "question_sha256": "66bb01c905f4165852bce46c3d4b917583ccfd401c8e7f76ab132d579c1fe90b",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371169,8 +371169,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Two angles and the included side of one triangle equal the corresponding parts of another. Which criterion applies?",
-          "question_sha256": "365697c58bb5941b4b3cad985166e80e21ef5d07f4f64a1752149419cce7bfd2",
+          "question_text": "Select. Two angles and the included side of one triangle equal the corresponding parts of another. Which criterion applies? ~~AAS | HL | SSS | SAS | ASA~~",
+          "question_sha256": "a40b09467e688dc3bf8f9fced9bcbca5ff4cc6128b374bb869ac58f5518150ab",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371200,8 +371200,8 @@
       "unit_topic": "Congruence",
       "problems": {
         "1": {
-          "question_text": "What is the sum of the interior angle measures of any triangle?",
-          "question_sha256": "92a7791313b4c231bba69c2a023919166c365295b8943b9331399df8e417ccff",
+          "question_text": "What is the sum of the interior angle measures of any triangle? Enter only the angle measure in degrees.",
+          "question_sha256": "8ca78e8354b674627886826c7a85cd008ff5936688bb3740dcc9a29c7a15c20f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371219,8 +371219,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "A triangle has angles 35 degrees and 84 degrees. Find the third angle.",
-          "question_sha256": "fbb8c9e760863e8926c2eaa884048df39b8071cefd98debd08fedc39dee746ad",
+          "question_text": "A triangle has angles 35 degrees and 84 degrees. Find the third angle. Enter only the angle measure in degrees.",
+          "question_sha256": "d94e1f1111cd1bb6d8b1725041f5e8e68895b207798460eebc9ec6110eeb813b",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371238,8 +371238,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "An isosceles triangle has a vertex angle of 40 degrees. Find each base angle.",
-          "question_sha256": "319fca0d83ba1f7ff40c0f69451cd88b6de99bf914e29101ea42255dda9bb755",
+          "question_text": "An isosceles triangle has a vertex angle of 40 degrees. Find each base angle. Enter only the angle measure in degrees.",
+          "question_sha256": "7a6c57ea27d1dfd87205a5ca4013ca35e2dd77cb92f3eeb1fdbda62ca3460e9a",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371257,8 +371257,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "An isosceles triangle has a base angle of 58 degrees. Find the vertex angle.",
-          "question_sha256": "aaed4be8109ff98759e88441a6e991d5289baa6812b3afac2151f6ba17b35243",
+          "question_text": "An isosceles triangle has a base angle of 58 degrees. Find the vertex angle. Enter only the angle measure in degrees.",
+          "question_sha256": "dd2a8dde7e24f1cffed7d66d6748138f59711aa25cc5bf1b77e9405a51ae90cf",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371276,8 +371276,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "If two sides of a triangle are congruent what can you conclude about their opposite angles?",
-          "question_sha256": "7c02afd6824ef9a9212372cc4e98eca2b22d5ceab6fb598cab88cc1694b6e8c0",
+          "question_text": "Select. If two sides of a triangle are congruent what can you conclude about their opposite angles? ~~No relationship is guaranteed | They are congruent | They must have different measures~~",
+          "question_sha256": "d248415e3407b6a39af24cffea3af97e1da5033ffcd5106bf62399582dbf1fb3",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371295,8 +371295,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "If two angles of a triangle are congruent what can you conclude about their opposite sides?",
-          "question_sha256": "04c6be095d99bfce21cbd4c44fcdacfdd0d32ca4612f5dbb740f3b24cce280af",
+          "question_text": "Select. If two angles of a triangle are congruent what can you conclude about their opposite sides? ~~No relationship is guaranteed | They are congruent | They must have different measures~~",
+          "question_sha256": "5f232caa9d60dd6bf1b36794c897926fc2b676b6fad03886218823c2ef13501d",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371314,8 +371314,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "What is the measure of each angle in an equilateral triangle?",
-          "question_sha256": "cc53f1cd08dd511cf434699849ea7cec6b7ecebcf88e7aee8c369caa304d43eb",
+          "question_text": "What is the measure of each angle in an equilateral triangle? Enter only the angle measure in degrees.",
+          "question_sha256": "de46849cbc58e96b54b2fff26894a58464443b5a0ec1fac0dd26e393e135285c",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371333,8 +371333,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "A triangle has exterior angle 125 degrees and one remote interior angle 52 degrees. Find the other remote interior angle.",
-          "question_sha256": "a17d821e4d85a9ec04b57f124f53199b4c2571d4822c2506a093ebe58d374a0c",
+          "question_text": "A triangle has exterior angle 125 degrees and one remote interior angle 52 degrees. Find the other remote interior angle. Enter only the angle measure in degrees.",
+          "question_sha256": "8bd0e1aeef027c93ab8cf6ce380b0d5d3be762eb38032d113a17c744ea8eaa3e",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371352,8 +371352,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "In an isosceles triangle the vertex angle is twice each base angle. Find one base angle.",
-          "question_sha256": "4326b0ec808e14b640130b60bb7556cb2deab4e9c4a809c8213ec1406ae7521e",
+          "question_text": "In an isosceles triangle the vertex angle is twice each base angle. Find one base angle. Enter only the angle measure in degrees.",
+          "question_sha256": "9a34b0dbc14ca30673fdbddb9e04bed3595a42cd71370dea707aadc147f5b8f4",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371371,8 +371371,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "A transversal crosses two parallel lines. If one alternate interior angle is 68 degrees what is the other alternate interior angle?",
-          "question_sha256": "a03624da3320ba6bcfaf62bb9a3a91a8ee5f144c0dd8273c3c9363e582c6beb7",
+          "question_text": "A transversal crosses two parallel lines. If one alternate interior angle is 68 degrees what is the other alternate interior angle? Enter only the angle measure in degrees.",
+          "question_sha256": "599a31a125a1a37a6cd98b3c366ca1ee3ad45751134f4e446674eb8ba4f102ff",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371402,8 +371402,8 @@
       "unit_topic": "Congruence",
       "problems": {
         "1": {
-          "question_text": "What is the sum of the interior angle measures of any triangle?",
-          "question_sha256": "92a7791313b4c231bba69c2a023919166c365295b8943b9331399df8e417ccff",
+          "question_text": "What is the sum of the interior angle measures of any triangle? Enter only the angle measure in degrees.",
+          "question_sha256": "8ca78e8354b674627886826c7a85cd008ff5936688bb3740dcc9a29c7a15c20f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371421,8 +371421,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "A triangle has angles 42 degrees and 77 degrees. Find the third angle.",
-          "question_sha256": "9f7d09c97096a494d44f62927fce22a7f0ba960d4e7689b23118bb6c2185925e",
+          "question_text": "A triangle has angles 42 degrees and 77 degrees. Find the third angle. Enter only the angle measure in degrees.",
+          "question_sha256": "84bf0986f5414418667050ed73e964cd4da18081563a4a5bc01abea2071ed669",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371440,8 +371440,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "An isosceles triangle has a vertex angle of 50 degrees. Find each base angle.",
-          "question_sha256": "2ab05e909c48c51bb99a7187374f04e4745dd55f2ec0d37c5a3382c8388577b6",
+          "question_text": "An isosceles triangle has a vertex angle of 50 degrees. Find each base angle. Enter only the angle measure in degrees.",
+          "question_sha256": "1f827a039288c486515d9d258b277b0a5b9ac457734c046078b45bc0c7501e5d",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371459,8 +371459,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "An isosceles triangle has a base angle of 62 degrees. Find the vertex angle.",
-          "question_sha256": "a092389d077ce394daeaff4a2bf74c993b8b755b0f8a973bf0f2d9416f7e4123",
+          "question_text": "An isosceles triangle has a base angle of 62 degrees. Find the vertex angle. Enter only the angle measure in degrees.",
+          "question_sha256": "16689b20baceecc30a23fcd33bf2b2b8377af3f97f1ca4b5416191cc2e01a702",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371478,8 +371478,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Each angle of an equilateral triangle measures how many degrees?",
-          "question_sha256": "7279d6aa233befa5b9e0482bb684f0fbbaa092e8e4878867e15d4679e2b52426",
+          "question_text": "Each angle of an equilateral triangle measures how many degrees? Enter only the angle measure in degrees.",
+          "question_sha256": "9508a2d39dedffc734fc0b544ab039555e8c6905328dfb2ae7475fba74473234",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371509,8 +371509,8 @@
       "unit_topic": "Congruence",
       "problems": {
         "1": {
-          "question_text": "A triangle has angles 90 degrees and 33 degrees. Find the third angle.",
-          "question_sha256": "888590a1e8e25ccade000eb6cfaa0a3be9531214a0c0c8bd2a1dd2917858523c",
+          "question_text": "A triangle has angles 90 degrees and 33 degrees. Find the third angle. Enter only the angle measure in degrees.",
+          "question_sha256": "7ade968d56cc05bc75b4cec314b5b6556cac77360725375dd0cb5745189e494b",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371528,8 +371528,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "An isosceles triangle has a vertex angle of 100 degrees. Find each base angle.",
-          "question_sha256": "b8810dc6cb70b624f68478c1daf569fe6d0dcf767f43755ba473cc374cb15dc1",
+          "question_text": "An isosceles triangle has a vertex angle of 100 degrees. Find each base angle. Enter only the angle measure in degrees.",
+          "question_sha256": "9f7eb4245e555a2eb6f3a72d98c2305efa2e3d424c5ef90a8fac0e45d4325bd2",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371547,8 +371547,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "An isosceles triangle has a base angle of 45 degrees. Find the vertex angle.",
-          "question_sha256": "859e69f3109d38c2254191e6c1bf9c02f41f7002a0e630f2aa477b2054080b39",
+          "question_text": "An isosceles triangle has a base angle of 45 degrees. Find the vertex angle. Enter only the angle measure in degrees.",
+          "question_sha256": "d48960cb439aca816c3b26743d122796c59290d16404f75a6b1d1bd4f4b63bc7",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371585,8 +371585,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "An exterior angle of a triangle equals the sum of which angles?",
-          "question_sha256": "5653c59193288906326823ded734ea9822c9b9bab9170f6bc88f2254cd9276bc",
+          "question_text": "Select. An exterior angle of a triangle equals the sum of which angles? ~~One adjacent and one remote interior angle | The two remote interior angles | All three interior angles~~",
+          "question_sha256": "573a053c51742a1db3ef98811db3497e7f7fc0b312a72c4a82537f29f7ec3640",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371616,8 +371616,8 @@
       "unit_topic": "Congruence",
       "problems": {
         "1": {
-          "question_text": "What can be concluded about opposite sides of a parallelogram?",
-          "question_sha256": "b07e174aba24abaf4399e22bf9aa03c1952889c3c66c3a1eba6109cd741f53c1",
+          "question_text": "Select. What can be concluded about opposite sides of a parallelogram? ~~No relationship is guaranteed | They are congruent | They must have different measures~~",
+          "question_sha256": "843d38cc5d0fb837a9c66290f901027b63404ac58d569f8f6fbf6b304c444905",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371635,8 +371635,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "What do the diagonals of a parallelogram do to each other?",
-          "question_sha256": "1544fad071a8dd7d588b71f2305102c7bfef9fb64e00b556c4fe870ffd2ab586",
+          "question_text": "Select. What do the diagonals of a parallelogram do to each other? ~~They bisect each other | They are always perpendicular | They always have equal lengths~~",
+          "question_sha256": "55be881152104219b70b62e3109db953a9722f2a5e48b02b54a7e5ec8b7949da",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371654,8 +371654,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "What can be concluded about opposite angles of a parallelogram?",
-          "question_sha256": "dc7efc237eb8464a4bc69049a5949e49a7e3af2f917a5392a2034c3ad4ee82b2",
+          "question_text": "Select. What can be concluded about opposite angles of a parallelogram? ~~They are congruent | They must have different measures | No relationship is guaranteed~~",
+          "question_sha256": "85d21612987cf5b2f4d8079a4e64a6f5b2a931a7cec6d06276f67d4e14bf4ab2",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371711,8 +371711,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "In a rhombus how do the diagonals intersect?",
-          "question_sha256": "ed420be197b4730ae3ef7df1bc082d648fc49ed9f962092e1550ca815efac98f",
+          "question_text": "Select. In a rhombus how do the diagonals intersect? ~~At right angles | At 30-degree angles | At 60-degree angles~~",
+          "question_sha256": "806eea6cea0c107326dd8b481ae6f913ab99d9d96f8eb9890b80af24b28654d5",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371818,8 +371818,8 @@
       "unit_topic": "Congruence",
       "problems": {
         "1": {
-          "question_text": "What can be concluded about opposite sides of a parallelogram?",
-          "question_sha256": "b07e174aba24abaf4399e22bf9aa03c1952889c3c66c3a1eba6109cd741f53c1",
+          "question_text": "Select. What can be concluded about opposite sides of a parallelogram? ~~They must have different measures | No relationship is guaranteed | They are congruent~~",
+          "question_sha256": "745d67c889333bb760772e8c8a3bd6414b00dadafe6683a07121e677299d2bf4",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371837,8 +371837,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "What do the diagonals of a parallelogram do to each other?",
-          "question_sha256": "1544fad071a8dd7d588b71f2305102c7bfef9fb64e00b556c4fe870ffd2ab586",
+          "question_text": "Select. What do the diagonals of a parallelogram do to each other? ~~They are always perpendicular | They always have equal lengths | They bisect each other~~",
+          "question_sha256": "bdcd4c2fee47064eb31ca8518cdfe05f465e9e90566c56bfef63f5e7d8ce749f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371856,8 +371856,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "What can be concluded about opposite angles of a parallelogram?",
-          "question_sha256": "dc7efc237eb8464a4bc69049a5949e49a7e3af2f917a5392a2034c3ad4ee82b2",
+          "question_text": "Select. What can be concluded about opposite angles of a parallelogram? ~~They must have different measures | No relationship is guaranteed | They are congruent~~",
+          "question_sha256": "b1be3cfd6986108ca92e7647d9caebbb04cb7dbdb781a6bbdd55534d7b0f57d6",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371875,8 +371875,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Two consecutive angles of a parallelogram measure x and 110 degrees. Find x.",
-          "question_sha256": "69ffe8f0ec1612421680de4c4657606a9fe1d356566ed953a4f488193062070a",
+          "question_text": "Two consecutive angles of a parallelogram measure x and 110 degrees. Find x. Enter only the angle measure in degrees.",
+          "question_sha256": "2c9dfc264869b0c1bc0dff8e3accdde381d27de2299f6830b514b3fe0891aa28",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371894,8 +371894,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "One angle of a parallelogram measures 65 degrees. What is the measure of its opposite angle?",
-          "question_sha256": "0a8a755d0d9f3e5fe4cb8b3ba8ca4f96401d47823a0c9e57c41ab9c0aa61842e",
+          "question_text": "One angle of a parallelogram measures 65 degrees. What is the measure of its opposite angle? Enter only the angle measure in degrees.",
+          "question_sha256": "e014a6cc5b9ab10d08fbaa3a9d2b68ab11960f7fc57e7d6dc0d77a6edacb4323",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -371963,8 +371963,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "In parallelogram ABCD, angle A = 118 degrees. Find angle B.",
-          "question_sha256": "296785de43486f8f25775bda00f1b7c66b974c9546947ef25cc72a007f2aa2bb",
+          "question_text": "In parallelogram ABCD, angle A = 118 degrees. Find angle B. Enter only the angle measure in degrees.",
+          "question_sha256": "951630c5e0a4970cc743580f983e8da9f36eb9067ad9a34e7637bd0d6db2c2f4",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372001,8 +372001,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "In parallelogram ABCD, angle A = 75 degrees. Find angle C.",
-          "question_sha256": "b6e5182e93e6b95595500d6a7f0c2c7b3570dc8659a76e0d7e5f3c6bb00d6661",
+          "question_text": "In parallelogram ABCD, angle A = 75 degrees. Find angle C. Enter only the angle measure in degrees.",
+          "question_sha256": "aea0814818a32eff4a8a40fb6472efbc922bceb06afded48f7b3b151fdb74748",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372032,8 +372032,8 @@
       "unit_topic": "Congruence",
       "problems": {
         "1": {
-          "question_text": "Two triangles share side AB. Which property justifies AB = AB?",
-          "question_sha256": "23714b14feb0abbc8cf957ec16bcda4d9694499e39015796c32814c048ad7c95",
+          "question_text": "Select. Two triangles share side AB. Which property justifies AB = AB? ~~Symmetric property | Transitive property | Reflexive property~~",
+          "question_sha256": "ea1faa808015dbc9502821abc3b8c49cbe043d29b4842fa9454bbb325acdb392",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372051,8 +372051,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "Two intersecting lines create a pair of vertical angles used in a triangle proof. Why are those angles congruent?",
-          "question_sha256": "4e1556612239424f18e620ee4e503d58cdb734d02c370c8e42974d1dfbc03ba1",
+          "question_text": "Select. Two intersecting lines create a pair of vertical angles used in a triangle proof. Why are those angles congruent? ~~Vertical angles theorem | Triangle angle-sum theorem | Pythagorean theorem~~",
+          "question_sha256": "fbbf1e9a7b91231583fa03773e8a477b23513075b592123dee63257887715275",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372070,8 +372070,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "Point M is the midpoint of AB. What relationship follows?",
-          "question_sha256": "92913f78ae89f90d8289660af6b1d18b238bf7dfb34ff9b6a81147be63cac436",
+          "question_text": "Select. Point M is the midpoint of AB. What relationship follows? ~~AM = AB | MB = AB | AM = MB~~",
+          "question_sha256": "c456ec1e4d009bdf0d2b8b8794930edc4532c57330deb06bc46fc2cd2c84c1ee",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372089,8 +372089,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Two lines are perpendicular. What type of angles do they form?",
-          "question_sha256": "9da5da8e0b318804d0a6b8f634a06c051753ff7bc9bc53e8c7fdb248bcede6eb",
+          "question_text": "Select. Two lines are perpendicular. What type of angles do they form? ~~Acute angles | Obtuse angles | Right angles~~",
+          "question_sha256": "511b793689bff3561e7e4b560683855ce6037615e3a5cdb2b940588d5f1a0b07",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372108,8 +372108,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "All radii of the same circle have what relationship?",
-          "question_sha256": "a0d41326c72a9deae2db88004e32702e3ddf903b4ff1afefe97e1fe40fb78b68",
+          "question_text": "Select. All radii of the same circle have what relationship? ~~They are congruent | They must have different measures | No relationship is guaranteed~~",
+          "question_sha256": "2536755655b12bda6366415529a4fd20091882afc850fff43668e2b9c27b68c6",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372127,8 +372127,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "Two triangles have two corresponding side pairs congruent, and the included angle in each triangle measures 50 degrees. Which congruence criterion applies?",
-          "question_sha256": "c4fd4424c4b5c134cae15e4eee7fbd70f4fe669e83890fddb39174de9f9f4511",
+          "question_text": "Select. Two triangles have two corresponding side pairs congruent, and the included angle in each triangle measures 50 degrees. Which congruence criterion applies? ~~SSS | SAS | ASA | AAS | HL~~",
+          "question_sha256": "c97cdfb65ec6153e04a749010aaa781b7914f3afb83da73f3dce1a58525327ee",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372184,8 +372184,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "A square's diagonal divides a 90-degree vertex angle into two congruent angles. Find each angle.",
-          "question_sha256": "55a26b193d9031d0135b9d1a644fa5b77c94f94d2a0d38f625edc0278043f866",
+          "question_text": "A square's diagonal divides a 90-degree vertex angle into two congruent angles. Find each angle. Enter only the angle measure in degrees.",
+          "question_sha256": "c16fe934010f20c2cb32ee21fa9a544e69ce1bff596bbf4fc60a59c2367a9261",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372234,8 +372234,8 @@
       "unit_topic": "Congruence",
       "problems": {
         "1": {
-          "question_text": "Two triangles share side PQ. Which property justifies PQ = PQ?",
-          "question_sha256": "914b2b7eb7143e8ffcd08f2e7c76a2b67a225adc69d4ec3fe3f9ce15957734a9",
+          "question_text": "Select. Two triangles share side PQ. Which property justifies PQ = PQ? ~~Reflexive property | Symmetric property | Transitive property~~",
+          "question_sha256": "3ad6ce37c257d61ddc9b244d37e90c103cd964bde8fb61d4f223586b5e496c55",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372253,8 +372253,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "Two intersecting lines create a pair of vertical angles. Why are those angles congruent?",
-          "question_sha256": "5cb34b1815f637631554f07d89f312c0dcc6ed4e67e1c700fde6904ad523186c",
+          "question_text": "Select. Two intersecting lines create a pair of vertical angles. Why are those angles congruent? ~~Pythagorean theorem | Vertical angles theorem | Triangle angle-sum theorem~~",
+          "question_sha256": "a643a1a4032ce5cc9bbb5de51e24119ef0497092cb8f027283d354a525029139",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372272,8 +372272,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "Point M is the midpoint of XY. What relationship follows?",
-          "question_sha256": "1b9f80b80e26f081e9531ee649834431b0a51c55710db1caaa6bf1d0b3c3f8b4",
+          "question_text": "Select. Point M is the midpoint of XY. What relationship follows? ~~XM = XY | MY = XY | XM = MY~~",
+          "question_sha256": "ca734ce3b90e414d2c035381ccc3bcb08eadf0b76973bbda1a19f10b0ec39c85",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372291,8 +372291,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Two lines are perpendicular. What type of angles do they form?",
-          "question_sha256": "9da5da8e0b318804d0a6b8f634a06c051753ff7bc9bc53e8c7fdb248bcede6eb",
+          "question_text": "Select. Two lines are perpendicular. What type of angles do they form? ~~Obtuse angles | Right angles | Acute angles~~",
+          "question_sha256": "40a0cc69de9cfe228a6e87b3c31983a465ccda4928a85db36a2d5f6a8744ae3a",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372310,8 +372310,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Ray BD bisects angle ABC. What relationship follows?",
-          "question_sha256": "667a63dae6a99d30250ce29192950d0e79bc76d55b3f58513c7bb1f3b1aa5e70",
+          "question_text": "Select. Ray BD bisects angle ABC. What relationship follows? ~~Angle DBC = angle ABC | Angle ABD = angle DBC | Angle ABD = angle ABC~~",
+          "question_sha256": "6a39c9d110c08180efaae224cc67e4a9c761697721a18c3e202423d5f6238b96",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372341,8 +372341,8 @@
       "unit_topic": "Congruence",
       "problems": {
         "1": {
-          "question_text": "In a proof, segment AC is shared by triangles ABC and ACD. Which property lets you write AC = AC?",
-          "question_sha256": "67bbe77b2c546136353d82a7b94d8d4e084662fd3194dd72e686213698171f5c",
+          "question_text": "Select. In a proof, segment AC is shared by triangles ABC and ACD. Which property lets you write AC = AC? ~~Transitive property | Reflexive property | Symmetric property~~",
+          "question_sha256": "e67b85594e0494b793ebfa8768064b29635e14b72e459b66cb687b3909b6a9b3",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372360,8 +372360,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "Two angles are both supplementary to the same angle. What can be concluded about them?",
-          "question_sha256": "3622d35466f52db83fff038188a3bc607e2babc12418e8ff9eae964f3c143e2e",
+          "question_text": "Select. Two angles are both supplementary to the same angle. What can be concluded about them? ~~They are congruent | They must have different measures | No relationship is guaranteed~~",
+          "question_sha256": "aaea7a95405cdb0e0e63987a05f99176eee36a28a6bf28da542be96312d1cd4e",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372398,8 +372398,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Ray QS bisects angle PQR, and angle PQR = 84 degrees. Find angle PQS.",
-          "question_sha256": "fb60db7a78e3efc047aea9960fea778d02808c46545aa1d50f495de36db281df",
+          "question_text": "Ray QS bisects angle PQR, and angle PQR = 84 degrees. Find angle PQS. Enter only the angle measure in degrees.",
+          "question_sha256": "57d64dcadd5c5aebe7a320ea6a89a133b4c74eeb54870701ce51d1b7d5665f3e",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372417,8 +372417,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "After proving two triangles congruent, which abbreviation justifies that their corresponding remaining parts are congruent?",
-          "question_sha256": "da104f26fc2a34db474dd69acaef477c145951ef8296b3b555c28873502029e5",
+          "question_text": "Select. After proving two triangles congruent, which abbreviation justifies that their corresponding remaining parts are congruent? ~~SAS | CPCTC | SSS~~",
+          "question_sha256": "3196b03835a0f728363e7e922ee99586249ef928090e59aed6a5b1bce35d1f35",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372448,8 +372448,8 @@
       "unit_topic": "Congruence",
       "problems": {
         "1": {
-          "question_text": "Which two classical tools are used in straightedge-and-compass constructions?",
-          "question_sha256": "8442243c1f9debd0b811ad8e1412b178463b7dcd1675f9300ec35d57d761210a",
+          "question_text": "Select. Which two classical tools are used in straightedge-and-compass constructions? ~~Compass and unmarked straightedge | Protractor and marked ruler | Compass and protractor~~",
+          "question_sha256": "9444d43fab216a6848ba2a9efba3b610d23fc9dae10174ae9e0889e121f26c99",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372467,8 +372467,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "When copying an angle, what compass setting must be kept unchanged when drawing the matching vertex-centered arc at the new vertex?",
-          "question_sha256": "ee63620d1fba45d4b67d35468df060f94fdcbd3a213963082eb66ad5c575d1a1",
+          "question_text": "Select. When copying an angle, what compass setting must be kept unchanged when drawing the matching vertex-centered arc at the new vertex? ~~Compass width | Arc length | Distance between the two vertices~~",
+          "question_sha256": "e63fb7388177dacc4822c3c5ad25cfc40cd949dfeda47332ea9d36bdc03351b4",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372486,8 +372486,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "To construct a line parallel to a given line through an outside point which angle can be copied?",
-          "question_sha256": "ac98ad1a7e15295ac461ae21bdcc57e8bc9735d789932879a2b62acb62295489",
+          "question_text": "Select. To construct a line parallel to a given line through an outside point which angle can be copied? ~~Twice a corresponding angle | Half a corresponding angle | A corresponding angle~~",
+          "question_sha256": "99824f89a876f9e1d9dd1df0addd05716b6ec0e2306218318505e3476b33564d",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372505,8 +372505,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Points on a perpendicular bisector are equidistant from which two points?",
-          "question_sha256": "c95b0fcf77b1982a4a4283f27bfb825dae08d360cbcf2e9d6fea9f82d613b52a",
+          "question_text": "Select. Points on a perpendicular bisector are equidistant from which two points? ~~The midpoint and one endpoint | Any two points on the segment | The two endpoints of the segment~~",
+          "question_sha256": "e7f73aadb2e2bba105015fcc7e9884e2a2f20f8d141a9cb0c85d15833c99ab6c",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372524,8 +372524,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "A perpendicular bisector crosses its segment at what kind of point?",
-          "question_sha256": "3d55db74d0f417110b121a19059b1b6380f809455d4b9906e8346af8ea901c2e",
+          "question_text": "Select. A perpendicular bisector crosses its segment at what kind of point? ~~Either endpoint | Any point on the segment | Midpoint~~",
+          "question_sha256": "3b7b0fc3753cb026639e6e5fa772a8efcec1495017588cbee29d77db729c460e",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372543,8 +372543,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "What angle does a perpendicular line make with the original line?",
-          "question_sha256": "ffe346d31482e0598246abe72f48c1a44fef2faa736fa19421c16511d8e09ac1",
+          "question_text": "What angle does a perpendicular line make with the original line? Enter only the angle measure in degrees.",
+          "question_sha256": "8f966753f708027f48c632efadd5870e0d59c1404d88afc56aaae5cad5b932c3",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372581,8 +372581,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "To construct a perpendicular through a point off a line what is first drawn from the point to meet the line twice?",
-          "question_sha256": "ab5cb186f4cb9c0ac3b8c3df7f6619200e8bd1326c83ea049708113fcfb101bb",
+          "question_text": "Select. To construct a perpendicular through a point off a line what is first drawn from the point to meet the line twice? ~~A parallel line through the outside point | An arc centered at the outside point | An arc centered on the given line~~",
+          "question_sha256": "27c64fc62973fda09420604513b002fc93efe019ebcd386f67fb362153ee7fcb",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372600,8 +372600,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "An angle bisector divides a 74-degree angle into two angles of what measure?",
-          "question_sha256": "c1092513ab382a567196dd631ef46d8b37ee74b632bcfc91e412fbb08df94adc",
+          "question_text": "An angle bisector divides a 74-degree angle into two angles of what measure? Enter only the angle measure in degrees.",
+          "question_sha256": "a76a090f87ddf7713523562b0e12e62ee8e573f41b9bc2ced521233f2e307f9c",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372619,8 +372619,8 @@
           "requires_source_visual": false
         },
         "10": {
-          "question_text": "After constructing an angle bisector what relationship should the two smaller angles have?",
-          "question_sha256": "02e420352eacbabbbcdc826908252f4e0b3fc47a0bafadad92c3591da106f69e",
+          "question_text": "Select. After constructing an angle bisector what relationship should the two smaller angles have? ~~No relationship is guaranteed | They are congruent | They must have different measures~~",
+          "question_sha256": "eb6f973db32dc70108d139e31dc6af5e3aed0ed963fee1e573ee0a4a562cf907",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372650,8 +372650,8 @@
       "unit_topic": "Congruence",
       "problems": {
         "1": {
-          "question_text": "Which two classical tools are used in straightedge-and-compass constructions?",
-          "question_sha256": "8442243c1f9debd0b811ad8e1412b178463b7dcd1675f9300ec35d57d761210a",
+          "question_text": "Select. Which two classical tools are used in straightedge-and-compass constructions? ~~Compass and unmarked straightedge | Protractor and marked ruler | Compass and protractor~~",
+          "question_sha256": "9444d43fab216a6848ba2a9efba3b610d23fc9dae10174ae9e0889e121f26c99",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372669,8 +372669,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "When copying an angle, what compass setting must be kept unchanged when drawing the matching vertex-centered arc at the new vertex?",
-          "question_sha256": "ee63620d1fba45d4b67d35468df060f94fdcbd3a213963082eb66ad5c575d1a1",
+          "question_text": "Select. When copying an angle, what compass setting must be kept unchanged when drawing the matching vertex-centered arc at the new vertex? ~~Distance between the two vertices | Compass width | Arc length~~",
+          "question_sha256": "af503104ba0db2215a2b65dbe2c89190afd66e926cb9cd091f14ead8b7467c89",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372688,8 +372688,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "To construct a line parallel to a given line through an outside point, which angle can be copied?",
-          "question_sha256": "fb5f11c8a9061bdbd47d23b03b10ca5e8aa57c3f9008a0a04a95c0daf23dbd27",
+          "question_text": "Select. To construct a line parallel to a given line through an outside point, which angle can be copied? ~~A corresponding angle | Twice a corresponding angle | Half a corresponding angle~~",
+          "question_sha256": "591f5d302cf35bfa22e3ee1c913f86714b8668ba415eb4398d895d6f9d1e84b9",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372707,8 +372707,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "The perpendicular bisector of a segment passes through which special point of the segment?",
-          "question_sha256": "466a9fe8767817379c221e84da2dd20d93a9e9153fdfc267050fc699d43d0e70",
+          "question_text": "Select. The perpendicular bisector of a segment passes through which special point of the segment? ~~Midpoint | Either endpoint | Any point on the segment~~",
+          "question_sha256": "86a2a1063dc2a09a987c1b6ed088f97a8a9edc68f615ae22f7a2910c03545440",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372726,8 +372726,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Every point on the perpendicular bisector of AB is equidistant from which two points?",
-          "question_sha256": "b181319ef8995a5195afcaaab40ffa75ad2702c2e2ec36eb08c363b29f89f8c1",
+          "question_text": "Select. Every point on the perpendicular bisector of AB is equidistant from which two points? ~~B and the midpoint of AB | A and B | A and the midpoint of AB~~",
+          "question_sha256": "a2be13e199a04fdc317c2cbfec8b236cf587e949e76349acc13ced080424a9a1",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372757,8 +372757,8 @@
       "unit_topic": "Congruence",
       "problems": {
         "1": {
-          "question_text": "In constructions, what does the compass draw?",
-          "question_sha256": "5bd0a1ad2ae9ef13bd216effffbc88617b2bc746fab6ce10a616da85fa502357",
+          "question_text": "Select. In constructions, what does the compass draw? ~~Parallel line pairs only | Arcs and circles | Straight lines only~~",
+          "question_sha256": "0d1b30c4ef314c839ed2cab0bb9f0c29214b2cd136eaa3f8aaa85c502671ce59",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372776,8 +372776,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "In constructions, what does the straightedge draw?",
-          "question_sha256": "d136a98afbaeb7dd70b082e5841a0f5d325cf99ebdd33e159b7331750dafb549",
+          "question_text": "Select. In constructions, what does the straightedge draw? ~~Circles and arcs | Curves of any shape | Straight lines and segments~~",
+          "question_sha256": "c5d482acece10da928e9e2510e1c80aba77400413034a156dc7b334e360d23c2",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372795,8 +372795,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "A point lies on the internal bisector of an angle between 0 and 180 degrees. It is equidistant from which parts of the angle?",
-          "question_sha256": "f61b2e38e653e6307e21c837ec1e3ea961644e12db9ef36974035e181d7fdf63",
+          "question_text": "Select. A point lies on the internal bisector of an angle between 0 and 180 degrees. It is equidistant from which parts of the angle? ~~The vertex and one side | Any two points on the sides | The two sides of the angle~~",
+          "question_sha256": "cb1b60966e5609cd747ea0a7d62f11cc114a84ea6a7910c871e35b7e14b11ba0",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372814,8 +372814,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "To bisect segment AB with a compass, arcs of equal radius are drawn from A and B. The radius must be larger than what?",
-          "question_sha256": "c52885a14202b2e4de31991bdd9e077cb7af689ffb17e42d873818658407c243",
+          "question_text": "Select. To bisect segment AB with a compass, arcs of equal radius are drawn from A and B. The radius must be larger than what? ~~Twice the length of AB | Half the length of AB | The full length of AB~~",
+          "question_sha256": "0c62736d52dd98f97c41e05263ba6aec19ef5aa002f3cb85ab60b05f45796ba7",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -372833,8 +372833,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "A constructed perpendicular bisector of AB meets AB at what angle?",
-          "question_sha256": "3006618c630b17a68ab52a5333d2008d74d178e3090907f43a6efda337fd3def",
+          "question_text": "A constructed perpendicular bisector of AB meets AB at what angle? Enter only the angle measure in degrees.",
+          "question_sha256": "eedec1f49ecffbbe71ee042857f3c0ddaa5acab564aec159f06037c081838148",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -373016,8 +373016,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "A centroid divides each median in what ratio measured from the vertex?",
-          "question_sha256": "4e3277f8045fa7f97ff0b9f8e097f4018ef4a4f74117298becc2b19be4c32cd6",
+          "question_text": "Select. A centroid divides each median in what ratio measured from the vertex? ~~1:2 | 1:1 | 2:1~~",
+          "question_sha256": "355b7660722ae67f0fee9c6d3ac18f6e9750b6032dfbd32b391e0c70dd2ac340",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -373375,8 +373375,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "Is point (1, 2) inside, on, or outside the circle x^2 + y^2 = 16?",
-          "question_sha256": "b047f3c474c2391f39e4d1d1082d291bffe2273bb3c1b21955f7b63ced5a8c5f",
+          "question_text": "Select. Is point (1, 2) inside, on, or outside the circle x^2 + y^2 = 16? ~~Inside | On the circle | Outside~~",
+          "question_sha256": "85a5f2e1427f6175a775540396577d816c5a32277d20ad878dbdc53ff4203b8c",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -373394,8 +373394,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "Is point (5, 0) inside, on, or outside the circle x^2 + y^2 = 16?",
-          "question_sha256": "d449631cc6f7c1ba4a6e5d7689cbe5d2862771438d05b189f523ef1a3d427604",
+          "question_text": "Select. Is point (5, 0) inside, on, or outside the circle x^2 + y^2 = 16? ~~Inside | On the circle | Outside~~",
+          "question_sha256": "a141c8c5c80603ce5b16c0c03ee2a7ce2dd622915adcc23fc7380676866bb9ae",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -373646,8 +373646,8 @@
           "requires_source_visual": false
         },
         "4": {
-          "question_text": "Is the point (1, 1) inside, on, or outside the circle x^2 + y^2 = 25?",
-          "question_sha256": "85951698abc1c501799c0163f33633a76634cfc852b42984f72fbc4c150893f8",
+          "question_text": "Select. Is the point (1, 1) inside, on, or outside the circle x^2 + y^2 = 25? ~~Outside | Inside | On the circle~~",
+          "question_sha256": "9340b782f79ca0b9d2a55dbf4307f95afbc22c767e29a56b7694e4bed76d04f9",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -373715,8 +373715,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "What relationship do the slopes of distinct nonvertical parallel lines have?",
-          "question_sha256": "d3c14885694aa09fafc4d369972bd5fd51af2148fa3690b178cda4dd43c0f433",
+          "question_text": "Select. What relationship do the slopes of distinct nonvertical parallel lines have? ~~Their relationship cannot be determined | They are equal | They are unequal~~",
+          "question_sha256": "aa780b315042fd3cd66cfdafe05c91f42170260ff980f236b61b29774e51fb60",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -373734,8 +373734,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "What relationship do the slopes of nonvertical nonhorizontal perpendicular lines have?",
-          "question_sha256": "9b746ceffb4b04cb7bd02f0f7b56ac809c9d0d1dd7c51e0d617f8cd277fcffdc",
+          "question_text": "Select. What relationship do the slopes of nonvertical nonhorizontal perpendicular lines have? ~~They are positive reciprocals | They are negative reciprocals | They are equal~~",
+          "question_sha256": "70472117e6acd3b2f668625d8ce539636f83dff884d2b53410b646740a9b0ba5",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -373772,8 +373772,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "A horizontal line is perpendicular to what type of line?",
-          "question_sha256": "b1d4659b693c4418009e76d50dd628b93048d126ba9ae0d582baf3db26be3aa7",
+          "question_text": "Select. A horizontal line is perpendicular to what type of line? ~~Line with slope 1 | Vertical line | Horizontal line~~",
+          "question_sha256": "b87b1172006b5c74472620defe843dd366b8eb4a64b8616fb8a9b70f58842ec7",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -373791,8 +373791,8 @@
           "requires_source_visual": false
         },
         "6": {
-          "question_text": "A quadrilateral has two pairs of opposite sides parallel. What broad type of quadrilateral is it?",
-          "question_sha256": "51e41304d5f0846f1896c427cfca437017de717332c0fe154b3bf94fdf3cbc1f",
+          "question_text": "Select. A quadrilateral has two pairs of opposite sides parallel. What broad type of quadrilateral is it? ~~Triangle | Trapezoid with exactly one parallel pair | Parallelogram~~",
+          "question_sha256": "241ed9da50e2607713818f557b55935081dd0f516361959d99b2088c045f7c68",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -373810,8 +373810,8 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "A parallelogram has four right angles. What more specific classification always applies?",
-          "question_sha256": "96b46fa67baedb4db445698f0ab43d36b784a0c86cc00a36913f5f2190bbdad5",
+          "question_text": "Select. A parallelogram has four right angles. What more specific classification always applies? ~~Square | Triangle | Rectangle~~",
+          "question_sha256": "2e050c0966bf58dd421898ac32e1c1f95e21079b3890b71ae85c9728ed1422cb",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -373829,8 +373829,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "A rectangle has four congruent sides. What more specific classification applies?",
-          "question_sha256": "d9b672fbdeb09b8162da455e15a1d091039febbec97a7cc9efc55a4aa7e64ea4",
+          "question_text": "Select. A rectangle has four congruent sides. What more specific classification applies? ~~Triangle | Square | Nonsquare rectangle~~",
+          "question_sha256": "e18e2baeb8a66b2df817262c2d4f03125b2b08ebc49c05a92280d29344b52073",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -373848,8 +373848,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "A quadrilateral has exactly one pair of parallel sides. What is it?",
-          "question_sha256": "23f73388617b7c4b871029c2990e39e75541ab52f166803a32cd7851da1f4b63",
+          "question_text": "Select. A quadrilateral has exactly one pair of parallel sides. What is it? ~~Parallelogram | Triangle | Trapezoid~~",
+          "question_sha256": "5323e4be0778ebf111d65b8ea548a6437a37a06ad1efa7c4cdb6741041895124",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -373917,8 +373917,8 @@
           "requires_source_visual": false
         },
         "2": {
-          "question_text": "What relationship do the slopes of distinct nonvertical parallel lines have?",
-          "question_sha256": "d3c14885694aa09fafc4d369972bd5fd51af2148fa3690b178cda4dd43c0f433",
+          "question_text": "Select. What relationship do the slopes of distinct nonvertical parallel lines have? ~~Their relationship cannot be determined | They are equal | They are unequal~~",
+          "question_sha256": "aa780b315042fd3cd66cfdafe05c91f42170260ff980f236b61b29774e51fb60",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -373936,8 +373936,8 @@
           "requires_source_visual": false
         },
         "3": {
-          "question_text": "What relationship do the slopes of nonvertical, nonhorizontal perpendicular lines have?",
-          "question_sha256": "ed75596f9f9969ad2faa50dd387d4bb45526ac6e6cb78920a9f819c4b141f938",
+          "question_text": "Select. What relationship do the slopes of nonvertical, nonhorizontal perpendicular lines have? ~~They are equal | They are positive reciprocals | They are negative reciprocals~~",
+          "question_sha256": "bb5391a8ace078407246da5c259e44ea67f26b85c93fb0ecdf5f5a325a1ba5bb",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -373974,8 +373974,8 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "A horizontal line is perpendicular to what type of line?",
-          "question_sha256": "b1d4659b693c4418009e76d50dd628b93048d126ba9ae0d582baf3db26be3aa7",
+          "question_text": "Select. A horizontal line is perpendicular to what type of line? ~~Vertical line | Horizontal line | Line with slope 1~~",
+          "question_sha256": "22b7503dc09a76a1b33ea0a4f4e62d518c9fe31f7a4e21aeb6b85095ac74904e",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -374661,8 +374661,8 @@
           "requires_source_visual": false
         },
         "8": {
-          "question_text": "A line has undefined slope. What is the slope of a perpendicular line?",
-          "question_sha256": "8d790c1fe7056bbc36dbff3fbd3e470768dbcc3c383f5a4eeadeaf90faeea80c",
+          "question_text": "A line has undefined slope. What is the slope of a perpendicular line? Enter only the number.",
+          "question_sha256": "35d4846feb548ceb5d021a0f9f8c9182576dbd6a9b90980fe0e53360023d6b9f",
           "mapping_status": "reviewed",
           "video_links": [
             {
@@ -374680,8 +374680,8 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "Why do nonvertical nonhorizontal perpendicular slopes multiply to -1?",
-          "question_sha256": "bf06a796b0b5ac82d620c8e50750d867cccaf6ca06244e91d42857533c4215be",
+          "question_text": "Select. Why do nonvertical nonhorizontal perpendicular slopes multiply to -1? ~~They are equal | They are positive reciprocals | They are negative reciprocals~~",
+          "question_sha256": "cd1fd554e3d3cd60526ba094dec523411c120ede0b34d1c6d1f6a6d022cfd922",
           "mapping_status": "reviewed",
           "video_links": [
             {

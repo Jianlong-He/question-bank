@@ -11854,7 +11854,7 @@
       "source_csv": "worksheets/Grade 9/G9Unit 14/G9U14W3Rev.csv",
       "source_name": "G9U14W3Rev",
       "question_id": "2",
-      "question_text": "Is the graph of y = (1/3)^x increasing or decreasing?",
+      "question_text": "Select. Is the graph of y = (1/3)^x increasing or decreasing? ~~Increasing | Decreasing~~",
       "image_index": 1,
       "image_origin": "generated",
       "use_for_question": true
@@ -11865,7 +11865,7 @@
       "source_csv": "worksheets/Grade 9/G9Unit 14/G9U14W3Rev.csv",
       "source_name": "G9U14W3Rev",
       "question_id": "3",
-      "question_text": "Is the graph of y = 6^x increasing or decreasing?",
+      "question_text": "Select. Is the graph of y = 6^x increasing or decreasing? ~~Decreasing | Increasing~~",
       "image_index": 1,
       "image_origin": "generated",
       "use_for_question": true
@@ -11876,7 +11876,7 @@
       "source_csv": "worksheets/Grade 9/G9Unit 15/G9U15W1Rev.csv",
       "source_name": "G9U15W1Rev",
       "question_id": "1",
-      "question_text": "A figure is moved 5 units right without turning or flipping. What transformation is this?",
+      "question_text": "Select. A figure is moved 5 units right without turning or flipping. What transformation is this? ~~Reflection | Dilation | Translation | Rotation~~",
       "image_index": 1,
       "image_origin": "generated",
       "use_for_question": true
@@ -11887,7 +11887,7 @@
       "source_csv": "worksheets/Grade 9/G9Unit 15/G9U15W1Rev.csv",
       "source_name": "G9U15W1Rev",
       "question_id": "2",
-      "question_text": "A figure is turned 90 degrees about the origin. What transformation is this?",
+      "question_text": "Select. A figure is turned 90 degrees about the origin. What transformation is this? ~~Translation | Rotation | Reflection | Dilation~~",
       "image_index": 1,
       "image_origin": "generated",
       "use_for_question": true
@@ -11898,7 +11898,7 @@
       "source_csv": "worksheets/Grade 9/G9Unit 15/G9U15W1Rev.csv",
       "source_name": "G9U15W1Rev",
       "question_id": "3",
-      "question_text": "A figure is flipped across the y-axis. What transformation is this?",
+      "question_text": "Select. A figure is flipped across the y-axis. What transformation is this? ~~Dilation | Translation | Rotation | Reflection~~",
       "image_index": 1,
       "image_origin": "generated",
       "use_for_question": true
@@ -11909,7 +11909,7 @@
       "source_csv": "worksheets/Grade 9/G9Unit 15/G9U15W1Rev.csv",
       "source_name": "G9U15W1Rev",
       "question_id": "4",
-      "question_text": "Every point of a figure moves along its ray from the origin to twice its original distance. What transformation is this?",
+      "question_text": "Select. Every point of a figure moves along its ray from the origin to twice its original distance. What transformation is this? ~~Rotation | Reflection | Dilation | Translation~~",
       "image_index": 1,
       "image_origin": "generated",
       "use_for_question": true
@@ -11920,7 +11920,7 @@
       "source_csv": "worksheets/Grade 9/G9Unit 16/G9U16W2.csv",
       "source_name": "G9U16W2",
       "question_id": "6",
-      "question_text": "Two reflections across distinct parallel lines are equivalent to which type of transformation?",
+      "question_text": "Select. Two reflections across distinct parallel lines are equivalent to which type of transformation? ~~Rotation | Reflection | Dilation | Translation~~",
       "image_index": 1,
       "image_origin": "generated",
       "use_for_question": true
@@ -11931,7 +11931,7 @@
       "source_csv": "worksheets/Grade 9/G9Unit 16/G9U16W3.csv",
       "source_name": "G9U16W3",
       "question_id": "6",
-      "question_text": "Reflecting a figure over one line and then over a perpendicular intersecting line is equivalent to a rotation of how many degrees?",
+      "question_text": "Reflecting a figure over one line and then over a perpendicular intersecting line is equivalent to a rotation of how many degrees? Enter only the angle measure in degrees.",
       "image_index": 1,
       "image_origin": "generated",
       "use_for_question": true
@@ -11942,7 +11942,7 @@
       "source_csv": "worksheets/Grade 9/G9Unit 17/G9U17W2.csv",
       "source_name": "G9U17W2",
       "question_id": "5",
-      "question_text": "For triangles ABC and DEF, AB = DE, BC = EF, and angle B = angle E. Which criterion proves congruence?",
+      "question_text": "Select. For triangles ABC and DEF, AB = DE, BC = EF, and angle B = angle E. Which criterion proves congruence? ~~HL | SSS | SAS | ASA | AAS~~",
       "image_index": 1,
       "image_origin": "generated",
       "use_for_question": true
@@ -11953,7 +11953,7 @@
       "source_csv": "worksheets/Grade 9/G9Unit 17/G9U17W2.csv",
       "source_name": "G9U17W2",
       "question_id": "6",
-      "question_text": "For triangles ABC and DEF, angle A = angle D, angle B = angle E, and AB = DE. Which criterion proves congruence?",
+      "question_text": "Select. For triangles ABC and DEF, angle A = angle D, angle B = angle E, and AB = DE. Which criterion proves congruence? ~~SAS | ASA | AAS | HL | SSS~~",
       "image_index": 1,
       "image_origin": "generated",
       "use_for_question": true
