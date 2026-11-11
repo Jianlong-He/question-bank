@@ -71,13 +71,14 @@ Preserve capitalization and spaces exactly. School-grade unit names and numbers 
 
 ## CSV schema
 
-Use these seven core columns for new files, followed by media columns as needed:
+Use these seven core columns for new files, followed by media columns as needed. Regular school-grade and enrichment worksheet CSVs also include `Wrong Answers` immediately after `Question Answers`; homework (`HW`, including `HWa`/`HWb`) and revision (`Rev`) files omit this column:
 
 | Column | Content |
 |---|---|
 | `Question ID` | Unique numeric ID within the file; start new files at 1 |
 | `Question Choices` | Prompt, with inline options when applicable |
 | `Question Answers` | Answer letter, literal answer, or supported answer alternatives |
+| `Wrong Answers` | One plausible incorrect response for an input question, matching the correct response's format; blank for multiple-choice, yes/no, and true/false questions |
 | `Question Time` | Time in seconds |
 | `Hints Allowed` | `Y` or `N` |
 | `Hints` | Hint steps; blank when disabled |
