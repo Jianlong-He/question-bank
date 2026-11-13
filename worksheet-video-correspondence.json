@@ -361784,7 +361784,7 @@
           "requires_source_visual": false
         },
         "9": {
-          "question_text": "In a survey of 100 students, 18 are in both the music and sport categories. What is their joint relative frequency? Express your answer as a percentage. Enter only the number, without the percent sign.",
+          "question_text": "A total of 100 students were surveyed. Of these, 18 both take music lessons and play a sport. What percentage of all 100 students are in both categories? Enter only the number, without the percent sign.",
           "question_sha256": "ce44f1847ba2f4e1fe423762fad20e17056a84867e3a0270003a1808023fd0ad",
           "mapping_status": "reviewed",
           "video_links": [
