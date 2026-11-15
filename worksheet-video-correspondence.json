@@ -144597,7 +144597,7 @@
           "requires_source_visual": false
         },
         "7": {
-          "question_text": "For f(x)=-2 when x<3 and f(x)=5 when x>=3 what is the range?",
+          "question_text": "For f(x)=-2 when x<3 and f(x)=5 when x>=3, what are the two values in the range? Enter the smaller value in the first box and the larger value in the second box.",
           "question_sha256": "67417646cde5cfa69bfbe4c9d7ec6521b2334931df1230ec7183fbcac5158bdb",
           "mapping_status": "reviewed",
           "video_links": [
