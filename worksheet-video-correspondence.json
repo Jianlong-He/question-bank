@@ -215695,7 +215695,7 @@
           "requires_source_visual": false
         },
         "5": {
-          "question_text": "Select the one represents 8 groups of 2.    A) 8 + 2    B) 2 + 8    C) 8 x 2 ~~A | B | C~~",
+          "question_text": "Select the expression that represents 8 groups of 2.    A) 8 + 2    B) 2 + 8    C) 8 x 2 ~~A | B | C~~",
           "question_sha256": "c4b83ea510dbbea8b2028779ddb9e288d986252741e1235b20416d683cd560b9",
           "mapping_status": "reviewed",
           "video_links": [
